@@ -1,0 +1,19 @@
+.image-holder {
+    position: relative;
+}
+
+.icons {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center; /* Center the icons */
+    width: 100%;
+}
+
+.icons a {
+    display: inline-block;
+    margin: 0 5px; /* Adjust spacing between icons */
+    color: #000; /* Adjust icon color */
+    font-size: 24px; /* Adjust icon size */
+}

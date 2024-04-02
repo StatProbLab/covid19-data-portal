@@ -1,0 +1,76 @@
+<!-- footer.html -->
+<style>
+    /* styles.css */
+    .footer {
+        background-color: #212121; /* Dark background color */
+        color: #fff; /* Text color */
+        padding: 10px 0; /* Adjust padding as needed */
+        position:relative; /* Fixed position */
+        width: 100%; /* Full width */
+        bottom: 0; /* Align to bottom */
+        left: 0; /* Align to left */
+    }
+
+    .footer a, p {
+        color: #fff; /* Text color for links */
+        text-decoration: none; /* Remove underline from links */
+        font-size: large;
+    }
+
+    .footer a:hover {
+        color: #17b0b8; /* Text color for links on hover */
+    }
+
+    .footer .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer .left-section,
+    .footer .right-section {
+        flex: 1;
+        padding: 0 20px;
+    }
+
+    .footer .left-section h3,
+    .footer .right-section h3 {
+        color: #ffffff; /* Heading color */
+    }
+
+    .footer .social-icons a {
+        margin-right: 10px; /* Adjust spacing between icons */
+    }
+
+    .footer .social-icons i {
+        font-size: 24px;
+        color: #17b0b8; /* Social icons color */
+        
+    }
+
+    .social-icons{
+        margin-left: 45%;
+    }
+</style>
+
+<footer class="footer bg-dark">
+    <div class="container">
+        <div class="left-section">
+            <h3>About Us</h3>
+            <p>Created by: <a href="https://sites.google.com/view/paavan-m-parekh/home">Paavan Parekh</a></p>
+            <p>Mentored by: <a href="https://www.isibang.ac.in/~athreya/">Prof. Siva Athreya</a></p>
+        </div>
+        <div class="right-section">
+            <h3>Contact Us</h3>
+            <p>Email: <a href="mailto:example@example.com">example@example.com</a></p>
+        </div>
+    </div>
+    <div class="social-icons">
+        <a href="#"><i class="fab fa-github"></i></a>
+        <a href="#"><i class="fas fa-database"></i></a>
+        <a href="#"><i class="fas fa-file-alt"></i></a>
+        <a href="mailto:example@example.com"><i class="fas fa-envelope"></i></a>
+    </div>
+</footer>
+
+<!-- Include Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">

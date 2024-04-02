@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+ .container {
+    margin-top: 15px;
+    
+  }
+
+  .text-white{
+    color: #ffffff;
+    margin: 10%;
+  }
+
+  .jumbotron {
+    background-color: #17b0b8 !important;
+    padding: 1rem 2rem;
+    margin-bottom: 3rem;
+  }
+

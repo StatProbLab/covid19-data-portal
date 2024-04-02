@@ -1,0 +1,42 @@
+/* Custom styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    margin-top: 50px;
+    margin-bottom: 2%;
+    margin-left: 200px;
+
+  }
+  
+  .text-white{
+    color: #ffffff;
+    margin: 10%;
+  }
+
+  .jumbotron {
+    background-color: #17b0b8 !important;
+    padding: 1rem 2rem;
+    margin-bottom: 3rem;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+  }
+  
+  .card-title {
+    color: #343a40;
+  }
+
+  .card-link:hover .card {
+    box-shadow: 0 0 10px rgba(0,0,0,0.3); /* Add shadow on hover */
+  }
+  
+
+  .card-text{
+    color: #343a40;
+  }
+
