@@ -1,0 +1,96 @@
+body {
+    font-family: Arial,  sans-serif;
+  }
+.container {
+    margin-top: 5px;
+  }
+  .mt-5{
+    margin-top: 1rem !important;
+    margin-bottom: 30px;
+  }
+  .text-white{
+    color: #ffffff;
+    margin: 10%;
+  }
+
+  .jumbotron {
+    background-color: #17b0b8 !important;
+    padding: 1rem 2rem;
+    margin-bottom: 3rem;
+  }
+
+  .h3, h3{
+    font-size: 1.50rem;
+    
+  }
+  /* .card {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+  }
+  .card:hover {
+    border-color: #17b0b8;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .card-img {
+    flex: 1;
+    height: 50%;
+  }
+  .card-content {
+    flex: 2;
+    padding: 20px;
+    color: #17b0b8;
+  }
+  .card-content a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .card-content p{
+    color: rgba(0, 0, 0, 0.405);
+  } */
+
+
+  .icu-timeline {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+  }
+
+  .icu-timeline h3 {
+    color: #f9a91f;
+    font-size: 24px;
+  }
+
+  .icu-timeline p {
+    color: #495057;
+    font-size: 16px;
+  }
+
+  .row{
+    margin-bottom: 6%;
+  }
+
+  .fancy-heading {
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+  }
+  .fancy-heading img {
+    width: 80px; /* adjust as needed */
+    height: 80px; /* adjust as needed */
+    border-radius: 50%;
+    margin-right: 20px;
+    border: 3px solid #fff; /* optional: add a white border around the image */
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); /* optional: add a subtle shadow */
+  }
+  .fancy-heading h3 {
+    font-size: 1.75rem; /* adjust as needed */
+    color: #17b0b8; /* adjust as needed */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* optional: add a subtle text shadow */
+  }

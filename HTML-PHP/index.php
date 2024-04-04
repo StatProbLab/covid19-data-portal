@@ -37,7 +37,7 @@
       </a>
     </div>
     <div class="col-md-4">
-      <a href="karnataka_statistics.php" class="card-link">
+      <a href="pan_ka_statistics.php" class="card-link">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Karnataka Statistics</h5>
@@ -50,7 +50,7 @@
       <a href="modeling_and_simulation.html" class="card-link">
         <div class="card">
           <div class="card-body">
-            <h5 class="card-title">Modeling and Simulation</h5>
+            <h5 class="card-title">Predictions</h5>
             <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
           </div>
         </div>
@@ -62,7 +62,7 @@
       <a href="publications.html" class="card-link">
         <div class="card">
           <div class="card-body">
-            <h5 class="card-title">Publications</h5>
+            <h5 class="card-title">Publications & Preprints</h5>
             <p class="card-text">Explore our collection of COVID-19 related publications for reference.</p>
           </div>
         </div>
@@ -83,6 +83,26 @@
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Modeling and Simulation</h5>
+            <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-4">
+      <a href="data_repository.html" class="card-link">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Early Warning System (EWS)</h5>
+            <p class="card-text">Access our data repository for COVID-19 datasets used in our analysis.</p>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="col-md-4">
+      <a href="modeling_and_simulation.html" class="card-link">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">Other Data Sources</h5>
             <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
           </div>
         </div>

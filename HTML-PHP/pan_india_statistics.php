@@ -32,7 +32,7 @@
           <div class="col-md-6">
               <u><h3>Summary Statistics</h3></u>
               <div class="list-group" style="padding: 20px;">
-                  <a href="india_active_cases.php" class="list-group-item list-group-item-action">Statewide Active Cases</a>
+                  <a href="india_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
                   <a href="india_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
                   <a href="india_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <!-- Add more sections as needed -->
