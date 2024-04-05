@@ -30,6 +30,56 @@
     </div>
     
 
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Total Active Cases in Karnataka</h3>
+                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
+                </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnatka_active_cases.gif","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+   
+
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Increase in Cases in Karnataka</h3>
+                <p>(With Total)In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
+                If you want to see the graph without total cases click here: <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">gif</a> and <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">html</a></p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("ka_active_cases","ka_increase_in_cases_districtwise.gif","ka_increase_in_cases_districtwise.html","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+
+    <br>
+    <br>
+    <br>
+    
     <!-- Image holders -->
     <div class="row">
         <?php
@@ -40,7 +90,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("Karnataka_active_cases_districtwise","$i-kar-active.svg", "$i-kar-active.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("ka_active_cases","$i-kar-active.svg", "$i-kar-active.html","rcode$i.R", "csv$i.csv",400,500);
             echo '</div>';
         }
         ?>

@@ -33,6 +33,9 @@
               <u><h3>Summary Statistics</h3></u>
               <div class="list-group" style="padding: 20px;">
                   <a href="india_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
+                  <a href="india_infected_cases.php" class="list-group-item list-group-item-action">Infected Cases</a>
+                  <a href="india_daily_new_cases.php" class="list-group-item list-group-item-action">Daily New Cases</a>
+                  <a href="india_deceased_data.php" class="list-group-item list-group-item-action">Deceased Data</a>
                   <a href="india_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
                   <a href="india_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <!-- Add more sections as needed -->
@@ -42,7 +45,7 @@
           <div class="col-md-6">
               <div id="graphCanvas">
                   <!-- Graph will be displayed here -->
-                  <?php generateImageHolder("India_active_cases_statewise","india_active_cases.gif","india_active_cases.gif","rcode.R","test.csv",450,650)?>
+                  <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R","test.csv",450,650)?>
               </div>
           </div>
       </div>

@@ -30,6 +30,78 @@
     </div>
     
 
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Total Active Cases in India</h3>
+                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
+                </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+  <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Statewise Active Cases in India</h3>
+                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
+                </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("india_active_cases","india_active_cases_statewise.gif","india_active_cases_statewise.gif","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+      </div>
+        
+    </div>
+
+
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Statewise Increase in Cases</h3>
+                <p>(With Total). In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
+                If you want to see the graph without total cases click here: <a href="../Images/india_active_cases/india_increase_in_cases_statewise_wt.gif" target="_blank">gif</a> and <a href="../Images/india_active_cases/india_increase_in_cases_statewise_wt.html" target="_blank">html</a></p>  
+              </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("india_active_cases","india_increase_in_cases_stateswise.gif","india_increase_in_cases_stateswise.html","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>  
+      </div>
+        
+    </div>
+
+
+    
+  <br>
+  <br>
+  <br>
+  
+
+
     <!-- Image holders -->
     <div class="row">
         <?php
@@ -40,7 +112,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("India_active_cases_statewise","$i-india-active.svg", "$i-india-active.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("india_active_cases","$i-india-active.svg", "$i-india-active.html","rcode$i.R", "csv$i.csv",400,500);
             echo '</div>';
         }
         ?>

@@ -17,3 +17,20 @@ body {
     margin-bottom: 3rem;
   }
 
+  .icu-timeline {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+  }
+
+  .icu-timeline h3 {
+    color: #f9a91f;
+    font-size: 24px;
+  }
+
+  .icu-timeline p {
+    color: #495057;
+    font-size: 16px;
+  }

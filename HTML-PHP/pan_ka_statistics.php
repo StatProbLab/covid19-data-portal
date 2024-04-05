@@ -33,6 +33,8 @@
               <u><h3>Summary Statistics</h3></u>
               <div class="list-group" style="padding: 20px;">
                   <a href="ka_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
+                  <a href="ka_infected_cases.php" class="list-group-item list-group-item-action">Infected Cases</a>
+                  <a href="ka_deceased_data.php" class="list-group-item list-group-item-action">Deceased Data</a>
                   <a href="ka_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
                   <a href="ka_vac.php" class="list-group-item list-group-item-action">Vaccination Coverage</a>
                   <a href="ka_hosp_req.php" class="list-group-item list-group-item-action">Hospitalization Requirements</a>
@@ -44,7 +46,7 @@
           <div class="col-md-6">
               <div id="graphCanvas">
                   <!-- Graph will be displayed here -->
-                  <?php generateImageHolder("Karnataka_active_cases_districtwise","karnataka_active_cases.gif","karnataka_active_cases.gif","rcode.R","test.csv",450,650)?>
+                  <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnataka_active_cases.gif","rcode.R","test.csv",450,650)?>
               </div>
           </div>
       </div>

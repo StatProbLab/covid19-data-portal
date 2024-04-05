@@ -29,7 +29,7 @@
       </div>
     </div>
     <div class="fancy-heading">
-      <img src="../Images/Karnataka_hospitalization_requirements/icu.jpg" alt="Profile Picture">
+      <img src="../Images/ka_hospitalization_requirements/icu.jpg" alt="Profile Picture">
       <h3>Testing Data</h3>
     </div>
     <div class="container mt-5">
@@ -46,7 +46,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("Karnataka_hospitalization_requirements","lineplottest.svg","lineplottest.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","lineplottest.svg","lineplottest.html","rcode.R","test.csv",400,650)?>
             </div>
             </div>
         </div>
@@ -63,13 +63,13 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("Karnataka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R","test.csv",400,650)?>
             </div>
             </div>
         </div>
     </div>
     <div class="fancy-heading">
-      <img src="../Images/Karnataka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
+      <img src="../Images/ka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
       <h3>ICU Timeline</h3>
     </div>
     <div class="container mt-5">
@@ -89,7 +89,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("Karnataka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R","test.csv",450,700)?>
           </div>
         </div>
       </div>
