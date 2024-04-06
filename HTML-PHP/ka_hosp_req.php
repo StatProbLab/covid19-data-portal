@@ -105,7 +105,7 @@
            unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
             influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
           sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_icu_utilization_timeline.php">Click here to see the graphs for all districts.</a>
+          <a href="ka_icu_utilization_timeline.php" target="_blank">Click here to see the graphs for all districts.</a>
         </p>
       </div>
       </div>

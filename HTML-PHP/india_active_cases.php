@@ -94,29 +94,25 @@
         
     </div>
 
+  
+  <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-12 icu-timeline">
+        <h3>Active Cases-India States</h3>
+        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
+          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
+           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
+            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
+          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
+          <a href="india_active_cases_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        </p>
+      </div>
+      </div>
+  </div>
 
     
-  <br>
-  <br>
-  <br>
-  
-
-
-    <!-- Image holders -->
-    <div class="row">
-        <?php
-        // Generate image holders
-        for ($i = 1; $i <= 37; $i++) {
-            // Check if it's the first image holder of the row
-            if (($i - 1) % 2 == 0) {
-                echo '</div><div class="row">'; // Close the previous row and start a new one
-            }
-            echo '<div class="col-md-6">';
-            generateImageHolder("india_active_cases","$i-india-active.svg", "$i-india-active.html","rcode$i.R", "csv$i.csv",400,500);
-            echo '</div>';
-        }
-        ?>
-    </div>
   </div>
   <?php include 'footer.html'; ?>
   <!-- Bootstrap JS, Popper.js, and jQuery -->
