@@ -90,8 +90,89 @@
       </div>
       </div>
   </div>
-    <!-- Image holders -->
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-12 icu-timeline">
+        <h3>Log scale Infected Cases-Karnataka States</h3>
+        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
+          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
+           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
+            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
+          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
+          <a href="ka_infected_cases_log_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        </p>
+      </div>
+      </div>
   </div>
+  
+  <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Total Infected Cases in Karnataka</h3>
+                <p>It is important to understand how the virus affects different age groups in the population. 
+                  Towards this we present a graph of the age distributions for the COVID-19 patients in Karnataka
+                   with along with the distribution of the entire population of Karnataka [data taken from the 2011 census].
+                   The filled in orange color indicates the distribution of the coronavirus patients in Karnataka and the navy 
+                   outline represents the Age distribution of the entire population of Karnataka for reference. Out of all the cases, 
+                   three have unknown ages. Medical practitioners may be interested in knowing how the virus is affecting the people 
+                   across age groups, whether or not it is affecting different age groups differently.
+
+                   It is seen that the distribution of the coronavirus patients has a higher fraction of the patients among the range of 
+                   ages in 20-35 and not too many in the range 0-20, when compared to the demographic in Karnataka. A possible reason for
+                    this might be that imported cases, i.e. due to travel abroad, were due to travel of working professionals. The state 
+                    also took steps quite early on to lock down schools and universities to prevent the younger segment of the population to be affected.
+                     Those in the age group of 0-15 are primary or secondary contacts of those who have some sort of travel history to COVID-19 affected
+                    locations.
+                </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("ka_infocus","ageka-hist.png","ageka-hist.html","rcode.R","test.csv",600,550)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Distribution acrooss cities</h3>
+                <p>It is important to understand how the virus affects different age groups in the population. 
+                  Towards this we present a graph of the age distributions for the COVID-19 patients in Karnataka
+                   with along with the distribution of the entire population of Karnataka [data taken from the 2011 census].
+                   The filled in orange color indicates the distribution of the coronavirus patients in Karnataka and the navy 
+                   outline represents the Age distribution of the entire population of Karnataka for reference. Out of all the cases, 
+                   three have unknown ages. Medical practitioners may be interested in knowing how the virus is affecting the people 
+                   across age groups, whether or not it is affecting different age groups differently.
+                </p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("ka_infocus","ka-cities.png","ka-cities.html","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+
+  
+  
+    <!-- Image holders -->
+</div>
   <?php include 'footer.html'; ?>
   <!-- Bootstrap JS, Popper.js, and jQuery -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

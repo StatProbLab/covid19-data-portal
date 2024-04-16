@@ -28,10 +28,10 @@
         </div>
       </div>
     </div>
-    <div class="fancy-heading">
+    <!-- <div class="fancy-heading">
       <img src="../Images/ka_deceased_data/heart_rate.jpg" alt="Profile Picture">
       <h3>Fatality Rate</h3>
-    </div>
+    </div> -->
     <div class="container mt-5">
     <div class="row">
         <!-- Column for sections -->
@@ -67,10 +67,10 @@
             </div>
         </div>
     </div>
-    <div class="fancy-heading">
+    <!-- <div class="fancy-heading">
       <img src="../Images/ka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
       <h3>ICU Timeline</h3>
-    </div>
+    </div> -->
     <div class="container mt-5">
       <div class="row">
         <!-- Column for sections -->

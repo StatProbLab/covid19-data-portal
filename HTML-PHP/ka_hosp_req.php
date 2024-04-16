@@ -28,10 +28,35 @@
         </div>
       </div>
     </div>
-    <div class="fancy-heading">
+
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Total Tests Done</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_infocus","sample-test.svg","sample-test.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- <div class="fancy-heading">
       <img src="../Images/ka_hospitalization_requirements/icu.jpg" alt="Profile Picture">
       <h3>Testing Data</h3>
-    </div>
+    </div> -->
     <div class="container mt-5">
     <div class="row">
         <!-- Column for sections -->
@@ -68,10 +93,10 @@
             </div>
         </div>
     </div>
-    <div class="fancy-heading">
+    <!-- <div class="fancy-heading">
       <img src="../Images/ka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
       <h3>ICU Timeline</h3>
-    </div>
+    </div> -->
     <div class="container mt-5">
       <div class="row">
         <!-- Column for sections -->
@@ -110,6 +135,118 @@
       </div>
       </div>
     </div>
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Days taken to require ICU</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_infocus","days-toICU.png","days-toICU.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Days spent in ICU</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_infocus","days-inICU.png","days-inICU.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Days to recover</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_infocus","days-tocure.png","days-tocure.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Days from tested Positive to succumbed to the disease</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_infocus","days-todie.png","days-todie.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Days from tested Positive to succumbed to the disease</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <!-- <iframe src="../Images/ka_hospitalization_requirements/dticu-diicu.html" frameborder="0" height="450px" width="700px"></iframe> -->
+            <?php generateImageHolder("ka_infocus","dticu-diicu.png","dticu-diicu.html","rcode.R","test.csv",450,700)?>
+          </div>
+        </div>
+      </div>
+    </div>
+    
 </div>
 <?php include 'footer.html'; ?>
 

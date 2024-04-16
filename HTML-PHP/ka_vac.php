@@ -28,11 +28,32 @@
         </div>
       </div>
     </div>
-    <div class="fancy-heading">
+
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Vaccination - Dose 1 Vs Dose 2 Percentage</h3>
+                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("ka_vaccination_data","dose1VsDose2.png","dose1VsDose2.html","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- <div class="fancy-heading">
       <img src="../Images/ka_vaccination_data/vaccination.jpg" alt="Profile Picture">
       <h3>Vaccine Dose Statistics</h3>
     </div>
-    
+     -->
     <div class="container mt-5">
       <div class="row">
         <!-- Column for sections -->
@@ -49,6 +70,24 @@
       </div>
       </div>
     </div>
+
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-12 icu-timeline">
+        <h3>Dose 1, Dose2 and Precaution Dose Percentage</h3>
+        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
+          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
+           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
+            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
+          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
+          <a href="ka_dose12prec_data.php">Click here to see the graphs for all districts.</a>
+        </p>
+      </div>
+      </div>
+    </div>
+
 </div>
 <?php include 'footer.html'; ?>
 

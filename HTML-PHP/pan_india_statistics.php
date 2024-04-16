@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Pan India Statistics</title>
+  <title>India Statistics</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -19,7 +19,7 @@
     <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Pan India Statistics</h2>
+          <h2>India Statistics</h2>
           <p>State-wise Analysis on Active Cases, Reproduction Rate, Vaccination, and Early Warning System</p>
           <!-- Add your charts or data visualization here -->
         </div>
@@ -34,10 +34,11 @@
               <div class="list-group" style="padding: 20px;">
                   <a href="india_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
                   <a href="india_infected_cases.php" class="list-group-item list-group-item-action">Infected Cases</a>
-                  <a href="india_daily_new_cases.php" class="list-group-item list-group-item-action">Daily New Cases</a>
                   <a href="india_deceased_data.php" class="list-group-item list-group-item-action">Deceased Data</a>
                   <a href="india_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
                   <a href="india_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
+                  <a href="india_doubling_time.php" class="list-group-item list-group-item-action">Doubling Time</a>
+                  <a href="india_foe_growth.php" class="list-group-item list-group-item-action">Falling of Exponential</a>
                   <!-- Add more sections as needed -->
               </div>
           </div>

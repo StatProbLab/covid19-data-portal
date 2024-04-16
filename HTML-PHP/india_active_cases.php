@@ -70,7 +70,22 @@
       </div>
         
     </div>
-
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-12 icu-timeline">
+        <h3>Active Cases-India States</h3>
+        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
+          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
+           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
+            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
+          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
+          <a href="india_active_cases_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        </p>
+      </div>
+      </div>
+  </div>
 
     <div class="container mt-5">
     <div class="row">
@@ -94,23 +109,46 @@
         
     </div>
 
-  
-  <div class="container mt-5">
-      <div class="row">
+    <div class="container mt-5">
+    <div class="row">
         <!-- Column for sections -->
         
-      <div class="col-md-12 icu-timeline">
-        <h3>Active Cases-India States</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="india_active_cases_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
-        </p>
-      </div>
-      </div>
-  </div>
+            <div class="col-md-6 icu-timeline">
+                <h3>Daily New Cases</h3>
+                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+            </div>
+    
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("india_daily_new_cases","india_daily_new.gif","india_daily_new.gif","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <div class="container mt-5">
+    <div class="row">
+        <!-- Column for sections -->
+        
+            <div class="col-md-6 icu-timeline">
+                <h3>Daily Increase in Cases</h3>
+                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+            </div>
+            
+         <!-- Column for graph -->
+            <div class="col-md-6">
+            <div id="graphCanvas">
+                <!-- Graph will be displayed here -->
+                <?php generateImageHolder("india_daily_increase_cases","der-timeline.png","der-timeline.html","rcode.R","test.csv",400,650)?>
+            </div>
+            </div>
+        </div>
+        
+    </div>
+  
 
     
   </div>

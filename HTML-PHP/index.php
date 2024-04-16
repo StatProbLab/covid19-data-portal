@@ -16,7 +16,7 @@
 <?php include 'navbar.html'; ?>
 <div class="container">
   <div class="jumbotron bg-info text-white">
-    <h1>Step into our COVID-19 Data Hub! </h1>
+    <h1>Step into our COVID-19 Data Portal! </h1>
     <p>Explore detailed insights on COVID-19 stats, with a spotlight on India and a closer look at Karnataka.</p>
     <p>Our main goal is to understand the spread of infections in different states of India and districts within Karnataka. 
       At the state level, we offer real-time monitoring of R<sub>t</sub>, Active Cases, and deploy an Early Warning System (EWS) for each 
@@ -30,7 +30,7 @@
       <a href="pan_india_statistics.php" class="card-link">
         <div class="card">
           <div class="card-body">
-            <h5 class="card-title">Pan-India Statistics</h5>
+            <h5 class="card-title">India Statistics</h5>
             <p class="card-text">State-wise Analysis on Active Cases, Reproduction Rate, Vaccination, and EWS</p>
           </div>
         </div>
@@ -78,16 +78,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-4">
-      <a href="modeling_and_simulation.html" class="card-link">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">Modeling and Simulation</h5>
-            <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
-          </div>
-        </div>
-      </a>
-    </div>
+    
     <div class="col-md-4">
       <a href="data_repository.html" class="card-link">
         <div class="card">
@@ -98,16 +89,7 @@
         </div>
       </a>
     </div>
-    <div class="col-md-4">
-      <a href="modeling_and_simulation.html" class="card-link">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">Other Data Sources</h5>
-            <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
-          </div>
-        </div>
-      </a>
-    </div>
+    
   </div>
 
 </div>

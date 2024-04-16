@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+    <link rel="stylesheet" href="../../css/readme_template.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Name of the CSV File</h2>
+        <p>consolidated_hospitalization_data.csv</p>
+
+        <h2>Basic Description</h2>
+        <p>This csv file contains the total counts of active, recovered, discharged, deceased and ICU patients.</p>
+
+        <h2>Data Duration</h2>        
+        <p>09-03-20 to 09-02-22</p>
+
+        <h2>List of Column Names with Meanings</h2>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Column Name</th>
+                    <th>Meaning</th>
+                </tr>
+            </thead>
+            <tbody>
+                
+                <tr>
+                    <td>Date</td>
+                    <td>Date starting from 09-03-2020 to 09-02-2022.</td>
+                </tr>
+                <tr>
+                    <td>Total Active(without ICU, ICUV, ICVO)</td>
+                    <td>The number of patients that are hospitalized on the given date, but do not require ICU, ICUV or ICUO.</td>
+                </tr>
+                <tr>
+                    <td>Total discharged</td>
+                    <td>The total number of patients discharged till the corresponding date.</td>
+                </tr>
+                <tr>
+                    <td>Total deceased</td>
+                    <td>The total number of deceased patients till the corresponding date.</td>
+                </tr>
+                <tr>
+                    <td>Total ICU</td>
+                    <td>The count of patients in ICU (intensive care unit), ICUV (ICU and ventilator) or ICUO (ICU and oxygen) on the given date.</td>
+                </tr>
+                
+                
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #0b60ce;
+        }
+        th {
+            background-color: #0b60ce;
+            color: #fff;
+        }
+        .table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .table th, .table td {
+            border: 1px solid #000000;
+            padding: 8px;
+            text-align: left;
+        }
+        .table th {
+            background-color: #0b60ce;
+            color: #fff;
+        }
+   

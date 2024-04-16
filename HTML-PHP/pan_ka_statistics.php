@@ -30,23 +30,28 @@
       <div class="row">
           <!-- Column for sections -->
           <div class="col-md-6">
-              <u><h3>Summary Statistics</h3></u>
+              
               <div class="list-group" style="padding: 20px;">
                   <a href="ka_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
                   <a href="ka_infected_cases.php" class="list-group-item list-group-item-action">Infected Cases</a>
                   <a href="ka_deceased_data.php" class="list-group-item list-group-item-action">Deceased Data</a>
                   <a href="ka_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
+                  <a href="ka_cluster_tlinf.php" class="list-group-item list-group-item-action">Cluster Timeline and Information</a>
                   <a href="ka_vac.php" class="list-group-item list-group-item-action">Vaccination Coverage</a>
-                  <a href="ka_hosp_req.php" class="list-group-item list-group-item-action">Hospitalization Requirements</a>
-                  <a href="ka_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <!-- Add more sections as needed -->
               </div>
           </div>
           <!-- Column for graph -->
           <div class="col-md-6">
-              <div id="graphCanvas">
-                  <!-- Graph will be displayed here -->
-                  <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnataka_active_cases.gif","rcode.R","test.csv",450,650)?>
+          
+              <div class="list-group" style="padding: 20px;">
+                  
+                  <a href="ka_hosp_req.php" class="list-group-item list-group-item-action">Hospitalization Requirements</a>
+                  <a href="ka_tracehist.php" class="list-group-item list-group-item-action">Trace History</a>
+                  <a href="ka_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
+                  <a href="ka_doubling_time.php" class="list-group-item list-group-item-action">Doubling Time</a>
+                  <a href="ka_foe_growth.php" class="list-group-item list-group-item-action">Fall of Exponential</a>
+                  <!-- Add more sections as needed -->
               </div>
           </div>
       </div>
