@@ -154,7 +154,7 @@ for(i in 1:30){
   name = paste(i,"predinf.html", sep = "-")
   name2 = paste0("/opt/lampp/htdocs/covid19-data-portal/Data/Output/plotlyfigures/",i,"-predinf.svg")
   kaleido(district1(i),name2)
-  path <- file.path('/opt/lampp/htdocs/covid19-data-portal/Data/Output/', "plotlyfigures", name)
+  path <- file.path('/opt/lampp/htdocs/covid19-data-portal/Data/Output', "plotlyfigures", name)
   htmlwidgets::saveWidget(district1(i), file=path, selfcontained = FALSE, libdir = "plotly.html")
   #i = i + 1
   
