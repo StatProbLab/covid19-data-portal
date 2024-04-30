@@ -153,7 +153,7 @@ for(i in 1:30){
   print(i)
   name = paste(i,"predinf.html", sep = "-")
   name2 = paste0("/opt/lampp/htdocs/covid19-data-portal/Data/Output/plotlyfigures/",i,"-predinf.svg")
-  kaleido(district1(i),name2)
+  save_image(district1(i),name2)
   path <- file.path('/opt/lampp/htdocs/covid19-data-portal/Data/Output', "plotlyfigures", name)
   htmlwidgets::saveWidget(district1(i), file=path, selfcontained = FALSE, libdir = "plotly.html")
   #i = i + 1
@@ -252,7 +252,7 @@ for(i in 1:30){
   #i = 1
   name = paste(i,"predlin.html", sep="-")
   name2=paste0("/opt/lampp/htdocs/covid19-data-portal/Data/Output/plotlyfigures/",i,"-predlin.svg")
-  kaleido(district3(i),name2)
+  save_image(district3(i),name2)
   path <- file.path('/opt/lampp/htdocs/covid19-data-portal/Data/Output/', "plotlyfigures", name)
   htmlwidgets::saveWidget(district3(i), file=path, selfcontained = FALSE, libdir = "plotly.html")
   #i = i + 1
@@ -335,7 +335,7 @@ for(i in 1:30){
   #i = 1
   name = paste(i,"errband.html", sep="-")
   name2=paste0("/opt/lampp/htdocs/covid19-data-portal/Data/Output/plotlyfigures/",i,"-errband.svg")
-  kaleido(errband(i),name2)
+  save_image(errband(i),name2)
   path <- file.path('/opt/lampp/htdocs/covid19-data-portal/Data/Output/', "plotlyfigures", name)
   htmlwidgets::saveWidget(errband(i), file=path, selfcontained = FALSE, libdir = "plotly.html")
   #i = i + 1

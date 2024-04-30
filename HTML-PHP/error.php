@@ -19,7 +19,7 @@
   <div class="container">
    <div class="container mt-5">
       <div class="row">
-        <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
+        <div class="col-md-16 mx-auto text-center jumbotron bg-info text-white">
           <h2>Predictions: Error Bands for IISC-ISI FIT 1 and 2</h2>
           <p>Dive deeper into the uncertainty surrounding COVID-19 predictions for Karnataka's districts with our error 
             band graphs. These visualizations provide valuable insights into the range of possible infection rates over 
@@ -33,19 +33,36 @@
         </div>
       </div>
     </div>
+
+
+    <div class="container mt-5 mx-auto" style="width: fit-content;">
+      <div class="row">
+          <!-- Column for sections -->
+          <div class="col-md-14" style="margin: 0 auto; text-align: center;">
+              <u><h3>Predictions for Various Models</h3></u>
+              <div class="list-group" style="padding: 20px;">
+                  <a href="linear_predictions.php" class="list-group-item list-group-item-action">Weekly-Linear Scale</a>
+                  <a href="error.php" class="list-group-item list-group-item-action">Error-Band</a>
+                  <!-- Add more sections as needed -->
+                  <br><br><br>
+              </div>
+          </div>
+      </div>
+  
+    </div>
     
 
     <!-- Image holders -->
     <div class="row">
         <?php
         // Generate image holders
-        for ($i = 1; $i <= 37; $i++) {
+        for ($i = 1; $i <= 30; $i++) {
             // Check if it's the first image holder of the row
             if (($i - 1) % 2 == 0) {
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("India_active_cases_statewise","$i-india-active.svg", "$i-india-active.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("Prediction_Error","$i-errband.svg", "$i-errband.html","rcode$i.R", "csv$i.csv",400,500);
             echo '</div>';
         }
         ?>
