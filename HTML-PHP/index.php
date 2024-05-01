@@ -15,7 +15,7 @@
 
 <?php include 'navbar.html'; ?>
 <div class="container">
-  <div class="jumbotron bg-info text-white">
+  <div class="mx-auto text-center jumbotron bg-info text-white">
     <h1>Step into our COVID-19 Data Portal! </h1>
     <p>Explore detailed insights on COVID-19 stats, with a spotlight on India and a closer look at Karnataka.</p>
     <p>Our main goal is to understand the spread of infections in different states of India and districts within Karnataka. 
@@ -51,7 +51,7 @@
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Predictions</h5>
-            <p class="card-text">We use SIR based models to predict the infection counts for the districts of Karnataka</p>
+            <p class="card-text">SIR based models to predict the infection counts for the districts of Karnataka</p>
           </div>
         </div>
       </a>
