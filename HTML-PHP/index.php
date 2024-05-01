@@ -47,11 +47,11 @@
       </a>
     </div>
     <div class="col-md-4">
-      <a href="modeling_and_simulation.html" class="card-link">
+      <a href="predictions.php" class="card-link">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Predictions</h5>
-            <p class="card-text">Learn about our modeling and simulation efforts for COVID-19 prediction.</p>
+            <p class="card-text">We use SIR based models to predict the infection counts for the districts of Karnataka</p>
           </div>
         </div>
       </a>
