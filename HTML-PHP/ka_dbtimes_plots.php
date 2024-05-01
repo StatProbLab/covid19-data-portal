@@ -29,7 +29,6 @@
       </div>
     </div>
     
-
     <!-- Image holders -->
     <div class="row">
         <?php
@@ -40,7 +39,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("ka_db_time","$i-dt.svg", "$i-dt.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("ka_db_time","$i-dt.svg", "$i-dt.html","ka_districtwise_doubling_time.R",2,[1],400,500);
             echo '</div>';
         }
         ?>

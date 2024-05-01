@@ -44,7 +44,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","india_active_cases.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_active_cases","india_active_cases_statewise.gif","india_active_cases_statewise.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_active_cases","india_active_cases_statewise.gif","india_active_cases_statewise.gif","india_statewise_active_cases.R",1,[1],400,650)?>
             </div>
             </div>
       </div>
@@ -94,7 +94,7 @@
             <div class="col-md-6 icu-timeline">
                 <h3>Statewise Increase in Cases</h3>
                 <p>(With Total). In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                If you want to see the graph without total cases click here: <a href="../Images/india_active_cases/india_increase_in_cases_statewise_wt.gif" target="_blank">gif</a> and <a href="../Images/india_active_cases/india_increase_in_cases_statewise_wt.html" target="_blank">html</a></p>  
+                If you want to see the graph without total cases click here: <a href="../Images/india_active_cases/india_increase_in_cases_stateswise_wt.gif" target="_blank">gif</a> and <a href="../Images/india_active_cases/india_increase_in_cases_stateswise_wt.html" target="_blank">html</a></p>  
               </p>
             </div>
     
@@ -102,7 +102,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_active_cases","india_increase_in_cases_stateswise.gif","india_increase_in_cases_stateswise.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_active_cases","india_increase_in_cases_stateswise.gif","india_increase_in_cases_stateswise.html","india_statewise_increased_cases.R",1,[1],400,650)?>
             </div>
             </div>  
       </div>
@@ -122,7 +122,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_daily_new_cases","india_daily_new.gif","india_daily_new.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_daily_new_cases","india_daily_new.gif","india_daily_new.gif","india_dailynew_cases.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -142,7 +142,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_daily_increase_cases","der-timeline.png","der-timeline.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_daily_increase_cases","der-timeline.png","der-timeline.html","india_dailynew_cases2.R",1,[1],400,650)?>
             </div>
             </div>
         </div>

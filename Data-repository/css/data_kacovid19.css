@@ -49,3 +49,7 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.highlight {
+    background-color: yellow; /* Change as desired */
+  }

@@ -46,11 +46,58 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","sample-test.svg","sample-test.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","sample-test.svg","sample-test.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
-    </div>
+    </div> 
+    
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Total Test Samples Collected</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_hospitalization_requirements","total_Sample.png","total_Sample.html","rcode.R",1,[1],450,700)?>
+          </div>
+        </div>
+      </div>
+    </div> 
+
+    <div class="container mt-5">
+      <div class="row">
+        <!-- Column for sections -->
+        
+      <div class="col-md-6 icu-timeline">
+        <h3>Daily Positive Rate</h3>
+        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
+          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        </p>
+      </div>
+    
+        <!-- Column for graph -->
+        <div class="col-md-6">
+          <div id="graphCanvas">
+            <!-- Graph will be displayed here -->
+            <?php generateImageHolder("ka_hospitalization_requirements","ratio_positive.png","ratio_positive.html","rcode.R",1,[1],450,700)?>
+          </div>
+        </div>
+      </div>
+    </div> 
+
 
 
     <!-- <div class="fancy-heading">
@@ -71,7 +118,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","lineplottest.svg","lineplottest.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","lineplottest.svg","lineplottest.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -88,7 +135,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -114,7 +161,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
@@ -152,7 +199,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-toICU.png","days-toICU.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","days-toICU.png","days-toICU.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
@@ -174,7 +221,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-inICU.png","days-inICU.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","days-inICU.png","days-inICU.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
@@ -196,7 +243,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-tocure.png","days-tocure.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","days-tocure.png","days-tocure.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
@@ -218,7 +265,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-todie.png","days-todie.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","days-todie.png","days-todie.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>
@@ -241,7 +288,7 @@
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
             <!-- <iframe src="../Images/ka_hospitalization_requirements/dticu-diicu.html" frameborder="0" height="450px" width="700px"></iframe> -->
-            <?php generateImageHolder("ka_infocus","dticu-diicu.png","dticu-diicu.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_infocus","dticu-diicu.png","dticu-diicu.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>

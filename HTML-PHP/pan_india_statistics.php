@@ -46,7 +46,7 @@
           <div class="col-md-6">
               <div id="graphCanvas">
                   <!-- Graph will be displayed here -->
-                  <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R","test.csv",450,650)?>
+                  <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R",1,[1],450,650)?>
               </div>
           </div>
       </div>

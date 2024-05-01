@@ -45,7 +45,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_deceased_data","ka_deceased_ratio.gif","ka_deceased_ratio.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_deceased_data","ka_deceased_ratio.gif","ka_deceased_ratio.gif","ka_decbyinf.R",2,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -62,7 +62,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R","test.csv",450,700)?>
+            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,700)?>
           </div>
         </div>
       </div>

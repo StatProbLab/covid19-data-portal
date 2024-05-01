@@ -42,7 +42,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_vaccination_data","dose1VsDose2.png","dose1VsDose2.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_vaccination_data","dose1VsDose2.png","dose1VsDose2.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
            unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
             influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
           sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_dose1_data.php">Click here to see the graphs for all districts.</a>
+          <a href="ka_dose1_data.php" target="_blank">Click here to see the graphs for all districts.</a>
         </p>
       </div>
       </div>
@@ -82,7 +82,7 @@
            unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
             influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
           sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_dose12prec_data.php">Click here to see the graphs for all districts.</a>
+          <a href="ka_dose12prec_data.php" target="_blank">Click here to see the graphs for all districts.</a>
         </p>
       </div>
       </div>

@@ -40,7 +40,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("india_infected_cases","$i-log.svg", "$i-log.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("india_infected_cases","$i-log.svg", "$i-log.html","india_statewise_infected_cases_logscale.R",1,[1],400,500);
             echo '</div>';
         }
         ?>

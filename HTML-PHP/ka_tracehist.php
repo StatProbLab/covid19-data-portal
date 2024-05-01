@@ -42,7 +42,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","traceka.png","traceka.png","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_infocus","traceka.png","traceka.png","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-child.svg","ka-child.html","rcode.R","test.csv",400,450)?>
+                <?php generateImageHolder("ka_infocus","ka-child.svg","ka-child.html","rcode.R",1,[1],400,450)?>
             </div>
             </div>
     
@@ -82,7 +82,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-childa.svg","ka-childa.html","rcode.R","test.csv",400,450)?>
+                <?php generateImageHolder("ka_infocus","ka-childa.svg","ka-childa.html","rcode.R",1,[1],400,450)?>
             </div>
             </div>
         </div>

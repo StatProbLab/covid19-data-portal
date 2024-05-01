@@ -46,7 +46,8 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_infected_cases","india_infected.gif","india_infected.gif","rcode.R","test.csv",400,650)?>
+                <?php 
+                generateImageHolder("india_infected_cases","india_infected.gif","india_infected.gif","india_infected_cases.R",1,[1,6],400,650)?>
             </div>
             </div>
         </div>
@@ -67,7 +68,9 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("india_infected_cases","allindia-log.svg","allindia-log.html","rcode.R","test.csv",400,650)?>
+                <?php  
+                      generateImageHolder("india_infected_cases","allindia-log.svg","allindia-log.html","india_infected_cases_log_scale.R",1,[1],400,650)
+                ?>
             </div>
             </div>
         </div>

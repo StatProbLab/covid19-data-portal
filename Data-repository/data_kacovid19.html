@@ -22,6 +22,12 @@
             </thead>
             <tbody>
                 <tr>
+                    <td>Total Infected, Recovered and Deceased Cases in India (New Format)</td>
+                    <td><a href="../Data-repository/data_repository/India/IRDD_allindia.csv" >Download CSV</a></td>
+                    <td> Numbers starting from 10-03-2020 |  
+                        <a href="../Data-repository/data_repository/India/IRDD_allindia.html" target="_blank">View Readme</a></td>
+                </tr>
+                <tr>
                     <td>Active cases</td>
                     <td><a href="data_repository/India/indiaactive.csv" >Download CSV</a></td>
                     <td> Infected patients starting from 10-03-2020 |  
@@ -119,6 +125,12 @@
             </thead>
             <tbody>
                 <tr>
+                    <td>Total Infected, Recovered and Deceased Cases in Karnataka (New Format)</td>
+                    <td><a href="../Data-repository/data_repository/Karnataka/IRDD_allka.csv" >Download CSV</a></td>
+                    <td> Numbers starting from 10-03-2020 |  
+                        <a href="../Data-repository/data_repository/India/IRDD_allka.html" target="_blank">View Readme</a></td>
+                </tr>
+                <tr>
                     <td>Active cases</td>
                      
                     <td><a href="data_repository/Karnataka/kadistactive.csv" >Download CSV</a></td>
@@ -135,9 +147,9 @@
                 <tr>
                     <td>Infected, recovered, and deceased patients</td>
                      
-                    <td><a href="data_repositoryKarnataka/cases_time_series.csv" >Download CSV</a></td>
+                    <td><a href="data_repository/Karnataka/cases_time_series.csv" >Download CSV</a></td>
                     <td> Infected, recovered, and deceased patients starting from 22-03-2020 | 
-                        <a href="data_repositoryKarnataka/cases_time_series.html" target="_blank">View Readme</a></td>
+                        <a href="data_repository/Karnataka/cases_time_series.html" target="_blank">View Readme</a></td>
                 </tr>
                 <tr>
                     <td>Infected cases</td>
@@ -329,13 +341,16 @@
             // Convert the string of comma-separated indices into an array of integers
             var rowIndices = rowIndicesParam.split(',').map(Number);
             // Highlight each row specified in the rowIndices array
-            var table = document.querySelectorAll('.table')[parseInt(tableNumber) - 1]; // Subtract 1 because array indices start from 0
-            rowIndices.forEach(function(rowIndex) {
-                var rowToHighlight = table.rows[rowIndex];
-                rowToHighlight.classList.add('highlighted');
-            });
+            var table = document.getElementsByTagName("table")[parseInt(tableNumber) - 1]; // Subtract 1 because array indices start from 0
+            
+            for(i=0;i<rowIndices.length;i++){
+                rowIndex = rowIndices[i]
+                tr = table.rows[rowIndex]
+                tr.classList.add('highlight')
+            }
+
         }
-        </script>
+    </script>
 
 </body>
 </html>

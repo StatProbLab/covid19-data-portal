@@ -46,7 +46,7 @@
                             <div id="graphCanvas">
                                 <!-- Graph will be displayed here -->
                                 <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                                <?php generateImageHolder("india_db_time","allindia-timeline.png","allindia-timeline.html","rcode.R","test.csv",400,650)?>
+                                <?php generateImageHolder("india_db_time","allindia-timeline.png","allindia-timeline.html","rcode.R",1,[1],400,650)?>
                             </div>
                         </div>
                     </div>
@@ -71,7 +71,7 @@
                             <div id="graphCanvas">
                                 <!-- Graph will be displayed here -->
                                 <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                                <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R","test.csv",400,650)?>
+                                <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R",1,[1],400,650)?>
                             </div>
                         </div>
                     </div>

@@ -69,7 +69,7 @@
       </a>
     </div>
     <div class="col-md-4">
-      <a href="data_repository.html" class="card-link">
+      <a href="../Data-repository/data_kacovid19.html" class="card-link">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Data Repository</h5>

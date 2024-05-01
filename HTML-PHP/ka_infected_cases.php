@@ -43,7 +43,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infected_cases","ka_infected.gif","ka_infected.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_infected_cases","ka_infected.gif","ka_infected.gif","ka_infected_cases.R",2,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -64,7 +64,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infected_cases","ka-all.svg","ka-all.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_infected_cases","ka-all.svg","ka-all.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -134,7 +134,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ageka-hist.png","ageka-hist.html","rcode.R","test.csv",600,550)?>
+                <?php generateImageHolder("ka_infocus","ageka-hist.png","ageka-hist.html","rcode.R",1,[1],600,550)?>
             </div>
             </div>
         </div>
@@ -162,7 +162,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-cities.png","ka-cities.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_infocus","ka-cities.png","ka-cities.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>

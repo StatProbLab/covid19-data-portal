@@ -45,7 +45,7 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <iframe src="../Images/ka_infocus/dynamic-hist.html" frameborder="0" height="450px" width="700px"></iframe>
-                <!-- <?php generateImageHolder("ka_infocus","dynamic-hist.svg","dynamic-hist.html","rcode.R","test.csv",400,650)?> -->
+                <!-- <?php generateImageHolder("ka_infocus","dynamic-hist.svg","dynamic-hist.html","rcode.R",1,[1],400,650)?> -->
             </div>
             </div>
      </div>
@@ -67,7 +67,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-hist1.svg","ka-hist1.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_infocus","ka-hist1.svg","ka-hist1.html","rcode.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-histMah.svg","ka-histMah.html","rcode.R","test.csv",510,650)?>
+                <?php generateImageHolder("ka_infocus","ka-histMah.svg","ka-histMah.html","rcode.R",1,[1],510,650)?>
             </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","infdedrec-clusters1.svg","infdedrec-clusters1.html","rcode.R","test.csv",510,650)?>
+                <?php generateImageHolder("ka_infocus","infdedrec-clusters1.svg","infdedrec-clusters1.html","rcode.R",1,[1],510,650)?>
             </div>
             </div>
         </div>
@@ -129,7 +129,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","infdedrec-clustersMah.svg","infdedrec-clustersMah.html","rcode.R","test.csv",510,650)?>
+                <?php generateImageHolder("ka_infocus","infdedrec-clustersMah.svg","infdedrec-clustersMah.html","rcode.R",1,[1],510,650)?>
             </div>
             </div>
         </div>
@@ -149,7 +149,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","age-dtc.png","age-dtc.html","rcode.R","test.csv",510,650)?>
+                <?php generateImageHolder("ka_infocus","age-dtc.png","age-dtc.html","rcode.R",1,[1],510,650)?>
             </div>
             </div>
         </div>
@@ -169,7 +169,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","age-dtd.png","age-dtd.html","rcode.R","test.csv",510,650)?>
+                <?php generateImageHolder("ka_infocus","age-dtd.png","age-dtd.html","rcode.R",1,[1],510,650)?>
             </div>
             </div>
         </div>

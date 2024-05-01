@@ -40,7 +40,8 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("ka_foe","$i-agdist.png", "$i-agdist.html","rcode$i.R", "csv$i.csv",750,650);
+            generateImageHolder("ka_foe","$i-agdist.png", "$i-agdist.html","rcode$i.R",2,[1],450,550);
+            echo '<br><br><br><br><br><br>';
             echo '</div>';
             
         }

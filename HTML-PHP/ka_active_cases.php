@@ -44,7 +44,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnatka_active_cases.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnatka_active_cases.gif","ka_active_cases.R",2,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -82,7 +82,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_active_cases","ka_increase_in_cases_districtwise.gif","ka_increase_in_cases_districtwise.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_active_cases","ka_increase_in_cases_districtwise.gif","ka_increase_in_cases_districtwise.html","ka_districtwise_increased_cases.R",2,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -103,7 +103,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_daily_new_cases","ka_daily_new.gif","ka_daily_new.gif","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("ka_daily_new_cases","ka_daily_new.gif","ka_daily_new.gif","ka_dailynew_cases.R",2,[1],400,650)?>
             </div>
             </div>
         </div>

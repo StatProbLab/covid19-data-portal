@@ -34,13 +34,13 @@
     <div class="row">
         <?php
         // Generate image holders
-        for ($i = 1; $i <= 30; $i++) {
+        for ($i = 1; $i <= 36; $i++) {
             // Check if it's the first image holder of the row
             if (($i - 1) % 2 == 0) {
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("india_infected_cases","sirdg-$i.png", "$i-sirdg.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("india_infected_cases","Sirdg ($i).png", "$i-sirdg.html","india_statewise_ird_cases.R.R",1,[1],400,500);
             echo '</div>';
         }
         ?>

@@ -44,7 +44,7 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                <?php generateImageHolder("india_db_time","allindia-timeline.png","allindia-timeline.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_db_time","allindia-timeline.png","allindia-timeline.html","allindia_infected_growth_timeline_logscale.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -69,7 +69,7 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R","test.csv",400,650)?>
+                <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","india_doubling_time.R",1,[1],400,650)?>
             </div>
             </div>
         </div>
@@ -109,13 +109,13 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <iframe src="../Images/india_db_time/20-dl.html" frameborder="0" height="400px" width=650px></iframe>
-                <!-- <?php generateImageHolder("india_db_time","20-dl.png","allindia-dt.html","rcode.R","test.csv",400,650)?> -->
+                <!-- <?php generateImageHolder("india_db_time","20-dl.png","allindia-dt.html","rcode.R",1,[1],400,650)?> -->
             </div>
             </div>
         </div>
         
     </div>
-
+      
     <div class="container mt-5">
     <div class="row">
         <!-- Column for sections -->
@@ -131,7 +131,7 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <iframe src="../Images/india_db_time/17-dl.html" frameborder="0" height="400px" width=650px></iframe>
-                <!-- <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R","test.csv",400,650)?> -->
+                <!-- <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R",1,[1],400,650)?> -->
             </div>
             </div>
         </div>
