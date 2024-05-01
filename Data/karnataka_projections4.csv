@@ -1,0 +1,6384 @@
+Predicted-Infected,District,Date
+36.545,Bagalakote,2020-04-18
+38.6613,Bagalakote,2020-04-19
+40.839,Bagalakote,2020-04-20
+43.0824,Bagalakote,2020-04-21
+45.3954,Bagalakote,2020-04-22
+47.7813,Bagalakote,2020-04-23
+50.2433,Bagalakote,2020-04-24
+52.7841,Bagalakote,2020-04-25
+55.4067,Bagalakote,2020-04-26
+58.1139,Bagalakote,2020-04-27
+60.9086,Bagalakote,2020-04-28
+63.7938,Bagalakote,2020-04-29
+66.7724,Bagalakote,2020-04-30
+69.8474,Bagalakote,2020-05-01
+73.0221,Bagalakote,2020-05-02
+76.2997,Bagalakote,2020-05-03
+79.6835,Bagalakote,2020-05-04
+83.177,Bagalakote,2020-05-05
+86.7837,Bagalakote,2020-05-06
+89.9048,Bagalakote,2020-05-07
+92.1982,Bagalakote,2020-05-08
+93.9365,Bagalakote,2020-05-09
+95.2995,Bagalakote,2020-05-10
+96.406,Bagalakote,2020-05-11
+97.3347,Bagalakote,2020-05-12
+98.1377,Bagalakote,2020-05-13
+98.8497,Bagalakote,2020-05-14
+99.4939,Bagalakote,2020-05-15
+100.086,Bagalakote,2020-05-16
+100.636,Bagalakote,2020-05-17
+101.153,Bagalakote,2020-05-18
+101.64,Bagalakote,2020-05-19
+102.101,Bagalakote,2020-05-20
+102.54,Bagalakote,2020-05-21
+102.958,Bagalakote,2020-05-22
+103.356,Bagalakote,2020-05-23
+103.737,Bagalakote,2020-05-24
+104.1,Bagalakote,2020-05-25
+104.448,Bagalakote,2020-05-26
+104.78,Bagalakote,2020-05-27
+105.098,Bagalakote,2020-05-28
+105.403,Bagalakote,2020-05-29
+105.694,Bagalakote,2020-05-30
+105.972,Bagalakote,2020-05-31
+106.239,Bagalakote,2020-06-01
+106.494,Bagalakote,2020-06-02
+106.738,Bagalakote,2020-06-03
+107.287,Bagalakote,2020-06-04
+108.345,Bagalakote,2020-06-05
+109.804,Bagalakote,2020-06-06
+111.597,Bagalakote,2020-06-07
+113.687,Bagalakote,2020-06-08
+116.057,Bagalakote,2020-06-09
+118.704,Bagalakote,2020-06-10
+121.634,Bagalakote,2020-06-11
+124.86,Bagalakote,2020-06-12
+128.401,Bagalakote,2020-06-13
+132.282,Bagalakote,2020-06-14
+136.531,Bagalakote,2020-06-15
+141.178,Bagalakote,2020-06-16
+146.26,Bagalakote,2020-06-17
+151.816,Bagalakote,2020-06-18
+157.889,Bagalakote,2020-06-19
+164.527,Bagalakote,2020-06-20
+171.782,Bagalakote,2020-06-21
+179.711,Bagalakote,2020-06-22
+188.376,Bagalakote,2020-06-23
+197.846,Bagalakote,2020-06-24
+208.196,Bagalakote,2020-06-25
+219.506,Bagalakote,2020-06-26
+231.867,Bagalakote,2020-06-27
+245.375,Bagalakote,2020-06-28
+260.137,Bagalakote,2020-06-29
+276.27,Bagalakote,2020-06-30
+293.901,Bagalakote,2020-07-01
+313.168,Bagalakote,2020-07-02
+334.224,Bagalakote,2020-07-03
+357.235,Bagalakote,2020-07-04
+382.381,Bagalakote,2020-07-05
+409.862,Bagalakote,2020-07-06
+439.894,Bagalakote,2020-07-07
+472.713,Bagalakote,2020-07-08
+508.577,Bagalakote,2020-07-09
+547.77,Bagalakote,2020-07-10
+590.601,Bagalakote,2020-07-11
+637.405,Bagalakote,2020-07-12
+688.552,Bagalakote,2020-07-13
+744.445,Bagalakote,2020-07-14
+805.522,Bagalakote,2020-07-15
+872.265,Bagalakote,2020-07-16
+945.199,Bagalakote,2020-07-17
+1024.9,Bagalakote,2020-07-18
+1111.98,Bagalakote,2020-07-19
+1207.15,Bagalakote,2020-07-20
+1310.98,Bagalakote,2020-07-21
+1424.17,Bagalakote,2020-07-22
+1547.64,Bagalakote,2020-07-23
+1682.35,Bagalakote,2020-07-24
+1829.37,Bagalakote,2020-07-25
+1989.81,Bagalakote,2020-07-26
+2164.93,Bagalakote,2020-07-27
+2356.07,Bagalakote,2020-07-28
+2529.59,Bagalakote,2020-07-29
+2681.3,Bagalakote,2020-07-30
+2832.68,Bagalakote,2020-07-31
+2982.41,Bagalakote,2020-08-01
+3129.75,Bagalakote,2020-08-02
+3274.28,Bagalakote,2020-08-03
+3415.78,Bagalakote,2020-08-04
+3554.15,Bagalakote,2020-08-05
+3689.35,Bagalakote,2020-08-06
+3821.39,Bagalakote,2020-08-07
+3950.32,Bagalakote,2020-08-08
+4076.17,Bagalakote,2020-08-09
+4199.01,Bagalakote,2020-08-10
+4318.91,Bagalakote,2020-08-11
+4435.92,Bagalakote,2020-08-12
+4550.11,Bagalakote,2020-08-13
+4661.56,Bagalakote,2020-08-14
+4770.31,Bagalakote,2020-08-15
+4876.44,Bagalakote,2020-08-16
+4980.01,Bagalakote,2020-08-17
+5081.08,Bagalakote,2020-08-18
+5179.7,Bagalakote,2020-08-19
+5275.95,Bagalakote,2020-08-20
+5369.87,Bagalakote,2020-08-21
+5461.51,Bagalakote,2020-08-22
+5560.81,Bagalakote,2020-08-23
+5673.94,Bagalakote,2020-08-24
+5797.27,Bagalakote,2020-08-25
+5928.7,Bagalakote,2020-08-26
+6067.01,Bagalakote,2020-08-27
+6211.51,Bagalakote,2020-08-28
+6361.88,Bagalakote,2020-08-29
+6517.98,Bagalakote,2020-08-30
+6679.8,Bagalakote,2020-08-31
+6847.41,Bagalakote,2020-09-01
+7020.94,Bagalakote,2020-09-02
+7200.54,Bagalakote,2020-09-03
+7386.4,Bagalakote,2020-09-04
+7578.7,Bagalakote,2020-09-05
+7777.65,Bagalakote,2020-09-06
+7968.34,Bagalakote,2020-09-07
+8141.54,Bagalakote,2020-09-08
+8302.99,Bagalakote,2020-09-09
+8456.2,Bagalakote,2020-09-10
+8603.33,Bagalakote,2020-09-11
+8745.69,Bagalakote,2020-09-12
+8884.11,Bagalakote,2020-09-13
+9019.11,Bagalakote,2020-09-14
+9151.02,Bagalakote,2020-09-15
+9280.06,Bagalakote,2020-09-16
+9406.38,Bagalakote,2020-09-17
+9530.11,Bagalakote,2020-09-18
+9651.32,Bagalakote,2020-09-19
+9770.1,Bagalakote,2020-09-20
+9886.48,Bagalakote,2020-09-21
+10000.5,Bagalakote,2020-09-22
+10112.3,Bagalakote,2020-09-23
+10221.9,Bagalakote,2020-09-24
+10329.3,Bagalakote,2020-09-25
+10434.5,Bagalakote,2020-09-26
+10537.6,Bagalakote,2020-09-27
+10638.7,Bagalakote,2020-09-28
+10737.7,Bagalakote,2020-09-29
+10834.8,Bagalakote,2020-09-30
+10941.2,Bagalakote,2020-10-01
+11064,Bagalakote,2020-10-02
+11199.3,Bagalakote,2020-10-03
+11345.1,Bagalakote,2020-10-04
+11500,Bagalakote,2020-10-05
+11663.4,Bagalakote,2020-10-06
+11835.1,Bagalakote,2020-10-07
+12015,Bagalakote,2020-10-08
+12203.4,Bagalakote,2020-10-09
+12400.5,Bagalakote,2020-10-10
+12573.9,Bagalakote,2020-10-11
+12705.7,Bagalakote,2020-10-12
+12810.3,Bagalakote,2020-10-13
+12896.5,Bagalakote,2020-10-14
+12969.8,Bagalakote,2020-10-15
+13033.7,Bagalakote,2020-10-16
+13090.4,Bagalakote,2020-10-17
+13141.5,Bagalakote,2020-10-18
+13187.8,Bagalakote,2020-10-19
+13230.1,Bagalakote,2020-10-20
+13268.8,Bagalakote,2020-10-21
+13304.5,Bagalakote,2020-10-22
+13337.3,Bagalakote,2020-10-23
+13367.5,Bagalakote,2020-10-24
+13395.5,Bagalakote,2020-10-25
+13421.3,Bagalakote,2020-10-26
+13445.1,Bagalakote,2020-10-27
+13467.1,Bagalakote,2020-10-28
+13487.4,Bagalakote,2020-10-29
+13506.2,Bagalakote,2020-10-30
+13523.6,Bagalakote,2020-10-31
+13539.6,Bagalakote,2020-11-01
+13554.5,Bagalakote,2020-11-02
+13568.2,Bagalakote,2020-11-03
+13580.8,Bagalakote,2020-11-04
+13592.5,Bagalakote,2020-11-05
+13603.4,Bagalakote,2020-11-06
+13617.3,Bagalakote,2020-11-07
+13636.7,Bagalakote,2020-11-08
+13660,Bagalakote,2020-11-09
+13686.1,Bagalakote,2020-11-10
+13714.5,Bagalakote,2020-11-11
+13744.9,Bagalakote,2020-11-12
+13777.1,Bagalakote,2020-11-13
+13811.1,Bagalakote,2020-11-14
+13884.3,Bagalakote,2020-11-15
+13923.6,Bagalakote,2020-11-16
+13964.8,Bagalakote,2020-11-17
+14008,Bagalakote,2020-11-18
+14053.2,Bagalakote,2020-11-19
+14100.6,Bagalakote,2020-11-20
+14150.2,Bagalakote,2020-11-21
+14202.2,Bagalakote,2020-11-22
+14256.6,Bagalakote,2020-11-23
+14313.6,Bagalakote,2020-11-24
+14373.3,Bagalakote,2020-11-25
+14435.8,Bagalakote,2020-11-26
+14501.2,Bagalakote,2020-11-27
+14569.7,Bagalakote,2020-11-28
+14641.5,Bagalakote,2020-11-29
+14716.6,Bagalakote,2020-11-30
+14795.3,Bagalakote,2020-12-01
+14877.7,Bagalakote,2020-12-02
+14964,Bagalakote,2020-12-03
+15054.3,Bagalakote,2020-12-04
+15148.9,Bagalakote,2020-12-05
+15247.9,Bagalakote,2020-12-06
+15351.6,Bagalakote,2020-12-07
+15460.2,Bagalakote,2020-12-08
+15573.8,Bagalakote,2020-12-09
+15692.8,Bagalakote,2020-12-10
+15817.4,Bagalakote,2020-12-11
+15947.8,Bagalakote,2020-12-12
+16084.4,Bagalakote,2020-12-13
+16227.4,Bagalakote,2020-12-14
+16377,Bagalakote,2020-12-15
+23.7863,Ballari,2020-05-08
+24.8447,Ballari,2020-05-09
+26.0533,Ballari,2020-05-10
+27.4279,Ballari,2020-05-11
+28.9876,Ballari,2020-05-12
+30.7553,Ballari,2020-05-13
+32.7573,Ballari,2020-05-14
+35.0238,Ballari,2020-05-15
+37.5891,Ballari,2020-05-16
+40.4923,Ballari,2020-05-17
+43.7778,Ballari,2020-05-18
+47.4956,Ballari,2020-05-19
+51.7027,Ballari,2020-05-20
+56.4633,Ballari,2020-05-21
+61.8502,Ballari,2020-05-22
+67.9459,Ballari,2020-05-23
+72.1956,Ballari,2020-05-24
+73.3616,Ballari,2020-05-25
+72.8239,Ballari,2020-05-26
+71.4144,Ballari,2020-05-27
+69.6251,Ballari,2020-05-28
+69.0009,Ballari,2020-05-29
+70.398,Ballari,2020-05-30
+73.3724,Ballari,2020-05-31
+77.6967,Ballari,2020-06-01
+84.8182,Ballari,2020-06-02
+96.7002,Ballari,2020-06-03
+114.533,Ballari,2020-06-04
+140.246,Ballari,2020-06-05
+176.704,Ballari,2020-06-06
+217.7,Ballari,2020-06-07
+256.703,Ballari,2020-06-08
+295.945,Ballari,2020-06-09
+336.998,Ballari,2020-06-10
+375.959,Ballari,2020-06-11
+410.089,Ballari,2020-06-12
+441.423,Ballari,2020-06-13
+471.287,Ballari,2020-06-14
+500.518,Ballari,2020-06-15
+529.622,Ballari,2020-06-16
+558.925,Ballari,2020-06-17
+588.64,Ballari,2020-06-18
+619.008,Ballari,2020-06-19
+650.187,Ballari,2020-06-20
+682.208,Ballari,2020-06-21
+719.568,Ballari,2020-06-22
+765.418,Ballari,2020-06-23
+818.33,Ballari,2020-06-24
+877.515,Ballari,2020-06-25
+939.873,Ballari,2020-06-26
+1003.35,Ballari,2020-06-27
+1068.87,Ballari,2020-06-28
+1137.1,Ballari,2020-06-29
+1201.09,Ballari,2020-06-30
+1267.2,Ballari,2020-07-01
+1341.89,Ballari,2020-07-02
+1421.51,Ballari,2020-07-03
+1506.78,Ballari,2020-07-04
+1598.39,Ballari,2020-07-05
+1697.06,Ballari,2020-07-06
+1803.49,Ballari,2020-07-07
+1918.32,Ballari,2020-07-08
+2042.26,Ballari,2020-07-09
+2176.02,Ballari,2020-07-10
+2320.2,Ballari,2020-07-11
+2475.5,Ballari,2020-07-12
+2642.87,Ballari,2020-07-13
+2823.36,Ballari,2020-07-14
+3018.04,Ballari,2020-07-15
+3228.05,Ballari,2020-07-16
+3436.64,Ballari,2020-07-17
+3632.76,Ballari,2020-07-18
+3845.42,Ballari,2020-07-19
+4090.48,Ballari,2020-07-20
+4359.89,Ballari,2020-07-21
+4648.88,Ballari,2020-07-22
+4954.69,Ballari,2020-07-23
+5275.83,Ballari,2020-07-24
+5611.55,Ballari,2020-07-25
+5961.59,Ballari,2020-07-26
+6326.01,Ballari,2020-07-27
+6705.2,Ballari,2020-07-28
+7099.63,Ballari,2020-07-29
+7509.7,Ballari,2020-07-30
+7935.91,Ballari,2020-07-31
+8378.8,Ballari,2020-08-01
+8838.95,Ballari,2020-08-02
+9317,Ballari,2020-08-03
+9813.61,Ballari,2020-08-04
+10329.5,Ballari,2020-08-05
+10830.7,Ballari,2020-08-06
+11296.8,Ballari,2020-08-07
+11741.8,Ballari,2020-08-08
+12174.5,Ballari,2020-08-09
+12600.1,Ballari,2020-08-10
+13021.8,Ballari,2020-08-11
+13441.6,Ballari,2020-08-12
+13860.9,Ballari,2020-08-13
+14280.3,Ballari,2020-08-14
+14681.9,Ballari,2020-08-15
+15056.1,Ballari,2020-08-16
+15411.5,Ballari,2020-08-17
+15753.5,Ballari,2020-08-18
+16085.5,Ballari,2020-08-19
+16409.4,Ballari,2020-08-20
+16726.5,Ballari,2020-08-21
+17037.7,Ballari,2020-08-22
+17343.5,Ballari,2020-08-23
+17644.3,Ballari,2020-08-24
+17940.3,Ballari,2020-08-25
+18231.9,Ballari,2020-08-26
+18519.1,Ballari,2020-08-27
+18802.1,Ballari,2020-08-28
+19101.8,Ballari,2020-08-29
+19429.8,Ballari,2020-08-30
+19776.7,Ballari,2020-08-31
+20136.8,Ballari,2020-09-01
+20506.4,Ballari,2020-09-02
+20883.5,Ballari,2020-09-03
+21266.7,Ballari,2020-09-04
+21593.7,Ballari,2020-09-05
+21831.1,Ballari,2020-09-06
+22008.4,Ballari,2020-09-07
+22190.4,Ballari,2020-09-08
+22413.2,Ballari,2020-09-09
+22663.3,Ballari,2020-09-10
+22931.8,Ballari,2020-09-11
+23158.9,Ballari,2020-09-12
+23321.4,Ballari,2020-09-13
+23449.1,Ballari,2020-09-14
+23553.6,Ballari,2020-09-15
+23758.1,Ballari,2020-09-16
+24114.4,Ballari,2020-09-17
+24558.6,Ballari,2020-09-18
+25081.6,Ballari,2020-09-19
+25675.5,Ballari,2020-09-20
+26314.4,Ballari,2020-09-21
+26885.6,Ballari,2020-09-22
+27330.4,Ballari,2020-09-23
+27767.9,Ballari,2020-09-24
+28263.6,Ballari,2020-09-25
+28797.9,Ballari,2020-09-26
+29358.9,Ballari,2020-09-27
+29939.7,Ballari,2020-09-28
+30482.4,Ballari,2020-09-29
+30955.5,Ballari,2020-09-30
+31382.1,Ballari,2020-10-01
+31776.1,Ballari,2020-10-02
+32146.1,Ballari,2020-10-03
+32497.3,Ballari,2020-10-04
+32833.1,Ballari,2020-10-05
+33155.6,Ballari,2020-10-06
+33466.2,Ballari,2020-10-07
+33765.8,Ballari,2020-10-08
+34055.2,Ballari,2020-10-09
+34334.9,Ballari,2020-10-10
+34607.5,Ballari,2020-10-11
+34874.4,Ballari,2020-10-12
+35134.7,Ballari,2020-10-13
+35388.2,Ballari,2020-10-14
+35634.7,Ballari,2020-10-15
+35874.1,Ballari,2020-10-16
+36106.7,Ballari,2020-10-17
+36286.3,Ballari,2020-10-18
+36395.2,Ballari,2020-10-19
+36461.5,Ballari,2020-10-20
+36502.1,Ballari,2020-10-21
+36558.3,Ballari,2020-10-22
+36643.1,Ballari,2020-10-23
+36738.1,Ballari,2020-10-24
+36818.5,Ballari,2020-10-25
+36898.4,Ballari,2020-10-26
+36995.6,Ballari,2020-10-27
+37102.4,Ballari,2020-10-28
+37213.9,Ballari,2020-10-29
+37314.4,Ballari,2020-10-30
+37396.1,Ballari,2020-10-31
+37465.3,Ballari,2020-11-01
+37525.5,Ballari,2020-11-02
+37579.1,Ballari,2020-11-03
+37627.5,Ballari,2020-11-04
+37671.7,Ballari,2020-11-05
+37712.3,Ballari,2020-11-06
+37749.8,Ballari,2020-11-07
+37784.4,Ballari,2020-11-08
+37816.6,Ballari,2020-11-09
+37852.5,Ballari,2020-11-10
+37895.3,Ballari,2020-11-11
+37941.8,Ballari,2020-11-12
+37990.1,Ballari,2020-11-13
+38039.3,Ballari,2020-11-14
+38135,Ballari,2020-11-15
+38180.9,Ballari,2020-11-16
+38225.6,Ballari,2020-11-17
+38269.3,Ballari,2020-11-18
+38311.9,Ballari,2020-11-19
+38353.6,Ballari,2020-11-20
+38394.4,Ballari,2020-11-21
+38434.2,Ballari,2020-11-22
+38473.1,Ballari,2020-11-23
+38511.2,Ballari,2020-11-24
+38548.4,Ballari,2020-11-25
+38584.8,Ballari,2020-11-26
+38620.4,Ballari,2020-11-27
+38655.2,Ballari,2020-11-28
+38689.2,Ballari,2020-11-29
+38722.5,Ballari,2020-11-30
+38755,Ballari,2020-12-01
+38786.9,Ballari,2020-12-02
+38818,Ballari,2020-12-03
+38848.4,Ballari,2020-12-04
+38878.1,Ballari,2020-12-05
+38907.2,Ballari,2020-12-06
+38935.6,Ballari,2020-12-07
+38963.4,Ballari,2020-12-08
+38990.6,Ballari,2020-12-09
+39017.1,Ballari,2020-12-10
+39043.1,Ballari,2020-12-11
+39068.5,Ballari,2020-12-12
+39093.4,Ballari,2020-12-13
+39117.7,Ballari,2020-12-14
+39141.4,Ballari,2020-12-15
+48.6352,Belagavi,2020-04-13
+50.8402,Belagavi,2020-04-14
+53.2433,Belagavi,2020-04-15
+55.8126,Belagavi,2020-04-16
+58.5262,Belagavi,2020-04-17
+61.3691,Belagavi,2020-04-18
+64.3318,Belagavi,2020-04-19
+67.4079,Belagavi,2020-04-20
+69.9208,Belagavi,2020-04-21
+71.4662,Belagavi,2020-04-22
+72.3413,Belagavi,2020-04-23
+72.7564,Belagavi,2020-04-24
+72.86,Belagavi,2020-04-25
+72.7567,Belagavi,2020-04-26
+72.5198,Belagavi,2020-04-27
+72.2005,Belagavi,2020-04-28
+72.0885,Belagavi,2020-04-29
+72.3502,Belagavi,2020-04-30
+72.8308,Belagavi,2020-05-01
+73.4232,Belagavi,2020-05-02
+74.0916,Belagavi,2020-05-03
+74.8106,Belagavi,2020-05-04
+75.5619,Belagavi,2020-05-05
+76.3798,Belagavi,2020-05-06
+77.2852,Belagavi,2020-05-07
+78.2534,Belagavi,2020-05-08
+79.2667,Belagavi,2020-05-09
+80.3124,Belagavi,2020-05-10
+81.3815,Belagavi,2020-05-11
+82.4822,Belagavi,2020-05-12
+83.6198,Belagavi,2020-05-13
+84.7857,Belagavi,2020-05-14
+85.974,Belagavi,2020-05-15
+87.0072,Belagavi,2020-05-16
+87.778,Belagavi,2020-05-17
+88.3599,Belagavi,2020-05-18
+89.1349,Belagavi,2020-05-19
+90.3693,Belagavi,2020-05-20
+91.983,Belagavi,2020-05-21
+93.9232,Belagavi,2020-05-22
+96.5645,Belagavi,2020-05-23
+100.302,Belagavi,2020-05-24
+105.188,Belagavi,2020-05-25
+111.331,Belagavi,2020-05-26
+118.896,Belagavi,2020-05-27
+128.104,Belagavi,2020-05-28
+137.192,Belagavi,2020-05-29
+144.654,Belagavi,2020-05-30
+150.951,Belagavi,2020-05-31
+156.412,Belagavi,2020-06-01
+161.271,Belagavi,2020-06-02
+164.575,Belagavi,2020-06-03
+165.879,Belagavi,2020-06-04
+165.879,Belagavi,2020-06-05
+165.057,Belagavi,2020-06-06
+163.743,Belagavi,2020-06-07
+162.164,Belagavi,2020-06-08
+160.465,Belagavi,2020-06-09
+158.739,Belagavi,2020-06-10
+157.055,Belagavi,2020-06-11
+155.452,Belagavi,2020-06-12
+153.954,Belagavi,2020-06-13
+152.571,Belagavi,2020-06-14
+151.308,Belagavi,2020-06-15
+150.403,Belagavi,2020-06-16
+149.995,Belagavi,2020-06-17
+149.968,Belagavi,2020-06-18
+150.237,Belagavi,2020-06-19
+150.739,Belagavi,2020-06-20
+151.429,Belagavi,2020-06-21
+152.922,Belagavi,2020-06-22
+155.919,Belagavi,2020-06-23
+160.618,Belagavi,2020-06-24
+167.35,Belagavi,2020-06-25
+174.976,Belagavi,2020-06-26
+182.272,Belagavi,2020-06-27
+189.463,Belagavi,2020-06-28
+196.728,Belagavi,2020-06-29
+204.212,Belagavi,2020-06-30
+213.815,Belagavi,2020-07-01
+227.573,Belagavi,2020-07-02
+246.054,Belagavi,2020-07-03
+270.088,Belagavi,2020-07-04
+300.796,Belagavi,2020-07-05
+339.644,Belagavi,2020-07-06
+388.507,Belagavi,2020-07-07
+449.763,Belagavi,2020-07-08
+526.402,Belagavi,2020-07-09
+622.176,Belagavi,2020-07-10
+736.133,Belagavi,2020-07-11
+867.247,Belagavi,2020-07-12
+1019.98,Belagavi,2020-07-13
+1199.33,Belagavi,2020-07-14
+1411.01,Belagavi,2020-07-15
+1634.83,Belagavi,2020-07-16
+1852.65,Belagavi,2020-07-17
+2071.23,Belagavi,2020-07-18
+2295.03,Belagavi,2020-07-19
+2527.54,Belagavi,2020-07-20
+2760.92,Belagavi,2020-07-21
+2989.03,Belagavi,2020-07-22
+3216.07,Belagavi,2020-07-23
+3445.29,Belagavi,2020-07-24
+3674.13,Belagavi,2020-07-25
+3911.99,Belagavi,2020-07-26
+4171.08,Belagavi,2020-07-27
+4451.98,Belagavi,2020-07-28
+4687.87,Belagavi,2020-07-29
+4865.89,Belagavi,2020-07-30
+5029.74,Belagavi,2020-07-31
+5226.51,Belagavi,2020-08-01
+5470.27,Belagavi,2020-08-02
+5736.12,Belagavi,2020-08-03
+6021.87,Belagavi,2020-08-04
+6295.79,Belagavi,2020-08-05
+6563.61,Belagavi,2020-08-06
+6850.41,Belagavi,2020-08-07
+7149.47,Belagavi,2020-08-08
+7489.92,Belagavi,2020-08-09
+7863.45,Belagavi,2020-08-10
+8239.94,Belagavi,2020-08-11
+8555.71,Belagavi,2020-08-12
+8772.43,Belagavi,2020-08-13
+8968.37,Belagavi,2020-08-14
+9193.2,Belagavi,2020-08-15
+9441.3,Belagavi,2020-08-16
+9708.68,Belagavi,2020-08-17
+9992.5,Belagavi,2020-08-18
+10286.7,Belagavi,2020-08-19
+10578.5,Belagavi,2020-08-20
+10860.2,Belagavi,2020-08-21
+11118.4,Belagavi,2020-08-22
+11364.5,Belagavi,2020-08-23
+11615.8,Belagavi,2020-08-24
+11872.9,Belagavi,2020-08-25
+12140.7,Belagavi,2020-08-26
+12422.4,Belagavi,2020-08-27
+12716.4,Belagavi,2020-08-28
+13021.7,Belagavi,2020-08-29
+13337.7,Belagavi,2020-08-30
+13663.9,Belagavi,2020-08-31
+13982.8,Belagavi,2020-09-01
+14277.6,Belagavi,2020-09-02
+14548.7,Belagavi,2020-09-03
+14797.5,Belagavi,2020-09-04
+15025.2,Belagavi,2020-09-05
+15233.6,Belagavi,2020-09-06
+15428.5,Belagavi,2020-09-07
+15614.4,Belagavi,2020-09-08
+15791.4,Belagavi,2020-09-09
+15959.5,Belagavi,2020-09-10
+16118.9,Belagavi,2020-09-11
+16314.4,Belagavi,2020-09-12
+16553.6,Belagavi,2020-09-13
+16775.1,Belagavi,2020-09-14
+16955.6,Belagavi,2020-09-15
+17119.1,Belagavi,2020-09-16
+17281.6,Belagavi,2020-09-17
+17443.4,Belagavi,2020-09-18
+17604.5,Belagavi,2020-09-19
+17764.9,Belagavi,2020-09-20
+17918.2,Belagavi,2020-09-21
+18060.3,Belagavi,2020-09-22
+18193.8,Belagavi,2020-09-23
+18342.7,Belagavi,2020-09-24
+18518.6,Belagavi,2020-09-25
+18710.2,Belagavi,2020-09-26
+18928.9,Belagavi,2020-09-27
+19183.5,Belagavi,2020-09-28
+19440.3,Belagavi,2020-09-29
+19678.5,Belagavi,2020-09-30
+19905.2,Belagavi,2020-10-01
+20148.8,Belagavi,2020-10-02
+20427.5,Belagavi,2020-10-03
+20735.1,Belagavi,2020-10-04
+21067.7,Belagavi,2020-10-05
+21375.5,Belagavi,2020-10-06
+21625.6,Belagavi,2020-10-07
+21834.2,Belagavi,2020-10-08
+22011.5,Belagavi,2020-10-09
+22164.8,Belagavi,2020-10-10
+22298.8,Belagavi,2020-10-11
+22417.2,Belagavi,2020-10-12
+22522.5,Belagavi,2020-10-13
+22616.5,Belagavi,2020-10-14
+22700.8,Belagavi,2020-10-15
+22776.6,Belagavi,2020-10-16
+22835.8,Belagavi,2020-10-17
+22875.5,Belagavi,2020-10-18
+22911.7,Belagavi,2020-10-19
+22954,Belagavi,2020-10-20
+23000.2,Belagavi,2020-10-21
+23048.7,Belagavi,2020-10-22
+23098.5,Belagavi,2020-10-23
+23149.1,Belagavi,2020-10-24
+23199.8,Belagavi,2020-10-25
+23250.4,Belagavi,2020-10-26
+23300.6,Belagavi,2020-10-27
+23350.4,Belagavi,2020-10-28
+23399.6,Belagavi,2020-10-29
+23448.2,Belagavi,2020-10-30
+23496.1,Belagavi,2020-10-31
+23543.3,Belagavi,2020-11-01
+23589.8,Belagavi,2020-11-02
+23635.6,Belagavi,2020-11-03
+23680.7,Belagavi,2020-11-04
+23725.1,Belagavi,2020-11-05
+23769.3,Belagavi,2020-11-06
+23813.9,Belagavi,2020-11-07
+23858.3,Belagavi,2020-11-08
+23902.4,Belagavi,2020-11-09
+23946.2,Belagavi,2020-11-10
+23989.4,Belagavi,2020-11-11
+24028.1,Belagavi,2020-11-12
+24060,Belagavi,2020-11-13
+24086.9,Belagavi,2020-11-14
+24135.3,Belagavi,2020-11-15
+24158.4,Belagavi,2020-11-16
+24180.6,Belagavi,2020-11-17
+24201.9,Belagavi,2020-11-18
+24222.4,Belagavi,2020-11-19
+24242.1,Belagavi,2020-11-20
+24260.9,Belagavi,2020-11-21
+24279,Belagavi,2020-11-22
+24296.3,Belagavi,2020-11-23
+24312.8,Belagavi,2020-11-24
+24328.6,Belagavi,2020-11-25
+24343.8,Belagavi,2020-11-26
+24358.2,Belagavi,2020-11-27
+24372.1,Belagavi,2020-11-28
+24385.4,Belagavi,2020-11-29
+24398,Belagavi,2020-11-30
+24410.2,Belagavi,2020-12-01
+24421.8,Belagavi,2020-12-02
+24432.9,Belagavi,2020-12-03
+24443.5,Belagavi,2020-12-04
+24453.7,Belagavi,2020-12-05
+24463.4,Belagavi,2020-12-06
+24472.7,Belagavi,2020-12-07
+24481.6,Belagavi,2020-12-08
+24490.1,Belagavi,2020-12-09
+24498.2,Belagavi,2020-12-10
+24506,Belagavi,2020-12-11
+24513.4,Belagavi,2020-12-12
+24520.5,Belagavi,2020-12-13
+24527.4,Belagavi,2020-12-14
+24533.9,Belagavi,2020-12-15
+18.0232,Bengaluru Rural,2020-05-30
+18.5198,Bengaluru Rural,2020-05-31
+19.0109,Bengaluru Rural,2020-06-01
+19.503,Bengaluru Rural,2020-06-02
+20.0001,Bengaluru Rural,2020-06-03
+20.5045,Bengaluru Rural,2020-06-04
+21.0176,Bengaluru Rural,2020-06-05
+21.5405,Bengaluru Rural,2020-06-06
+22.0738,Bengaluru Rural,2020-06-07
+22.6179,Bengaluru Rural,2020-06-08
+23.4619,Bengaluru Rural,2020-06-09
+24.7805,Bengaluru Rural,2020-06-10
+26.473,Bengaluru Rural,2020-06-11
+28.4925,Bengaluru Rural,2020-06-12
+30.8251,Bengaluru Rural,2020-06-13
+33.477,Bengaluru Rural,2020-06-14
+36.4685,Bengaluru Rural,2020-06-15
+39.8296,Bengaluru Rural,2020-06-16
+43.598,Bengaluru Rural,2020-06-17
+47.8187,Bengaluru Rural,2020-06-18
+52.5434,Bengaluru Rural,2020-06-19
+57.8306,Bengaluru Rural,2020-06-20
+63.7467,Bengaluru Rural,2020-06-21
+70.3657,Bengaluru Rural,2020-06-22
+77.7709,Bengaluru Rural,2020-06-23
+86.0555,Bengaluru Rural,2020-06-24
+95.3239,Bengaluru Rural,2020-06-25
+105.693,Bengaluru Rural,2020-06-26
+117.293,Bengaluru Rural,2020-06-27
+130.27,Bengaluru Rural,2020-06-28
+144.787,Bengaluru Rural,2020-06-29
+161.029,Bengaluru Rural,2020-06-30
+179.198,Bengaluru Rural,2020-07-01
+199.524,Bengaluru Rural,2020-07-02
+222.262,Bengaluru Rural,2020-07-03
+247.843,Bengaluru Rural,2020-07-04
+276.69,Bengaluru Rural,2020-07-05
+309.136,Bengaluru Rural,2020-07-06
+345.58,Bengaluru Rural,2020-07-07
+386.488,Bengaluru Rural,2020-07-08
+432.388,Bengaluru Rural,2020-07-09
+483.88,Bengaluru Rural,2020-07-10
+541.639,Bengaluru Rural,2020-07-11
+606.423,Bengaluru Rural,2020-07-12
+679.084,Bengaluru Rural,2020-07-13
+760.578,Bengaluru Rural,2020-07-14
+851.975,Bengaluru Rural,2020-07-15
+954.476,Bengaluru Rural,2020-07-16
+1069.43,Bengaluru Rural,2020-07-17
+1198.34,Bengaluru Rural,2020-07-18
+1342.9,Bengaluru Rural,2020-07-19
+1470.73,Bengaluru Rural,2020-07-20
+1563.61,Bengaluru Rural,2020-07-21
+1636.39,Bengaluru Rural,2020-07-22
+1697.68,Bengaluru Rural,2020-07-23
+1752.5,Bengaluru Rural,2020-07-24
+1803.73,Bengaluru Rural,2020-07-25
+1853.08,Bengaluru Rural,2020-07-26
+1901.51,Bengaluru Rural,2020-07-27
+1949.61,Bengaluru Rural,2020-07-28
+1997.71,Bengaluru Rural,2020-07-29
+2045.99,Bengaluru Rural,2020-07-30
+2094.59,Bengaluru Rural,2020-07-31
+2132.1,Bengaluru Rural,2020-08-01
+2153.87,Bengaluru Rural,2020-08-02
+2166.5,Bengaluru Rural,2020-08-03
+2181.66,Bengaluru Rural,2020-08-04
+2202.91,Bengaluru Rural,2020-08-05
+2225.76,Bengaluru Rural,2020-08-06
+2248.06,Bengaluru Rural,2020-08-07
+2268.88,Bengaluru Rural,2020-08-08
+2287.87,Bengaluru Rural,2020-08-09
+2304.99,Bengaluru Rural,2020-08-10
+2320.31,Bengaluru Rural,2020-08-11
+2333.96,Bengaluru Rural,2020-08-12
+2363.34,Bengaluru Rural,2020-08-13
+2415.13,Bengaluru Rural,2020-08-14
+2479.85,Bengaluru Rural,2020-08-15
+2552.7,Bengaluru Rural,2020-08-16
+2631.3,Bengaluru Rural,2020-08-17
+2714.48,Bengaluru Rural,2020-08-18
+2801.71,Bengaluru Rural,2020-08-19
+2892.78,Bengaluru Rural,2020-08-20
+2987.66,Bengaluru Rural,2020-08-21
+3086.4,Bengaluru Rural,2020-08-22
+3189.09,Bengaluru Rural,2020-08-23
+3295.88,Bengaluru Rural,2020-08-24
+3406.9,Bengaluru Rural,2020-08-25
+3522.31,Bengaluru Rural,2020-08-26
+3642.28,Bengaluru Rural,2020-08-27
+3758.55,Bengaluru Rural,2020-08-28
+3867.98,Bengaluru Rural,2020-08-29
+3975.54,Bengaluru Rural,2020-08-30
+4083.97,Bengaluru Rural,2020-08-31
+4194.87,Bengaluru Rural,2020-09-01
+4309.15,Bengaluru Rural,2020-09-02
+4427.42,Bengaluru Rural,2020-09-03
+4550.06,Bengaluru Rural,2020-09-04
+4677.39,Bengaluru Rural,2020-09-05
+4809.66,Bengaluru Rural,2020-09-06
+4947.11,Bengaluru Rural,2020-09-07
+5089.94,Bengaluru Rural,2020-09-08
+5238.4,Bengaluru Rural,2020-09-09
+5392.69,Bengaluru Rural,2020-09-10
+5553.05,Bengaluru Rural,2020-09-11
+5719.71,Bengaluru Rural,2020-09-12
+5892.93,Bengaluru Rural,2020-09-13
+6072.94,Bengaluru Rural,2020-09-14
+6260.01,Bengaluru Rural,2020-09-15
+6454.42,Bengaluru Rural,2020-09-16
+6656.44,Bengaluru Rural,2020-09-17
+6866.37,Bengaluru Rural,2020-09-18
+7084.5,Bengaluru Rural,2020-09-19
+7294.82,Bengaluru Rural,2020-09-20
+7489.34,Bengaluru Rural,2020-09-21
+7675.69,Bengaluru Rural,2020-09-22
+7858.01,Bengaluru Rural,2020-09-23
+8038.56,Bengaluru Rural,2020-09-24
+8218.56,Bengaluru Rural,2020-09-25
+8398.68,Bengaluru Rural,2020-09-26
+8579.28,Bengaluru Rural,2020-09-27
+8760.56,Bengaluru Rural,2020-09-28
+8942.62,Bengaluru Rural,2020-09-29
+9125.53,Bengaluru Rural,2020-09-30
+9309.31,Bengaluru Rural,2020-10-01
+9493.98,Bengaluru Rural,2020-10-02
+9679.57,Bengaluru Rural,2020-10-03
+9866.06,Bengaluru Rural,2020-10-04
+10081.7,Bengaluru Rural,2020-10-05
+10329.9,Bengaluru Rural,2020-10-06
+10593.9,Bengaluru Rural,2020-10-07
+10874.1,Bengaluru Rural,2020-10-08
+11171.3,Bengaluru Rural,2020-10-09
+11486.3,Bengaluru Rural,2020-10-10
+11820,Bengaluru Rural,2020-10-11
+12121.1,Bengaluru Rural,2020-10-12
+12364,Bengaluru Rural,2020-10-13
+12573.8,Bengaluru Rural,2020-10-14
+12764.6,Bengaluru Rural,2020-10-15
+12944.2,Bengaluru Rural,2020-10-16
+13116.9,Bengaluru Rural,2020-10-17
+13285.2,Bengaluru Rural,2020-10-18
+13450.5,Bengaluru Rural,2020-10-19
+13613.5,Bengaluru Rural,2020-10-20
+13774.6,Bengaluru Rural,2020-10-21
+13934.2,Bengaluru Rural,2020-10-22
+14092.3,Bengaluru Rural,2020-10-23
+14249.1,Bengaluru Rural,2020-10-24
+14404.5,Bengaluru Rural,2020-10-25
+14558.7,Bengaluru Rural,2020-10-26
+14711.6,Bengaluru Rural,2020-10-27
+14863.3,Bengaluru Rural,2020-10-28
+15013.7,Bengaluru Rural,2020-10-29
+15162.9,Bengaluru Rural,2020-10-30
+15275.1,Bengaluru Rural,2020-10-31
+15337.8,Bengaluru Rural,2020-11-01
+15372.8,Bengaluru Rural,2020-11-02
+15392.3,Bengaluru Rural,2020-11-03
+15403.2,Bengaluru Rural,2020-11-04
+15409.3,Bengaluru Rural,2020-11-05
+15412.7,Bengaluru Rural,2020-11-06
+15440.6,Bengaluru Rural,2020-11-07
+15503.4,Bengaluru Rural,2020-11-08
+15585.5,Bengaluru Rural,2020-11-09
+15678.3,Bengaluru Rural,2020-11-10
+15777,Bengaluru Rural,2020-11-11
+15878.9,Bengaluru Rural,2020-11-12
+15982.7,Bengaluru Rural,2020-11-13
+16087.3,Bengaluru Rural,2020-11-14
+16297.6,Bengaluru Rural,2020-11-15
+16402.9,Bengaluru Rural,2020-11-16
+16508.2,Bengaluru Rural,2020-11-17
+16613.4,Bengaluru Rural,2020-11-18
+16718.5,Bengaluru Rural,2020-11-19
+16823.4,Bengaluru Rural,2020-11-20
+16928.2,Bengaluru Rural,2020-11-21
+17032.9,Bengaluru Rural,2020-11-22
+17137.4,Bengaluru Rural,2020-11-23
+17241.8,Bengaluru Rural,2020-11-24
+17346,Bengaluru Rural,2020-11-25
+17450.1,Bengaluru Rural,2020-11-26
+17554,Bengaluru Rural,2020-11-27
+17657.8,Bengaluru Rural,2020-11-28
+17761.5,Bengaluru Rural,2020-11-29
+17865,Bengaluru Rural,2020-11-30
+17968.3,Bengaluru Rural,2020-12-01
+18071.5,Bengaluru Rural,2020-12-02
+18174.6,Bengaluru Rural,2020-12-03
+18277.5,Bengaluru Rural,2020-12-04
+18380.2,Bengaluru Rural,2020-12-05
+18482.8,Bengaluru Rural,2020-12-06
+18585.2,Bengaluru Rural,2020-12-07
+18687.5,Bengaluru Rural,2020-12-08
+18789.7,Bengaluru Rural,2020-12-09
+18891.7,Bengaluru Rural,2020-12-10
+18993.5,Bengaluru Rural,2020-12-11
+19095.2,Bengaluru Rural,2020-12-12
+19196.7,Bengaluru Rural,2020-12-13
+19298.1,Bengaluru Rural,2020-12-14
+19399.3,Bengaluru Rural,2020-12-15
+60.1004,Bengaluru Urban,2020-03-22
+62.5146,Bengaluru Urban,2020-03-23
+64.6969,Bengaluru Urban,2020-03-24
+66.7088,Bengaluru Urban,2020-03-25
+68.5958,Bengaluru Urban,2020-03-26
+70.3909,Bengaluru Urban,2020-03-27
+72.1185,Bengaluru Urban,2020-03-28
+73.7966,Bengaluru Urban,2020-03-29
+75.4383,Bengaluru Urban,2020-03-30
+77.0533,Bengaluru Urban,2020-03-31
+78.6486,Bengaluru Urban,2020-04-01
+80.2295,Bengaluru Urban,2020-04-02
+81.7998,Bengaluru Urban,2020-04-03
+83.3623,Bengaluru Urban,2020-04-04
+84.9191,Bengaluru Urban,2020-04-05
+86.4716,Bengaluru Urban,2020-04-06
+90.0029,Bengaluru Urban,2020-04-07
+97.527,Bengaluru Urban,2020-04-08
+105.527,Bengaluru Urban,2020-04-09
+110.978,Bengaluru Urban,2020-04-10
+114.577,Bengaluru Urban,2020-04-11
+119.422,Bengaluru Urban,2020-04-12
+128.105,Bengaluru Urban,2020-04-13
+140.667,Bengaluru Urban,2020-04-14
+157.357,Bengaluru Urban,2020-04-15
+174.24,Bengaluru Urban,2020-04-16
+187.916,Bengaluru Urban,2020-04-17
+199.239,Bengaluru Urban,2020-04-18
+208.835,Bengaluru Urban,2020-04-19
+217.164,Bengaluru Urban,2020-04-20
+224.563,Bengaluru Urban,2020-04-21
+231.282,Bengaluru Urban,2020-04-22
+237.501,Bengaluru Urban,2020-04-23
+243.356,Bengaluru Urban,2020-04-24
+248.944,Bengaluru Urban,2020-04-25
+254.337,Bengaluru Urban,2020-04-26
+259.589,Bengaluru Urban,2020-04-27
+264.739,Bengaluru Urban,2020-04-28
+270.296,Bengaluru Urban,2020-04-29
+276.613,Bengaluru Urban,2020-04-30
+283.539,Bengaluru Urban,2020-05-01
+290.964,Bengaluru Urban,2020-05-02
+298.809,Bengaluru Urban,2020-05-03
+307.016,Bengaluru Urban,2020-05-04
+315.547,Bengaluru Urban,2020-05-05
+324.371,Bengaluru Urban,2020-05-06
+334.249,Bengaluru Urban,2020-05-07
+345.756,Bengaluru Urban,2020-05-08
+358.684,Bengaluru Urban,2020-05-09
+372.888,Bengaluru Urban,2020-05-10
+388.277,Bengaluru Urban,2020-05-11
+404.795,Bengaluru Urban,2020-05-12
+422.417,Bengaluru Urban,2020-05-13
+441.136,Bengaluru Urban,2020-05-14
+458.477,Bengaluru Urban,2020-05-15
+472.693,Bengaluru Urban,2020-05-16
+484.598,Bengaluru Urban,2020-05-17
+494.791,Bengaluru Urban,2020-05-18
+504.109,Bengaluru Urban,2020-05-19
+510.817,Bengaluru Urban,2020-05-20
+513.653,Bengaluru Urban,2020-05-21
+513.767,Bengaluru Urban,2020-05-22
+511.998,Bengaluru Urban,2020-05-23
+511.746,Bengaluru Urban,2020-05-24
+515.186,Bengaluru Urban,2020-05-25
+521.458,Bengaluru Urban,2020-05-26
+529.93,Bengaluru Urban,2020-05-27
+540.145,Bengaluru Urban,2020-05-28
+551.771,Bengaluru Urban,2020-05-29
+563.384,Bengaluru Urban,2020-05-30
+576.821,Bengaluru Urban,2020-05-31
+594.51,Bengaluru Urban,2020-06-01
+615.936,Bengaluru Urban,2020-06-02
+640.769,Bengaluru Urban,2020-06-03
+668.819,Bengaluru Urban,2020-06-04
+700.006,Bengaluru Urban,2020-06-05
+734.328,Bengaluru Urban,2020-06-06
+771.851,Bengaluru Urban,2020-06-07
+812.694,Bengaluru Urban,2020-06-08
+857.021,Bengaluru Urban,2020-06-09
+911.778,Bengaluru Urban,2020-06-10
+983.778,Bengaluru Urban,2020-06-11
+1067.75,Bengaluru Urban,2020-06-12
+1159.02,Bengaluru Urban,2020-06-13
+1258.89,Bengaluru Urban,2020-06-14
+1368.66,Bengaluru Urban,2020-06-15
+1489.68,Bengaluru Urban,2020-06-16
+1668.18,Bengaluru Urban,2020-06-17
+1962.91,Bengaluru Urban,2020-06-18
+2404.55,Bengaluru Urban,2020-06-19
+3038.74,Bengaluru Urban,2020-06-20
+3809.94,Bengaluru Urban,2020-06-21
+4645.38,Bengaluru Urban,2020-06-22
+5574.71,Bengaluru Urban,2020-06-23
+6627.77,Bengaluru Urban,2020-06-24
+7726.34,Bengaluru Urban,2020-06-25
+8796.75,Bengaluru Urban,2020-06-26
+9867.6,Bengaluru Urban,2020-06-27
+10961.6,Bengaluru Urban,2020-06-28
+12097.2,Bengaluru Urban,2020-06-29
+13289.9,Bengaluru Urban,2020-06-30
+14554,Bengaluru Urban,2020-07-01
+15902.3,Bengaluru Urban,2020-07-02
+17346.1,Bengaluru Urban,2020-07-03
+18896.5,Bengaluru Urban,2020-07-04
+20564.5,Bengaluru Urban,2020-07-05
+22406.6,Bengaluru Urban,2020-07-06
+24474.8,Bengaluru Urban,2020-07-07
+26777.9,Bengaluru Urban,2020-07-08
+29326.5,Bengaluru Urban,2020-07-09
+31889.1,Bengaluru Urban,2020-07-10
+34283.7,Bengaluru Urban,2020-07-11
+36573.6,Bengaluru Urban,2020-07-12
+38806,Bengaluru Urban,2020-07-13
+41016.4,Bengaluru Urban,2020-07-14
+43231.3,Bengaluru Urban,2020-07-15
+45471.1,Bengaluru Urban,2020-07-16
+47751.8,Bengaluru Urban,2020-07-17
+50085.9,Bengaluru Urban,2020-07-18
+52483.7,Bengaluru Urban,2020-07-19
+54953.4,Bengaluru Urban,2020-07-20
+57502.2,Bengaluru Urban,2020-07-21
+60136.1,Bengaluru Urban,2020-07-22
+62702.7,Bengaluru Urban,2020-07-23
+65079.9,Bengaluru Urban,2020-07-24
+67303.3,Bengaluru Urban,2020-07-25
+69398.6,Bengaluru Urban,2020-07-26
+71384.3,Bengaluru Urban,2020-07-27
+73408.7,Bengaluru Urban,2020-07-28
+75576,Bengaluru Urban,2020-07-29
+77848.6,Bengaluru Urban,2020-07-30
+80200.4,Bengaluru Urban,2020-07-31
+82612.7,Bengaluru Urban,2020-08-01
+85072.3,Bengaluru Urban,2020-08-02
+87570,Bengaluru Urban,2020-08-03
+90099.2,Bengaluru Urban,2020-08-04
+92655.2,Bengaluru Urban,2020-08-05
+95235.5,Bengaluru Urban,2020-08-06
+97838.4,Bengaluru Urban,2020-08-07
+100462,Bengaluru Urban,2020-08-08
+103105,Bengaluru Urban,2020-08-09
+105766,Bengaluru Urban,2020-08-10
+108442,Bengaluru Urban,2020-08-11
+111136,Bengaluru Urban,2020-08-12
+113845,Bengaluru Urban,2020-08-13
+116570,Bengaluru Urban,2020-08-14
+119312,Bengaluru Urban,2020-08-15
+122070,Bengaluru Urban,2020-08-16
+124846,Bengaluru Urban,2020-08-17
+127639,Bengaluru Urban,2020-08-18
+130449,Bengaluru Urban,2020-08-19
+133274,Bengaluru Urban,2020-08-20
+136116,Bengaluru Urban,2020-08-21
+138974,Bengaluru Urban,2020-08-22
+141847,Bengaluru Urban,2020-08-23
+144738,Bengaluru Urban,2020-08-24
+147644,Bengaluru Urban,2020-08-25
+150567,Bengaluru Urban,2020-08-26
+153486,Bengaluru Urban,2020-08-27
+156388,Bengaluru Urban,2020-08-28
+159284,Bengaluru Urban,2020-08-29
+162180,Bengaluru Urban,2020-08-30
+165081,Bengaluru Urban,2020-08-31
+167989,Bengaluru Urban,2020-09-01
+171022,Bengaluru Urban,2020-09-02
+174248,Bengaluru Urban,2020-09-03
+177613,Bengaluru Urban,2020-09-04
+181080,Bengaluru Urban,2020-09-05
+184624,Bengaluru Urban,2020-09-06
+188227,Bengaluru Urban,2020-09-07
+191785,Bengaluru Urban,2020-09-08
+195228,Bengaluru Urban,2020-09-09
+198584,Bengaluru Urban,2020-09-10
+201871,Bengaluru Urban,2020-09-11
+205103,Bengaluru Urban,2020-09-12
+208288,Bengaluru Urban,2020-09-13
+211434,Bengaluru Urban,2020-09-14
+214774,Bengaluru Urban,2020-09-15
+218472,Bengaluru Urban,2020-09-16
+222297,Bengaluru Urban,2020-09-17
+226104,Bengaluru Urban,2020-09-18
+229927,Bengaluru Urban,2020-09-19
+233791,Bengaluru Urban,2020-09-20
+237713,Bengaluru Urban,2020-09-21
+241709,Bengaluru Urban,2020-09-22
+245788,Bengaluru Urban,2020-09-23
+249960,Bengaluru Urban,2020-09-24
+254231,Bengaluru Urban,2020-09-25
+258607,Bengaluru Urban,2020-09-26
+263093,Bengaluru Urban,2020-09-27
+267694,Bengaluru Urban,2020-09-28
+272414,Bengaluru Urban,2020-09-29
+277255,Bengaluru Urban,2020-09-30
+281925,Bengaluru Urban,2020-10-01
+286222,Bengaluru Urban,2020-10-02
+290249,Bengaluru Urban,2020-10-03
+294080,Bengaluru Urban,2020-10-04
+297767,Bengaluru Urban,2020-10-05
+301350,Bengaluru Urban,2020-10-06
+304854,Bengaluru Urban,2020-10-07
+308300,Bengaluru Urban,2020-10-08
+311701,Bengaluru Urban,2020-10-09
+315066,Bengaluru Urban,2020-10-10
+317945,Bengaluru Urban,2020-10-11
+320067,Bengaluru Urban,2020-10-12
+321945,Bengaluru Urban,2020-10-13
+323884,Bengaluru Urban,2020-10-14
+325833,Bengaluru Urban,2020-10-15
+327759,Bengaluru Urban,2020-10-16
+329639,Bengaluru Urban,2020-10-17
+331461,Bengaluru Urban,2020-10-18
+333215,Bengaluru Urban,2020-10-19
+334900,Bengaluru Urban,2020-10-20
+336550,Bengaluru Urban,2020-10-21
+338143,Bengaluru Urban,2020-10-22
+339624,Bengaluru Urban,2020-10-23
+340972,Bengaluru Urban,2020-10-24
+342178,Bengaluru Urban,2020-10-25
+343249,Bengaluru Urban,2020-10-26
+344309,Bengaluru Urban,2020-10-27
+345459,Bengaluru Urban,2020-10-28
+346683,Bengaluru Urban,2020-10-29
+347967,Bengaluru Urban,2020-10-30
+349304,Bengaluru Urban,2020-10-31
+350625,Bengaluru Urban,2020-11-01
+351857,Bengaluru Urban,2020-11-02
+353005,Bengaluru Urban,2020-11-03
+354091,Bengaluru Urban,2020-11-04
+355134,Bengaluru Urban,2020-11-05
+356146,Bengaluru Urban,2020-11-06
+357135,Bengaluru Urban,2020-11-07
+358107,Bengaluru Urban,2020-11-08
+359069,Bengaluru Urban,2020-11-09
+360022,Bengaluru Urban,2020-11-10
+360969,Bengaluru Urban,2020-11-11
+361912,Bengaluru Urban,2020-11-12
+362852,Bengaluru Urban,2020-11-13
+363791,Bengaluru Urban,2020-11-14
+365663,Bengaluru Urban,2020-11-15
+366599,Bengaluru Urban,2020-11-16
+367534,Bengaluru Urban,2020-11-17
+368468,Bengaluru Urban,2020-11-18
+369403,Bengaluru Urban,2020-11-19
+370338,Bengaluru Urban,2020-11-20
+371273,Bengaluru Urban,2020-11-21
+372208,Bengaluru Urban,2020-11-22
+373143,Bengaluru Urban,2020-11-23
+374078,Bengaluru Urban,2020-11-24
+375014,Bengaluru Urban,2020-11-25
+375949,Bengaluru Urban,2020-11-26
+376885,Bengaluru Urban,2020-11-27
+377821,Bengaluru Urban,2020-11-28
+378757,Bengaluru Urban,2020-11-29
+379694,Bengaluru Urban,2020-11-30
+380630,Bengaluru Urban,2020-12-01
+381567,Bengaluru Urban,2020-12-02
+382504,Bengaluru Urban,2020-12-03
+383442,Bengaluru Urban,2020-12-04
+384379,Bengaluru Urban,2020-12-05
+385317,Bengaluru Urban,2020-12-06
+386255,Bengaluru Urban,2020-12-07
+387193,Bengaluru Urban,2020-12-08
+388131,Bengaluru Urban,2020-12-09
+389069,Bengaluru Urban,2020-12-10
+390008,Bengaluru Urban,2020-12-11
+390946,Bengaluru Urban,2020-12-12
+391885,Bengaluru Urban,2020-12-13
+392824,Bengaluru Urban,2020-12-14
+393763,Bengaluru Urban,2020-12-15
+12.4188,Bidar,2020-04-20
+12.3533,Bidar,2020-04-21
+12.2818,Bidar,2020-04-22
+12.2055,Bidar,2020-04-23
+12.1254,Bidar,2020-04-24
+12.0424,Bidar,2020-04-25
+11.9866,Bidar,2020-04-26
+11.9866,Bidar,2020-04-27
+12.0424,Bidar,2020-04-28
+12.1547,Bidar,2020-04-29
+12.3247,Bidar,2020-04-30
+12.5542,Bidar,2020-05-01
+12.8457,Bidar,2020-05-02
+13.2023,Bidar,2020-05-03
+13.6279,Bidar,2020-05-04
+14.127,Bidar,2020-05-05
+14.705,Bidar,2020-05-06
+15.3681,Bidar,2020-05-07
+16.1233,Bidar,2020-05-08
+16.9787,Bidar,2020-05-09
+17.9436,Bidar,2020-05-10
+19.0281,Bidar,2020-05-11
+20.2439,Bidar,2020-05-12
+21.6041,Bidar,2020-05-13
+23.1231,Bidar,2020-05-14
+24.8172,Bidar,2020-05-15
+26.7045,Bidar,2020-05-16
+28.8051,Bidar,2020-05-17
+31.1416,Bidar,2020-05-18
+33.7388,Bidar,2020-05-19
+36.6246,Bidar,2020-05-20
+39.8298,Bidar,2020-05-21
+43.3886,Bidar,2020-05-22
+47.3391,Bidar,2020-05-23
+51.3482,Bidar,2020-05-24
+55.0817,Bidar,2020-05-25
+58.5656,Bidar,2020-05-26
+61.8234,Bidar,2020-05-27
+65.0473,Bidar,2020-05-28
+68.3915,Bidar,2020-05-29
+71.8301,Bidar,2020-05-30
+75.3421,Bidar,2020-05-31
+78.9104,Bidar,2020-06-01
+82.5212,Bidar,2020-06-02
+86.2956,Bidar,2020-06-03
+90.3478,Bidar,2020-06-04
+94.6625,Bidar,2020-06-05
+99.2286,Bidar,2020-06-06
+104.048,Bidar,2020-06-07
+109.125,Bidar,2020-06-08
+114.458,Bidar,2020-06-09
+120.047,Bidar,2020-06-10
+125.895,Bidar,2020-06-11
+132.004,Bidar,2020-06-12
+138.38,Bidar,2020-06-13
+144.64,Bidar,2020-06-14
+150.447,Bidar,2020-06-15
+155.855,Bidar,2020-06-16
+160.909,Bidar,2020-06-17
+166.267,Bidar,2020-06-18
+172.574,Bidar,2020-06-19
+179.88,Bidar,2020-06-20
+188.249,Bidar,2020-06-21
+197.766,Bidar,2020-06-22
+208.529,Bidar,2020-06-23
+220.654,Bidar,2020-06-24
+234.278,Bidar,2020-06-25
+249.345,Bidar,2020-06-26
+265.824,Bidar,2020-06-27
+283.738,Bidar,2020-06-28
+303.101,Bidar,2020-06-29
+324.098,Bidar,2020-06-30
+346.926,Bidar,2020-07-01
+371.798,Bidar,2020-07-02
+398.945,Bidar,2020-07-03
+428.616,Bidar,2020-07-04
+461.084,Bidar,2020-07-05
+496.645,Bidar,2020-07-06
+535.624,Bidar,2020-07-07
+578.375,Bidar,2020-07-08
+625.401,Bidar,2020-07-09
+673.042,Bidar,2020-07-10
+717.566,Bidar,2020-07-11
+759.302,Bidar,2020-07-12
+799.768,Bidar,2020-07-13
+840.248,Bidar,2020-07-14
+882.275,Bidar,2020-07-15
+927.28,Bidar,2020-07-16
+975.179,Bidar,2020-07-17
+1025.91,Bidar,2020-07-18
+1079.45,Bidar,2020-07-19
+1135.84,Bidar,2020-07-20
+1195.14,Bidar,2020-07-21
+1257.39,Bidar,2020-07-22
+1322.61,Bidar,2020-07-23
+1390.85,Bidar,2020-07-24
+1462.18,Bidar,2020-07-25
+1535.92,Bidar,2020-07-26
+1611.49,Bidar,2020-07-27
+1689.11,Bidar,2020-07-28
+1768.93,Bidar,2020-07-29
+1846.96,Bidar,2020-07-30
+1919.62,Bidar,2020-07-31
+1990.39,Bidar,2020-08-01
+2061.94,Bidar,2020-08-02
+2138.03,Bidar,2020-08-03
+2222.18,Bidar,2020-08-04
+2311.39,Bidar,2020-08-05
+2403.24,Bidar,2020-08-06
+2497.94,Bidar,2020-08-07
+2595.75,Bidar,2020-08-08
+2689.73,Bidar,2020-08-09
+2776.26,Bidar,2020-08-10
+2858.39,Bidar,2020-08-11
+2936.47,Bidar,2020-08-12
+3010.79,Bidar,2020-08-13
+3081.54,Bidar,2020-08-14
+3148.91,Bidar,2020-08-15
+3213.1,Bidar,2020-08-16
+3274.33,Bidar,2020-08-17
+3332.76,Bidar,2020-08-18
+3388.56,Bidar,2020-08-19
+3441.87,Bidar,2020-08-20
+3492.82,Bidar,2020-08-21
+3541.54,Bidar,2020-08-22
+3588.13,Bidar,2020-08-23
+3632.71,Bidar,2020-08-24
+3678.04,Bidar,2020-08-25
+3726.49,Bidar,2020-08-26
+3777.71,Bidar,2020-08-27
+3831.45,Bidar,2020-08-28
+3887.46,Bidar,2020-08-29
+3945.58,Bidar,2020-08-30
+4005.65,Bidar,2020-08-31
+4067.58,Bidar,2020-09-01
+4131.27,Bidar,2020-09-02
+4196.65,Bidar,2020-09-03
+4263.68,Bidar,2020-09-04
+4330.01,Bidar,2020-09-05
+4393.58,Bidar,2020-09-06
+4454.66,Bidar,2020-09-07
+4513.5,Bidar,2020-09-08
+4570.29,Bidar,2020-09-09
+4625.2,Bidar,2020-09-10
+4678.37,Bidar,2020-09-11
+4729.92,Bidar,2020-09-12
+4781.39,Bidar,2020-09-13
+4834.14,Bidar,2020-09-14
+4888.02,Bidar,2020-09-15
+4942.92,Bidar,2020-09-16
+4998.75,Bidar,2020-09-17
+5055.44,Bidar,2020-09-18
+5112.93,Bidar,2020-09-19
+5171.18,Bidar,2020-09-20
+5230.15,Bidar,2020-09-21
+5287.68,Bidar,2020-09-22
+5341.94,Bidar,2020-09-23
+5393.26,Bidar,2020-09-24
+5441.93,Bidar,2020-09-25
+5488.19,Bidar,2020-09-26
+5532.25,Bidar,2020-09-27
+5574.29,Bidar,2020-09-28
+5614.47,Bidar,2020-09-29
+5652.91,Bidar,2020-09-30
+5689.74,Bidar,2020-10-01
+5723.66,Bidar,2020-10-02
+5753.72,Bidar,2020-10-03
+5780.46,Bidar,2020-10-04
+5804.3,Bidar,2020-10-05
+5825.62,Bidar,2020-10-06
+5844.74,Bidar,2020-10-07
+5861.93,Bidar,2020-10-08
+5875.57,Bidar,2020-10-09
+5884.8,Bidar,2020-10-10
+5890.74,Bidar,2020-10-11
+5894.27,Bidar,2020-10-12
+5896.05,Bidar,2020-10-13
+5897.55,Bidar,2020-10-14
+5899.75,Bidar,2020-10-15
+5902.47,Bidar,2020-10-16
+5905.59,Bidar,2020-10-17
+5908.98,Bidar,2020-10-18
+5912.57,Bidar,2020-10-19
+5916.27,Bidar,2020-10-20
+5920.04,Bidar,2020-10-21
+5923.83,Bidar,2020-10-22
+5927.6,Bidar,2020-10-23
+5931.32,Bidar,2020-10-24
+5934.99,Bidar,2020-10-25
+5938.57,Bidar,2020-10-26
+5942.06,Bidar,2020-10-27
+5945.45,Bidar,2020-10-28
+5948.73,Bidar,2020-10-29
+5951.9,Bidar,2020-10-30
+5955.16,Bidar,2020-10-31
+5958.68,Bidar,2020-11-01
+5962.41,Bidar,2020-11-02
+5966.34,Bidar,2020-11-03
+5970.76,Bidar,2020-11-04
+5976,Bidar,2020-11-05
+5982.09,Bidar,2020-11-06
+5989.06,Bidar,2020-11-07
+5996.95,Bidar,2020-11-08
+6005.85,Bidar,2020-11-09
+6015.43,Bidar,2020-11-10
+6025.39,Bidar,2020-11-11
+6035.76,Bidar,2020-11-12
+6046.57,Bidar,2020-11-13
+6057.85,Bidar,2020-11-14
+6082.2,Bidar,2020-11-15
+6095.41,Bidar,2020-11-16
+6109.35,Bidar,2020-11-17
+6124.07,Bidar,2020-11-18
+6139.61,Bidar,2020-11-19
+6156.01,Bidar,2020-11-20
+6173.32,Bidar,2020-11-21
+6191.59,Bidar,2020-11-22
+6210.88,Bidar,2020-11-23
+6231.23,Bidar,2020-11-24
+6252.71,Bidar,2020-11-25
+6275.39,Bidar,2020-11-26
+6299.32,Bidar,2020-11-27
+6324.57,Bidar,2020-11-28
+6351.23,Bidar,2020-11-29
+6379.36,Bidar,2020-11-30
+6409.04,Bidar,2020-12-01
+6440.37,Bidar,2020-12-02
+6473.44,Bidar,2020-12-03
+6508.33,Bidar,2020-12-04
+6545.15,Bidar,2020-12-05
+6584.01,Bidar,2020-12-06
+6625.01,Bidar,2020-12-07
+6668.28,Bidar,2020-12-08
+6713.95,Bidar,2020-12-09
+6762.13,Bidar,2020-12-10
+6812.97,Bidar,2020-12-11
+6866.63,Bidar,2020-12-12
+6923.24,Bidar,2020-12-13
+6982.97,Bidar,2020-12-14
+7046,Bidar,2020-12-15
+10.5036,Chikkaballapura,2020-04-17
+10.5851,Chikkaballapura,2020-04-18
+10.6656,Chikkaballapura,2020-04-19
+10.745,Chikkaballapura,2020-04-20
+10.8236,Chikkaballapura,2020-04-21
+10.9012,Chikkaballapura,2020-04-22
+10.9779,Chikkaballapura,2020-04-23
+11.0538,Chikkaballapura,2020-04-24
+11.1288,Chikkaballapura,2020-04-25
+11.203,Chikkaballapura,2020-04-26
+11.2764,Chikkaballapura,2020-04-27
+11.349,Chikkaballapura,2020-04-28
+11.4208,Chikkaballapura,2020-04-29
+11.4918,Chikkaballapura,2020-04-30
+11.562,Chikkaballapura,2020-05-01
+11.6315,Chikkaballapura,2020-05-02
+11.7002,Chikkaballapura,2020-05-03
+11.7681,Chikkaballapura,2020-05-04
+11.8354,Chikkaballapura,2020-05-05
+11.9019,Chikkaballapura,2020-05-06
+11.9676,Chikkaballapura,2020-05-07
+12.0327,Chikkaballapura,2020-05-08
+12.0971,Chikkaballapura,2020-05-09
+12.1607,Chikkaballapura,2020-05-10
+12.2237,Chikkaballapura,2020-05-11
+13.0918,Chikkaballapura,2020-05-12
+16.7035,Chikkaballapura,2020-05-13
+26.6714,Chikkaballapura,2020-05-14
+51.9752,Chikkaballapura,2020-05-15
+86.0478,Chikkaballapura,2020-05-16
+113.083,Chikkaballapura,2020-05-17
+134.95,Chikkaballapura,2020-05-18
+153.031,Chikkaballapura,2020-05-19
+168.349,Chikkaballapura,2020-05-20
+181.659,Chikkaballapura,2020-05-21
+189.558,Chikkaballapura,2020-05-22
+191.309,Chikkaballapura,2020-05-23
+189.859,Chikkaballapura,2020-05-24
+186.497,Chikkaballapura,2020-05-25
+181.801,Chikkaballapura,2020-05-26
+176.21,Chikkaballapura,2020-05-27
+170.263,Chikkaballapura,2020-05-28
+164.315,Chikkaballapura,2020-05-29
+158.584,Chikkaballapura,2020-05-30
+153.201,Chikkaballapura,2020-05-31
+148.235,Chikkaballapura,2020-06-01
+143.714,Chikkaballapura,2020-06-02
+139.638,Chikkaballapura,2020-06-03
+135.991,Chikkaballapura,2020-06-04
+132.748,Chikkaballapura,2020-06-05
+129.878,Chikkaballapura,2020-06-06
+127.347,Chikkaballapura,2020-06-07
+125.122,Chikkaballapura,2020-06-08
+123.69,Chikkaballapura,2020-06-09
+123.359,Chikkaballapura,2020-06-10
+123.91,Chikkaballapura,2020-06-11
+125.197,Chikkaballapura,2020-06-12
+127.128,Chikkaballapura,2020-06-13
+129.651,Chikkaballapura,2020-06-14
+132.744,Chikkaballapura,2020-06-15
+136.41,Chikkaballapura,2020-06-16
+140.671,Chikkaballapura,2020-06-17
+145.568,Chikkaballapura,2020-06-18
+151.154,Chikkaballapura,2020-06-19
+157.498,Chikkaballapura,2020-06-20
+164.684,Chikkaballapura,2020-06-21
+172.808,Chikkaballapura,2020-06-22
+181.982,Chikkaballapura,2020-06-23
+192.335,Chikkaballapura,2020-06-24
+204.013,Chikkaballapura,2020-06-25
+217.181,Chikkaballapura,2020-06-26
+232.027,Chikkaballapura,2020-06-27
+249.433,Chikkaballapura,2020-06-28
+270.333,Chikkaballapura,2020-06-29
+295.116,Chikkaballapura,2020-06-30
+324.282,Chikkaballapura,2020-07-01
+358.451,Chikkaballapura,2020-07-02
+398.372,Chikkaballapura,2020-07-03
+444.933,Chikkaballapura,2020-07-04
+499.181,Chikkaballapura,2020-07-05
+562.342,Chikkaballapura,2020-07-06
+635.85,Chikkaballapura,2020-07-07
+721.378,Chikkaballapura,2020-07-08
+820.873,Chikkaballapura,2020-07-09
+936.601,Chikkaballapura,2020-07-10
+1071.2,Chikkaballapura,2020-07-11
+1205.43,Chikkaballapura,2020-07-12
+1327.89,Chikkaballapura,2020-07-13
+1446.99,Chikkaballapura,2020-07-14
+1564.48,Chikkaballapura,2020-07-15
+1681.1,Chikkaballapura,2020-07-16
+1798.07,Chikkaballapura,2020-07-17
+1901.78,Chikkaballapura,2020-07-18
+2004.21,Chikkaballapura,2020-07-19
+2121.87,Chikkaballapura,2020-07-20
+2247.72,Chikkaballapura,2020-07-21
+2365.79,Chikkaballapura,2020-07-22
+2467.48,Chikkaballapura,2020-07-23
+2557.29,Chikkaballapura,2020-07-24
+2638.41,Chikkaballapura,2020-07-25
+2711.72,Chikkaballapura,2020-07-26
+2782.78,Chikkaballapura,2020-07-27
+2856.75,Chikkaballapura,2020-07-28
+2933.48,Chikkaballapura,2020-07-29
+3012.88,Chikkaballapura,2020-07-30
+3094.92,Chikkaballapura,2020-07-31
+3168.35,Chikkaballapura,2020-08-01
+3231.75,Chikkaballapura,2020-08-02
+3292.77,Chikkaballapura,2020-08-03
+3351.6,Chikkaballapura,2020-08-04
+3402.9,Chikkaballapura,2020-08-05
+3457.76,Chikkaballapura,2020-08-06
+3524.49,Chikkaballapura,2020-08-07
+3596.37,Chikkaballapura,2020-08-08
+3669.42,Chikkaballapura,2020-08-09
+3736.96,Chikkaballapura,2020-08-10
+3795.94,Chikkaballapura,2020-08-11
+3857.44,Chikkaballapura,2020-08-12
+3928.52,Chikkaballapura,2020-08-13
+4006.18,Chikkaballapura,2020-08-14
+4088.55,Chikkaballapura,2020-08-15
+4174.77,Chikkaballapura,2020-08-16
+4264.28,Chikkaballapura,2020-08-17
+4356.74,Chikkaballapura,2020-08-18
+4451.94,Chikkaballapura,2020-08-19
+4549.76,Chikkaballapura,2020-08-20
+4649.52,Chikkaballapura,2020-08-21
+4751.17,Chikkaballapura,2020-08-22
+4855.39,Chikkaballapura,2020-08-23
+4962.68,Chikkaballapura,2020-08-24
+5073.45,Chikkaballapura,2020-08-25
+5180.11,Chikkaballapura,2020-08-26
+5277.38,Chikkaballapura,2020-08-27
+5367.91,Chikkaballapura,2020-08-28
+5453.51,Chikkaballapura,2020-08-29
+5535.41,Chikkaballapura,2020-08-30
+5616.8,Chikkaballapura,2020-08-31
+5699.83,Chikkaballapura,2020-09-01
+5784.02,Chikkaballapura,2020-09-02
+5869.05,Chikkaballapura,2020-09-03
+5954.71,Chikkaballapura,2020-09-04
+6040.85,Chikkaballapura,2020-09-05
+6127.37,Chikkaballapura,2020-09-06
+6214.17,Chikkaballapura,2020-09-07
+6301.19,Chikkaballapura,2020-09-08
+6388.39,Chikkaballapura,2020-09-09
+6475.78,Chikkaballapura,2020-09-10
+6563.34,Chikkaballapura,2020-09-11
+6651.05,Chikkaballapura,2020-09-12
+6736.43,Chikkaballapura,2020-09-13
+6818.46,Chikkaballapura,2020-09-14
+6898.93,Chikkaballapura,2020-09-15
+6992.51,Chikkaballapura,2020-09-16
+7112.05,Chikkaballapura,2020-09-17
+7257.42,Chikkaballapura,2020-09-18
+7408.84,Chikkaballapura,2020-09-19
+7549.87,Chikkaballapura,2020-09-20
+7684.42,Chikkaballapura,2020-09-21
+7815.46,Chikkaballapura,2020-09-22
+7945.26,Chikkaballapura,2020-09-23
+8075.52,Chikkaballapura,2020-09-24
+8207.58,Chikkaballapura,2020-09-25
+8342.51,Chikkaballapura,2020-09-26
+8482.86,Chikkaballapura,2020-09-27
+8626.08,Chikkaballapura,2020-09-28
+8767.51,Chikkaballapura,2020-09-29
+8904.47,Chikkaballapura,2020-09-30
+9035.46,Chikkaballapura,2020-10-01
+9153.97,Chikkaballapura,2020-10-02
+9270.77,Chikkaballapura,2020-10-03
+9397.21,Chikkaballapura,2020-10-04
+9529.72,Chikkaballapura,2020-10-05
+9665.91,Chikkaballapura,2020-10-06
+9811.43,Chikkaballapura,2020-10-07
+9968.46,Chikkaballapura,2020-10-08
+10132.3,Chikkaballapura,2020-10-09
+10293.4,Chikkaballapura,2020-10-10
+10446.8,Chikkaballapura,2020-10-11
+10594.7,Chikkaballapura,2020-10-12
+10738.8,Chikkaballapura,2020-10-13
+10880.1,Chikkaballapura,2020-10-14
+11019.1,Chikkaballapura,2020-10-15
+11124.7,Chikkaballapura,2020-10-16
+11202.5,Chikkaballapura,2020-10-17
+11275.4,Chikkaballapura,2020-10-18
+11341,Chikkaballapura,2020-10-19
+11398.5,Chikkaballapura,2020-10-20
+11448.1,Chikkaballapura,2020-10-21
+11488.3,Chikkaballapura,2020-10-22
+11519.6,Chikkaballapura,2020-10-23
+11544.3,Chikkaballapura,2020-10-24
+11564.2,Chikkaballapura,2020-10-25
+11580.4,Chikkaballapura,2020-10-26
+11596.1,Chikkaballapura,2020-10-27
+11612.7,Chikkaballapura,2020-10-28
+11629.3,Chikkaballapura,2020-10-29
+11645.3,Chikkaballapura,2020-10-30
+11660.4,Chikkaballapura,2020-10-31
+11675.4,Chikkaballapura,2020-11-01
+11691.1,Chikkaballapura,2020-11-02
+11707.3,Chikkaballapura,2020-11-03
+11724.2,Chikkaballapura,2020-11-04
+11741.7,Chikkaballapura,2020-11-05
+11758.1,Chikkaballapura,2020-11-06
+11772.1,Chikkaballapura,2020-11-07
+11784.4,Chikkaballapura,2020-11-08
+11795.4,Chikkaballapura,2020-11-09
+11805.4,Chikkaballapura,2020-11-10
+11814.7,Chikkaballapura,2020-11-11
+11823.4,Chikkaballapura,2020-11-12
+11831.6,Chikkaballapura,2020-11-13
+11839.3,Chikkaballapura,2020-11-14
+11853.5,Chikkaballapura,2020-11-15
+11860.1,Chikkaballapura,2020-11-16
+11866.3,Chikkaballapura,2020-11-17
+11872.3,Chikkaballapura,2020-11-18
+11878.1,Chikkaballapura,2020-11-19
+11883.5,Chikkaballapura,2020-11-20
+11888.7,Chikkaballapura,2020-11-21
+11893.7,Chikkaballapura,2020-11-22
+11898.5,Chikkaballapura,2020-11-23
+11903,Chikkaballapura,2020-11-24
+11907.4,Chikkaballapura,2020-11-25
+11911.5,Chikkaballapura,2020-11-26
+11915.5,Chikkaballapura,2020-11-27
+11919.3,Chikkaballapura,2020-11-28
+11923,Chikkaballapura,2020-11-29
+11926.4,Chikkaballapura,2020-11-30
+11929.7,Chikkaballapura,2020-12-01
+11932.9,Chikkaballapura,2020-12-02
+11936,Chikkaballapura,2020-12-03
+11938.9,Chikkaballapura,2020-12-04
+11941.6,Chikkaballapura,2020-12-05
+11944.3,Chikkaballapura,2020-12-06
+11946.8,Chikkaballapura,2020-12-07
+11949.2,Chikkaballapura,2020-12-08
+11951.5,Chikkaballapura,2020-12-09
+11953.7,Chikkaballapura,2020-12-10
+11955.9,Chikkaballapura,2020-12-11
+11957.9,Chikkaballapura,2020-12-12
+11959.8,Chikkaballapura,2020-12-13
+11961.7,Chikkaballapura,2020-12-14
+11963.4,Chikkaballapura,2020-12-15
+53.3735,Chikkamagaluru,2020-05-28
+53.7284,Chikkamagaluru,2020-05-29
+54.1864,Chikkamagaluru,2020-05-30
+54.7305,Chikkamagaluru,2020-05-31
+55.3466,Chikkamagaluru,2020-06-01
+55.8765,Chikkamagaluru,2020-06-02
+56.2136,Chikkamagaluru,2020-06-03
+56.4082,Chikkamagaluru,2020-06-04
+56.499,Chikkamagaluru,2020-06-05
+56.5157,Chikkamagaluru,2020-06-06
+56.6391,Chikkamagaluru,2020-06-07
+57.0585,Chikkamagaluru,2020-06-08
+57.8325,Chikkamagaluru,2020-06-09
+59.047,Chikkamagaluru,2020-06-10
+60.8238,Chikkamagaluru,2020-06-11
+63.3314,Chikkamagaluru,2020-06-12
+66.8006,Chikkamagaluru,2020-06-13
+70.8376,Chikkamagaluru,2020-06-14
+74.888,Chikkamagaluru,2020-06-15
+78.9774,Chikkamagaluru,2020-06-16
+83.1286,Chikkamagaluru,2020-06-17
+87.3613,Chikkamagaluru,2020-06-18
+91.6932,Chikkamagaluru,2020-06-19
+96.0258,Chikkamagaluru,2020-06-20
+100.142,Chikkamagaluru,2020-06-21
+103.954,Chikkamagaluru,2020-06-22
+107.5,Chikkamagaluru,2020-06-23
+110.81,Chikkamagaluru,2020-06-24
+114.285,Chikkamagaluru,2020-06-25
+118.31,Chikkamagaluru,2020-06-26
+122.909,Chikkamagaluru,2020-06-27
+128.114,Chikkamagaluru,2020-06-28
+133.967,Chikkamagaluru,2020-06-29
+140.145,Chikkamagaluru,2020-06-30
+146.318,Chikkamagaluru,2020-07-01
+152.505,Chikkamagaluru,2020-07-02
+158.723,Chikkamagaluru,2020-07-03
+164.986,Chikkamagaluru,2020-07-04
+171.306,Chikkamagaluru,2020-07-05
+178.809,Chikkamagaluru,2020-07-06
+188.886,Chikkamagaluru,2020-07-07
+202.076,Chikkamagaluru,2020-07-08
+219.076,Chikkamagaluru,2020-07-09
+240.773,Chikkamagaluru,2020-07-10
+268.294,Chikkamagaluru,2020-07-11
+303.06,Chikkamagaluru,2020-07-12
+346.865,Chikkamagaluru,2020-07-13
+392.898,Chikkamagaluru,2020-07-14
+433.675,Chikkamagaluru,2020-07-15
+469.347,Chikkamagaluru,2020-07-16
+504.935,Chikkamagaluru,2020-07-17
+545.93,Chikkamagaluru,2020-07-18
+592.972,Chikkamagaluru,2020-07-19
+646.79,Chikkamagaluru,2020-07-20
+708.293,Chikkamagaluru,2020-07-21
+778.522,Chikkamagaluru,2020-07-22
+858.66,Chikkamagaluru,2020-07-23
+944.921,Chikkamagaluru,2020-07-24
+1033.02,Chikkamagaluru,2020-07-25
+1123.45,Chikkamagaluru,2020-07-26
+1216.65,Chikkamagaluru,2020-07-27
+1313.03,Chikkamagaluru,2020-07-28
+1412.97,Chikkamagaluru,2020-07-29
+1516.85,Chikkamagaluru,2020-07-30
+1625.06,Chikkamagaluru,2020-07-31
+1737.98,Chikkamagaluru,2020-08-01
+1842.2,Chikkamagaluru,2020-08-02
+1927.26,Chikkamagaluru,2020-08-03
+1991.57,Chikkamagaluru,2020-08-04
+2045.19,Chikkamagaluru,2020-08-05
+2099.85,Chikkamagaluru,2020-08-06
+2155.41,Chikkamagaluru,2020-08-07
+2211.69,Chikkamagaluru,2020-08-08
+2270.44,Chikkamagaluru,2020-08-09
+2333.48,Chikkamagaluru,2020-08-10
+2400.76,Chikkamagaluru,2020-08-11
+2472.13,Chikkamagaluru,2020-08-12
+2547.37,Chikkamagaluru,2020-08-13
+2626.28,Chikkamagaluru,2020-08-14
+2708.81,Chikkamagaluru,2020-08-15
+2794.93,Chikkamagaluru,2020-08-16
+2884.6,Chikkamagaluru,2020-08-17
+2977.82,Chikkamagaluru,2020-08-18
+3074.68,Chikkamagaluru,2020-08-19
+3175.2,Chikkamagaluru,2020-08-20
+3279.26,Chikkamagaluru,2020-08-21
+3386.87,Chikkamagaluru,2020-08-22
+3498.13,Chikkamagaluru,2020-08-23
+3613.13,Chikkamagaluru,2020-08-24
+3731.97,Chikkamagaluru,2020-08-25
+3854.74,Chikkamagaluru,2020-08-26
+3981.56,Chikkamagaluru,2020-08-27
+4112.51,Chikkamagaluru,2020-08-28
+4248.39,Chikkamagaluru,2020-08-29
+4382.11,Chikkamagaluru,2020-08-30
+4506.81,Chikkamagaluru,2020-08-31
+4623.49,Chikkamagaluru,2020-09-01
+4733.03,Chikkamagaluru,2020-09-02
+4836.16,Chikkamagaluru,2020-09-03
+4945.49,Chikkamagaluru,2020-09-04
+5068.58,Chikkamagaluru,2020-09-05
+5201.71,Chikkamagaluru,2020-09-06
+5345.79,Chikkamagaluru,2020-09-07
+5485.46,Chikkamagaluru,2020-09-08
+5613.16,Chikkamagaluru,2020-09-09
+5736.35,Chikkamagaluru,2020-09-10
+5855.25,Chikkamagaluru,2020-09-11
+5970.05,Chikkamagaluru,2020-09-12
+6080.95,Chikkamagaluru,2020-09-13
+6188.1,Chikkamagaluru,2020-09-14
+6291.66,Chikkamagaluru,2020-09-15
+6389.94,Chikkamagaluru,2020-09-16
+6490.79,Chikkamagaluru,2020-09-17
+6603.23,Chikkamagaluru,2020-09-18
+6727.14,Chikkamagaluru,2020-09-19
+6862.5,Chikkamagaluru,2020-09-20
+7009.37,Chikkamagaluru,2020-09-21
+7161.68,Chikkamagaluru,2020-09-22
+7313.6,Chikkamagaluru,2020-09-23
+7465.4,Chikkamagaluru,2020-09-24
+7617.34,Chikkamagaluru,2020-09-25
+7769.63,Chikkamagaluru,2020-09-26
+7922.45,Chikkamagaluru,2020-09-27
+8077.1,Chikkamagaluru,2020-09-28
+8234.14,Chikkamagaluru,2020-09-29
+8392.77,Chikkamagaluru,2020-09-30
+8552.45,Chikkamagaluru,2020-10-01
+8712.72,Chikkamagaluru,2020-10-02
+8873.17,Chikkamagaluru,2020-10-03
+9033.46,Chikkamagaluru,2020-10-04
+9193.25,Chikkamagaluru,2020-10-05
+9349.4,Chikkamagaluru,2020-10-06
+9499.29,Chikkamagaluru,2020-10-07
+9643.24,Chikkamagaluru,2020-10-08
+9781.53,Chikkamagaluru,2020-10-09
+9914.44,Chikkamagaluru,2020-10-10
+10041.2,Chikkamagaluru,2020-10-11
+10161.3,Chikkamagaluru,2020-10-12
+10275.2,Chikkamagaluru,2020-10-13
+10383.3,Chikkamagaluru,2020-10-14
+10486,Chikkamagaluru,2020-10-15
+10583.7,Chikkamagaluru,2020-10-16
+10676.5,Chikkamagaluru,2020-10-17
+10768.8,Chikkamagaluru,2020-10-18
+10863.1,Chikkamagaluru,2020-10-19
+10955.3,Chikkamagaluru,2020-10-20
+11042.7,Chikkamagaluru,2020-10-21
+11125.8,Chikkamagaluru,2020-10-22
+11204.9,Chikkamagaluru,2020-10-23
+11280.5,Chikkamagaluru,2020-10-24
+11352.9,Chikkamagaluru,2020-10-25
+11422.3,Chikkamagaluru,2020-10-26
+11488.9,Chikkamagaluru,2020-10-27
+11553,Chikkamagaluru,2020-10-28
+11614.7,Chikkamagaluru,2020-10-29
+11674.1,Chikkamagaluru,2020-10-30
+11731.4,Chikkamagaluru,2020-10-31
+11786.6,Chikkamagaluru,2020-11-01
+11841.8,Chikkamagaluru,2020-11-02
+11898.6,Chikkamagaluru,2020-11-03
+11957,Chikkamagaluru,2020-11-04
+12013.2,Chikkamagaluru,2020-11-05
+12064.3,Chikkamagaluru,2020-11-06
+12110.7,Chikkamagaluru,2020-11-07
+12153.1,Chikkamagaluru,2020-11-08
+12191.7,Chikkamagaluru,2020-11-09
+12226.5,Chikkamagaluru,2020-11-10
+12257.7,Chikkamagaluru,2020-11-11
+12285.6,Chikkamagaluru,2020-11-12
+12310.5,Chikkamagaluru,2020-11-13
+12332.7,Chikkamagaluru,2020-11-14
+12369.9,Chikkamagaluru,2020-11-15
+12385.4,Chikkamagaluru,2020-11-16
+12399.1,Chikkamagaluru,2020-11-17
+12411.3,Chikkamagaluru,2020-11-18
+12422,Chikkamagaluru,2020-11-19
+12431.5,Chikkamagaluru,2020-11-20
+12439.8,Chikkamagaluru,2020-11-21
+12447.2,Chikkamagaluru,2020-11-22
+12453.8,Chikkamagaluru,2020-11-23
+12459.5,Chikkamagaluru,2020-11-24
+12464.6,Chikkamagaluru,2020-11-25
+12469.1,Chikkamagaluru,2020-11-26
+12473,Chikkamagaluru,2020-11-27
+12476.5,Chikkamagaluru,2020-11-28
+12479.5,Chikkamagaluru,2020-11-29
+12482.3,Chikkamagaluru,2020-11-30
+12484.6,Chikkamagaluru,2020-12-01
+12486.7,Chikkamagaluru,2020-12-02
+12488.6,Chikkamagaluru,2020-12-03
+12490.2,Chikkamagaluru,2020-12-04
+12491.6,Chikkamagaluru,2020-12-05
+12492.9,Chikkamagaluru,2020-12-06
+12494,Chikkamagaluru,2020-12-07
+12495,Chikkamagaluru,2020-12-08
+12495.9,Chikkamagaluru,2020-12-09
+12496.6,Chikkamagaluru,2020-12-10
+12497.3,Chikkamagaluru,2020-12-11
+12497.9,Chikkamagaluru,2020-12-12
+12498.4,Chikkamagaluru,2020-12-13
+12498.9,Chikkamagaluru,2020-12-14
+12499.3,Chikkamagaluru,2020-12-15
+60.7297,Chitradurga,2020-05-26
+59.6039,Chitradurga,2020-05-27
+58.5024,Chitradurga,2020-05-28
+57.4644,Chitradurga,2020-05-29
+56.5085,Chitradurga,2020-05-30
+55.6406,Chitradurga,2020-05-31
+54.86,Chitradurga,2020-06-01
+54.1623,Chitradurga,2020-06-02
+53.5414,Chitradurga,2020-06-03
+52.9902,Chitradurga,2020-06-04
+52.502,Chitradurga,2020-06-05
+52.0702,Chitradurga,2020-06-06
+51.6885,Chitradurga,2020-06-07
+51.3514,Chitradurga,2020-06-08
+51.0537,Chitradurga,2020-06-09
+50.7911,Chitradurga,2020-06-10
+50.5593,Chitradurga,2020-06-11
+50.3548,Chitradurga,2020-06-12
+50.3105,Chitradurga,2020-06-13
+50.507,Chitradurga,2020-06-14
+50.8965,Chitradurga,2020-06-15
+51.4592,Chitradurga,2020-06-16
+52.1944,Chitradurga,2020-06-17
+53.1154,Chitradurga,2020-06-18
+54.2469,Chitradurga,2020-06-19
+55.6239,Chitradurga,2020-06-20
+57.2918,Chitradurga,2020-06-21
+59.3073,Chitradurga,2020-06-22
+61.7401,Chitradurga,2020-06-23
+64.6747,Chitradurga,2020-06-24
+68.2135,Chitradurga,2020-06-25
+72.4803,Chitradurga,2020-06-26
+77.6244,Chitradurga,2020-06-27
+83.3874,Chitradurga,2020-06-28
+89.57,Chitradurga,2020-06-29
+96.3819,Chitradurga,2020-06-30
+104.003,Chitradurga,2020-07-01
+112.603,Chitradurga,2020-07-02
+122.353,Chitradurga,2020-07-03
+133.434,Chitradurga,2020-07-04
+146.047,Chitradurga,2020-07-05
+160.413,Chitradurga,2020-07-06
+176.781,Chitradurga,2020-07-07
+195.436,Chitradurga,2020-07-08
+216.699,Chitradurga,2020-07-09
+240.936,Chitradurga,2020-07-10
+269.877,Chitradurga,2020-07-11
+305.195,Chitradurga,2020-07-12
+342.502,Chitradurga,2020-07-13
+378.558,Chitradurga,2020-07-14
+414.888,Chitradurga,2020-07-15
+452.506,Chitradurga,2020-07-16
+492.117,Chitradurga,2020-07-17
+540.418,Chitradurga,2020-07-18
+602.842,Chitradurga,2020-07-19
+679.171,Chitradurga,2020-07-20
+751.256,Chitradurga,2020-07-21
+807.059,Chitradurga,2020-07-22
+852.936,Chitradurga,2020-07-23
+892.768,Chitradurga,2020-07-24
+928.923,Chitradurga,2020-07-25
+962.85,Chitradurga,2020-07-26
+995.431,Chitradurga,2020-07-27
+1040.52,Chitradurga,2020-07-28
+1107.12,Chitradurga,2020-07-29
+1191.21,Chitradurga,2020-07-30
+1290.85,Chitradurga,2020-07-31
+1381.18,Chitradurga,2020-08-01
+1447.28,Chitradurga,2020-08-02
+1498.38,Chitradurga,2020-08-03
+1540.11,Chitradurga,2020-08-04
+1575.92,Chitradurga,2020-08-05
+1617.36,Chitradurga,2020-08-06
+1669.24,Chitradurga,2020-08-07
+1726.54,Chitradurga,2020-08-08
+1786.43,Chitradurga,2020-08-09
+1847.26,Chitradurga,2020-08-10
+1908.13,Chitradurga,2020-08-11
+1986.72,Chitradurga,2020-08-12
+2086.98,Chitradurga,2020-08-13
+2169.94,Chitradurga,2020-08-14
+2223.7,Chitradurga,2020-08-15
+2277.54,Chitradurga,2020-08-16
+2344.81,Chitradurga,2020-08-17
+2423.12,Chitradurga,2020-08-18
+2525.34,Chitradurga,2020-08-19
+2662.52,Chitradurga,2020-08-20
+2833.37,Chitradurga,2020-08-21
+3039.09,Chitradurga,2020-08-22
+3243.32,Chitradurga,2020-08-23
+3420.49,Chitradurga,2020-08-24
+3583.07,Chitradurga,2020-08-25
+3738.76,Chitradurga,2020-08-26
+3892.39,Chitradurga,2020-08-27
+4017.1,Chitradurga,2020-08-28
+4100.51,Chitradurga,2020-08-29
+4158.97,Chitradurga,2020-08-30
+4202.12,Chitradurga,2020-08-31
+4235.63,Chitradurga,2020-09-01
+4265.14,Chitradurga,2020-09-02
+4336.75,Chitradurga,2020-09-03
+4474.25,Chitradurga,2020-09-04
+4637.69,Chitradurga,2020-09-05
+4805.45,Chitradurga,2020-09-06
+4982.46,Chitradurga,2020-09-07
+5172.5,Chitradurga,2020-09-08
+5354.48,Chitradurga,2020-09-09
+5513.49,Chitradurga,2020-09-10
+5657.54,Chitradurga,2020-09-11
+5791.33,Chitradurga,2020-09-12
+5917.63,Chitradurga,2020-09-13
+6038.11,Chitradurga,2020-09-14
+6153.76,Chitradurga,2020-09-15
+6282.52,Chitradurga,2020-09-16
+6433.63,Chitradurga,2020-09-17
+6599.14,Chitradurga,2020-09-18
+6774.45,Chitradurga,2020-09-19
+6956.94,Chitradurga,2020-09-20
+7145.09,Chitradurga,2020-09-21
+7338.07,Chitradurga,2020-09-22
+7535.4,Chitradurga,2020-09-23
+7736.84,Chitradurga,2020-09-24
+7942.29,Chitradurga,2020-09-25
+8151.7,Chitradurga,2020-09-26
+8365.08,Chitradurga,2020-09-27
+8582.47,Chitradurga,2020-09-28
+8795.39,Chitradurga,2020-09-29
+8970.05,Chitradurga,2020-09-30
+9097.36,Chitradurga,2020-10-01
+9195.48,Chitradurga,2020-10-02
+9317.39,Chitradurga,2020-10-03
+9478.3,Chitradurga,2020-10-04
+9652.18,Chitradurga,2020-10-05
+9796.91,Chitradurga,2020-10-06
+9897.87,Chitradurga,2020-10-07
+9972.28,Chitradurga,2020-10-08
+10030.3,Chitradurga,2020-10-09
+10100.3,Chitradurga,2020-10-10
+10191,Chitradurga,2020-10-11
+10288.7,Chitradurga,2020-10-12
+10395.9,Chitradurga,2020-10-13
+10500.5,Chitradurga,2020-10-14
+10592.3,Chitradurga,2020-10-15
+10676.1,Chitradurga,2020-10-16
+10755,Chitradurga,2020-10-17
+10830.4,Chitradurga,2020-10-18
+10903.5,Chitradurga,2020-10-19
+10974.7,Chitradurga,2020-10-20
+11044.3,Chitradurga,2020-10-21
+11123.9,Chitradurga,2020-10-22
+11214.8,Chitradurga,2020-10-23
+11293.6,Chitradurga,2020-10-24
+11351.9,Chitradurga,2020-10-25
+11397.6,Chitradurga,2020-10-26
+11435.4,Chitradurga,2020-10-27
+11482.6,Chitradurga,2020-10-28
+11549,Chitradurga,2020-10-29
+11629.3,Chitradurga,2020-10-30
+11720.8,Chitradurga,2020-10-31
+11810.8,Chitradurga,2020-11-01
+11891.4,Chitradurga,2020-11-02
+11966.6,Chitradurga,2020-11-03
+12038.7,Chitradurga,2020-11-04
+12108.9,Chitradurga,2020-11-05
+12164.8,Chitradurga,2020-11-06
+12205.1,Chitradurga,2020-11-07
+12238.8,Chitradurga,2020-11-08
+12267.9,Chitradurga,2020-11-09
+12300.3,Chitradurga,2020-11-10
+12339.2,Chitradurga,2020-11-11
+12381.3,Chitradurga,2020-11-12
+12424.6,Chitradurga,2020-11-13
+12468.1,Chitradurga,2020-11-14
+12550.8,Chitradurga,2020-11-15
+12589.4,Chitradurga,2020-11-16
+12626.7,Chitradurga,2020-11-17
+12662.5,Chitradurga,2020-11-18
+12697.1,Chitradurga,2020-11-19
+12730.5,Chitradurga,2020-11-20
+12762.7,Chitradurga,2020-11-21
+12793.8,Chitradurga,2020-11-22
+12823.8,Chitradurga,2020-11-23
+12852.8,Chitradurga,2020-11-24
+12880.8,Chitradurga,2020-11-25
+12907.9,Chitradurga,2020-11-26
+12934,Chitradurga,2020-11-27
+12959.2,Chitradurga,2020-11-28
+12983.6,Chitradurga,2020-11-29
+13007.1,Chitradurga,2020-11-30
+13029.8,Chitradurga,2020-12-01
+13051.8,Chitradurga,2020-12-02
+13073,Chitradurga,2020-12-03
+13093.4,Chitradurga,2020-12-04
+13113.2,Chitradurga,2020-12-05
+13132.3,Chitradurga,2020-12-06
+13150.7,Chitradurga,2020-12-07
+13168.5,Chitradurga,2020-12-08
+13185.7,Chitradurga,2020-12-09
+13202.3,Chitradurga,2020-12-10
+13218.4,Chitradurga,2020-12-11
+13233.9,Chitradurga,2020-12-12
+13248.8,Chitradurga,2020-12-13
+13263.3,Chitradurga,2020-12-14
+13277.2,Chitradurga,2020-12-15
+22.3449,Dakshina Kannada,2020-04-21
+23.4621,Dakshina Kannada,2020-04-22
+24.648,Dakshina Kannada,2020-04-23
+25.9052,Dakshina Kannada,2020-04-24
+27.2369,Dakshina Kannada,2020-04-25
+28.6464,Dakshina Kannada,2020-04-26
+30.1376,Dakshina Kannada,2020-04-27
+31.7146,Dakshina Kannada,2020-04-28
+33.3819,Dakshina Kannada,2020-04-29
+35.1442,Dakshina Kannada,2020-04-30
+37.0067,Dakshina Kannada,2020-05-01
+38.9747,Dakshina Kannada,2020-05-02
+41.0541,Dakshina Kannada,2020-05-03
+43.2511,Dakshina Kannada,2020-05-04
+45.5721,Dakshina Kannada,2020-05-05
+47.9675,Dakshina Kannada,2020-05-06
+50.393,Dakshina Kannada,2020-05-07
+52.8604,Dakshina Kannada,2020-05-08
+55.3795,Dakshina Kannada,2020-05-09
+57.959,Dakshina Kannada,2020-05-10
+60.6063,Dakshina Kannada,2020-05-11
+63.328,Dakshina Kannada,2020-05-12
+66.1303,Dakshina Kannada,2020-05-13
+69.1166,Dakshina Kannada,2020-05-14
+72.3825,Dakshina Kannada,2020-05-15
+75.9272,Dakshina Kannada,2020-05-16
+80.0664,Dakshina Kannada,2020-05-17
+85.1367,Dakshina Kannada,2020-05-18
+91.1979,Dakshina Kannada,2020-05-19
+98.3328,Dakshina Kannada,2020-05-20
+106.647,Dakshina Kannada,2020-05-21
+115.17,Dakshina Kannada,2020-05-22
+122.983,Dakshina Kannada,2020-05-23
+130.23,Dakshina Kannada,2020-05-24
+137.026,Dakshina Kannada,2020-05-25
+144.105,Dakshina Kannada,2020-05-26
+152.121,Dakshina Kannada,2020-05-27
+161.075,Dakshina Kannada,2020-05-28
+170.988,Dakshina Kannada,2020-05-29
+181.891,Dakshina Kannada,2020-05-30
+193.827,Dakshina Kannada,2020-05-31
+206.851,Dakshina Kannada,2020-06-01
+221.028,Dakshina Kannada,2020-06-02
+236.433,Dakshina Kannada,2020-06-03
+253.151,Dakshina Kannada,2020-06-04
+271.277,Dakshina Kannada,2020-06-05
+290.916,Dakshina Kannada,2020-06-06
+312.184,Dakshina Kannada,2020-06-07
+335.206,Dakshina Kannada,2020-06-08
+360.12,Dakshina Kannada,2020-06-09
+384.081,Dakshina Kannada,2020-06-10
+404.695,Dakshina Kannada,2020-06-11
+422.583,Dakshina Kannada,2020-06-12
+438.246,Dakshina Kannada,2020-06-13
+452.083,Dakshina Kannada,2020-06-14
+464.417,Dakshina Kannada,2020-06-15
+475.506,Dakshina Kannada,2020-06-16
+485.557,Dakshina Kannada,2020-06-17
+494.738,Dakshina Kannada,2020-06-18
+505.844,Dakshina Kannada,2020-06-19
+521.335,Dakshina Kannada,2020-06-20
+541.031,Dakshina Kannada,2020-06-21
+564.862,Dakshina Kannada,2020-06-22
+592.857,Dakshina Kannada,2020-06-23
+625.128,Dakshina Kannada,2020-06-24
+661.867,Dakshina Kannada,2020-06-25
+703.339,Dakshina Kannada,2020-06-26
+748.989,Dakshina Kannada,2020-06-27
+798.439,Dakshina Kannada,2020-06-28
+852.27,Dakshina Kannada,2020-06-29
+911.092,Dakshina Kannada,2020-06-30
+975.556,Dakshina Kannada,2020-07-01
+1046.36,Dakshina Kannada,2020-07-02
+1124.26,Dakshina Kannada,2020-07-03
+1210.08,Dakshina Kannada,2020-07-04
+1304.71,Dakshina Kannada,2020-07-05
+1409.14,Dakshina Kannada,2020-07-06
+1524.44,Dakshina Kannada,2020-07-07
+1651.8,Dakshina Kannada,2020-07-08
+1792.52,Dakshina Kannada,2020-07-09
+1948.03,Dakshina Kannada,2020-07-10
+2119.93,Dakshina Kannada,2020-07-11
+2290.47,Dakshina Kannada,2020-07-12
+2443.47,Dakshina Kannada,2020-07-13
+2587.31,Dakshina Kannada,2020-07-14
+2732.41,Dakshina Kannada,2020-07-15
+2882.49,Dakshina Kannada,2020-07-16
+3037.32,Dakshina Kannada,2020-07-17
+3192.21,Dakshina Kannada,2020-07-18
+3343.56,Dakshina Kannada,2020-07-19
+3492.55,Dakshina Kannada,2020-07-20
+3640.14,Dakshina Kannada,2020-07-21
+3787.15,Dakshina Kannada,2020-07-22
+3934.28,Dakshina Kannada,2020-07-23
+4082.09,Dakshina Kannada,2020-07-24
+4227.38,Dakshina Kannada,2020-07-25
+4367.5,Dakshina Kannada,2020-07-26
+4503.53,Dakshina Kannada,2020-07-27
+4636.35,Dakshina Kannada,2020-07-28
+4766.69,Dakshina Kannada,2020-07-29
+4895.16,Dakshina Kannada,2020-07-30
+5022.28,Dakshina Kannada,2020-07-31
+5158.24,Dakshina Kannada,2020-08-01
+5304.58,Dakshina Kannada,2020-08-02
+5476.78,Dakshina Kannada,2020-08-03
+5686.49,Dakshina Kannada,2020-08-04
+5908.24,Dakshina Kannada,2020-08-05
+6126.11,Dakshina Kannada,2020-08-06
+6341.64,Dakshina Kannada,2020-08-07
+6556.05,Dakshina Kannada,2020-08-08
+6770.26,Dakshina Kannada,2020-08-09
+6985.01,Dakshina Kannada,2020-08-10
+7200.89,Dakshina Kannada,2020-08-11
+7418.33,Dakshina Kannada,2020-08-12
+7637.69,Dakshina Kannada,2020-08-13
+7859.28,Dakshina Kannada,2020-08-14
+8083.3,Dakshina Kannada,2020-08-15
+8309.96,Dakshina Kannada,2020-08-16
+8539.41,Dakshina Kannada,2020-08-17
+8771.77,Dakshina Kannada,2020-08-18
+9007.17,Dakshina Kannada,2020-08-19
+9245.68,Dakshina Kannada,2020-08-20
+9487.4,Dakshina Kannada,2020-08-21
+9732.39,Dakshina Kannada,2020-08-22
+9980.72,Dakshina Kannada,2020-08-23
+10232.5,Dakshina Kannada,2020-08-24
+10487.6,Dakshina Kannada,2020-08-25
+10746.3,Dakshina Kannada,2020-08-26
+11002.9,Dakshina Kannada,2020-08-27
+11253.4,Dakshina Kannada,2020-08-28
+11510.8,Dakshina Kannada,2020-08-29
+11786.5,Dakshina Kannada,2020-08-30
+12080.4,Dakshina Kannada,2020-08-31
+12392.5,Dakshina Kannada,2020-09-01
+12723,Dakshina Kannada,2020-09-02
+13072.2,Dakshina Kannada,2020-09-03
+13440.3,Dakshina Kannada,2020-09-04
+13828,Dakshina Kannada,2020-09-05
+14221.5,Dakshina Kannada,2020-09-06
+14614,Dakshina Kannada,2020-09-07
+15011.8,Dakshina Kannada,2020-09-08
+15415.5,Dakshina Kannada,2020-09-09
+15825.4,Dakshina Kannada,2020-09-10
+16241.9,Dakshina Kannada,2020-09-11
+16676.5,Dakshina Kannada,2020-09-12
+17114.6,Dakshina Kannada,2020-09-13
+17534.6,Dakshina Kannada,2020-09-14
+17941.4,Dakshina Kannada,2020-09-15
+18339.1,Dakshina Kannada,2020-09-16
+18751.8,Dakshina Kannada,2020-09-17
+19199.2,Dakshina Kannada,2020-09-18
+19650,Dakshina Kannada,2020-09-19
+20078.2,Dakshina Kannada,2020-09-20
+20488,Dakshina Kannada,2020-09-21
+20882.6,Dakshina Kannada,2020-09-22
+21264.8,Dakshina Kannada,2020-09-23
+21636.7,Dakshina Kannada,2020-09-24
+22000.1,Dakshina Kannada,2020-09-25
+22356.4,Dakshina Kannada,2020-09-26
+22706.6,Dakshina Kannada,2020-09-27
+23048.6,Dakshina Kannada,2020-09-28
+23379.7,Dakshina Kannada,2020-09-29
+23700,Dakshina Kannada,2020-09-30
+24009.6,Dakshina Kannada,2020-10-01
+24308.6,Dakshina Kannada,2020-10-02
+24597.4,Dakshina Kannada,2020-10-03
+24879.9,Dakshina Kannada,2020-10-04
+25158.8,Dakshina Kannada,2020-10-05
+25432.7,Dakshina Kannada,2020-10-06
+25700.6,Dakshina Kannada,2020-10-07
+25961.8,Dakshina Kannada,2020-10-08
+26215.8,Dakshina Kannada,2020-10-09
+26462.4,Dakshina Kannada,2020-10-10
+26701.4,Dakshina Kannada,2020-10-11
+26932.8,Dakshina Kannada,2020-10-12
+27156.6,Dakshina Kannada,2020-10-13
+27372.9,Dakshina Kannada,2020-10-14
+27581.8,Dakshina Kannada,2020-10-15
+27783.5,Dakshina Kannada,2020-10-16
+27978.1,Dakshina Kannada,2020-10-17
+28165.9,Dakshina Kannada,2020-10-18
+28346.5,Dakshina Kannada,2020-10-19
+28514.9,Dakshina Kannada,2020-10-20
+28667.9,Dakshina Kannada,2020-10-21
+28808.3,Dakshina Kannada,2020-10-22
+28937.7,Dakshina Kannada,2020-10-23
+29058,Dakshina Kannada,2020-10-24
+29170.2,Dakshina Kannada,2020-10-25
+29275.5,Dakshina Kannada,2020-10-26
+29374.1,Dakshina Kannada,2020-10-27
+29466.2,Dakshina Kannada,2020-10-28
+29552,Dakshina Kannada,2020-10-29
+29631.8,Dakshina Kannada,2020-10-30
+29710.2,Dakshina Kannada,2020-10-31
+29790.1,Dakshina Kannada,2020-11-01
+29870.1,Dakshina Kannada,2020-11-02
+29949.1,Dakshina Kannada,2020-11-03
+30026.5,Dakshina Kannada,2020-11-04
+30101.7,Dakshina Kannada,2020-11-05
+30174.7,Dakshina Kannada,2020-11-06
+30245,Dakshina Kannada,2020-11-07
+30312.6,Dakshina Kannada,2020-11-08
+30377.4,Dakshina Kannada,2020-11-09
+30439.5,Dakshina Kannada,2020-11-10
+30498.8,Dakshina Kannada,2020-11-11
+30555.4,Dakshina Kannada,2020-11-12
+30609.4,Dakshina Kannada,2020-11-13
+30660.8,Dakshina Kannada,2020-11-14
+30756.5,Dakshina Kannada,2020-11-15
+30800.9,Dakshina Kannada,2020-11-16
+30843.2,Dakshina Kannada,2020-11-17
+30883.3,Dakshina Kannada,2020-11-18
+30921.6,Dakshina Kannada,2020-11-19
+30957.9,Dakshina Kannada,2020-11-20
+30992.5,Dakshina Kannada,2020-11-21
+31025.4,Dakshina Kannada,2020-11-22
+31056.6,Dakshina Kannada,2020-11-23
+31086.3,Dakshina Kannada,2020-11-24
+31114.6,Dakshina Kannada,2020-11-25
+31141.4,Dakshina Kannada,2020-11-26
+31166.9,Dakshina Kannada,2020-11-27
+31191.2,Dakshina Kannada,2020-11-28
+31214.2,Dakshina Kannada,2020-11-29
+31236.2,Dakshina Kannada,2020-11-30
+31257,Dakshina Kannada,2020-12-01
+31276.8,Dakshina Kannada,2020-12-02
+31295.6,Dakshina Kannada,2020-12-03
+31313.5,Dakshina Kannada,2020-12-04
+31330.5,Dakshina Kannada,2020-12-05
+31346.7,Dakshina Kannada,2020-12-06
+31362.1,Dakshina Kannada,2020-12-07
+31376.7,Dakshina Kannada,2020-12-08
+31390.5,Dakshina Kannada,2020-12-09
+31403.7,Dakshina Kannada,2020-12-10
+31416.3,Dakshina Kannada,2020-12-11
+31428.2,Dakshina Kannada,2020-12-12
+31439.5,Dakshina Kannada,2020-12-13
+31450.3,Dakshina Kannada,2020-12-14
+31460.5,Dakshina Kannada,2020-12-15
+144.406,Davanagere,2020-05-04
+156.257,Davanagere,2020-05-05
+165.261,Davanagere,2020-05-06
+172.634,Davanagere,2020-05-07
+179.079,Davanagere,2020-05-08
+185,Davanagere,2020-05-09
+187.659,Davanagere,2020-05-10
+186.186,Davanagere,2020-05-11
+182.568,Davanagere,2020-05-12
+177.931,Davanagere,2020-05-13
+172.909,Davanagere,2020-05-14
+167.852,Davanagere,2020-05-15
+162.948,Davanagere,2020-05-16
+158.291,Davanagere,2020-05-17
+153.923,Davanagere,2020-05-18
+149.857,Davanagere,2020-05-19
+146.088,Davanagere,2020-05-20
+143.915,Davanagere,2020-05-21
+143.607,Davanagere,2020-05-22
+144.215,Davanagere,2020-05-23
+145.243,Davanagere,2020-05-24
+146.437,Davanagere,2020-05-25
+147.665,Davanagere,2020-05-26
+148.864,Davanagere,2020-05-27
+150.004,Davanagere,2020-05-28
+151.624,Davanagere,2020-05-29
+153.919,Davanagere,2020-05-30
+156.567,Davanagere,2020-05-31
+159.398,Davanagere,2020-06-01
+162.321,Davanagere,2020-06-02
+165.291,Davanagere,2020-06-03
+166.956,Davanagere,2020-06-04
+167.009,Davanagere,2020-06-05
+166.368,Davanagere,2020-06-06
+165.486,Davanagere,2020-06-07
+164.58,Davanagere,2020-06-08
+163.744,Davanagere,2020-06-09
+163.667,Davanagere,2020-06-10
+164.61,Davanagere,2020-06-11
+166.226,Davanagere,2020-06-12
+168.349,Davanagere,2020-06-13
+170.914,Davanagere,2020-06-14
+173.909,Davanagere,2020-06-15
+177.358,Davanagere,2020-06-16
+180.402,Davanagere,2020-06-17
+182.582,Davanagere,2020-06-18
+184.279,Davanagere,2020-06-19
+185.694,Davanagere,2020-06-20
+187.162,Davanagere,2020-06-21
+188.833,Davanagere,2020-06-22
+190.618,Davanagere,2020-06-23
+192.469,Davanagere,2020-06-24
+194.363,Davanagere,2020-06-25
+196.285,Davanagere,2020-06-26
+199.568,Davanagere,2020-06-27
+205.418,Davanagere,2020-06-28
+214.025,Davanagere,2020-06-29
+225.974,Davanagere,2020-06-30
+242.213,Davanagere,2020-07-01
+264.176,Davanagere,2020-07-02
+287.262,Davanagere,2020-07-03
+307.63,Davanagere,2020-07-04
+327.067,Davanagere,2020-07-05
+346.547,Davanagere,2020-07-06
+366.62,Davanagere,2020-07-07
+394.407,Davanagere,2020-07-08
+436.21,Davanagere,2020-07-09
+492.933,Davanagere,2020-07-10
+566.961,Davanagere,2020-07-11
+662.104,Davanagere,2020-07-12
+762.281,Davanagere,2020-07-13
+855.103,Davanagere,2020-07-14
+946.986,Davanagere,2020-07-15
+1041.52,Davanagere,2020-07-16
+1140.84,Davanagere,2020-07-17
+1246.3,Davanagere,2020-07-18
+1358.89,Davanagere,2020-07-19
+1463.36,Davanagere,2020-07-20
+1551.75,Davanagere,2020-07-21
+1631.16,Davanagere,2020-07-22
+1705.36,Davanagere,2020-07-23
+1776.34,Davanagere,2020-07-24
+1867.56,Davanagere,2020-07-25
+1992.98,Davanagere,2020-07-26
+2145.57,Davanagere,2020-07-27
+2322.71,Davanagere,2020-07-28
+2507.34,Davanagere,2020-07-29
+2689.17,Davanagere,2020-07-30
+2874.05,Davanagere,2020-07-31
+3065.28,Davanagere,2020-08-01
+3264.89,Davanagere,2020-08-02
+3474.18,Davanagere,2020-08-03
+3694.13,Davanagere,2020-08-04
+3925.55,Davanagere,2020-08-05
+4169.16,Davanagere,2020-08-06
+4425.24,Davanagere,2020-08-07
+4680.71,Davanagere,2020-08-08
+4898.7,Davanagere,2020-08-09
+5072.48,Davanagere,2020-08-10
+5259.45,Davanagere,2020-08-11
+5484.63,Davanagere,2020-08-12
+5732.62,Davanagere,2020-08-13
+5995.46,Davanagere,2020-08-14
+6274.42,Davanagere,2020-08-15
+6570.29,Davanagere,2020-08-16
+6879.88,Davanagere,2020-08-17
+7201.54,Davanagere,2020-08-18
+7534.56,Davanagere,2020-08-19
+7878.81,Davanagere,2020-08-20
+8181.85,Davanagere,2020-08-21
+8420.52,Davanagere,2020-08-22
+8682.03,Davanagere,2020-08-23
+8981.18,Davanagere,2020-08-24
+9286.11,Davanagere,2020-08-25
+9602.03,Davanagere,2020-08-26
+9890.97,Davanagere,2020-08-27
+10134,Davanagere,2020-08-28
+10351.4,Davanagere,2020-08-29
+10554.3,Davanagere,2020-08-30
+10779.9,Davanagere,2020-08-31
+11041.4,Davanagere,2020-09-01
+11321.3,Davanagere,2020-09-02
+11562.9,Davanagere,2020-09-03
+11743.9,Davanagere,2020-09-04
+11966,Davanagere,2020-09-05
+12221.8,Davanagere,2020-09-06
+12456.7,Davanagere,2020-09-07
+12643.2,Davanagere,2020-09-08
+12792.4,Davanagere,2020-09-09
+12938.7,Davanagere,2020-09-10
+13083.2,Davanagere,2020-09-11
+13226.6,Davanagere,2020-09-12
+13369.4,Davanagere,2020-09-13
+13511.8,Davanagere,2020-09-14
+13653.8,Davanagere,2020-09-15
+13795.5,Davanagere,2020-09-16
+13937.1,Davanagere,2020-09-17
+14078.4,Davanagere,2020-09-18
+14219.5,Davanagere,2020-09-19
+14360.5,Davanagere,2020-09-20
+14695.3,Davanagere,2020-09-21
+15075.7,Davanagere,2020-09-22
+15329.4,Davanagere,2020-09-23
+15422.9,Davanagere,2020-09-24
+15473,Davanagere,2020-09-25
+15586.8,Davanagere,2020-09-26
+15740.5,Davanagere,2020-09-27
+15909.5,Davanagere,2020-09-28
+16082.3,Davanagere,2020-09-29
+16262.1,Davanagere,2020-09-30
+16529.3,Davanagere,2020-10-01
+16859,Davanagere,2020-10-02
+17145.8,Davanagere,2020-10-03
+17379.6,Davanagere,2020-10-04
+17583,Davanagere,2020-10-05
+17767.7,Davanagere,2020-10-06
+17939.6,Davanagere,2020-10-07
+18101.9,Davanagere,2020-10-08
+18256.3,Davanagere,2020-10-09
+18403.8,Davanagere,2020-10-10
+18545.1,Davanagere,2020-10-11
+18680.4,Davanagere,2020-10-12
+18810.2,Davanagere,2020-10-13
+18934.8,Davanagere,2020-10-14
+19054.3,Davanagere,2020-10-15
+19162.2,Davanagere,2020-10-16
+19257,Davanagere,2020-10-17
+19343.5,Davanagere,2020-10-18
+19424.1,Davanagere,2020-10-19
+19500.2,Davanagere,2020-10-20
+19572.7,Davanagere,2020-10-21
+19641.9,Davanagere,2020-10-22
+19708.3,Davanagere,2020-10-23
+19769.3,Davanagere,2020-10-24
+19824.3,Davanagere,2020-10-25
+19874.9,Davanagere,2020-10-26
+19922,Davanagere,2020-10-27
+19966.2,Davanagere,2020-10-28
+20007.7,Davanagere,2020-10-29
+20046.3,Davanagere,2020-10-30
+20085.2,Davanagere,2020-10-31
+20126.3,Davanagere,2020-11-01
+20168,Davanagere,2020-11-02
+20209.5,Davanagere,2020-11-03
+20250.2,Davanagere,2020-11-04
+20290.1,Davanagere,2020-11-05
+20323.4,Davanagere,2020-11-06
+20348.4,Davanagere,2020-11-07
+20368.4,Davanagere,2020-11-08
+20385.2,Davanagere,2020-11-09
+20404.3,Davanagere,2020-11-10
+20427.6,Davanagere,2020-11-11
+20452.8,Davanagere,2020-11-12
+20478.7,Davanagere,2020-11-13
+20504.6,Davanagere,2020-11-14
+20553.7,Davanagere,2020-11-15
+20576.7,Davanagere,2020-11-16
+20598.8,Davanagere,2020-11-17
+20620.2,Davanagere,2020-11-18
+20640.8,Davanagere,2020-11-19
+20660.8,Davanagere,2020-11-20
+20680.2,Davanagere,2020-11-21
+20698.9,Davanagere,2020-11-22
+20717.1,Davanagere,2020-11-23
+20734.6,Davanagere,2020-11-24
+20751.6,Davanagere,2020-11-25
+20768.1,Davanagere,2020-11-26
+20784,Davanagere,2020-11-27
+20799.5,Davanagere,2020-11-28
+20814.5,Davanagere,2020-11-29
+20828.9,Davanagere,2020-11-30
+20843,Davanagere,2020-12-01
+20856.5,Davanagere,2020-12-02
+20869.7,Davanagere,2020-12-03
+20882.4,Davanagere,2020-12-04
+20894.8,Davanagere,2020-12-05
+20906.7,Davanagere,2020-12-06
+20918.3,Davanagere,2020-12-07
+20929.5,Davanagere,2020-12-08
+20940.3,Davanagere,2020-12-09
+20950.8,Davanagere,2020-12-10
+20961,Davanagere,2020-12-11
+20970.9,Davanagere,2020-12-12
+20980.4,Davanagere,2020-12-13
+20989.6,Davanagere,2020-12-14
+20998.6,Davanagere,2020-12-15
+159.252,Dharwad,2020-05-12
+166.217,Dharwad,2020-05-13
+173.622,Dharwad,2020-05-14
+180.895,Dharwad,2020-05-15
+187.729,Dharwad,2020-05-16
+194.396,Dharwad,2020-05-17
+201.054,Dharwad,2020-05-18
+207.863,Dharwad,2020-05-19
+214.915,Dharwad,2020-05-20
+222.211,Dharwad,2020-05-21
+229.758,Dharwad,2020-05-22
+236.272,Dharwad,2020-05-23
+241.176,Dharwad,2020-05-24
+245.143,Dharwad,2020-05-25
+248.556,Dharwad,2020-05-26
+251.632,Dharwad,2020-05-27
+254.494,Dharwad,2020-05-28
+257.212,Dharwad,2020-05-29
+259.827,Dharwad,2020-05-30
+262.362,Dharwad,2020-05-31
+264.83,Dharwad,2020-06-01
+267.24,Dharwad,2020-06-02
+274.689,Dharwad,2020-06-03
+290.896,Dharwad,2020-06-04
+315.091,Dharwad,2020-06-05
+340.72,Dharwad,2020-06-06
+363.163,Dharwad,2020-06-07
+384.303,Dharwad,2020-06-08
+405.237,Dharwad,2020-06-09
+422.425,Dharwad,2020-06-10
+434.228,Dharwad,2020-06-11
+442.932,Dharwad,2020-06-12
+449.831,Dharwad,2020-06-13
+455.661,Dharwad,2020-06-14
+460.838,Dharwad,2020-06-15
+465.601,Dharwad,2020-06-16
+471.083,Dharwad,2020-06-17
+480.225,Dharwad,2020-06-18
+493.774,Dharwad,2020-06-19
+510.33,Dharwad,2020-06-20
+529.129,Dharwad,2020-06-21
+552.743,Dharwad,2020-06-22
+582.966,Dharwad,2020-06-23
+618.953,Dharwad,2020-06-24
+660.469,Dharwad,2020-06-25
+707.653,Dharwad,2020-06-26
+760.886,Dharwad,2020-06-27
+821.045,Dharwad,2020-06-28
+885.993,Dharwad,2020-06-29
+954.281,Dharwad,2020-06-30
+1027.11,Dharwad,2020-07-01
+1105.42,Dharwad,2020-07-02
+1190.27,Dharwad,2020-07-03
+1282.58,Dharwad,2020-07-04
+1383.22,Dharwad,2020-07-05
+1493.06,Dharwad,2020-07-06
+1613.17,Dharwad,2020-07-07
+1744.63,Dharwad,2020-07-08
+1888.45,Dharwad,2020-07-09
+2045.74,Dharwad,2020-07-10
+2217.73,Dharwad,2020-07-11
+2405.8,Dharwad,2020-07-12
+2590.37,Dharwad,2020-07-13
+2760.23,Dharwad,2020-07-14
+2924.29,Dharwad,2020-07-15
+3087.73,Dharwad,2020-07-16
+3253.61,Dharwad,2020-07-17
+3423.75,Dharwad,2020-07-18
+3599.31,Dharwad,2020-07-19
+3781.07,Dharwad,2020-07-20
+3969.57,Dharwad,2020-07-21
+4156.43,Dharwad,2020-07-22
+4338.09,Dharwad,2020-07-23
+4519.67,Dharwad,2020-07-24
+4651.27,Dharwad,2020-07-25
+4770,Dharwad,2020-07-26
+4923.2,Dharwad,2020-07-27
+5090.24,Dharwad,2020-07-28
+5265.16,Dharwad,2020-07-29
+5448.74,Dharwad,2020-07-30
+5595.17,Dharwad,2020-07-31
+5749.83,Dharwad,2020-08-01
+5991.19,Dharwad,2020-08-02
+6256.11,Dharwad,2020-08-03
+6494.54,Dharwad,2020-08-04
+6720.73,Dharwad,2020-08-05
+6942.68,Dharwad,2020-08-06
+7164.89,Dharwad,2020-08-07
+7389.93,Dharwad,2020-08-08
+7615.95,Dharwad,2020-08-09
+7837.39,Dharwad,2020-08-10
+8086.18,Dharwad,2020-08-11
+8342.52,Dharwad,2020-08-12
+8577.03,Dharwad,2020-08-13
+8801.07,Dharwad,2020-08-14
+9020.94,Dharwad,2020-08-15
+9240.3,Dharwad,2020-08-16
+9461.19,Dharwad,2020-08-17
+9658.38,Dharwad,2020-08-18
+9846.47,Dharwad,2020-08-19
+10047.6,Dharwad,2020-08-20
+10253.1,Dharwad,2020-08-21
+10458.6,Dharwad,2020-08-22
+10713.9,Dharwad,2020-08-23
+11037.7,Dharwad,2020-08-24
+11404.4,Dharwad,2020-08-25
+11753,Dharwad,2020-08-26
+12051.7,Dharwad,2020-08-27
+12322.5,Dharwad,2020-08-28
+12577.1,Dharwad,2020-08-29
+12821.8,Dharwad,2020-08-30
+13060.2,Dharwad,2020-08-31
+13294.1,Dharwad,2020-09-01
+13524.4,Dharwad,2020-09-02
+13751.7,Dharwad,2020-09-03
+13976.3,Dharwad,2020-09-04
+14143.6,Dharwad,2020-09-05
+14231.8,Dharwad,2020-09-06
+14273.2,Dharwad,2020-09-07
+14344,Dharwad,2020-09-08
+14475.2,Dharwad,2020-09-09
+14637.8,Dharwad,2020-09-10
+14816.3,Dharwad,2020-09-11
+15025,Dharwad,2020-09-12
+15220.7,Dharwad,2020-09-13
+15368.9,Dharwad,2020-09-14
+15529.5,Dharwad,2020-09-15
+15730.8,Dharwad,2020-09-16
+15940.2,Dharwad,2020-09-17
+16140.7,Dharwad,2020-09-18
+16336.4,Dharwad,2020-09-19
+16529.7,Dharwad,2020-09-20
+16694.2,Dharwad,2020-09-21
+16819.6,Dharwad,2020-09-22
+16922.4,Dharwad,2020-09-23
+17025.6,Dharwad,2020-09-24
+17140.2,Dharwad,2020-09-25
+17261.3,Dharwad,2020-09-26
+17386.2,Dharwad,2020-09-27
+17513.4,Dharwad,2020-09-28
+17642,Dharwad,2020-09-29
+17771.6,Dharwad,2020-09-30
+17904.7,Dharwad,2020-10-01
+18038.8,Dharwad,2020-10-02
+18169.2,Dharwad,2020-10-03
+18293.9,Dharwad,2020-10-04
+18411.9,Dharwad,2020-10-05
+18522.9,Dharwad,2020-10-06
+18630.5,Dharwad,2020-10-07
+18735.6,Dharwad,2020-10-08
+18836.3,Dharwad,2020-10-09
+18931.7,Dharwad,2020-10-10
+19033.3,Dharwad,2020-10-11
+19146,Dharwad,2020-10-12
+19263.3,Dharwad,2020-10-13
+19381.9,Dharwad,2020-10-14
+19500.1,Dharwad,2020-10-15
+19617,Dharwad,2020-10-16
+19722.1,Dharwad,2020-10-17
+19810.4,Dharwad,2020-10-18
+19886.6,Dharwad,2020-10-19
+19953.6,Dharwad,2020-10-20
+20013.1,Dharwad,2020-10-21
+20066,Dharwad,2020-10-22
+20113.4,Dharwad,2020-10-23
+20155.9,Dharwad,2020-10-24
+20202.1,Dharwad,2020-10-25
+20255.2,Dharwad,2020-10-26
+20310.3,Dharwad,2020-10-27
+20365.4,Dharwad,2020-10-28
+20419.1,Dharwad,2020-10-29
+20471.2,Dharwad,2020-10-30
+20521.5,Dharwad,2020-10-31
+20569.9,Dharwad,2020-11-01
+20610.4,Dharwad,2020-11-02
+20641.3,Dharwad,2020-11-03
+20666.2,Dharwad,2020-11-04
+20687.3,Dharwad,2020-11-05
+20705.4,Dharwad,2020-11-06
+20721.4,Dharwad,2020-11-07
+20737.9,Dharwad,2020-11-08
+20755.9,Dharwad,2020-11-09
+20774,Dharwad,2020-11-10
+20791.7,Dharwad,2020-11-11
+20812,Dharwad,2020-11-12
+20836.3,Dharwad,2020-11-13
+20863.1,Dharwad,2020-11-14
+20915.6,Dharwad,2020-11-15
+20940.6,Dharwad,2020-11-16
+20965.1,Dharwad,2020-11-17
+20989.4,Dharwad,2020-11-18
+21013.4,Dharwad,2020-11-19
+21037.2,Dharwad,2020-11-20
+21060.8,Dharwad,2020-11-21
+21084.1,Dharwad,2020-11-22
+21107.3,Dharwad,2020-11-23
+21130.3,Dharwad,2020-11-24
+21153.1,Dharwad,2020-11-25
+21175.7,Dharwad,2020-11-26
+21198.1,Dharwad,2020-11-27
+21220.4,Dharwad,2020-11-28
+21242.4,Dharwad,2020-11-29
+21264.3,Dharwad,2020-11-30
+21286,Dharwad,2020-12-01
+21307.5,Dharwad,2020-12-02
+21328.8,Dharwad,2020-12-03
+21350,Dharwad,2020-12-04
+21371,Dharwad,2020-12-05
+21391.8,Dharwad,2020-12-06
+21412.4,Dharwad,2020-12-07
+21432.9,Dharwad,2020-12-08
+21453.2,Dharwad,2020-12-09
+21473.3,Dharwad,2020-12-10
+21493.3,Dharwad,2020-12-11
+21513.1,Dharwad,2020-12-12
+21532.8,Dharwad,2020-12-13
+21552.2,Dharwad,2020-12-14
+21571.5,Dharwad,2020-12-15
+85.8195,Gadag,2020-05-18
+86.3182,Gadag,2020-05-19
+86.665,Gadag,2020-05-20
+86.9169,Gadag,2020-05-21
+87.1088,Gadag,2020-05-22
+87.2622,Gadag,2020-05-23
+87.3901,Gadag,2020-05-24
+87.5008,Gadag,2020-05-25
+87.5993,Gadag,2020-05-26
+87.6888,Gadag,2020-05-27
+87.7712,Gadag,2020-05-28
+87.8478,Gadag,2020-05-29
+87.9196,Gadag,2020-05-30
+87.9872,Gadag,2020-05-31
+88.0509,Gadag,2020-06-01
+88.1111,Gadag,2020-06-02
+88.1681,Gadag,2020-06-03
+88.2221,Gadag,2020-06-04
+88.2732,Gadag,2020-06-05
+88.3217,Gadag,2020-06-06
+89.2444,Gadag,2020-06-07
+91.6798,Gadag,2020-06-08
+95.4597,Gadag,2020-06-09
+100.577,Gadag,2020-06-10
+107.144,Gadag,2020-06-11
+115.373,Gadag,2020-06-12
+125.567,Gadag,2020-06-13
+138.129,Gadag,2020-06-14
+153.566,Gadag,2020-06-15
+172.511,Gadag,2020-06-16
+195.744,Gadag,2020-06-17
+224.227,Gadag,2020-06-18
+252.328,Gadag,2020-06-19
+275.755,Gadag,2020-06-20
+295.159,Gadag,2020-06-21
+310.842,Gadag,2020-06-22
+324.101,Gadag,2020-06-23
+335.867,Gadag,2020-06-24
+342.004,Gadag,2020-06-25
+341.216,Gadag,2020-06-26
+336.75,Gadag,2020-06-27
+330.523,Gadag,2020-06-28
+323.645,Gadag,2020-06-29
+323.42,Gadag,2020-06-30
+334.503,Gadag,2020-07-01
+348.853,Gadag,2020-07-02
+360.862,Gadag,2020-07-03
+371.468,Gadag,2020-07-04
+387.209,Gadag,2020-07-05
+413.12,Gadag,2020-07-06
+448.638,Gadag,2020-07-07
+494.095,Gadag,2020-07-08
+542.055,Gadag,2020-07-09
+586.837,Gadag,2020-07-10
+630.794,Gadag,2020-07-11
+679.669,Gadag,2020-07-12
+737.72,Gadag,2020-07-13
+804.978,Gadag,2020-07-14
+872.671,Gadag,2020-07-15
+934.85,Gadag,2020-07-16
+994.601,Gadag,2020-07-17
+1053.89,Gadag,2020-07-18
+1113.97,Gadag,2020-07-19
+1179.98,Gadag,2020-07-20
+1255.34,Gadag,2020-07-21
+1339.15,Gadag,2020-07-22
+1431.07,Gadag,2020-07-23
+1531.09,Gadag,2020-07-24
+1639.38,Gadag,2020-07-25
+1748.45,Gadag,2020-07-26
+1852.82,Gadag,2020-07-27
+1954.54,Gadag,2020-07-28
+2054.81,Gadag,2020-07-29
+2154.36,Gadag,2020-07-30
+2253.59,Gadag,2020-07-31
+2358.9,Gadag,2020-08-01
+2473.89,Gadag,2020-08-02
+2596.03,Gadag,2020-08-03
+2714.47,Gadag,2020-08-04
+2823.23,Gadag,2020-08-05
+2926.01,Gadag,2020-08-06
+3024.98,Gadag,2020-08-07
+3121.42,Gadag,2020-08-08
+3228.56,Gadag,2020-08-09
+3351.22,Gadag,2020-08-10
+3481.97,Gadag,2020-08-11
+3616.71,Gadag,2020-08-12
+3753.12,Gadag,2020-08-13
+3891.69,Gadag,2020-08-14
+4033.64,Gadag,2020-08-15
+4179.74,Gadag,2020-08-16
+4330.54,Gadag,2020-08-17
+4486.41,Gadag,2020-08-18
+4647.69,Gadag,2020-08-19
+4814.62,Gadag,2020-08-20
+4987.47,Gadag,2020-08-21
+5166.46,Gadag,2020-08-22
+5338.66,Gadag,2020-08-23
+5496.88,Gadag,2020-08-24
+5646.8,Gadag,2020-08-25
+5791.79,Gadag,2020-08-26
+5933.79,Gadag,2020-08-27
+6073.98,Gadag,2020-08-28
+6213.02,Gadag,2020-08-29
+6351.31,Gadag,2020-08-30
+6489.09,Gadag,2020-08-31
+6626.49,Gadag,2020-09-01
+6771.06,Gadag,2020-09-02
+6923.59,Gadag,2020-09-03
+7077.8,Gadag,2020-09-04
+7230.39,Gadag,2020-09-05
+7379.61,Gadag,2020-09-06
+7538.56,Gadag,2020-09-07
+7710.3,Gadag,2020-09-08
+7885.24,Gadag,2020-09-09
+8058.62,Gadag,2020-09-10
+8209.22,Gadag,2020-09-11
+8329.61,Gadag,2020-09-12
+8431.24,Gadag,2020-09-13
+8520.79,Gadag,2020-09-14
+8602.29,Gadag,2020-09-15
+8678.08,Gadag,2020-09-16
+8749.56,Gadag,2020-09-17
+8828.76,Gadag,2020-09-18
+8919.34,Gadag,2020-09-19
+9022.44,Gadag,2020-09-20
+9138.54,Gadag,2020-09-21
+9251.45,Gadag,2020-09-22
+9354.08,Gadag,2020-09-23
+9451.06,Gadag,2020-09-24
+9545.09,Gadag,2020-09-25
+9637.74,Gadag,2020-09-26
+9729.89,Gadag,2020-09-27
+9808,Gadag,2020-09-28
+9870.17,Gadag,2020-09-29
+9925.46,Gadag,2020-09-30
+9975.6,Gadag,2020-10-01
+10021.6,Gadag,2020-10-02
+10069.1,Gadag,2020-10-03
+10120.3,Gadag,2020-10-04
+10173,Gadag,2020-10-05
+10225.7,Gadag,2020-10-06
+10277.9,Gadag,2020-10-07
+10329,Gadag,2020-10-08
+10378.9,Gadag,2020-10-09
+10427.5,Gadag,2020-10-10
+10474.7,Gadag,2020-10-11
+10520.6,Gadag,2020-10-12
+10559.7,Gadag,2020-10-13
+10589.8,Gadag,2020-10-14
+10614.2,Gadag,2020-10-15
+10634.9,Gadag,2020-10-16
+10652.8,Gadag,2020-10-17
+10668.7,Gadag,2020-10-18
+10686.6,Gadag,2020-10-19
+10708.2,Gadag,2020-10-20
+10731.7,Gadag,2020-10-21
+10756,Gadag,2020-10-22
+10774.1,Gadag,2020-10-23
+10783.7,Gadag,2020-10-24
+10794.6,Gadag,2020-10-25
+10811.1,Gadag,2020-10-26
+10830.9,Gadag,2020-10-27
+10852.6,Gadag,2020-10-28
+10875.3,Gadag,2020-10-29
+10898.8,Gadag,2020-10-30
+10919,Gadag,2020-10-31
+10934.1,Gadag,2020-11-01
+10946.1,Gadag,2020-11-02
+10956.1,Gadag,2020-11-03
+10964.7,Gadag,2020-11-04
+10972.3,Gadag,2020-11-05
+10979.1,Gadag,2020-11-06
+10985.3,Gadag,2020-11-07
+10990.9,Gadag,2020-11-08
+10996.1,Gadag,2020-11-09
+11004.3,Gadag,2020-11-10
+11017.5,Gadag,2020-11-11
+11034.3,Gadag,2020-11-12
+11054.1,Gadag,2020-11-13
+11076.5,Gadag,2020-11-14
+11126,Gadag,2020-11-15
+11152.8,Gadag,2020-11-16
+11181.4,Gadag,2020-11-17
+11211.8,Gadag,2020-11-18
+11244.3,Gadag,2020-11-19
+11279,Gadag,2020-11-20
+11316.1,Gadag,2020-11-21
+11355.8,Gadag,2020-11-22
+11398.1,Gadag,2020-11-23
+11443.5,Gadag,2020-11-24
+11491.9,Gadag,2020-11-25
+11543.7,Gadag,2020-11-26
+11599.1,Gadag,2020-11-27
+11658.2,Gadag,2020-11-28
+11721.5,Gadag,2020-11-29
+11789.2,Gadag,2020-11-30
+11861.5,Gadag,2020-12-01
+11938.7,Gadag,2020-12-02
+12021.3,Gadag,2020-12-03
+12109.6,Gadag,2020-12-04
+12204,Gadag,2020-12-05
+12304.9,Gadag,2020-12-06
+12412.7,Gadag,2020-12-07
+12527.9,Gadag,2020-12-08
+12651.1,Gadag,2020-12-09
+12782.7,Gadag,2020-12-10
+12923.3,Gadag,2020-12-11
+13073.6,Gadag,2020-12-12
+13234.2,Gadag,2020-12-13
+13405.8,Gadag,2020-12-14
+13589.1,Gadag,2020-12-15
+35.4124,Hassan,2020-05-15
+43.3805,Hassan,2020-05-16
+53.2288,Hassan,2020-05-17
+65.3958,Hassan,2020-05-18
+78.6036,Hassan,2020-05-19
+91.3292,Hassan,2020-05-20
+103.657,Hassan,2020-05-21
+115.658,Hassan,2020-05-22
+127.397,Hassan,2020-05-23
+137.998,Hassan,2020-05-24
+146.778,Hassan,2020-05-25
+154.016,Hassan,2020-05-26
+159.953,Hassan,2020-05-27
+164.794,Hassan,2020-05-28
+168.712,Hassan,2020-05-29
+171.857,Hassan,2020-05-30
+174.353,Hassan,2020-05-31
+176.309,Hassan,2020-06-01
+177.816,Hassan,2020-06-02
+178.95,Hassan,2020-06-03
+179.776,Hassan,2020-06-04
+180.351,Hassan,2020-06-05
+181.192,Hassan,2020-06-06
+182.752,Hassan,2020-06-07
+184.998,Hassan,2020-06-08
+187.726,Hassan,2020-06-09
+190.733,Hassan,2020-06-10
+194.001,Hassan,2020-06-11
+197.512,Hassan,2020-06-12
+201.252,Hassan,2020-06-13
+205.209,Hassan,2020-06-14
+209.375,Hassan,2020-06-15
+213.741,Hassan,2020-06-16
+218.301,Hassan,2020-06-17
+223.683,Hassan,2020-06-18
+230.606,Hassan,2020-06-19
+239.251,Hassan,2020-06-20
+249.841,Hassan,2020-06-21
+262.648,Hassan,2020-06-22
+277.327,Hassan,2020-06-23
+293.436,Hassan,2020-06-24
+311.128,Hassan,2020-06-25
+330.571,Hassan,2020-06-26
+351.95,Hassan,2020-06-27
+374.169,Hassan,2020-06-28
+396.096,Hassan,2020-06-29
+417.822,Hassan,2020-06-30
+439.429,Hassan,2020-07-01
+460.988,Hassan,2020-07-02
+482.562,Hassan,2020-07-03
+504.207,Hassan,2020-07-04
+525.971,Hassan,2020-07-05
+547.898,Hassan,2020-07-06
+570.028,Hassan,2020-07-07
+592.394,Hassan,2020-07-08
+615.009,Hassan,2020-07-09
+640.736,Hassan,2020-07-10
+672.799,Hassan,2020-07-11
+711.438,Hassan,2020-07-12
+756.912,Hassan,2020-07-13
+810.019,Hassan,2020-07-14
+871.698,Hassan,2020-07-15
+943.038,Hassan,2020-07-16
+1025.3,Hassan,2020-07-17
+1115.3,Hassan,2020-07-18
+1209.38,Hassan,2020-07-19
+1308.07,Hassan,2020-07-20
+1411.91,Hassan,2020-07-21
+1521.53,Hassan,2020-07-22
+1637.6,Hassan,2020-07-23
+1760.82,Hassan,2020-07-24
+1890.97,Hassan,2020-07-25
+2027.83,Hassan,2020-07-26
+2172.06,Hassan,2020-07-27
+2324.34,Hassan,2020-07-28
+2485.5,Hassan,2020-07-29
+2656.36,Hassan,2020-07-30
+2828.88,Hassan,2020-07-31
+3002.55,Hassan,2020-08-01
+3183.98,Hassan,2020-08-02
+3361.64,Hassan,2020-08-03
+3525.98,Hassan,2020-08-04
+3678.41,Hassan,2020-08-05
+3820.1,Hassan,2020-08-06
+3959.25,Hassan,2020-08-07
+4104.52,Hassan,2020-08-08
+4257.45,Hassan,2020-08-09
+4417.92,Hassan,2020-08-10
+4580.92,Hassan,2020-08-11
+4744.83,Hassan,2020-08-12
+4912.72,Hassan,2020-08-13
+5084.62,Hassan,2020-08-14
+5260.51,Hassan,2020-08-15
+5440.38,Hassan,2020-08-16
+5624.28,Hassan,2020-08-17
+5812.25,Hassan,2020-08-18
+6007.05,Hassan,2020-08-19
+6211.29,Hassan,2020-08-20
+6425.02,Hassan,2020-08-21
+6648.24,Hassan,2020-08-22
+6881.26,Hassan,2020-08-23
+7124.51,Hassan,2020-08-24
+7378.46,Hassan,2020-08-25
+7643.59,Hassan,2020-08-26
+7904.7,Hassan,2020-08-27
+8148.03,Hassan,2020-08-28
+8379.44,Hassan,2020-08-29
+8603.64,Hassan,2020-08-30
+8821.06,Hassan,2020-08-31
+9031.97,Hassan,2020-09-01
+9236.63,Hassan,2020-09-02
+9450.57,Hassan,2020-09-03
+9688.08,Hassan,2020-09-04
+9948.33,Hassan,2020-09-05
+10221.3,Hassan,2020-09-06
+10498.4,Hassan,2020-09-07
+10749.7,Hassan,2020-09-08
+10972.8,Hassan,2020-09-09
+11190.7,Hassan,2020-09-10
+11401.2,Hassan,2020-09-11
+11599.8,Hassan,2020-09-12
+11783.5,Hassan,2020-09-13
+11953.7,Hassan,2020-09-14
+12115,Hassan,2020-09-15
+12271.8,Hassan,2020-09-16
+12441.4,Hassan,2020-09-17
+12638.8,Hassan,2020-09-18
+12853,Hassan,2020-09-19
+13075.8,Hassan,2020-09-20
+13307.5,Hassan,2020-09-21
+13548.5,Hassan,2020-09-22
+13799.2,Hassan,2020-09-23
+14060.2,Hassan,2020-09-24
+14328.8,Hassan,2020-09-25
+14602.6,Hassan,2020-09-26
+14881.7,Hassan,2020-09-27
+15166.3,Hassan,2020-09-28
+15456.5,Hassan,2020-09-29
+15752.4,Hassan,2020-09-30
+16039.5,Hassan,2020-10-01
+16305.1,Hassan,2020-10-02
+16551.7,Hassan,2020-10-03
+16786,Hassan,2020-10-04
+17013,Hassan,2020-10-05
+17232.5,Hassan,2020-10-06
+17444.8,Hassan,2020-10-07
+17646.6,Hassan,2020-10-08
+17835.7,Hassan,2020-10-09
+18009.4,Hassan,2020-10-10
+18166.7,Hassan,2020-10-11
+18309.9,Hassan,2020-10-12
+18440.6,Hassan,2020-10-13
+18560,Hassan,2020-10-14
+18669.2,Hassan,2020-10-15
+18796.3,Hassan,2020-10-16
+18971.6,Hassan,2020-10-17
+19201,Hassan,2020-10-18
+19492.5,Hassan,2020-10-19
+19856.1,Hassan,2020-10-20
+20304.2,Hassan,2020-10-21
+20787.1,Hassan,2020-10-22
+21244.9,Hassan,2020-10-23
+21677.2,Hassan,2020-10-24
+22087.2,Hassan,2020-10-25
+22477.7,Hassan,2020-10-26
+22851,Hassan,2020-10-27
+23209,Hassan,2020-10-28
+23553.5,Hassan,2020-10-29
+23875.5,Hassan,2020-10-30
+24167.9,Hassan,2020-10-31
+24434.4,Hassan,2020-11-01
+24678.1,Hassan,2020-11-02
+24907.9,Hassan,2020-11-03
+25126.6,Hassan,2020-11-04
+25330.4,Hassan,2020-11-05
+25520.5,Hassan,2020-11-06
+25697.6,Hassan,2020-11-07
+25862.5,Hassan,2020-11-08
+26016,Hassan,2020-11-09
+26158.9,Hassan,2020-11-10
+26291.9,Hassan,2020-11-11
+26415.7,Hassan,2020-11-12
+26530.8,Hassan,2020-11-13
+26637.9,Hassan,2020-11-14
+26830.2,Hassan,2020-11-15
+26916.4,Hassan,2020-11-16
+26996.5,Hassan,2020-11-17
+27071.1,Hassan,2020-11-18
+27140.4,Hassan,2020-11-19
+27204.9,Hassan,2020-11-20
+27264.9,Hassan,2020-11-21
+27320.6,Hassan,2020-11-22
+27372.5,Hassan,2020-11-23
+27420.7,Hassan,2020-11-24
+27465.5,Hassan,2020-11-25
+27507.2,Hassan,2020-11-26
+27545.9,Hassan,2020-11-27
+27582,Hassan,2020-11-28
+27615.5,Hassan,2020-11-29
+27646.7,Hassan,2020-11-30
+27675.6,Hassan,2020-12-01
+27702.6,Hassan,2020-12-02
+27727.6,Hassan,2020-12-03
+27750.9,Hassan,2020-12-04
+27772.6,Hassan,2020-12-05
+27792.7,Hassan,2020-12-06
+27811.4,Hassan,2020-12-07
+27828.8,Hassan,2020-12-08
+27845,Hassan,2020-12-09
+27860.1,Hassan,2020-12-10
+27874.1,Hassan,2020-12-11
+27887.1,Hassan,2020-12-12
+27899.2,Hassan,2020-12-13
+27910.4,Hassan,2020-12-14
+27920.9,Hassan,2020-12-15
+148.206,Haveri,2020-06-01
+141.63,Haveri,2020-06-02
+136.632,Haveri,2020-06-03
+133.865,Haveri,2020-06-04
+133.228,Haveri,2020-06-05
+133.918,Haveri,2020-06-06
+135.528,Haveri,2020-06-07
+137.878,Haveri,2020-06-08
+140.916,Haveri,2020-06-09
+144.67,Haveri,2020-06-10
+149.22,Haveri,2020-06-11
+154.69,Haveri,2020-06-12
+161.241,Haveri,2020-06-13
+169.073,Haveri,2020-06-14
+178.43,Haveri,2020-06-15
+189.605,Haveri,2020-06-16
+202.948,Haveri,2020-06-17
+218.88,Haveri,2020-06-18
+237.902,Haveri,2020-06-19
+260.612,Haveri,2020-06-20
+287.726,Haveri,2020-06-21
+320.096,Haveri,2020-06-22
+358.741,Haveri,2020-06-23
+397.698,Haveri,2020-06-24
+432.903,Haveri,2020-06-25
+466.835,Haveri,2020-06-26
+500.881,Haveri,2020-06-27
+535.839,Haveri,2020-06-28
+572.19,Haveri,2020-06-29
+610.243,Haveri,2020-06-30
+650.217,Haveri,2020-07-01
+677.918,Haveri,2020-07-02
+688.155,Haveri,2020-07-03
+689.428,Haveri,2020-07-04
+686.318,Haveri,2020-07-05
+681.271,Haveri,2020-07-06
+675.569,Haveri,2020-07-07
+682.942,Haveri,2020-07-08
+711.429,Haveri,2020-07-09
+757.14,Haveri,2020-07-10
+819.279,Haveri,2020-07-11
+899.051,Haveri,2020-07-12
+970.67,Haveri,2020-07-13
+1018.23,Haveri,2020-07-14
+1052.28,Haveri,2020-07-15
+1077.27,Haveri,2020-07-16
+1109.4,Haveri,2020-07-17
+1158.48,Haveri,2020-07-18
+1220.32,Haveri,2020-07-19
+1292.98,Haveri,2020-07-20
+1375.8,Haveri,2020-07-21
+1468.88,Haveri,2020-07-22
+1572.76,Haveri,2020-07-23
+1688.3,Haveri,2020-07-24
+1816.61,Haveri,2020-07-25
+1932.96,Haveri,2020-07-26
+2023.82,Haveri,2020-07-27
+2100.41,Haveri,2020-07-28
+2168.96,Haveri,2020-07-29
+2232.88,Haveri,2020-07-30
+2294.08,Haveri,2020-07-31
+2353.65,Haveri,2020-08-01
+2434.32,Haveri,2020-08-02
+2542.07,Haveri,2020-08-03
+2640.29,Haveri,2020-08-04
+2714.41,Haveri,2020-08-05
+2774.03,Haveri,2020-08-06
+2824.67,Haveri,2020-08-07
+2870.07,Haveri,2020-08-08
+2933.96,Haveri,2020-08-09
+3029.38,Haveri,2020-08-10
+3148.22,Haveri,2020-08-11
+3286.43,Haveri,2020-08-12
+3442.34,Haveri,2020-08-13
+3615.63,Haveri,2020-08-14
+3782.63,Haveri,2020-08-15
+3929.39,Haveri,2020-08-16
+4065.06,Haveri,2020-08-17
+4194.62,Haveri,2020-08-18
+4320.76,Haveri,2020-08-19
+4444.95,Haveri,2020-08-20
+4581.87,Haveri,2020-08-21
+4738.93,Haveri,2020-08-22
+4910.02,Haveri,2020-08-23
+5091.95,Haveri,2020-08-24
+5260.32,Haveri,2020-08-25
+5404.28,Haveri,2020-08-26
+5605.81,Haveri,2020-08-27
+5805.49,Haveri,2020-08-28
+5934.77,Haveri,2020-08-29
+6025.35,Haveri,2020-08-30
+6167.58,Haveri,2020-08-31
+6369.15,Haveri,2020-09-01
+6567.92,Haveri,2020-09-02
+6756.04,Haveri,2020-09-03
+6942.53,Haveri,2020-09-04
+7132.6,Haveri,2020-09-05
+7306.37,Haveri,2020-09-06
+7401.27,Haveri,2020-09-07
+7408.43,Haveri,2020-09-08
+7415.58,Haveri,2020-09-09
+7459.2,Haveri,2020-09-10
+7519.46,Haveri,2020-09-11
+7615.74,Haveri,2020-09-12
+7719.6,Haveri,2020-09-13
+7798.39,Haveri,2020-09-14
+7875.65,Haveri,2020-09-15
+7963.37,Haveri,2020-09-16
+8058.24,Haveri,2020-09-17
+8158.41,Haveri,2020-09-18
+8262.86,Haveri,2020-09-19
+8371.03,Haveri,2020-09-20
+8482.62,Haveri,2020-09-21
+8550.98,Haveri,2020-09-22
+8582.29,Haveri,2020-09-23
+8611.42,Haveri,2020-09-24
+8638.38,Haveri,2020-09-25
+8663.29,Haveri,2020-09-26
+8686.25,Haveri,2020-09-27
+8723.76,Haveri,2020-09-28
+8778.79,Haveri,2020-09-29
+8839.65,Haveri,2020-09-30
+8900.75,Haveri,2020-10-01
+8959.5,Haveri,2020-10-02
+9014.82,Haveri,2020-10-03
+9066.34,Haveri,2020-10-04
+9107.78,Haveri,2020-10-05
+9137.94,Haveri,2020-10-06
+9161.54,Haveri,2020-10-07
+9181.18,Haveri,2020-10-08
+9188.88,Haveri,2020-10-09
+9195.72,Haveri,2020-10-10
+9212.11,Haveri,2020-10-11
+9232.76,Haveri,2020-10-12
+9254.96,Haveri,2020-10-13
+9277.32,Haveri,2020-10-14
+9301.21,Haveri,2020-10-15
+9326.75,Haveri,2020-10-16
+9352.36,Haveri,2020-10-17
+9377.3,Haveri,2020-10-18
+9401.22,Haveri,2020-10-19
+9424,Haveri,2020-10-20
+9445.62,Haveri,2020-10-21
+9466.09,Haveri,2020-10-22
+9485.44,Haveri,2020-10-23
+9495.38,Haveri,2020-10-24
+9494.91,Haveri,2020-10-25
+9497.33,Haveri,2020-10-26
+9506.98,Haveri,2020-10-27
+9520.33,Haveri,2020-10-28
+9535.58,Haveri,2020-10-29
+9551.85,Haveri,2020-10-30
+9568.67,Haveri,2020-10-31
+9584.61,Haveri,2020-11-01
+9599.03,Haveri,2020-11-02
+9612.48,Haveri,2020-11-03
+9625.21,Haveri,2020-11-04
+9637.4,Haveri,2020-11-05
+9649.11,Haveri,2020-11-06
+9660.39,Haveri,2020-11-07
+9672.2,Haveri,2020-11-08
+9684.95,Haveri,2020-11-09
+9698.22,Haveri,2020-11-10
+9711.76,Haveri,2020-11-11
+9725.47,Haveri,2020-11-12
+9739.3,Haveri,2020-11-13
+9753.21,Haveri,2020-11-14
+9781.22,Haveri,2020-11-15
+9795.32,Haveri,2020-11-16
+9809.47,Haveri,2020-11-17
+9823.68,Haveri,2020-11-18
+9837.94,Haveri,2020-11-19
+9852.25,Haveri,2020-11-20
+9866.63,Haveri,2020-11-21
+9881.05,Haveri,2020-11-22
+9895.53,Haveri,2020-11-23
+9910.07,Haveri,2020-11-24
+9924.67,Haveri,2020-11-25
+9939.31,Haveri,2020-11-26
+9954.02,Haveri,2020-11-27
+9968.78,Haveri,2020-11-28
+9983.6,Haveri,2020-11-29
+9998.47,Haveri,2020-11-30
+10013.4,Haveri,2020-12-01
+10028.4,Haveri,2020-12-02
+10043.4,Haveri,2020-12-03
+10058.5,Haveri,2020-12-04
+10073.7,Haveri,2020-12-05
+10088.9,Haveri,2020-12-06
+10104.2,Haveri,2020-12-07
+10119.5,Haveri,2020-12-08
+10134.9,Haveri,2020-12-09
+10150.4,Haveri,2020-12-10
+10165.9,Haveri,2020-12-11
+10181.4,Haveri,2020-12-12
+10197.1,Haveri,2020-12-13
+10212.7,Haveri,2020-12-14
+10228.5,Haveri,2020-12-15
+71.6598,Kalaburagi,2020-04-14
+75.1901,Kalaburagi,2020-04-15
+78.3315,Kalaburagi,2020-04-16
+81.26,Kalaburagi,2020-04-17
+86.6637,Kalaburagi,2020-04-18
+96.5321,Kalaburagi,2020-04-19
+105.64,Kalaburagi,2020-04-20
+110.847,Kalaburagi,2020-04-21
+113.82,Kalaburagi,2020-04-22
+115.514,Kalaburagi,2020-04-23
+116.477,Kalaburagi,2020-04-24
+117.021,Kalaburagi,2020-04-25
+117.326,Kalaburagi,2020-04-26
+117.495,Kalaburagi,2020-04-27
+117.585,Kalaburagi,2020-04-28
+117.63,Kalaburagi,2020-04-29
+117.65,Kalaburagi,2020-04-30
+117.657,Kalaburagi,2020-05-01
+117.655,Kalaburagi,2020-05-02
+117.65,Kalaburagi,2020-05-03
+119.484,Kalaburagi,2020-05-04
+124.204,Kalaburagi,2020-05-05
+131.112,Kalaburagi,2020-05-06
+139.896,Kalaburagi,2020-05-07
+150.472,Kalaburagi,2020-05-08
+162.904,Kalaburagi,2020-05-09
+177.352,Kalaburagi,2020-05-10
+189.482,Kalaburagi,2020-05-11
+196.928,Kalaburagi,2020-05-12
+201.698,Kalaburagi,2020-05-13
+204.933,Kalaburagi,2020-05-14
+210.998,Kalaburagi,2020-05-15
+222.367,Kalaburagi,2020-05-16
+237.826,Kalaburagi,2020-05-17
+256.835,Kalaburagi,2020-05-18
+279.253,Kalaburagi,2020-05-19
+305.191,Kalaburagi,2020-05-20
+334.929,Kalaburagi,2020-05-21
+368.87,Kalaburagi,2020-05-22
+407.525,Kalaburagi,2020-05-23
+451.497,Kalaburagi,2020-05-24
+496.502,Kalaburagi,2020-05-25
+539.848,Kalaburagi,2020-05-26
+583.543,Kalaburagi,2020-05-27
+632.543,Kalaburagi,2020-05-28
+689.279,Kalaburagi,2020-05-29
+743.158,Kalaburagi,2020-05-30
+788.675,Kalaburagi,2020-05-31
+829.513,Kalaburagi,2020-06-01
+867.669,Kalaburagi,2020-06-02
+904.224,Kalaburagi,2020-06-03
+939.764,Kalaburagi,2020-06-04
+974.61,Kalaburagi,2020-06-05
+1008.93,Kalaburagi,2020-06-06
+1042.83,Kalaburagi,2020-06-07
+1076.36,Kalaburagi,2020-06-08
+1109.54,Kalaburagi,2020-06-09
+1142.4,Kalaburagi,2020-06-10
+1174.94,Kalaburagi,2020-06-11
+1207.17,Kalaburagi,2020-06-12
+1236.14,Kalaburagi,2020-06-13
+1260.69,Kalaburagi,2020-06-14
+1282.53,Kalaburagi,2020-06-15
+1302.59,Kalaburagi,2020-06-16
+1321.38,Kalaburagi,2020-06-17
+1339.16,Kalaburagi,2020-06-18
+1356.12,Kalaburagi,2020-06-19
+1372.34,Kalaburagi,2020-06-20
+1392.67,Kalaburagi,2020-06-21
+1419.27,Kalaburagi,2020-06-22
+1449.68,Kalaburagi,2020-06-23
+1482.6,Kalaburagi,2020-06-24
+1517.32,Kalaburagi,2020-06-25
+1553.46,Kalaburagi,2020-06-26
+1590.86,Kalaburagi,2020-06-27
+1635.73,Kalaburagi,2020-06-28
+1691.97,Kalaburagi,2020-06-29
+1757.57,Kalaburagi,2020-06-30
+1831.69,Kalaburagi,2020-07-01
+1906.9,Kalaburagi,2020-07-02
+1979.75,Kalaburagi,2020-07-03
+2054.11,Kalaburagi,2020-07-04
+2132.52,Kalaburagi,2020-07-05
+2216.77,Kalaburagi,2020-07-06
+2308.27,Kalaburagi,2020-07-07
+2413.75,Kalaburagi,2020-07-08
+2534.56,Kalaburagi,2020-07-09
+2666.5,Kalaburagi,2020-07-10
+2788.3,Kalaburagi,2020-07-11
+2890.27,Kalaburagi,2020-07-12
+2982.06,Kalaburagi,2020-07-13
+3079.19,Kalaburagi,2020-07-14
+3190.87,Kalaburagi,2020-07-15
+3334.78,Kalaburagi,2020-07-16
+3518.73,Kalaburagi,2020-07-17
+3721.47,Kalaburagi,2020-07-18
+3933,Kalaburagi,2020-07-19
+4157.12,Kalaburagi,2020-07-20
+4396.54,Kalaburagi,2020-07-21
+4653.47,Kalaburagi,2020-07-22
+4929.82,Kalaburagi,2020-07-23
+5165.07,Kalaburagi,2020-07-24
+5355.33,Kalaburagi,2020-07-25
+5539.96,Kalaburagi,2020-07-26
+5719.79,Kalaburagi,2020-07-27
+5912.68,Kalaburagi,2020-07-28
+6126.6,Kalaburagi,2020-07-29
+6352.77,Kalaburagi,2020-07-30
+6575.71,Kalaburagi,2020-07-31
+6788.85,Kalaburagi,2020-08-01
+6946.21,Kalaburagi,2020-08-02
+7032.31,Kalaburagi,2020-08-03
+7136.24,Kalaburagi,2020-08-04
+7293.55,Kalaburagi,2020-08-05
+7477.99,Kalaburagi,2020-08-06
+7675.79,Kalaburagi,2020-08-07
+7879.77,Kalaburagi,2020-08-08
+8086.14,Kalaburagi,2020-08-09
+8292.94,Kalaburagi,2020-08-10
+8499.15,Kalaburagi,2020-08-11
+8704.17,Kalaburagi,2020-08-12
+8900.17,Kalaburagi,2020-08-13
+9084.63,Kalaburagi,2020-08-14
+9262.26,Kalaburagi,2020-08-15
+9435.56,Kalaburagi,2020-08-16
+9605.9,Kalaburagi,2020-08-17
+9773.98,Kalaburagi,2020-08-18
+9940.21,Kalaburagi,2020-08-19
+10104.8,Kalaburagi,2020-08-20
+10277.4,Kalaburagi,2020-08-21
+10466.1,Kalaburagi,2020-08-22
+10669.8,Kalaburagi,2020-08-23
+10845.9,Kalaburagi,2020-08-24
+10973.5,Kalaburagi,2020-08-25
+11094.1,Kalaburagi,2020-08-26
+11226.4,Kalaburagi,2020-08-27
+11364.1,Kalaburagi,2020-08-28
+11503.7,Kalaburagi,2020-08-29
+11665.5,Kalaburagi,2020-08-30
+11858.7,Kalaburagi,2020-08-31
+12072.2,Kalaburagi,2020-09-01
+12299.9,Kalaburagi,2020-09-02
+12538.7,Kalaburagi,2020-09-03
+12786.9,Kalaburagi,2020-09-04
+13043.7,Kalaburagi,2020-09-05
+13264.6,Kalaburagi,2020-09-06
+13429.5,Kalaburagi,2020-09-07
+13562.2,Kalaburagi,2020-09-08
+13688.4,Kalaburagi,2020-09-09
+13818.5,Kalaburagi,2020-09-10
+13948.1,Kalaburagi,2020-09-11
+14074.9,Kalaburagi,2020-09-12
+14205.9,Kalaburagi,2020-09-13
+14346.7,Kalaburagi,2020-09-14
+14495.2,Kalaburagi,2020-09-15
+14650.1,Kalaburagi,2020-09-16
+14810.9,Kalaburagi,2020-09-17
+14977.2,Kalaburagi,2020-09-18
+15148.9,Kalaburagi,2020-09-19
+15326.1,Kalaburagi,2020-09-20
+15508.9,Kalaburagi,2020-09-21
+15697.3,Kalaburagi,2020-09-22
+15883.9,Kalaburagi,2020-09-23
+16063,Kalaburagi,2020-09-24
+16236.2,Kalaburagi,2020-09-25
+16404.3,Kalaburagi,2020-09-26
+16568,Kalaburagi,2020-09-27
+16727.5,Kalaburagi,2020-09-28
+16883,Kalaburagi,2020-09-29
+17034.8,Kalaburagi,2020-09-30
+17183,Kalaburagi,2020-10-01
+17289.5,Kalaburagi,2020-10-02
+17341.8,Kalaburagi,2020-10-03
+17364.4,Kalaburagi,2020-10-04
+17370.8,Kalaburagi,2020-10-05
+17368.5,Kalaburagi,2020-10-06
+17397.2,Kalaburagi,2020-10-07
+17466.8,Kalaburagi,2020-10-08
+17553.9,Kalaburagi,2020-10-09
+17646.4,Kalaburagi,2020-10-10
+17728.3,Kalaburagi,2020-10-11
+17794.3,Kalaburagi,2020-10-12
+17859.3,Kalaburagi,2020-10-13
+17929.6,Kalaburagi,2020-10-14
+18001.5,Kalaburagi,2020-10-15
+18073,Kalaburagi,2020-10-16
+18143.2,Kalaburagi,2020-10-17
+18211.5,Kalaburagi,2020-10-18
+18277.8,Kalaburagi,2020-10-19
+18341.9,Kalaburagi,2020-10-20
+18403.9,Kalaburagi,2020-10-21
+18463.7,Kalaburagi,2020-10-22
+18521.5,Kalaburagi,2020-10-23
+18577.2,Kalaburagi,2020-10-24
+18631,Kalaburagi,2020-10-25
+18682.9,Kalaburagi,2020-10-26
+18733,Kalaburagi,2020-10-27
+18781.4,Kalaburagi,2020-10-28
+18828,Kalaburagi,2020-10-29
+18873.1,Kalaburagi,2020-10-30
+18916.5,Kalaburagi,2020-10-31
+18960.8,Kalaburagi,2020-11-01
+19006.7,Kalaburagi,2020-11-02
+19053.2,Kalaburagi,2020-11-03
+19099.5,Kalaburagi,2020-11-04
+19145.2,Kalaburagi,2020-11-05
+19190.2,Kalaburagi,2020-11-06
+19234.5,Kalaburagi,2020-11-07
+19267.4,Kalaburagi,2020-11-08
+19285.7,Kalaburagi,2020-11-09
+19296.1,Kalaburagi,2020-11-10
+19302.4,Kalaburagi,2020-11-11
+19306.3,Kalaburagi,2020-11-12
+19321.6,Kalaburagi,2020-11-13
+19354.1,Kalaburagi,2020-11-14
+19418.4,Kalaburagi,2020-11-15
+19444.8,Kalaburagi,2020-11-16
+19469.3,Kalaburagi,2020-11-17
+19492.2,Kalaburagi,2020-11-18
+19514.2,Kalaburagi,2020-11-19
+19535.2,Kalaburagi,2020-11-20
+19555.5,Kalaburagi,2020-11-21
+19575.1,Kalaburagi,2020-11-22
+19594,Kalaburagi,2020-11-23
+19612.3,Kalaburagi,2020-11-24
+19630,Kalaburagi,2020-11-25
+19647.1,Kalaburagi,2020-11-26
+19663.7,Kalaburagi,2020-11-27
+19679.7,Kalaburagi,2020-11-28
+19695.2,Kalaburagi,2020-11-29
+19710.3,Kalaburagi,2020-11-30
+19724.8,Kalaburagi,2020-12-01
+19738.9,Kalaburagi,2020-12-02
+19752.5,Kalaburagi,2020-12-03
+19765.7,Kalaburagi,2020-12-04
+19778.4,Kalaburagi,2020-12-05
+19790.8,Kalaburagi,2020-12-06
+19802.7,Kalaburagi,2020-12-07
+19814.3,Kalaburagi,2020-12-08
+19825.5,Kalaburagi,2020-12-09
+19836.3,Kalaburagi,2020-12-10
+19846.8,Kalaburagi,2020-12-11
+19856.9,Kalaburagi,2020-12-12
+19866.7,Kalaburagi,2020-12-13
+19876.2,Kalaburagi,2020-12-14
+19885.4,Kalaburagi,2020-12-15
+38.9961,Kodagu,2020-06-25
+45.4648,Kodagu,2020-06-26
+51.8306,Kodagu,2020-06-27
+58.1449,Kodagu,2020-06-28
+64.4549,Kodagu,2020-06-29
+70.8035,Kodagu,2020-06-30
+77.2303,Kodagu,2020-07-01
+83.7722,Kodagu,2020-07-02
+90.4634,Kodagu,2020-07-03
+97.6963,Kodagu,2020-07-04
+104.905,Kodagu,2020-07-05
+111.301,Kodagu,2020-07-06
+117.011,Kodagu,2020-07-07
+122.136,Kodagu,2020-07-08
+126.763,Kodagu,2020-07-09
+130.961,Kodagu,2020-07-10
+134.787,Kodagu,2020-07-11
+138.289,Kodagu,2020-07-12
+141.507,Kodagu,2020-07-13
+144.473,Kodagu,2020-07-14
+147.864,Kodagu,2020-07-15
+152.273,Kodagu,2020-07-16
+157.643,Kodagu,2020-07-17
+163.943,Kodagu,2020-07-18
+171.158,Kodagu,2020-07-19
+179.296,Kodagu,2020-07-20
+188.374,Kodagu,2020-07-21
+198.428,Kodagu,2020-07-22
+209.501,Kodagu,2020-07-23
+221.653,Kodagu,2020-07-24
+234.95,Kodagu,2020-07-25
+249.471,Kodagu,2020-07-26
+265.305,Kodagu,2020-07-27
+282.554,Kodagu,2020-07-28
+301.327,Kodagu,2020-07-29
+321.748,Kodagu,2020-07-30
+343.951,Kodagu,2020-07-31
+368.085,Kodagu,2020-08-01
+394.309,Kodagu,2020-08-02
+421.84,Kodagu,2020-08-03
+449.902,Kodagu,2020-08-04
+478.637,Kodagu,2020-08-05
+508.168,Kodagu,2020-08-06
+538.604,Kodagu,2020-08-07
+570.043,Kodagu,2020-08-08
+602.577,Kodagu,2020-08-09
+636.288,Kodagu,2020-08-10
+668.696,Kodagu,2020-08-11
+697.734,Kodagu,2020-08-12
+723.936,Kodagu,2020-08-13
+747.737,Kodagu,2020-08-14
+769.49,Kodagu,2020-08-15
+789.486,Kodagu,2020-08-16
+810.33,Kodagu,2020-08-17
+834.257,Kodagu,2020-08-18
+861.077,Kodagu,2020-08-19
+890.667,Kodagu,2020-08-20
+922.951,Kodagu,2020-08-21
+957.898,Kodagu,2020-08-22
+995.509,Kodagu,2020-08-23
+1035.82,Kodagu,2020-08-24
+1078.89,Kodagu,2020-08-25
+1123.31,Kodagu,2020-08-26
+1167.79,Kodagu,2020-08-27
+1212.5,Kodagu,2020-08-28
+1257.56,Kodagu,2020-08-29
+1303.08,Kodagu,2020-08-30
+1349.17,Kodagu,2020-08-31
+1395.9,Kodagu,2020-09-01
+1443.32,Kodagu,2020-09-02
+1491.51,Kodagu,2020-09-03
+1540.51,Kodagu,2020-09-04
+1590.35,Kodagu,2020-09-05
+1641.09,Kodagu,2020-09-06
+1692.75,Kodagu,2020-09-07
+1745.36,Kodagu,2020-09-08
+1798.96,Kodagu,2020-09-09
+1853.56,Kodagu,2020-09-10
+1909.21,Kodagu,2020-09-11
+1965.91,Kodagu,2020-09-12
+2023.7,Kodagu,2020-09-13
+2082.6,Kodagu,2020-09-14
+2142.63,Kodagu,2020-09-15
+2203.81,Kodagu,2020-09-16
+2266.17,Kodagu,2020-09-17
+2329.73,Kodagu,2020-09-18
+2394.51,Kodagu,2020-09-19
+2460.54,Kodagu,2020-09-20
+2527.83,Kodagu,2020-09-21
+2596.42,Kodagu,2020-09-22
+2666.31,Kodagu,2020-09-23
+2737.55,Kodagu,2020-09-24
+2810.14,Kodagu,2020-09-25
+2884.12,Kodagu,2020-09-26
+2959.5,Kodagu,2020-09-27
+3036.32,Kodagu,2020-09-28
+3114.6,Kodagu,2020-09-29
+3195.54,Kodagu,2020-09-30
+3280.01,Kodagu,2020-10-01
+3367.61,Kodagu,2020-10-02
+3458.05,Kodagu,2020-10-03
+3551.09,Kodagu,2020-10-04
+3646.57,Kodagu,2020-10-05
+3744.36,Kodagu,2020-10-06
+3844.37,Kodagu,2020-10-07
+3946.53,Kodagu,2020-10-08
+4050.81,Kodagu,2020-10-09
+4146.54,Kodagu,2020-10-10
+4225.86,Kodagu,2020-10-11
+4291.95,Kodagu,2020-10-12
+4350.96,Kodagu,2020-10-13
+4406.71,Kodagu,2020-10-14
+4458.76,Kodagu,2020-10-15
+4506.95,Kodagu,2020-10-16
+4551.29,Kodagu,2020-10-17
+4591.61,Kodagu,2020-10-18
+4627.97,Kodagu,2020-10-19
+4660.76,Kodagu,2020-10-20
+4690.34,Kodagu,2020-10-21
+4717.02,Kodagu,2020-10-22
+4741.11,Kodagu,2020-10-23
+4762.84,Kodagu,2020-10-24
+4782.46,Kodagu,2020-10-25
+4800.16,Kodagu,2020-10-26
+4818.63,Kodagu,2020-10-27
+4839.15,Kodagu,2020-10-28
+4860.75,Kodagu,2020-10-29
+4883.51,Kodagu,2020-10-30
+4907.5,Kodagu,2020-10-31
+4930.33,Kodagu,2020-11-01
+4950.82,Kodagu,2020-11-02
+4970.04,Kodagu,2020-11-03
+4988.09,Kodagu,2020-11-04
+5005.02,Kodagu,2020-11-05
+5020.92,Kodagu,2020-11-06
+5035.83,Kodagu,2020-11-07
+5049.83,Kodagu,2020-11-08
+5062.97,Kodagu,2020-11-09
+5075.29,Kodagu,2020-11-10
+5086.86,Kodagu,2020-11-11
+5097.72,Kodagu,2020-11-12
+5107.91,Kodagu,2020-11-13
+5117.47,Kodagu,2020-11-14
+5134.87,Kodagu,2020-11-15
+5142.77,Kodagu,2020-11-16
+5150.19,Kodagu,2020-11-17
+5157.15,Kodagu,2020-11-18
+5163.68,Kodagu,2020-11-19
+5169.81,Kodagu,2020-11-20
+5175.56,Kodagu,2020-11-21
+5180.96,Kodagu,2020-11-22
+5186.02,Kodagu,2020-11-23
+5190.77,Kodagu,2020-11-24
+5195.24,Kodagu,2020-11-25
+5199.42,Kodagu,2020-11-26
+5203.35,Kodagu,2020-11-27
+5207.04,Kodagu,2020-11-28
+5210.5,Kodagu,2020-11-29
+5213.74,Kodagu,2020-11-30
+5216.79,Kodagu,2020-12-01
+5219.65,Kodagu,2020-12-02
+5222.33,Kodagu,2020-12-03
+5224.85,Kodagu,2020-12-04
+5227.21,Kodagu,2020-12-05
+5229.43,Kodagu,2020-12-06
+5231.51,Kodagu,2020-12-07
+5233.46,Kodagu,2020-12-08
+5235.3,Kodagu,2020-12-09
+5237.01,Kodagu,2020-12-10
+5238.63,Kodagu,2020-12-11
+5240.14,Kodagu,2020-12-12
+5241.56,Kodagu,2020-12-13
+5242.9,Kodagu,2020-12-14
+5244.15,Kodagu,2020-12-15
+43.3992,Kolar,2020-05-25
+43.4961,Kolar,2020-05-26
+43.5026,Kolar,2020-05-27
+43.4421,Kolar,2020-05-28
+43.3325,Kolar,2020-05-29
+43.1881,Kolar,2020-05-30
+43.0195,Kolar,2020-05-31
+42.835,Kolar,2020-06-01
+42.6412,Kolar,2020-06-02
+42.6695,Kolar,2020-06-03
+43.1017,Kolar,2020-06-04
+43.8873,Kolar,2020-06-05
+44.9899,Kolar,2020-06-06
+46.3847,Kolar,2020-06-07
+48.0557,Kolar,2020-06-08
+49.9948,Kolar,2020-06-09
+52.2001,Kolar,2020-06-10
+54.675,Kolar,2020-06-11
+57.4278,Kolar,2020-06-12
+60.4705,Kolar,2020-06-13
+63.8192,Kolar,2020-06-14
+67.4935,Kolar,2020-06-15
+71.5163,Kolar,2020-06-16
+75.9137,Kolar,2020-06-17
+80.7154,Kolar,2020-06-18
+85.9544,Kolar,2020-06-19
+91.6672,Kolar,2020-06-20
+97.8942,Kolar,2020-06-21
+104.68,Kolar,2020-06-22
+112.072,Kolar,2020-06-23
+120.124,Kolar,2020-06-24
+128.894,Kolar,2020-06-25
+138.446,Kolar,2020-06-26
+148.847,Kolar,2020-06-27
+160.174,Kolar,2020-06-28
+172.508,Kolar,2020-06-29
+185.938,Kolar,2020-06-30
+200.562,Kolar,2020-07-01
+216.486,Kolar,2020-07-02
+233.824,Kolar,2020-07-03
+252.703,Kolar,2020-07-04
+273.259,Kolar,2020-07-05
+295.641,Kolar,2020-07-06
+320.011,Kolar,2020-07-07
+346.545,Kolar,2020-07-08
+375.436,Kolar,2020-07-09
+406.892,Kolar,2020-07-10
+441.142,Kolar,2020-07-11
+478.433,Kolar,2020-07-12
+519.035,Kolar,2020-07-13
+563.241,Kolar,2020-07-14
+611.372,Kolar,2020-07-15
+663.774,Kolar,2020-07-16
+720.827,Kolar,2020-07-17
+782.943,Kolar,2020-07-18
+850.571,Kolar,2020-07-19
+917.398,Kolar,2020-07-20
+978.04,Kolar,2020-07-21
+1033.89,Kolar,2020-07-22
+1086.04,Kolar,2020-07-23
+1135.36,Kolar,2020-07-24
+1182.51,Kolar,2020-07-25
+1228.02,Kolar,2020-07-26
+1280.35,Kolar,2020-07-27
+1345.89,Kolar,2020-07-28
+1418.52,Kolar,2020-07-29
+1493.87,Kolar,2020-07-30
+1572.38,Kolar,2020-07-31
+1650.57,Kolar,2020-08-01
+1725.48,Kolar,2020-08-02
+1798.11,Kolar,2020-08-03
+1869.24,Kolar,2020-08-04
+1939.51,Kolar,2020-08-05
+1998.44,Kolar,2020-08-06
+2051.62,Kolar,2020-08-07
+2110.54,Kolar,2020-08-08
+2172.21,Kolar,2020-08-09
+2234.63,Kolar,2020-08-10
+2296.46,Kolar,2020-08-11
+2356.83,Kolar,2020-08-12
+2411.3,Kolar,2020-08-13
+2457.37,Kolar,2020-08-14
+2502.73,Kolar,2020-08-15
+2551.61,Kolar,2020-08-16
+2612.06,Kolar,2020-08-17
+2693.35,Kolar,2020-08-18
+2781.97,Kolar,2020-08-19
+2865.68,Kolar,2020-08-20
+2945.86,Kolar,2020-08-21
+3023.52,Kolar,2020-08-22
+3099.4,Kolar,2020-08-23
+3174.07,Kolar,2020-08-24
+3247.96,Kolar,2020-08-25
+3321.36,Kolar,2020-08-26
+3394.52,Kolar,2020-08-27
+3467.61,Kolar,2020-08-28
+3540.76,Kolar,2020-08-29
+3614.06,Kolar,2020-08-30
+3687.59,Kolar,2020-08-31
+3761.41,Kolar,2020-09-01
+3835.54,Kolar,2020-09-02
+3910.04,Kolar,2020-09-03
+3984.91,Kolar,2020-09-04
+4060.18,Kolar,2020-09-05
+4135.86,Kolar,2020-09-06
+4211.96,Kolar,2020-09-07
+4288.49,Kolar,2020-09-08
+4365.46,Kolar,2020-09-09
+4442.88,Kolar,2020-09-10
+4520.74,Kolar,2020-09-11
+4599.06,Kolar,2020-09-12
+4671.82,Kolar,2020-09-13
+4743.84,Kolar,2020-09-14
+4825.04,Kolar,2020-09-15
+4915.74,Kolar,2020-09-16
+5016.39,Kolar,2020-09-17
+5132.87,Kolar,2020-09-18
+5252.29,Kolar,2020-09-19
+5359.22,Kolar,2020-09-20
+5456.32,Kolar,2020-09-21
+5545.63,Kolar,2020-09-22
+5628.75,Kolar,2020-09-23
+5715.94,Kolar,2020-09-24
+5815.26,Kolar,2020-09-25
+5925.28,Kolar,2020-09-26
+6044.99,Kolar,2020-09-27
+6177.68,Kolar,2020-09-28
+6325.55,Kolar,2020-09-29
+6486.85,Kolar,2020-09-30
+6660.31,Kolar,2020-10-01
+6827.35,Kolar,2020-10-02
+6973.93,Kolar,2020-10-03
+7104.45,Kolar,2020-10-04
+7222.19,Kolar,2020-10-05
+7329.64,Kolar,2020-10-06
+7428.69,Kolar,2020-10-07
+7526.66,Kolar,2020-10-08
+7627.9,Kolar,2020-10-09
+7718.36,Kolar,2020-10-10
+7789.79,Kolar,2020-10-11
+7846.92,Kolar,2020-10-12
+7893.19,Kolar,2020-10-13
+7934.63,Kolar,2020-10-14
+7975.22,Kolar,2020-10-15
+8014.77,Kolar,2020-10-16
+8053.13,Kolar,2020-10-17
+8090.24,Kolar,2020-10-18
+8129.73,Kolar,2020-10-19
+8173.46,Kolar,2020-10-20
+8219.47,Kolar,2020-10-21
+8266.42,Kolar,2020-10-22
+8313.41,Kolar,2020-10-23
+8359.82,Kolar,2020-10-24
+8409.48,Kolar,2020-10-25
+8461.41,Kolar,2020-10-26
+8511.81,Kolar,2020-10-27
+8561.27,Kolar,2020-10-28
+8610.23,Kolar,2020-10-29
+8649.55,Kolar,2020-10-30
+8676.49,Kolar,2020-10-31
+8697.06,Kolar,2020-11-01
+8712.89,Kolar,2020-11-02
+8725.2,Kolar,2020-11-03
+8737.53,Kolar,2020-11-04
+8751.61,Kolar,2020-11-05
+8766.22,Kolar,2020-11-06
+8780.63,Kolar,2020-11-07
+8795.8,Kolar,2020-11-08
+8812.65,Kolar,2020-11-09
+8830.78,Kolar,2020-11-10
+8849.88,Kolar,2020-11-11
+8869.73,Kolar,2020-11-12
+8890.16,Kolar,2020-11-13
+8911.08,Kolar,2020-11-14
+8954.01,Kolar,2020-11-15
+8975.92,Kolar,2020-11-16
+8998.08,Kolar,2020-11-17
+9020.47,Kolar,2020-11-18
+9043.07,Kolar,2020-11-19
+9065.87,Kolar,2020-11-20
+9088.85,Kolar,2020-11-21
+9112.02,Kolar,2020-11-22
+9135.37,Kolar,2020-11-23
+9158.89,Kolar,2020-11-24
+9182.6,Kolar,2020-11-25
+9206.47,Kolar,2020-11-26
+9230.52,Kolar,2020-11-27
+9254.75,Kolar,2020-11-28
+9279.15,Kolar,2020-11-29
+9303.72,Kolar,2020-11-30
+9328.47,Kolar,2020-12-01
+9353.4,Kolar,2020-12-02
+9378.51,Kolar,2020-12-03
+9403.79,Kolar,2020-12-04
+9429.25,Kolar,2020-12-05
+9454.9,Kolar,2020-12-06
+9480.73,Kolar,2020-12-07
+9506.74,Kolar,2020-12-08
+9532.94,Kolar,2020-12-09
+9559.32,Kolar,2020-12-10
+9585.89,Kolar,2020-12-11
+9612.64,Kolar,2020-12-12
+9639.59,Kolar,2020-12-13
+9666.73,Kolar,2020-12-14
+9694.06,Kolar,2020-12-15
+240.022,Koppal,2020-06-15
+257.116,Koppal,2020-06-16
+271.627,Koppal,2020-06-17
+281.4,Koppal,2020-06-18
+288.521,Koppal,2020-06-19
+294.112,Koppal,2020-06-20
+298.783,Koppal,2020-06-21
+302.867,Koppal,2020-06-22
+306.546,Koppal,2020-06-23
+309.924,Koppal,2020-06-24
+313.062,Koppal,2020-06-25
+316.911,Koppal,2020-06-26
+322.637,Koppal,2020-06-27
+330.143,Koppal,2020-06-28
+338.825,Koppal,2020-06-29
+348.369,Koppal,2020-06-30
+360.176,Koppal,2020-07-01
+375.25,Koppal,2020-07-02
+393.229,Koppal,2020-07-03
+430.282,Koppal,2020-07-04
+512.119,Koppal,2020-07-05
+601.62,Koppal,2020-07-06
+661.944,Koppal,2020-07-07
+706.364,Koppal,2020-07-08
+742.003,Koppal,2020-07-09
+772.684,Koppal,2020-07-10
+807.235,Koppal,2020-07-11
+850.247,Koppal,2020-07-12
+891.019,Koppal,2020-07-13
+924.181,Koppal,2020-07-14
+952.939,Koppal,2020-07-15
+979.024,Koppal,2020-07-16
+1003.37,Koppal,2020-07-17
+1026.49,Koppal,2020-07-18
+1055.22,Koppal,2020-07-19
+1093.75,Koppal,2020-07-20
+1140.01,Koppal,2020-07-21
+1193.03,Koppal,2020-07-22
+1252.5,Koppal,2020-07-23
+1318.53,Koppal,2020-07-24
+1394.14,Koppal,2020-07-25
+1481.75,Koppal,2020-07-26
+1581.49,Koppal,2020-07-27
+1694.06,Koppal,2020-07-28
+1820.58,Koppal,2020-07-29
+1948.74,Koppal,2020-07-30
+2071.06,Koppal,2020-07-31
+2193.06,Koppal,2020-08-01
+2318.02,Koppal,2020-08-02
+2447.95,Koppal,2020-08-03
+2584.2,Koppal,2020-08-04
+2766.89,Koppal,2020-08-05
+2997.83,Koppal,2020-08-06
+3212.44,Koppal,2020-08-07
+3389.31,Koppal,2020-08-08
+3545.46,Koppal,2020-08-09
+3689.82,Koppal,2020-08-10
+3826.95,Koppal,2020-08-11
+3959.16,Koppal,2020-08-12
+4104.62,Koppal,2020-08-13
+4272.53,Koppal,2020-08-14
+4446.21,Koppal,2020-08-15
+4618.58,Koppal,2020-08-16
+4793.47,Koppal,2020-08-17
+4972.86,Koppal,2020-08-18
+5157.93,Koppal,2020-08-19
+5349.62,Koppal,2020-08-20
+5548.57,Koppal,2020-08-21
+5755.27,Koppal,2020-08-22
+5970.12,Koppal,2020-08-23
+6193.52,Koppal,2020-08-24
+6404.18,Koppal,2020-08-25
+6591.69,Koppal,2020-08-26
+6766.19,Koppal,2020-08-27
+6933.16,Koppal,2020-08-28
+7095.58,Koppal,2020-08-29
+7255.06,Koppal,2020-08-30
+7412.42,Koppal,2020-08-31
+7568.09,Koppal,2020-09-01
+7722.31,Koppal,2020-09-02
+7875.11,Koppal,2020-09-03
+8026.53,Koppal,2020-09-04
+8176.67,Koppal,2020-09-05
+8336.29,Koppal,2020-09-06
+8474.62,Koppal,2020-09-07
+8571.07,Koppal,2020-09-08
+8705.65,Koppal,2020-09-09
+8909.52,Koppal,2020-09-10
+9118.46,Koppal,2020-09-11
+9304.99,Koppal,2020-09-12
+9480.35,Koppal,2020-09-13
+9629.64,Koppal,2020-09-14
+9747.18,Koppal,2020-09-15
+9872.57,Koppal,2020-09-16
+10027.7,Koppal,2020-09-17
+10206.1,Koppal,2020-09-18
+10394.8,Koppal,2020-09-19
+10578.3,Koppal,2020-09-20
+10769.6,Koppal,2020-09-21
+10972.4,Koppal,2020-09-22
+11143.6,Koppal,2020-09-23
+11269.2,Koppal,2020-09-24
+11368.6,Koppal,2020-09-25
+11458.4,Koppal,2020-09-26
+11520.1,Koppal,2020-09-27
+11543.6,Koppal,2020-09-28
+11571.4,Koppal,2020-09-29
+11621.4,Koppal,2020-09-30
+11682.5,Koppal,2020-10-01
+11748.5,Koppal,2020-10-02
+11790.8,Koppal,2020-10-03
+11820.9,Koppal,2020-10-04
+11861.5,Koppal,2020-10-05
+11928.4,Koppal,2020-10-06
+12000.3,Koppal,2020-10-07
+12054.1,Koppal,2020-10-08
+12117.6,Koppal,2020-10-09
+12200.6,Koppal,2020-10-10
+12292.3,Koppal,2020-10-11
+12375.7,Koppal,2020-10-12
+12444.4,Koppal,2020-10-13
+12504.6,Koppal,2020-10-14
+12559.6,Koppal,2020-10-15
+12611.4,Koppal,2020-10-16
+12660.9,Koppal,2020-10-17
+12719.5,Koppal,2020-10-18
+12778.9,Koppal,2020-10-19
+12828.3,Koppal,2020-10-20
+12871.1,Koppal,2020-10-21
+12909,Koppal,2020-10-22
+12943,Koppal,2020-10-23
+12973.9,Koppal,2020-10-24
+13002,Koppal,2020-10-25
+13027.7,Koppal,2020-10-26
+13054.7,Koppal,2020-10-27
+13084.6,Koppal,2020-10-28
+13115.1,Koppal,2020-10-29
+13145.2,Koppal,2020-10-30
+13174.5,Koppal,2020-10-31
+13202.8,Koppal,2020-11-01
+13229.9,Koppal,2020-11-02
+13255.8,Koppal,2020-11-03
+13280.6,Koppal,2020-11-04
+13304.4,Koppal,2020-11-05
+13326.1,Koppal,2020-11-06
+13345.5,Koppal,2020-11-07
+13363.1,Koppal,2020-11-08
+13379.5,Koppal,2020-11-09
+13394.7,Koppal,2020-11-10
+13408.8,Koppal,2020-11-11
+13422.1,Koppal,2020-11-12
+13434.6,Koppal,2020-11-13
+13446.2,Koppal,2020-11-14
+13467.4,Koppal,2020-11-15
+13477,Koppal,2020-11-16
+13486,Koppal,2020-11-17
+13494.5,Koppal,2020-11-18
+13502.4,Koppal,2020-11-19
+13509.8,Koppal,2020-11-20
+13516.8,Koppal,2020-11-21
+13523.4,Koppal,2020-11-22
+13529.5,Koppal,2020-11-23
+13535.3,Koppal,2020-11-24
+13540.7,Koppal,2020-11-25
+13545.7,Koppal,2020-11-26
+13550.5,Koppal,2020-11-27
+13554.9,Koppal,2020-11-28
+13559.1,Koppal,2020-11-29
+13563,Koppal,2020-11-30
+13566.7,Koppal,2020-12-01
+13570.2,Koppal,2020-12-02
+13573.4,Koppal,2020-12-03
+13576.4,Koppal,2020-12-04
+13579.3,Koppal,2020-12-05
+13582,Koppal,2020-12-06
+13584.5,Koppal,2020-12-07
+13586.8,Koppal,2020-12-08
+13589,Koppal,2020-12-09
+13591.1,Koppal,2020-12-10
+13593,Koppal,2020-12-11
+13594.8,Koppal,2020-12-12
+13596.6,Koppal,2020-12-13
+13598.2,Koppal,2020-12-14
+13599.7,Koppal,2020-12-15
+40.4917,Mandya,2020-04-24
+41.1825,Mandya,2020-04-25
+41.2662,Mandya,2020-04-26
+41.0059,Mandya,2020-04-27
+40.5553,Mandya,2020-04-28
+40.0039,Mandya,2020-04-29
+39.4037,Mandya,2020-04-30
+38.7851,Mandya,2020-05-01
+38.1651,Mandya,2020-05-02
+37.5535,Mandya,2020-05-03
+36.9559,Mandya,2020-05-04
+36.3749,Mandya,2020-05-05
+37.6319,Mandya,2020-05-06
+42.1215,Mandya,2020-05-07
+49.6732,Mandya,2020-05-08
+60.5518,Mandya,2020-05-09
+75.39,Mandya,2020-05-10
+95.185,Mandya,2020-05-11
+121.343,Mandya,2020-05-12
+155.763,Mandya,2020-05-13
+200.974,Mandya,2020-05-14
+241.174,Mandya,2020-05-15
+265.389,Mandya,2020-05-16
+280.239,Mandya,2020-05-17
+289.6,Mandya,2020-05-18
+295.743,Mandya,2020-05-19
+299.996,Mandya,2020-05-20
+303.137,Mandya,2020-05-21
+305.622,Mandya,2020-05-22
+307.719,Mandya,2020-05-23
+313.258,Mandya,2020-05-24
+316.507,Mandya,2020-05-25
+313.299,Mandya,2020-05-26
+307.187,Mandya,2020-05-27
+300.04,Mandya,2020-05-28
+292.809,Mandya,2020-05-29
+285.954,Mandya,2020-05-30
+279.675,Mandya,2020-05-31
+274.032,Mandya,2020-06-01
+271.718,Mandya,2020-06-02
+273.492,Mandya,2020-06-03
+277.531,Mandya,2020-06-04
+282.838,Mandya,2020-06-05
+288.868,Mandya,2020-06-06
+293.947,Mandya,2020-06-07
+297.383,Mandya,2020-06-08
+299.88,Mandya,2020-06-09
+301.827,Mandya,2020-06-10
+303.439,Mandya,2020-06-11
+304.835,Mandya,2020-06-12
+306.083,Mandya,2020-06-13
+307.221,Mandya,2020-06-14
+311.008,Mandya,2020-06-15
+319.038,Mandya,2020-06-16
+330.361,Mandya,2020-06-17
+344.615,Mandya,2020-06-18
+359.494,Mandya,2020-06-19
+373.531,Mandya,2020-06-20
+387.455,Mandya,2020-06-21
+401.69,Mandya,2020-06-22
+416.489,Mandya,2020-06-23
+434.36,Mandya,2020-06-24
+457.062,Mandya,2020-06-25
+484.198,Mandya,2020-06-26
+515.798,Mandya,2020-06-27
+552.158,Mandya,2020-06-28
+586.779,Mandya,2020-06-29
+615.788,Mandya,2020-06-30
+641.887,Mandya,2020-07-01
+666.559,Mandya,2020-07-02
+690.62,Mandya,2020-07-03
+714.52,Mandya,2020-07-04
+738.508,Mandya,2020-07-05
+762.723,Mandya,2020-07-06
+787.288,Mandya,2020-07-07
+812.268,Mandya,2020-07-08
+837.673,Mandya,2020-07-09
+863.511,Mandya,2020-07-10
+889.789,Mandya,2020-07-11
+915.317,Mandya,2020-07-12
+946.637,Mandya,2020-07-13
+988.442,Mandya,2020-07-14
+1038.45,Mandya,2020-07-15
+1095.67,Mandya,2020-07-16
+1159.8,Mandya,2020-07-17
+1230.99,Mandya,2020-07-18
+1309.65,Mandya,2020-07-19
+1391.28,Mandya,2020-07-20
+1473.62,Mandya,2020-07-21
+1559.26,Mandya,2020-07-22
+1649.87,Mandya,2020-07-23
+1746.65,Mandya,2020-07-24
+1846.13,Mandya,2020-07-25
+1946.39,Mandya,2020-07-26
+2049.66,Mandya,2020-07-27
+2157.32,Mandya,2020-07-28
+2265.41,Mandya,2020-07-29
+2372.35,Mandya,2020-07-30
+2481.22,Mandya,2020-07-31
+2593.92,Mandya,2020-08-01
+2711.71,Mandya,2020-08-02
+2821.37,Mandya,2020-08-03
+2924.12,Mandya,2020-08-04
+3030.04,Mandya,2020-08-05
+3138.49,Mandya,2020-08-06
+3249.13,Mandya,2020-08-07
+3361.78,Mandya,2020-08-08
+3476.29,Mandya,2020-08-09
+3592.58,Mandya,2020-08-10
+3710.69,Mandya,2020-08-11
+3820.58,Mandya,2020-08-12
+3917.74,Mandya,2020-08-13
+4007.43,Mandya,2020-08-14
+4092.6,Mandya,2020-08-15
+4174.88,Mandya,2020-08-16
+4274.18,Mandya,2020-08-17
+4396.82,Mandya,2020-08-18
+4531.04,Mandya,2020-08-19
+4695.87,Mandya,2020-08-20
+4891.4,Mandya,2020-08-21
+5101.6,Mandya,2020-08-22
+5325.86,Mandya,2020-08-23
+5564.23,Mandya,2020-08-24
+5817.16,Mandya,2020-08-25
+6085.32,Mandya,2020-08-26
+6335.89,Mandya,2020-08-27
+6552.17,Mandya,2020-08-28
+6749.54,Mandya,2020-08-29
+6936.39,Mandya,2020-08-30
+7117.26,Mandya,2020-08-31
+7294.65,Mandya,2020-09-01
+7469.84,Mandya,2020-09-02
+7643.55,Mandya,2020-09-03
+7816.2,Mandya,2020-09-04
+7988.04,Mandya,2020-09-05
+8159.19,Mandya,2020-09-06
+8290.63,Mandya,2020-09-07
+8338.03,Mandya,2020-09-08
+8380.91,Mandya,2020-09-09
+8469.64,Mandya,2020-09-10
+8578.28,Mandya,2020-09-11
+8652.36,Mandya,2020-09-12
+8672.37,Mandya,2020-09-13
+8662.32,Mandya,2020-09-14
+8692.16,Mandya,2020-09-15
+8795.22,Mandya,2020-09-16
+8947.03,Mandya,2020-09-17
+9134.35,Mandya,2020-09-18
+9303.31,Mandya,2020-09-19
+9426.08,Mandya,2020-09-20
+9558.14,Mandya,2020-09-21
+9721.75,Mandya,2020-09-22
+9900.38,Mandya,2020-09-23
+10085.4,Mandya,2020-09-24
+10272.5,Mandya,2020-09-25
+10459.3,Mandya,2020-09-26
+10644.6,Mandya,2020-09-27
+10827.9,Mandya,2020-09-28
+11008.8,Mandya,2020-09-29
+11187.2,Mandya,2020-09-30
+11375,Mandya,2020-10-01
+11577.7,Mandya,2020-10-02
+11789.7,Mandya,2020-10-03
+12008.1,Mandya,2020-10-04
+12229.1,Mandya,2020-10-05
+12451.2,Mandya,2020-10-06
+12675.5,Mandya,2020-10-07
+12883.6,Mandya,2020-10-08
+13067.4,Mandya,2020-10-09
+13236.6,Mandya,2020-10-10
+13396.1,Mandya,2020-10-11
+13548.5,Mandya,2020-10-12
+13695.3,Mandya,2020-10-13
+13837.4,Mandya,2020-10-14
+13975.3,Mandya,2020-10-15
+14109.3,Mandya,2020-10-16
+14242.9,Mandya,2020-10-17
+14375.9,Mandya,2020-10-18
+14504.8,Mandya,2020-10-19
+14628.2,Mandya,2020-10-20
+14745.5,Mandya,2020-10-21
+14856.7,Mandya,2020-10-22
+14953.8,Mandya,2020-10-23
+15035.3,Mandya,2020-10-24
+15106.9,Mandya,2020-10-25
+15186.3,Mandya,2020-10-26
+15281.2,Mandya,2020-10-27
+15384.8,Mandya,2020-10-28
+15493.5,Mandya,2020-10-29
+15605.7,Mandya,2020-10-30
+15709.9,Mandya,2020-10-31
+15801.2,Mandya,2020-11-01
+15884.4,Mandya,2020-11-02
+15962.3,Mandya,2020-11-03
+16036.3,Mandya,2020-11-04
+16102.7,Mandya,2020-11-05
+16160.5,Mandya,2020-11-06
+16212.5,Mandya,2020-11-07
+16259,Mandya,2020-11-08
+16300.6,Mandya,2020-11-09
+16338.5,Mandya,2020-11-10
+16378.2,Mandya,2020-11-11
+16421.5,Mandya,2020-11-12
+16466.2,Mandya,2020-11-13
+16511.2,Mandya,2020-11-14
+16595.7,Mandya,2020-11-15
+16635,Mandya,2020-11-16
+16672.7,Mandya,2020-11-17
+16709.1,Mandya,2020-11-18
+16744.2,Mandya,2020-11-19
+16778.1,Mandya,2020-11-20
+16810.8,Mandya,2020-11-21
+16842.5,Mandya,2020-11-22
+16873.2,Mandya,2020-11-23
+16902.8,Mandya,2020-11-24
+16931.4,Mandya,2020-11-25
+16959.1,Mandya,2020-11-26
+16985.9,Mandya,2020-11-27
+17011.8,Mandya,2020-11-28
+17036.8,Mandya,2020-11-29
+17061,Mandya,2020-11-30
+17084.4,Mandya,2020-12-01
+17107.1,Mandya,2020-12-02
+17129,Mandya,2020-12-03
+17150.1,Mandya,2020-12-04
+17170.6,Mandya,2020-12-05
+17190.4,Mandya,2020-12-06
+17209.5,Mandya,2020-12-07
+17228.1,Mandya,2020-12-08
+17246,Mandya,2020-12-09
+17263.3,Mandya,2020-12-10
+17280,Mandya,2020-12-11
+17296.2,Mandya,2020-12-12
+17311.8,Mandya,2020-12-13
+17327,Mandya,2020-12-14
+17341.6,Mandya,2020-12-15
+38.8335,Mysuru,2020-04-01
+42.0395,Mysuru,2020-04-02
+45.1118,Mysuru,2020-04-03
+48.0664,Mysuru,2020-04-04
+50.9171,Mysuru,2020-04-05
+54.0616,Mysuru,2020-04-06
+57.9192,Mysuru,2020-04-07
+62.5564,Mysuru,2020-04-08
+67.4729,Mysuru,2020-04-09
+72.1505,Mysuru,2020-04-10
+76.6197,Mysuru,2020-04-11
+80.9063,Mysuru,2020-04-12
+85.0324,Mysuru,2020-04-13
+89.0166,Mysuru,2020-04-14
+92.8747,Mysuru,2020-04-15
+96.6202,Mysuru,2020-04-16
+100.265,Mysuru,2020-04-17
+103.32,Mysuru,2020-04-18
+105.467,Mysuru,2020-04-19
+106.914,Mysuru,2020-04-20
+107.826,Mysuru,2020-04-21
+108.336,Mysuru,2020-04-22
+108.545,Mysuru,2020-04-23
+108.535,Mysuru,2020-04-24
+108.369,Mysuru,2020-04-25
+108.096,Mysuru,2020-04-26
+107.753,Mysuru,2020-04-27
+107.368,Mysuru,2020-04-28
+106.963,Mysuru,2020-04-29
+106.553,Mysuru,2020-04-30
+106.15,Mysuru,2020-05-01
+105.761,Mysuru,2020-05-02
+105.392,Mysuru,2020-05-03
+105.045,Mysuru,2020-05-04
+104.724,Mysuru,2020-05-05
+104.453,Mysuru,2020-05-06
+104.249,Mysuru,2020-05-07
+104.101,Mysuru,2020-05-08
+103.977,Mysuru,2020-05-09
+103.851,Mysuru,2020-05-10
+103.728,Mysuru,2020-05-11
+103.635,Mysuru,2020-05-12
+103.595,Mysuru,2020-05-13
+103.604,Mysuru,2020-05-14
+103.66,Mysuru,2020-05-15
+103.761,Mysuru,2020-05-16
+103.907,Mysuru,2020-05-17
+104.098,Mysuru,2020-05-18
+104.334,Mysuru,2020-05-19
+104.619,Mysuru,2020-05-20
+104.953,Mysuru,2020-05-21
+105.342,Mysuru,2020-05-22
+105.788,Mysuru,2020-05-23
+106.298,Mysuru,2020-05-24
+106.877,Mysuru,2020-05-25
+107.531,Mysuru,2020-05-26
+108.269,Mysuru,2020-05-27
+109.099,Mysuru,2020-05-28
+110.032,Mysuru,2020-05-29
+111.08,Mysuru,2020-05-30
+112.254,Mysuru,2020-05-31
+113.571,Mysuru,2020-06-01
+115.045,Mysuru,2020-06-02
+116.696,Mysuru,2020-06-03
+118.544,Mysuru,2020-06-04
+120.612,Mysuru,2020-06-05
+122.927,Mysuru,2020-06-06
+125.516,Mysuru,2020-06-07
+128.413,Mysuru,2020-06-08
+131.654,Mysuru,2020-06-09
+135.279,Mysuru,2020-06-10
+139.334,Mysuru,2020-06-11
+143.87,Mysuru,2020-06-12
+148.943,Mysuru,2020-06-13
+154.617,Mysuru,2020-06-14
+160.963,Mysuru,2020-06-15
+168.061,Mysuru,2020-06-16
+176,Mysuru,2020-06-17
+184.879,Mysuru,2020-06-18
+194.809,Mysuru,2020-06-19
+205.916,Mysuru,2020-06-20
+218.338,Mysuru,2020-06-21
+232.23,Mysuru,2020-06-22
+247.532,Mysuru,2020-06-23
+264.163,Mysuru,2020-06-24
+282.348,Mysuru,2020-06-25
+302.331,Mysuru,2020-06-26
+324.302,Mysuru,2020-06-27
+348.466,Mysuru,2020-06-28
+375.682,Mysuru,2020-06-29
+406.962,Mysuru,2020-06-30
+442.82,Mysuru,2020-07-01
+483.851,Mysuru,2020-07-02
+530.739,Mysuru,2020-07-03
+584.265,Mysuru,2020-07-04
+645.322,Mysuru,2020-07-05
+713.688,Mysuru,2020-07-06
+789.022,Mysuru,2020-07-07
+871.556,Mysuru,2020-07-08
+961.611,Mysuru,2020-07-09
+1059.91,Mysuru,2020-07-10
+1167.21,Mysuru,2020-07-11
+1284.6,Mysuru,2020-07-12
+1413.28,Mysuru,2020-07-13
+1554.52,Mysuru,2020-07-14
+1709.74,Mysuru,2020-07-15
+1880.48,Mysuru,2020-07-16
+2068.43,Mysuru,2020-07-17
+2268.14,Mysuru,2020-07-18
+2473.7,Mysuru,2020-07-19
+2685.98,Mysuru,2020-07-20
+2905.85,Mysuru,2020-07-21
+3134.15,Mysuru,2020-07-22
+3371.71,Mysuru,2020-07-23
+3619.36,Mysuru,2020-07-24
+3877.94,Mysuru,2020-07-25
+4148.28,Mysuru,2020-07-26
+4431.24,Mysuru,2020-07-27
+4727.69,Mysuru,2020-07-28
+5038.5,Mysuru,2020-07-29
+5364.6,Mysuru,2020-07-30
+5720.53,Mysuru,2020-07-31
+6084.11,Mysuru,2020-08-01
+6423.08,Mysuru,2020-08-02
+6739.66,Mysuru,2020-08-03
+7035.74,Mysuru,2020-08-04
+7335.78,Mysuru,2020-08-05
+7663.14,Mysuru,2020-08-06
+8018.72,Mysuru,2020-08-07
+8403.34,Mysuru,2020-08-08
+8817.99,Mysuru,2020-08-09
+9236.89,Mysuru,2020-08-10
+9634.85,Mysuru,2020-08-11
+10013.4,Mysuru,2020-08-12
+10374.3,Mysuru,2020-08-13
+10717.6,Mysuru,2020-08-14
+11068.9,Mysuru,2020-08-15
+11450.6,Mysuru,2020-08-16
+11858.2,Mysuru,2020-08-17
+12288.2,Mysuru,2020-08-18
+12756.3,Mysuru,2020-08-19
+13277.4,Mysuru,2020-08-20
+13840.1,Mysuru,2020-08-21
+14436.4,Mysuru,2020-08-22
+15068.3,Mysuru,2020-08-23
+15738.1,Mysuru,2020-08-24
+16448.1,Mysuru,2020-08-25
+17200.7,Mysuru,2020-08-26
+17961.4,Mysuru,2020-08-27
+18697.3,Mysuru,2020-08-28
+19411.7,Mysuru,2020-08-29
+20107.6,Mysuru,2020-08-30
+20787.4,Mysuru,2020-08-31
+21453.4,Mysuru,2020-09-01
+22107.3,Mysuru,2020-09-02
+22750.8,Mysuru,2020-09-03
+23351.2,Mysuru,2020-09-04
+23882.1,Mysuru,2020-09-05
+24352.3,Mysuru,2020-09-06
+24798.8,Mysuru,2020-09-07
+25247.5,Mysuru,2020-09-08
+25692.1,Mysuru,2020-09-09
+26128.1,Mysuru,2020-09-10
+26552.2,Mysuru,2020-09-11
+26962.3,Mysuru,2020-09-12
+27386.2,Mysuru,2020-09-13
+27854.7,Mysuru,2020-09-14
+28371.8,Mysuru,2020-09-15
+28941.8,Mysuru,2020-09-16
+29569.9,Mysuru,2020-09-17
+30261.5,Mysuru,2020-09-18
+30958,Mysuru,2020-09-19
+31601.7,Mysuru,2020-09-20
+32197.1,Mysuru,2020-09-21
+32771.2,Mysuru,2020-09-22
+33410.8,Mysuru,2020-09-23
+34178.7,Mysuru,2020-09-24
+35077.1,Mysuru,2020-09-25
+35970.6,Mysuru,2020-09-26
+36738.1,Mysuru,2020-09-27
+37396.6,Mysuru,2020-09-28
+38018.3,Mysuru,2020-09-29
+38663.6,Mysuru,2020-09-30
+39330.6,Mysuru,2020-10-01
+39968.8,Mysuru,2020-10-02
+40536.7,Mysuru,2020-10-03
+41086.1,Mysuru,2020-10-04
+41650.6,Mysuru,2020-10-05
+42220.2,Mysuru,2020-10-06
+42795.2,Mysuru,2020-10-07
+43376.1,Mysuru,2020-10-08
+43963.1,Mysuru,2020-10-09
+44428.3,Mysuru,2020-10-10
+44763.7,Mysuru,2020-10-11
+45062.3,Mysuru,2020-10-12
+45323.7,Mysuru,2020-10-13
+45549.7,Mysuru,2020-10-14
+45727.1,Mysuru,2020-10-15
+45877.3,Mysuru,2020-10-16
+46028.1,Mysuru,2020-10-17
+46177.6,Mysuru,2020-10-18
+46324.3,Mysuru,2020-10-19
+46466.9,Mysuru,2020-10-20
+46604.9,Mysuru,2020-10-21
+46737.7,Mysuru,2020-10-22
+46865,Mysuru,2020-10-23
+46986.5,Mysuru,2020-10-24
+47102.3,Mysuru,2020-10-25
+47212.4,Mysuru,2020-10-26
+47316.9,Mysuru,2020-10-27
+47415.9,Mysuru,2020-10-28
+47517,Mysuru,2020-10-29
+47626.3,Mysuru,2020-10-30
+47742.9,Mysuru,2020-10-31
+47865.6,Mysuru,2020-11-01
+47985.9,Mysuru,2020-11-02
+48096.5,Mysuru,2020-11-03
+48198.5,Mysuru,2020-11-04
+48292.8,Mysuru,2020-11-05
+48380.2,Mysuru,2020-11-06
+48464.2,Mysuru,2020-11-07
+48547.3,Mysuru,2020-11-08
+48629.4,Mysuru,2020-11-09
+48710.3,Mysuru,2020-11-10
+48789.9,Mysuru,2020-11-11
+48868.1,Mysuru,2020-11-12
+48944.8,Mysuru,2020-11-13
+49020,Mysuru,2020-11-14
+49165.7,Mysuru,2020-11-15
+49236.2,Mysuru,2020-11-16
+49305.1,Mysuru,2020-11-17
+49372.5,Mysuru,2020-11-18
+49438.4,Mysuru,2020-11-19
+49502.8,Mysuru,2020-11-20
+49565.7,Mysuru,2020-11-21
+49627.2,Mysuru,2020-11-22
+49687.2,Mysuru,2020-11-23
+49745.8,Mysuru,2020-11-24
+49803,Mysuru,2020-11-25
+49858.9,Mysuru,2020-11-26
+49913.5,Mysuru,2020-11-27
+49966.8,Mysuru,2020-11-28
+50018.8,Mysuru,2020-11-29
+50069.6,Mysuru,2020-11-30
+50119.2,Mysuru,2020-12-01
+50167.6,Mysuru,2020-12-02
+50214.9,Mysuru,2020-12-03
+50261.1,Mysuru,2020-12-04
+50306.1,Mysuru,2020-12-05
+50350.1,Mysuru,2020-12-06
+50393,Mysuru,2020-12-07
+50434.9,Mysuru,2020-12-08
+50475.8,Mysuru,2020-12-09
+50515.8,Mysuru,2020-12-10
+50554.8,Mysuru,2020-12-11
+50592.8,Mysuru,2020-12-12
+50630,Mysuru,2020-12-13
+50666.3,Mysuru,2020-12-14
+50701.7,Mysuru,2020-12-15
+44.3441,Raichur,2020-05-21
+55.6155,Raichur,2020-05-22
+69.8645,Raichur,2020-05-23
+87.8662,Raichur,2020-05-24
+106.94,Raichur,2020-05-25
+124.054,Raichur,2020-05-26
+139.469,Raichur,2020-05-27
+153.41,Raichur,2020-05-28
+166.073,Raichur,2020-05-29
+177.628,Raichur,2020-05-30
+188.22,Raichur,2020-05-31
+197.977,Raichur,2020-06-01
+207.01,Raichur,2020-06-02
+215.414,Raichur,2020-06-03
+223.271,Raichur,2020-06-04
+230.653,Raichur,2020-06-05
+237.623,Raichur,2020-06-06
+244.234,Raichur,2020-06-07
+250.533,Raichur,2020-06-08
+256.561,Raichur,2020-06-09
+262.714,Raichur,2020-06-10
+269.096,Raichur,2020-06-11
+275.424,Raichur,2020-06-12
+280.558,Raichur,2020-06-13
+283.84,Raichur,2020-06-14
+285.683,Raichur,2020-06-15
+286.423,Raichur,2020-06-16
+286.329,Raichur,2020-06-17
+286.708,Raichur,2020-06-18
+288.611,Raichur,2020-06-19
+291.934,Raichur,2020-06-20
+296.603,Raichur,2020-06-21
+302.57,Raichur,2020-06-22
+309.826,Raichur,2020-06-23
+318.383,Raichur,2020-06-24
+328.26,Raichur,2020-06-25
+339.497,Raichur,2020-06-26
+352.149,Raichur,2020-06-27
+366.286,Raichur,2020-06-28
+381.997,Raichur,2020-06-29
+399.386,Raichur,2020-06-30
+418.573,Raichur,2020-07-01
+439.695,Raichur,2020-07-02
+462.907,Raichur,2020-07-03
+488.382,Raichur,2020-07-04
+516.274,Raichur,2020-07-05
+546.752,Raichur,2020-07-06
+577.306,Raichur,2020-07-07
+605.592,Raichur,2020-07-08
+631.958,Raichur,2020-07-09
+656.696,Raichur,2020-07-10
+680.051,Raichur,2020-07-11
+709.358,Raichur,2020-07-12
+753.096,Raichur,2020-07-13
+813.956,Raichur,2020-07-14
+895.509,Raichur,2020-07-15
+1002.41,Raichur,2020-07-16
+1119.72,Raichur,2020-07-17
+1232.71,Raichur,2020-07-18
+1344.81,Raichur,2020-07-19
+1456.58,Raichur,2020-07-20
+1568.45,Raichur,2020-07-21
+1680.77,Raichur,2020-07-22
+1793.8,Raichur,2020-07-23
+1907.77,Raichur,2020-07-24
+2022.85,Raichur,2020-07-25
+2139.17,Raichur,2020-07-26
+2266.42,Raichur,2020-07-27
+2411.33,Raichur,2020-07-28
+2572.27,Raichur,2020-07-29
+2747.79,Raichur,2020-07-30
+2936.35,Raichur,2020-07-31
+3137.11,Raichur,2020-08-01
+3349.5,Raichur,2020-08-02
+3553.67,Raichur,2020-08-03
+3734.83,Raichur,2020-08-04
+3899.2,Raichur,2020-08-05
+4056.58,Raichur,2020-08-06
+4215.03,Raichur,2020-08-07
+4374.79,Raichur,2020-08-08
+4536.03,Raichur,2020-08-09
+4675.75,Raichur,2020-08-10
+4788.93,Raichur,2020-08-11
+4890.47,Raichur,2020-08-12
+4999.63,Raichur,2020-08-13
+5124.8,Raichur,2020-08-14
+5257.82,Raichur,2020-08-15
+5397.98,Raichur,2020-08-16
+5544.72,Raichur,2020-08-17
+5697.6,Raichur,2020-08-18
+5856.32,Raichur,2020-08-19
+6020.64,Raichur,2020-08-20
+6190.37,Raichur,2020-08-21
+6365.42,Raichur,2020-08-22
+6545.7,Raichur,2020-08-23
+6731.19,Raichur,2020-08-24
+6921.88,Raichur,2020-08-25
+7117.78,Raichur,2020-08-26
+7318.95,Raichur,2020-08-27
+7517.15,Raichur,2020-08-28
+7705.39,Raichur,2020-08-29
+7885.12,Raichur,2020-08-30
+8057.51,Raichur,2020-08-31
+8223.52,Raichur,2020-09-01
+8383.92,Raichur,2020-09-02
+8539.36,Raichur,2020-09-03
+8690.34,Raichur,2020-09-04
+8837.3,Raichur,2020-09-05
+8980.49,Raichur,2020-09-06
+9123.07,Raichur,2020-09-07
+9266.73,Raichur,2020-09-08
+9410.36,Raichur,2020-09-09
+9554.04,Raichur,2020-09-10
+9697.77,Raichur,2020-09-11
+9841.54,Raichur,2020-09-12
+9977.11,Raichur,2020-09-13
+10097.6,Raichur,2020-09-14
+10202.3,Raichur,2020-09-15
+10301.5,Raichur,2020-09-16
+10405.7,Raichur,2020-09-17
+10516,Raichur,2020-09-18
+10634.1,Raichur,2020-09-19
+10759.3,Raichur,2020-09-20
+10890.4,Raichur,2020-09-21
+11030.1,Raichur,2020-09-22
+11179.9,Raichur,2020-09-23
+11325,Raichur,2020-09-24
+11454.3,Raichur,2020-09-25
+11570.2,Raichur,2020-09-26
+11674.5,Raichur,2020-09-27
+11768.7,Raichur,2020-09-28
+11854.3,Raichur,2020-09-29
+11932.3,Raichur,2020-09-30
+12003.4,Raichur,2020-10-01
+12068.6,Raichur,2020-10-02
+12128.4,Raichur,2020-10-03
+12183.3,Raichur,2020-10-04
+12233.9,Raichur,2020-10-05
+12280.6,Raichur,2020-10-06
+12323.7,Raichur,2020-10-07
+12363.6,Raichur,2020-10-08
+12400.4,Raichur,2020-10-09
+12434.5,Raichur,2020-10-10
+12465.7,Raichur,2020-10-11
+12494,Raichur,2020-10-12
+12519.7,Raichur,2020-10-13
+12544.1,Raichur,2020-10-14
+12568.2,Raichur,2020-10-15
+12591.8,Raichur,2020-10-16
+12614.8,Raichur,2020-10-17
+12636.8,Raichur,2020-10-18
+12657.4,Raichur,2020-10-19
+12676.8,Raichur,2020-10-20
+12694.9,Raichur,2020-10-21
+12712,Raichur,2020-10-22
+12727.1,Raichur,2020-10-23
+12739.7,Raichur,2020-10-24
+12750.2,Raichur,2020-10-25
+12759.1,Raichur,2020-10-26
+12766.7,Raichur,2020-10-27
+12774.7,Raichur,2020-10-28
+12784.5,Raichur,2020-10-29
+12795.8,Raichur,2020-10-30
+12808.4,Raichur,2020-10-31
+12821.1,Raichur,2020-11-01
+12832.9,Raichur,2020-11-02
+12844,Raichur,2020-11-03
+12854.4,Raichur,2020-11-04
+12864.2,Raichur,2020-11-05
+12874.1,Raichur,2020-11-06
+12884.6,Raichur,2020-11-07
+12894.6,Raichur,2020-11-08
+12903.3,Raichur,2020-11-09
+12911,Raichur,2020-11-10
+12918.6,Raichur,2020-11-11
+12926.7,Raichur,2020-11-12
+12935.3,Raichur,2020-11-13
+12944.2,Raichur,2020-11-14
+12962,Raichur,2020-11-15
+12970.7,Raichur,2020-11-16
+12979.3,Raichur,2020-11-17
+12987.6,Raichur,2020-11-18
+12995.9,Raichur,2020-11-19
+13004,Raichur,2020-11-20
+13011.9,Raichur,2020-11-21
+13019.7,Raichur,2020-11-22
+13027.4,Raichur,2020-11-23
+13034.9,Raichur,2020-11-24
+13042.3,Raichur,2020-11-25
+13049.5,Raichur,2020-11-26
+13056.6,Raichur,2020-11-27
+13063.6,Raichur,2020-11-28
+13070.5,Raichur,2020-11-29
+13077.2,Raichur,2020-11-30
+13083.9,Raichur,2020-12-01
+13090.4,Raichur,2020-12-02
+13096.8,Raichur,2020-12-03
+13103,Raichur,2020-12-04
+13109.2,Raichur,2020-12-05
+13115.2,Raichur,2020-12-06
+13121.2,Raichur,2020-12-07
+13127,Raichur,2020-12-08
+13132.7,Raichur,2020-12-09
+13138.4,Raichur,2020-12-10
+13143.9,Raichur,2020-12-11
+13149.3,Raichur,2020-12-12
+13154.6,Raichur,2020-12-13
+13159.9,Raichur,2020-12-14
+13165,Raichur,2020-12-15
+61.08,Ramanagara,2020-06-12
+72.8258,Ramanagara,2020-06-13
+86.8337,Ramanagara,2020-06-14
+103.539,Ramanagara,2020-06-15
+120.184,Ramanagara,2020-06-16
+134.066,Ramanagara,2020-06-17
+145.613,Ramanagara,2020-06-18
+155.093,Ramanagara,2020-06-19
+162.75,Ramanagara,2020-06-20
+168.881,Ramanagara,2020-06-21
+173.737,Ramanagara,2020-06-22
+178.578,Ramanagara,2020-06-23
+184.447,Ramanagara,2020-06-24
+191.287,Ramanagara,2020-06-25
+199.055,Ramanagara,2020-06-26
+207.717,Ramanagara,2020-06-27
+217.254,Ramanagara,2020-06-28
+227.653,Ramanagara,2020-06-29
+238.912,Ramanagara,2020-06-30
+251.033,Ramanagara,2020-07-01
+264.029,Ramanagara,2020-07-02
+277.915,Ramanagara,2020-07-03
+292.714,Ramanagara,2020-07-04
+308.758,Ramanagara,2020-07-05
+326.385,Ramanagara,2020-07-06
+345.647,Ramanagara,2020-07-07
+366.612,Ramanagara,2020-07-08
+389.36,Ramanagara,2020-07-09
+413.981,Ramanagara,2020-07-10
+440.58,Ramanagara,2020-07-11
+469.274,Ramanagara,2020-07-12
+500.192,Ramanagara,2020-07-13
+533.773,Ramanagara,2020-07-14
+570.481,Ramanagara,2020-07-15
+610.517,Ramanagara,2020-07-16
+654.109,Ramanagara,2020-07-17
+701.51,Ramanagara,2020-07-18
+752.996,Ramanagara,2020-07-19
+808.877,Ramanagara,2020-07-20
+869.486,Ramanagara,2020-07-21
+935.191,Ramanagara,2020-07-22
+1006.39,Ramanagara,2020-07-23
+1083.53,Ramanagara,2020-07-24
+1161.09,Ramanagara,2020-07-25
+1233.94,Ramanagara,2020-07-26
+1302.82,Ramanagara,2020-07-27
+1368.34,Ramanagara,2020-07-28
+1431.03,Ramanagara,2020-07-29
+1491.36,Ramanagara,2020-07-30
+1542.88,Ramanagara,2020-07-31
+1591.66,Ramanagara,2020-08-01
+1645.88,Ramanagara,2020-08-02
+1702.02,Ramanagara,2020-08-03
+1759.13,Ramanagara,2020-08-04
+1817.3,Ramanagara,2020-08-05
+1876.59,Ramanagara,2020-08-06
+1937.05,Ramanagara,2020-08-07
+1998.73,Ramanagara,2020-08-08
+2061.7,Ramanagara,2020-08-09
+2125.99,Ramanagara,2020-08-10
+2191.65,Ramanagara,2020-08-11
+2258.72,Ramanagara,2020-08-12
+2327.25,Ramanagara,2020-08-13
+2397.27,Ramanagara,2020-08-14
+2468.83,Ramanagara,2020-08-15
+2541.97,Ramanagara,2020-08-16
+2616.72,Ramanagara,2020-08-17
+2701.36,Ramanagara,2020-08-18
+2800.75,Ramanagara,2020-08-19
+2913.91,Ramanagara,2020-08-20
+3033.69,Ramanagara,2020-08-21
+3153.1,Ramanagara,2020-08-22
+3273.1,Ramanagara,2020-08-23
+3394.56,Ramanagara,2020-08-24
+3518.25,Ramanagara,2020-08-25
+3631.07,Ramanagara,2020-08-26
+3729.84,Ramanagara,2020-08-27
+3823.25,Ramanagara,2020-08-28
+3911.45,Ramanagara,2020-08-29
+3994.64,Ramanagara,2020-08-30
+4073.01,Ramanagara,2020-08-31
+4146.79,Ramanagara,2020-09-01
+4216.2,Ramanagara,2020-09-02
+4283.23,Ramanagara,2020-09-03
+4349.77,Ramanagara,2020-09-04
+4415.96,Ramanagara,2020-09-05
+4481.91,Ramanagara,2020-09-06
+4547.71,Ramanagara,2020-09-07
+4613.42,Ramanagara,2020-09-08
+4679.13,Ramanagara,2020-09-09
+4744.86,Ramanagara,2020-09-10
+4810.66,Ramanagara,2020-09-11
+4876.58,Ramanagara,2020-09-12
+4942.62,Ramanagara,2020-09-13
+5008.82,Ramanagara,2020-09-14
+5075.2,Ramanagara,2020-09-15
+5141.76,Ramanagara,2020-09-16
+5208.53,Ramanagara,2020-09-17
+5275.51,Ramanagara,2020-09-18
+5342.71,Ramanagara,2020-09-19
+5410.13,Ramanagara,2020-09-20
+5484.41,Ramanagara,2020-09-21
+5571.88,Ramanagara,2020-09-22
+5672.51,Ramanagara,2020-09-23
+5786.47,Ramanagara,2020-09-24
+5905.2,Ramanagara,2020-09-25
+6020.62,Ramanagara,2020-09-26
+6133.46,Ramanagara,2020-09-27
+6244.31,Ramanagara,2020-09-28
+6353.65,Ramanagara,2020-09-29
+6461.89,Ramanagara,2020-09-30
+6569.34,Ramanagara,2020-10-01
+6658.27,Ramanagara,2020-10-02
+6723.41,Ramanagara,2020-10-03
+6775.89,Ramanagara,2020-10-04
+6818.39,Ramanagara,2020-10-05
+6852.99,Ramanagara,2020-10-06
+6881.29,Ramanagara,2020-10-07
+6902.47,Ramanagara,2020-10-08
+6916.45,Ramanagara,2020-10-09
+6925.12,Ramanagara,2020-10-10
+6929.97,Ramanagara,2020-10-11
+6932.08,Ramanagara,2020-10-12
+6932.27,Ramanagara,2020-10-13
+6933.34,Ramanagara,2020-10-14
+6937.07,Ramanagara,2020-10-15
+6942.82,Ramanagara,2020-10-16
+6950.09,Ramanagara,2020-10-17
+6958.49,Ramanagara,2020-10-18
+6967.7,Ramanagara,2020-10-19
+6977.49,Ramanagara,2020-10-20
+6987.66,Ramanagara,2020-10-21
+6998.08,Ramanagara,2020-10-22
+7008.62,Ramanagara,2020-10-23
+7019.19,Ramanagara,2020-10-24
+7030.44,Ramanagara,2020-10-25
+7042.9,Ramanagara,2020-10-26
+7056.4,Ramanagara,2020-10-27
+7070.82,Ramanagara,2020-10-28
+7084.84,Ramanagara,2020-10-29
+7097.39,Ramanagara,2020-10-30
+7108.7,Ramanagara,2020-10-31
+7118.95,Ramanagara,2020-11-01
+7128.29,Ramanagara,2020-11-02
+7136.83,Ramanagara,2020-11-03
+7144.69,Ramanagara,2020-11-04
+7151.94,Ramanagara,2020-11-05
+7158.64,Ramanagara,2020-11-06
+7164.47,Ramanagara,2020-11-07
+7169.2,Ramanagara,2020-11-08
+7173.07,Ramanagara,2020-11-09
+7176.23,Ramanagara,2020-11-10
+7179.52,Ramanagara,2020-11-11
+7183.56,Ramanagara,2020-11-12
+7188.22,Ramanagara,2020-11-13
+7193.39,Ramanagara,2020-11-14
+7204.14,Ramanagara,2020-11-15
+7209.45,Ramanagara,2020-11-16
+7214.7,Ramanagara,2020-11-17
+7219.9,Ramanagara,2020-11-18
+7225.03,Ramanagara,2020-11-19
+7230.09,Ramanagara,2020-11-20
+7235.08,Ramanagara,2020-11-21
+7240,Ramanagara,2020-11-22
+7244.84,Ramanagara,2020-11-23
+7249.62,Ramanagara,2020-11-24
+7254.31,Ramanagara,2020-11-25
+7258.93,Ramanagara,2020-11-26
+7263.48,Ramanagara,2020-11-27
+7267.95,Ramanagara,2020-11-28
+7272.35,Ramanagara,2020-11-29
+7276.68,Ramanagara,2020-11-30
+7280.94,Ramanagara,2020-12-01
+7285.13,Ramanagara,2020-12-02
+7289.25,Ramanagara,2020-12-03
+7293.3,Ramanagara,2020-12-04
+7297.28,Ramanagara,2020-12-05
+7301.2,Ramanagara,2020-12-06
+7305.05,Ramanagara,2020-12-07
+7308.84,Ramanagara,2020-12-08
+7312.56,Ramanagara,2020-12-09
+7316.22,Ramanagara,2020-12-10
+7319.82,Ramanagara,2020-12-11
+7323.36,Ramanagara,2020-12-12
+7326.85,Ramanagara,2020-12-13
+7330.27,Ramanagara,2020-12-14
+7333.63,Ramanagara,2020-12-15
+117.148,Shivamogga,2020-05-19
+123.288,Shivamogga,2020-05-20
+128.44,Shivamogga,2020-05-21
+132.809,Shivamogga,2020-05-22
+136.554,Shivamogga,2020-05-23
+139.801,Shivamogga,2020-05-24
+142.649,Shivamogga,2020-05-25
+145.176,Shivamogga,2020-05-26
+147.442,Shivamogga,2020-05-27
+149.497,Shivamogga,2020-05-28
+151.985,Shivamogga,2020-05-29
+155.402,Shivamogga,2020-05-30
+159.607,Shivamogga,2020-05-31
+164.494,Shivamogga,2020-06-01
+169.137,Shivamogga,2020-06-02
+172.844,Shivamogga,2020-06-03
+175.815,Shivamogga,2020-06-04
+178.206,Shivamogga,2020-06-05
+180.14,Shivamogga,2020-06-06
+181.712,Shivamogga,2020-06-07
+183,Shivamogga,2020-06-08
+184.061,Shivamogga,2020-06-09
+184.943,Shivamogga,2020-06-10
+186.437,Shivamogga,2020-06-11
+189.16,Shivamogga,2020-06-12
+192.947,Shivamogga,2020-06-13
+197.679,Shivamogga,2020-06-14
+203.267,Shivamogga,2020-06-15
+209.652,Shivamogga,2020-06-16
+216.793,Shivamogga,2020-06-17
+224.668,Shivamogga,2020-06-18
+233.271,Shivamogga,2020-06-19
+242.604,Shivamogga,2020-06-20
+254.2,Shivamogga,2020-06-21
+269.705,Shivamogga,2020-06-22
+289.446,Shivamogga,2020-06-23
+313.894,Shivamogga,2020-06-24
+341.015,Shivamogga,2020-06-25
+368.717,Shivamogga,2020-06-26
+397.378,Shivamogga,2020-06-27
+427.338,Shivamogga,2020-06-28
+458.904,Shivamogga,2020-06-29
+492.361,Shivamogga,2020-06-30
+527.985,Shivamogga,2020-07-01
+566.044,Shivamogga,2020-07-02
+606.806,Shivamogga,2020-07-03
+650.544,Shivamogga,2020-07-04
+697.539,Shivamogga,2020-07-05
+748.082,Shivamogga,2020-07-06
+802.48,Shivamogga,2020-07-07
+861.058,Shivamogga,2020-07-08
+921.491,Shivamogga,2020-07-09
+981.737,Shivamogga,2020-07-10
+1042.38,Shivamogga,2020-07-11
+1103.92,Shivamogga,2020-07-12
+1166.74,Shivamogga,2020-07-13
+1231.19,Shivamogga,2020-07-14
+1297.58,Shivamogga,2020-07-15
+1368.76,Shivamogga,2020-07-16
+1447.29,Shivamogga,2020-07-17
+1533.16,Shivamogga,2020-07-18
+1626.43,Shivamogga,2020-07-19
+1727.28,Shivamogga,2020-07-20
+1835.99,Shivamogga,2020-07-21
+1952.88,Shivamogga,2020-07-22
+2078.36,Shivamogga,2020-07-23
+2212.89,Shivamogga,2020-07-24
+2356.99,Shivamogga,2020-07-25
+2511.24,Shivamogga,2020-07-26
+2676.2,Shivamogga,2020-07-27
+2852.53,Shivamogga,2020-07-28
+3040.95,Shivamogga,2020-07-29
+3242.28,Shivamogga,2020-07-30
+3409.77,Shivamogga,2020-07-31
+3511.23,Shivamogga,2020-08-01
+3580.44,Shivamogga,2020-08-02
+3639.96,Shivamogga,2020-08-03
+3711.11,Shivamogga,2020-08-04
+3811.72,Shivamogga,2020-08-05
+3939.62,Shivamogga,2020-08-06
+4093.48,Shivamogga,2020-08-07
+4286.44,Shivamogga,2020-08-08
+4532.91,Shivamogga,2020-08-09
+4809.44,Shivamogga,2020-08-10
+5093.71,Shivamogga,2020-08-11
+5350.58,Shivamogga,2020-08-12
+5552.57,Shivamogga,2020-08-13
+5741.02,Shivamogga,2020-08-14
+5943.33,Shivamogga,2020-08-15
+6153.26,Shivamogga,2020-08-16
+6366.42,Shivamogga,2020-08-17
+6579.82,Shivamogga,2020-08-18
+6804.67,Shivamogga,2020-08-19
+7051.56,Shivamogga,2020-08-20
+7306.14,Shivamogga,2020-08-21
+7556.93,Shivamogga,2020-08-22
+7805.31,Shivamogga,2020-08-23
+8052.28,Shivamogga,2020-08-24
+8298.63,Shivamogga,2020-08-25
+8544.91,Shivamogga,2020-08-26
+8791.57,Shivamogga,2020-08-27
+9029.94,Shivamogga,2020-08-28
+9253.64,Shivamogga,2020-08-29
+9465.5,Shivamogga,2020-08-30
+9667.65,Shivamogga,2020-08-31
+9864.02,Shivamogga,2020-09-01
+10057.5,Shivamogga,2020-09-02
+10248.2,Shivamogga,2020-09-03
+10436.3,Shivamogga,2020-09-04
+10631.5,Shivamogga,2020-09-05
+10843.9,Shivamogga,2020-09-06
+11075,Shivamogga,2020-09-07
+11326.2,Shivamogga,2020-09-08
+11585.6,Shivamogga,2020-09-09
+11841.5,Shivamogga,2020-09-10
+12095,Shivamogga,2020-09-11
+12347.1,Shivamogga,2020-09-12
+12598.2,Shivamogga,2020-09-13
+12848.9,Shivamogga,2020-09-14
+13099.4,Shivamogga,2020-09-15
+13350,Shivamogga,2020-09-16
+13600.8,Shivamogga,2020-09-17
+13852.1,Shivamogga,2020-09-18
+14103.8,Shivamogga,2020-09-19
+14356.1,Shivamogga,2020-09-20
+14609.1,Shivamogga,2020-09-21
+14862.6,Shivamogga,2020-09-22
+15116.6,Shivamogga,2020-09-23
+15372.3,Shivamogga,2020-09-24
+15630.6,Shivamogga,2020-09-25
+15891.2,Shivamogga,2020-09-26
+16153.9,Shivamogga,2020-09-27
+16418.6,Shivamogga,2020-09-28
+16672.6,Shivamogga,2020-09-29
+16905.8,Shivamogga,2020-09-30
+17121.3,Shivamogga,2020-10-01
+17321.5,Shivamogga,2020-10-02
+17508.1,Shivamogga,2020-10-03
+17682.6,Shivamogga,2020-10-04
+17846.1,Shivamogga,2020-10-05
+17999.8,Shivamogga,2020-10-06
+18144.3,Shivamogga,2020-10-07
+18280.5,Shivamogga,2020-10-08
+18408.8,Shivamogga,2020-10-09
+18529.8,Shivamogga,2020-10-10
+18644,Shivamogga,2020-10-11
+18752,Shivamogga,2020-10-12
+18854.3,Shivamogga,2020-10-13
+18951.3,Shivamogga,2020-10-14
+19043.5,Shivamogga,2020-10-15
+19131.3,Shivamogga,2020-10-16
+19214.8,Shivamogga,2020-10-17
+19294.4,Shivamogga,2020-10-18
+19370.3,Shivamogga,2020-10-19
+19461,Shivamogga,2020-10-20
+19538.8,Shivamogga,2020-10-21
+19580.4,Shivamogga,2020-10-22
+19611,Shivamogga,2020-10-23
+19643.5,Shivamogga,2020-10-24
+19677.3,Shivamogga,2020-10-25
+19711.9,Shivamogga,2020-10-26
+19746.9,Shivamogga,2020-10-27
+19782.1,Shivamogga,2020-10-28
+19817.2,Shivamogga,2020-10-29
+19852.1,Shivamogga,2020-10-30
+19886.6,Shivamogga,2020-10-31
+19920.8,Shivamogga,2020-11-01
+19949.1,Shivamogga,2020-11-02
+19970.6,Shivamogga,2020-11-03
+19989.3,Shivamogga,2020-11-04
+20005.4,Shivamogga,2020-11-05
+20019.6,Shivamogga,2020-11-06
+20032,Shivamogga,2020-11-07
+20043,Shivamogga,2020-11-08
+20054.9,Shivamogga,2020-11-09
+20068.9,Shivamogga,2020-11-10
+20084.3,Shivamogga,2020-11-11
+20100.5,Shivamogga,2020-11-12
+20117.1,Shivamogga,2020-11-13
+20133.7,Shivamogga,2020-11-14
+20166.6,Shivamogga,2020-11-15
+20182.5,Shivamogga,2020-11-16
+20198.1,Shivamogga,2020-11-17
+20213.2,Shivamogga,2020-11-18
+20227.8,Shivamogga,2020-11-19
+20242.1,Shivamogga,2020-11-20
+20255.8,Shivamogga,2020-11-21
+20269.1,Shivamogga,2020-11-22
+20281.9,Shivamogga,2020-11-23
+20294.3,Shivamogga,2020-11-24
+20306.2,Shivamogga,2020-11-25
+20317.7,Shivamogga,2020-11-26
+20328.9,Shivamogga,2020-11-27
+20339.6,Shivamogga,2020-11-28
+20349.9,Shivamogga,2020-11-29
+20359.9,Shivamogga,2020-11-30
+20369.5,Shivamogga,2020-12-01
+20378.8,Shivamogga,2020-12-02
+20387.7,Shivamogga,2020-12-03
+20396.3,Shivamogga,2020-12-04
+20404.6,Shivamogga,2020-12-05
+20412.6,Shivamogga,2020-12-06
+20420.4,Shivamogga,2020-12-07
+20427.8,Shivamogga,2020-12-08
+20435,Shivamogga,2020-12-09
+20441.9,Shivamogga,2020-12-10
+20448.6,Shivamogga,2020-12-11
+20455,Shivamogga,2020-12-12
+20461.2,Shivamogga,2020-12-13
+20467.2,Shivamogga,2020-12-14
+20472.9,Shivamogga,2020-12-15
+69.1529,Tumakuru,2020-05-20
+72.2154,Tumakuru,2020-05-21
+73.799,Tumakuru,2020-05-22
+73.246,Tumakuru,2020-05-23
+71.5381,Tumakuru,2020-05-24
+69.2863,Tumakuru,2020-05-25
+66.8607,Tumakuru,2020-05-26
+64.477,Tumakuru,2020-05-27
+62.2524,Tumakuru,2020-05-28
+60.2429,Tumakuru,2020-05-29
+58.4673,Tumakuru,2020-05-30
+56.9229,Tumakuru,2020-05-31
+55.9308,Tumakuru,2020-06-01
+55.6447,Tumakuru,2020-06-02
+55.8806,Tumakuru,2020-06-03
+56.5215,Tumakuru,2020-06-04
+57.4965,Tumakuru,2020-06-05
+58.7662,Tumakuru,2020-06-06
+60.3137,Tumakuru,2020-06-07
+62.138,Tumakuru,2020-06-08
+64.2502,Tumakuru,2020-06-09
+66.6714,Tumakuru,2020-06-10
+69.4306,Tumakuru,2020-06-11
+72.5643,Tumakuru,2020-06-12
+76.1165,Tumakuru,2020-06-13
+80.1384,Tumakuru,2020-06-14
+84.6887,Tumakuru,2020-06-15
+89.8351,Tumakuru,2020-06-16
+95.6539,Tumakuru,2020-06-17
+102.232,Tumakuru,2020-06-18
+109.669,Tumakuru,2020-06-19
+118.075,Tumakuru,2020-06-20
+127.576,Tumakuru,2020-06-21
+138.316,Tumakuru,2020-06-22
+150.456,Tumakuru,2020-06-23
+164.177,Tumakuru,2020-06-24
+179.686,Tumakuru,2020-06-25
+195.798,Tumakuru,2020-06-26
+211.592,Tumakuru,2020-06-27
+227.513,Tumakuru,2020-06-28
+243.882,Tumakuru,2020-06-29
+260.939,Tumakuru,2020-06-30
+278.871,Tumakuru,2020-07-01
+297.831,Tumakuru,2020-07-02
+317.953,Tumakuru,2020-07-03
+339.357,Tumakuru,2020-07-04
+362.158,Tumakuru,2020-07-05
+386.47,Tumakuru,2020-07-06
+412.409,Tumakuru,2020-07-07
+440.093,Tumakuru,2020-07-08
+469.646,Tumakuru,2020-07-09
+501.201,Tumakuru,2020-07-10
+534.894,Tumakuru,2020-07-11
+570.872,Tumakuru,2020-07-12
+609.293,Tumakuru,2020-07-13
+650.322,Tumakuru,2020-07-14
+694.138,Tumakuru,2020-07-15
+740.929,Tumakuru,2020-07-16
+790.898,Tumakuru,2020-07-17
+844.223,Tumakuru,2020-07-18
+901.103,Tumakuru,2020-07-19
+961.793,Tumakuru,2020-07-20
+1026.56,Tumakuru,2020-07-21
+1091.55,Tumakuru,2020-07-22
+1154.1,Tumakuru,2020-07-23
+1215.69,Tumakuru,2020-07-24
+1277.08,Tumakuru,2020-07-25
+1338.81,Tumakuru,2020-07-26
+1401.48,Tumakuru,2020-07-27
+1465.54,Tumakuru,2020-07-28
+1531.3,Tumakuru,2020-07-29
+1598.99,Tumakuru,2020-07-30
+1668.8,Tumakuru,2020-07-31
+1740.9,Tumakuru,2020-08-01
+1815.4,Tumakuru,2020-08-02
+1892.44,Tumakuru,2020-08-03
+1972.13,Tumakuru,2020-08-04
+2063.06,Tumakuru,2020-08-05
+2166.56,Tumakuru,2020-08-06
+2276.42,Tumakuru,2020-08-07
+2391.2,Tumakuru,2020-08-08
+2510.01,Tumakuru,2020-08-09
+2632.3,Tumakuru,2020-08-10
+2757.73,Tumakuru,2020-08-11
+2886.11,Tumakuru,2020-08-12
+3017.35,Tumakuru,2020-08-13
+3151.42,Tumakuru,2020-08-14
+3288.29,Tumakuru,2020-08-15
+3427.98,Tumakuru,2020-08-16
+3570.51,Tumakuru,2020-08-17
+3715.92,Tumakuru,2020-08-18
+3864.24,Tumakuru,2020-08-19
+4015.44,Tumakuru,2020-08-20
+4169.52,Tumakuru,2020-08-21
+4326.55,Tumakuru,2020-08-22
+4486.63,Tumakuru,2020-08-23
+4650.49,Tumakuru,2020-08-24
+4815.92,Tumakuru,2020-08-25
+4981.29,Tumakuru,2020-08-26
+5147.91,Tumakuru,2020-08-27
+5316.63,Tumakuru,2020-08-28
+5488.05,Tumakuru,2020-08-29
+5662.52,Tumakuru,2020-08-30
+5840.33,Tumakuru,2020-08-31
+6021.69,Tumakuru,2020-09-01
+6206.78,Tumakuru,2020-09-02
+6395.75,Tumakuru,2020-09-03
+6588.72,Tumakuru,2020-09-04
+6785.81,Tumakuru,2020-09-05
+6987.11,Tumakuru,2020-09-06
+7192.73,Tumakuru,2020-09-07
+7402.77,Tumakuru,2020-09-08
+7617.33,Tumakuru,2020-09-09
+7836.49,Tumakuru,2020-09-10
+8060.36,Tumakuru,2020-09-11
+8289.05,Tumakuru,2020-09-12
+8522.64,Tumakuru,2020-09-13
+8740.16,Tumakuru,2020-09-14
+8929.67,Tumakuru,2020-09-15
+9101,Tumakuru,2020-09-16
+9260.92,Tumakuru,2020-09-17
+9414.06,Tumakuru,2020-09-18
+9563.52,Tumakuru,2020-09-19
+9737.06,Tumakuru,2020-09-20
+9949.59,Tumakuru,2020-09-21
+10189.4,Tumakuru,2020-09-22
+10443,Tumakuru,2020-09-23
+10707.8,Tumakuru,2020-09-24
+10986,Tumakuru,2020-09-25
+11273.9,Tumakuru,2020-09-26
+11569.2,Tumakuru,2020-09-27
+11870.4,Tumakuru,2020-09-28
+12176.7,Tumakuru,2020-09-29
+12487.4,Tumakuru,2020-09-30
+12802.2,Tumakuru,2020-10-01
+13124.9,Tumakuru,2020-10-02
+13460.7,Tumakuru,2020-10-03
+13811.2,Tumakuru,2020-10-04
+14177.8,Tumakuru,2020-10-05
+14561.6,Tumakuru,2020-10-06
+14963.8,Tumakuru,2020-10-07
+15300.8,Tumakuru,2020-10-08
+15524,Tumakuru,2020-10-09
+15714,Tumakuru,2020-10-10
+15915,Tumakuru,2020-10-11
+16118.9,Tumakuru,2020-10-12
+16320.8,Tumakuru,2020-10-13
+16517.9,Tumakuru,2020-10-14
+16708.5,Tumakuru,2020-10-15
+16891.8,Tumakuru,2020-10-16
+17067.4,Tumakuru,2020-10-17
+17235.3,Tumakuru,2020-10-18
+17395.5,Tumakuru,2020-10-19
+17548.3,Tumakuru,2020-10-20
+17694,Tumakuru,2020-10-21
+17832.8,Tumakuru,2020-10-22
+17965,Tumakuru,2020-10-23
+18090.9,Tumakuru,2020-10-24
+18210.8,Tumakuru,2020-10-25
+18330.4,Tumakuru,2020-10-26
+18452.1,Tumakuru,2020-10-27
+18572.7,Tumakuru,2020-10-28
+18690.4,Tumakuru,2020-10-29
+18804.2,Tumakuru,2020-10-30
+18913.7,Tumakuru,2020-10-31
+19018.5,Tumakuru,2020-11-01
+19118.7,Tumakuru,2020-11-02
+19214.3,Tumakuru,2020-11-03
+19311,Tumakuru,2020-11-04
+19410.7,Tumakuru,2020-11-05
+19510.3,Tumakuru,2020-11-06
+19607.9,Tumakuru,2020-11-07
+19702.3,Tumakuru,2020-11-08
+19793.2,Tumakuru,2020-11-09
+19873.8,Tumakuru,2020-11-10
+19941.1,Tumakuru,2020-11-11
+19998.9,Tumakuru,2020-11-12
+20049.6,Tumakuru,2020-11-13
+20094.6,Tumakuru,2020-11-14
+20173.4,Tumakuru,2020-11-15
+20208.3,Tumakuru,2020-11-16
+20240.5,Tumakuru,2020-11-17
+20270.2,Tumakuru,2020-11-18
+20297.5,Tumakuru,2020-11-19
+20322.7,Tumakuru,2020-11-20
+20345.8,Tumakuru,2020-11-21
+20367.1,Tumakuru,2020-11-22
+20386.6,Tumakuru,2020-11-23
+20404.6,Tumakuru,2020-11-24
+20421.2,Tumakuru,2020-11-25
+20436.4,Tumakuru,2020-11-26
+20450.4,Tumakuru,2020-11-27
+20463.3,Tumakuru,2020-11-28
+20475.2,Tumakuru,2020-11-29
+20486.1,Tumakuru,2020-11-30
+20496.1,Tumakuru,2020-12-01
+20505.4,Tumakuru,2020-12-02
+20513.8,Tumakuru,2020-12-03
+20521.7,Tumakuru,2020-12-04
+20528.8,Tumakuru,2020-12-05
+20535.4,Tumakuru,2020-12-06
+20541.5,Tumakuru,2020-12-07
+20547.1,Tumakuru,2020-12-08
+20552.2,Tumakuru,2020-12-09
+20557,Tumakuru,2020-12-10
+20561.3,Tumakuru,2020-12-11
+20565.3,Tumakuru,2020-12-12
+20569,Tumakuru,2020-12-13
+20572.4,Tumakuru,2020-12-14
+20575.5,Tumakuru,2020-12-15
+162.493,Udupi,2020-05-19
+176.973,Udupi,2020-05-20
+191.652,Udupi,2020-05-21
+206.853,Udupi,2020-05-22
+231.87,Udupi,2020-05-23
+274.909,Udupi,2020-05-24
+336.791,Udupi,2020-05-25
+420.519,Udupi,2020-05-26
+531.089,Udupi,2020-05-27
+675.61,Udupi,2020-05-28
+774.561,Udupi,2020-05-29
+788.714,Udupi,2020-05-30
+761.436,Udupi,2020-05-31
+716.364,Udupi,2020-06-01
+691.05,Udupi,2020-06-02
+692.433,Udupi,2020-06-03
+703.581,Udupi,2020-06-04
+717.311,Udupi,2020-06-05
+723.772,Udupi,2020-06-06
+721.145,Udupi,2020-06-07
+714.61,Udupi,2020-06-08
+706.81,Udupi,2020-06-09
+703.519,Udupi,2020-06-10
+706.574,Udupi,2020-06-11
+713.249,Udupi,2020-06-12
+722.068,Udupi,2020-06-13
+732.238,Udupi,2020-06-14
+743.333,Udupi,2020-06-15
+755.129,Udupi,2020-06-16
+767.512,Udupi,2020-06-17
+780.428,Udupi,2020-06-18
+793.853,Udupi,2020-06-19
+807.785,Udupi,2020-06-20
+822.228,Udupi,2020-06-21
+837.194,Udupi,2020-06-22
+852.699,Udupi,2020-06-23
+868.759,Udupi,2020-06-24
+887.012,Udupi,2020-06-25
+908.45,Udupi,2020-06-26
+932.547,Udupi,2020-06-27
+959.094,Udupi,2020-06-28
+988.059,Udupi,2020-06-29
+1019.51,Udupi,2020-06-30
+1053.58,Udupi,2020-07-01
+1090.45,Udupi,2020-07-02
+1130.32,Udupi,2020-07-03
+1173.42,Udupi,2020-07-04
+1220,Udupi,2020-07-05
+1270.37,Udupi,2020-07-06
+1324.86,Udupi,2020-07-07
+1383.79,Udupi,2020-07-08
+1449.65,Udupi,2020-07-09
+1524.31,Udupi,2020-07-10
+1607.7,Udupi,2020-07-11
+1700.17,Udupi,2020-07-12
+1799.13,Udupi,2020-07-13
+1903.2,Udupi,2020-07-14
+2014.1,Udupi,2020-07-15
+2133.09,Udupi,2020-07-16
+2261.2,Udupi,2020-07-17
+2391.97,Udupi,2020-07-18
+2522.8,Udupi,2020-07-19
+2658.21,Udupi,2020-07-20
+2801.15,Udupi,2020-07-21
+2933.29,Udupi,2020-07-22
+3044.8,Udupi,2020-07-23
+3140,Udupi,2020-07-24
+3240.59,Udupi,2020-07-25
+3361.84,Udupi,2020-07-26
+3498.46,Udupi,2020-07-27
+3647.66,Udupi,2020-07-28
+3808.07,Udupi,2020-07-29
+3979.16,Udupi,2020-07-30
+4160.78,Udupi,2020-07-31
+4349.27,Udupi,2020-08-01
+4541.31,Udupi,2020-08-02
+4737.28,Udupi,2020-08-03
+4937.44,Udupi,2020-08-04
+5138.16,Udupi,2020-08-05
+5336.59,Udupi,2020-08-06
+5533.52,Udupi,2020-08-07
+5729.36,Udupi,2020-08-08
+5962.15,Udupi,2020-08-09
+6252.44,Udupi,2020-08-10
+6545.86,Udupi,2020-08-11
+6813.55,Udupi,2020-08-12
+7067.83,Udupi,2020-08-13
+7312.65,Udupi,2020-08-14
+7540.2,Udupi,2020-08-15
+7750,Udupi,2020-08-16
+7949.87,Udupi,2020-08-17
+8144.1,Udupi,2020-08-18
+8335,Udupi,2020-08-19
+8523.86,Udupi,2020-08-20
+8686.28,Udupi,2020-08-21
+8812.9,Udupi,2020-08-22
+8918.3,Udupi,2020-08-23
+9024.4,Udupi,2020-08-24
+9139.45,Udupi,2020-08-25
+9256.65,Udupi,2020-08-26
+9372.48,Udupi,2020-08-27
+9485.22,Udupi,2020-08-28
+9620.37,Udupi,2020-08-29
+9788.89,Udupi,2020-08-30
+9976.87,Udupi,2020-08-31
+10177,Udupi,2020-09-01
+10385.3,Udupi,2020-09-02
+10587.6,Udupi,2020-09-03
+10778.2,Udupi,2020-09-04
+10964.1,Udupi,2020-09-05
+11149.1,Udupi,2020-09-06
+11335.3,Udupi,2020-09-07
+11523.1,Udupi,2020-09-08
+11753.2,Udupi,2020-09-09
+12038.6,Udupi,2020-09-10
+12354.6,Udupi,2020-09-11
+12619.4,Udupi,2020-09-12
+12775.3,Udupi,2020-09-13
+12848.9,Udupi,2020-09-14
+12911.5,Udupi,2020-09-15
+12996.9,Udupi,2020-09-16
+13156.9,Udupi,2020-09-17
+13420.4,Udupi,2020-09-18
+13758.9,Udupi,2020-09-19
+14088.9,Udupi,2020-09-20
+14364.1,Udupi,2020-09-21
+14600.8,Udupi,2020-09-22
+14809.3,Udupi,2020-09-23
+15013.8,Udupi,2020-09-24
+15226.7,Udupi,2020-09-25
+15446.1,Udupi,2020-09-26
+15709.2,Udupi,2020-09-27
+15963.2,Udupi,2020-09-28
+16158.9,Udupi,2020-09-29
+16361.3,Udupi,2020-09-30
+16598.5,Udupi,2020-10-01
+16853.3,Udupi,2020-10-02
+17116.7,Udupi,2020-10-03
+17377.1,Udupi,2020-10-04
+17630,Udupi,2020-10-05
+17878.3,Udupi,2020-10-06
+18123.5,Udupi,2020-10-07
+18366.4,Udupi,2020-10-08
+18607.6,Udupi,2020-10-09
+18847.2,Udupi,2020-10-10
+19042.5,Udupi,2020-10-11
+19178.1,Udupi,2020-10-12
+19279.6,Udupi,2020-10-13
+19383.3,Udupi,2020-10-14
+19501,Udupi,2020-10-15
+19620.8,Udupi,2020-10-16
+19737.3,Udupi,2020-10-17
+19853.4,Udupi,2020-10-18
+19974.4,Udupi,2020-10-19
+20097.4,Udupi,2020-10-20
+20217.6,Udupi,2020-10-21
+20312.2,Udupi,2020-10-22
+20375.5,Udupi,2020-10-23
+20437.8,Udupi,2020-10-24
+20510.3,Udupi,2020-10-25
+20585.6,Udupi,2020-10-26
+20660.1,Udupi,2020-10-27
+20732.2,Udupi,2020-10-28
+20801.3,Udupi,2020-10-29
+20866.9,Udupi,2020-10-30
+20925.3,Udupi,2020-10-31
+20975.7,Udupi,2020-11-01
+21020.9,Udupi,2020-11-02
+21062.4,Udupi,2020-11-03
+21100.9,Udupi,2020-11-04
+21137.1,Udupi,2020-11-05
+21171,Udupi,2020-11-06
+21206.1,Udupi,2020-11-07
+21243.7,Udupi,2020-11-08
+21282,Udupi,2020-11-09
+21320.2,Udupi,2020-11-10
+21358.1,Udupi,2020-11-11
+21395.2,Udupi,2020-11-12
+21431.6,Udupi,2020-11-13
+21467.2,Udupi,2020-11-14
+21536.1,Udupi,2020-11-15
+21569.3,Udupi,2020-11-16
+21601.8,Udupi,2020-11-17
+21633.5,Udupi,2020-11-18
+21664.5,Udupi,2020-11-19
+21694.7,Udupi,2020-11-20
+21724.3,Udupi,2020-11-21
+21753.1,Udupi,2020-11-22
+21781.3,Udupi,2020-11-23
+21808.8,Udupi,2020-11-24
+21835.7,Udupi,2020-11-25
+21861.9,Udupi,2020-11-26
+21887.6,Udupi,2020-11-27
+21912.6,Udupi,2020-11-28
+21937.1,Udupi,2020-11-29
+21960.9,Udupi,2020-11-30
+21984.3,Udupi,2020-12-01
+22007,Udupi,2020-12-02
+22029.3,Udupi,2020-12-03
+22051,Udupi,2020-12-04
+22072.2,Udupi,2020-12-05
+22092.9,Udupi,2020-12-06
+22113.2,Udupi,2020-12-07
+22132.9,Udupi,2020-12-08
+22152.2,Udupi,2020-12-09
+22171.1,Udupi,2020-12-10
+22189.5,Udupi,2020-12-11
+22207.5,Udupi,2020-12-12
+22225,Udupi,2020-12-13
+22242.2,Udupi,2020-12-14
+22258.9,Udupi,2020-12-15
+21.4257,Uttara Kannada,2020-05-08
+22.8868,Uttara Kannada,2020-05-09
+24.4977,Uttara Kannada,2020-05-10
+26.2601,Uttara Kannada,2020-05-11
+28.1781,Uttara Kannada,2020-05-12
+30.2582,Uttara Kannada,2020-05-13
+32.5087,Uttara Kannada,2020-05-14
+34.7139,Uttara Kannada,2020-05-15
+36.7032,Uttara Kannada,2020-05-16
+38.5328,Uttara Kannada,2020-05-17
+40.2447,Uttara Kannada,2020-05-18
+41.8705,Uttara Kannada,2020-05-19
+43.4338,Uttara Kannada,2020-05-20
+44.9524,Uttara Kannada,2020-05-21
+46.4395,Uttara Kannada,2020-05-22
+47.9051,Uttara Kannada,2020-05-23
+49.3567,Uttara Kannada,2020-05-24
+50.7998,Uttara Kannada,2020-05-25
+52.2388,Uttara Kannada,2020-05-26
+53.6767,Uttara Kannada,2020-05-27
+55.1159,Uttara Kannada,2020-05-28
+56.0521,Uttara Kannada,2020-05-29
+56.2164,Uttara Kannada,2020-05-30
+55.8746,Uttara Kannada,2020-05-31
+55.6925,Uttara Kannada,2020-06-01
+56.0977,Uttara Kannada,2020-06-02
+56.9812,Uttara Kannada,2020-06-03
+58.2641,Uttara Kannada,2020-06-04
+59.8904,Uttara Kannada,2020-06-05
+61.821,Uttara Kannada,2020-06-06
+64.0304,Uttara Kannada,2020-06-07
+66.5027,Uttara Kannada,2020-06-08
+69.2302,Uttara Kannada,2020-06-09
+72.2111,Uttara Kannada,2020-06-10
+75.4484,Uttara Kannada,2020-06-11
+78.9493,Uttara Kannada,2020-06-12
+82.7242,Uttara Kannada,2020-06-13
+86.7862,Uttara Kannada,2020-06-14
+91.1512,Uttara Kannada,2020-06-15
+95.8371,Uttara Kannada,2020-06-16
+100.864,Uttara Kannada,2020-06-17
+106.255,Uttara Kannada,2020-06-18
+113.026,Uttara Kannada,2020-06-19
+122.251,Uttara Kannada,2020-06-20
+134.153,Uttara Kannada,2020-06-21
+149.066,Uttara Kannada,2020-06-22
+167.445,Uttara Kannada,2020-06-23
+189.875,Uttara Kannada,2020-06-24
+217.087,Uttara Kannada,2020-06-25
+249.981,Uttara Kannada,2020-06-26
+284.487,Uttara Kannada,2020-06-27
+316.656,Uttara Kannada,2020-06-28
+347.366,Uttara Kannada,2020-06-29
+377.286,Uttara Kannada,2020-06-30
+406.933,Uttara Kannada,2020-07-01
+436.708,Uttara Kannada,2020-07-02
+466.926,Uttara Kannada,2020-07-03
+497.84,Uttara Kannada,2020-07-04
+533.218,Uttara Kannada,2020-07-05
+576.502,Uttara Kannada,2020-07-06
+627.721,Uttara Kannada,2020-07-07
+687.138,Uttara Kannada,2020-07-08
+755.221,Uttara Kannada,2020-07-09
+825.572,Uttara Kannada,2020-07-10
+892.636,Uttara Kannada,2020-07-11
+957.767,Uttara Kannada,2020-07-12
+1025.49,Uttara Kannada,2020-07-13
+1098.89,Uttara Kannada,2020-07-14
+1177.25,Uttara Kannada,2020-07-15
+1260.1,Uttara Kannada,2020-07-16
+1336.26,Uttara Kannada,2020-07-17
+1398.12,Uttara Kannada,2020-07-18
+1449.36,Uttara Kannada,2020-07-19
+1507.16,Uttara Kannada,2020-07-20
+1584.43,Uttara Kannada,2020-07-21
+1663.89,Uttara Kannada,2020-07-22
+1732.48,Uttara Kannada,2020-07-23
+1792.87,Uttara Kannada,2020-07-24
+1854.04,Uttara Kannada,2020-07-25
+1922.63,Uttara Kannada,2020-07-26
+1997.74,Uttara Kannada,2020-07-27
+2078.78,Uttara Kannada,2020-07-28
+2165.37,Uttara Kannada,2020-07-29
+2251.27,Uttara Kannada,2020-07-30
+2331.79,Uttara Kannada,2020-07-31
+2408.39,Uttara Kannada,2020-08-01
+2482.11,Uttara Kannada,2020-08-02
+2553.73,Uttara Kannada,2020-08-03
+2623.82,Uttara Kannada,2020-08-04
+2692.84,Uttara Kannada,2020-08-05
+2761.05,Uttara Kannada,2020-08-06
+2828.65,Uttara Kannada,2020-08-07
+2895.79,Uttara Kannada,2020-08-08
+2962.58,Uttara Kannada,2020-08-09
+3029.1,Uttara Kannada,2020-08-10
+3095.4,Uttara Kannada,2020-08-11
+3161.52,Uttara Kannada,2020-08-12
+3232.45,Uttara Kannada,2020-08-13
+3312.32,Uttara Kannada,2020-08-14
+3400.27,Uttara Kannada,2020-08-15
+3495.75,Uttara Kannada,2020-08-16
+3598.44,Uttara Kannada,2020-08-17
+3708.18,Uttara Kannada,2020-08-18
+3824.9,Uttara Kannada,2020-08-19
+3939.42,Uttara Kannada,2020-08-20
+4044.74,Uttara Kannada,2020-08-21
+4143.29,Uttara Kannada,2020-08-22
+4236.86,Uttara Kannada,2020-08-23
+4326.75,Uttara Kannada,2020-08-24
+4424.37,Uttara Kannada,2020-08-25
+4538.59,Uttara Kannada,2020-08-26
+4667.59,Uttara Kannada,2020-08-27
+4804.03,Uttara Kannada,2020-08-28
+4942.24,Uttara Kannada,2020-08-29
+5083.03,Uttara Kannada,2020-08-30
+5226.92,Uttara Kannada,2020-08-31
+5374.33,Uttara Kannada,2020-09-01
+5525.62,Uttara Kannada,2020-09-02
+5680.94,Uttara Kannada,2020-09-03
+5840.47,Uttara Kannada,2020-09-04
+6004.46,Uttara Kannada,2020-09-05
+6173.15,Uttara Kannada,2020-09-06
+6346.75,Uttara Kannada,2020-09-07
+6525.56,Uttara Kannada,2020-09-08
+6693.99,Uttara Kannada,2020-09-09
+6846.78,Uttara Kannada,2020-09-10
+6992.58,Uttara Kannada,2020-09-11
+7132.47,Uttara Kannada,2020-09-12
+7280.64,Uttara Kannada,2020-09-13
+7433.22,Uttara Kannada,2020-09-14
+7577.17,Uttara Kannada,2020-09-15
+7715.17,Uttara Kannada,2020-09-16
+7849.3,Uttara Kannada,2020-09-17
+7981.18,Uttara Kannada,2020-09-18
+8112.07,Uttara Kannada,2020-09-19
+8242.97,Uttara Kannada,2020-09-20
+8374.66,Uttara Kannada,2020-09-21
+8507.75,Uttara Kannada,2020-09-22
+8642.75,Uttara Kannada,2020-09-23
+8780.07,Uttara Kannada,2020-09-24
+8920.03,Uttara Kannada,2020-09-25
+9022.55,Uttara Kannada,2020-09-26
+9121.33,Uttara Kannada,2020-09-27
+9260.87,Uttara Kannada,2020-09-28
+9420.37,Uttara Kannada,2020-09-29
+9587.03,Uttara Kannada,2020-09-30
+9753.19,Uttara Kannada,2020-10-01
+9930.71,Uttara Kannada,2020-10-02
+10110.6,Uttara Kannada,2020-10-03
+10276.6,Uttara Kannada,2020-10-04
+10432.3,Uttara Kannada,2020-10-05
+10580.1,Uttara Kannada,2020-10-06
+10722.1,Uttara Kannada,2020-10-07
+10859.5,Uttara Kannada,2020-10-08
+10993.1,Uttara Kannada,2020-10-09
+11123.6,Uttara Kannada,2020-10-10
+11251.4,Uttara Kannada,2020-10-11
+11377,Uttara Kannada,2020-10-12
+11496.1,Uttara Kannada,2020-10-13
+11605.7,Uttara Kannada,2020-10-14
+11707.9,Uttara Kannada,2020-10-15
+11804,Uttara Kannada,2020-10-16
+11895.1,Uttara Kannada,2020-10-17
+11991.3,Uttara Kannada,2020-10-18
+12103.4,Uttara Kannada,2020-10-19
+12218,Uttara Kannada,2020-10-20
+12322.3,Uttara Kannada,2020-10-21
+12419,Uttara Kannada,2020-10-22
+12510,Uttara Kannada,2020-10-23
+12552.9,Uttara Kannada,2020-10-24
+12543.4,Uttara Kannada,2020-10-25
+12516.1,Uttara Kannada,2020-10-26
+12500.2,Uttara Kannada,2020-10-27
+12510.5,Uttara Kannada,2020-10-28
+12539.4,Uttara Kannada,2020-10-29
+12581.4,Uttara Kannada,2020-10-30
+12632.6,Uttara Kannada,2020-10-31
+12689,Uttara Kannada,2020-11-01
+12746.6,Uttara Kannada,2020-11-02
+12804.2,Uttara Kannada,2020-11-03
+12860.7,Uttara Kannada,2020-11-04
+12915.6,Uttara Kannada,2020-11-05
+12968.5,Uttara Kannada,2020-11-06
+13006.9,Uttara Kannada,2020-11-07
+13026.1,Uttara Kannada,2020-11-08
+13043.3,Uttara Kannada,2020-11-09
+13068.6,Uttara Kannada,2020-11-10
+13100.9,Uttara Kannada,2020-11-11
+13135.9,Uttara Kannada,2020-11-12
+13170.7,Uttara Kannada,2020-11-13
+13205.2,Uttara Kannada,2020-11-14
+13280,Uttara Kannada,2020-11-15
+13321.3,Uttara Kannada,2020-11-16
+13365,Uttara Kannada,2020-11-17
+13410.9,Uttara Kannada,2020-11-18
+13459.1,Uttara Kannada,2020-11-19
+13509.5,Uttara Kannada,2020-11-20
+13562.1,Uttara Kannada,2020-11-21
+13617,Uttara Kannada,2020-11-22
+13674.2,Uttara Kannada,2020-11-23
+13733.8,Uttara Kannada,2020-11-24
+13795.9,Uttara Kannada,2020-11-25
+13860.5,Uttara Kannada,2020-11-26
+13927.8,Uttara Kannada,2020-11-27
+13997.8,Uttara Kannada,2020-11-28
+14070.7,Uttara Kannada,2020-11-29
+14146.5,Uttara Kannada,2020-11-30
+14225.4,Uttara Kannada,2020-12-01
+14307.5,Uttara Kannada,2020-12-02
+14392.9,Uttara Kannada,2020-12-03
+14481.7,Uttara Kannada,2020-12-04
+14574.2,Uttara Kannada,2020-12-05
+14670.3,Uttara Kannada,2020-12-06
+14770.4,Uttara Kannada,2020-12-07
+14874.5,Uttara Kannada,2020-12-08
+14982.7,Uttara Kannada,2020-12-09
+15095.4,Uttara Kannada,2020-12-10
+15212.5,Uttara Kannada,2020-12-11
+15334.4,Uttara Kannada,2020-12-12
+15461.2,Uttara Kannada,2020-12-13
+15593.1,Uttara Kannada,2020-12-14
+15730.2,Uttara Kannada,2020-12-15
+73.2931,Vijayapura,2020-04-16
+78.2555,Vijayapura,2020-04-17
+82.2969,Vijayapura,2020-04-18
+85.7626,Vijayapura,2020-04-19
+88.8434,Vijayapura,2020-04-20
+91.6461,Vijayapura,2020-04-21
+94.2324,Vijayapura,2020-04-22
+96.6394,Vijayapura,2020-04-23
+98.8907,Vijayapura,2020-04-24
+101.002,Vijayapura,2020-04-25
+102.986,Vijayapura,2020-04-26
+104.852,Vijayapura,2020-04-27
+106.608,Vijayapura,2020-04-28
+108.261,Vijayapura,2020-04-29
+109.816,Vijayapura,2020-04-30
+111.281,Vijayapura,2020-05-01
+112.661,Vijayapura,2020-05-02
+113.959,Vijayapura,2020-05-03
+115.182,Vijayapura,2020-05-04
+116.334,Vijayapura,2020-05-05
+117.418,Vijayapura,2020-05-06
+118.943,Vijayapura,2020-05-07
+121.192,Vijayapura,2020-05-08
+123.974,Vijayapura,2020-05-09
+127.198,Vijayapura,2020-05-10
+130.834,Vijayapura,2020-05-11
+134.88,Vijayapura,2020-05-12
+139.356,Vijayapura,2020-05-13
+144.293,Vijayapura,2020-05-14
+149.73,Vijayapura,2020-05-15
+155.714,Vijayapura,2020-05-16
+162.298,Vijayapura,2020-05-17
+169.54,Vijayapura,2020-05-18
+177.506,Vijayapura,2020-05-19
+186.267,Vijayapura,2020-05-20
+195.904,Vijayapura,2020-05-21
+206.502,Vijayapura,2020-05-22
+218.159,Vijayapura,2020-05-23
+230.979,Vijayapura,2020-05-24
+245.08,Vijayapura,2020-05-25
+260.588,Vijayapura,2020-05-26
+277.644,Vijayapura,2020-05-27
+296.403,Vijayapura,2020-05-28
+311.881,Vijayapura,2020-05-29
+321.669,Vijayapura,2020-05-30
+328.252,Vijayapura,2020-05-31
+332.982,Vijayapura,2020-06-01
+336.597,Vijayapura,2020-06-02
+339.507,Vijayapura,2020-06-03
+341.944,Vijayapura,2020-06-04
+344.039,Vijayapura,2020-06-05
+345.874,Vijayapura,2020-06-06
+347.499,Vijayapura,2020-06-07
+348.948,Vijayapura,2020-06-08
+350.247,Vijayapura,2020-06-09
+351.413,Vijayapura,2020-06-10
+354.04,Vijayapura,2020-06-11
+359.008,Vijayapura,2020-06-12
+365.718,Vijayapura,2020-06-13
+373.913,Vijayapura,2020-06-14
+383.532,Vijayapura,2020-06-15
+394.625,Vijayapura,2020-06-16
+407.316,Vijayapura,2020-06-17
+421.781,Vijayapura,2020-06-18
+437.579,Vijayapura,2020-06-19
+454.438,Vijayapura,2020-06-20
+472.7,Vijayapura,2020-06-21
+492.632,Vijayapura,2020-06-22
+514.47,Vijayapura,2020-06-23
+538.44,Vijayapura,2020-06-24
+564.775,Vijayapura,2020-06-25
+593.72,Vijayapura,2020-06-26
+625.541,Vijayapura,2020-06-27
+660.527,Vijayapura,2020-06-28
+698.996,Vijayapura,2020-06-29
+741.294,Vijayapura,2020-06-30
+787.802,Vijayapura,2020-07-01
+838.94,Vijayapura,2020-07-02
+895.169,Vijayapura,2020-07-03
+956.995,Vijayapura,2020-07-04
+1024.97,Vijayapura,2020-07-05
+1099.72,Vijayapura,2020-07-06
+1181.9,Vijayapura,2020-07-07
+1272.25,Vijayapura,2020-07-08
+1371.6,Vijayapura,2020-07-09
+1466.85,Vijayapura,2020-07-10
+1550.24,Vijayapura,2020-07-11
+1627.13,Vijayapura,2020-07-12
+1700.43,Vijayapura,2020-07-13
+1771.68,Vijayapura,2020-07-14
+1841.73,Vijayapura,2020-07-15
+1911.01,Vijayapura,2020-07-16
+1990.65,Vijayapura,2020-07-17
+2087.3,Vijayapura,2020-07-18
+2197.3,Vijayapura,2020-07-19
+2309.88,Vijayapura,2020-07-20
+2420.02,Vijayapura,2020-07-21
+2532.24,Vijayapura,2020-07-22
+2649.43,Vijayapura,2020-07-23
+2773.57,Vijayapura,2020-07-24
+2906.12,Vijayapura,2020-07-25
+3024.28,Vijayapura,2020-07-26
+3115.7,Vijayapura,2020-07-27
+3191.25,Vijayapura,2020-07-28
+3257.27,Vijayapura,2020-07-29
+3338.51,Vijayapura,2020-07-30
+3443.6,Vijayapura,2020-07-31
+3560.4,Vijayapura,2020-08-01
+3682.52,Vijayapura,2020-08-02
+3806.63,Vijayapura,2020-08-03
+3930.96,Vijayapura,2020-08-04
+4054.62,Vijayapura,2020-08-05
+4177.13,Vijayapura,2020-08-06
+4298.26,Vijayapura,2020-08-07
+4417.89,Vijayapura,2020-08-08
+4535.97,Vijayapura,2020-08-09
+4652.49,Vijayapura,2020-08-10
+4767.45,Vijayapura,2020-08-11
+4880.86,Vijayapura,2020-08-12
+4992.73,Vijayapura,2020-08-13
+5103.08,Vijayapura,2020-08-14
+5211.92,Vijayapura,2020-08-15
+5319.29,Vijayapura,2020-08-16
+5425.19,Vijayapura,2020-08-17
+5529.65,Vijayapura,2020-08-18
+5632.68,Vijayapura,2020-08-19
+5734.31,Vijayapura,2020-08-20
+5834.55,Vijayapura,2020-08-21
+5933.41,Vijayapura,2020-08-22
+6030.93,Vijayapura,2020-08-23
+6127.11,Vijayapura,2020-08-24
+6221.97,Vijayapura,2020-08-25
+6315.54,Vijayapura,2020-08-26
+6407.82,Vijayapura,2020-08-27
+6498.84,Vijayapura,2020-08-28
+6588.61,Vijayapura,2020-08-29
+6671.7,Vijayapura,2020-08-30
+6746.31,Vijayapura,2020-08-31
+6815.84,Vijayapura,2020-09-01
+6882.19,Vijayapura,2020-09-02
+6946.41,Vijayapura,2020-09-03
+7023.55,Vijayapura,2020-09-04
+7122.39,Vijayapura,2020-09-05
+7237.79,Vijayapura,2020-09-06
+7367.29,Vijayapura,2020-09-07
+7509.93,Vijayapura,2020-09-08
+7646.54,Vijayapura,2020-09-09
+7766.12,Vijayapura,2020-09-10
+7876.18,Vijayapura,2020-09-11
+7980.85,Vijayapura,2020-09-12
+8082.38,Vijayapura,2020-09-13
+8171.98,Vijayapura,2020-09-14
+8246,Vijayapura,2020-09-15
+8310.27,Vijayapura,2020-09-16
+8386.74,Vijayapura,2020-09-17
+8487.89,Vijayapura,2020-09-18
+8607.31,Vijayapura,2020-09-19
+8741.7,Vijayapura,2020-09-20
+8889.52,Vijayapura,2020-09-21
+9050.26,Vijayapura,2020-09-22
+9224.02,Vijayapura,2020-09-23
+9411.27,Vijayapura,2020-09-24
+9612.74,Vijayapura,2020-09-25
+9781.67,Vijayapura,2020-09-26
+9894.87,Vijayapura,2020-09-27
+9975.47,Vijayapura,2020-09-28
+10036.6,Vijayapura,2020-09-29
+10085.9,Vijayapura,2020-09-30
+10149.5,Vijayapura,2020-10-01
+10235,Vijayapura,2020-10-02
+10328.8,Vijayapura,2020-10-03
+10424.2,Vijayapura,2020-10-04
+10517.7,Vijayapura,2020-10-05
+10607.7,Vijayapura,2020-10-06
+10693.5,Vijayapura,2020-10-07
+10774.9,Vijayapura,2020-10-08
+10851.9,Vijayapura,2020-10-09
+10924.7,Vijayapura,2020-10-10
+10993.4,Vijayapura,2020-10-11
+11058.3,Vijayapura,2020-10-12
+11119.4,Vijayapura,2020-10-13
+11177.1,Vijayapura,2020-10-14
+11231.5,Vijayapura,2020-10-15
+11282.9,Vijayapura,2020-10-16
+11342.4,Vijayapura,2020-10-17
+11416.1,Vijayapura,2020-10-18
+11498.9,Vijayapura,2020-10-19
+11588.7,Vijayapura,2020-10-20
+11684.2,Vijayapura,2020-10-21
+11784.9,Vijayapura,2020-10-22
+11879.4,Vijayapura,2020-10-23
+11961.5,Vijayapura,2020-10-24
+12036.1,Vijayapura,2020-10-25
+12105.7,Vijayapura,2020-10-26
+12171.7,Vijayapura,2020-10-27
+12234.8,Vijayapura,2020-10-28
+12295.3,Vijayapura,2020-10-29
+12353.7,Vijayapura,2020-10-30
+12409.9,Vijayapura,2020-10-31
+12464.2,Vijayapura,2020-11-01
+12516.6,Vijayapura,2020-11-02
+12567.2,Vijayapura,2020-11-03
+12616.1,Vijayapura,2020-11-04
+12663.2,Vijayapura,2020-11-05
+12708.8,Vijayapura,2020-11-06
+12752.8,Vijayapura,2020-11-07
+12795.3,Vijayapura,2020-11-08
+12836.4,Vijayapura,2020-11-09
+12876,Vijayapura,2020-11-10
+12914.3,Vijayapura,2020-11-11
+12951.3,Vijayapura,2020-11-12
+12987,Vijayapura,2020-11-13
+13021.4,Vijayapura,2020-11-14
+13086.9,Vijayapura,2020-11-15
+13118,Vijayapura,2020-11-16
+13148,Vijayapura,2020-11-17
+13177,Vijayapura,2020-11-18
+13204.9,Vijayapura,2020-11-19
+13232,Vijayapura,2020-11-20
+13258.1,Vijayapura,2020-11-21
+13283.3,Vijayapura,2020-11-22
+13307.6,Vijayapura,2020-11-23
+13331.1,Vijayapura,2020-11-24
+13353.8,Vijayapura,2020-11-25
+13375.7,Vijayapura,2020-11-26
+13396.9,Vijayapura,2020-11-27
+13417.4,Vijayapura,2020-11-28
+13437.1,Vijayapura,2020-11-29
+13456.2,Vijayapura,2020-11-30
+13474.6,Vijayapura,2020-12-01
+13492.4,Vijayapura,2020-12-02
+13509.5,Vijayapura,2020-12-03
+13526.1,Vijayapura,2020-12-04
+13542.2,Vijayapura,2020-12-05
+13557.6,Vijayapura,2020-12-06
+13572.6,Vijayapura,2020-12-07
+13587,Vijayapura,2020-12-08
+13600.9,Vijayapura,2020-12-09
+13614.4,Vijayapura,2020-12-10
+13627.4,Vijayapura,2020-12-11
+13639.9,Vijayapura,2020-12-12
+13652.1,Vijayapura,2020-12-13
+13663.8,Vijayapura,2020-12-14
+13675.1,Vijayapura,2020-12-15
+130.299,Yadgiri,2020-05-22
+148.659,Yadgiri,2020-05-23
+169.44,Yadgiri,2020-05-24
+192.964,Yadgiri,2020-05-25
+219.597,Yadgiri,2020-05-26
+249.752,Yadgiri,2020-05-27
+283.895,Yadgiri,2020-05-28
+322.553,Yadgiri,2020-05-29
+366.324,Yadgiri,2020-05-30
+415.884,Yadgiri,2020-05-31
+471.998,Yadgiri,2020-06-01
+517.886,Yadgiri,2020-06-02
+543.638,Yadgiri,2020-06-03
+556.842,Yadgiri,2020-06-04
+562.304,Yadgiri,2020-06-05
+563.062,Yadgiri,2020-06-06
+561.029,Yadgiri,2020-06-07
+557.407,Yadgiri,2020-06-08
+552.947,Yadgiri,2020-06-09
+548.114,Yadgiri,2020-06-10
+543.19,Yadgiri,2020-06-11
+538.344,Yadgiri,2020-06-12
+533.675,Yadgiri,2020-06-13
+529.236,Yadgiri,2020-06-14
+525.05,Yadgiri,2020-06-15
+521.126,Yadgiri,2020-06-16
+517.462,Yadgiri,2020-06-17
+514.048,Yadgiri,2020-06-18
+510.198,Yadgiri,2020-06-19
+507.226,Yadgiri,2020-06-20
+506.239,Yadgiri,2020-06-21
+506.55,Yadgiri,2020-06-22
+507.707,Yadgiri,2020-06-23
+509.418,Yadgiri,2020-06-24
+511.488,Yadgiri,2020-06-25
+516.355,Yadgiri,2020-06-26
+525.695,Yadgiri,2020-06-27
+538.693,Yadgiri,2020-06-28
+554.903,Yadgiri,2020-06-29
+574.134,Yadgiri,2020-06-30
+604.563,Yadgiri,2020-07-01
+655.563,Yadgiri,2020-07-02
+730.84,Yadgiri,2020-07-03
+790.173,Yadgiri,2020-07-04
+807.451,Yadgiri,2020-07-05
+815.528,Yadgiri,2020-07-06
+828.892,Yadgiri,2020-07-07
+843.447,Yadgiri,2020-07-08
+857.354,Yadgiri,2020-07-09
+869.884,Yadgiri,2020-07-10
+889.358,Yadgiri,2020-07-11
+920.781,Yadgiri,2020-07-12
+961.412,Yadgiri,2020-07-13
+1005.16,Yadgiri,2020-07-14
+1048.78,Yadgiri,2020-07-15
+1094.59,Yadgiri,2020-07-16
+1144.41,Yadgiri,2020-07-17
+1199.79,Yadgiri,2020-07-18
+1262.17,Yadgiri,2020-07-19
+1324.73,Yadgiri,2020-07-20
+1382.38,Yadgiri,2020-07-21
+1438.81,Yadgiri,2020-07-22
+1496.43,Yadgiri,2020-07-23
+1556.01,Yadgiri,2020-07-24
+1618.12,Yadgiri,2020-07-25
+1683.22,Yadgiri,2020-07-26
+1751.64,Yadgiri,2020-07-27
+1823.68,Yadgiri,2020-07-28
+1899.64,Yadgiri,2020-07-29
+1979.77,Yadgiri,2020-07-30
+2064.33,Yadgiri,2020-07-31
+2153.6,Yadgiri,2020-08-01
+2247.85,Yadgiri,2020-08-02
+2347.36,Yadgiri,2020-08-03
+2452.43,Yadgiri,2020-08-04
+2563.38,Yadgiri,2020-08-05
+2674.06,Yadgiri,2020-08-06
+2780.6,Yadgiri,2020-08-07
+2885.55,Yadgiri,2020-08-08
+2990.54,Yadgiri,2020-08-09
+3096.64,Yadgiri,2020-08-10
+3204.57,Yadgiri,2020-08-11
+3314.8,Yadgiri,2020-08-12
+3427.69,Yadgiri,2020-08-13
+3543.47,Yadgiri,2020-08-14
+3662.33,Yadgiri,2020-08-15
+3784.43,Yadgiri,2020-08-16
+3909.92,Yadgiri,2020-08-17
+4038.9,Yadgiri,2020-08-18
+4171.49,Yadgiri,2020-08-19
+4290.98,Yadgiri,2020-08-20
+4445.9,Yadgiri,2020-08-21
+4661.25,Yadgiri,2020-08-22
+4849.53,Yadgiri,2020-08-23
+4970.01,Yadgiri,2020-08-24
+5045.71,Yadgiri,2020-08-25
+5091.86,Yadgiri,2020-08-26
+5146.59,Yadgiri,2020-08-27
+5228.49,Yadgiri,2020-08-28
+5325.65,Yadgiri,2020-08-29
+5430.98,Yadgiri,2020-08-30
+5540.26,Yadgiri,2020-08-31
+5650.97,Yadgiri,2020-09-01
+5761.64,Yadgiri,2020-09-02
+5871.39,Yadgiri,2020-09-03
+5979.72,Yadgiri,2020-09-04
+6086.35,Yadgiri,2020-09-05
+6191.13,Yadgiri,2020-09-06
+6293.98,Yadgiri,2020-09-07
+6394.87,Yadgiri,2020-09-08
+6493.81,Yadgiri,2020-09-09
+6590.8,Yadgiri,2020-09-10
+6685.87,Yadgiri,2020-09-11
+6779.05,Yadgiri,2020-09-12
+6870.37,Yadgiri,2020-09-13
+6959.87,Yadgiri,2020-09-14
+7047.58,Yadgiri,2020-09-15
+7133.53,Yadgiri,2020-09-16
+7217.76,Yadgiri,2020-09-17
+7300.31,Yadgiri,2020-09-18
+7381.19,Yadgiri,2020-09-19
+7460.46,Yadgiri,2020-09-20
+7567.49,Yadgiri,2020-09-21
+7712.33,Yadgiri,2020-09-22
+7881.86,Yadgiri,2020-09-23
+8038.2,Yadgiri,2020-09-24
+8155.71,Yadgiri,2020-09-25
+8263.06,Yadgiri,2020-09-26
+8375.99,Yadgiri,2020-09-27
+8491.95,Yadgiri,2020-09-28
+8609.39,Yadgiri,2020-09-29
+8727.4,Yadgiri,2020-09-30
+8845.43,Yadgiri,2020-10-01
+8941.82,Yadgiri,2020-10-02
+9007.02,Yadgiri,2020-10-03
+9052.82,Yadgiri,2020-10-04
+9086.4,Yadgiri,2020-10-05
+9112.11,Yadgiri,2020-10-06
+9132.59,Yadgiri,2020-10-07
+9149.51,Yadgiri,2020-10-08
+9163.88,Yadgiri,2020-10-09
+9184.24,Yadgiri,2020-10-10
+9213.05,Yadgiri,2020-10-11
+9245.04,Yadgiri,2020-10-12
+9277.43,Yadgiri,2020-10-13
+9308.76,Yadgiri,2020-10-14
+9338.34,Yadgiri,2020-10-15
+9363.15,Yadgiri,2020-10-16
+9384.57,Yadgiri,2020-10-17
+9405.38,Yadgiri,2020-10-18
+9425.39,Yadgiri,2020-10-19
+9444.51,Yadgiri,2020-10-20
+9462.71,Yadgiri,2020-10-21
+9479.98,Yadgiri,2020-10-22
+9496.2,Yadgiri,2020-10-23
+9511.35,Yadgiri,2020-10-24
+9527.1,Yadgiri,2020-10-25
+9544.3,Yadgiri,2020-10-26
+9562.18,Yadgiri,2020-10-27
+9580.31,Yadgiri,2020-10-28
+9598.41,Yadgiri,2020-10-29
+9616.35,Yadgiri,2020-10-30
+9634.05,Yadgiri,2020-10-31
+9651.45,Yadgiri,2020-11-01
+9668.54,Yadgiri,2020-11-02
+9685.3,Yadgiri,2020-11-03
+9699.66,Yadgiri,2020-11-04
+9710.74,Yadgiri,2020-11-05
+9719.67,Yadgiri,2020-11-06
+9727.15,Yadgiri,2020-11-07
+9733.59,Yadgiri,2020-11-08
+9739.27,Yadgiri,2020-11-09
+9744.34,Yadgiri,2020-11-10
+9748.92,Yadgiri,2020-11-11
+9755.2,Yadgiri,2020-11-12
+9764.32,Yadgiri,2020-11-13
+9775.33,Yadgiri,2020-11-14
+9797.26,Yadgiri,2020-11-15
+9807.46,Yadgiri,2020-11-16
+9817.35,Yadgiri,2020-11-17
+9827,Yadgiri,2020-11-18
+9836.46,Yadgiri,2020-11-19
+9845.76,Yadgiri,2020-11-20
+9854.91,Yadgiri,2020-11-21
+9863.93,Yadgiri,2020-11-22
+9872.82,Yadgiri,2020-11-23
+9881.59,Yadgiri,2020-11-24
+9890.23,Yadgiri,2020-11-25
+9898.76,Yadgiri,2020-11-26
+9907.17,Yadgiri,2020-11-27
+9915.47,Yadgiri,2020-11-28
+9923.66,Yadgiri,2020-11-29
+9931.74,Yadgiri,2020-11-30
+9939.71,Yadgiri,2020-12-01
+9947.57,Yadgiri,2020-12-02
+9955.33,Yadgiri,2020-12-03
+9962.98,Yadgiri,2020-12-04
+9970.53,Yadgiri,2020-12-05
+9977.98,Yadgiri,2020-12-06
+9985.33,Yadgiri,2020-12-07
+9992.58,Yadgiri,2020-12-08
+9999.73,Yadgiri,2020-12-09
+10006.8,Yadgiri,2020-12-10
+10013.7,Yadgiri,2020-12-11
+10020.6,Yadgiri,2020-12-12
+10027.4,Yadgiri,2020-12-13
+10034.1,Yadgiri,2020-12-14
+10040.7,Yadgiri,2020-12-15
