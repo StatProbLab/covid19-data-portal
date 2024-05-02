@@ -62,7 +62,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("Prediction_Error","$i-errband.svg", "$i-errband.html","rcode$i.R", "csv$i.csv",400,500);
+            generateImageHolder("Prediction_Error","$i-errband.svg", "$i-errband.html","rcode$i.R",1,[1],400,500);
             echo '</div>';
         }
         ?>

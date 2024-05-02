@@ -42,7 +42,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_vaccination_data","dose1VsDose2.png","dose1VsDose2.html","rcode.R",1,[1],400,650)?>
+                <?php generateImageHolder("ka_vaccination_data","dose1VsDose2.png","dose1VsDose2.html","karnataka_districtwise_vaccination_data.R",2,[14,15,28,29],400,650)?>
             </div>
             </div>
         </div>

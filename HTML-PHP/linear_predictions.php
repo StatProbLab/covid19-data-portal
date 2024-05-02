@@ -62,7 +62,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("Prediction_Linear","$i-predlin.svg", "$i-predlin.html","rcode$i.R", "csv$i.csv",500,550);
+            generateImageHolder("Prediction_Linear","$i-predlin.svg", "$i-predlin.html","rcode$i.R",1,[1],500,550);
             echo '</div>';
         }
         ?>
