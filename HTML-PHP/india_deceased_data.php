@@ -71,44 +71,7 @@
       <img src="../Images/ka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
       <h3>ICU Timeline</h3>
     </div> -->
-    <div class="container mt-5">
-      <div class="row">
-        <!-- Column for sections -->
-        
-      <div class="col-md-6 icu-timeline">
-        <h3>ICU Timeline</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
-        </p>
-      </div>
     
-        <!-- Column for graph -->
-        <div class="col-md-6">
-          <div id="graphCanvas">
-            <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,700)?>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="container mt-5">
-      <div class="row">
-        <!-- Column for sections -->
-        
-      <div class="col-md-12 icu-timeline">
-        <h3>ICU Utilization Timeline-Karnataka Districts</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_icu_utilization_timeline.php">Click here to see the graphs for all districts.</a>
-        </p>
-      </div>
-      </div>
-    </div>
 </div>
 <?php include 'footer.html'; ?>
 

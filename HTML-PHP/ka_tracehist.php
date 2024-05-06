@@ -74,7 +74,7 @@
         <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-child.svg","ka-child.html","rcode.R",1,[1],400,450)?>
+                <?php generateImageHolder("ka_infocus","ka-child.svg","ka-child.html","ka_infectedchilderen_hist.R",2,[25],400,450)?>
             </div>
             </div>
     
@@ -82,7 +82,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-childa.svg","ka-childa.html","rcode.R",1,[1],400,450)?>
+                <?php generateImageHolder("ka_infocus","ka-childa.svg","ka-childa.html","ka_infectedchilderen_scatterplot.R",2,[25],400,450)?>
             </div>
             </div>
         </div>

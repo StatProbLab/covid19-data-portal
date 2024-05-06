@@ -88,7 +88,14 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,650)?>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
           </div>
         </div>
       </div>

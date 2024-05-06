@@ -36,7 +36,7 @@
             <div class="col-md-6 icu-timeline">
                 <h3>Cluster Timeline</h3>
                 <p>An animation showing the growth of the clusters in the Karnataka Trace History chart over time. 
-                    Different clusters have been represented by differently colored lines. Get here to get R code and CSV file.
+                    Different clusters have been represented by differently colored lines. Get here to get <a href="../R-Codes/ka_cluster_timeline.R" download>R code</a> and <a href="../Data-repository/data_kacovid19.html?tableNumber=2&rowIndices=25" target="_blank">CSV file</a>.
                 </p>
             </div>
     
@@ -45,7 +45,7 @@
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
                 <iframe src="../Images/ka_infocus/dynamic-hist.html" frameborder="0" height="450px" width="700px"></iframe>
-                <!-- <?php generateImageHolder("ka_infocus","dynamic-hist.svg","dynamic-hist.html","rcode.R",1,[1],400,650)?> -->
+                <!-- <?php generateImageHolder("ka_infocus","dynamic-hist.svg","dynamic-hist.html","rcode.R",1,[25],400,650)?> -->
             </div>
             </div>
      </div>
@@ -67,7 +67,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-hist1.svg","ka-hist1.html","rcode.R",1,[1],400,650)?>
+                <?php generateImageHolder("ka_infocus","ka-hist1.svg","ka-hist1.html","ka_cluster_generation_histogram.R",2,[25],400,650)?>
             </div>
             </div>
         </div>
@@ -91,7 +91,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","ka-histMah.svg","ka-histMah.html","rcode.R",1,[1],510,650)?>
+                <?php generateImageHolder("ka_infocus","ka-histMah.svg","ka-histMah.html","ka_Mahcluster_generation_histogram.R",2,[25],510,650)?>
             </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","infdedrec-clusters1.svg","infdedrec-clusters1.html","rcode.R",1,[1],510,650)?>
+                <?php generateImageHolder("ka_infocus","infdedrec-clusters1.svg","infdedrec-clusters1.html","ka_infdecrec_cluster_timeline.R",2,[25],510,650)?>
             </div>
             </div>
         </div>
@@ -129,7 +129,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_infocus","infdedrec-clustersMah.svg","infdedrec-clustersMah.html","rcode.R",1,[1],510,650)?>
+                <?php generateImageHolder("ka_infocus","infdedrec-clustersMah.svg","infdedrec-clustersMah.html","ka_infdecrec_Mahcluster_timeline.R",2,[25],510,650)?>
             </div>
             </div>
         </div>

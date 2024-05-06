@@ -46,7 +46,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","sample-test.svg","sample-test.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","sample-test.svg","sample-test.html","ka_testingtimeline.R",2,[19],450,700)?>
           </div>
         </div>
       </div>
@@ -118,7 +118,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","lineplottest.svg","lineplottest.html","rcode.R",1,[1],400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","lineplottest.svg","lineplottest.html","ka_testsdone_and_positive_cases.R",2,[18],400,650)?>
             </div>
             </div>
         </div>
@@ -135,7 +135,7 @@
             <div class="col-md-6">
             <div id="graphCanvas">
                 <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","rcode.R",1,[1],400,650)?>
+                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","karnataka_percentage_positives_cases.R",2,[18],400,650)?>
             </div>
             </div>
         </div>
@@ -161,7 +161,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","karnataka_icu_requirements.R",2,[20],450,550)?>
           </div>
         </div>
       </div>
@@ -199,7 +199,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-toICU.png","days-toICU.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","days-toICU.png","days-toICU.html","ka_days_require_before_ICU.R",2,[21],450,700)?>
           </div>
         </div>
       </div>
@@ -221,7 +221,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-inICU.png","days-inICU.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","days-inICU.png","days-inICU.html","ka_days_require_in_ICU.R",2,[21],450,700)?>
           </div>
         </div>
       </div>
@@ -243,7 +243,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-tocure.png","days-tocure.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","days-tocure.png","days-tocure.html","ka_days_to_Cure.R",2,[21],450,700)?>
           </div>
         </div>
       </div>
@@ -265,7 +265,7 @@
         <div class="col-md-6">
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_infocus","days-todie.png","days-todie.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","days-todie.png","days-todie.html","ka_days_to_Die.R",2,[21],450,700)?>
           </div>
         </div>
       </div>
@@ -288,7 +288,7 @@
           <div id="graphCanvas">
             <!-- Graph will be displayed here -->
             <!-- <iframe src="../Images/ka_hospitalization_requirements/dticu-diicu.html" frameborder="0" height="450px" width="700px"></iframe> -->
-            <?php generateImageHolder("ka_infocus","dticu-diicu.png","dticu-diicu.html","rcode.R",1,[1],450,700)?>
+            <?php generateImageHolder("ka_infocus","dticu-diicu.png","dticu-diicu.html","ka_scatterplot_days_require_in&to_ICU.R",2,[21,25],450,700)?>
           </div>
         </div>
       </div>
