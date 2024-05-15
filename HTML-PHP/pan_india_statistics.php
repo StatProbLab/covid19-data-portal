@@ -30,25 +30,23 @@
       <div class="row">
           <!-- Column for sections -->
           <div class="col-md-6">
-              <u><h3>Summary Statistics</h3></u>
               <div class="list-group" style="padding: 20px;">
                   <a href="india_active_cases.php" class="list-group-item list-group-item-action">Active Cases</a>
                   <a href="india_infected_cases.php" class="list-group-item list-group-item-action">Infected Cases</a>
                   <a href="india_deceased_data.php" class="list-group-item list-group-item-action">Deceased Data</a>
                   <a href="india_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
-                  <a href="india_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
+                  
+              </div>
+          </div>
+          <div class="col-md-6">
+              <div class="list-group" style="padding: 20px;">
+                  <a href="ews_india.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <a href="india_doubling_time.php" class="list-group-item list-group-item-action">Doubling Time</a>
                   <a href="india_foe_growth.php" class="list-group-item list-group-item-action">Falling of Exponential</a>
                   <!-- Add more sections as needed -->
               </div>
           </div>
           <!-- Column for graph -->
-          <div class="col-md-6">
-              <div id="graphCanvas">
-                  <!-- Graph will be displayed here -->
-                  <?php generateImageHolder("india_active_cases","india_active_cases.gif","india_active_cases.gif","rcode.R",1,[1],450,650)?>
-              </div>
-          </div>
       </div>
   
     </div>

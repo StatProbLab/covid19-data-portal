@@ -48,7 +48,7 @@
                   
                   <a href="ka_hosp_req.php" class="list-group-item list-group-item-action">Hospitalization Requirements</a>
                   <a href="ka_tracehist.php" class="list-group-item list-group-item-action">Trace History</a>
-                  <a href="ka_ews.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
+                  <a href="ews_karnataka.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <a href="ka_doubling_time.php" class="list-group-item list-group-item-action">Doubling Time</a>
                   <a href="ka_foe_growth.php" class="list-group-item list-group-item-action">Fall of Exponential</a>
                   <!-- Add more sections as needed -->

@@ -80,7 +80,7 @@
     </div>
     
     <div class="col-md-4">
-      <a href="data_repository.html" class="card-link">
+      <a href="ews.php" class="card-link">
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Early Warning System (EWS)</h5>
