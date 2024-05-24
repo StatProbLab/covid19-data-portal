@@ -21,9 +21,9 @@
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
           <h2>Infection Doubling Time in Karnataka</h2>
-          <p>Varying numbers of active COVID-19 cases across different states. X axes represents timeline and Y axes represents total number of active cases for each date. Hover on 
-            the image to see the annotation options like wiew Plotly file, download the plot, see R or CSV file.
-          </p>
+          <p>Mathematical models used to characterize early epidemic growth feature an exponential curve. 
+            This phase of exponential growth can be characterized by the doubling time. Doubling time is the time it takes for the number of infections to double. Our study here has been inspired by the study of <a href="https://deepayan.github.io/covid-19/doubling">Doubing times of COVID-19 cases worldwide by Deepayan Sarkar</a>.
+</p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -40,13 +40,9 @@
         <!-- Column for sections -->
         
       <div class="col-md-12 icu-timeline">
-        <h3>Doubling Time - districts of Karnataka</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_dbtimes_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <h3>Doubling Time for Districts in Karnataka</h3>
+        <p>We presents an analysis of the doubling time for COVID-19 cases across various districts during different phases of the lockdown. On the x-axis, dates are plotted to showcase the progression of time, while the y-axis represents the doubling time for each district. Doubling time is a critical metric in understanding the rate of growth or decline of infections, indicating how long it takes for the number of cases to double. By segmenting the data into different phases of the lockdown, this plot provides insights into how the effectiveness of containment measures influenced the spread of the virus in different regions over time. It helps in assessing the impact of lockdown policies on controlling the outbreak and identifying areas that may require targeted interventions or support.
+        Click <a href="ka_dbtimes_plots.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>

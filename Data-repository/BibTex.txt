@@ -1,0 +1,5 @@
+@misc{inc19,
+	  Contributors = {ISI-IISC-Team: Sree Akshaya, Siva Athreya, Srivatsa B., Nitya Gadhiwala,   Jainam Khakra, Rahul Kanekar, Abhiti Mishra, Sandipan Mishra, Srigyan Nandi,  Nihesh Rathod, A. Y. Sarath, Rajesh Sundaresan, Srinidi Veeraraghavan. },
+	  TITLE = {Covid-19 States of India and Karnataka District Timeline 20-21},
+	  YEAR = {2020},
+	  NOTE = {at \url{http://www.isibang.ac.in/~athreya/incovid19}}}

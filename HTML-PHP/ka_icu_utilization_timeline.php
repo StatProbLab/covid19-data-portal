@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>District wise ICU requirements</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,8 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>ICU Utilization timeline</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>ICU Utilization Timeline for Districts in Karnataka</h2>
+          <p>These plots present the changes in ICU requirements over time across various districts in Karnataka. The x-axis marks the dates, offering a temporal progression, while the y-axis shows the number of ICU units required. 
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Category 1</title>
+  <title>Category 4 - EWS for India</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,9 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Category 1: Predicted Days to 1500 Active cases per million population is less than 100 days</h2>
-          <p>Reproduction rate R<sub>t</sub> of COVID-19 across different states in India. X axes represents timeline and Y axes represents mean or average reproduction rate R<sub>t</sub> 
-            for each date. Hover on the image to see the annotation options like wiew Plotly file, download the plot, see R or CSV file.
+          <h2>Category 4: Stable</h2>
+          <p>
+            <!-- description of category -->
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

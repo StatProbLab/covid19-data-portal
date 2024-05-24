@@ -34,24 +34,6 @@
       </div>
     </div>
 
-
-    <div class="container mt-5 mx-auto" style="width: fit-content;">
-      <div class="row">
-          <!-- Column for sections -->
-          <div class="col-md-14" style="margin: 0 auto; text-align: center;">
-              <u><h3>Predictions for Various Models</h3></u>
-              <div class="list-group" style="padding: 20px;">
-                  <a href="linear_predictions.php" class="list-group-item list-group-item-action">Weekly-Linear Scale</a>
-                  <a href="error.php" class="list-group-item list-group-item-action">Error-Band</a>
-                  <!-- Add more sections as needed -->
-                  <br><br><br>
-              </div>
-          </div>
-      </div>
-  
-    </div>
-    
-
     <!-- Image holders -->
     <div class="row">
         <?php

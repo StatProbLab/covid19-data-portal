@@ -21,9 +21,8 @@
     <div class="container mt-5">
       <div class="row ">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Early Warning System for each district of Karnataka</h2>
-          <p>During the spread of an infection as contagious as COVID-19, it is imperative for the state to understand the capacity of Hospital beds, ICU beds, ICU Oxygen/Ventilators required. This will reduce a patient's
-            waiting time for treatment and also maximize health care response.</p>
+          <h2>Early Warning System for Districts in Karnataka</h2>
+          <p>It serves as a proactive tool to anticipate and mitigate potential spikes in COVID-19 cases across different regions of the state. According to the definition of EWS, we four categories in which districts are divided.</p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -41,12 +40,8 @@
         
       <div class="col-md-12 icu-timeline">
         <h3>Category 1: Predicted Days to 1500 Active cases per million population is less than 100 days</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ews_ka_cat1.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <p>
+        Click <a href="ews_ka_cat1.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>
@@ -58,12 +53,8 @@
         
       <div class="col-md-12 icu-timeline">
         <h3>Category 2: Growing and Alert Raisedd</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ews_ka_cat2.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <p>
+        Click <a href="ews_ka_cat2.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>
@@ -76,12 +67,8 @@
         
       <div class="col-md-12 icu-timeline">
         <h3>Category 3: Stable but Need to be watched</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ews_ka_cat3.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <p>
+        Click <a href="ews_ka_cat3.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>
@@ -93,12 +80,8 @@
         
       <div class="col-md-12 icu-timeline">
         <h3>Category 4: Stable</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ews_ka_cat4.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <p>
+        Click <a href="ews_ka_cat4.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>

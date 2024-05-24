@@ -35,10 +35,11 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Total Tests Done</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>It is widely believed a strong testing regimen is the best indicator of infection spread.
+<br><br>
+        The above graph is a continuous analog of a stacked bar chart. It is used here to show the composition of the testing done in Karnataka. The growth in area of red colour over time represents the total number of positive tests till that day, green colour over time represents the total number of negative tests till that day and finally the blue color represents the total number of tests whose results are awaited till that day.
+<br><br>
+From 17-July onwards, the Media Bulletins contained information on the number of Rapid Antigen tests and RTPCR & other methods. Different tests are used for different types of patients and may have different test positive fractions. We consider all the tests cumulatively done, including the Rapid Antigen Tests.
         </p>
       </div>
     
@@ -58,10 +59,9 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Total Test Samples Collected</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>In this graph we plot the total number of tests done on a daily basis since March 2020 in the state.
+          <br><br>
+          There were two typographical errors in the Media Bulletins. On 17th March, 2020 the number of positive tests was incorrectly mentioned as 1 even though the cumulative count had gone up by 4. This we have rectified in the above. On 25th March there was a discrepancy in the cumulative and daily counts for negative samples. 25th March onwards, we have considered the daily counts instead of the cumulative counts of negative samples in the Media Bulletins.
         </p>
       </div>
     
@@ -81,10 +81,7 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Daily Positive Rate</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>The percentage of positive tests is an indication of the prevalence of the infection in the population. Below we have plotted, the test positive rate on a daily basis.
         </p>
       </div>
     
@@ -110,8 +107,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Tests Done Daily</h3>
-                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                </p>
+                <p>In the graph, the orange line is the number of total tests done daily and the red line is the number of tests found positive daily. The percentage of positive tests is an indication of the prevalence of the infection in the population. </p>
             </div>
     
          <!-- Column for graph -->
@@ -122,50 +118,12 @@
             </div>
             </div>
         </div>
-        <div class="row">
-        <!-- Column for sections -->
-        
-            <div class="col-md-6 icu-timeline">
-                <h3>Percentage of Positive tests</h3>
-                <p>The percentage of positive tests is an indication of the prevalence of the infection in the population. Below we have plotted, the total number of positives tests upto that day over the culumative tests done upto that day.
-                </p>
-            </div>
-    
-         <!-- Column for graph -->
-            <div class="col-md-6">
-            <div id="graphCanvas">
-                <!-- Graph will be displayed here -->
-                <?php generateImageHolder("ka_hospitalization_requirements","cp-test.png","cp-test.html","karnataka_percentage_positives_cases.R",2,[18],400,650)?>
-            </div>
-            </div>
-        </div>
     </div>
     <!-- <div class="fancy-heading">
       <img src="../Images/ka_hospitalization_requirements/rtpcr.jpg" alt="Profile Picture">
       <h3>ICU Timeline</h3>
     </div> -->
-    <div class="container mt-5">
-      <div class="row">
-        <!-- Column for sections -->
-        
-      <div class="col-md-6 icu-timeline">
-        <h3>ICU Timeline</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
-        </p>
-      </div>
     
-        <!-- Column for graph -->
-        <div class="col-md-6">
-          <div id="graphCanvas">
-            <!-- Graph will be displayed here -->
-            <?php generateImageHolder("ka_hospitalization_requirements","ka-icu.png","ka-icu.html","karnataka_icu_requirements.R",2,[20],450,550)?>
-          </div>
-        </div>
-      </div>
-    </div>
     <div class="container mt-5">
       <div class="row">
         <!-- Column for sections -->
@@ -177,7 +135,7 @@
            unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
             influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
           sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_icu_utilization_timeline.php" target="_blank">Click here to see the graphs for all districts.</a>
+          Click <a href="ka_icu_utilization_timeline.php" target="_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>
@@ -188,10 +146,7 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Days taken to require ICU</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>To further approximate the ICU bed requirements, we consider those patients who have required an ICU, and plot the number of days between their testing positive and being admitted to ICU. 
         </p>
       </div>
     
@@ -210,10 +165,8 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Days spent in ICU</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>We also plot the distribution of the days spent by the patients in ICU.
+          <br>Both these plots have been frozen on 8th May as the Media Bulletins post 8th May provided consolidated numbers of patients in ICU.
         </p>
       </div>
     
@@ -232,10 +185,8 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Days to recover</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>To better approximate the hospital beds requirement, and get an idea of how long an infected person remains infectious, we plot the time taken for recovery for the patients in Karnataka alongside the time taken for the patient to succumb to the disease.
+        <br><br>On the right, we have plotted a histogram of the number of days to recover for all discharged patients. The blue dotted line shows the mean of the recovery time of the patients. Note that the above graph contains information only on those patients whose recovery has been reported by the state. For a few days after 8th May, the recovery data was provided in a consolidated manner. This graph contains information on all the patients who have recovered, excluding the ones who have recovered on those days.
         </p>
       </div>
     
@@ -254,11 +205,9 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Days from tested Positive to succumbed to the disease</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
-        </p>
+        <p>On the right, we plot the same for those who have succumbed to the disease. This distribution continues information on all those patients who have succumbed to the infection.
+<br><br>
+Further, it is seen in the graph on the right that a large fraction of patients who have succumbed to the disease have tested positive on the day they died. This is because the first column also includes those patients who passed away and later tested positive for COVID-19.</p>
       </div>
     
         <!-- Column for graph -->
@@ -276,10 +225,10 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Days from tested Positive to succumbed to the disease</h3>
-        <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
-          In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
+        <p>For those patients who were in ICU before May 8th, below is a scatter plot of the days they were infected before requiring an ICU and the number of days they've spent in the ICU so far.
+<br><br>        The y-axis represents the number of days between the patient's testing positive and requiring ICU. The y-axis has the days they spent in an ICU. Since this graph also contains information on those patients who are still in ICU, some of the points may move further left. The points are colored based on the patient's current condition i.e. if they're recovered, deceased, still in ICU or requiring hospitalization. Hovering on the points will give you information on the patient's age, sex, city of residence and the cluster of origin of the infection.
+<br><br>
+Note that this graphs has been frozen on 8th May. The colors represent the condition of those patients who were in ICU on 8th May.
         </p>
       </div>
     

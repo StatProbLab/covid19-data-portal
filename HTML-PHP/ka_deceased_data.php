@@ -21,9 +21,8 @@
     <div class="container mt-5">
       <div class="row ">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Deceased Data - Karnataka</h2>
-          <p>During the spread of an infection as contagious as COVID-19, it is imperative for the state to understand the capacity of Hospital beds, ICU beds, ICU Oxygen/Ventilators required. This will reduce a patient's
-            waiting time for treatment and also maximize health care response.</p>
+          <h2>Deceased Data in Karnataka</h2>
+          <p>This section presents a comprehensive analysis of mortality related to the pandemic within the country. It encompasses various plots and visualizations that shed light on different aspects of fatalities caused by COVID-19. </p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -38,7 +37,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Deceased by Infected Ratio</h3>
-                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+                <p>The plot depicts the ratio of deceased individuals to the total number of infected cases over time. On the x-axis, dates are plotted to show the progression of the COVID-19 pandemic, while the y-axis represents the calculated ratio. This plot offers insights into the severity of the virus's impact by tracking how the mortality rate relative to the infection rate evolves throughout the pandemic.</p>
             </div>
     
          <!-- Column for graph -->
@@ -54,7 +53,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Percentage of Positive tests</h3>
-                <p>The percentage of positive tests is an indication of the prevalence of the infection in the population. Below we have plotted, the total number of positives tests upto that day over the culumative tests done upto that day.
+                <p>The percentage of positive tests is an indication of the prevalence of the infection in the population. Here we have plotted, the total number of positives tests upto that day over the culumative tests done upto that day.
                 </p>
             </div>
     
@@ -78,8 +77,8 @@
       <div class="col-md-6 icu-timeline">
         <h3>ICU Timeline</h3>
         <p>In an article published in the New England Journal of Medicine article Fair Allocation of Scarce Medical Resources in the Time of Covid-19 by Ezekiel J. Emanuel Et.all, the authors simulate possible hospitalisation requirements. In the article and otherwise it is widely accepted that the COVID-19 virus has the following distribution among the infected people:
-          80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
-          <br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
+          <br><br>80% of infected will be asymptomatic or have mild symptoms, 6% will require health care but no hospitalization, 8% will require hospitalization and the final 6% will require ICU.
+          <br><br>The patients in the ICU include those on Oxygen or on a Ventilator. They include a very small [less than 5%] percentage of the number of currently infected people. On hovering, one can see what percentage of the currently infected people that require an ICU.
           In Karnataka, everyone who is infected is being hospitalized regardless of whether they show symptoms or not, as it would ensure isolation. This isn't the case for countries like Netherlands where only those who require hospitalization are hospitalized.
         </p>
       </div>
@@ -105,13 +104,9 @@
         <!-- Column for sections -->
         
       <div class="col-md-12 icu-timeline">
-        <h3>ICU Utilization Timeline-Karnataka Districts</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_icu_utilization_timeline.php">Click here to see the graphs for all districts.</a>
+        <h3>ICU Utilization Timeline for Districts in Karnataka</h3>
+        <p>This plot provides critical insights into the demand for intensive care resources throughout the pandemic, enabling an assessment of healthcare system strain in different districts. By analyzing this data, healthcare authorities and policymakers can identify trends, allocate resources more effectively, and prepare for potential surges in ICU demand.
+        Click <a href="ka_icu_utilization_timeline.php" target = "_blank">here</a> to see the graphs for all districts.
         </p>
       </div>
       </div>
@@ -122,8 +117,8 @@
         <!-- Column for sections -->
         
       <div class="col-md-6 icu-timeline">
-        <h3>Distribution of Number of Deceased</h3>
-        <p>The graph on left represents monthwise death counts. Although there has been slight increase in deaths in August 2020, there is a visible spike of death cases in May 2021.
+        <h3>Distribution of Number of Deceased Patients</h3>
+        <p>The graph represents monthwise death counts. Although there has been slight increase in deaths in August 2020, there is a visible spike of death cases in May 2021.
         </p>
       </div>
       <div class="col-md-6">
@@ -141,7 +136,17 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Number of Deceased Across Waves</h3>
-        <p>The graph on the right is a plot of number of deceased in each district in wave 1 versus the number of deceased in wave 2. 
+        <p>We have partitioned the pandemic timeline into three waves.
+<br>
+<ul>
+<li>Wave 1 - till the end of October 2020</li>
+<li>Middle wave - from November 2020 till the end of January 2021</li>
+<li>Wave 2 - from February 2021 till present</li>
+</ul>
+<br>
+As the number of deceased during the Middle Wave were comparatively low, for some of the plots, we have only considered Wave 1 and Wave 2 data for our analysis.
+<br><br>
+          The graph on the right is a plot of number of deceased in each district in wave 1 versus the number of deceased in wave 2. 
           The point size indicates the sum of deaths during the two waves across districts. The line y=x has been plotted. 
           This suggests that the districts above the line have wave 2 death count higher than wave 1 death count, while districts below the 
           line have wave 1 death count higher than that of wave 2. The number of deceased in Bengaluru Urban during wave 1 is 3836, during 
@@ -163,9 +168,11 @@
         
       <div class="col-md-6 icu-timeline">
         <h3>Age Distribution Across Waves</h3>
-        <p>The first two graphs (from the left) present the age distribution of wave 1 and wave 2 deceased COVID-19 patients along with the census of population of Karnataka for reference.
+        <p>The graph in right, we plot a stacked histogram of age distribution across waves. The deceased population between 0-40 has increased three fold during wave 2 and around two fold in the other age groups. 
+          <br><br>The two graphs shown below present the age distribution of wave 1 and wave 2 deceased COVID-19 patients along with the census of population of Karnataka for reference.
            Though the trends in wave 1 and wave 2 are almost similar, from the graph it can be seen that the mean age of deceased in wave 1 is around 61 
-           and wave 2 is around 60. In the third graph (from the left) above we plot a stacked histogram of age distribution across waves. The deceased population between 0-40 has increased three fold during wave 2 and around two fold in the other age groups. 
+           and wave 2 is around 60. 
+           
            
         </p>
       </div>
@@ -407,8 +414,7 @@ The column has data on:
         
       <div class="col-md-6 icu-timeline">
         <h3>Mean Days to Report</h3>
-        <p>The graphs below represents the scatter plot of mean days to decease across districts wave-wise. The x-axis represents the wave-1 mean days to decease where as the y-axis represents the wave-2 mean days to decease. The size of the blob indicates the total death in that district. The districts above the line x=y have high mean days to decease in wave-2 as compared to wave 1 and the districts below the line x=y have high mean days to decease in wave-1 as compared to wave 2.
-        </p>
+        <p>The graphs below represents the scatter plot of mean days to report across districts wave-wise. The x-axis represents the wave-1 mean days to report where as the y-axis represents the wave-2 mean days to report. The size of the blob indicates the total death in that district. The districts above the line x=y have high mean days to report in wave-2 than wave 1 and the districts below the line have high mean days to report in wave-1 than wave 2.</p>
       </div>
       <div class="col-md-6">
       <div id="graphCanvas">
@@ -425,8 +431,7 @@ The column has data on:
         
       <div class="col-md-6 icu-timeline">
         <h3>Confidence Interval for Days to Report</h3>
-        <p>The graph below represents the confidence interval for days to decease(wave-wise) in Karnataka based on the data collected. The 95% t-interval around the mean is calculated and plotted below.If the colour of the interval line is red, it infers that this district has high mean days to decease in wave 2 as compared to wave 1, else if the interval line is green, it implies that this district has high mean days to decease in wave 1 as compared to wave 2.</p>
-      </div>
+        <p>The graph below represents the confidence interval for days to report(wave-wise) in Karnataka based on the data collected. The 95% t-interval around the mean is calculated and plotted below. If the colour of the interval line is red, it infers that this district has high mean days to report in wave 2 as compared to wave 1, else if the interval line is green, it implies that this district has high mean days to report in wave 1 as compared to wave 2.</div>
       <div class="col-md-6">
       <div id="graphCanvas">
             <!-- Graph will be displayed here -->
@@ -442,8 +447,7 @@ The column has data on:
         
       <div class="col-md-12 icu-timeline">
         <h3>Data: Days to Report (Wave1 Vs Wave2))</h3>
-        <p>From the media bulletin, we take difference of the admission date and the date of decease for each deceased patient who was hospitalised and call the difference as days to decease.We then take the death counts across district wave-wise.
-
+        <p>From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.We then take the death counts across district wave-wise.
 The column has data on:
           <ui>
             <li>Name of District</li>
@@ -460,7 +464,7 @@ The column has data on:
           </ui>
 
       <br> 
-        You can download the data from <a href="../Data-repository/data_repository/Karnataka/conf_w_days_ord.csv" download>here</a>.
+        You can download the data from <a href="../Data-repository/data_repository/Karnataka/conf_w_rep_ord.csv" download>here</a>.
         </p>
       </div>
       </div>

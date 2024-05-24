@@ -2,39 +2,13 @@
 <style>
     /* styles.css */
     .footer {
-        background-color: #212121; /* Dark background color */
+        background-color: #3b528b; /* Dark background color */
         color: #fff; /* Text color */
         padding: 10px 0; /* Adjust padding as needed */
-        position:inherit; /* Fixed position */
+        position:relative; /* Fixed position */
         width: 100%; /* Full width */
         bottom: 0; /* Align to bottom */
         left: 0; /* Align to left */
-    }
-
-    .footer footp, .foota {
-        color: #fff; /* Text color for links */
-        text-decoration: none; /* Remove underline from links */
-        font-size: large;
-    }
-
-    .footer a:hover {
-        color: #17b0b8; /* Text color for links on hover */
-    }
-
-    .footer .container {
-        display: flex;
-        justify-content: space-between;
-    }
-
-    .footer .left-section,
-    .footer .right-section {
-        flex: 1;
-        padding: 0 20px;
-    }
-
-    .footer .left-section h3,
-    .footer .right-section h3 {
-        color: #ffffff; /* Heading color */
     }
 
     .footer .social-icons a {
@@ -43,32 +17,23 @@
 
     .footer .social-icons i {
         font-size: 24px;
-        color: #17b0b8; /* Social icons color */
+        color: #ffffff; /* Social icons color */
         
     }
-
+    .bg-dark {
+        background-color: #3b528b !important;
+    }
     .social-icons{
         margin-left: 45%;
     }
 </style>
-
+<br>
 <footer class="footer bg-dark">
-    <div class="container">
-        <div class="left-section">
-            <h3>About Us</h3>
-            <p class="footp">Created by: <a class="foota" href="https://sites.google.com/view/paavan-m-parekh/home" target="_blank">Paavan Parekh</a>, <a class="foota" href="https://sites.google.com/view/paavan-m-parekh/home" target="_blank">Rashi Srivastava</a> </p>
-            <p class="footp">Mentored by: <a class="foota" href="https://www.isibang.ac.in/~athreya/" target="_blank">Prof. Siva Athreya</a></p>
-        </div>
-        <div class="right-section">
-            <h3>Contact Us</h3>
-            <p class="footp">Email: <a class="foota" href="mailto:example@example.com">example@example.com</a></p>
-        </div>
-    </div>
     <div class="social-icons">
-        <a href="#"><i class="fab fa-github"></i></a>
-        <a href="#"><i class="fas fa-database"></i></a>
-        <a href="#"><i class="fas fa-file-alt"></i></a>
-        <a href="mailto:example@example.com"><i class="fas fa-envelope"></i></a>
+        <a href="https://github.com/StatProbLab/covid19-data-portal"" target="_blank"><i class="fab fa-github"></i></a>
+        <a href="../Data-repository/data_kacovid19.html" target="_blank"><i class="fas fa-database"></i></a>
+        <a href="../Data-repository/BibTex.txt" target="_blank"><i class="fas fa-file-alt"></i></a>
+        <a href="mailto:statprob@icts.res.in"><i class="fas fa-envelope"></i></a>
     </div>
 </footer>
 

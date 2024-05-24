@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>District-wise Active Cases</title>
+  <title>Infected Cases</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,13 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Infection Timeline - States of India</h2>
-          <p>Varying numbers of active COVID-19 cases across different states. X axes represents timeline and Y axes represents total number of active cases for each date. Hover on 
-            the image to see the annotation options like view Plotly file, download the plot, see R or CSV file.
+          <h2>Infected Cases in India</h2>
+          <p>It provides a comprehensive overview of the total COVID-19 infections in the country, 
+            featuring two distinct plots. The first type of plot showcases the total number of infected cases 
+            in India over time and the second type of plot presents the same data but with a logarithmic scale on the y-axis, 
+             offering a different perspective by compressing large numerical ranges and emphasizing changes in 
+             growth rates. Together, these plots serve as invaluable tools for understanding the magnitude and 
+             progression of the COVID-19 outbreak in India.
           </p>
           <!-- Add your charts or data visualization here -->
         </div>
@@ -38,8 +42,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Total Infected Cases in India</h3>
-                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                </p>
+                <p>The plot showcases the cumulative count of COVID-19 infections across India over time. With dates along the x-axis marking the progression of time, and the y-axis denoting the total number of infected cases, this visualization offers a comprehensive view of the pandemic's spread throughout the country. </p>
             </div>
     
          <!-- Column for graph -->
@@ -60,8 +63,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Log Scale - Total Infected Cases in India</h3>
-                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                </p>
+                <p>This plot presents a logarithmic representation of the cumulative COVID-19 cases in India over time. On the x-axis, dates are marked to denote the progression of the pandemic, while the y-axis displays the number of infected cases on a logarithmic scale. This transformation allows for a clearer visualization of the growth trajectory of the pandemic, especially during periods of exponential increase. By compressing the scale for larger values, the plot aids in discerning patterns and trends in the spread of the virus that may not be as evident on a linear scale.</p>
             </div>
     
          <!-- Column for graph -->
@@ -85,13 +87,10 @@
         <!-- Column for sections -->
         
       <div class="col-md-12 icu-timeline">
-        <h3>Infected Cases-India States</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="india_infected_cases_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <h3>Total Infected Cases for States in India</h3>
+        <p>
+The plot showcases the cumulative number of COVID-19 cases across different states of India over time. This plot enables viewers to compare the severity of the outbreak in different regions and track the progression of infections over time.
+Click <a href="india_infected_cases_plots.php" target="_blank">here</a> to see the graphs for each state.
         </p>
       </div>
       </div>
@@ -102,13 +101,9 @@
         <!-- Column for sections -->
         
       <div class="col-md-12 icu-timeline">
-        <h3>Infected Cases in Log Scale</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="india_infected_cases_log_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <h3>Log Scale - Total Infected Cases for States in India</h3>
+        <p>The plot utilizes a logarithmic scale to illustrate the cumulative number of COVID-19 cases across various states in India over time.
+        Click <a href="india_infected_cases_log_plots.php" target="_blank">here</a> to see the graphs for each state.
         </p>
       </div>
       </div>

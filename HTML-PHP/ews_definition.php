@@ -22,8 +22,7 @@
       <div class="row ">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
           <h2>Definition of Early Warning System: Goal, Method and Alerts</h2>
-          <p>During the spread of an infection as contagious as COVID-19, it is imperative for the state to understand the capacity of Hospital beds, ICU beds, ICU Oxygen/Ventilators required. This will reduce a patient's
-            waiting time for treatment and also maximize health care response.</p>
+          
           <!-- Add your charts or data visualization here -->
         </div>
       </div>

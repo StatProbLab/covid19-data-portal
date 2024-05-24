@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>Reproduction Rate</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,9 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Reproduction Rate in Karnataka - District-wise</h2>
-          <p>Reproduction rate R<sub>t</sub> of COVID-19 across different states in India. X axes represents timeline and Y axes represents mean or average reproduction rate R<sub>t</sub> 
-            for each date. Hover on the image to see the annotation options like view Plotly file, download the plot, see R or CSV file.
+          <h2>Reproduction Rate for Districts in Karnataka</h2>
+          <p>Reproduction rate R<sub>t</sub> of COVID-19 across different districts in Karnataka. X axes represents timeline and Y axes represents mean or average reproduction rate R<sub>t</sub> 
+            for each date.
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

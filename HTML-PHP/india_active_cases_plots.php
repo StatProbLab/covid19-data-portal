@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>State wise Active Cases</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,14 +20,13 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Statewise Active Cases</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>Total Active Cases for States in India</h2>
+          <p>The plots present the progression of active COVID-19 cases across various states over time. The x-axis marks the dates, showing the timeline of the pandemic, while the y-axis displays the number of active cases. This plot provides a comparative view of how different states have experienced and managed the spread of COVID-19. It highlights regional variations, pinpointing areas with significant case surges or declines. This visualization is crucial for understanding the geographical impact of the virus and for directing resources and public health measures to regions in need.
           </p>
-          <!-- Add your charts or data visualization here -->
+          
         </div>
       </div>
-    </div>
+    </div> 
     
 
     <!-- Image holders -->

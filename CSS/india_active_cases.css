@@ -12,7 +12,7 @@ body {
   }
 
   .jumbotron {
-    background-color: #17b0b8 !important;
+    background-color: #b73779 !important;
     padding: 1rem 2rem;
     margin-bottom: 3rem;
   }
@@ -26,7 +26,7 @@ body {
   }
 
   .icu-timeline h3 {
-    color: #f9a91f;
+    color: #b73779 ;
     font-size: 24px;
   }
 

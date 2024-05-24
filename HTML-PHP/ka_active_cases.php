@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>District-wise Active Cases</title>
+  <title>Active Cases</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,10 +20,8 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Active Cases in Karnataka - District-wise</h2>
-          <p>Varying numbers of active COVID-19 cases across different states. X axes represents timeline and Y axes represents total number of active cases for each date. Hover on 
-            the image to see the annotation options like view Plotly file, download the plot, see R or CSV file.
-          </p>
+          <h2>Active Cases in Karnataka</h2>
+          <p>Total active COVID-19 cases for all over Karnataka and each districts are plotted. Along with the active cases, increase in cases and daily new cases are considered.</p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -36,8 +34,11 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Total Active Cases in Karnataka</h3>
-                <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                </p>
+                <p>The plot illustrates the trend of active COVID-19 cases over time. The x-axis represents the dates, 
+                  providing a chronological timeline, while the y-axis indicates the number of active cases. This plot 
+                  allows viewers to observe how the number of active COVID-19 cases has fluctuated during the pandemic, 
+                  highlighting periods of surge and decline. It serves as a valuable tool for understanding the dynamic 
+                  nature of the outbreak in Karnataka.</p>
             </div>
     
          <!-- Column for graph -->
@@ -55,13 +56,11 @@
         <!-- Column for sections -->
         
       <div class="col-md-12 icu-timeline">
-        <h3>Active Cases-Karnataka Districts</h3>
-        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through 
-          a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district presents its
-           unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations,
-            influenced by diverse variables such as population density, healthcare infrastructure, and the prevalence of diseases. Seasonal patterns, 
-          sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-          <a href="ka_active_cases_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+        <h3>District wise Active Cases in Karnataka</h3>
+        <p>The plots present the progression of active COVID-19 cases across various districts over time. The x-axis 
+          marks the dates, showing the timeline of the pandemic, while the y-axis displays the number of active cases. This plot provides a comparative view of how different states have experienced and managed the spread of COVID-19. 
+          Click <a href="ka_active_cases_plots.php" target="_blank">here</a> to see the graphs for all districts.
+          
         </p>
       </div>
       </div>
@@ -73,9 +72,8 @@
         <!-- Column for sections -->
         
             <div class="col-md-6 icu-timeline">
-                <h3>Increase in Cases in Karnataka</h3>
-                <p>(With Total)In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                If you want to see the graph without total cases click here: <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">gif</a> and <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">html</a></p>
+                <h3>Increase in Cases for Districts in Karnataka</h3>
+                <p>The plot showcases the daily or periodic rise in COVID-19 cases across different districts in Karnataka. The x-axis represents the dates, offering a temporal perspective, while the y-axis depicts the number of new cases reported. To see plots without total increased cases in Karnataka, If you want to see the graph without total cases click here: <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">gif</a> and <a href="../Images/ka_active_cases/ka_increase_in_cases_districtwise_wt.gif" target="_blank">html</a>.</p>
             </div>
     
          <!-- Column for graph -->
@@ -96,7 +94,7 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Daily New Cases</h3>
-                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+                <p>The plot showcases the number of new COVID-19 cases reported each day over a specified period. The x-axis represents the dates, providing a sequential timeline, while the y-axis indicates the number of new cases. This plot is crucial for understanding the day-to-day changes in the spread of the virus, identifying trends, and pinpointing spikes in infection rates. By examining this data, one can gauge the impact of public health measures, detect emerging hotspots, and make informed decisions regarding the management and mitigation of the pandemic.</p>
             </div>
     
          <!-- Column for graph -->

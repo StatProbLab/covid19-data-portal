@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Karnataka Statistics</title>
+  <title>Karnataka</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -19,8 +19,8 @@
     <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Karnataka Statistics</h2>
-          <p>District-wise Analysis on Active Cases, Reproduction Rate, Vaccination, and Early Warning System</p>
+          <h2>COVID-19 Dynamics in Karnataka</h2>
+          <p>To understand COVID-19 infection spread across districts in Karnataka, we provide visualization on Active-Infected-Deceased Cases, Reproduction Rate, Vaccination, Doubling time, Falling of Exponential, Trace History, Hospitalization Requirements, Cluster Timeline and Information and Early Warning System</p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -38,20 +38,20 @@
                   <a href="ka_rt.php" class="list-group-item list-group-item-action">Reproduction Rate R<sub>t</sub></a>
                   <a href="ka_cluster_tlinf.php" class="list-group-item list-group-item-action">Cluster Timeline and Information</a>
                   <a href="ka_vac.php" class="list-group-item list-group-item-action">Vaccination Coverage</a>
-                  <!-- Add more sections as needed -->
-              </div>
-          </div>
-          <!-- Column for graph -->
-          <div class="col-md-6">
-          
-              <div class="list-group" style="padding: 20px;">
-                  
                   <a href="ka_hosp_req.php" class="list-group-item list-group-item-action">Hospitalization Requirements</a>
                   <a href="ka_tracehist.php" class="list-group-item list-group-item-action">Trace History</a>
                   <a href="ews_karnataka.php" class="list-group-item list-group-item-action">Early Warning Systems</a>
                   <a href="ka_doubling_time.php" class="list-group-item list-group-item-action">Doubling Time</a>
                   <a href="ka_foe_growth.php" class="list-group-item list-group-item-action">Fall of Exponential</a>
                   <!-- Add more sections as needed -->
+              </div>
+          </div>
+          <!-- Column for graph -->
+          <div class="col-md-6">
+          
+             <div id="graphCanvas">
+                  <!-- Graph will be displayed here -->
+                  <?php generateImageHolder("ka_active_cases","karnataka_active_cases.gif","karnatka_active_cases.gif","ka_active_cases.R",2,[1],400,650)?>
               </div>
           </div>
       </div>

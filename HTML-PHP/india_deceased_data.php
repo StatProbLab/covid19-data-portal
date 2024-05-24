@@ -21,9 +21,8 @@
     <div class="container mt-5">
       <div class="row ">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Deceased Data - India</h2>
-          <p>During the spread of an infection as contagious as COVID-19, it is imperative for the state to understand the capacity of Hospital beds, ICU beds, ICU Oxygen/Ventilators required. This will reduce a patient's
-            waiting time for treatment and also maximize health care response.</p>
+          <h2>Deceased Data in India</h2>
+          <p>This section presents a comprehensive analysis of mortality related to the pandemic within the country. It encompasses various plots and visualizations that shed light on different aspects of fatalities caused by COVID-19. The section typically includes plots such as "Total Deceased Cases Over Time" which illustrates the cumulative number of deaths recorded over the course of the pandemic, providing a longitudinal view of mortality trends. Additionally, plots like "Deceased by Infected Ratio" are featured, offering insights into the relationship between confirmed cases and fatalities, aiding in understanding the severity and fatality rate of the virus.</p>
           <!-- Add your charts or data visualization here -->
         </div>
       </div>
@@ -38,7 +37,8 @@
         
             <div class="col-md-6 icu-timeline">
                 <h3>Deceased by Infected Ratio</h3>
-                <p>The graph on the right hand side plots the case fatality rate for the duration of the pandemic.</p>
+                <p>
+The "Deceased by Infected Ratio" plot depicts the ratio of deceased individuals to the total number of infected cases over time. On the x-axis, dates are plotted to show the progression of the COVID-19 pandemic, while the y-axis represents the calculated ratio. This plot offers insights into the severity of the virus's impact by tracking how the mortality rate relative to the infection rate evolves throughout the pandemic.</p>
             </div>
     
          <!-- Column for graph -->
@@ -53,9 +53,8 @@
         <!-- Column for sections -->
         
             <div class="col-md-6 icu-timeline">
-                <h3>Statewise Change in Deceased Ratio</h3>
-                <p>The percentage of positive tests is an indication of the prevalence of the infection in the population. Below we have plotted, the total number of positives tests upto that day over the culumative tests done upto that day.
-                </p>
+                <h3>State wise Change in Deceased Ratio</h3>
+                <p>The "Statewise Change in Deceased Ratio" plot depicts the variation in the deceased ratio across different states over time. On the x-axis, dates are represented to provide a temporal perspective, while the y-axis displays the deceased ratio, which is the proportion of confirmed COVID-19 cases that result in fatalities. This visualization enables viewers to track how the mortality rate has evolved in various states throughout the course of the pandemic.</p>
             </div>
     
          <!-- Column for graph -->

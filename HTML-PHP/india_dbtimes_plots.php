@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>State wise Doubling Time</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,8 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Doubling Time</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>Doubling Time for States in India</h2>
+          <p>We presents an analysis of the doubling time for COVID-19 cases across various states during different phases of the lockdown. On the x-axis, dates are plotted to showcase the progression of time, while the y-axis represents the doubling time for each state. Doubling time is a critical metric in understanding the rate of growth or decline of infections, indicating how long it takes for the number of cases to double.
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>State wise Infected Cases</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,9 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Statewise Active Cases</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>Total Infected Cases for States in India</h2>
+          <p>
+The plots display the cumulative number of COVID-19 cases across different states in India over time. The x-axis represents the dates, offering a chronological view, while the y-axis indicates the total number of infected cases reported for each state. This plot provides a comprehensive overview of how the pandemic has affected various regions within India, allowing viewers to compare the progression of the outbreak across states. By analyzing this data, one can identify regions that have been particularly hard-hit by the virus and monitor the spread of COVID-19 across different parts of the country. 
           </p>
           <!-- Add your charts or data visualization here -->
         </div>
@@ -40,7 +40,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-6">';
-            generateImageHolder("india_infected_cases","Sirdg ($i).png", "$i-sirdg.html","india_statewise_ird_cases.R.R",1,[1],400,500);
+            generateImageHolder("india_infected_cases","Sirdg ($i).png", "$i-sirdg.html","india_statewise_ird_cases.R",1,[1],400,500);
             echo '</div>';
         }
         ?>

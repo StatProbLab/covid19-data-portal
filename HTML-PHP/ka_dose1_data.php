@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>Vaccination Dose 1</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -21,8 +21,7 @@
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
           <h2>Vaccination Dose 1</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <p>These plots show the progression of the COVID-19 vaccination campaign in terms of the first dose administered. The x-axis represents the dates, giving a timeline of the vaccination rollout, while the y-axis indicates the total number of first dose vaccinations administered.
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

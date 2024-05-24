@@ -27,17 +27,23 @@
       </div>
     </div>
     
-    <div class="container mt-5 mx-auto" style="width: fit-content;">
+    <div class="container mt-5">
       <div class="row">
           <!-- Column for sections -->
-          <div class="col-md-14" style="margin: 0 auto; text-align: center;">
-              <u><h3>Predictions for Various Models</h3></u>
+          <div class="col-md-6">
+
               <div class="list-group" style="padding: 20px;">
-                  <a href="linear_predictions.php" class="list-group-item list-group-item-action">Weekly-Linear Scale</a>
-                  <a href="error.php" class="list-group-item list-group-item-action">Error-Band</a>
-                  <!-- Add more sections as needed -->
+                  <a href="linear_predictions.php" class="list-group-item list-group-item-action">Weekly Linear Scale</a>
+                  <a href="error.php" class="list-group-item list-group-item-action">Error Band</a>
               </div>
           </div>
+          <div class="col-md-6">
+              <div id="graphCanvas">
+                  <!-- Graph will be displayed here -->
+                  <?php generateImageHolder("Prediction_Linear","4-predlin.svg","4-predlin.html","india_active_cases.R",1,[1],400,500)?>
+              </div>
+          </div>
+          <!-- Column for graph -->
       </div>
   
     </div>

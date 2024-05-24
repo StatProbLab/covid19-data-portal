@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doubling Time</title>
+    <title>FOE in India</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome CSS for icons -->
@@ -23,78 +23,27 @@
                     <div class="row">
                         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
                             <h2>Falling off Exponential Growth in India</h2>
-                            <p>Varying numbers of active COVID-19 cases across different states. X axes represents timeline and Y axes represents total number of active cases for each date. Hover on the image to see the annotation options like wiew Plotly
-                                file, download the plot, see R or CSV file.
+                            <p>For more detailed information about these graphs, please visit the <a href="https://www.isibang.ac.in/~athreya/incovid19/fegnotes.php">Falling of Exponential Growth page</a>.
                             </p>
                             <!-- Add your charts or data visualization here -->
                         </div>
                     </div>
                 </div>
 
-                <div class="container mt-5">
-                    <div class="row">
-                        <!-- Column for sections -->
-
-                        <div class="col-md-6 icu-timeline">
-                            <h3>What is FOE Growth?</h3>
-                            <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                            </p>
-                        </div>
-
-                        <!-- Column for graph -->
-                        <div class="col-md-6">
-                            <div id="graphCanvas">
-                                <!-- Graph will be displayed here -->
-                                <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                                <?php generateImageHolder("india_db_time","allindia-timeline.png","allindia-timeline.html","rcode.R",1,[1],400,650)?>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-
-
-
-                <div class="container mt-5">
-                    <div class="row">
-                        <!-- Column for sections -->
-
-                        <div class="col-md-6 icu-timeline">
-                            <h3>All India Doubling Time</h3>
-                            <p>In the above graph the orange line is the number of total tests done daily and the red line is the number of tests found positive daily.
-                            </p>
-                        </div>
-
-                        <!-- Column for graph -->
-                        <div class="col-md-6">
-                            <div id="graphCanvas">
-                                <!-- Graph will be displayed here -->
-                                <!-- <iframe src="../Images/india_db_time/allindia-dt.html" frameborder="0" height="400px" width=650px></iframe> -->
-                                <?php generateImageHolder("india_db_time","allindia-dt.png","allindia-dt.html","rcode.R",1,[1],400,650)?>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-
-
-            </div>
             <div class="container mt-5">
                 <div class="row">
                     <!-- Column for sections -->
 
                     <div class="col-md-12 icu-timeline">
-                        <h3>Falling Of Exponential Growth - States of India</h3>
-                        <p>In Karnataka, the utilization of Intensive Care Units (ICUs) within the district healthcare system has evolved through a dynamic timeline, reflecting a complex interplay of factors. From urban hubs to rural areas, each district
-                            presents its unique challenges and requirements in managing critical care services. Over the years, ICU utilization has shown fluctuations, influenced by diverse variables such as population density, healthcare infrastructure,
-                            and the prevalence of diseases. Seasonal patterns, sudden spikes due to emergencies or epidemics, and gradual increases in demand characterize this timeline.
-                            <a href="india_foe_plots.php" target="_blank">Click here to see the graphs for all districts.</a>
+                        <h3>Falling Of Exponential Growth for States in India</h3>
+                        <p>The "Falling of Exponential Growth for States in India" plot depicts the relationship between the 7-day moving average of case increases and the total number of cases in each state. The x-axis represents the 7-day moving average of new COVID-19 cases, providing a smoothed view of recent trends. The y-axis shows the total number of cases in each state.
+                        Click <a href="india_foe_plots.php" target="_blank">here</a> to see the graphs for all states.
                         </p>
+                        
                     </div>
                 </div>
             </div>
-
+            <br><br>
 
 
 

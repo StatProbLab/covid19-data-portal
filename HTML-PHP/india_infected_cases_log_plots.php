@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>Log Scale - State wise Infected Cases</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,9 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Statewise Infected Cases in Log Scale</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>Log Scale - Infected Cases for States in India</h2>
+          <p>
+This type of plot visualizes the cumulative number of COVID-19 cases across different states in India over time using a logarithmic scale. The x-axis represents the dates, offering a chronological progression, while the y-axis indicates the total number of infected cases. This logarithmic scale allows for a clearer depiction of the exponential growth patterns in infection rates, especially during phases of rapid spread. 
           </p>
           <!-- Add your charts or data visualization here -->
         </div>

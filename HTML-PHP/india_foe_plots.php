@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>State wise FOE</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -20,9 +20,9 @@
    <div class="container mt-5">
       <div class="row">
         <div class="col-md-8 mx-auto text-center jumbotron bg-info text-white">
-          <h2>Doubling Time</h2>
-          <p>As Karnataka's healthcare landscape continues to evolve, the importance of critical care services 
-            has become increasingly evident, driving the need for continuous assessment and enhancement of ICU capabilities. 
+          <h2>State wise Falling of Exponential</h2>
+          <p>The "Falling of Exponential Growth for States in India" plot depicts the relationship between the 7-day moving average of case increases and the total number of cases in each state. The x-axis represents the 7-day moving average of new COVID-19 cases, providing a smoothed view of recent trends. The y-axis shows the total number of cases in each state.
+                       
           </p>
           <!-- Add your charts or data visualization here -->
         </div>
