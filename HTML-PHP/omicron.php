@@ -202,7 +202,10 @@
               <input type="checkbox" id="dropdown4">
                 <label for="dropdown4" class="dropdown-link">South Africa Summary</label>
                 <div class="hidden-content">
-                  
+                <div id="graphCanvas">
+                  <!-- Graph will be displayed here -->
+                  <?php generateImageHolder("SouthAfrica","saum.png","",".R",1,[1],600,1050)?>
+              </div>
                 </div>  
             </li>
 
