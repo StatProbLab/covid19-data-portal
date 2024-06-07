@@ -1,0 +1,31 @@
+"District","Total_Death","Hospitalised","Not_Hospitalised","Ratio_of_Hospitalised","Ratio_of_Not_Hospitalised"
+"Chikkamagaluru",113,105,8,0.929,0.071
+"Yadgiri",179,174,5,0.972,0.028
+"Chitradurga",210,201,9,0.957,0.043
+"Ramanagara",294,286,8,0.973,0.027
+"Kodagu",303,286,17,0.944,0.056
+"Gadag",314,311,3,0.99,0.01
+"Bagalakote",335,305,30,0.91,0.09
+"Bidar",360,349,11,0.969,0.031
+"Raichur",360,357,3,0.992,0.008
+"Chikkaballapura",399,376,23,0.942,0.058
+"Chamarajanagara",408,359,49,0.88,0.12
+"Udupi",413,396,17,0.959,0.041
+"Davanagere",416,412,4,0.99,0.01
+"Vijayapura",506,489,17,0.966,0.034
+"Koppal",519,468,51,0.902,0.098
+"Mandya",534,522,12,0.978,0.022
+"Haveri",589,537,52,0.912,0.088
+"Kolar",609,604,5,0.992,0.008
+"Uttara Kannada",718,617,101,0.859,0.141
+"Kalaburagi",796,742,54,0.932,0.068
+"Bengaluru Rural",867,788,79,0.909,0.091
+"Belagavi",870,836,34,0.961,0.039
+"Hassan",974,915,59,0.939,0.061
+"Shivamogga",1055,1049,6,0.994,0.006
+"Tumakuru",1152,1098,54,0.953,0.047
+"Dharwad",1368,1360,8,0.994,0.006
+"Dakshina Kannada",1544,1534,10,0.994,0.006
+"Ballari",1545,1484,61,0.961,0.039
+"Mysuru",2259,2180,79,0.965,0.035
+"Bengaluru Urban",16502,14586,1916,0.884,0.116

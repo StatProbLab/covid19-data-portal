@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+ <div class="container page"> 
+ <div class="container-fluid">
+ 
+
+<div class="row">
+      <div class="col-sm-12">
+      </div>
+      </div>
+  <div class="row" align=center>
+      <div class="col-sm-12">
+  <br><br>  
+  <h3> <font color=maroon>Decease data analysis</font></h3>
+<!--<a href="./csv/karlastweekR.csv">[Weekly Data in CSV]</a>--><br><br><hr><br>
+<p align="left"> The detailed anaysis of the deceased is done based on the days to decease, days to report, and the place of death. </p> 
+<center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+<br>
+
+<h4>Distribution of Days to Decease(KARNATAKA)</h4>
+<p align="left"> The graph below represents the distribution of days to decease in Karnataka based on the data collected, we separated only the patients who were diagnosed in hospitals and then the difference of admission date and decease date was found for each patient.Then we plot a frequency histogram, that is, for day count, we plot the number of people who survived this many days in the hospital before they were fatal to Covid-19. </p>
+<div class="row">
+ <div class="col-sm-12">
+ <a href="./graphs/daystodecease.html" target=top>   <img src="./graphs/daystodecease.png" style="width:100%"></a>
+   </div>
+</div>
+<p align="left"> By analysing the graph, we can infer that most of deceased patients who occupied hospital beds were dead within day 10,and and the mean line is shown, which is nearly about 6 days.This tells us that fatalities were mostly within 2 weeks after the patient was hospitalised. </p>
+<br><hr><br>
+
+<h4>Scatter plot of Days to Decease(KARNATAKA)</h4>
+<p align="left">While plotting this, we took all districts except Bengaluru Urban.Since Bengaluru Urban had high number of death counts, so to have a better understanding among the other districts we left out Bengaluru urban and carried our analysis. </p>
+<div class="row">
+ <div class="col-sm-12">
+ <a href="./graphs/scat_death.html" target=top>   <img src="./graphs/scat_death.png" style="width:100%"></a>
+   </div>
+</div>
+<p align="left">It is evident from the plot that in almost all the districts, fatalities were within 2 weeks, we see the point reflecting for Mysuru a bit higher in the y-axis because the death count in this district was also comparatively high. </p>
+<br><hr><br>
+
+<h4>Scatter plot of Days to Decease(KARNATAKA)</h4>
+<p align="left"> Scatter plot for all the districts are done here in the following plot.
+</p>
+<div class="row">
+ <div class="col-sm-12">
+ <a href="./graphs/scat_death_blr.html" target=top>   <img src="./graphs/scat_death_blr.png" style="width:100%"></a>
+   </div>
+</div>
+<p align="left">It is evident that Bengaluru Urban is unique because it had high number of death counts.Here to the point are dense very early in the x-axis implying that fatalities were mostly within 2-weeks.
+ </p>
+<br><hr><br>
+
+<h4>Distribution of Days to Report(KARNATAKA)</h4>
+<p align="left"> The graph below represents the distribution of days to report in Karnataka based on the data collected, we calculated the difference of decease date and media bulletin date for each patient and subsequently inferences were drawn. </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/daystoreport.html" target=top>   <img src="./graphs/daystoreport.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left"> By analysing the graph, we can infer that for most of deceased patients, reporting is quick as the histogram slides down very quickly and also the mean line is shown which is nearly 7 days </p>
+<br><hr><br>
+
+<h4>Scatter plot of Days to Report(KARNATAKA)</h4>
+<p align="left">While plotting this, we took all districts except Bengaluru Urban.Since Bengaluru Urban had high number of death counts, so to have a better understanding among the other districts we left out Bengaluru urban and carried our analysis.
+ </p>
+<div class="row">
+ <div class="col-sm-12">
+ <a href="./graphs/scat_death_rep.html" target=top>   <img src="./graphs/scat_death_rep.png" style="width:100%"></a>
+   </div>
+</div>
+<p align="left">From the above plot we observe that in the points are very dense within day 7,i.e,most of the districts reported death within a week.</p>
+<br><hr><br>
+
+<h4>Scatter plot of Days to Report(KARNATAKA)</h4>
+<p align="left"> Scatter plot for all the districts are done. 
+ </p>
+<div class="row">
+ <div class="col-sm-12">
+ <a href="./graphs/scat_death_rep_blr.html" target=top>   <img src="./graphs/scat_death_rep_blr.png" style="width:100%"></a>
+   </div>
+</div>
+<p align="left"> Bengaluru Urban is different from the rest as it had high death counts.
+ </p>
+<br><hr><br>
+
+<h4>Barplot of Place of Death</h4>
+<p align="left"> The graph below represents the Barplot of Place of Death in Karnataka based on the data collected.All the deceased patients were categorically divided into the following categories and then calculations were done</p>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/Deathplot.html" target=top>   <img src="./graphs/Deathplot.png" style="width:100%"></a>
+</div>
+  </div>
+<p align="left">For district wise bar plots. </p>
+<tr><td></td><td><a href="./graphs/test_place.html">District-wise bar plots<a>
+</div>
+</div>
+<p align="left"> By analysing the graph, we can infer that most of the patients were actually diagnosed in hospitals before they were fatal to covid-19. </p>
+<br><hr><br>
+
+<h4>Barplot of Place of Death(District wise)</h4>
+<p align="left"> The graph below represents the Barplot of Place of Death(District wise) in Karnataka based on the data collected. </p>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/dist.wise_place.html" target=top>   <img src="./graphs/dist.wise_place.png" style="width:100%"></a>
+  </div>
+  </div>
+<p align="left"> By analysing the graph, we can infer that most of the patients were actually diagnosed in hospitals before death.But Bengaluru urban shows a peak in death count in hospitals. </p>
+<br><hr><br>
+
+<h4>Analysing Wave-Wise</h4>
+<p align="left"> The entire data collected has been analysed wave wise to get a better understanding of the impact of Covid-19 and the nature of victims. </p>
+<ul align="left">
+  <li>Wave 1 - till the end of October 2020</li>
+  <li>Wave 2 - till the end of January 2021 till present</li>
+</ul>
+<br><hr><br>
+
+<h4>Distribution of Days to Decease(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the distribution of days to decease(wave-wise) in Karnataka based on the data collected. </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/daystodecease_wavewise.html" target=top>   <img src="./graphs/daystodecease_wavewise.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left">The trend in both the wave is almost similar but since Wave 2 had more death counts, it is also evident here in the frequencies </p>
+
+<p align="left">For district wise analysis. </p>
+<tr><td></td><td><a href="./graphs/test_decease.html">District-wise plots<a>
+  </div>
+</div>
+<br><hr><br>
+
+<h4>Distribution of Days to Report(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the distribution of days to report(wave-wise) in Karnataka based on the data collected. </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/daystoreport_wave.html" target=top>   <img src="./graphs/daystoreport_wave.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left">Both wave shows similar trend but the counts in wave 2 is high because of high number of death counts. </p>
+<p align="left">For district wise analysis. </p>
+<tr><td></td><td><a href="./graphs/test_rep.html">District-wise plots<a>
+  </div>
+</div>
+<br><hr><br>
+
+<h4>Confidence Interval for Days to Decease(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the confidence interval for days to decease(wave-wise) in Karnataka based on the data collected.First,the NA's,and Others in the district column were omitted, then 95% t-interval around the mean is calculated and plotted below. </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ci_t_wavewise_decease.html" target=top>   <img src="./graphs/ci_t_wavewise_decease.png" style="width:100%"></a>
+<p align="left">. </p>
+</div>
+</div>
+<br><hr><br>
+
+<h4>Confidence Interval for Days to Report(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the confidence interval for days to report(wave-wise) in Karnataka based on the data collected.First,the NA's,and Others in the district column were omitted, then 95% t-interval around the mean is calculated and plotted below. </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ci_t_report_wave.html" target=top>   <img src="./graphs/ci_t_report_wave.png" style="width:100%"></a>
+  </div>
+  </div>
+<p align="left">It is evident from the confidence interval that in terms of reporting deaths,Vijayapura,Dharwad,and Raichur are poor performing districts as the intervals are far towards right concluding high mean value and also in the case of Raichur ,it shows a bigger interval. </p>
+  </div>
+  </div>
+<br><hr><br>
+
+<h4>Box-Plot for Days to Decease</h4>
+<p align="left"> The graph below represents the Box-plot for days to decease in Karnataka(District-wise) based on the data collected.All District shows similar trend.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/box_decease.html" target=top>   <img src="./graphs/box_decease.png" style="width:100%"></a>
+  </div>
+  </div>
+<br><hr><br>
+
+<h4>Box-Plot for Days to Report</h4>
+<p align="left"> The graph below represents the Box-plot for days to report in Karnataka(District-wise) based on the data collected.All show similarity only Bengaluru Urban,Dharwad,Raichur shows high interquartile range, also Bengaluru urban has high amount of outliers.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/box_rep.html" target=top>   <img src="./graphs/box_rep.png" style="width:100%"></a>
+  </div>
+  </div>
+<br><hr><br>
+
+<h4>Barplot of Place of Death(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the Barplot of Place of Death(wave-wise) in Karnataka based on the data collected.We first separated the deceased with respect to wave and then analyse the counts of death </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/placeofdeath_wave.html" target=top>   <img src="./graphs/placeofdeath_wave.png" style="width:100%"></a>
+</div>
+  </div>
+<p align="left"> By analysing the graph, we can infer that the counts in wave-2 are higher because of the higher number of fatalities. </p>
+<br><hr><br>
+
+
+
+<h4>Scatter plot of Districts</h4>
+<p align="left"> The graph below represents the scatter plot of districts  in Karnataka based on the data collected.Here we take the ratio of patients hospitalised on one axis and plot a scatter plot with total deaths on the other.(Bengaluru Urban is left out for this plot as it had a high amount of death with respect to other districts) </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/scatter_place.html" target=top>   <img src="./graphs/scatter_place.png" style="width:100%"></a>
+  </div>
+  </div>
+<p align="left"> By analysing the graph, we conclude that most of the districts did well in hospitalising patients.Since most of the districts are above the .95 mark, but two districts namely Uttara Kannada and Chamarajanagara performed poor in this regard as they are below the .90 mark and Uttara Kannada has the worst ratio. </p>
+<br><hr><br>
+
+
+<h4>Scatter plot of Districts</h4>
+<p align="left"> The graph below represents the scatter plot of districts(separated on the basis of the number of Total Decease Count)  in Karnataka based on the data collected.For a clearer understanding we divided the earlier plot into subparts </p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/scatter_place_500.html" target=top>   <img src="./graphs/scatter_place_500.png" style="width:100%"></a>
+  </div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/scatter_place_1500.html" target=top>   <img src="./graphs/scatter_place_1500.png" style="width:100%"></a>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/scatter_placebig.html" target=top>   <img src="./graphs/scatter_placebig.png" style="width:100%"></a>
+</div>
+</div>
+<p align="left"> By analysing the graph, no such particular trend is observed as total deaths went on increasing, but it is clear that in the districts with total death counts lesser than 500,there most of the districts are above .95 mark(Chamarajanagara is an exceptions it drops below .90), similar is for the districts with total death counts with 500 to 1000,but there Uttara Kannada is a poor performing district, because death count there is also within 750,but with respect to Hospitalisation Ratio,it is just near to .85</p>
+<br><hr><br>
+
+  
+<footer class="container-fluid text-left">
+<div class="row">
+  <div class="col-sm-12">
+    <hr><br>
+<!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karn urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+<!-- <br><br>  -->
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 
+ 

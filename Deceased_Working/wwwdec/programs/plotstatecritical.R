@@ -1,0 +1,72 @@
+###############################################################################
+## Title:  Analyzing and Predicting Cases Across Indian States               ##
+## Input: Multiple files                                                     ##
+## Output: csv/statecritical.csv                                             ##
+## Date Modified: 21st May 2024                                              ##
+###############################################################################
+
+# Set current working directory
+setwd("/opt/lampp/htdocs/covid19-data-portal/Deceased_Working/wwwdec/")
+
+#include Libraries
+library(readxl)
+library(readr)
+library(ggplot2)
+library(plotly)
+library(readxl)
+library(gridExtra)
+library(grid)
+library(dplyr)
+library(lubridate)
+library(viridis)
+library(ggpubr)
+library(padr)
+library(tidyverse)
+library(maps)
+library(mapproj)
+
+###
+#Read all data
+df1<- read_csv("csv/statecritical/1-statedaystocritical.csv")
+df2<- read_csv("csv/statecritical/2-statedaystocritical.csv")
+df3<- read_csv("csv/statecritical/3-statedaystocritical.csv")
+df4<- read_csv("csv/statecritical/4-statedaystocritical.csv")
+df5<- read_csv("csv/statecritical/5-statedaystocritical.csv")
+df6<- read_csv("csv/statecritical/6-statedaystocritical.csv")
+df7<- read_csv("csv/statecritical/7-statedaystocritical.csv")
+df8<- read_csv("csv/statecritical/8-statedaystocritical.csv")
+df9<- read_csv("csv/statecritical/9-statedaystocritical.csv")
+df10<- read_csv("csv/statecritical/10-statedaystocritical.csv")
+df11<- read_csv("csv/statecritical/11-statedaystocritical.csv")
+df12<- read_csv("csv/statecritical/12-statedaystocritical.csv")
+df13<- read_csv("csv/statecritical/13-statedaystocritical.csv")
+df14<- read_csv("csv/statecritical/14-statedaystocritical.csv")
+df15<- read_csv("csv/statecritical/15-statedaystocritical.csv")
+df16<- read_csv("csv/statecritical/16-statedaystocritical.csv")
+df17<- read_csv("csv/statecritical/17-statedaystocritical.csv")
+df18<- read_csv("csv/statecritical/18-statedaystocritical.csv")
+df19<- read_csv("csv/statecritical/19-statedaystocritical.csv")
+df20<- read_csv("csv/statecritical/20-statedaystocritical.csv")
+df21<- read_csv("csv/statecritical/21-statedaystocritical.csv")
+df22<- read_csv("csv/statecritical/22-statedaystocritical.csv")
+df23<- read_csv("csv/statecritical/23-statedaystocritical.csv")
+df24<- read_csv("csv/statecritical/24-statedaystocritical.csv")
+df25<- read_csv("csv/statecritical/25-statedaystocritical.csv")
+df26<- read_csv("csv/statecritical/26-statedaystocritical.csv")
+df27<- read_csv("csv/statecritical/27-statedaystocritical.csv")
+df28<- read_csv("csv/statecritical/28-statedaystocritical.csv")
+df29<- read_csv("csv/statecritical/29-statedaystocritical.csv")
+df30<- read_csv("csv/statecritical/30-statedaystocritical.csv")
+df31<- read_csv("csv/statecritical/31-statedaystocritical.csv")
+df32<- read_csv("csv/statecritical/32-statedaystocritical.csv")
+df33<- read_csv("csv/statecritical/33-statedaystocritical.csv")
+df34<- read_csv("csv/statecritical/34-statedaystocritical.csv")
+df35<- read_csv("csv/statecritical/35-statedaystocritical.csv")
+df36<- read_csv("csv/statecritical/36-statedaystocritical.csv")
+
+df=rbind(df1,df2,df3,df4,df5,df6,df7,df8,df9,df10,df11,df12,df13,df14,df15,df16,df17,df18,df19,df20,df21,df22,df23,df24,df25,df26,df27,df28,df29,df30,df31,df32,df33,df34,df35,df36)
+names(df) <- c("State","Date","Current Active Cases","Growth Rate(lamda-t)","Days to 50 Active cases per million population","Days to 1000 Active cases per million population","Days to 1500 Active cases per million population","Days to 0.2% of population Active cases","Population as on 2011","Projected Population-2020 ","Population-50 per million","Population-1000 per million","Population-1500 per million","0.2% of population")
+
+###save
+write.csv(x=df,file="csv/statecritical.csv",row.names = FALSE)
+

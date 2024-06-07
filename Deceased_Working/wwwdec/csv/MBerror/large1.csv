@@ -1,0 +1,16 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+2216,"Gadag","25320",53,"Female","Contact under tracing","-","DM, HTN","2020-05-07","2020-07-30","2020-07-31",NA,84,1
+16220,"Bengaluru Urban","1592498",78,"Male","SARI","Fever, Cough, Breathlessness","-","2021-01-05","2021-05-03","2021-05-03",NA,118,0
+16231,"Mysuru","1614151",69,"Male","SARI","Fever, cough, breathlessness","CVA","2021-01-05","2021-05-01","2021-05-03",NA,116,2
+16233,"Mysuru","1625519",58,"Male","SARI","Fever, cough, breathlessness","DM","2021-02-05","2021-05-03","2021-05-03",NA,87,0
+25745,"Shivamogga","2411600",50,"Male","ILI","Fever, Cough","-","2021-03-21","2021-05-23","2021-05-24",NA,63,1
+36329,"Gadag","2931875",49,"Female","SARI","Fever, Cough, Breathlessness","-","2021-04-30","2021-07-20","2021-07-23",NA,81,3
+36783,"Haveri","2725151",57,"Female","ILI","Fever, Cough","-","2021-06-03","2021-08-04","2021-08-09",NA,62,5
+36836,"Chitradurga","2787035",55,"Female","ILI","Fever","-","2021-06-09","2021-08-11","2021-08-11",NA,63,0
+36863,"Chitradurga","100000422",50,"Male","SARI","Breathlessness","-","2021-05-24","2021-08-11","2021-08-11",NA,79,0
+36867,"Chitradurga","1653258",55,"Male","ILI","Fever, Cough","-","2021-05-02","2021-08-12","2021-08-12",NA,102,0
+36868,"Chitradurga","2039618",75,"Male","SARI","Fever, Cough, Breathlessness","-","2021-05-22","2021-08-12","2021-08-12",NA,82,0
+36898,"Chitradurga","2625212",67,"Male","SARI","Fever, Cough, Breathlessness","-","2021-06-01","2021-08-13","2021-08-13",NA,73,0
+36899,"Chitradurga","2634540",62,"Male","ILI","Fever, Cough","-","2021-06-01","2021-08-13","2021-08-13",NA,73,0
+37890,"Mysuru","3021782",80,"Male","SARI","Fever, cough, breathlessness","DM, HTN","2021-01-06","2021-10-13","2021-10-17",NA,280,4
+40070,"Dharwad","4097180",22,"MALE","ILI","Fever","AKI","2022-06-14","2022-08-23","2022-08-28",NA,70,5

@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+   footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+  <div class="container page"> 
+    <div class="container-fluid">
+      <div class="row">
+	<div class="col-sm-12">
+	  <br><br>  
+	  <h3> <font color=maroon>Decease data Csv files</font></h3>
+	  <!--<a href="./csv/karlastweekR.csv">[Weekly Data in CSV]</a>--><br><br><hr><br>
+	  <p align="left"> The detailed anaysis of the deceased is done based on the days to decease, days to report, and the place of death. </p> 
+	  <center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+	  <br>
+
+	  <b>Days to Decease(KARNATAKA)DONE</b>
+<p align="left">From the media bulletin, we took the difference between the date of decease and admission date and call the difference as days to decease.The csv file conatains:</p>
+	    <ol type="A" align="left">
+	    <li>The patient id,
+	    <li>Name of District,
+	    <li>Date of Admission,
+	    <li>Date of Decease,
+	    <li>The days to decease being the difference between the dates mentioned in third and second column.
+	      </ol>
+	  <a href="./csv/Days_to_Deceasecount.csv">Data</a>
+	  <br><hr><br>
+	  
+	  <h4>Days to Report(KARNATAKA)DONE</h4>
+	  <p align="left">From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>The patient id,
+	    <li>Name of District,
+	    <li>Date of Decease,
+	    <li>Date of Report,
+	    <li>The days to report being the difference between the dates mentioned in third and second column.	  
+</ol>
+
+	  <a href="./csv/Days_to_reportcount.csv">Data</a>
+
+
+
+	  <h4>Place of Death(District wise)</h4>
+	  <p align="left">As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead,or died at residence.
+	  The column has data on districts rowise:
+	  <ol type="A" align="left">
+	    <li> Name of District. </li>
+	    <li> Total Deaths.  </li>
+	    <li> Total deceased patients who were hospitalised. </li>
+	    <li> Total deceased patients who were brought dead. </li>
+	    <li> Total deceased patients who died at residence. </li>
+	    <li> Percentage of the deceased patients hospitalised. </li>
+	    <li> Percentage of the deceased patients brought dead. </li>
+	    <li> Percentage of the deceased patients who died at residence. </li>
+	  </ol>
+	  <a href="./csv/req_dist_bar_ord.csv">Data</a>
+
+
+	  <h4>Days to Decease(Wave-1 vs Wave-2)</h4>
+	  <p align="left">From the media bulletin, we take difference of the admission date and the date of decease for each deceased patient who was hospitalised and call the difference as days to decease.We then take the death counts across district wave-wise.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li> Name of District, </li>
+	    <li> Total deceased patient in wave 1, </li>
+	    <li> Total deceased patient in wave 2, </li>
+	    <li> t-value for total death in wave-1, </li>
+	    <li> t-value for total death in wave-2, </li>
+	    <li> Mean of days to decease in wave 1, </li>
+	    <li> Mean of days to decease in wave 2, </li>
+	    <li> Variance of days to decease in wave 1, </li>
+	    <li> Variance of days to decease in wave 2, </li>
+	    <li> Standard deviation of days to decease in wave 1, </li>
+	    <li> Standard deviation of days to decease in wave 2. </li>
+	  </ol>
+
+	  <a href="./csv/conf_w_days_ord.csv">Data</a>
+	  <br><hr><br>
+
+
+	  <h4>Days to Report(Wave-1 vs Wave-2)</h4>
+	  <p align="left"> >From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.We then take the death counts across district wave-wise.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Name of District,</li>
+	    <li>Total deceased patient in wave 1,</li>
+	    <li>Total deceased patient in wave 2,</li>
+	    <li>t-value for total death in wave-1,</li>
+	    <li>t-value for total death in wave-2, </li>
+	    <li>Mean of days to report in wave 1,</li>
+	    <li>Mean of days to report in wave 2,</li>
+	    <li>Variance of days to report in wave 1,</li>
+	    <li>Variance of days to report in wave 2,</li>
+	    <li>Standard deviation of days to report in wave 1,</li>
+	    <li>Standard deviation of days to report in wave 2,</li>
+	  </ol>
+
+	  <a href="./csv/conf_w_rep_ord.csv">Data</a>
+
+
+	  <h4>District-wise Hospitalisation Rate (DONE).</h4>
+	  <p align="left">As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead,or died at residence.In the data file, for each individual district, we provide the count of total death, total deceased patients who were hospitalised, and deceased patients who were not hospitalised, that is, we added the deceased who were either brought dead or died at residence.Then we also calculate the ratio of hospitalisation and the ratio of unhospitalised patients and the values are listed in individual column of the csv file attached.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Name of District,</li>
+	    <li>Total deceased patients,</li>
+	    <li>Total deceased patients who were hospitalised,</li>
+	    <li>Total deceased patients who were not-hospitalised,</li>
+	    <li>Ratio of hospitalisation,</li>
+	    <li>Ratio of un-hospitalised deceased patients.</li>
+	  </ol>
+
+	  <a href="./csv/req_dist_scat_ord.csv">Data</a>
+
+	  <h4>Age-Gender Wise Days to Decease.</h4>
+	  <p align="left">From the media bulletin, we took the difference between the date of decease and admission date and call the difference as days to decease.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to decease.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Age-Gender Category,</li>
+	    <li>Total deceased patients,</li>
+	    <li>t-value of Total deceased patients,</li>
+	    <li>Mean Days to decease,</li>
+	    <li>Variance of Days to decease,</li>
+	    <li>Standard deviation of Days to decease,</li>
+	    <li>Gender.</li>
+	  </ol>
+
+	  <a href="./csv/age_ag_days_new.csv">Data</a>
+
+
+	  <h4>Age-Gender Wise Days to Report.</h4>
+	  <p align="left">From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to report.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Age-Gender Category,</li>
+	    <li>Total deceased patients,</li>
+	    <li>t-value of Total deceased patients,</li>
+	    <li>Mean Days to Report,</li>
+	    <li>Variance of Days to Report,</li>
+	    <li>Standard deviation of Days to Report,</li>
+	    <li>Gender.</li>
+	  </ol>
+
+	  <a href="./csv/age_ag_rep_new.csv">Data</a>
+
+	  <h4>Wave-wise hospitalisation ration across districts.</h4>
+	  <p align="left">As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead,or died at residence.In the data file, for each individual district, we first categorise the deaths into waves, and we provide the count of total death, total deceased patients who were hospitalised, and deceased patients who were not hospitalised, that is, we added the deceased who were either brought dead or died at residence.Then we also calculate the ratio of hospitalisation and the ratio of unhospitalised patients and the values are listed in individual column of the csv file attached.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Name of District,</li>
+	    <li>Total deceased patients in wave-1,</li>
+	    <li>Total deceased patients hospitalised in wave-1,</li>
+	    <li>Hospitalisation Ratio in wave-1,</li>
+	    <li>Total deceased patients in wave-2,</li>
+	    <li>Total deceased patients hospitalised in wave-2,</li>
+	    <li>Hospitalisation Ratio in wave-2,</li>
+	  </ol>
+
+	  <a href="./csv/wave_ratio.csv">Data</a>
+
+
+	  <h4>Karnataka Districts Days to critical.</h4>
+	  <p align="left">.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Name of District,</li>
+	    <li>Date,</li>
+	    <li>Current Active Cases,</li>
+	    <li>Rate(lamda-t),</li>
+	    <li>Days to 50 per million cases of total population,</li>
+	    <li>Days to 1000 per million cases of total population,</li>
+	    <li>Days to 1500 per million cases of total population,</li>
+	    <li>Days to 0.2% of population cases,</li>
+	    <li>Population as on 2011,</li>
+	    <li>Projected Population-2020,</li>
+	    <li>Population-50 per million,</li>
+	    <li>Population-1000 per million,</li>
+	    <li>Population-1500 per million,</li>
+	    <li>0.2% of total population,</li>
+           </ol>
+
+	  <a href="./csv/critical.csv">Data</a>
+
+
+
+
+	
+          <h4>Indian States Days to critical.</h4>
+	  <p align="left">.</p>
+	  The column has data on:
+	  <ol type="A" align="left">
+	    <li>Name of State,</li>
+	    <li>Date,</li>
+	    <li>Current Active Cases,</li>
+	    <li>Rate(lamda-t),</li>
+	    <li>Days to 50 per million cases of total population,</li>
+	    <li>Days to 1000 per million cases of total population,</li>
+	    <li>Days to 1500 per million cases of total population,</li>
+	    <li>Days to 0.2% of population cases,</li>
+	    <li>Population as on 2011,</li>
+	    <li>Projected Population-2020,</li>
+	    <li>Population-50 per million,</li>
+	    <li>Population-1000 per million,</li>
+	    <li>Population-1500 per million,</li>
+	    <li>0.2% of total population,</li>
+           </ol>
+
+	  <a href="./csv/statecritical.csv">Data</a>
+
+
+
+
+
+
+	  <h4>District timeline</h4>
+	  <p align="left">[link.csv]:</p>
+	  <ol type="A" align="left">
+	    <li>The first column represents the file name of the state or union territory.</li>
+	    <li>The second column represents the state or union territory code.</li>
+	    <li>The third column represents the name of the state or union territory.</li>
+	  </ol>
+	  <p align="left">The file corresponding to every individual row of the above file have data on: [linkdirectory.csv] </p>
+	  <ol type="A" align="left">
+	    <li>The first column represents the district code for the state or union territory.</li>
+	    <li>The second column have rows that correspond to date of the data collected.</li>
+	    <li>The third column provides the total number of infected on that day.</li>
+	    <li>The fourth column provides the total number of patients recovered on that day.</li>
+	    <li>The fifth column provides the total number of deceased on that day.</li>
+	  </ol>
+
+	  
+
+	  
+	  <br><br>
+
+	</div>
+      </div>
+<footer class="container-fluid text-left">
+  <div class="row">
+    <div class="col-sm-12">
+      <hr><br>
+      <!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karn urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+      <!-- <br><br>  -->
+    </div>
+  </div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 
+ 

@@ -1,0 +1,492 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+673,"Chamarajanagara",36222,58,"Male","SARI","Breathlessness","-",2020-07-08,2020-07-11,2020-07-12,NA
+759,"Chamarajanagara",25133,64,"Male","Contact of P-18548","Cough & Breathlessness","IHD, DM",2020-07-06,2020-07-13,2020-07-14,NA
+818,"Chamarajanagara",41662,65,"Male","SARI","Cough & Breathlessness","-",2020-07-12,2020-07-12,2020-07-14,NA
+1416,"Chamarajanagara",63490,65,"Male","SARI","Cough & Breathlessness","HTN, COPD",2020-07-17,2020-07-19,2020-07-21,NA
+1501,"Chamarajanagara",76276,80,"Male","Contact under tracing","-","HTN",NA,2020-07-20,2020-07-22,"Brought dead"
+1647,"Chamarajanagara",68102,58,"Male","SARI","Breathlessness","DM, COPD",2020-07-13,2020-07-22,2020-07-24,NA
+2262,"Chamarajanagara",103179,48,"Female","ILI","Fever","-",2020-07-26,2020-07-29,2020-07-31,NA
+2414,"Chamarajanagara",90652,55,"Female","SARI","Breathlessness","HTN",2020-07-23,2020-08-01,2020-08-02,NA
+2473,"Chamarajanagara",135175,54,"Female","SARI","Fever & Cough","DM, HTN",NA,2020-08-01,2020-08-02,"Died at her residence"
+2571,"Chamarajanagara",140635,55,"Female","SARI","Breathlessness","DM, HTN",2020-08-01,2020-08-02,2020-08-03,NA
+2659,"Chamarajanagara",134876,64,"Male","Contact under tracing","-","DM, HTN, CKD",2020-08-01,2020-08-01,2020-08-04,NA
+2666,"Chamarajanagara",140674,65,"Male","ILI","-","DM",2020-08-01,2020-08-02,2020-08-04,NA
+2672,"Chamarajanagara",142674,57,"Female","SARI","Breathlessness","-",2020-08-01,2020-08-02,2020-08-04,NA
+2819,"Chamarajanagara",118195,72,"Male","Contact under tracing","-","-",2020-07-29,2020-08-05,2020-08-06,NA
+2984,"Chamarajanagara",171625,55,"Male","ILI","-","CA",NA,2020-08-06,2020-08-07,"Died at his residence"
+3056,"Chamarajanagara",159849,40,"Female","ILI","Fever","-",2020-08-04,2020-08-07,2020-08-08,NA
+3060,"Chamarajanagara",164939,60,"Male","Contact under tracing","-","-",2020-08-06,2020-08-08,2020-08-08,NA
+3075,"Chamarajanagara",174266,75,"Male","Contact under tracing","-","DM, HTN",2020-08-04,2020-08-06,2020-08-08,NA
+3154,"Chamarajanagara",171635,48,"Male","ILI","-","-",2020-08-06,2020-08-09,2020-08-09,NA
+3170,"Chamarajanagara",175825,55,"Female","ILI","Fever","DM, HTN",2020-08-07,2020-08-09,2020-08-09,NA
+3249,"Chamarajanagara",160650,68,"Male","ILI","-","DM, HTN",2020-08-05,2020-08-10,2020-08-10,NA
+3377,"Chamarajanagara",189252,38,"Male","SARI","Cough","-",2020-08-09,2020-08-09,2020-08-11,NA
+3426,"Chamarajanagara",144439,80,"Male","ILI","-","DM, HTN",2020-08-04,2020-08-11,2020-08-12,NA
+3473,"Chamarajanagara",189253,69,"Male","Contact under tracing","-","-",2020-08-08,2020-08-12,2020-08-12,NA
+3487,"Chamarajanagara",196412,70,"Male","ILI","-","DM, HTN",2020-08-09,2020-08-10,2020-08-12,NA
+3529,"Chamarajanagara",135728,56,"Male","ILI","-","DM",2020-07-30,2020-08-13,2020-08-13,NA
+3641,"Chamarajanagara",135134,68,"Male","SARI","Breathlessness","DM, HTN",2020-07-31,2020-08-13,2020-08-14,NA
+3694,"Chamarajanagara",206844,64,"Female","Contact under tracing","-","DM, HTN, CKD",NA,2020-08-12,2020-08-14,"Died at her residence"
+3798,"Chamarajanagara",214660,55,"Male","Contact under tracing","-","IHD",2020-08-12,2020-08-13,2020-08-15,NA
+4169,"Chamarajanagara",229176,60,"Male","Contact under tracing","-","DM",2020-08-14,2020-08-14,2020-08-18,NA
+4369,"Chamarajanagara",221706,65,"Male","ILI","Breathlessness","DM",2020-08-14,2020-08-19,2020-08-20,NA
+4384,"Chamarajanagara",236201,60,"Female","-","Fever, Breathlessness","-",2020-08-14,2020-08-19,2020-08-20,NA
+4574,"Chamarajanagara",249685,85,"Male","Contact of P- 187818","Fever, Cough, Breathlessness","-",2020-08-17,2020-08-20,2020-08-22,NA
+4578,"Chamarajanagara",251355,68,"Female","SARI","Breathlessness","DM, HTN",2020-08-18,2020-08-21,2020-08-22,NA
+4647,"Chamarajanagara",250005,60,"Male","Returne e from Tamil Nadu","Breathlessness","DM, HTN",2020-08-17,2020-08-23,2020-08-23,NA
+4745,"Chamarajanagara",249684,65,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-16,2020-08-23,2020-08-24,NA
+4785,"Chamarajanagara",277305,60,"Female","Contact under tracing","-","-",2020-08-20,2020-08-23,2020-08-24,NA
+4840,"Chamarajanagara",220327,55,"Male","Contact of P- 222973","Fever, Cough, Breathlessness","HTN",2020-08-12,2020-08-25,2020-08-25,NA
+4893,"Chamarajanagara",249699,60,"Female","SARI","Breathlessness","-",2020-08-17,2020-08-25,2020-08-25,NA
+4959,"Chamarajanagara",144404,55,"Female","Contact under tracing","-","-",NA,2020-08-02,2020-08-26,"Brought dead"
+5077,"Chamarajanagara",295756,70,"Male","ILI","Fever","DM, HTN",2020-08-24,2020-08-25,2020-08-26,NA
+5176,"Chamarajanagara",269903,50,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-08-19,2020-08-26,2020-08-27,NA
+5193,"Chamarajanagara",288407,70,"Female","Contact under tracing","-","HTN, IHD",NA,2020-08-23,2020-08-27,"Brought dead"
+5212,"Chamarajanagara",303762,60,"Female","Contact under tracing","-","HTN, CVA",2020-08-24,2020-08-25,2020-08-27,NA
+5565,"Chamarajanagara",324390,48,"Male","Contact under tracing","-","DM",NA,2020-08-27,2020-08-30,"Brought dead"
+5606,"Chamarajanagara",257887,48,"Male","SARI","Fever, Cough","-",2020-08-16,2020-08-31,2020-08-31,NA
+5680,"Chamarajanagara",338131,82,"Male","Contact under tracing","-","DM",2020-08-28,2020-08-30,2020-08-31,NA
+5799,"Chamarajanagara",337062,30,"Male","ILI","Fever, Cough","-",2020-08-28,2020-08-31,2020-09-01,NA
+5938,"Chamarajanagara",360082,85,"Male","Contact under tracing","Breathlessness","DM, HTN, IHD, CKD",2020-08-31,2020-08-31,2020-09-02,NA
+6146,"Chamarajanagara",371188,67,"Male","Contact under tracing","Fever","-",NA,2020-09-02,2020-09-04,"Brought dead"
+6193,"Chamarajanagara",302489,70,"Male","ILI","Fever","DM, HTN",2020-08-25,2020-09-05,2020-09-05,NA
+6212,"Chamarajanagara",328561,60,"Male","ILI","Fever","-",2020-08-27,2020-09-05,2020-09-05,NA
+6252,"Chamarajanagara",362531,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-01,2020-09-04,2020-09-05,NA
+6510,"Chamarajanagara",394257,41,"Male","SARI","Breathlessness","DM",2020-09-04,2020-09-06,2020-09-07,NA
+6611,"Chamarajanagara",371196,54,"Male","ILI","Fever, Cough","DM, HTN",2020-09-02,2020-09-07,2020-09-08,NA
+6668,"Chamarajanagara",413242,49,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-06,2020-09-06,2020-09-08,NA
+6792,"Chamarajanagara",417210,60,"Male","SARI","Breathlessness","DM, HTN",2020-09-06,2020-09-08,2020-09-09,NA
+7056,"Chamarajanagara",442767,70,"Male","SARI","Breathlessness","DM, HTN",2020-09-09,2020-09-11,2020-09-11,NA
+7057,"Chamarajanagara",442779,85,"Male","SARI","Breathlessness","-",2020-09-09,2020-09-10,2020-09-11,NA
+7058,"Chamarajanagara",442786,70,"Female","SARI","Breathlessness","HTN",2020-09-09,2020-09-10,2020-09-11,NA
+7060,"Chamarajanagara",444438,72,"Male","SARI","Breathlessness","-",NA,2020-09-10,2020-09-11,"Brought dead"
+7120,"Chamarajanagara",400534,87,"Female","SARI","Breathlessness","DM, HTN",2020-09-05,2020-09-11,2020-09-12,NA
+7146,"Chamarajanagara",435011,57,"Female","SARI","Breathlessness","DM, HTN",2020-09-08,2020-09-12,2020-09-12,NA
+7365,"Chamarajanagara",464208,63,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",NA,2020-09-12,2020-09-14,"Brought dead"
+7370,"Chamarajanagara",469321,63,"Male","Contact under tracing","Fever, Cough","-",2020-09-12,2020-09-14,2020-09-14,NA
+7472,"Chamarajanagara",476997,41,"Male","Contact under tracing","Fever, Cough","-",NA,2020-09-13,2020-09-15,"Brought dead"
+7475,"Chamarajanagara",482255,52,"Male","Contact under tracing","-","IHD, CLD",2020-09-14,2020-09-14,2020-09-15,NA
+7831,"Chamarajanagara",409033,65,"Male","Contact under tracing","-","HTN, CKD",NA,2020-09-13,2020-09-19,"Died at his residence"
+7877,"Chamarajanagara",458424,57,"Female","Contact under tracing","Breathlessness","-",2020-09-11,2020-09-16,2020-09-19,NA
+7878,"Chamarajanagara",464220,39,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-12,2020-09-16,2020-09-19,NA
+7894,"Chamarajanagara",482256,58,"Male","Contact under tracing","Breathlessness","DM",2020-09-12,2020-09-12,2020-09-19,NA
+7914,"Chamarajanagara",505601,73,"Male","Contact under tracing","-","DM, HTN",2020-09-16,2020-09-16,2020-09-19,NA
+7920,"Chamarajanagara",512072,63,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-17,2020-09-18,2020-09-19,NA
+7929,"Chamarajanagara",519210,72,"Male","Contact under tracing","-","-",2020-09-17,2020-09-18,2020-09-19,NA
+8066,"Chamarajanagara",464213,65,"Male","SARI","Breathlessness","DM",2020-09-11,2020-09-19,2020-09-21,NA
+8122,"Chamarajanagara",509949,70,"Male","SARI","Breathlessness","HTN, COPD",2020-09-16,2020-09-17,2020-09-21,NA
+8146,"Chamarajanagara",532582,52,"Male","Contact Under Tracing","-","HTN, CA",2020-09-18,2020-09-19,2020-09-21,NA
+8150,"Chamarajanagara",535458,65,"Male","SARI","Breathlessness","DM",2020-09-20,2020-09-20,2020-09-21,NA
+8236,"Chamarajanagara",541247,58,"Male","Contact under tracing","-","HTN",2020-09-19,2020-09-21,2020-09-22,NA
+8329,"Chamarajanagara",541510,60,"Male","ILI","Fever, Cough","-",2020-09-22,2020-09-23,2020-09-24,NA
+8333,"Chamarajanagara",545745,82,"Male","Contac t under tracing","-","DM, HTN",2020-09-21,2020-09-22,2020-09-24,NA
+8356,"Chamarajanagara",399394,75,"Male","ILI","Fever, Cough","HTN",2020-09-06,2020-09-23,2020-09-25,NA
+8619,"Chamarajanagara",541907,41,"Female","Contact under tracing","-","CKD",NA,2020-09-25,2020-09-28,"Died at her residence"
+8729,"Chamarajanagara",513321,62,"Male","ILI","Fever, Cough","DM",2020-09-17,2020-09-27,2020-09-29,NA
+8783,"Chamarajanagara",593563,70,"Female","Contact under tracing","-","IHD",2020-09-26,2020-09-27,2020-09-29,NA
+8792,"Chamarajanagara",425126,80,"Female","ILI","Fever","DM, HTN",2020-09-08,2020-09-28,2020-09-30,NA
+8834,"Chamarajanagara",559470,55,"Male","ILI","Fever","-",2020-09-22,2020-09-29,2020-09-30,NA
+8858,"Chamarajanagara",586549,60,"Male","SARI","Breathlessness","-",2020-09-25,2020-09-28,2020-09-30,NA
+8870,"Chamarajanagara",600548,52,"Male","SARI","Breathlessness","DM, HTN",2020-09-28,2020-09-28,2020-09-30,NA
+8987,"Chamarajanagara",590893,67,"Female","Contact under tracing","-","DM, HTN",2020-09-26,2020-09-30,2020-10-01,NA
+9189,"Chamarajanagara",593292,55,"Male","Contact under tracing","-","-",2020-09-27,2020-09-30,2020-10-03,NA
+9278,"Chamarajanagara",614217,83,"Male","Contact under tracing","-","DM, HTN",2020-09-29,2020-10-03,2020-10-04,NA
+9338,"Chamarajanagara",602693,93,"Male","Contact under tracing","-","DM, HTN",2020-09-30,2020-10-04,2020-10-05,NA
+9346,"Chamarajanagara",615330,35,"Male","Contact under tracing","-","-",2020-09-28,2020-10-04,2020-10-05,NA
+9583,"Chamarajanagara",676983,55,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-10-05,2020-10-06,2020-10-07,NA
+9678,"Chamarajanagara",680516,60,"Female","ILI","Fever, Cough","DM",2020-10-06,2020-10-07,2020-10-08,NA
+9840,"Chamarajanagara",607337,57,"Male","ILI","Fever, Cough","-",2020-09-28,2020-10-09,2020-10-10,NA
+9849,"Chamarajanagara",622080,90,"Male","ILI","Fever, Cough","DM",2020-09-20,2020-09-20,2020-10-10,NA
+9899,"Chamarajanagara",705902,80,"Male","ILI","Fever, Cough","DM, HTN",2020-10-09,2020-10-10,2020-10-10,NA
+10046,"Chamarajanagara",732644,57,"Male","SARI","Breathlessness","-",2020-10-11,2020-10-11,2020-10-12,NA
+10111,"Chamarajanagara",712364,52,"Male","SARI","Breathlessness","DM",2020-10-09,2020-10-13,2020-10-13,NA
+10130,"Chamarajanagara",736508,64,"Male","SARI","Breathlessness","-",2020-10-12,2020-10-13,2020-10-13,NA
+10208,"Chamarajanagara",749153,35,"Female","SARI","Breathlessness","-",2020-10-11,2020-10-12,2020-10-14,NA
+10223,"Chamarajanagara",655407,68,"Male","ILI","Fever, Cough","DM, HTN",2020-10-04,2020-10-15,2020-10-15,NA
+10273,"Chamarajanagara",711495,80,"Male","ILI","Fever, Cough","HTN",2020-10-09,2020-10-15,2020-10-15,NA
+10312,"Chamarajanagara",657274,58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-07,2020-09-23,2020-10-16,NA
+10322,"Chamarajanagara",676592,75,"Male","Contact under tracing","Breathlessness","CKD",2020-10-05,2020-10-15,2020-10-16,NA
+10356,"Chamarajanagara",735751,75,"Male","Contact under tracing","Breathlessness","DM",2020-10-12,2020-10-16,2020-10-16,NA
+10413,"Chamarajanagara",720999,62,"Female","SARI","Breathlessness","DM, HTN",2020-10-10,2020-10-16,2020-10-17,NA
+10414,"Chamarajanagara",721028,75,"Male","SARI","Breathlessness","DM, HTN",2020-10-10,2020-10-16,2020-10-17,NA
+10486,"Chamarajanagara",774513,48,"Male","SARI","Breathlessness","CKD",2020-10-06,2020-10-17,2020-10-18,NA
+10516,"Chamarajanagara",722702,62,"Female","SARI","Breathlessness","-",2020-10-10,2020-10-18,2020-10-19,NA
+10549,"Chamarajanagara",780350,79,"Male","SARI","Breathlessness","DM",2020-09-22,2020-10-03,2020-10-19,NA
+10550,"Chamarajanagara",780351,56,"Male","Contact under tracing","-","DM",2020-09-18,2020-10-03,2020-10-19,NA
+10551,"Chamarajanagara",780460,75,"Male","Contact under tracing","-","DM, CVA",NA,2020-10-03,2020-10-19,"Brought dead"
+10552,"Chamarajanagara",781797,70,"Male","Contact under tracing","-","-",2020-10-12,2020-10-17,2020-10-19,NA
+10572,"Chamarajanagara",712403,62,"Female","ILI","Fever, Cough","-",2020-10-10,2020-10-20,2020-10-20,NA
+10574,"Chamarajanagara",714871,80,"Female","ILI","Fever, Cough","DM, HTN",2020-10-09,2020-10-19,2020-10-20,NA
+10615,"Chamarajanagara",780461,43,"Male","Contact under tracing","-","-",2020-08-06,2020-08-09,2020-10-20,NA
+10881,"Chamarajanagara",807738,38,"Female","SARI","Breathlessness","-",2020-08-12,2020-08-12,2020-10-24,NA
+10882,"Chamarajanagara",807739,60,"Male","Contact under tracing","-","CVA",2020-08-31,2020-09-06,2020-10-24,NA
+10883,"Chamarajanagara",807740,57,"Female","SARI","Breathlessness","DM",2020-09-16,2020-09-23,2020-10-24,NA
+10993,"Chamarajanagara",806199,76,"Female","SARI","Breathlessness","HTN",2020-10-24,2020-10-26,2020-10-27,NA
+11038,"Chamarajanagara",798271,80,"Female","Contact under tracing","-","DM, HTN",NA,2020-10-27,2020-10-28,"Died at her residence"
+11183,"Chamarajanagara",792931,85,"Male","SARI","Breathlessness","CLD",2020-10-20,2020-10-31,2020-11-01,NA
+11351,"Chamarajanagara",848320,70,"Male","SARI","Breathlessness","DM",2020-11-03,2020-11-06,2020-11-06,NA
+11500,"Chamarajanagara",869336,45,"Female","SARI","Breathlessness","DM, HTN",2020-11-11,2020-11-12,2020-11-13,NA
+11688,"Chamarajanagara",886871,93,"Male","Contact under tracing","-","DM, HTN",2020-11-20,2020-11-22,2020-11-23,NA
+12003,"Chamarajanagara",921129,35,"Male","SARI","Cough, Breathlessness","-",2020-12-16,2020-12-18,2020-12-19,NA
+12006,"Chamarajanagara",917938,60,"Male","SARI","Breathlessness","DM",2020-12-15,2020-12-19,2020-12-20,NA
+12007,"Chamarajanagara",918250,70,"Female","SARI","Breathlessness","DM, HTN",2020-12-16,2020-12-20,2020-12-20,NA
+12234,"Chamarajanagara",953372,60,"Female","SARI","Breathlessness","DM, HTN",2021-01-29,2021-02-05,2021-02-06,NA
+12848,"Chamarajanagara",1069482,30,"Female","ILI","Fever, Cough","-",2021-04-09,2021-04-10,2021-04-10,NA
+12921,"Chamarajanagara",1050748,60,"Male","SARI","Fever, Cough, breathlessness","DM, HTN",2021-04-07,2021-04-11,2021-04-12,NA
+12926,"Chamarajanagara",1057674,75,"Male","SARI","Breathlessness","-",2021-04-08,2021-04-11,2021-04-12,NA
+13263,"Chamarajanagara",1141351,58,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-04-15,2021-04-17,"Brought dead"
+13270,"Chamarajanagara",1157003,43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-15,2021-04-16,2021-04-17,NA
+13335,"Chamarajanagara",1141321,48,"Female","ILI","Fever, Cough","-",2021-04-15,2021-04-18,2021-04-18,NA
+13623,"Chamarajanagara",1177057,40,"Female","ILI","Fever","DM, HTN",2021-04-16,2021-04-20,2021-04-20,NA
+13972,"Chamarajanagara",1134332,34,"Male","ILI","Cough","DM",2021-04-15,2021-04-23,2021-04-23,NA
+14070,"Chamarajanagara",1278751,40,"Male","ILI","Fever, Cough","DM, HTN",2021-04-21,2021-04-22,2021-04-23,NA
+14267,"Chamarajanagara",1278969,62,"Female","ILI","Fever","DM, HTN",2021-04-23,2021-04-24,2021-04-24,NA
+14365,"Chamarajanagara",1232526,71,"Male","ILI","Fever","DM",2021-04-20,2021-04-24,2021-04-25,NA
+14519,"Chamarajanagara",1271075,76,"Male","ILI","Fever, Cough","DM",2021-04-20,2021-04-25,2021-04-26,NA
+14584,"Chamarajanagara",1340210,56,"Female","ILI","Fever, cough","DM",2021-04-24,2021-04-24,2021-04-26,NA
+14611,"Chamarajanagara",1360263,45,"Male","ILI","Fever, cough","-",NA,2021-04-24,2021-04-26,"Brought dead"
+14713,"Chamarajanagara",1263844,60,"Female","ILI","Fever","-",2021-04-20,2021-04-26,2021-04-27,NA
+14804,"Chamarajanagara",1409632,84,"Male","SARI","Cough, Breathlessness","-",2021-04-20,2021-04-25,2021-04-27,NA
+14908,"Chamarajanagara",1272892,36,"Male","ILI","Fever, cough","-",2021-04-23,2021-04-28,2021-04-28,NA
+14958,"Chamarajanagara",1351908,59,"Male","SARI","Cough, breathlessness","DM, IHD",2021-04-26,2021-04-27,2021-04-28,NA
+14984,"Chamarajanagara",1376342,60,"Female","ILI","Fever, cough","HTN",2021-04-24,2021-04-27,2021-04-28,NA
+15078,"Chamarajanagara",1158520,70,"Male","ILI","Fever, cough","DM, HTN",2021-04-16,2021-04-28,2021-04-29,NA
+15137,"Chamarajanagara",1263857,53,"Female","SARI","Fever, cough, breathlessness","-",2021-04-20,2021-04-29,2021-04-29,NA
+15138,"Chamarajanagara",1263888,75,"Male","SARI","Breathlessness","DM, HTN",2021-04-21,2021-04-28,2021-04-29,NA
+15142,"Chamarajanagara",1266934,38,"Male","SARI","Breathlessness","-",2021-04-26,2021-04-28,2021-04-29,NA
+15149,"Chamarajanagara",1278986,38,"Male","ILI","Fever, cough","-",2021-04-26,2021-04-28,2021-04-29,NA
+15154,"Chamarajanagara",1292176,47,"Male","ILI","Fever","-",NA,2021-04-27,2021-04-29,"Died at his residence"
+15203,"Chamarajanagara",1376371,80,"Female","SARI","Fever, breathlessness","HTN",2021-04-25,2021-04-29,2021-04-29,NA
+15412,"Chamarajanagara",1351917,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-04-29,2021-04-30,NA
+15429,"Chamarajanagara",1392776,68,"Male","SARI","Breathlessness","DM, HTN",2021-04-29,2021-04-29,2021-04-30,NA
+15439,"Chamarajanagara",1411792,55,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-04-30,NA
+15473,"Chamarajanagara",1460012,90,"Female","SARI","Breathlessness","-",2021-04-27,2021-04-29,2021-04-30,NA
+15500,"Chamarajanagara",1504403,55,"Male","ILI","Fever, Cough","DM, HTN",2021-04-29,2021-04-29,2021-04-30,NA
+15512,"Chamarajanagara",1527377,65,"Male","ILI","Cough","DM, HTN",2021-04-25,2021-04-29,2021-04-30,NA
+15811,"Chamarajanagara",1178430,56,"Female","ILI","Fever","-",2021-04-18,2021-04-30,2021-05-02,NA
+15819,"Chamarajanagara",1206025,35,"Male","SARI","Breathlessness","-",2021-04-19,2021-05-02,2021-05-02,NA
+15833,"Chamarajanagara",1263864,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-30,2021-05-02,NA
+15847,"Chamarajanagara",1290110,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-04-30,2021-05-02,NA
+15851,"Chamarajanagara",1310606,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-30,2021-05-02,NA
+15852,"Chamarajanagara",1310641,29,"Female","ILI","Fever","-",2021-04-18,2021-04-30,2021-05-02,NA
+15862,"Chamarajanagara",1340203,56,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-02,2021-05-02,NA
+15863,"Chamarajanagara",1340213,36,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-01,2021-05-02,NA
+15901,"Chamarajanagara",1405317,32,"Male","SARI","Cough, Breathlessness","-",2021-04-25,2021-05-01,2021-05-02,NA
+15949,"Chamarajanagara",1527375,70,"Male","SARI","Breathlessness","-",2021-04-28,2021-05-02,2021-05-02,NA
+15950,"Chamarajanagara",1527385,34,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-01,2021-05-02,NA
+15952,"Chamarajanagara",1533997,55,"Male","ILI","Fever, Cough","-",NA,2021-04-30,2021-05-02,"Died at his residence"
+15965,"Chamarajanagara",1551289,34,"Male","SARI","Fever, Cough","-",2021-04-30,2021-05-02,2021-05-02,NA
+15976,"Chamarajanagara",1582641,39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-02,NA
+15989,"Chamarajanagara",1602485,52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-02,NA
+16064,"Chamarajanagara",1310540,61,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-03,2021-05-03,NA
+16065,"Chamarajanagara",1310579,60,"Female","SARI","Breathlessness","-",2021-04-23,2021-05-02,2021-05-03,NA
+16092,"Chamarajanagara",1356986,40,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-27,2021-05-03,2021-05-03,NA
+16121,"Chamarajanagara",1405332,56,"Male","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-04-29,2021-05-03,NA
+16122,"Chamarajanagara",1405334,34,"Male","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-03,2021-05-03,NA
+16138,"Chamarajanagara",1443036,40,"Male","SARI","Fever, cough, breathlessness","-",2021-04-09,2021-05-02,2021-05-03,NA
+16188,"Chamarajanagara",1534000,38,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-03,NA
+16195,"Chamarajanagara",1543838,38,"Female","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-03,2021-05-03,NA
+16196,"Chamarajanagara",1543839,50,"Female","SARI","Breathlessness","DM",2021-03-04,2021-05-02,2021-05-03,NA
+16200,"Chamarajanagara",1547293,57,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-03,NA
+16209,"Chamarajanagara",1568761,36,"Male","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-02,2021-05-03,NA
+16215,"Chamarajanagara",1582629,45,"Female","SARI","Fever, cough, breathlessness","-",2021-05-01,2021-05-02,2021-05-03,NA
+16218,"Chamarajanagara",1586309,40,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-02,2021-05-03,NA
+16223,"Chamarajanagara",1593084,50,"Male","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-02,2021-05-03,NA
+16229,"Chamarajanagara",1599715,31,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-03,NA
+16237,"Chamarajanagara",1627642,35,"Male","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-03,2021-05-03,NA
+16238,"Chamarajanagara",1627676,62,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-01,2021-05-03,2021-05-03,NA
+16246,"Chamarajanagara",1664726,33,"Female","SARI","Fever, cough, breathlessness","-",2021-05-02,2021-05-02,2021-05-03,NA
+16248,"Chamarajanagara",1675108,54,"Male","SARI","Fever, cough, breathlessness","-",2021-05-02,2021-05-02,2021-05-03,NA
+16363,"Chamarajanagara",1389020,60,"Male","ILI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-05-04,2021-05-04,NA
+16430,"Chamarajanagara",1527402,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-04,2021-05-04,NA
+16504,"Chamarajanagara",1656070,32,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-03,2021-05-04,"Died at her residence"
+16508,"Chamarajanagara",1664657,38,"Male","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-03,2021-05-04,NA
+16531,"Chamarajanagara",1699303,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-04,NA
+16532,"Chamarajanagara",1701345,31,"Female","ILI","Fever","-",2021-05-03,2021-05-03,2021-05-04,NA
+16533,"Chamarajanagara",1707569,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-05-04,NA
+16537,"Chamarajanagara",1718381,19,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-02,2021-05-04,"Brought dead"
+16752,"Chamarajanagara",1508232,28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-04,2021-05-05,NA
+16777,"Chamarajanagara",1551298,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-04,2021-05-05,NA
+16855,"Chamarajanagara",1710659,48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-05,2021-05-04,2021-05-05,NA
+16869,"Chamarajanagara",1748785,60,"Female","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-05,2021-05-05,NA
+16873,"Chamarajanagara",1752698,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-04,2021-05-05,NA
+16922,"Chamarajanagara",1268874,60,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-05-05,2021-05-06,NA
+17158,"Chamarajanagara",1703813,49,"Female","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-05,2021-05-06,NA
+17191,"Chamarajanagara",1760552,64,"Male","ILI","Fever","-",2021-05-03,2021-05-05,2021-05-06,NA
+17192,"Chamarajanagara",1760569,80,"Female","ILI","Fever","-",NA,2021-05-04,2021-05-06,"Died at her residence"
+17201,"Chamarajanagara",1798493,34,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-05,2021-05-06,NA
+17498,"Chamarajanagara",1511784,38,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-05-07,2021-05-07,NA
+17513,"Chamarajanagara",1527446,53,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17580,"Chamarajanagara",1596440,60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-07,NA
+17675,"Chamarajanagara",1701989,44,"Male","SARI","Fever, Breathlessness","HTN",2021-05-04,2021-05-06,2021-05-07,NA
+17740,"Chamarajanagara",1760536,62,"Female","SARI","Fever, Breathlessness","HTN, IHD",2021-05-04,2021-05-06,2021-05-07,NA
+17746,"Chamarajanagara",1771841,48,"Male","SARI","Fever, Breathlessness","HTN",2021-05-04,2021-05-06,2021-05-07,NA
+17807,"Chamarajanagara",1894003,47,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-07,2021-05-07,NA
+17998,"Chamarajanagara",1413861,62,"Male","SARI","Fever, Breathlessness","DM",2021-04-26,2021-05-08,2021-05-08,NA
+18170,"Chamarajanagara",1718403,42,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-07,2021-05-08,NA
+18581,"Chamarajanagara",1661589,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-08,2021-05-09,NA
+18584,"Chamarajanagara",1664673,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-08,2021-05-09,NA
+18590,"Chamarajanagara",1678212,33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18603,"Chamarajanagara",1703043,39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-09,NA
+18604,"Chamarajanagara",1703085,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-09,2021-05-09,NA
+18605,"Chamarajanagara",1703791,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18657,"Chamarajanagara",1799001,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-08,2021-05-09,NA
+18669,"Chamarajanagara",1810706,75,"Male","ILI","Fever, Cough","HTN, IHD",NA,2021-05-07,2021-05-09,"Died at his residence"
+18730,"Chamarajanagara",1908140,52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18742,"Chamarajanagara",1921495,45,"Female","ILI","Fever, Cough","DM, HTN",2021-05-05,2021-05-08,2021-05-09,NA
+18757,"Chamarajanagara",1942187,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18758,"Chamarajanagara",1943974,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18760,"Chamarajanagara",1945105,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-09,NA
+18763,"Chamarajanagara",1946324,75,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-07,2021-05-09,NA
+18765,"Chamarajanagara",1947528,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-09,NA
+19190,"Chamarajanagara",1718353,53,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-10,2021-05-10,"Brought dead"
+19206,"Chamarajanagara",1749093,20,"Female","ILI","Fever","DM",NA,2021-05-09,2021-05-10,"Died at her residence"
+19217,"Chamarajanagara",1771808,63,"Male","SARI","Fever, Breathlessness","HTN",2021-05-05,2021-05-09,2021-05-10,NA
+19230,"Chamarajanagara",1798492,21,"Female","ILI","Fever","-",NA,2021-05-09,2021-05-10,"Died at her residence"
+19245,"Chamarajanagara",1810703,70,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-09,2021-05-10,NA
+19343,"Chamarajanagara",1956818,63,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-10,2021-05-10,NA
+19371,"Chamarajanagara",2010322,70,"Female","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19628,"Chamarajanagara",1728443,73,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-11,2021-05-11,NA
+19644,"Chamarajanagara",1748801,71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-11,NA
+19658,"Chamarajanagara",1760548,45,"Female","ILI","Fever, Cough","-",NA,2021-05-10,2021-05-11,NA
+19685,"Chamarajanagara",1796380,48,"Female","SARI","Cough, Breathlessness","HTN",2021-05-05,2021-05-11,2021-05-11,NA
+19686,"Chamarajanagara",1796383,58,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-11,2021-05-11,NA
+19741,"Chamarajanagara",1860401,45,"Male","SARI","Fever, Cough, Breathlessness","TB, COPD",NA,2021-05-10,2021-05-11,"Brought dead"
+19795,"Chamarajanagara",1929959,45,"Female","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-11,NA
+19803,"Chamarajanagara",1947149,48,"Female","ILI","Fever, Cough","DM",2021-05-08,2021-05-10,2021-05-11,NA
+19807,"Chamarajanagara",1950926,64,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-10,2021-05-11,NA
+19811,"Chamarajanagara",1956786,72,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-11,NA
+19826,"Chamarajanagara",1980846,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-11,2021-05-11,NA
+19846,"Chamarajanagara",2027647,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-11,NA
+20096,"Chamarajanagara",1783083,60,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-11,2021-05-12,NA
+20111,"Chamarajanagara",1796387,25,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-11,2021-05-12,NA
+20151,"Chamarajanagara",1818674,53,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-11,2021-05-12,NA
+20152,"Chamarajanagara",1818684,54,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-11,2021-05-12,NA
+20163,"Chamarajanagara",1829535,50,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-11,2021-05-12,NA
+20287,"Chamarajanagara",1962917,50,"Male","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-12,NA
+20292,"Chamarajanagara",1966317,58,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-11,2021-05-12,NA
+20327,"Chamarajanagara",2016732,67,"Female","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-12,NA
+20604,"Chamarajanagara",1939441,65,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20671,"Chamarajanagara",2048796,35,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20692,"Chamarajanagara",2080297,55,"Female","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-13,NA
+20708,"Chamarajanagara",2121211,70,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-12,2021-05-13,NA
+20709,"Chamarajanagara",2123873,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-13,NA
+20713,"Chamarajanagara",2130708,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-13,NA
+20878,"Chamarajanagara",1848223,66,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-13,2021-05-14,NA
+20916,"Chamarajanagara",1939387,54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-14,NA
+20979,"Chamarajanagara",2041045,51,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-14,NA
+20990,"Chamarajanagara",2048801,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-14,NA
+21006,"Chamarajanagara",2063407,60,"Female","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-14,NA
+21014,"Chamarajanagara",2070949,26,"Male","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-13,2021-05-14,NA
+21016,"Chamarajanagara",2073970,75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-14,NA
+21046,"Chamarajanagara",2127022,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-14,NA
+21052,"Chamarajanagara",2133594,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-14,NA
+21169,"Chamarajanagara",1702687,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-14,2021-05-15,NA
+21178,"Chamarajanagara",1718401,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-14,2021-05-15,NA
+21267,"Chamarajanagara",1949883,60,"Female","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-15,2021-05-15,NA
+21337,"Chamarajanagara",2074086,43,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-15,2021-05-15,NA
+21368,"Chamarajanagara",2107267,58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-14,2021-05-15,NA
+21378,"Chamarajanagara",2130839,35,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-15,2021-05-15,NA
+21385,"Chamarajanagara",2147673,67,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-12,2021-05-15,NA
+21409,"Chamarajanagara",2165876,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-15,2021-05-15,NA
+21429,"Chamarajanagara",2195722,58,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-13,2021-05-15,"Brought dead"
+21432,"Chamarajanagara",2202591,65,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-14,2021-05-15,"Brought dead"
+21438,"Chamarajanagara",2225097,50,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21647,"Chamarajanagara",1947881,26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-15,2021-05-16,NA
+21736,"Chamarajanagara",2073984,49,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-16,NA
+21753,"Chamarajanagara",2105365,31,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-16,NA
+21755,"Chamarajanagara",2107230,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-16,NA
+21800,"Chamarajanagara",2172377,65,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-15,2021-05-16,"Brought dead"
+21835,"Chamarajanagara",2238114,83,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-15,2021-05-16,"Brought dead"
+21837,"Chamarajanagara",2242209,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21839,"Chamarajanagara",2244686,70,"Male","ILI","Fever, Cough","DM, HTN",2021-05-15,2021-05-16,2021-05-16,NA
+21910,"Chamarajanagara",1511740,32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-16,2021-05-17,NA
+22128,"Chamarajanagara",2040988,37,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-17,2021-05-17,NA
+22136,"Chamarajanagara",2048797,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-16,2021-05-17,NA
+22137,"Chamarajanagara",2051888,50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-16,2021-05-17,NA
+22204,"Chamarajanagara",2147469,54,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-16,2021-05-17,NA
+22229,"Chamarajanagara",2184127,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22238,"Chamarajanagara",2196691,57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22309,"Chamarajanagara",2276829,66,"Male","ILI","Fever, Cough","-",NA,2021-05-16,2021-05-17,"Brought dead"
+22599,"Chamarajanagara",1945112,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-17,2021-05-18,NA
+22602,"Chamarajanagara",1947162,70,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-17,2021-05-18,NA
+22829,"Chamarajanagara",2296849,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-18,NA
+22830,"Chamarajanagara",2297126,60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-16,2021-05-17,2021-05-18,NA
+22832,"Chamarajanagara",2298387,68,"Female","ILI","Fever","HTN",2021-05-13,2021-05-17,2021-05-18,NA
+22835,"Chamarajanagara",2302883,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-05-18,NA
+22836,"Chamarajanagara",2307800,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-18,NA
+22839,"Chamarajanagara",2312160,85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-18,NA
+23117,"Chamarajanagara",2073566,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-17,2021-05-19,NA
+23165,"Chamarajanagara",2147531,30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-18,2021-05-19,NA
+23275,"Chamarajanagara",2276832,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-19,NA
+23287,"Chamarajanagara",2297159,50,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-18,2021-05-19,"Brought dead"
+23299,"Chamarajanagara",2324709,35,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-18,2021-05-19,NA
+23302,"Chamarajanagara",2330664,57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-19,NA
+23303,"Chamarajanagara",2337021,65,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-18,2021-05-19,"Brought dead"
+23304,"Chamarajanagara",2337022,50,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-18,2021-05-19,NA
+23601,"Chamarajanagara",2004660,34,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-18,2021-05-20,NA
+23622,"Chamarajanagara",2048805,47,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-20,2021-05-20,NA
+23670,"Chamarajanagara",2117763,67,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-19,2021-05-20,NA
+23756,"Chamarajanagara",2238115,80,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23828,"Chamarajanagara",2323032,80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-05-20,NA
+23845,"Chamarajanagara",2344179,52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-20,2021-05-20,NA
+23981,"Chamarajanagara",2040987,72,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-20,2021-05-21,NA
+24082,"Chamarajanagara",2221320,67,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-20,2021-05-21,NA
+24098,"Chamarajanagara",2242175,60,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-21,2021-05-21,NA
+24200,"Chamarajanagara",2377365,65,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-20,2021-05-21,"Brought dead"
+24322,"Chamarajanagara",1571043,56,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-20,2021-05-22,NA
+24478,"Chamarajanagara",2048751,63,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-21,2021-05-22,NA
+24489,"Chamarajanagara",2090779,68,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24576,"Chamarajanagara",2315270,60,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-17,2021-05-21,2021-05-22,NA
+24640,"Chamarajanagara",2405893,35,"Female","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-20,2021-05-22,NA
+24645,"Chamarajanagara",2410876,56,"Male","ILI","Cough","DM",2021-05-13,2021-05-20,2021-05-22,NA
+24655,"Chamarajanagara",2430588,60,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-22,2021-05-22,NA
+25231,"Chamarajanagara",2389248,38,"Female","SARI","Breathlessness","DM, HTN, CLD",2021-05-22,2021-05-22,2021-05-23,NA
+25280,"Chamarajanagara",2451190,80,"Male","SARI","Cough, Breathlessness","CLD",2021-05-22,2021-05-23,2021-05-23,NA
+25283,"Chamarajanagara",2455522,65,"Male","SARI","Cough, Breathlessness","-",2021-05-22,2021-05-23,2021-05-23,NA
+25284,"Chamarajanagara",2464573,55,"Female","SARI","Breathlessness","DM, HTN",2021-05-22,2021-05-23,2021-05-23,NA
+25544,"Chamarajanagara",2073968,43,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-22,2021-05-24,NA
+25556,"Chamarajanagara",2105432,37,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-23,2021-05-24,NA
+25572,"Chamarajanagara",2150611,75,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-23,2021-05-24,NA
+25591,"Chamarajanagara",2195720,55,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+25633,"Chamarajanagara",2268088,65,"Female","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25648,"Chamarajanagara",2297120,45,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-23,2021-05-24,NA
+25702,"Chamarajanagara",2356759,45,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+25731,"Chamarajanagara",2388616,60,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-24,2021-05-24,NA
+25754,"Chamarajanagara",2421568,45,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+25755,"Chamarajanagara",2421575,48,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-23,2021-05-24,NA
+25760,"Chamarajanagara",2426597,75,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-23,2021-05-24,NA
+25813,"Chamarajanagara",2478362,18,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-22,2021-05-24,NA
+25815,"Chamarajanagara",2480380,42,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+26123,"Chamarajanagara",2048771,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-25,2021-05-25,NA
+26136,"Chamarajanagara",2073558,47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-25,2021-05-25,NA
+26208,"Chamarajanagara",2244672,73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-24,2021-05-25,NA
+26266,"Chamarajanagara",2330645,78,"Female","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-24,2021-05-25,NA
+26270,"Chamarajanagara",2333043,45,"Male","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-24,2021-05-25,NA
+26304,"Chamarajanagara",2389842,85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-05-25,NA
+26368,"Chamarajanagara",2473551,48,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-25,2021-05-25,NA
+26395,"Chamarajanagara",2497752,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-25,2021-05-25,NA
+26740,"Chamarajanagara",2197432,26,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-26,2021-05-26,NA
+26807,"Chamarajanagara",2353295,65,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-25,2021-05-26,NA
+26859,"Chamarajanagara",2435301,68,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+26868,"Chamarajanagara",2451217,81,"Male","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26870,"Chamarajanagara",2452477,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-25,2021-05-26,NA
+26874,"Chamarajanagara",2466645,52,"Male","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26903,"Chamarajanagara",2501122,40,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26904,"Chamarajanagara",2501164,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-25,2021-05-26,NA
+26907,"Chamarajanagara",2503541,75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26908,"Chamarajanagara",2504858,78,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-23,2021-05-26,"Brought dead"
+26923,"Chamarajanagara",2522324,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26928,"Chamarajanagara",2527816,65,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26930,"Chamarajanagara",2529908,65,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+27239,"Chamarajanagara",2312161,52,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-27,2021-05-27,NA
+27340,"Chamarajanagara",2450876,83,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-27,2021-05-27,NA
+27343,"Chamarajanagara",2456952,65,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-26,2021-05-27,NA
+27352,"Chamarajanagara",2466650,65,"Female","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-25,2021-05-27,NA
+27362,"Chamarajanagara",2477460,48,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-26,2021-05-27,NA
+27363,"Chamarajanagara",2478954,32,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-27,2021-05-27,NA
+27365,"Chamarajanagara",2481970,20,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-27,2021-05-27,NA
+27407,"Chamarajanagara",2549515,46,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-26,2021-05-27,NA
+27408,"Chamarajanagara",2549540,35,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-26,2021-05-27,"Brought dead"
+27678,"Chamarajanagara",2389225,70,"Male","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-27,2021-05-28,NA
+27780,"Chamarajanagara",2550374,41,"Female","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-27,2021-05-28,NA
+27798,"Chamarajanagara",2568603,38,"Female","SARI","Cough, Breathlessness","-",2021-05-26,2021-05-28,2021-05-28,NA
+27806,"Chamarajanagara",2578299,34,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-26,2021-05-28,NA
+28108,"Chamarajanagara",2388648,80,"Male","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-28,2021-05-29,NA
+28131,"Chamarajanagara",2421553,65,"Male","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-29,2021-05-29,NA
+28191,"Chamarajanagara",2483184,68,"Male","SARI","Breathlessness","-",2021-05-27,2021-05-28,2021-05-29,NA
+28214,"Chamarajanagara",2504865,48,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-28,2021-05-29,NA
+28262,"Chamarajanagara",2548187,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-28,2021-05-29,NA
+28290,"Chamarajanagara",2595087,55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-28,2021-05-29,NA
+28294,"Chamarajanagara",2599640,43,"Female","ILI","Fever, Cough","-",2021-05-28,2021-05-28,2021-05-29,NA
+28547,"Chamarajanagara",2408653,56,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-30,2021-05-30,NA
+28583,"Chamarajanagara",2456962,72,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-29,2021-05-30,NA
+28651,"Chamarajanagara",2576499,45,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28668,"Chamarajanagara",2595016,34,"Male","SARI","Breathlessness","-",2021-05-28,2021-05-29,2021-05-30,NA
+28684,"Chamarajanagara",2631916,60,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-05-30,2021-05-30,NA
+29020,"Chamarajanagara",2536424,70,"Male","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-31,2021-05-31,NA
+29028,"Chamarajanagara",2553765,80,"Female","SARI","Breathlessness","DM, HTN, IHD",2021-05-25,2021-05-31,2021-05-31,NA
+29065,"Chamarajanagara",2603522,60,"Male","SARI","Breathlessness","HTN, COPD",NA,2021-05-30,2021-05-31,"Brought dead"
+29450,"Chamarajanagara",2490824,60,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-31,2021-06-01,NA
+29508,"Chamarajanagara",2573350,75,"Female","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-31,2021-06-01,NA
+29535,"Chamarajanagara",2626659,63,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-01,2021-06-01,NA
+29909,"Chamarajanagara",2521375,50,"Male","ILI","Fever, Cough","-",2021-05-23,2021-06-01,2021-06-02,NA
+29940,"Chamarajanagara",2573352,53,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-02,2021-06-02,NA
+29955,"Chamarajanagara",2595086,55,"Male","ILI","Fever","HTN",2021-05-28,2021-06-02,2021-06-02,NA
+29963,"Chamarajanagara",2613194,91,"Male","ILI","Fever","HTN",2021-05-28,2021-06-01,2021-06-02,NA
+30317,"Chamarajanagara",2374854,52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-06-02,2021-06-03,NA
+30331,"Chamarajanagara",2421505,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-06-03,2021-06-03,NA
+30356,"Chamarajanagara",2479276,69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-24,2021-06-03,2021-06-03,NA
+30394,"Chamarajanagara",2524657,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-03,NA
+30410,"Chamarajanagara",2548193,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-03,2021-06-03,NA
+30432,"Chamarajanagara",2582017,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-03,NA
+30440,"Chamarajanagara",2595085,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-02,2021-06-03,NA
+30484,"Chamarajanagara",2649782,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-02,2021-06-03,NA
+30490,"Chamarajanagara",2652763,53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-03,NA
+30510,"Chamarajanagara",2666013,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-03,NA
+30784,"Chamarajanagara",2548164,80,"Female","SARI","Breathlessness","-",2021-05-28,2021-06-04,2021-06-04,NA
+30830,"Chamarajanagara",2618477,48,"Female","SARI","Fever, Breathlessness","-",2021-05-30,2021-06-04,2021-06-04,NA
+30849,"Chamarajanagara",2649769,42,"Female","SARI","Fever, Breathlessness","-",2021-05-29,2021-06-04,2021-06-04,NA
+30851,"Chamarajanagara",2651985,45,"Male","SARI","Fever, Breathlessness","-",NA,2021-06-03,2021-06-04,"Brought dead"
+31142,"Chamarajanagara",2527826,63,"Male","ILI","Fever","-",NA,2021-05-25,2021-06-05,"Died at his residence"
+31194,"Chamarajanagara",2633602,43,"Male","SARI","Fever, Breathlessness","-",2021-05-29,2021-06-05,2021-06-05,NA
+31202,"Chamarajanagara",2650228,54,"Male","SARI","Fever, Breathlessness","IHD",NA,2021-06-01,2021-06-05,"Died at his residence"
+31220,"Chamarajanagara",2664122,62,"Male","SARI","Fever, Breathlessness","-",2021-05-31,2021-06-05,2021-06-05,NA
+31248,"Chamarajanagara",2699746,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-05,NA
+31261,"Chamarajanagara",2715112,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-05,NA
+31435,"Chamarajanagara",2410865,50,"Female","SARI","Fever, Breathlessness","-",2021-05-17,2021-06-05,2021-06-06,NA
+31514,"Chamarajanagara",2631910,41,"Female","SARI","Fever, Breathlessness","-",2021-05-24,2021-06-05,2021-06-06,NA
+31520,"Chamarajanagara",2649780,35,"Female","SARI","Fever, Breathlessness","-",2021-05-29,2021-06-05,2021-06-06,NA
+31536,"Chamarajanagara",2681035,75,"Female","SARI","Fever, Breathlessness","-",2021-05-31,2021-06-05,2021-06-06,NA
+31537,"Chamarajanagara",2681044,30,"Female","SARI","Fever, Breathlessness","-",2021-05-29,2021-06-06,2021-06-06,NA
+31547,"Chamarajanagara",2694067,80,"Female","SARI","Fever, Breathlessness","HTN, IHD",2021-06-02,2021-06-05,2021-06-06,NA
+31775,"Chamarajanagara",2524654,72,"Male","ILI","Fever, Cough","-",2021-05-25,2021-06-06,2021-06-07,NA
+31986,"Chamarajanagara",2571759,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-08,2021-06-08,NA
+32063,"Chamarajanagara",2716401,83,"Female","ILI","Cough","-",NA,2021-06-03,2021-06-08,"Died at her residence"
+32077,"Chamarajanagara",2727847,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-07,2021-06-08,NA
+32167,"Chamarajanagara",2595035,55,"Male","SARI","Fever, Breathlessness","-",2021-06-04,2021-06-08,2021-06-09,NA
+32183,"Chamarajanagara",2623630,65,"Female","SARI","Fever, Breathlessness","-",2021-06-04,2021-06-08,2021-06-09,NA
+32222,"Chamarajanagara",2689422,60,"Male","SARI","Fever, Breathlessness","-",NA,2021-06-02,2021-06-09,"Brought dead"
+32234,"Chamarajanagara",2712349,75,"Female","SARI","Fever, Breathlessness","-",2021-06-03,2021-06-08,2021-06-09,NA
+32248,"Chamarajanagara",2728773,79,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-06,2021-06-09,2021-06-09,NA
+32414,"Chamarajanagara",2687871,90,"Female","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-10,2021-06-10,NA
+32611,"Chamarajanagara",2744780,78,"Female","SARI","Cough, Breathlessness","HTN",2021-06-06,2021-06-11,2021-06-11,NA
+32862,"Chamarajanagara",2728746,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-12,2021-06-13,NA
+32894,"Chamarajanagara",2763362,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-13,2021-06-13,NA
+32912,"Chamarajanagara",2792194,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-12,2021-06-13,NA
+33256,"Chamarajanagara",2772173,70,"Male","SARI","Fever, Breathlessness","-",2021-06-12,2021-06-15,2021-06-16,NA
+33311,"Chamarajanagara",2426575,65,"Male","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-03,2021-06-17,NA
+33361,"Chamarajanagara",2715997,60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-04,2021-06-04,2021-06-17,NA
+33369,"Chamarajanagara",2735660,78,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-05,2021-06-06,2021-06-17,NA
+33431,"Chamarajanagara",2830163,35,"Male","SARI","Fever, Breathlessness","-",2021-06-15,2021-06-16,2021-06-17,NA
+33747,"Chamarajanagara",2840977,55,"Female","SARI","Fever, Breathlessness","DM",NA,2021-05-23,2021-06-19,"Brought dead"
+33796,"Chamarajanagara",2671134,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-19,2021-06-20,NA
+33981,"Chamarajanagara",2798032,60,"Female","SARI","Fever, Breathlesness","DM",2021-05-25,2021-06-17,2021-06-21,NA
+34352,"Chamarajanagara",2808974,45,"Male","ILI","Fever, Cough","DM",2021-06-13,2021-06-23,2021-06-24,NA
+34481,"Chamarajanagara",2783957,55,"Female","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-24,2021-06-25,NA
+34506,"Chamarajanagara",2832530,45,"Male","ILI","Fever, Cough","HTN",2021-06-16,2021-06-24,2021-06-25,NA
+34595,"Chamarajanagara",2783957,55,"Female","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-24,2021-06-25,NA
+34620,"Chamarajanagara",2832530,45,"Male","ILI","Fever, Cough","HTN",2021-06-16,2021-06-24,2021-06-25,NA
+34719,"Chamarajanagara",2819131,57,"Female","SARI","Fever, Breathlessness","-",2021-06-14,2021-06-25,2021-06-26,NA
+34720,"Chamarajanagara",2819722,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-15,2021-06-25,2021-06-26,NA
+34727,"Chamarajanagara",2827543,68,"Female","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-24,2021-06-26,NA
+34851,"Chamarajanagara",2869585,75,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",NA,2021-06-25,2021-06-27,"Brought dead"
+35009,"Chamarajanagara",2848741,36,"Female","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35029,"Chamarajanagara",2865055,60,"Female","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35095,"Chamarajanagara",2821629,42,"Male","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-29,2021-06-30,NA
+35148,"Chamarajanagara",2882721,70,"Female","SARI","Fever, Breathlessness","-",2021-06-28,2021-06-30,2021-06-30,NA
+35308,"Chamarajanagara",2862109,65,"Female","SARI","Fever, Breathlessness","-",2021-06-27,2021-06-28,2021-07-02,NA
+35415,"Chamarajanagara",2891095,60,"Male","SARI","Fever, Breathlessness","-",2021-07-02,2021-07-02,2021-07-03,NA
+35445,"Chamarajanagara",2840360,50,"Male","ILI","Fever, Cough","-",2021-06-28,2021-07-03,2021-07-04,NA
+35525,"Chamarajanagara",2856997,75,"Male","ILI","Fever","-",2021-06-25,2021-07-04,2021-07-05,NA
+35588,"Chamarajanagara",2866041,45,"Female","ILI","Fever, Cough","-",2021-06-24,2021-07-06,2021-07-06,NA
+35595,"Chamarajanagara",2876941,81,"Female","ILI","Fever","-",2021-06-28,2021-07-05,2021-07-06,NA
+35616,"Chamarajanagara",2891136,70,"Female","ILI","Fever","-",2021-07-02,2021-07-05,2021-07-06,NA
+35685,"Chamarajanagara",2875876,72,"Male","SARI","Breathlessness","DM",2021-06-28,2021-07-06,2021-07-07,NA
+35805,"Chamarajanagara",2872403,64,"Female","SARI","Breathlessness","DM",2021-06-25,2021-07-08,2021-07-09,NA
+35825,"Chamarajanagara",2893224,73,"Male","SARI","Breathlessness","-",2021-07-02,2021-07-08,2021-07-09,NA
+35841,"Chamarajanagara",2905410,70,"Male","SARI","Breathlessness","-",2021-07-03,2021-07-07,2021-07-09,NA
+35865,"Chamarajanagara",2882738,42,"Male","ILI","Fever, Cough","-",2021-06-27,2021-07-09,2021-07-10,NA
+35867,"Chamarajanagara",2888028,39,"Male","ILI","Fever, Cough","-",2021-06-30,2021-07-05,2021-07-10,NA
+35890,"Chamarajanagara",2908930,45,"Male","SARI","Breathlessness","-",2021-07-09,2021-07-10,2021-07-10,NA
+35923,"Chamarajanagara",2888409,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-10,2021-07-11,NA

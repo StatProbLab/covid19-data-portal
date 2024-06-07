@@ -49,3 +49,47 @@
   .text-muted{
     color: #ffffff!important;
   }
+  
+  /* Additional CSS for nested dropdown */
+  .dropdown-submenu {
+    position: relative;
+  }
+
+  .dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+    background-color: #3b528b; /* Background color for submenus */
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 0.5rem 1rem rgba(255, 255, 255, 0.15); /* Add shadow */
+  }
+
+  .dropdown-submenu .dropdown-item {
+    color: #ffffff;
+  }
+
+  .dropdown-submenu .dropdown-item:hover,
+  .dropdown-submenu .dropdown-item:focus {
+    background-color: #6c757d; /* Highlight on hover/focus */
+    color: #ffffff; /* Text color */
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    left: 0;
+    background-color: white;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    min-width: 160px;
+    z-index: 1;
+  }
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+

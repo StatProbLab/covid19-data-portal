@@ -1,0 +1,943 @@
+###############################################################################
+## Title: processing cases in India                                          ##
+## Input: "csv/indiaactivetrans.csv, csv/statepop.csv"	                     ##
+## Output: csv/statecritical/[j]-statedayscritical.csv                       ##
+## Date Modified: 21st May 2024                                              ##
+###############################################################################
+
+# Set current working directory
+setwd("/opt/lampp/htdocs/covid19-data-portal/Deceased_Working/wwwdec/")
+
+##Required Libraries
+library(readr)
+library(readxl)
+library(ggplot2)
+library(plotly)
+library(viridis)
+
+#Read data
+data = read_csv("csv/indiaactive2.csv")
+data1 = read_csv("csv/statepop.csv")
+
+data1=data1[order(data1$State),]
+
+#Format date correctly
+data$Date<- as.Date(data$Date, format = "%d-%m-%Y")
+
+#mapping to State names
+df_1=subset(data,data$State=="Andhra Pradesh")
+df_2=subset(data,data$State=="Andaman and Nicobar Islands")
+df_3=subset(data,data$State=="Arunachal Pradesh")
+df_4=subset(data,data$State=="Assam")
+df_5=subset(data,data$State=="Bihar")
+df_6=subset(data,data$State=="Chandigarh")
+df_7=subset(data,data$State=="Chhattisgarh")
+df_8=subset(data,data$State=="Dadra and Nagar Haveli")
+df_9=subset(data,data$State=="Delhi")
+df_10=subset(data,data$State=="Goa")
+df_11=subset(data,data$State=="Gujarat")
+df_12=subset(data,data$State=="Haryana")
+df_13=subset(data,data$State=="Himachal Pradesh")
+df_14=subset(data,data$State=="Jammu and Kashmir")
+df_15=subset(data,data$State=="Jharkhand")
+df_16=subset(data,data$State=="Karnataka")
+df_17=subset(data,data$State=="Kerala")
+df_18=subset(data,data$State=="Lakshadweep")
+df_19=subset(data,data$State=="Ladakh")
+df_20=subset(data,data$State=="Madhya Pradesh")
+df_21=subset(data,data$State=="Maharashtra")
+df_22=subset(data,data$State=="Manipur")
+df_23=subset(data,data$State=="Meghalaya")
+df_24=subset(data,data$State=="Mizoram")
+df_25=subset(data,data$State=="Nagaland")
+df_26=subset(data,data$State=="Odisha")
+df_27=subset(data,data$State=="Puducherry")
+df_28=subset(data,data$State=="Punjab")
+df_29=subset(data,data$State=="Rajasthan")
+df_30=subset(data,data$State=="Sikkim")
+df_31=subset(data,data$State=="Tamil Nadu")
+df_32=subset(data,data$State=="Telengana")
+df_33=subset(data,data$State=="Tripura")
+df_34=subset(data,data$State=="Uttarakhand")
+df_35=subset(data,data$State=="Uttar Pradesh")
+df_36=subset(data,data$State=="West Bengal")
+
+
+
+#naming States
+#1
+Target_1<- rep(" ",length(nrow(df_1)))
+df_1$Target_1 <-Target_1
+
+Target_2<- rep(" ",length(nrow(df_1)))
+df_1$Target_2 <-Target_2
+
+Target_3<- rep(" ",length(nrow(df_1)))
+df_1$Target_3 <-Target_3
+
+Target_4<- rep(" ",length(nrow(df_1)))
+df_1$Target_4 <-Target_4
+
+Population<- rep(" ",length(nrow(df_1)))
+df_1$Population <-Population
+
+Population2011<- rep(" ",length(nrow(df_1)))
+df_1$Population2011 <-Population2011
+
+#2
+Target_1<- rep("21",length(nrow(df_2)))
+df_2$Target_1 <-Target_1
+
+Target_2<- rep("437",length(nrow(df_2)))
+df_2$Target_2 <-Target_2
+
+Target_3<- rep("656",length(nrow(df_2)))
+df_2$Target_3 <-Target_3
+
+Target_4<- rep("875",length(nrow(df_2)))
+df_2$Target_4 <-Target_4
+
+Population<- rep("437668",length(nrow(df_2)))
+df_2$Population <-Population
+
+Population2011<- rep("380581",length(nrow(df_2)))
+df_2$Population2011 <-Population2011
+
+#3
+Target_1<- rep("79",length(nrow(df_3)))
+df_3$Target_1 <-Target_1
+
+Target_2<- rep("1591",length(nrow(df_3)))
+df_3$Target_2 <-Target_2
+
+Target_3<- rep("2386",length(nrow(df_3)))
+df_3$Target_3 <-Target_3
+
+Target_4<- rep("3182",length(nrow(df_3)))
+df_3$Target_4 <-Target_4
+
+Population<- rep("1591286",length(nrow(df_3)))
+df_3$Population <-Population
+
+Population2011<- rep("1383727",length(nrow(df_3)))
+df_3$Population2011 <-Population2011
+
+#4
+Target_1<- rep("1794",length(nrow(df_4)))
+df_4$Target_1 <-Target_1
+
+Target_2<- rep("35886",length(nrow(df_4)))
+df_4$Target_2 <-Target_2
+
+Target_3<- rep("53829",length(nrow(df_4)))
+df_4$Target_3 <-Target_3
+
+Target_4<- rep("71772",length(nrow(df_4)))
+df_4$Target_4 <-Target_4
+
+Population<- rep("35886412",length(nrow(df_4)))
+df_4$Population <-Population
+
+Population2011<- rep("31205576",length(nrow(df_4)))
+df_4$Population2011 <-Population2011
+
+#5
+Target_1<- rep("5985",length(nrow(df_5)))
+df_5$Target_1 <-Target_1
+
+Target_2<- rep("119714",length(nrow(df_5)))
+df_5$Target_2 <-Target_2
+
+Target_3<- rep("179571",length(nrow(df_5)))
+df_5$Target_3 <-Target_3
+
+Target_4<- rep("239428",length(nrow(df_5)))
+df_5$Target_4 <-Target_4
+
+Population<- rep("119714369",length(nrow(df_5)))
+df_5$Population <-Population
+
+Population2011<- rep("104099452",length(nrow(df_5)))
+df_5$Population2011 <-Population2011
+
+#6
+Target_1<- rep(" ",length(nrow(df_6)))
+df_6$Target_1 <-Target_1
+
+Target_2<- rep(" ",length(nrow(df_6)))
+df_6$Target_2 <-Target_2
+
+Target_3<- rep(" ",length(nrow(df_6)))
+df_6$Target_3 <-Target_3
+
+Target_4<- rep(" ",length(nrow(df_6)))
+df_6$Target_4 <-Target_4
+
+Population<- rep(" ",length(nrow(df_6)))
+df_6$Population <-Population
+
+Population2011<- rep(" ",length(nrow(df_6)))
+df_6$Population2011 <-Population2011
+
+#7
+Target_1<- rep("1468",length(nrow(df_7)))
+df_7$Target_1 <-Target_1
+
+Target_2<- rep("29376",length(nrow(df_7)))
+df_7$Target_2 <-Target_2
+
+Target_3<- rep("44065",length(nrow(df_7)))
+df_7$Target_3 <-Target_3
+
+Target_4<- rep("58753.9554",length(nrow(df_7)))
+df_7$Target_4 <-Target_4
+
+Population<- rep("29376977",length(nrow(df_7)))
+df_7$Population <-Population
+
+Population2011<- rep("25545198",length(nrow(df_7)))
+df_7$Population2011 <-Population2011
+
+#8
+Target_1<- rep("19",length(nrow(df_8)))
+df_8$Target_1 <-Target_1
+
+Target_2<- rep("395",length(nrow(df_8)))
+df_8$Target_2 <-Target_2
+
+Target_3<- rep("592",length(nrow(df_8)))
+df_8$Target_3 <-Target_3
+
+Target_4<- rep("790",length(nrow(df_8)))
+df_8$Target_4 <-Target_4
+
+Population<- rep("343709",length(nrow(df_8)))
+df_8$Population <-Population
+
+Population2011<- rep("25545198",length(nrow(df_8)))
+df_8$Population2011 <-Population2011
+
+#9
+Target_1<- rep("965",length(nrow(df_9)))
+df_9$Target_1 <-Target_1
+
+Target_2<- rep("19306",length(nrow(df_9)))
+df_9$Target_2 <-Target_2
+
+Target_3<- rep("28959",length(nrow(df_9)))
+df_9$Target_3 <-Target_3
+
+Target_4<- rep("38612",length(nrow(df_9)))
+df_9$Target_4 <-Target_4
+
+Population<- rep("19306132",length(nrow(df_9)))
+df_9$Population <-Population
+
+Population2011<- rep("16787941",length(nrow(df_9)))
+df_9$Population2011 <-Population2011
+
+#10
+Target_1<- rep("83",length(nrow(df_10)))
+df_10$Target_1 <-Target_1
+
+Target_2<- rep("1677",length(nrow(df_10)))
+df_10$Target_2 <-Target_2
+
+Target_3<- rep("2515",length(nrow(df_10)))
+df_10$Target_3 <-Target_3
+
+Target_4<- rep("3354",length(nrow(df_10)))
+df_10$Target_4 <-Target_4
+
+Population<- rep("1677326",length(nrow(df_10)))
+df_10$Population <-Population
+
+Population2011<- rep("1458545",length(nrow(df_10)))
+df_10$Population2011 <-Population2011
+
+#11
+Target_1<- rep("3475",length(nrow(df_11)))
+df_11$Target_1 <-Target_1
+
+Target_2<- rep("69505",length(nrow(df_11)))
+df_11$Target_2 <-Target_2
+
+Target_3<- rep("104258",length(nrow(df_11)))
+df_11$Target_3 <-Target_3
+
+Target_4<- rep("139011",length(nrow(df_11)))
+df_11$Target_4 <-Target_4
+
+Population<- rep("69505645",length(nrow(df_11)))
+df_11$Population <-Population
+
+Population2011<- rep("60439692",length(nrow(df_11)))
+df_11$Population2011 <-Population2011
+
+#12
+Target_1<- rep("1457",length(nrow(df_12)))
+df_12$Target_1 <-Target_1
+
+Target_2<- rep("29154",length(nrow(df_12)))
+df_12$Target_2 <-Target_2
+
+Target_3<- rep("43731",length(nrow(df_12)))
+df_12$Target_3 <-Target_3
+
+Target_4<- rep("58308",length(nrow(df_12)))
+df_12$Target_4 <-Target_4
+
+Population<- rep("29154181",length(nrow(df_12)))
+df_12$Population <-Population
+
+Population2011<- rep("25351462",length(nrow(df_12)))
+df_12$Population2011 <-Population2011
+
+#13
+Target_1<- rep("394",length(nrow(df_13)))
+df_13$Target_1 <-Target_1
+
+Target_2<- rep("7894",length(nrow(df_13)))
+df_13$Target_2 <-Target_2
+
+Target_3<- rep("11841",length(nrow(df_13)))
+df_13$Target_3 <-Target_3
+
+Target_4<- rep("15788",length(nrow(df_13)))
+df_13$Target_4 <-Target_4
+
+Population<- rep("7894292",length(nrow(df_13)))
+df_13$Population <-Population
+
+Population2011<- rep("6864602",length(nrow(df_13)))
+df_13$Population2011 <-Population2011
+
+#14
+Target_1<- rep(" ",length(nrow(df_14)))
+df_14$Target_1 <-Target_1
+
+Target_2<- rep(" ",length(nrow(df_14)))
+df_14$Target_2 <-Target_2
+
+Target_3<- rep(" ",length(nrow(df_14)))
+df_14$Target_3 <-Target_3
+
+Target_4<- rep(" ",length(nrow(df_14)))
+df_14$Target_4 <-Target_4
+
+Population<- rep(" ",length(nrow(df_14)))
+df_14$Population <-Population
+
+Population2011<- rep(" ",length(nrow(df_14)))
+df_14$Population2011 <-Population2011
+
+#15
+Target_1<- rep("1896",length(nrow(df_15)))
+df_15$Target_1 <-Target_1
+
+Target_2<- rep("37936",length(nrow(df_15)))
+df_15$Target_2 <-Target_2
+
+Target_3<- rep("56904",length(nrow(df_15)))
+df_15$Target_3 <-Target_3
+
+Target_4<- rep("75872",length(nrow(df_15)))
+df_15$Target_4 <-Target_4
+
+Population<- rep("37936354",length(nrow(df_15)))
+df_15$Population <-Population
+
+Population2011<- rep("32988134",length(nrow(df_15)))
+df_15$Population2011 <-Population2011
+
+#16
+Target_1<- rep("3512",length(nrow(df_16)))
+df_16$Target_1 <-Target_1
+
+Target_2<- rep("70259",length(nrow(df_16)))
+df_16$Target_2 <-Target_2
+
+Target_3<- rep("105389",length(nrow(df_16)))
+df_16$Target_3 <-Target_3
+
+Target_4<- rep("140519",length(nrow(df_16)))
+df_16$Target_4 <-Target_4
+
+Population<- rep("70259591",length(nrow(df_16)))
+df_16$Population <-Population
+
+Population2011<- rep("61095297",length(nrow(df_16)))
+df_16$Population2011 <-Population2011
+
+#17
+Target_1<- rep("1920",length(nrow(df_17)))
+df_17$Target_1 <-Target_1
+
+Target_2<- rep("38416",length(nrow(df_17)))
+df_17$Target_2 <-Target_2
+
+Target_3<- rep("57625",length(nrow(df_17)))
+df_17$Target_3 <-Target_3
+
+Target_4<- rep("76833",length(nrow(df_17)))
+df_17$Target_4 <-Target_4
+
+Population<- rep("38416970",length(nrow(df_17)))
+df_17$Population <-Population
+
+Population2011<- rep("33406061",length(nrow(df_17)))
+df_17$Population2011 <-Population2011
+
+#18
+Target_1<- rep("3",length(nrow(df_18)))
+df_18$Target_1 <-Target_1
+
+Target_2<- rep("74",length(nrow(df_18)))
+df_18$Target_2 <-Target_2
+
+Target_3<- rep("111",length(nrow(df_18)))
+df_18$Target_3 <-Target_3
+
+Target_4<- rep("148",length(nrow(df_18)))
+df_18$Target_4 <-Target_4
+
+Population<- rep("74143",length(nrow(df_18)))
+df_18$Population <-Population
+
+Population2011<- rep("64473",length(nrow(df_18)))
+df_18$Population2011 <-Population2011
+
+#19
+Target_1<- rep(" ",length(nrow(df_19)))
+df_19$Target_1 <-Target_1
+
+Target_2<- rep(" ",length(nrow(df_19)))
+df_19$Target_2 <-Target_2
+
+Target_3<- rep(" ",length(nrow(df_19)))
+df_19$Target_3 <-Target_3
+
+Target_4<- rep(" ",length(nrow(df_19)))
+df_19$Target_4 <-Target_4
+
+Population<- rep(" ",length(nrow(df_19)))
+df_19$Population <-Population
+
+Population2011<- rep(" ",length(nrow(df_19)))
+df_19$Population2011 <-Population2011
+
+#20
+Target_1<- rep("4176",length(nrow(df_20)))
+df_20$Target_1 <-Target_1
+
+Target_2<- rep("83520",length(nrow(df_20)))
+df_20$Target_2 <-Target_2
+
+Target_3<- rep("125281",length(nrow(df_20)))
+df_20$Target_3 <-Target_3
+
+Target_4<- rep("167041",length(nrow(df_20)))
+df_20$Target_4 <-Target_4
+
+Population<- rep("83520830",length(nrow(df_20)))
+df_20$Population <-Population
+
+Population2011<- rep("72626809",length(nrow(df_20)))
+df_20$Population2011 <-Population2011
+
+#21
+Target_1<- rep("6461",length(nrow(df_21)))
+df_21$Target_1 <-Target_1
+
+Target_2<- rep("129230",length(nrow(df_21)))
+df_21$Target_2 <-Target_2
+
+Target_3<- rep("193845",length(nrow(df_21)))
+df_21$Target_3 <-Target_3
+
+Target_4<- rep("258460",length(nrow(df_21)))
+df_21$Target_4 <-Target_4
+
+Population<- rep("129230482",length(nrow(df_21)))
+df_21$Population <-Population
+
+Population2011<- rep("112374333",length(nrow(df_21)))
+df_21$Population2011 <-Population2011
+
+#22
+Target_1<- rep("164",length(nrow(df_22)))
+df_22$Target_1 <-Target_1
+
+Target_2<- rep("3284",length(nrow(df_22)))
+df_22$Target_2 <-Target_2
+
+Target_3<- rep("4926",length(nrow(df_22)))
+df_22$Target_3 <-Target_3
+
+Target_4<- rep("6568",length(nrow(df_22)))
+df_22$Target_4 <-Target_4
+
+Population<- rep("3284163",length(nrow(df_22)))
+df_22$Population <-Population
+
+Population2011<- rep("2855794",length(nrow(df_22)))
+df_22$Population2011 <-Population2011
+
+#23
+Target_1<- rep("170",length(nrow(df_23)))
+df_23$Target_1 <-Target_1
+
+Target_2<- rep("3411",length(nrow(df_23)))
+df_23$Target_2 <-Target_2
+
+Target_3<- rep("5117",length(nrow(df_23)))
+df_23$Target_3 <-Target_3
+
+Target_4<- rep("6823",length(nrow(df_23)))
+df_23$Target_4 <-Target_4
+
+Population<- rep("3411922",length(nrow(df_23)))
+df_23$Population <-Population
+
+Population2011<- rep("2966889",length(nrow(df_23)))
+df_23$Population2011 <-Population2011
+
+#24
+Target_1<- rep("63",length(nrow(df_24)))
+df_24$Target_1 <-Target_1
+
+Target_2<- rep("1261",length(nrow(df_24)))
+df_24$Target_2 <-Target_2
+
+Target_3<- rep("1892",length(nrow(df_24)))
+df_24$Target_3 <-Target_3
+
+Target_4<- rep("2523",length(nrow(df_24)))
+df_24$Target_4 <-Target_4
+
+Population<- rep("1261786",length(nrow(df_24)))
+df_24$Population <-Population
+
+Population2011<- rep("1097206",length(nrow(df_24)))
+df_24$Population2011 <-Population2011
+
+#25
+Target_1<- rep("113",length(nrow(df_25)))
+df_25$Target_1 <-Target_1
+
+Target_2<- rep("2275",length(nrow(df_25)))
+df_25$Target_2 <-Target_2
+
+Target_3<- rep("3412",length(nrow(df_25)))
+df_25$Target_3 <-Target_3
+
+Target_4<- rep("4550",length(nrow(df_25)))
+df_25$Target_4 <-Target_4
+
+Population<- rep("2275277",length(nrow(df_25)))
+df_25$Population <-Population
+
+Population2011<- rep("1978502",length(nrow(df_25)))
+df_25$Population2011 <-Population2011
+
+#26
+Target_1<- rep("2413",length(nrow(df_26)))
+df_26$Target_1 <-Target_1
+
+Target_2<- rep("48270",length(nrow(df_26)))
+df_26$Target_2 <-Target_2
+
+Target_3<- rep("72405",length(nrow(df_26)))
+df_26$Target_3 <-Target_3
+
+Target_4<- rep("96540",length(nrow(df_26)))
+df_26$Target_4 <-Target_4
+
+Population<- rep("48270350",length(nrow(df_26)))
+df_26$Population <-Population
+
+Population2011<- rep("41974218",length(nrow(df_26)))
+df_26$Population2011 <-Population2011
+
+#27
+Target_1<- rep("71",length(nrow(df_27)))
+df_27$Target_1 <-Target_1
+
+Target_2<- rep("1435",length(nrow(df_27)))
+df_27$Target_2 <-Target_2
+
+Target_3<- rep("2152",length(nrow(df_27)))
+df_27$Target_3 <-Target_3
+
+Target_4<- rep("2870",length(nrow(df_27)))
+df_27$Target_4 <-Target_4
+
+Population<- rep("1435145",length(nrow(df_27)))
+df_27$Population <-Population
+
+Population2011<- rep("1247953",length(nrow(df_27)))
+df_27$Population2011 <-Population2011
+
+#28
+Target_1<- rep("1595",length(nrow(df_28)))
+df_28$Target_1 <-Target_1
+
+Target_2<- rep("31904",length(nrow(df_28)))
+df_28$Target_2 <-Target_2
+
+Target_3<- rep("47857",length(nrow(df_28)))
+df_28$Target_3 <-Target_3
+
+Target_4<- rep("63809",length(nrow(df_28)))
+df_28$Target_4 <-Target_4
+
+Population<- rep("31904838",length(nrow(df_28)))
+df_28$Population <-Population
+
+Population2011<- rep("27743338",length(nrow(df_28)))
+df_28$Population2011 <-Population2011
+
+#29
+Target_1<- rep("3941",length(nrow(df_29)))
+df_29$Target_1 <-Target_1
+
+Target_2<- rep("78830",length(nrow(df_29)))
+df_29$Target_2 <-Target_2
+
+Target_3<- rep("118246",length(nrow(df_29)))
+df_29$Target_3 <-Target_3
+
+Target_4<- rep("157661",length(nrow(df_29)))
+df_29$Target_4 <-Target_4
+
+Population<- rep("78830702",length(nrow(df_29)))
+df_29$Population <-Population
+
+Population2011<- rep("68548437",length(nrow(df_29)))
+df_29$Population2011 <-Population2011
+
+#30
+Target_1<- rep("35",length(nrow(df_30)))
+df_30$Target_1 <-Target_1
+
+Target_2<- rep("702",length(nrow(df_30)))
+df_30$Target_2 <-Target_2
+
+Target_3<- rep("1053",length(nrow(df_30)))
+df_30$Target_3 <-Target_3
+
+Target_4<- rep("1404",length(nrow(df_30)))
+df_30$Target_4 <-Target_4
+
+Population<- rep("702163",length(nrow(df_30)))
+df_30$Population <-Population
+
+Population2011<- rep("610577",length(nrow(df_30)))
+df_30$Population2011 <-Population2011
+
+#31
+Target_1<- rep("4148",length(nrow(df_31)))
+df_31$Target_1 <-Target_1
+
+Target_2<- rep("82969",length(nrow(df_31)))
+df_31$Target_2 <-Target_2
+
+Target_3<- rep("124453",length(nrow(df_31)))
+df_31$Target_3 <-Target_3
+
+Target_4<- rep("165938",length(nrow(df_31)))
+df_31$Target_4 <-Target_4
+
+Population<- rep("82969084",length(nrow(df_31)))
+df_31$Population <-Population
+
+Population2011<- rep("72147030",length(nrow(df_31)))
+df_31$Population2011 <-Population2011
+
+#32
+Target_1<- rep(" ",length(nrow(df_32)))
+df_32$Target_1 <-Target_1
+
+Target_2<- rep(" ",length(nrow(df_32)))
+df_32$Target_2 <-Target_2
+
+Target_3<- rep(" ",length(nrow(df_32)))
+df_32$Target_3 <-Target_3
+
+Target_4<- rep(" ",length(nrow(df_32)))
+df_32$Target_4 <-Target_4
+
+Population<- rep(" ",length(nrow(df_32)))
+df_32$Population <-Population
+
+Population2011<- rep(" ",length(nrow(df_32)))
+df_32$Population2011 <-Population2011
+
+#33
+Target_1<- rep("211",length(nrow(df_33)))
+df_33$Target_1 <-Target_1
+
+Target_2<- rep("4225",length(nrow(df_33)))
+df_33$Target_2 <-Target_2
+
+Target_3<- rep("6337",length(nrow(df_33)))
+df_33$Target_3 <-Target_3
+
+Target_4<- rep("8450",length(nrow(df_33)))
+df_33$Target_4 <-Target_4
+
+Population<- rep("4225004",length(nrow(df_33)))
+df_33$Population <-Population
+
+Population2011<- rep("3673917",length(nrow(df_33)))
+df_33$Population2011 <-Population2011
+
+#34
+Target_1<- rep("579",length(nrow(df_34)))
+df_34$Target_1 <-Target_1
+
+Target_2<- rep("11599",length(nrow(df_34)))
+df_34$Target_2 <-Target_2
+
+Target_3<- rep("17398",length(nrow(df_34)))
+df_34$Target_3 <-Target_3
+
+Target_4<- rep("23198",length(nrow(df_34)))
+df_34$Target_4 <-Target_4
+
+Population<- rep("11599235",length(nrow(df_34)))
+df_34$Population <-Population
+
+Population2011<- rep("10086292",length(nrow(df_34)))
+df_34$Population2011 <-Population2011
+
+#35
+Target_1<- rep("11489",length(nrow(df_35)))
+df_35$Target_1 <-Target_1
+
+Target_2<- rep("229784",length(nrow(df_35)))
+df_35$Target_2 <-Target_2
+
+Target_3<- rep("344676",length(nrow(df_35)))
+df_35$Target_3 <-Target_3
+
+Target_4<- rep("459568",length(nrow(df_35)))
+df_35$Target_4 <-Target_4
+
+Population<- rep("229784192",length(nrow(df_35)))
+df_35$Population <-Population
+
+Population2011<- rep("199812341",length(nrow(df_35)))
+df_35$Population2011 <-Population2011
+
+#36
+Target_1<- rep("5248",length(nrow(df_36)))
+df_36$Target_1 <-Target_1
+
+Target_2<- rep("104967",length(nrow(df_36)))
+df_36$Target_2 <-Target_2
+
+Target_3<- rep("157451",length(nrow(df_36)))
+df_36$Target_3 <-Target_3
+
+Target_4<- rep("209935",length(nrow(df_36)))
+df_36$Target_4 <-Target_4
+
+Population<- rep("104967532",length(nrow(df_36)))
+df_36$Population <-Population
+
+Population2011<- rep("91276115",length(nrow(df_36)))
+df_36$Population2011 <-Population2011
+
+
+
+df=rbind(df_1,df_2,df_3,df_4,df_5,df_6,df_7,df_8,df_9,df_10,df_11,df_12,df_13,df_14,df_15,df_16,df_17,df_18,df_19,df_20,df_21,df_22,df_23,df_24,df_25,df_26,df_27,df_28,df_29,df_30,df_31,df_32,df_33,df_34,df_35,df_36)
+
+
+#subsetting State wise
+unique_state<- unique(df$State)
+unique_state<- sort(unique_state)
+
+j = 1
+for(j in seq(length(unique_state)))
+{
+  
+#j=22
+  
+  {
+    df_new<- data.frame(State=character(),Date=character(),Total_Active = double(),Rate=double(),Target_1=double(),Target_2=double(),Target_3=double(),Target_4=double(),Population=double(),population2011=double())
+
+    sub_data <- subset(df,df$State==unique_state[j])
+    
+    # Check if sub_data is empty
+    
+    # if (nrow(sub_data) > 0)
+    #   for (i in seq(unique(nrow(sub_data)))) {
+    #     # ... (rest of your inner loop)
+    #     temp <- data.frame(unique_state[j], i, m4, m1, m2, m3, m5, m6, m7, m8, m9, m10)
+    #     df_new <- rbind(df_new, temp)
+    #   }
+  
+
+    {  for (i in seq(unique(nrow(sub_data))))
+    {
+      last_row <- nrow(sub_data)
+      m1 <- sub_data$`Total Active`[i + min(c(7, last_row - i))]
+      # m1 <-sub_data$`Total Active`[i+7]
+      m2=(1/10+((sub_data$`Total Active`[i+7]-sub_data$`Total Active`[i])/(7*(sub_data$`Total Active`[i+7]))))
+      m3=((sub_data$`Total Active`[i+7]-sub_data$`Total Active`[i])/(7*(sub_data$`Total Active`[i+7])))
+      m4=sub_data$Date[i+7]
+      m5=sub_data$Target_1[1]
+      m6=sub_data$Target_2[1]
+      m7=sub_data$Target_3[1]
+      m8=sub_data$Target_4[1]
+      m9=sub_data$Population[1]
+      m10=sub_data$Population2011[1]
+      temp<- data.frame(unique_state[j],i,m4,m1,m2,m3,m5,m6,m7,m8,m9,m10)
+      df_new<- rbind(df_new,temp)
+    }
+    }
+    
+    names(df_new) <- c("State","No.","Date","Total Active","Rate","Rate-mu","Target_1","Target_2","Target_3","Target_4","Population","Population2011")
+    
+    month_wise<-data.frame((format(df_new$Date,"%Y-%m")),df_new)
+    
+    names(month_wise) <- c("Month","State","No.","Date","Total Active","Rate","Rate-mu","Target_1","Target_2","Target_3","Target_4","Population","Population2011")
+    month_wise=na.omit(month_wise)
+    month_wise$Rate[!is.finite(month_wise$Rate)]=0
+    month_wise$`Rate-mu`[!is.finite(month_wise$`Rate-mu`)]=0
+    
+    ####now we predict for future times
+    
+    #future prediction
+    df_a=subset(month_wise,month_wise$Date>as.Date.character(month_wise[nrow(month_wise),4]-6)&month_wise$Date<as.Date.character(month_wise[nrow(month_wise),4]+20))
+    
+    #estimate lamda(t)
+    df_l<- data.frame(State=character(),Date=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),Target_1=double(),Target_2=double(),Target_3=double(),Target_4=double(),Population=double(),population2011=double())
+    
+    for (i in seq(unique(nrow(df_a)))) 
+    { 
+      m1 = df_a$Date[i+4] 
+      m2 = df_a$`Total Active`[i+4]
+      m3 = df_a$Rate[i+4]
+      m4 = df_a$`Rate-mu`[i+4]
+      if (nrow(df_a) >= 4) {
+        # Existing calculations for m1, m2, m3, and m4 (assuming they are within bounds)
+        m5 <- (df_a$Rate[i] + df_a$Rate[i+1] + df_a$Rate[i+2] + df_a$Rate[i+3]) / 4
+      }
+      m5 = (df_a$Rate[i] + df_a$Rate[i+1] + df_a$Rate[i+2] + df_a$Rate[i+3]) / 4
+      m6 = df_a$Target_1[1]
+      m7 = df_a$Target_2[1]
+      m8 = df_a$Target_3[1]
+      m9 = df_a$Target_4[1]
+      m10 = df_a$State[1]
+      m11 = df_a$Population[1]
+      m12 = df_a$Population2011[1]
+      temp <- data.frame(i,m10,m1,m2,m3,m4,m5,m6,m7,m8,m9,m11,m12)
+      df_l <- rbind(df_l,temp)
+    }
+    names(df_l) <- c("No.","State","Date","Total Active","Rate","Rate-mu","categ","Target_1","Target_2","Target_3","Target_4","Population","Population2011")
+    df_l=na.omit(df_l)
+    
+    df_l_new<- data.frame(State=character(),Date=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double(),Target_1=double(),Target_2=double(),Target_3=double(),Target_4=double(),Population=double(),population2011=double())
+    for (i in seq(unique(nrow(df_l)))) 
+    { 
+      m1=df_l$Date[i+1] 
+      m2=df_l$`Total Active`[i+1]
+      m3=df_l$Rate[i+1]
+      m4=df_l$`Rate-mu`[i+1]
+      m5=df_l$categ[i+1]
+      m6=(df_l$`Total Active`[i])*(1+(df_l$categ[1]-0.1))
+      m7=df_l$Target_1[1]
+      m8=df_l$Target_2[1]
+      m9=df_l$Target_3[1]
+      m10=df_l$Target_4[1]
+      m11=df_l$State[1]
+      m12=df_l$Population[1]
+      m13=df_l$Population2011[1]
+      temp<- data.frame(i,m11,m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m12,m13)
+      df_l_new<- rbind(df_l_new,temp)
+    }
+    
+    names(df_l_new) <- c("No.","State","Date","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases","Target_1","Target_2","Target_3","Target_4","Population","Population2011")
+    df_l_new=na.omit(df_l_new)
+    
+    ###start iterating with model  
+    df_l_new[nrow(df_l_new)+10000,] <- NA
+    
+    for(p in seq(unique(nrow(df_l_new))))
+    {
+      if (p == 1)
+        df_l_new$No.[p]=(df_l_new$No.[1])
+      if(p>1)
+        df_l_new$No.[p]=(df_l_new$No.[p-1])+1
+    }
+    
+    
+    for(t in seq(unique(nrow(df_l_new))))
+    {
+      if (t == 1)
+        df_l_new$Date[t]=as.Date.character(df_l_new$Date[1])
+      if(t>1)
+        df_l_new$Date[t]=as.Date.character(df_l_new$Date[t-1])+1
+    } 
+    
+    
+    for(i in seq(unique(nrow(df_l_new))))
+    {
+      if (i == 1)
+        df_l_new$model[i]=df_l_new$`Total Active`[1]
+      if(i>1)
+        df_l_new$model[i]<-df_l_new$model[i-1]*(1+(df_l_new$categ[1]-0.1))
+    }
+    
+    df_l_new$model=floor(df_l_new$model)
+    
+    df_l_month<-data.frame((format(df_l_new$Date,"%Y-%m")),df_l_new)
+    names(df_l_month) <- c("Month","No.","State","Date","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","Target_1","Target_2","Target_3","Target_4","Population","Population2011","model_generated")
+    
+    ###take days count    
+    x1=subset(df_l_new,df_l_new$model>as.integer(df_l_new$Target_1[1]))
+    x2=subset(df_l_new,df_l_new$model>as.integer(df_l_new$Target_2[1]))
+    x3=subset(df_l_new,df_l_new$model>as.integer(df_l_new$Target_3[1]))
+    x4=subset(df_l_new,df_l_new$model>as.integer(df_l_new$Target_4[1]))
+    
+    y=c(x1[1,1],x2[1,1],x3[1,1],x4[1,1])
+    
+    
+    df_days<- data.frame(State=character(),Date=character(),Total_Active = double(),categ=double(),Days_Target_1=double(),Days_Target_2=double(),Days_Target_3=double(),Days_Target_4=double(),Target_1=double(),Target_2=double(),Target_3=double(),Target_4=double(),Population=double(),population2011=double())
+    m1=df_l_month$Date[1]
+    m2=df_l_month$`Total Active`[1]
+    m4=df_l_month$categ[1]
+    m5=y[1]
+    m6=y[2]
+    m7=y[3]
+    m8=y[4]
+    m9=df_l$Target_1[2]
+    m10=df_l$Target_2[2]
+    m11=df_l$Target_3[2]
+    m12=df_l$Target_4[2]
+    m13=df_l$Population[2]
+    m14=df_l$Population2011[2]
+    temp<- data.frame(unique_state[j],m1,m2,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14)
+    df_days<- rbind(df_days,temp)
+    
+    
+  }
+  
+  names(df_days) <- c("State","Date","Current Active Cases","Rate(lamda-t)","Days to 50 per million cases","Days to 1000 per million cases","Days to 1500 per million cases","Days to 0.2% of population cases","Population-50 per million","Population-1000 per million","Population-1500 per million","0.2% of population","Projected Population-2020","Population as on 2011")
+  df_days[is.na(df_days)]<-" "  
+  df_days=df_days[,c(1,2,3,4,5,6,7,8,14,13,9,10,11,12)]
+  
+  #Writing State data
+  my_name_1 <- paste(j,"statedaystocritical",sep="-")
+  my_name_2 <- paste(my_name_1,"csv",sep=".")
+  my_name <- paste0("csv/statecritical/", my_name_2)
+  write.csv(df_days, file = my_name, row.names=FALSE)
+  
+  
+}  
+
+
+
+

@@ -1,0 +1,1141 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+73,"Hassan",6307,60,"Male","SARI",NA,"DM & COPD & CVA",2020-06-11,2020-06-12,2020-06-12,NA
+192,"Hassan",7743,60,"Female","Travel history","Fever & Breathlessness","DM",2020-06-16,2020-06-28,2020-06-28,NA
+219,"Hassan",13336,60,"Female","Contact under tracing","Stomach Pain","-",2021-04-12,2020-06-26,2020-06-29,NA
+252,"Hassan",15639,30,"Male","Under investigation","Asymptomatic","-",2020-06-29,2020-06-30,2020-07-01,NA
+265,"Hassan",16644,65,"Male","ILI","Fever &  Breathlessness","DM, TB, ASTHMA, EPILEPSY",2020-07-01,2020-07-02,2020-07-02,NA
+284,"Hassan",15653,75,"Female","ILI","Fever, Chills","COPD, IHD, DM & HTN",2020-06-28,2020-07-03,2020-07-03,NA
+320,"Hassan",19863,32,"Male","Contact under tracing","-","-",2020-07-02,2020-07-04,2020-07-04,NA
+351,"Hassan",19867,77,"Male","SARI","Cold & Fever & Cough","IHD, HTN, DM",2020-07-03,2020-07-04,2020-07-05,NA
+399,"Hassan",25253,38,"Female","Inter district travel history – Bengaluru","Fever & Breathlessness",NA,2020-07-04,2020-07-04,2020-07-06,NA
+406,"Hassan",25466,47,"Male","Under investigation","Cough","-",2020-07-06,2020-07-07,2020-07-07,NA
+437,"Hassan",13329,85,"Male","CONTACT OF P 11259",NA,"CKD",2020-06-29,2020-07-07,2020-07-08,NA
+457,"Hassan",25265,54,"Male","Contact under tracing","-","CKD",2020-07-06,2020-07-07,2020-07-08,NA
+459,"Hassan",26884,48,"Female","SARI","Breathlessness","-",2020-07-07,2020-07-08,2020-07-08,NA
+474,"Hassan",25268,77,"Male","ILI","Breathlessness","CKD, DM",2020-07-06,2020-07-09,2020-07-09,NA
+478,"Hassan",28936,76,"Female","ILI","Fever & Cough","DM, HTN",2020-07-06,2020-07-09,2020-07-09,NA
+543,"Hassan",10646,30,"Male","SARI","Breathlessness & Fever","-",2020-06-26,2020-07-10,2020-07-11,NA
+593,"Hassan",35114,47,"Male","Contact under tracing","Breathlessness & Fever","CKD",2020-07-10,2020-07-11,2020-07-11,NA
+651,"Hassan",25472,57,"Male","SARI","Breathlessness & Fever","-",2020-07-07,2020-07-12,2020-07-12,NA
+668,"Hassan",35115,45,"Female","SARI","Breathlessness & Fever","-",2020-07-11,2020-07-12,2020-07-12,NA
+679,"Hassan",37121,60,"Male","SARI","Breathlessness & Fever","-",2020-07-11,2020-07-12,2020-07-12,NA
+736,"Hassan",39757,82,"Female","Contact under tracing","Fever","DM,  HTN, IHD",2020-07-09,2020-07-09,2020-07-13,NA
+820,"Hassan",41985,48,"Male","SARI","Breathlessness & Fever","IHD, COPD",2020-07-10,2020-07-13,2020-07-14,NA
+992,"Hassan",37056,75,"Male","SARI","Fever & Breathlessness","IHD",2020-07-12,2020-07-15,2020-07-16,NA
+993,"Hassan",39586,65,"Female","SARI","Fever & Breathlessness","IHD, DM, HTN",2020-07-13,2020-07-16,2020-07-16,NA
+1305,"Hassan",63692,48,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-18,2020-07-19,"Brought dead"
+1306,"Hassan",63694,78,"Male","ILI","Fever & Cough & Breathlessness","-",2020-07-18,2020-07-18,2020-07-19,NA
+1384,"Hassan",68869,42,"Male","Contact under tracing","Fever & Breathlessness","DM",NA,2020-07-19,2020-07-20,"Died at his residence"
+1417,"Hassan",63690,34,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-20,2020-07-21,NA
+1445,"Hassan",71978,29,"Male","Travel history Domestic","Cough & Breathlessness","-",NA,2020-07-20,2020-07-21,"Died at his residence"
+1446,"Hassan",72539,62,"Male","ILI","Breathlessness","DM",2020-07-20,2020-07-21,2020-07-21,NA
+1474,"Hassan",72412,47,"Male","SARI","Breathlessness","DM",2020-07-20,2020-07-21,2020-07-22,NA
+1496,"Hassan",76082,55,"Male","Contact under tracing","-","DM",NA,2020-07-21,2020-07-22,"Brought dead"
+1502,"Hassan",76284,42,"Female","SARI","Breathlessness","TB",NA,2020-07-21,2020-07-22,"Brought dead"
+1594,"Hassan",80018,60,"Male","Contact under tracing","Fever & Cough & Breathlessness","-",NA,2020-07-23,2020-07-23,"Brought dead"
+1597,"Hassan",82594,58,"Male","SARI","Breathlessness","DM, CKD",2020-07-21,2020-07-23,2020-07-23,NA
+1633,"Hassan",59941,52,"Male","ILI","Fever & Breathlessness","-",2020-07-20,2020-07-24,2020-07-24,NA
+1668,"Hassan",76179,79,"Female","ILI","Fever & Breathlessness","HTN, DM",2020-07-22,2020-07-24,2020-07-24,NA
+1745,"Hassan",75628,68,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-22,2020-07-25,2020-07-25,NA
+1781,"Hassan",94464,75,"Female","ILI","-","DM",2020-07-24,2020-07-25,2020-07-25,NA
+1790,"Hassan",48689,65,"Male","SARI","Cough","HTN, IHD",2020-07-15,2020-07-26,2020-07-26,NA
+1824,"Hassan",82764,47,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-21,2020-07-26,2020-07-26,NA
+1832,"Hassan",91056,58,"Male","SARI","Breathlessness","DM",2020-07-22,2020-07-26,2020-07-26,NA
+1869,"Hassan",40038,72,"Male","SARI","Fever & Breathlessness","CKD, DM, HTN",2020-07-13,2020-07-27,2020-07-27,NA
+1959,"Hassan",63967,72,"Male","SARI","Fever","IHD, ASTHMA",2020-07-19,2020-07-27,2020-07-28,NA
+1971,"Hassan",72875,84,"Male","ILI","Fever","DM, HTN",2020-07-21,2020-07-27,2020-07-28,NA
+1992,"Hassan",91460,38,"Female","ILI","Fever","-",2020-07-24,2020-07-24,2020-07-28,NA
+2012,"Hassan",100620,71,"Female","ILI","-","HTN, IHD",2020-07-26,2020-07-28,2020-07-28,NA
+2039,"Hassan",108202,47,"Male","ILI","Fever","DM",NA,2020-06-28,2020-07-28,"Died at his residence"
+2053,"Hassan",60049,66,"Male","SARI","-","HTN, IHD",2020-07-18,2020-07-29,2020-07-29,NA
+2060,"Hassan",69775,50,"Female","SARI","Fever","IHD, Asthma",2020-07-20,2020-07-29,2020-07-29,NA
+2066,"Hassan",76335,53,"Female","SARI","Fever","DM, HTN",2020-07-21,2020-07-28,2020-07-29,NA
+2093,"Hassan",102332,44,"Female","SARI","Fever","DM",2020-07-25,2020-07-28,2020-07-29,NA
+2156,"Hassan",81733,60,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-07-22,2020-07-29,2020-07-30,NA
+2183,"Hassan",112555,68,"Male","SARI","Breathlessness","HTN, IHD",2020-07-27,2020-07-30,2020-07-30,NA
+2210,"Hassan",117727,52,"Male","SARI","Breathlessness","DM",2020-07-28,2020-07-28,2020-07-30,NA
+2211,"Hassan",117735,26,"Female","SARI","Breathlessness","-",2020-07-28,2020-07-29,2020-07-30,NA
+2214,"Hassan",117956,50,"Male","SARI","Fever","-",NA,2020-07-28,2020-07-30,"Brought dead"
+2215,"Hassan",118079,55,"Female","SARI","Fever","-",NA,2020-07-29,2020-07-30,"Brought dead"
+2301,"Hassan",129511,65,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-29,2020-07-30,2020-07-31,NA
+2318,"Hassan",94319,68,"Male","ILI","Fever & Breathlessness","DM, HTN, CVD",2020-07-25,2020-07-31,2020-08-01,NA
+2399,"Hassan",132427,55,"Female","SARI","Breathlessness","DM, HTN, CVD",NA,2020-08-01,2020-08-01,"Brought dead"
+2447,"Hassan",124549,77,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-31,2020-08-02,2020-08-02,NA
+2476,"Hassan",136328,31,"Male","SARI","Fever & Breathlessness","DM",2020-07-29,2020-08-02,2020-08-02,NA
+2524,"Hassan",111622,65,"Female","ILI","Fever & Breathlessness","DM",2020-07-29,2020-08-02,2020-08-03,NA
+2550,"Hassan",130535,75,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-30,2020-08-01,2020-08-03,NA
+2554,"Hassan",133716,70,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-31,2020-08-02,2020-08-03,NA
+2574,"Hassan",141560,58,"Male","SARI","-","-",2020-07-31,2020-08-02,2020-08-03,NA
+2576,"Hassan",142269,50,"Male","Contact under tracing","Asymptomatic","DM",NA,2020-08-02,2020-08-03,"Died at his residence"
+2687,"Hassan",148717,3,"Female","Contact under tracing","-","-",NA,2020-08-02,2020-08-04,"Brought dead"
+2688,"Hassan",149991,23,"Female","Contact under tracing","-","-",NA,2020-08-02,2020-08-04,"Brought dead"
+2764,"Hassan",145655,50,"Female","SARI","Breathlessness","DM, AKI",2020-08-02,2020-08-05,2020-08-05,NA
+2766,"Hassan",146129,61,"Male","SARI","Breathlessness","DM, HTN",2020-07-30,2020-08-03,2020-08-05,NA
+2814,"Hassan",115529,70,"Female","ILI","Fever","DM",2020-07-29,2020-08-05,2020-08-06,NA
+2832,"Hassan",131621,60,"Male","ILI","Fever","DM",2020-08-01,2020-08-05,2020-08-06,NA
+2878,"Hassan",159522,55,"Male","SARI","Fever, Breathlessness","-",2020-08-05,2020-08-05,2020-08-06,NA
+2881,"Hassan",162167,80,"Female","SARI","Fever, Breathlessness","HTN",NA,2020-08-05,2020-08-06,"Brought dead"
+2887,"Hassan",80958,63,"Female","ILI","Fever, Breathlessness","DM",2020-07-28,2020-08-01,2020-08-07,NA
+2892,"Hassan",86365,58,"Male","ILI","Fever","DM, HTN",2020-07-24,2020-08-03,2020-08-07,NA
+2896,"Hassan",96251,65,"Male","Conta ct of P- 72042","Fever","DM",2020-07-28,2020-07-31,2020-08-07,NA
+2906,"Hassan",108030,45,"Male","ILI","Fever","-",2020-07-28,2020-08-01,2020-08-07,NA
+2911,"Hassan",111697,58,"Male","ILI","Fever, Breathlessness","HTN, AKI",2020-07-28,2020-08-01,2020-08-07,NA
+2917,"Hassan",117726,73,"Male","ILI","Fever","DM",2020-07-30,2020-08-01,2020-08-07,NA
+2927,"Hassan",134947,52,"Female","ILI","Breathlessness","-",NA,2020-08-07,2020-08-07,"Brought dead"
+2928,"Hassan",136209,75,"Male","SARI","Breathlessness","HTN",2020-08-01,2020-08-07,2020-08-07,NA
+2929,"Hassan",136260,59,"Male","Conta ct under tracin g","Breathlessness","-",NA,2020-08-02,2020-08-07,"Brought dead"
+2986,"Hassan",71669,49,"Male","ILI","Fever","DM, IHD",2020-07-23,2020-07-24,2020-08-08,NA
+2994,"Hassan",80961,38,"Male","ILI","Fever","-",2020-07-21,2020-08-07,2020-08-08,NA
+3040,"Hassan",150019,45,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-07,2020-08-08,NA
+3042,"Hassan",150808,65,"Female","SARI","Fever","DM, HTN",2020-08-04,2020-08-08,2020-08-08,NA
+3046,"Hassan",152956,55,"Male","ILI","Fever","DM, IHD",2020-08-05,2020-08-07,2020-08-08,NA
+3063,"Hassan",166326,55,"Male","SARI","Breathlessness","HTN, IHD",2020-08-07,2020-08-07,2020-08-08,NA
+3088,"Hassan",81628,50,"Male","SARI","Fever","HTN",NA,2020-07-05,2020-08-09,"Brought dead"
+3098,"Hassan",108232,61,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-27,2020-08-08,2020-08-09,NA
+3104,"Hassan",118409,49,"Male","ILI","Fever, Cough","HTN, CKD",2020-07-25,2020-07-28,2020-08-09,NA
+3116,"Hassan",129347,62,"Male","SARI","Fever, Breathlessness","-",2020-07-31,2020-07-31,2020-08-09,NA
+3151,"Hassan",171130,45,"Female","ILI","Fever","DM",NA,2020-08-07,2020-08-09,"Brought dead"
+3181,"Hassan",181158,55,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-08-08,2020-08-09,2020-08-09,NA
+3184,"Hassan",183900,70,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2020-08-08,2020-08-09,"Brought dead"
+3221,"Hassan",129393,61,"Male","Contact of P-85774","Fever","DM",2020-08-06,2020-08-09,2020-08-10,NA
+3229,"Hassan",141696,67,"Male","SARI","Breathlessness","DM, HTN",2020-08-03,2020-08-10,2020-08-10,NA
+3236,"Hassan",145834,45,"Female","ILI","Fever","CLD",2020-08-04,2020-08-09,2020-08-10,NA
+3238,"Hassan",146418,46,"Male","ILI","Fever","DM",2020-08-05,2020-08-09,2020-08-10,NA
+3297,"Hassan",187014,45,"Female","ILI","Fever","DM, HTN",2020-08-09,2020-08-10,2020-08-10,NA
+3298,"Hassan",187018,65,"Male","ILI","Fever","DM, HTN",2020-08-09,2020-08-10,2020-08-10,NA
+3367,"Hassan",182987,50,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-08,2020-08-10,2020-08-11,NA
+3372,"Hassan",186938,65,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2020-08-08,2020-08-08,2020-08-11,NA
+3375,"Hassan",188601,40,"Female","ILI","Fever","AKI",2020-08-08,2020-08-11,2020-08-11,NA
+3412,"Hassan",123465,33,"Male","ILI","Fever, Cough","DM, HTN",2020-07-31,2020-08-11,2020-08-12,NA
+3424,"Hassan",141674,65,"Female","Contact of P-133769","Fever, Cough","DM, HTN",2020-08-03,2020-08-12,2020-08-12,NA
+3438,"Hassan",152509,75,"Male","Contact of P-152508","Fever, Cough","DM, HTN",2020-08-05,2020-08-11,2020-08-12,NA
+3455,"Hassan",172713,55,"Female","Contact of P-81622","Fever, Cough","HTN, CKD",2020-08-11,2020-08-11,2020-08-12,NA
+3489,"Hassan",198463,67,"Male","ILI","Fever, Cough","DM, HTN",NA,2020-08-11,2020-08-12,"Brought dead"
+3491,"Hassan",198989,60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-09,2020-08-11,2020-08-12,NA
+3540,"Hassan",154827,80,"Female","ILI","Fever, Cough","-",2020-08-04,2020-08-13,2020-08-13,NA
+3600,"Hassan",210293,78,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-12,2020-08-12,2020-08-13,NA
+3674,"Hassan",186055,86,"Male","ILI","Fever","DM, HTN",2020-08-08,2020-08-13,2020-08-14,NA
+3701,"Hassan",214240,60,"Female","SARI","Fever, Breathlessness","-",2020-08-11,2020-08-11,2020-08-14,NA
+3807,"Hassan",219470,48,"Male","ILI","Fever, Cough","-",NA,2020-08-13,2020-08-15,"Brought dead"
+3811,"Hassan",221205,40,"Male","ILI","Fever, Cough","IHD",NA,2020-08-12,2020-08-15,"Brought dead"
+3817,"Hassan",227282,70,"Female","ILI","Fever, Cough","DM",2020-08-14,2020-08-14,2020-08-15,NA
+3818,"Hassan",228303,86,"Male","ILI","Fever, Cough","DM, HTN",NA,2020-08-13,2020-08-15,"Brought dead"
+3937,"Hassan",229997,16,"Male","ILI","Fever, Cough, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3940,"Hassan",231288,66,"Male","SARI","Fever, Cough, Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+3993,"Hassan",180511,56,"Male","Contact under tracing","Fever, Cough","DM, HTN, AKI",2020-08-10,2020-08-16,2020-08-17,NA
+4028,"Hassan",223821,80,"Female","Contact under tracing","Fever","DM",2020-08-14,2020-08-15,2020-08-17,NA
+4032,"Hassan",227276,85,"Female","Contact under tracing","Fever","HTN, IHD",2020-08-14,2020-08-17,2020-08-17,NA
+4037,"Hassan",229527,80,"Female","Contact under tracing","-","-",2020-08-04,2020-08-12,2020-08-17,NA
+4047,"Hassan",236162,50,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-08-15,2020-08-15,2020-08-17,NA
+4052,"Hassan",238164,70,"Female","Contact under tracing","Breathlessness","-",2020-08-11,2020-08-13,2020-08-17,NA
+4055,"Hassan",239747,40,"Male","Contact under tracing","Fever, Cough","CVD",2020-08-12,2020-08-16,2020-08-17,NA
+4056,"Hassan",239758,50,"Male","Contact under tracing","Fever","-",2020-08-14,2020-08-14,2020-08-17,NA
+4057,"Hassan",240127,65,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-13,2020-08-13,2020-08-17,NA
+4112,"Hassan",172712,38,"Male","ILI","Fever","-",NA,2020-08-08,2020-08-18,"Brought dead"
+4122,"Hassan",185441,72,"Female","SARI","Breathlessness","DM, HTN",2020-08-07,2020-08-18,2020-08-18,NA
+4173,"Hassan",231895,75,"Male","ILI","Fever","DM, HTN",2020-08-17,2020-08-10,2020-08-18,NA
+4179,"Hassan",236789,0.33,"Male","ILI","Fever, Cough","DM, HTN",2020-08-16,2020-08-16,2020-08-18,NA
+4188,"Hassan",243337,51,"Male","ILI","Fever","DM",2020-08-16,2020-08-18,2020-08-18,NA
+4189,"Hassan",243908,65,"Female","ILI","Fever","-",NA,2020-08-18,2020-08-18,"Brought dead"
+4193,"Hassan",247113,65,"Female","SARI","-","DM",2020-08-17,2020-08-18,2020-08-18,NA
+4344,"Hassan",181747,70,"Male","Contact of P- 152794","Fever","HTN, DM",2020-08-07,2020-08-18,2020-08-20,NA
+4392,"Hassan",239735,45,"Male","ILI","Fever","DM, AKI",2020-08-11,2020-08-19,2020-08-20,NA
+4393,"Hassan",240474,55,"Male","ILI","Fever","-",NA,2020-08-17,2020-08-20,"Brought dead"
+4397,"Hassan",243335,46,"Female","Contact of P- 244657","Fever","DM, HTN",2020-08-16,2020-08-19,2020-08-20,NA
+4405,"Hassan",251389,55,"Male","SARI","Fever","-",2020-08-15,2020-08-18,2020-08-20,NA
+4406,"Hassan",251996,68,"Female","ILI","Fever","-",2020-08-18,2020-08-19,2020-08-20,NA
+4419,"Hassan",259929,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-20,NA
+4492,"Hassan",250065,35,"Male","ILI","Fever","CLD",2020-08-18,2020-08-21,2020-08-21,NA
+4493,"Hassan",252845,68,"Male","ILI","Fever","DM, HTN",2020-08-17,2020-08-21,2020-08-21,NA
+4601,"Hassan",273083,65,"Male","SARI","Cough, Breathlessness","-",2020-08-18,2020-08-22,2020-08-22,NA
+4614,"Hassan",167644,28,"Female","Contact under tracing","-","CKD",2020-08-06,2020-08-21,2020-08-23,NA
+4651,"Hassan",253813,55,"Male","ILI","Fever","CKD",2020-08-18,2020-08-22,2020-08-23,NA
+4662,"Hassan",269069,72,"Male","ILI","Fever","-",2020-08-20,2020-08-22,2020-08-23,NA
+4751,"Hassan",253824,58,"Male","ILI","Fever","DM, HTN, CKD",2020-08-17,2020-08-24,2020-08-24,NA
+4792,"Hassan",285096,55,"Female","ILI","Fever","-",2020-08-19,2020-08-23,2020-08-24,NA
+4798,"Hassan",287556,85,"Male","ILI","Fever","DM, HTN",2020-08-22,2020-08-22,2020-08-24,NA
+4799,"Hassan",288003,85,"Female","ILI","Fever","DM, HTN",NA,2020-08-23,2020-08-24,"Brought dead"
+4802,"Hassan",288840,40,"Female","Contact under tracing","-","DM, CA",2020-08-23,2020-08-23,2020-08-24,NA
+4803,"Hassan",288842,70,"Female","SARI","Fever","-",2020-08-23,2020-08-23,2020-08-24,NA
+4827,"Hassan",199711,35,"Male","ILI","Fever","DM, HTN",2020-08-11,2020-08-24,2020-08-25,NA
+4936,"Hassan",281872,64,"Male","ILI","Fever","Septic shock",2020-08-22,2020-08-24,2020-08-25,NA
+4966,"Hassan",187015,33,"Male","ILI","Fever","DM",2020-08-09,2020-08-25,2020-08-26,NA
+4967,"Hassan",191801,60,"Male","ILI","Fever","COPD, AKI",2020-08-13,2020-08-25,2020-08-26,NA
+4990,"Hassan",236060,60,"Female","ILI","Fever","DM, HTN",2020-08-14,2020-08-25,2020-08-26,NA
+5019,"Hassan",262166,63,"Male","ILI","Fever","-",2020-08-18,2020-08-25,2020-08-26,NA
+5153,"Hassan",239731,60,"Male","ILI","Fever","DM, HTN, AKI",2020-08-16,2020-08-27,2020-08-27,NA
+5190,"Hassan",285487,50,"Male","ILI","Fever","AKI",2020-08-22,2020-08-26,2020-08-27,NA
+5226,"Hassan",316084,70,"Female","ILI","Fever","-",NA,2020-08-26,2020-08-27,"Brought dead"
+5360,"Hassan",320616,80,"Female","SARI","Fever","DM, HTN, IHD",2020-08-25,2020-08-25,2020-08-28,NA
+5384,"Hassan",243334,63,"Male","ILI","Fever","DM, HTN",2020-08-17,2020-08-26,2020-08-29,NA
+5418,"Hassan",283677,70,"Male","ILI","Fever","DM",2020-08-23,2020-08-27,2020-08-29,NA
+5421,"Hassan",289194,66,"Male","ILI","Fever","DM",2020-08-23,2020-08-27,2020-08-29,NA
+5430,"Hassan",295190,70,"Male","ILI","Fever","DM, HTN",2020-08-25,2020-08-27,2020-08-29,NA
+5459,"Hassan",316911,70,"Male","ILI","Fever","DM, HTN",2020-08-26,2020-08-27,2020-08-29,NA
+5480,"Hassan",335594,60,"Male","SARI","Fever","-",2020-08-28,2020-08-28,2020-08-29,NA
+5586,"Hassan",345659,82,"Male","ILI","Fever","DM, HTN",2020-08-26,2020-08-28,2020-08-30,NA
+5615,"Hassan",278237,62,"Female","ILI","Fever","SEPSIS",2020-08-19,2020-08-31,2020-08-31,NA
+5694,"Hassan",348683,84,"Male","ILI","Fever","DM, HTN",2020-08-21,2020-08-25,2020-08-31,NA
+5717,"Hassan",186056,50,"Female","ILI","Fever","DM, RHD",2020-08-09,2020-08-31,2020-09-01,NA
+5787,"Hassan",320219,65,"Male","ILI","Fever","DM, HTN",2020-08-25,2020-08-31,2020-09-01,NA
+5788,"Hassan",321526,84,"Male","ILI","Fever","DM, HTN, IHD, COPD",2020-08-29,2020-08-29,2020-09-01,NA
+5817,"Hassan",352253,50,"Male","SARI","Fever","DM",NA,2020-08-29,2020-09-01,"Brought dead"
+5818,"Hassan",352261,83,"Male","ILI","Fever","-",2020-08-29,2020-08-29,2020-09-01,NA
+5819,"Hassan",352296,48,"Female","SARI","Cough, Breathlessness","-",2020-08-31,2020-08-31,2020-09-01,NA
+5820,"Hassan",352303,40,"Male","SARI","Cough, Breathlessness","-",2020-08-30,2020-08-30,2020-09-01,NA
+5821,"Hassan",352329,40,"Female","ILI","Fever","-",2020-08-30,2020-08-30,2020-09-01,NA
+5829,"Hassan",355292,35,"Female","ILI","Fever","DM, HTN",2020-08-31,2020-08-31,2020-09-01,NA
+5830,"Hassan",356216,80,"Male","SARI","Breathlessness","DM, HTN, CVD",2020-08-24,2020-08-27,2020-09-01,NA
+5834,"Hassan",360852,53,"Male","Contact under tracing","-","DM",2020-08-29,2020-08-31,2020-09-01,NA
+5906,"Hassan",321570,80,"Male","ILI","Fever","DM",2020-08-21,2020-08-27,2020-09-02,NA
+5912,"Hassan",328010,69,"Female","ILI","Fever","DM",2020-08-26,2020-09-01,2020-09-02,NA
+5918,"Hassan",333621,53,"Male","ILI","Fever","HTN, HBSAG",2020-08-29,2020-09-02,2020-09-02,NA
+5947,"Hassan",370781,40,"Female","SARI","Fever","DM, IHD",2020-09-01,2020-09-01,2020-09-02,NA
+5952,"Hassan",223820,70,"Female","ILI","Fever","DM, HTN",2020-08-14,2020-09-02,2020-09-03,NA
+5956,"Hassan",236067,38,"Male","SARI","Fever","DM, HTN",2020-08-16,2020-09-03,2020-09-03,NA
+6001,"Hassan",322243,55,"Male","ILI","Fever","DM, HTN",2020-08-21,2020-09-03,2020-09-03,NA
+6008,"Hassan",331944,73,"Male","ILI","Fever","HTN",2020-08-28,2020-09-03,2020-09-03,NA
+6048,"Hassan",371013,46,"Male","SARI","Fever","DM",2020-09-01,2020-09-01,2020-09-03,NA
+6114,"Hassan",340158,65,"Male","ILI","Fever","DM, HTN, CKD",2020-08-29,2020-09-03,2020-09-04,NA
+6116,"Hassan",341035,23,"Male","ILI","Fever","-",2020-08-29,2020-08-31,2020-09-04,NA
+6215,"Hassan",332861,55,"Female","ILI","Fever","DM, AKI",2020-09-03,2020-09-05,2020-09-05,NA
+6239,"Hassan",352304,57,"Male","ILI","Fever","DM",2020-08-31,2020-09-05,2020-09-05,NA
+6245,"Hassan",355272,75,"Male","ILI","Fever","DM, HTN",2020-08-31,2020-09-04,2020-09-05,NA
+6264,"Hassan",372800,65,"Female","ILI","Fever","DM",2020-09-02,2020-09-05,2020-09-05,NA
+6292,"Hassan",389437,60,"Male","ILI","Fever","HTN",2020-09-04,2020-09-04,2020-09-05,NA
+6293,"Hassan",391713,66,"Female","ILI","Fever","DM, HTN",2020-09-04,2020-09-05,2020-09-05,NA
+6345,"Hassan",347681,60,"Female","ILI","Fever","DM",2020-09-04,2020-09-05,2020-09-06,NA
+6379,"Hassan",391676,60,"Male","ILI","Fever","DM",2020-09-04,2020-09-05,2020-09-06,NA
+6408,"Hassan",214241,70,"Male","SARI","Fever","-",2020-08-13,2020-09-06,2020-09-07,NA
+6508,"Hassan",391649,76,"Female","ILI","Fever","IHD",2020-09-04,2020-09-06,2020-09-07,NA
+6512,"Hassan",396396,64,"Female","ILI","Fever","-",2020-09-04,2020-09-07,2020-09-07,NA
+6523,"Hassan",405275,60,"Male","ILI","Fever","-",2020-09-05,2020-09-05,2020-09-07,NA
+6558,"Hassan",302609,56,"Male","ILI","Fever","IHD",2020-08-25,2020-09-07,2020-09-08,NA
+6606,"Hassan",363328,48,"Female","ILI","Fever","CKD",2020-09-01,2020-09-07,2020-09-08,NA
+6664,"Hassan",408118,57,"Male","ILI","Fever","-",2020-09-05,2020-09-07,2020-09-08,NA
+6672,"Hassan",415110,75,"Male","SARI","Fever, Breathlessness","DM",2020-09-06,2020-09-06,2020-09-08,NA
+6675,"Hassan",423571,45,"Male","SARI","Fever","-",2020-09-07,2020-09-07,2020-09-08,NA
+6739,"Hassan",367197,72,"Male","ILI","Fever","-",2020-08-31,2020-09-08,2020-09-09,NA
+6796,"Hassan",424970,60,"Female","Contact under tracing","-","-",2020-09-07,2020-09-07,2020-09-09,NA
+6797,"Hassan",424971,62,"Male","ILI","Fever","DM, HTN",2020-09-08,2020-09-08,2020-09-09,NA
+6800,"Hassan",428848,70,"Male","ILI","Fever","-",2020-09-08,2020-09-08,2020-09-09,NA
+6811,"Hassan",254717,49,"Female","SARI","Fever, Breathlessness","DM",2020-08-20,2020-09-10,2020-09-10,NA
+6869,"Hassan",384562,58,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-05,2020-09-09,2020-09-10,NA
+6894,"Hassan",413327,65,"Male","ILI","Fever, Cough","-",2020-09-06,2020-09-09,2020-09-10,NA
+6895,"Hassan",413833,58,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-07,2020-09-10,2020-09-10,NA
+6925,"Hassan",433806,75,"Male","ILI","Fever, Cough","DM",2020-09-08,2020-09-09,2020-09-10,NA
+6928,"Hassan",434666,80,"Female","SARI","Breathlessness","-",2020-09-07,2020-09-10,2020-09-10,NA
+6929,"Hassan",434679,58,"Female","SARI","Fever, Breathlessness","-",2020-09-07,2020-09-08,2020-09-10,NA
+6930,"Hassan",434865,25,"Male","Contact under tracing","-","CLD",2020-09-08,2020-09-09,2020-09-10,NA
+6932,"Hassan",436347,72,"Male","SARI","Fever, Cough","DM, IHD",NA,2020-09-09,2020-09-10,"Brought dead"
+7011,"Hassan",398865,66,"Male","ILI","Fever, Cough","DM, AKI",2020-09-04,2020-09-11,2020-09-11,NA
+7154,"Hassan",452830,60,"Female","Contact under tracing","-","DM, HTN, IHD",2020-09-10,2020-09-10,2020-09-12,NA
+7252,"Hassan",445636,60,"Female","ILI","Fever, Cough","-",NA,2020-09-10,2020-09-13,"Brought dead"
+7257,"Hassan",460788,82,"Female","ILI","Fever, Cough","DM",2020-09-05,2020-09-05,2020-09-13,NA
+7258,"Hassan",464848,39,"Male","ILI","Fever, Cough","-",2020-09-01,2020-09-08,2020-09-13,NA
+7259,"Hassan",464851,55,"Male","ILI","Fever, Cough","DM, HTN",2020-09-05,2020-09-06,2020-09-13,NA
+7378,"Hassan",476002,65,"Male","Contact under tracing","-","DM, HTN",2020-09-13,2020-09-13,2020-09-14,NA
+7791,"Hassan",486320,40,"Male","ILI","Fever, Cough","-",2020-09-14,2020-09-17,2020-09-18,NA
+7899,"Hassan",491989,31,"Male","Contact under tracing","Fever, Cough","-",2020-09-16,2020-09-17,2020-09-19,NA
+7900,"Hassan",491997,73,"Male","Contact under tracing","-","DM",NA,2020-09-14,2020-09-19,"Died at his residence"
+7904,"Hassan",497656,48,"Male","Contact under tracing","-","IHD",NA,2020-09-15,2020-09-19,"Died at his residence"
+7907,"Hassan",501376,60,"Male","Contact under tracing","Fever, Cough","DM",NA,2020-09-16,2020-09-19,"Died at his residence"
+7912,"Hassan",504978,61,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-17,2020-09-18,2020-09-19,NA
+7969,"Hassan",455992,75,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD",2020-09-11,2020-09-19,2020-09-20,NA
+7984,"Hassan",479962,55,"Female","Contact under tracing","Fever, Cough","DM",2020-09-14,2020-09-17,2020-09-20,NA
+7993,"Hassan",488348,35,"Male","Contact under tracing","Fever, Cough","HTN, CLD",2020-09-14,2020-09-18,2020-09-20,NA
+8030,"Hassan",529202,38,"Male","Contact under tracing","Fever, Cough","-",2020-09-19,2020-09-19,2020-09-20,NA
+8032,"Hassan",533024,60,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-19,2020-09-19,2020-09-20,NA
+8033,"Hassan",533042,70,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-19,2020-09-19,2020-09-20,NA
+8149,"Hassan",535253,55,"Male","SARI","Cough, Breathlessness","-",NA,2020-09-18,2020-09-21,"Died at his residence"
+8151,"Hassan",535549,60,"Male","ILI","Fever, Cough","DM, CKD",2020-09-20,2020-09-20,2020-09-21,NA
+8152,"Hassan",537478,65,"Female","SARI","Cough, Breathlessness","HTN",2020-09-20,2020-09-20,2020-09-21,NA
+8154,"Hassan",538681,42,"Male","SARI","Breathlessness","-",2020-09-19,2020-09-21,2020-09-21,NA
+8204,"Hassan",493658,64,"Male","SARI","Fever, Breathlessness","HTN",2020-09-12,2020-09-16,2020-09-22,NA
+8217,"Hassan",507269,55,"Female","ILI","Fever, Cough","DM",2020-09-19,2020-09-21,2020-09-22,NA
+8218,"Hassan",507278,56,"Female","SARI","Fever, Breathlessness","DM, CKD",2020-09-16,2020-09-19,2020-09-22,NA
+8235,"Hassan",535064,60,"Female","ILI","Fever, Cough","DM, HTN",2020-09-17,2020-09-20,2020-09-22,NA
+8314,"Hassan",514710,95,"Male","ILI","Breathlessness","DM",2020-09-21,2020-09-24,2020-09-24,NA
+8323,"Hassan",530151,71,"Female","ILI","Breathlessness","DM",2020-09-17,2020-09-24,2020-09-24,NA
+8337,"Hassan",556841,70,"Male","ILI","Fever, Cough","DM, HTN",2020-09-22,2020-09-22,2020-09-24,NA
+8338,"Hassan",558721,67,"Male","ILI","Fever, Cough","-",2020-09-19,2020-09-23,2020-09-24,NA
+8339,"Hassan",559542,50,"Male","ILI","Fever, Cough","DM, HTN",2020-09-23,2020-09-23,2020-09-24,NA
+8341,"Hassan",562014,60,"Male","ILI","Fever, Cough","-",2020-09-23,2020-09-23,2020-09-24,NA
+8411,"Hassan",537924,74,"Male","ILI","Fever, Cough","DM, HTN",2020-09-21,2020-09-22,2020-09-25,NA
+8415,"Hassan",544720,60,"Male","ILI","Fever, Cough","TB",2020-09-22,2020-09-23,2020-09-25,NA
+8427,"Hassan",569882,56,"Male","SARI","Breathlessness","DM, HTN",2020-09-22,2020-09-25,2020-09-25,NA
+8497,"Hassan",546416,74,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-09-22,2020-09-25,2020-09-26,NA
+8511,"Hassan",574611,40,"Male","ILI","Fever, Cough","DM",2020-09-25,2020-09-26,2020-09-26,NA
+8565,"Hassan",547333,47,"Male","ILI","Fever, Cough","HTN",2020-09-19,2020-09-26,2020-09-27,NA
+8568,"Hassan",550215,34,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-09-26,2020-09-27,NA
+8584,"Hassan",576103,70,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-09-26,2020-09-27,NA
+8590,"Hassan",590456,72,"Female","ILI","Fever, Cough","DM",2020-09-24,2020-09-25,2020-09-27,NA
+8591,"Hassan",591566,75,"Male","ILI","Fever, Cough","DM",NA,2020-09-26,2020-09-27,"Died at his residence"
+8592,"Hassan",592709,46,"Female","ILI","Fever, Cough","DM",2020-09-26,2020-09-27,2020-09-27,NA
+8616,"Hassan",535294,56,"Female","Contact under tracing","Fever, Cough","-",2020-09-17,2020-09-26,2020-09-28,NA
+8646,"Hassan",579712,52,"Female","ILI","Fever, Cough","DM",2020-09-25,2020-09-26,2020-09-28,NA
+8648,"Hassan",592711,46,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-09-27,2020-09-28,NA
+8651,"Hassan",597204,55,"Female","ILI","Fever, Cough","-",2020-09-26,2020-09-27,2020-09-28,NA
+8712,"Hassan",468549,66,"Male","ILI","Fever, Cough","DM, HTN",2020-09-20,2020-09-29,2020-09-29,NA
+8717,"Hassan",488347,42,"Male","ILI","Fever, Cough","DM, CVA",2020-09-14,2020-09-29,2020-09-29,NA
+8750,"Hassan",550906,70,"Male","ILI","Fever, Cough","-",2020-09-24,2020-09-28,2020-09-29,NA
+8776,"Hassan",587720,48,"Female","ILI","Fever, Cough","-",2020-09-26,2020-09-28,2020-09-29,NA
+8777,"Hassan",588720,68,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-09-29,2020-09-29,NA
+8778,"Hassan",588729,86,"Male","ILI","Fever, Cough","-",2020-09-26,2020-09-28,2020-09-29,NA
+8781,"Hassan",591577,68,"Female","ILI","Fever, Cough","-",2020-09-26,2020-09-28,2020-09-29,NA
+8785,"Hassan",600314,45,"Female","SARI","Breathlessness","DM",2020-09-24,2020-09-28,2020-09-29,NA
+8786,"Hassan",610673,68,"Male","ILI","Fever, Cough","DM",2020-09-24,2020-09-28,2020-09-29,NA
+8787,"Hassan",610943,73,"Male","ILI","Fever, Cough","DM, HTN",2020-09-24,2020-09-25,2020-09-29,NA
+8816,"Hassan",534534,59,"Male","ILI","Fever","DM",2020-09-24,2020-09-29,2020-09-30,NA
+8821,"Hassan",540653,90,"Male","ILI","Fever","DM",2020-09-23,2020-09-29,2020-09-30,NA
+8840,"Hassan",565628,70,"Male","ILI","Fever","DM, HTN",2020-09-21,2020-09-29,2020-09-30,NA
+8863,"Hassan",592713,62,"Male","ILI","Fever","DM, HTN",2020-09-26,2020-09-29,2020-09-30,NA
+8865,"Hassan",595801,70,"Female","ILI","Fever","DM",2020-09-27,2020-09-29,2020-09-30,NA
+8871,"Hassan",601721,86,"Male","ILI","Fever","DM",2020-09-28,2020-09-30,2020-09-30,NA
+8874,"Hassan",610677,51,"Male","ILI","Fever","DM, HTN, CKD",2020-09-28,2020-09-29,2020-09-30,NA
+8985,"Hassan",588750,70,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-10-01,2020-10-01,NA
+8993,"Hassan",598897,75,"Male","ILI","Fever, Cough","DM, HTN",2020-09-27,2020-09-30,2020-10-01,NA
+9004,"Hassan",626390,40,"Female","ILI","Fever, Cough","-",NA,2020-09-13,2020-10-01,"Died at her residence"
+9073,"Hassan",579709,82,"Female","ILI","-","-",2020-09-25,2020-10-01,2020-10-02,NA
+9078,"Hassan",581411,64,"Male","ILI","Fever, Cough","-",2020-09-24,2020-09-30,2020-10-02,NA
+9089,"Hassan",587746,45,"Male","ILI","Fever, Cough","DM",2020-09-26,2020-09-30,2020-10-02,NA
+9103,"Hassan",600301,73,"Male","ILI","-","-",2020-09-24,2020-10-01,2020-10-02,NA
+9119,"Hassan",616760,37,"Female","ILI","Fever, Cough","-",2020-09-30,2020-10-02,2020-10-02,NA
+9128,"Hassan",635889,55,"Female","ILI","Fever, Cough","DM",2020-09-28,2020-10-01,2020-10-02,NA
+9131,"Hassan",443159,38,"Female","ILI","Fever","-",2020-09-09,2020-10-02,2020-10-03,NA
+9163,"Hassan",561109,72,"Male","Contact under tracing","Fever","DM",2020-09-30,2020-10-02,2020-10-03,NA
+9168,"Hassan",568116,43,"Male","Contact under tracing","Fever","-",2020-09-30,2020-10-02,2020-10-03,NA
+9192,"Hassan",597205,80,"Female","Contact under tracing","Fever","HTN",2020-09-27,2020-10-01,2020-10-03,NA
+9216,"Hassan",618853,50,"Male","Contact under tracing","Fever","-",2020-09-30,2020-10-03,2020-10-03,NA
+9217,"Hassan",619494,70,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-27,2020-10-02,2020-10-03,NA
+9269,"Hassan",593617,59,"Male","ILI","Fever","DM, COPD",2020-09-28,2020-10-03,2020-10-04,NA
+9290,"Hassan",632608,70,"Male","Contact under tracing","Fever","DM",NA,2020-09-30,2020-10-04,"Brought dead"
+9291,"Hassan",633029,83,"Male","Contact under tracing","-","-",2020-09-29,2020-09-29,2020-10-04,NA
+9298,"Hassan",480080,96,"Female","ILI","Fever, Cough","DM",2020-09-13,2020-10-03,2020-10-05,NA
+9334,"Hassan",597200,60,"Male","ILI","Fever, Cough","DM, CKD",2020-09-26,2020-10-04,2020-10-05,NA
+9362,"Hassan",642052,72,"Female","ILI","Fever, Cough","DM, HTN, IHD, CKD",2020-10-01,2020-10-05,2020-10-05,NA
+9379,"Hassan",660699,75,"Male","ILI","Fever, Cough","HTN, IHD",2020-10-04,2020-10-04,2020-10-05,NA
+9458,"Hassan",646047,65,"Female","ILI","Fever, Cough","-",2020-10-03,2020-10-06,2020-10-06,NA
+9468,"Hassan",662617,48,"Female","ILI","Fever, Cough","DM, HTN, IHD",2020-10-05,2020-10-05,2020-10-06,NA
+9516,"Hassan",584776,72,"Male","ILI","Fever","_",2020-09-27,2020-10-06,2020-10-07,NA
+9552,"Hassan",646005,57,"Female","ILI","Fever","-",2020-10-02,2020-10-06,2020-10-07,NA
+9567,"Hassan",654440,70,"Male","Contact under tracing","Fever","_",2020-10-02,2020-10-07,2020-10-07,NA
+9578,"Hassan",669401,30,"Male","ILI","Fever","-",2020-10-05,2020-10-06,2020-10-07,NA
+9580,"Hassan",670362,65,"Female","ILI","Fever","-",2020-10-05,2020-10-06,2020-10-07,NA
+9663,"Hassan",648472,65,"Female","ILI","Fever, Cough","-",2020-10-05,2020-10-07,2020-10-08,NA
+9665,"Hassan",650126,80,"Male","ILI","Fever, Cough","HTN",2020-10-05,2020-10-07,2020-10-08,NA
+9865,"Hassan",653421,50,"Female","ILI","Fever, Cough","DM",2020-10-03,2020-10-09,2020-10-10,NA
+9882,"Hassan",679668,65,"Female","ILI","Fever, Cough","DM",2020-10-06,2020-10-09,2020-10-10,NA
+9889,"Hassan",692249,78,"Female","ILI","Fever, Cough","DM",2020-10-05,2020-10-09,2020-10-10,NA
+9891,"Hassan",695274,64,"Male","ILI","Fever, Cough","DM",2020-10-08,2020-10-09,2020-10-10,NA
+9897,"Hassan",700850,86,"Female","SARI","Breathlessness","DM, HTN",2020-10-08,2020-10-09,2020-10-10,NA
+9898,"Hassan",703714,75,"Female","ILI","Fever, Cough","-",2020-10-04,2020-10-06,2020-10-10,NA
+9916,"Hassan",610678,76,"Male","ILI","Fever, Cough","-",2020-09-28,2020-10-11,2020-10-11,NA
+9940,"Hassan",662600,74,"Male","ILI","Fever, Cough","DM",2020-10-04,2020-10-11,2020-10-11,NA
+10023,"Hassan",691345,75,"Female","ILI","Fever, Cough","DM",2020-10-07,2020-10-11,2020-10-12,NA
+10029,"Hassan",704552,58,"Male","ILI","Fever, Cough","DM",2020-10-11,2020-10-11,2020-10-12,NA
+10043,"Hassan",728626,65,"Male","ILI","Fever, Cough","DM, HTN",2020-10-11,2020-10-11,2020-10-12,NA
+10047,"Hassan",35117,48,"Female","SARI","Fever, Cough","-",2020-07-10,2020-08-10,2020-10-13,NA
+10048,"Hassan",48505,58,"Female","SARI","Fever, Cough","-",2020-07-14,2020-07-19,2020-10-13,NA
+10049,"Hassan",149453,44,"Male","SARI","Fever, Cough","HTN",2020-08-02,2020-08-30,2020-10-13,NA
+10050,"Hassan",259419,71,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-08-07,2020-08-17,2020-10-13,NA
+10080,"Hassan",668529,60,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD",2020-10-05,2020-10-12,2020-10-13,NA
+10098,"Hassan",691344,76,"Female","Contact under tracing","Fever, Cough","DM, HTN, CKD",2020-10-07,2020-10-12,2020-10-13,NA
+10102,"Hassan",694393,75,"Male","Contact under tracing","Fever, Cough","DM",2020-10-07,2020-10-12,2020-10-13,NA
+10119,"Hassan",724409,70,"Male","Contact under tracing","Fever, Cough","DM, HTN, CKD",2020-10-10,2020-10-12,2020-10-13,NA
+10124,"Hassan",727714,71,"Male","Contact under tracing","Fever, Cough","-",2020-10-11,2020-10-13,2020-10-13,NA
+10128,"Hassan",732241,42,"Female","Contact under tracing","Fever, Cough","-",2020-10-11,2020-10-12,2020-10-13,NA
+10207,"Hassan",748181,65,"Female","SARI","Breathlessness","DM, HTN, COPD",2020-10-12,2020-10-14,2020-10-14,NA
+10303,"Hassan",621861,45,"Male","ILI","Fever, Cough","DM",2020-09-28,2020-09-30,2020-10-16,NA
+10346,"Hassan",724402,48,"Male","Contact under tracing","Fever, Cough","TB",2020-09-12,2020-10-15,2020-10-16,NA
+10347,"Hassan",725695,65,"Male","Contact under tracing","Fever, Cough","DM, AKI",2020-09-14,2020-10-10,2020-10-16,NA
+10374,"Hassan",623285,60,"Male","ILI","Fever, Cough","DM, HTN",2020-09-30,2020-10-16,2020-10-17,NA
+10411,"Hassan",718539,86,"Male","ILI","Fever, Cough","DM",2020-10-08,2020-10-15,2020-10-17,NA
+10430,"Hassan",754598,87,"Female","ILI","Fever, Cough","DM, HTN",2020-10-14,2020-10-16,2020-10-17,NA
+10459,"Hassan",714981,60,"Male","ILI","Breathlessness","DM, HTN",2020-10-17,2020-10-18,2020-10-18,NA
+10487,"Hassan",776700,50,"Male","ILI","Fever, Cough","DM, HTN",2020-10-07,2020-10-14,2020-10-18,NA
+10617,"Hassan",784869,75,"Female","ILI","Fever, Cough","DM, HTN",2020-10-18,2020-10-18,2020-10-20,NA
+10618,"Hassan",785507,70,"Female","ILI","Fever, Cough","DM, HTN",2020-10-17,2020-10-19,2020-10-20,NA
+10674,"Hassan",748252,65,"Male","ILI","Fever, Cough","DM, IHD",2020-10-19,2020-10-21,2020-10-21,NA
+10699,"Hassan",775249,70,"Male","ILI","Fever, Cough","DM",2020-10-19,2020-10-20,2020-10-21,NA
+10706,"Hassan",796489,72,"Male","ILI","Fever, Cough","DM",2020-10-13,2020-10-21,2020-10-21,NA
+10732,"Hassan",721210,71,"Male","ILI","Fever, Cough","DM, HTN",2020-10-10,2020-10-21,2020-10-22,NA
+10743,"Hassan",742259,57,"Female","ILI","Fever, Cough","HTN",2020-10-13,2020-10-17,2020-10-22,NA
+10764,"Hassan",774570,75,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-10-17,2020-10-21,2020-10-22,NA
+10786,"Hassan",686009,58,"Female","ILI","Fever, Cough","-",2020-10-05,2020-10-23,2020-10-23,NA
+10830,"Hassan",804072,58,"Male","Contact under tracing","-","-",2020-10-22,2020-10-22,2020-10-23,NA
+10947,"Hassan",799725,82,"Female","ILI","Fever, Cough","DM",2020-10-20,2020-10-25,2020-10-26,NA
+11080,"Hassan",787607,60,"Male","ILI","Fever, Cough","-",2020-10-23,2020-10-28,2020-10-29,NA
+11098,"Hassan",822227,83,"Male","ILI","Fever, Cough","DM, IHD",2020-10-26,2020-10-28,2020-10-29,NA
+11099,"Hassan",822686,11,"Male","ILI","Fever, Cough","-",2020-10-25,2020-10-28,2020-10-29,NA
+11195,"Hassan",820130,62,"Male","ILI","Fever, Cough","DM",2020-10-29,2020-10-31,2020-11-01,NA
+11202,"Hassan",839493,52,"Male","ILI","Fever, Cough","DM",2020-10-31,2020-10-31,2020-11-01,NA
+11223,"Hassan",830348,67,"Male","ILI","Fever, Cough","DM",2020-10-30,2020-11-01,2020-11-02,NA
+11250,"Hassan",830639,67,"Male","ILI","Fever, Cough","DM",2020-10-29,2020-11-02,2020-11-03,NA
+11257,"Hassan",842860,68,"Male","ILI","Fever, Cough","CKD",2020-11-01,2020-11-02,2020-11-03,NA
+11321,"Hassan",849130,70,"Female","ILI","Fever, Cough","DM, HTN",2020-11-02,2020-11-03,2020-11-05,NA
+11439,"Hassan",856773,84,"Male","ILI","Fever, Cough","DM, HTN",2020-10-27,2020-11-08,2020-11-10,NA
+11462,"Hassan",864805,65,"Female","ILI","Fever, Cough","DM, HTN",2020-11-10,2020-11-10,2020-11-11,NA
+11474,"Hassan",848945,60,"Female","ILI","Fever, Cough","DM",2020-11-02,2020-11-11,2020-11-12,NA
+11517,"Hassan",864295,80,"Female","SARI","Breathlessness","HTN, IHD",2020-11-10,2020-11-14,2020-11-14,NA
+11539,"Hassan",873435,60,"Male","Contcat under tracing","-","-",2020-11-14,2020-11-14,2020-11-15,NA
+11580,"Hassan",869530,82,"Male","ILI","Fever, Cough","HTN",2020-11-12,2020-11-18,2020-11-18,NA
+11585,"Hassan",875362,70,"Male","ILI","Fever, Cough","COPD",2020-11-15,2020-11-18,2020-11-18,NA
+11800,"Hassan",897690,95,"Male","ILI","Fever","-",2020-11-27,2020-11-29,2020-12-01,NA
+11801,"Hassan",897693,59,"Male","ILI","Fever","DM",2020-11-29,2020-11-29,2020-12-01,NA
+11831,"Hassan",901497,54,"Female","SARI","Cough","DM, HTN",2020-12-02,2020-12-03,2020-12-03,NA
+11952,"Hassan",915433,78,"Male","ILI","Fever","IHD",2020-12-10,2020-12-13,2020-12-14,NA
+11961,"Hassan",911039,90,"Male","ILI","Fever","IHD",2020-12-13,2020-12-15,2020-12-15,NA
+12015,"Hassan",918153,74,"Male","ILI","Fever, Cough","HTN,  IHD, CKD",2020-12-14,2020-12-19,2020-12-21,NA
+12029,"Hassan",921165,41,"Male","ILI","Fever, Cough","CVA, MDS",2020-12-18,2020-12-21,2020-12-22,NA
+12033,"Hassan",917279,58,"Male","ILI","Fever, Cough","HTN",2020-12-14,2020-12-22,2020-12-23,NA
+12036,"Hassan",920838,59,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-12-18,2020-12-22,2020-12-23,NA
+12170,"Hassan",925028,58,"Female","ILI","Fever","DM, HTN",2020-12-21,2021-01-16,2021-01-18,NA
+12226,"Hassan",952109,65,"Male","ILI","Fever","COPD",2021-01-26,2021-02-03,2021-02-03,NA
+12321,"Hassan",964434,91,"Male","ILI","Fever","DM",2021-02-24,2021-02-24,2021-02-26,NA
+12360,"Hassan",969733,64,"Female","ILI","Fever","DM,  HTN, CKD",NA,2021-03-05,2021-03-06,"Died at her residence"
+12450,"Hassan",987632,66,"Male","ILI","Fever","CVD",2021-03-18,2021-03-22,2021-03-23,NA
+12492,"Hassan",995913,65,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-03-25,2021-03-26,2021-03-27,NA
+12508,"Hassan",995914,67,"Male","ILI","Fever, Cough","HTN",2021-03-25,2021-03-28,2021-03-29,NA
+12509,"Hassan",993900,70,"Male","ILI","Fever","HTN, COPD",2021-03-25,2021-03-28,2021-03-29,NA
+12521,"Hassan",1003064,65,"Female","Contact under tracing","-","DM, CVD",NA,2021-03-28,2021-03-29,"Died at her residence"
+12532,"Hassan",992089,27,"Male","ILI","Fever","-",2021-03-24,2021-03-29,2021-03-30,NA
+12596,"Hassan",994376,46,"Male","ILI","Fever, Cough","HTN",2021-03-25,2021-04-02,2021-04-03,NA
+12599,"Hassan",997752,46,"Female","ILI","Fever, Cough","DM",2021-03-26,2021-04-02,2021-04-03,NA
+12609,"Hassan",1022659,74,"Male","ILI","Fever","DM, HTN",2021-03-31,2021-04-02,2021-04-03,NA
+12617,"Hassan",1006409,61,"Male","ILI","Fever","DM, HTN",2021-03-29,2021-04-04,2021-04-04,NA
+12729,"Hassan",1041291,70,"Female","ILI","Fever, Cough","-",2021-04-05,2021-04-07,2021-04-07,NA
+12822,"Hassan",1022675,75,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-03-29,2021-04-09,2021-04-10,NA
+13089,"Hassan",1047150,55,"Female","ILI","Fever, Cough","HTN, DM",2021-04-07,2021-04-12,2021-04-15,NA
+13093,"Hassan",1060891,30,"Male","ILI","Fever, Cough","-",2021-04-11,2021-04-13,2021-04-15,NA
+13096,"Hassan",1072622,62,"Male","ILI","Fever, Cough","-",2021-04-09,2021-04-12,2021-04-15,NA
+13104,"Hassan",1090456,72,"Male","ILI","Fever","-",2021-04-12,2021-04-12,2021-04-15,NA
+13225,"Hassan",1075031,24,"Female","SARI","Breathlessness","-",2021-04-08,2021-04-16,2021-04-17,NA
+13231,"Hassan",1091646,83,"Female","ILI","Fever","-",2021-04-12,2021-04-16,2021-04-17,NA
+13241,"Hassan",1109669,52,"Male","ILI","Fever","-",2021-04-13,2021-04-16,2021-04-17,NA
+13242,"Hassan",1111263,45,"Female","SARI","Breathlessness","-",2021-04-13,2021-04-16,2021-04-17,NA
+13244,"Hassan",1115225,68,"Female","ILI","Fever","-",2021-04-12,2021-04-13,2021-04-17,NA
+13248,"Hassan",1125603,45,"Male","SARI","Breathlessness","-",2021-04-14,2021-04-16,2021-04-17,NA
+13252,"Hassan",1130662,70,"Male","ILI","Fever","-",2021-04-12,2021-04-16,2021-04-17,NA
+13269,"Hassan",1147651,78,"Female","ILI","Fever","-",2021-04-14,2021-04-16,2021-04-17,NA
+13398,"Hassan",1075337,65,"Male","ILI","Fever","DM, HTN",2021-04-13,2021-04-18,2021-04-19,NA
+13416,"Hassan",1091619,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-12,2021-04-17,2021-04-19,NA
+13423,"Hassan",1100730,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-13,2021-04-18,2021-04-19,NA
+13424,"Hassan",1100767,26,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-12,2021-04-17,2021-04-19,NA
+13432,"Hassan",1107392,75,"Male","ILI","Fever, Cough","-",2021-04-13,2021-04-19,2021-04-19,NA
+13451,"Hassan",1121942,63,"Male","ILI","Fever, Cough","DM",2021-04-14,2021-04-18,2021-04-19,NA
+13481,"Hassan",1163739,53,"Female","ILI","Fever","-",NA,2021-04-16,2021-04-19,"Brought dead"
+13483,"Hassan",1171345,56,"Male","ILI","Fever","DM, HTN",2021-04-17,2021-04-18,2021-04-19,NA
+13487,"Hassan",1179937,30,"Male","ILI","Fever","-",2021-04-17,2021-04-19,2021-04-19,NA
+13489,"Hassan",1181392,52,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-04-17,2021-04-18,2021-04-19,NA
+13498,"Hassan",1196611,62,"Male","ILI","Fever","CKD",2021-04-18,2021-04-18,2021-04-19,NA
+13686,"Hassan",1110540,70,"Female","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-21,2021-04-21,NA
+13738,"Hassan",1191978,50,"Male","SARI","Breathlessness","-",2021-04-18,2021-04-21,2021-04-21,NA
+13763,"Hassan",1249464,52,"Female","SARI","Breathlessness","DM, HTN",2021-04-20,2021-04-21,2021-04-21,NA
+13807,"Hassan",1130162,70,"Male","SARI","Fever, Breathlessness","HTN, DM",2021-04-14,2021-04-21,2021-04-22,NA
+13835,"Hassan",1171342,65,"Female","SARI","Fever, Breathlessness","-",2021-04-19,2021-04-20,2021-04-22,NA
+13876,"Hassan",1232668,52,"Female","SARI","Fever, Breathlessness","-",2021-04-12,2021-04-21,2021-04-22,NA
+13884,"Hassan",1267090,70,"Male","SARI","Fever, Breathlessness","-",2021-04-21,2021-04-22,2021-04-22,NA
+13920,"Hassan",1073213,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-21,2021-04-23,NA
+13951,"Hassan",1111264,57,"Female","ILI","Fever","-",2021-04-13,2021-04-22,2021-04-23,NA
+13974,"Hassan",1136557,53,"Female","ILI","Fever, Cough","DM, HTN",2021-04-15,2021-04-22,2021-04-23,NA
+14004,"Hassan",1182304,44,"Female","ILI","Fever","-",2021-04-17,2021-04-22,2021-04-23,NA
+14015,"Hassan",1189356,71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-23,2021-04-23,NA
+14048,"Hassan",1237531,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-23,2021-04-23,NA
+14066,"Hassan",1264344,42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-18,2021-04-22,2021-04-23,NA
+14076,"Hassan",1297304,27,"Male","ILI","Fever","-",2021-04-22,2021-04-23,2021-04-23,NA
+14183,"Hassan",1170121,67,"Male","SARI","Fever, Cough","DM",2021-04-17,2021-04-23,2021-04-24,NA
+14268,"Hassan",1279002,46,"Male","ILI","Fever","-",2021-04-22,2021-04-23,2021-04-24,NA
+14360,"Hassan",1225089,45,"Female","ILI","Fever, cough","-",2021-04-19,2021-04-24,2021-04-25,NA
+14367,"Hassan",1234201,58,"Male","ILI","Fever, cough","-",2021-04-20,2021-04-24,2021-04-25,NA
+14410,"Hassan",1294850,74,"Male","ILI","Fever, cough","-",2021-04-22,2021-04-24,2021-04-25,NA
+14424,"Hassan",1328000,36,"Male","ILI","Fever, cough","-",2021-04-23,2021-04-25,2021-04-25,NA
+14450,"Hassan",1131953,75,"Female","ILI","Fever, Cough","-",2021-04-16,2021-04-26,2021-04-26,NA
+14482,"Hassan",1179939,72,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-17,2021-04-26,2021-04-26,NA
+14494,"Hassan",1201468,45,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-26,2021-04-26,NA
+14527,"Hassan",1287897,50,"Female","SARI","Breathlessness","DM",2021-04-22,2021-04-26,2021-04-26,NA
+14561,"Hassan",1324915,48,"Female","SARI","Breathlessness","-",2021-04-23,2021-04-25,2021-04-26,NA
+14570,"Hassan",1332868,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-23,2021-04-25,2021-04-26,NA
+14596,"Hassan",1349503,54,"Female","ILI","Fever","DM",2021-04-24,2021-04-26,2021-04-26,NA
+14603,"Hassan",1354382,40,"Male","SARI","Breathlessness","-",2021-04-24,2021-04-25,2021-04-26,NA
+14615,"Hassan",1368909,54,"Male","ILI","Cough","DM, HTN",2021-04-24,2021-04-26,2021-04-26,NA
+14620,"Hassan",1378502,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-26,NA
+14724,"Hassan",1278766,65,"Female","ILI","Fever, Cough","DM",2021-04-22,2021-04-27,2021-04-27,NA
+14756,"Hassan",1346246,48,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-04-26,2021-04-27,NA
+14775,"Hassan",1375516,65,"Female","ILI","Fever, Cough","-",2021-04-25,2021-04-26,2021-04-27,NA
+14800,"Hassan",1405024,55,"Female","ILI","Fever, Cough","-",2021-04-26,2021-04-26,2021-04-27,NA
+14802,"Hassan",1407093,44,"Male","ILI","Fever, Cough","DM",2021-04-26,2021-04-27,2021-04-27,NA
+15030,"Hassan",1423016,45,"Female","ILI","Fever","-",2021-04-26,2021-04-26,2021-04-28,NA
+15143,"Hassan",1269132,65,"Female","ILI","Fever, cough","-",2021-04-21,2021-04-29,2021-04-29,NA
+15144,"Hassan",1271288,52,"Male","ILI","Fever, cough","HTN",2021-04-27,2021-04-29,2021-04-29,NA
+15170,"Hassan",1324911,48,"Female","ILI","Fever, cough","DM",2021-04-23,2021-04-28,2021-04-29,NA
+15178,"Hassan",1337279,64,"Male","ILI","Fever, cough","DM, IHD",2021-04-23,2021-04-29,2021-04-29,NA
+15179,"Hassan",1338276,65,"Male","ILI","Fever, cough","DM",2021-04-23,2021-04-28,2021-04-29,NA
+15238,"Hassan",1423015,62,"Female","ILI","Fever, Cough","DM",2021-04-26,2021-04-26,2021-04-29,NA
+15240,"Hassan",1425673,75,"Female","ILI","Fever, Cough","-",2021-04-26,2021-04-27,2021-04-29,NA
+15243,"Hassan",1430411,30,"Male","ILI","Fever, Cough","-",2021-04-26,2021-04-26,2021-04-29,NA
+15255,"Hassan",1440750,70,"Female","ILI","Fever, cough","-",2021-04-25,2021-04-26,2021-04-29,NA
+15338,"Hassan",1211858,37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-29,2021-04-30,NA
+15346,"Hassan",1237518,53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-04-29,2021-04-30,NA
+15355,"Hassan",1264327,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-29,2021-04-30,NA
+15359,"Hassan",1271254,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-29,2021-04-30,NA
+15388,"Hassan",1317539,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-29,2021-04-30,NA
+15394,"Hassan",1324898,46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-29,2021-04-30,NA
+15398,"Hassan",1331522,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-29,2021-04-30,NA
+15418,"Hassan",1364758,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-04-30,NA
+15431,"Hassan",1397232,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-04-30,NA
+15432,"Hassan",1398917,53,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-26,2021-04-29,2021-04-30,NA
+15455,"Hassan",1433558,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-29,2021-04-30,NA
+15456,"Hassan",1433564,39,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-30,2021-04-30,NA
+15458,"Hassan",1439677,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-28,2021-04-30,NA
+15467,"Hassan",1453839,52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15470,"Hassan",1457251,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-29,2021-04-30,NA
+15484,"Hassan",1478661,53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-04-29,2021-04-30,NA
+15498,"Hassan",1501826,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15507,"Hassan",1513991,40,"Male","ILI","Fever","DM",2021-04-28,2021-04-29,2021-04-30,NA
+15511,"Hassan",1522422,65,"Female","ILI","Fever, cough","-",2021-04-29,2021-04-29,2021-04-30,NA
+15601,"Hassan",1267092,90,"Male","SARI","Breathlessness","DM, HTN",2021-04-21,2021-04-30,2021-05-01,NA
+15653,"Hassan",1349489,65,"Female","ILI","Fever","-",2021-04-27,2021-05-01,2021-05-01,NA
+15664,"Hassan",1362896,43,"Male","ILI","Fever","-",2021-04-21,2021-04-30,2021-05-01,NA
+15668,"Hassan",1366787,59,"Male","SARI","Breathlessness","HTN",2021-04-24,2021-05-01,2021-05-01,NA
+15694,"Hassan",1411931,41,"Male","SARI","Breathlessness","DM",2021-04-26,2021-04-30,2021-05-01,NA
+15732,"Hassan",1478666,50,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-30,2021-05-01,NA
+15743,"Hassan",1499278,62,"Male","SARI","Breathlessness","IHD",2021-04-28,2021-05-01,2021-05-01,NA
+15782,"Hassan",1560775,42,"Male","SARI","Breathlessness","DM",2021-04-29,2021-04-30,2021-05-01,NA
+15826,"Hassan",1239101,50,"Female","SARI","Breathlessness","HTN",2021-04-20,2021-05-02,2021-05-02,NA
+15860,"Hassan",1338316,71,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-05-02,2021-05-02,NA
+15876,"Hassan",1366768,54,"Male","SARI","Breathlessness","HTN, CKD",2021-04-25,2021-05-01,2021-05-02,NA
+15896,"Hassan",1398916,65,"Female","SARI","Breathlessness","DM, HTN",2021-04-25,2021-05-02,2021-05-02,NA
+15917,"Hassan",1434952,60,"Female","ILI","Fever","-",2021-04-22,2021-04-30,2021-05-02,NA
+15925,"Hassan",1453821,56,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-01,2021-05-02,NA
+15956,"Hassan",1537124,52,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-02,2021-05-02,NA
+15967,"Hassan",1555046,68,"Male","ILI","Fever","-",NA,2021-04-26,2021-05-02,"Died at his residence"
+15990,"Hassan",1605044,68,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-04-30,2021-05-02,NA
+15996,"Hassan",1608619,33,"Male","SARI","Breathlessness","-",2021-04-29,2021-04-30,2021-05-02,NA
+15997,"Hassan",1610439,54,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-01,2021-05-02,NA
+16019,"Hassan",1153548,35,"Male","ILI","Fever, cough","-",2021-04-27,2021-05-02,2021-05-03,NA
+16050,"Hassan",1254980,70,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-26,2021-05-02,2021-05-03,NA
+16110,"Hassan",1390754,70,"Male","SARI","Fever, cough, breathlessness","DM, HTN, IHD",2021-04-26,2021-05-02,2021-05-03,NA
+16150,"Hassan",1460257,50,"Male","ILI","Fever","-",2021-04-27,2021-05-02,2021-05-03,NA
+16165,"Hassan",1493610,36,"Male","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-05-02,2021-05-03,NA
+16178,"Hassan",1511984,45,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-28,2021-05-02,2021-05-03,NA
+16179,"Hassan",1513990,72,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-28,2021-05-02,2021-05-03,NA
+16181,"Hassan",1516727,68,"Male","SARI","Fever, cough, breathlessness","-",2021-04-29,2021-05-02,2021-05-03,NA
+16182,"Hassan",1518424,55,"Female","SARI","Fever, cough, breathlessness","-",2021-04-29,2021-05-02,2021-05-03,NA
+16184,"Hassan",1522430,33,"Male","SARI","Fever, cough, breathlessness","-",2021-04-29,2021-04-30,2021-05-03,NA
+16189,"Hassan",1534349,75,"Female","SARI","Fever, cough, breathlessness","-",2021-04-29,2021-05-02,2021-05-03,NA
+16239,"Hassan",1628194,36,"Female","ILI","Fever, cough","-",2021-05-01,2021-05-02,2021-05-03,NA
+16240,"Hassan",1631696,61,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-01,2021-05-02,2021-05-03,NA
+16347,"Hassan",1352099,57,"Male","ILI","Fever","-",2021-04-17,2021-05-03,2021-05-04,NA
+16386,"Hassan",1439639,33,"Male","SARI","Cough, Breathlessness","-",2021-04-23,2021-05-03,2021-05-04,NA
+16438,"Hassan",1555051,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-03,2021-05-04,NA
+16483,"Hassan",1628317,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-03,2021-05-04,NA
+16490,"Hassan",1643981,48,"Male","SARI","Cough, Breathlessness","DM",2021-05-01,2021-05-02,2021-05-04,NA
+16691,"Hassan",1390735,58,"Male","ILI","Fever","-",2021-04-27,2021-05-05,2021-05-05,NA
+16692,"Hassan",1393031,63,"Female","ILI","Fever","-",2021-04-24,2021-05-04,2021-05-05,NA
+16768,"Hassan",1540452,69,"Male","ILI","Fever","DM",2021-05-04,2021-05-05,2021-05-05,NA
+16797,"Hassan",1602739,50,"Male","ILI","Fever","-",2021-04-30,2021-05-05,2021-05-05,NA
+16802,"Hassan",1612104,60,"Male","ILI","Fever","DM",2021-05-03,2021-05-05,2021-05-05,NA
+16808,"Hassan",1624645,31,"Male","ILI","Fever","-",2021-04-24,2021-04-30,2021-05-05,NA
+16809,"Hassan",1628069,52,"Female","SARI","Breathlessness","HTN",2021-04-26,2021-04-29,2021-05-05,NA
+16842,"Hassan",1693796,65,"Female","ILI","Fever","-",2021-05-02,2021-05-04,2021-05-05,NA
+16848,"Hassan",1705869,60,"Female","ILI","Fever","-",2021-05-03,2021-05-04,2021-05-05,NA
+16862,"Hassan",1725444,40,"Female","ILI","Fever","DM",2021-05-03,2021-05-05,2021-05-05,NA
+16874,"Hassan",1753209,84,"Male","ILI","Fever","DM, HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16971,"Hassan",1397254,30,"Male","ILI","Fever","_",2021-04-30,2021-05-05,2021-05-06,NA
+16995,"Hassan",1440775,63,"Female","ILI","Fever","DM",2021-04-27,2021-05-05,2021-05-06,NA
+17123,"Hassan",1624646,65,"Male","ILI","Fever","DM,  HTN, CKD",2021-05-05,2021-05-05,2021-05-06,NA
+17141,"Hassan",1650513,65,"Male","ILI","Cough","DM",2021-05-01,2021-05-06,2021-05-06,NA
+17143,"Hassan",1655523,70,"Male","ILI","Cough","DM, HTN",2021-05-04,2021-05-04,2021-05-06,NA
+17170,"Hassan",1725471,43,"Male","ILI","Fever, Cough","_",2021-05-03,2021-05-06,2021-05-06,NA
+17179,"Hassan",1737612,65,"Female","ILI","Fever","-",2021-05-03,2021-05-03,2021-05-06,NA
+17182,"Hassan",1749725,34,"Male","ILI","Fever, Cough","-",2021-05-04,2021-05-04,2021-05-06,NA
+17193,"Hassan",1761075,67,"Male","ILI","Fever, Cough","DM",2021-05-02,2021-05-06,2021-05-06,NA
+17279,"Hassan",1224129,43,"Male","ILI","Fever","-",2021-04-20,2021-05-07,2021-05-07,NA
+17282,"Hassan",1225077,25,"Male","ILI","Fever, Cough","-",2021-04-26,2021-05-07,2021-05-07,NA
+17380,"Hassan",1360583,70,"Male","ILI","Fever, Cough","DM, HTN",2021-04-24,2021-05-07,2021-05-07,NA
+17386,"Hassan",1370673,45,"Male","ILI","Fever","-",2021-04-24,2021-05-07,2021-05-07,NA
+17458,"Hassan",1466126,52,"Female","ILI","Cough","-",2021-05-07,2021-05-07,2021-05-07,NA
+17539,"Hassan",1551878,55,"Male","ILI","Fever","-",2021-04-05,2021-05-06,2021-05-07,NA
+17592,"Hassan",1612122,85,"Male","ILI","Cough","DM, HTN",2021-04-30,2021-05-06,2021-05-07,NA
+17596,"Hassan",1616293,65,"Female","ILI","Fever","-",2021-05-05,2021-05-06,2021-05-07,NA
+17630,"Hassan",1651984,55,"Male","ILI","Fever","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17671,"Hassan",1693797,32,"Male","ILI","Fever","-",2021-05-02,2021-05-07,2021-05-07,NA
+17685,"Hassan",1711073,57,"Male","ILI","Fever","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17724,"Hassan",1747222,43,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-05,2021-05-07,NA
+17759,"Hassan",1794783,65,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-06,2021-05-07,NA
+17762,"Hassan",1800376,50,"Male","ILI","Cough","-",2021-04-29,2021-05-05,2021-05-07,NA
+17770,"Hassan",1807886,73,"Male","ILI","Fever","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17771,"Hassan",1807887,66,"Male","ILI","Fever, Cough","-",2021-05-05,2021-05-05,2021-05-07,NA
+17781,"Hassan",1829905,28,"Male","ILI","Fever, Cough","-",2021-04-05,2021-05-07,2021-05-07,NA
+17786,"Hassan",1836640,68,"Male","ILI","Fever","DM",2021-05-05,2021-05-06,2021-05-07,NA
+17790,"Hassan",1842227,30,"Male","ILI","Fever","HTN",2021-05-05,2021-05-07,2021-05-07,NA
+17803,"Hassan",1857337,44,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-06,2021-05-07,NA
+18030,"Hassan",1466043,70,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-07,2021-05-08,NA
+18096,"Hassan",1586882,23,"Male","ILI","Fever","-",2021-05-04,2021-05-04,2021-05-08,NA
+18165,"Hassan",1705652,50,"Female","ILI","Fever","-",2021-05-01,2021-05-08,2021-05-08,NA
+18188,"Hassan",1743731,50,"Male","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-07,2021-05-08,NA
+18194,"Hassan",1753271,63,"Male","ILI","Fever, Cough","HTN",2021-05-03,2021-05-06,2021-05-08,NA
+18230,"Hassan",1823039,70,"Female","ILI","Fever, Cough","-",2021-05-07,2021-05-08,2021-05-08,NA
+18252,"Hassan",1857452,70,"Male","ILI","Cough","DM",2021-05-08,2021-05-08,2021-05-08,NA
+18254,"Hassan",1861164,72,"Male","ILI","Cough","-",2021-05-08,2021-05-08,2021-05-08,NA
+18261,"Hassan",1868630,39,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-08,2021-05-08,NA
+18271,"Hassan",1881315,53,"Male","ILI","Cough","HTN",2021-05-07,2021-05-08,2021-05-08,NA
+18272,"Hassan",1881432,45,"Male","ILI","Fever","-",2021-05-07,2021-05-07,2021-05-08,NA
+18276,"Hassan",1894090,48,"Female","ILI","Cough","DM",2021-05-06,2021-05-07,2021-05-08,NA
+18278,"Hassan",1897595,34,"Male","ILI","Cough","HTN",2021-05-04,2021-05-07,2021-05-08,NA
+18323,"Hassan",1211881,70,"Male","ILI","Fever","-",2021-04-19,2021-05-08,2021-05-09,NA
+18476,"Hassan",1504745,68,"Male","ILI","Fever","DM",2021-04-28,2021-05-07,2021-05-09,NA
+18535,"Hassan",1593524,63,"Male","ILI","Fever","-",2021-04-30,2021-05-08,2021-05-09,NA
+18622,"Hassan",1737613,55,"Female","ILI","Fever, Cough","-",2021-05-03,2021-05-08,2021-05-09,NA
+18683,"Hassan",1836641,40,"Female","ILI","Cough","-",2021-05-05,2021-05-08,2021-05-09,NA
+18701,"Hassan",1860970,60,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-09,2021-05-09,NA
+18761,"Hassan",1945255,43,"Female","ILI","Fever, Cough","DM",2021-05-01,2021-05-05,2021-05-09,NA
+18762,"Hassan",1945600,60,"Female","ILI","Fever, Cough","HTN",2021-05-06,2021-05-08,2021-05-09,NA
+18783,"Hassan",1119734,50,"Female","ILI","Cough","DM",2021-04-18,2021-05-09,2021-05-10,NA
+18786,"Hassan",1163736,55,"Female","ILI","Cough","-",2021-04-16,2021-05-10,2021-05-10,NA
+18791,"Hassan",1190675,40,"Male","ILI","Fever","-",2021-04-18,2021-05-10,2021-05-10,NA
+18795,"Hassan",1197548,58,"Female","ILI","Fever","DM, HTN",2021-04-18,2021-05-09,2021-05-10,NA
+19046,"Hassan",1523449,62,"Male","ILI","Cough","-",2021-05-08,2021-05-09,2021-05-10,NA
+19092,"Hassan",1575314,60,"Male","ILI","Cough","-",2021-05-06,2021-05-09,2021-05-10,NA
+19101,"Hassan",1593531,65,"Female","ILI","Cough","-",2021-05-02,2021-05-09,2021-05-10,NA
+19167,"Hassan",1675326,51,"Male","ILI","Cough","-",2021-05-02,2021-05-10,2021-05-10,NA
+19183,"Hassan",1688766,52,"Female","ILI","Fever, Cough","-",2021-05-02,2021-05-09,2021-05-10,NA
+19187,"Hassan",1711133,48,"Male","ILI","Fever, Cough","-",2021-05-04,2021-05-08,2021-05-10,NA
+19210,"Hassan",1756842,53,"Female","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-09,2021-05-10,NA
+19246,"Hassan",1811531,62,"Male","ILI","Cough","-",2021-05-05,2021-05-09,2021-05-10,NA
+19261,"Hassan",1826722,48,"Male","ILI","Fever, Cough","DM, CKD",2021-05-05,2021-05-10,2021-05-10,NA
+19262,"Hassan",1826783,57,"Male","ILI","Cough","HTN",2021-05-05,2021-05-05,2021-05-10,NA
+19289,"Hassan",1868807,65,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-06,2021-05-10,NA
+19292,"Hassan",1872820,50,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-09,2021-05-10,NA
+19293,"Hassan",1872990,44,"Male","ILI","Fever","-",2021-05-06,2021-05-09,2021-05-10,NA
+19295,"Hassan",1881347,48,"Female","ILI","Fever","DM",2021-05-01,2021-05-10,2021-05-10,NA
+19298,"Hassan",1887228,74,"Male","ILI","Cough","DM, HTN",2021-05-08,2021-05-09,2021-05-10,NA
+19311,"Hassan",1908545,43,"Female","ILI","Cough","-",2021-05-06,2021-05-09,2021-05-10,NA
+19326,"Hassan",1922007,45,"Female","ILI","Cough","-",2021-05-09,2021-05-09,2021-05-10,NA
+19353,"Hassan",1977790,68,"Male","ILI","Fever","-",2021-05-08,2021-05-09,2021-05-10,NA
+19581,"Hassan",1621480,70,"Male","ILI","Fever, cough","DM",2021-04-30,2021-05-09,2021-05-11,NA
+19583,"Hassan",1624769,59,"Female","ILI","Cough","-",2021-05-06,2021-05-09,2021-05-11,NA
+19587,"Hassan",1643896,63,"Male","ILI","Cough","DM, HTN",2021-04-28,2021-05-11,2021-05-11,NA
+19613,"Hassan",1711132,65,"Male","ILI","Fever","-",2021-05-05,2021-05-09,2021-05-11,NA
+19649,"Hassan",1753041,55,"Male","ILI","Fever","-",2021-05-07,2021-05-09,2021-05-11,NA
+19659,"Hassan",1760984,56,"Female","ILI","Fever, cough","DM, HTN",2021-05-06,2021-05-11,2021-05-11,NA
+19689,"Hassan",1800387,55,"Male","ILI","Fever","-",2021-05-07,2021-05-10,2021-05-11,NA
+19750,"Hassan",1872902,48,"Male","ILI","Cough","-",2021-05-10,2021-05-10,2021-05-11,NA
+19754,"Hassan",1877275,50,"Female","ILI","Cough","-",2021-05-06,2021-05-11,2021-05-11,NA
+19757,"Hassan",1881399,45,"Female","ILI","Fever","-",2021-05-06,2021-05-07,2021-05-11,NA
+19761,"Hassan",1884613,52,"Female","ILI","Fever, cough","-",2021-05-07,2021-05-09,2021-05-11,NA
+19768,"Hassan",1897692,58,"Male","ILI","Fever, cough","DM, HTN",2021-05-07,2021-05-10,2021-05-11,NA
+19838,"Hassan",2007890,43,"Male","ILI","Fever, cough","-",2021-05-09,2021-05-10,2021-05-11,NA
+19839,"Hassan",2013631,65,"Female","ILI","Fever, cough","-",2021-05-09,2021-05-09,2021-05-11,NA
+19840,"Hassan",2014016,48,"Female","ILI","Fever, cough","-",2021-05-05,2021-05-09,2021-05-11,NA
+19853,"Hassan",2043473,55,"Female","ILI","Fever","-",2021-05-10,2021-05-10,2021-05-11,NA
+19944,"Hassan",1611564,41,"Male","ILI","Fever","-",2021-05-11,2021-05-11,2021-05-12,NA
+19965,"Hassan",1656161,56,"Female","ILI","Fever","-",2021-05-04,2021-05-11,2021-05-12,NA
+20040,"Hassan",1725469,37,"Female","ILI","Fever","-",2021-05-10,2021-05-11,2021-05-12,NA
+20070,"Hassan",1756822,33,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-11,2021-05-12,NA
+20136,"Hassan",1807872,56,"Female","ILI","Fever","-",2021-05-10,2021-05-11,2021-05-12,NA
+20159,"Hassan",1826798,80,"Male","ILI","Fever, Cough","HTN",2021-05-08,2021-05-11,2021-05-12,NA
+20168,"Hassan",1842226,48,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-06,2021-05-12,NA
+20202,"Hassan",1884538,55,"Male","ILI","Fever","-",2021-05-12,2021-05-12,2021-05-12,NA
+20210,"Hassan",1892693,58,"Female","ILI","Fever","DM, HTN",2021-05-06,2021-05-09,2021-05-12,NA
+20263,"Hassan",1937146,68,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-12,2021-05-12,NA
+20271,"Hassan",1945579,67,"Female","ILI","Fever","DM",2021-05-10,2021-05-12,2021-05-12,NA
+20307,"Hassan",1987110,49,"Female","ILI","Fever","-",2021-05-08,2021-05-12,2021-05-12,NA
+20309,"Hassan",1989457,39,"Male","ILI","Cough","-",2021-05-11,2021-05-11,2021-05-12,NA
+20323,"Hassan",2010761,35,"Male","ILI","Fever, Cough","DM",2021-05-11,2021-05-11,2021-05-12,NA
+20325,"Hassan",2014170,70,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-12,2021-05-12,NA
+20369,"Hassan",2107562,35,"Female","ILI","Fever","-",2021-05-02,2021-05-12,2021-05-12,NA
+20370,"Hassan",2107566,75,"Female","ILI","Fever, Cough","DM, HTN",2021-05-11,2021-05-11,2021-05-12,NA
+20371,"Hassan",2112972,55,"Male","ILI","Fever","-",2021-05-09,2021-05-09,2021-05-12,NA
+20372,"Hassan",2113007,44,"Male","ILI","Fever","DM",2021-05-11,2021-05-12,2021-05-12,NA
+20389,"Hassan",1261157,63,"Female","ILI","Fever","-",2021-04-26,2021-05-13,2021-05-13,NA
+20503,"Hassan",1682433,75,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-12,2021-05-13,NA
+20531,"Hassan",1756848,80,"Female","ILI","Fever","DM, HTN",2021-05-04,2021-05-05,2021-05-13,NA
+20562,"Hassan",1840334,35,"Male","ILI","Fever","-",2021-05-05,2021-05-13,2021-05-13,NA
+20597,"Hassan",1926739,65,"Male","ILI","Fever","-",2021-05-10,2021-05-12,2021-05-13,NA
+20625,"Hassan",1987109,65,"Female","ILI","Fever, Cough","-",2021-05-03,2021-05-13,2021-05-13,NA
+20632,"Hassan",2000470,59,"Male","ILI","Fever","HTN",2021-05-08,2021-05-12,2021-05-13,NA
+20652,"Hassan",2025147,50,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-12,2021-05-13,NA
+20665,"Hassan",2041272,57,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-12,2021-05-13,NA
+20705,"Hassan",2112981,70,"Female","ILI","Fever","DM, HTN",2021-05-10,2021-05-11,2021-05-13,NA
+20805,"Hassan",1628142,60,"Female","ILI","Fever, Cough","-",2021-05-02,2021-05-13,2021-05-14,NA
+20824,"Hassan",1705746,65,"Male","ILI","Fever","HTN",2021-05-03,2021-05-13,2021-05-14,NA
+20864,"Hassan",1811520,56,"Female","ILI","Fever","DM",2021-05-06,2021-05-13,2021-05-14,NA
+20869,"Hassan",1826797,36,"Male","ILI","Fever","-",2021-05-05,2021-05-07,2021-05-14,NA
+20870,"Hassan",1829879,37,"Male","ILI","Fever, Cough","-",2021-05-05,2021-05-13,2021-05-14,NA
+20876,"Hassan",1842231,29,"Male","ILI","Fever","-",2021-05-06,2021-05-13,2021-05-14,NA
+20877,"Hassan",1845710,25,"Female","ILI","Fever","-",2021-05-06,2021-05-13,2021-05-14,NA
+20899,"Hassan",1894095,36,"Female","ILI","Fever","-",2021-05-06,2021-05-13,2021-05-14,NA
+20919,"Hassan",1945548,47,"Male","ILI","Fever","-",2021-05-08,2021-05-13,2021-05-14,NA
+20935,"Hassan",1969884,70,"Female","ILI","Fever","-",2021-05-10,2021-05-14,2021-05-14,NA
+20951,"Hassan",1987113,49,"Female","ILI","Fever","-",2021-05-08,2021-05-13,2021-05-14,NA
+20968,"Hassan",2024823,48,"Female","ILI","Fever","DM",2021-05-09,2021-05-13,2021-05-14,NA
+20973,"Hassan",2034119,38,"Male","ILI","Fever, Cough","-",2021-05-09,2021-05-13,2021-05-14,NA
+21007,"Hassan",2063546,28,"Female","ILI","Fever","-",2021-05-10,2021-05-13,2021-05-14,NA
+21022,"Hassan",2091825,60,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-12,2021-05-14,NA
+21053,"Hassan",2133941,45,"Male","ILI","Fever","-",2021-05-11,2021-05-13,2021-05-14,NA
+21074,"Hassan",2153587,65,"Male","ILI","Fever","-",2021-05-13,2021-05-13,2021-05-14,NA
+21076,"Hassan",2155527,74,"Female","ILI","Fever, Cough","CA",2021-05-12,2021-05-13,2021-05-14,NA
+21077,"Hassan",2156454,47,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-13,2021-05-14,NA
+21086,"Hassan",2179727,55,"Female","ILI","Fever, Cough","-",2021-05-13,2021-05-13,2021-05-14,NA
+21108,"Hassan",1414112,59,"Male","ILI","Fever, Cough","HTN",2021-04-26,2021-05-14,2021-05-15,NA
+21170,"Hassan",1705877,63,"Male","ILI","Cough","HTN",2021-05-03,2021-05-15,2021-05-15,NA
+21192,"Hassan",1756700,62,"Female","ILI","Fever, Cough","-",2021-05-07,2021-05-15,2021-05-15,NA
+21231,"Hassan",1857176,31,"Male","ILI","Fever","-",2021-05-05,2021-05-14,2021-05-15,NA
+21251,"Hassan",1908546,60,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-14,2021-05-15,NA
+21278,"Hassan",1973645,65,"Male","ILI","Fever","DM, HTN",2021-05-11,2021-05-14,2021-05-15,NA
+21304,"Hassan",2024913,39,"Male","ILI","Fever","-",2021-05-13,2021-05-15,2021-05-15,NA
+21369,"Hassan",2107652,39,"Female","ILI","Fever","-",2021-05-10,2021-05-15,2021-05-15,NA
+21370,"Hassan",2108355,68,"Male","ILI","Fever","DM,  COPD, CKD",2021-05-13,2021-05-15,2021-05-15,NA
+21427,"Hassan",2194643,38,"Male","ILI","Fever","DM",2021-05-12,2021-05-14,2021-05-15,NA
+21428,"Hassan",2194657,62,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-15,2021-05-15,NA
+21476,"Hassan",1407092,47,"Male","ILI","Fever","DM",2021-04-26,2021-05-15,2021-05-16,NA
+21578,"Hassan",1739620,47,"Male","ILI","Fever","DM",2021-05-03,2021-05-15,2021-05-16,NA
+21599,"Hassan",1815697,39,"Male","ILI","Fever","DM",2021-05-05,2021-05-15,2021-05-16,NA
+21608,"Hassan",1860973,66,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-15,2021-05-16,NA
+21609,"Hassan",1861089,65,"Female","ILI","Fever","DM, HTN",2021-05-10,2021-05-10,2021-05-16,NA
+21626,"Hassan",1911537,90,"Male","ILI","Fever, Cough","DM, HTN",2021-05-07,2021-05-12,2021-05-16,NA
+21632,"Hassan",1922008,36,"Male","ILI","Fever","-",2021-05-07,2021-05-16,2021-05-16,NA
+21633,"Hassan",1926731,78,"Male","ILI","Fever","HTN",2021-05-09,2021-05-15,2021-05-16,NA
+21683,"Hassan",2014034,27,"Male","ILI","Fever","-",2021-05-13,2021-05-15,2021-05-16,NA
+21707,"Hassan",2046430,58,"Male","ILI","Fever","DM",2021-05-10,2021-05-10,2021-05-16,NA
+21756,"Hassan",2108202,52,"Female","ILI","Fever","HTN",NA,2021-05-12,2021-05-16,"Brought dead"
+21757,"Hassan",2108725,55,"Male","ILI","Fever","-",2021-05-11,2021-05-15,2021-05-16,NA
+21766,"Hassan",2124214,70,"Male","ILI","Fever","DM",2021-05-12,2021-05-15,2021-05-16,NA
+21774,"Hassan",2133951,57,"Female","ILI","Fever","-",2021-05-12,2021-05-15,2021-05-16,NA
+21816,"Hassan",2194066,55,"Male","ILI","Fever","-",2021-05-14,2021-05-15,2021-05-16,NA
+21827,"Hassan",2218116,75,"Male","ILI","Fever","DM,  HTN, CKD",2021-05-14,2021-05-15,2021-05-16,NA
+21832,"Hassan",2234547,32,"Male","ILI","Fever","-",2021-05-14,2021-05-15,2021-05-16,NA
+21838,"Hassan",2242484,65,"Male","ILI","Fever","IHD",2021-05-15,2021-05-15,2021-05-16,NA
+21899,"Hassan",1473498,69,"Female","ILI","Fever","-",2021-04-27,2021-05-16,2021-05-17,NA
+22013,"Hassan",1776250,50,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-17,2021-05-17,NA
+22032,"Hassan",1833634,48,"Male","ILI","Fever","-",2021-05-05,2021-05-16,2021-05-17,NA
+22043,"Hassan",1872860,59,"Female","ILI","Fever","-",2021-05-07,2021-05-15,2021-05-17,NA
+22058,"Hassan",1914872,53,"Male","ILI","Fever","DM",2021-05-07,2021-05-16,2021-05-17,NA
+22074,"Hassan",1946693,50,"Female","ILI","Fever","-",2021-05-11,2021-05-17,2021-05-17,NA
+22096,"Hassan",1989031,86,"Female","ILI","Fever, Cough","HTN",2021-05-12,2021-05-17,2021-05-17,NA
+22111,"Hassan",2010754,75,"Male","ILI","Fever","-",2021-05-10,2021-05-16,2021-05-17,NA
+22116,"Hassan",2022295,56,"Female","ILI","Fever","DM, HTN",2021-05-09,2021-05-15,2021-05-17,NA
+22125,"Hassan",2034046,60,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-16,2021-05-17,NA
+22148,"Hassan",2080553,55,"Male","ILI","Fever","HTN",2021-05-17,2021-05-17,2021-05-17,NA
+22165,"Hassan",2107620,60,"Female","ILI","Fever","-",2021-05-13,2021-05-17,2021-05-17,NA
+22166,"Hassan",2107746,65,"Male","ILI","Fever","DM, HTN",2021-05-17,2021-05-17,2021-05-17,NA
+22167,"Hassan",2108749,80,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-16,2021-05-17,NA
+22168,"Hassan",2108847,64,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-17,2021-05-17,NA
+22169,"Hassan",2108869,43,"Male","ILI","Fever","-",2021-05-14,2021-05-15,2021-05-17,NA
+22176,"Hassan",2112938,65,"Male","ILI","Fever","-",2021-05-13,2021-05-14,2021-05-17,NA
+22195,"Hassan",2134225,56,"Male","ILI","Fever","DM, HTN",2021-05-11,2021-05-16,2021-05-17,NA
+22212,"Hassan",2166153,38,"Male","ILI","Fever, Cough","-",2021-05-14,2021-05-17,2021-05-17,NA
+22216,"Hassan",2169238,68,"Male","ILI","Fever, Cough","DM,  HTN, IHD",2021-05-16,2021-05-16,2021-05-17,NA
+22235,"Hassan",2191958,60,"Female","ILI","Fever","-",2021-04-26,2021-05-15,2021-05-17,NA
+22237,"Hassan",2194024,65,"Female","ILI","Fever","-",2021-05-15,2021-05-15,2021-05-17,NA
+22247,"Hassan",2205933,43,"Male","ILI","Fever","-",2021-05-11,2021-05-17,2021-05-17,NA
+22266,"Hassan",2231253,78,"Female","ILI","Fever","-",2021-05-15,2021-05-16,2021-05-17,NA
+22292,"Hassan",2255593,75,"Female","ILI","Fever","HTN",2021-05-13,2021-05-16,2021-05-17,NA
+22301,"Hassan",2263654,55,"Male","ILI","Fever, Cough","DM",2021-05-14,2021-05-16,2021-05-17,NA
+22310,"Hassan",2277179,54,"Male","ILI","Fever, Cough","DM, HTN",2021-05-15,2021-05-16,2021-05-17,NA
+22313,"Hassan",2286397,60,"Female","ILI","Fever","-",2021-05-15,2021-05-15,2021-05-17,NA
+22314,"Hassan",2289617,57,"Female","ILI","Fever","DM, HTN",2021-05-15,2021-05-16,2021-05-17,NA
+22485,"Hassan",1634943,60,"Female","ILI","Fever","-",2021-05-01,2021-05-17,2021-05-18,NA
+22620,"Hassan",1997571,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-16,2021-05-18,NA
+22646,"Hassan",2043518,51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-15,2021-05-18,NA
+22650,"Hassan",2046439,75,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-18,2021-05-18,NA
+22690,"Hassan",2108643,26,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-17,2021-05-18,NA
+22691,"Hassan",2108671,44,"Male","ILI","Fever","DM",2021-05-10,2021-05-17,2021-05-18,NA
+22695,"Hassan",2113128,60,"Female","ILI","Fever","-",2021-05-11,2021-05-17,2021-05-18,NA
+22710,"Hassan",2134204,37,"Female","ILI","Fever","-",2021-05-11,2021-05-17,2021-05-18,NA
+22711,"Hassan",2134495,65,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-05-18,2021-05-18,2021-05-18,NA
+22728,"Hassan",2154527,65,"Male","ILI","Fever","-",2021-05-14,2021-05-17,2021-05-18,NA
+22745,"Hassan",2176441,47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-16,2021-05-18,NA
+22766,"Hassan",2203014,44,"Female","ILI","Fever, Cough","-",2021-05-15,2021-05-17,2021-05-18,NA
+22788,"Hassan",2234058,80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-16,2021-05-18,NA
+22792,"Hassan",2238422,53,"Male","ILI","Fever","-",2021-05-15,2021-05-18,2021-05-18,NA
+22798,"Hassan",2242470,60,"Female","ILI","Fever, Cough","-",2021-05-15,2021-05-15,2021-05-18,NA
+22806,"Hassan",2255608,66,"Male","ILI","Fever","-",2021-05-15,2021-05-18,2021-05-18,NA
+22819,"Hassan",2275119,75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-18,NA
+22822,"Hassan",2277185,37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-18,NA
+22831,"Hassan",2297577,40,"Male","ILI","Fever","-",2021-05-16,2021-05-17,2021-05-18,NA
+22833,"Hassan",2299929,40,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-17,2021-05-18,NA
+22834,"Hassan",2301361,82,"Male","ILI","Fever, Cough","HTN",2021-05-16,2021-05-17,2021-05-18,NA
+22840,"Hassan",2312552,68,"Female","ILI","Fever","DM",2021-05-17,2021-05-18,2021-05-18,NA
+22841,"Hassan",2313849,45,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-18,2021-05-18,NA
+22842,"Hassan",2316128,55,"Female","ILI","Fever, Cough","-",2021-05-16,2021-05-17,2021-05-18,NA
+22909,"Hassan",1564655,60,"Female","ILI","Fever, Cough","-",2021-04-29,2021-05-18,2021-05-19,NA
+23076,"Hassan",2000668,59,"Male","ILI","Fever","-",2021-05-17,2021-05-18,2021-05-19,NA
+23176,"Hassan",2154619,45,"Male","ILI","Fever","-",2021-05-11,2021-05-19,2021-05-19,NA
+23177,"Hassan",2154714,32,"Male","ILI","Fever","-",2021-05-18,2021-05-18,2021-05-19,NA
+23212,"Hassan",2193533,70,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-18,2021-05-19,NA
+23213,"Hassan",2194648,33,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-18,2021-05-19,NA
+23273,"Hassan",2275111,48,"Female","ILI","Fever","DM",2021-05-17,2021-05-18,2021-05-19,NA
+23306,"Hassan",2344762,67,"Female","ILI","Fever, Cough","-",2021-05-18,2021-05-19,2021-05-19,NA
+23308,"Hassan",2346751,55,"Female","ILI","Fever","-",2021-05-18,2021-05-18,2021-05-19,NA
+23613,"Hassan",2034343,45,"Male","ILI","Fever","DM, HTN",2021-05-19,2021-05-20,2021-05-20,NA
+23630,"Hassan",2061169,52,"Male","ILI","Fever, Cough","DM",2021-05-19,2021-05-20,2021-05-20,NA
+23664,"Hassan",2107734,47,"Male","ILI","Cough","-",2021-05-09,2021-05-17,2021-05-20,NA
+23668,"Hassan",2112804,29,"Male","ILI","Fever","-",2021-05-11,2021-05-20,2021-05-20,NA
+23669,"Hassan",2113193,40,"Female","ILI","Cough","-",2021-05-15,2021-05-19,2021-05-20,NA
+23684,"Hassan",2134699,82,"Male","ILI","Fever","DM, HTN",2021-05-15,2021-05-18,2021-05-20,NA
+23700,"Hassan",2154563,42,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-19,2021-05-20,NA
+23724,"Hassan",2194468,54,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-17,2021-05-20,NA
+23725,"Hassan",2194511,37,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-20,2021-05-20,NA
+23736,"Hassan",2210770,31,"Male","ILI","Cough","-",2021-05-17,2021-05-18,2021-05-20,NA
+23752,"Hassan",2232321,68,"Male","ILI","Fever, Cough","DM, HTN",2021-05-14,2021-05-20,2021-05-20,NA
+23757,"Hassan",2238406,70,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-18,2021-05-20,NA
+23791,"Hassan",2277180,30,"Female","ILI","Fever, Cough","-",2021-05-19,2021-05-20,2021-05-20,NA
+23812,"Hassan",2305794,38,"Male","ILI","Fever","HTN",2021-05-17,2021-05-20,2021-05-20,NA
+23819,"Hassan",2313789,63,"Male","ILI","Fever","-",2021-05-15,2021-05-19,2021-05-20,NA
+23822,"Hassan",2316067,55,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-20,2021-05-20,NA
+23823,"Hassan",2316190,29,"Male","ILI","Fever","-",2021-04-30,2021-05-18,2021-05-20,NA
+23827,"Hassan",2322755,38,"Male","ILI","Cough","HTN, CLD",2021-05-18,2021-05-20,2021-05-20,NA
+23837,"Hassan",2337547,65,"Female","ILI","Cough","-",2021-05-18,2021-05-19,2021-05-20,NA
+23843,"Hassan",2340867,35,"Male","ILI","Cough","-",2021-05-18,2021-05-19,2021-05-20,NA
+23844,"Hassan",2341387,80,"Male","ILI","Fever","DM, HTN",2021-05-18,2021-05-18,2021-05-20,NA
+23849,"Hassan",2355510,33,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-19,2021-05-20,NA
+23850,"Hassan",2355512,84,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-18,2021-05-18,2021-05-20,NA
+23853,"Hassan",2359600,75,"Female","ILI","Fever, Cough","DM, HTN",2021-05-18,2021-05-19,2021-05-20,NA
+23960,"Hassan",1989393,49,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-21,2021-05-21,NA
+24072,"Hassan",2194696,38,"Male","ILI","Fever","-",2021-05-19,2021-05-21,2021-05-21,NA
+24087,"Hassan",2232007,60,"Female","ILI","Fever, Cough","DM, HTN",2021-05-16,2021-05-20,2021-05-21,NA
+24142,"Hassan",2303250,70,"Male","ILI","Fever","-",2021-05-17,2021-05-20,2021-05-21,NA
+24178,"Hassan",2346888,77,"Female","ILI","Fever","-",2021-05-18,2021-05-20,2021-05-21,NA
+24205,"Hassan",2390609,65,"Male","ILI","Fever","DM, HTN",2021-05-18,2021-05-21,2021-05-21,NA
+24211,"Hassan",2413346,48,"Male","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-19,2021-05-21,NA
+24289,"Hassan",1439783,65,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-01,2021-05-22,NA
+24492,"Hassan",2107751,65,"Female","ILI","Fever","-",2021-05-10,2021-05-21,2021-05-22,NA
+24499,"Hassan",2134340,66,"Male","ILI","Fever","-",2021-05-19,2021-05-21,2021-05-22,NA
+24515,"Hassan",2172658,43,"Male","ILI","Fever","DM",2021-05-16,2021-05-21,2021-05-22,NA
+24525,"Hassan",2193519,60,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-21,2021-05-22,NA
+24535,"Hassan",2215915,62,"Female","ILI","Fever","-",2021-05-16,2021-05-21,2021-05-22,NA
+24554,"Hassan",2270162,38,"Female","ILI","Fever, Cough","-",2021-05-18,2021-05-21,2021-05-22,NA
+24585,"Hassan",2325345,46,"Male","ILI","Fever","-",2021-05-18,2021-05-21,2021-05-22,NA
+24606,"Hassan",2349100,60,"Male","ILI","Fever","DM",2021-05-18,2021-05-21,2021-05-22,NA
+24612,"Hassan",2356837,39,"Male","ILI","Fever","-",2021-05-19,2021-05-21,2021-05-22,NA
+24631,"Hassan",2389967,60,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-21,2021-05-22,NA
+24651,"Hassan",2421010,57,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-21,2021-05-22,NA
+24656,"Hassan",2431091,75,"Male","ILI","Fever, Cough","DM, IHD",2021-05-21,2021-05-21,2021-05-22,NA
+24658,"Hassan",2436644,65,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-22,2021-05-22,NA
+24926,"Hassan",1966659,55,"Female","ILI","Fever","DM",2021-05-08,2021-05-22,2021-05-23,NA
+25067,"Hassan",2193678,85,"Female","ILI","Fever","-",2021-05-16,2021-05-22,2021-05-23,NA
+25068,"Hassan",2193756,78,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25142,"Hassan",2289475,75,"Male","ILI","Fever, Cough","DM, HTN",2021-05-18,2021-05-22,2021-05-23,NA
+25163,"Hassan",2316077,70,"Male","ILI","Fever","HTN",2021-05-11,2021-05-23,2021-05-23,NA
+25173,"Hassan",2331152,70,"Female","ILI","Fever, Cough","-",2021-05-16,2021-05-23,2021-05-23,NA
+25232,"Hassan",2391660,85,"Male","ILI","Fever","-",2021-05-20,2021-05-23,2021-05-23,NA
+25233,"Hassan",2391706,37,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25251,"Hassan",2409117,52,"Male","ILI","Fever, Cough","-",NA,2021-05-22,2021-05-23,"Died at his residence"
+25270,"Hassan",2436588,70,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25278,"Hassan",2450292,75,"Female","ILI","Fever","DM, HTN",NA,2021-05-22,2021-05-23,"Died at her residence"
+25603,"Hassan",2210976,78,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-23,2021-05-24,NA
+25609,"Hassan",2232164,47,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-24,2021-05-24,NA
+25612,"Hassan",2240109,61,"Female","ILI","Fever","DM",2021-05-18,2021-05-22,2021-05-24,NA
+25711,"Hassan",2370313,48,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-24,2021-05-24,NA
+25718,"Hassan",2381709,63,"Female","ILI","Fever","-",2021-05-19,2021-05-24,2021-05-24,NA
+25733,"Hassan",2391710,76,"Male","ILI","Fever","DM, HTN",2021-05-18,2021-05-23,2021-05-24,NA
+25779,"Hassan",2445199,61,"Female","ILI","Fever","-",2021-05-20,2021-05-23,2021-05-24,NA
+25780,"Hassan",2445580,80,"Female","ILI","Fever, Cough","HTN",2021-05-21,2021-05-21,2021-05-24,NA
+25781,"Hassan",2445650,60,"Male","ILI","Fever","-",2021-05-19,2021-05-23,2021-05-24,NA
+25794,"Hassan",2458765,95,"Female","ILI","Fever","-",NA,2021-05-21,2021-05-24,"Died at her residence"
+25795,"Hassan",2458867,84,"Female","ILI","Fever","HTN",NA,2021-05-22,2021-05-24,"Died at her residence"
+25806,"Hassan",2474302,66,"Female","ILI","Fever, Cough","-",2021-05-22,2021-05-23,2021-05-24,NA
+25814,"Hassan",2479757,65,"Female","ILI","Fever, Cough","-",2021-05-23,2021-05-23,2021-05-24,NA
+25816,"Hassan",2481408,82,"Female","ILI","Fever, Cough","DM, HTN",2021-05-18,2021-05-22,2021-05-24,NA
+26113,"Hassan",2034344,26,"Female","ILI","Fever","-",2021-05-07,2021-05-24,2021-05-25,NA
+26192,"Hassan",2211127,48,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-24,2021-05-25,NA
+26233,"Hassan",2286619,68,"Male","ILI","Fever","-",2021-05-16,2021-05-24,2021-05-25,NA
+26300,"Hassan",2387679,65,"Female","ILI","Fever","-",2021-05-20,2021-05-24,2021-05-25,NA
+26331,"Hassan",2413384,38,"Female","ILI","Fever, Cough","-",2021-05-24,2021-05-24,2021-05-25,NA
+26349,"Hassan",2436618,65,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-24,2021-05-25,NA
+26369,"Hassan",2474474,50,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-23,2021-05-25,NA
+26380,"Hassan",2481463,45,"Male","ILI","Fever","-",2021-05-23,2021-05-25,2021-05-25,NA
+26390,"Hassan",2494396,64,"Female","ILI","Fever, Cough","-",2021-05-21,2021-05-25,2021-05-25,NA
+26403,"Hassan",2506794,65,"Male","ILI","Fever","DM, HTN",2021-05-24,2021-05-25,2021-05-25,NA
+26405,"Hassan",2513782,60,"Male","ILI","Fever","-",2021-05-24,2021-05-25,2021-05-25,NA
+26661,"Hassan",1947301,60,"Male","ILI","Fever","-",2021-05-08,2021-05-26,2021-05-26,NA
+26841,"Hassan",2406307,78,"Female","ILI","Fever","DM",2021-05-20,2021-05-26,2021-05-26,NA
+26871,"Hassan",2454078,68,"Female","ILI","Fever","DM, HTN",2021-05-20,2021-05-25,2021-05-26,NA
+26888,"Hassan",2481035,43,"Female","ILI","Fever, Cough","-",2021-05-22,2021-05-26,2021-05-26,NA
+26902,"Hassan",2500119,50,"Female","ILI","Fever","-",2021-05-25,2021-05-26,2021-05-26,NA
+26911,"Hassan",2506792,35,"Male","ILI","Fever, Cough","-",2021-05-24,2021-05-25,2021-05-26,NA
+26925,"Hassan",2523733,39,"Male","ILI","Fever","-",NA,2021-05-25,2021-05-26,"Died at his residence"
+26932,"Hassan",2534607,52,"Female","ILI","Fever, Cough","HTN",2021-05-24,2021-05-25,2021-05-26,NA
+26935,"Hassan",2541633,83,"Male","ILI","Fever","-",NA,2021-05-24,2021-05-26,"Died at his residence"
+27241,"Hassan",2315713,65,"Female","ILI","Fever, cough","-",2021-05-25,2021-05-27,2021-05-27,NA
+27242,"Hassan",2315810,43,"Male","ILI","Fever, cough","DM, CKD",2021-05-19,2021-05-25,2021-05-27,NA
+27292,"Hassan",2390024,60,"Male","ILI","Fever, cough","DM",2021-05-20,2021-05-26,2021-05-27,NA
+27327,"Hassan",2436428,43,"Male","ILI","Fever, cough","-",2021-05-27,2021-05-27,2021-05-27,NA
+27341,"Hassan",2455769,63,"Female","ILI","Fever, cough","-",2021-05-22,2021-05-27,2021-05-27,NA
+27346,"Hassan",2458851,75,"Male","ILI","Fever, cough","-",2021-05-23,2021-05-27,2021-05-27,NA
+27392,"Hassan",2520797,45,"Male","ILI","Fever, cough","CLD",2021-05-24,2021-05-26,2021-05-27,NA
+27571,"Hassan",2215919,50,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-27,2021-05-28,NA
+27581,"Hassan",2231804,42,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-26,2021-05-28,NA
+27661,"Hassan",2349103,75,"Male","ILI","Fever, Cough","COPD",2021-05-18,2021-05-27,2021-05-28,NA
+27699,"Hassan",2436205,62,"Male","ILI","Fever, Cough","-",2021-05-27,2021-05-28,2021-05-28,NA
+27712,"Hassan",2450308,63,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-28,2021-05-28,NA
+27738,"Hassan",2500259,89,"Male","ILI","Fever, Cough","DM, HTN",2021-05-26,2021-05-27,2021-05-28,NA
+27739,"Hassan",2500319,47,"Male","ILI","Fever, Cough","-",2021-05-24,2021-05-27,2021-05-28,NA
+27741,"Hassan",2502429,40,"Female","ILI","Fever, Cough","-",2021-05-27,2021-05-28,2021-05-28,NA
+27748,"Hassan",2513785,88,"Male","ILI","Fever, Cough","HTN",2021-05-24,2021-05-27,2021-05-28,NA
+27757,"Hassan",2522685,75,"Male","ILI","Fever, Cough","HTN",2021-05-25,2021-05-27,2021-05-28,NA
+27765,"Hassan",2530161,50,"Male","ILI","Fever, Cough","-",2021-05-27,2021-05-27,2021-05-28,NA
+27789,"Hassan",2562710,55,"Male","ILI","Fever, Cough","-",2021-05-25,2021-05-25,2021-05-28,NA
+27807,"Hassan",2578817,58,"Female","ILI","Fever, Cough","DM, HTN",2021-05-27,2021-05-28,2021-05-28,NA
+28142,"Hassan",2431048,78,"Male","ILI","Fever, Cough","DM",2021-05-25,2021-05-28,2021-05-29,NA
+28179,"Hassan",2474399,45,"Male","ILI","Fever","-",2021-05-25,2021-05-28,2021-05-29,NA
+28260,"Hassan",2547118,55,"Female","ILI","Fever, Cough","DM, HTN",2021-05-24,2021-05-29,2021-05-29,NA
+28264,"Hassan",2552031,45,"Male","ILI","Fever, Cough","HTN",2021-05-26,2021-05-26,2021-05-29,NA
+28273,"Hassan",2564508,54,"Female","ILI","Fever, Cough","-",2021-05-27,2021-05-28,2021-05-29,NA
+28280,"Hassan",2573832,75,"Female","ILI","Fever","-",2021-05-26,2021-05-28,2021-05-29,NA
+28286,"Hassan",2584264,50,"Female","ILI","Fever","-",2021-05-27,2021-05-27,2021-05-29,NA
+28288,"Hassan",2593087,80,"Male","ILI","Fever, Cough","-",2021-05-28,2021-05-28,2021-05-29,NA
+28291,"Hassan",2595125,48,"Male","ILI","Fever","-",2021-05-28,2021-05-28,2021-05-29,NA
+28533,"Hassan",2391712,75,"Male","ILI","Fever, Cough","HTN",2021-05-27,2021-05-29,2021-05-30,NA
+28552,"Hassan",2413580,52,"Male","ILI","Fever","-",2021-05-24,2021-05-29,2021-05-30,NA
+28574,"Hassan",2435877,43,"Male","ILI","Fever, Cough","-",2021-05-29,2021-05-29,2021-05-30,NA
+28600,"Hassan",2480834,69,"Male","ILI","Fever, Cough","DM, HTN",2021-05-28,2021-05-30,2021-05-30,NA
+28617,"Hassan",2510290,52,"Female","ILI","Fever, Cough","DM, HTN",2021-05-28,2021-05-29,2021-05-30,NA
+28637,"Hassan",2546870,67,"Female","ILI","Fever","DM, HTN",2021-05-25,2021-05-29,2021-05-30,NA
+28650,"Hassan",2571026,85,"Male","ILI","Fever","DM, HTN",2021-05-27,2021-05-30,2021-05-30,NA
+28657,"Hassan",2582242,70,"Female","ILI","Fever, Cough","DM",2021-05-29,2021-05-29,2021-05-30,NA
+28665,"Hassan",2593043,60,"Female","ILI","Fever","DM, HTN",2021-05-21,2021-05-29,2021-05-30,NA
+28680,"Hassan",2613615,38,"Male","ILI","Fever","-",2021-05-27,2021-05-29,2021-05-30,NA
+28685,"Hassan",2632563,70,"Male","ILI","Fever, Cough","-",2021-05-29,2021-05-30,2021-05-30,NA
+28908,"Hassan",2205966,51,"Female","ILI","Fever, Cough","DM, HTN",2021-05-18,2021-05-31,2021-05-31,NA
+28981,"Hassan",2481537,60,"Male","ILI","Fever, Cough","DM",2021-05-19,2021-05-30,2021-05-31,NA
+28993,"Hassan",2503713,71,"Male","ILI","Fever, Cough","-",2021-05-27,2021-05-30,2021-05-31,NA
+29014,"Hassan",2530362,77,"Male","ILI","Fever","DM, HTN",2021-05-28,2021-05-30,2021-05-31,NA
+29018,"Hassan",2534612,58,"Female","ILI","Fever","-",2021-05-22,2021-05-30,2021-05-31,NA
+29031,"Hassan",2562678,67,"Female","ILI","Fever","DM, HTN",2021-05-25,2021-05-30,2021-05-31,NA
+29042,"Hassan",2576888,69,"Female","ILI","Fever, Cough","-",2021-05-27,2021-05-30,2021-05-31,NA
+29060,"Hassan",2601603,37,"Female","ILI","Fever, Cough","-",2021-05-29,2021-05-30,2021-05-31,NA
+29067,"Hassan",2607343,55,"Male","ILI","Fever","DM, HTN",2021-05-28,2021-05-31,2021-05-31,NA
+29084,"Hassan",2632855,73,"Male","ILI","Fever, Cough","DM, HTN",2021-05-27,2021-05-30,2021-05-31,NA
+29089,"Hassan",2638035,60,"Male","ILI","Fever, Cough","-",2021-05-30,2021-05-30,2021-05-31,NA
+29096,"Hassan",2648721,54,"Male","ILI","Fever","HTN",2021-05-29,2021-05-29,2021-05-31,NA
+29402,"Hassan",2389965,55,"Male","ILI","Fever","-",2021-05-20,2021-06-01,2021-06-01,NA
+29420,"Hassan",2435802,51,"Male","ILI","Fever","DM, HTN",2021-05-29,2021-05-31,2021-06-01,NA
+29437,"Hassan",2474279,74,"Female","ILI","Fever","DM",2021-05-22,2021-06-01,2021-06-01,NA
+29438,"Hassan",2474286,30,"Male","ILI","Fever","-",2021-05-22,2021-05-31,2021-06-01,NA
+29465,"Hassan",2518422,38,"Male","ILI","Fever","-",2021-05-30,2021-06-01,2021-06-01,NA
+29501,"Hassan",2562227,27,"Male","ILI","Fever","-",2021-05-29,2021-06-01,2021-06-01,NA
+29506,"Hassan",2569348,77,"Male","ILI","Fever, Cough","HTN",2021-05-30,2021-06-01,2021-06-01,NA
+29507,"Hassan",2572108,58,"Female","ILI","Fever, Cough","HTN",2021-05-27,2021-05-31,2021-06-01,NA
+29553,"Hassan",2646327,50,"Female","ILI","Fever, Cough","-",2021-05-30,2021-05-31,2021-06-01,NA
+29556,"Hassan",2649370,60,"Male","ILI","Fever, Cough","DM",2021-05-29,2021-06-01,2021-06-01,NA
+29557,"Hassan",2650792,65,"Male","ILI","Fever","-",2021-05-31,2021-06-01,2021-06-01,NA
+29863,"Hassan",2458827,74,"Male","ILI","Fever","-",2021-05-30,2021-06-01,2021-06-02,NA
+29872,"Hassan",2474263,28,"Male","ILI","Fever, Cough","-",2021-05-25,2021-06-01,2021-06-02,NA
+29895,"Hassan",2503707,70,"Female","ILI","Fever, Cough","-",2021-05-29,2021-06-01,2021-06-02,NA
+29900,"Hassan",2513776,46,"Male","ILI","Fever, Cough","-",2021-06-01,2021-06-02,2021-06-02,NA
+29964,"Hassan",2613546,75,"Female","ILI","Fever","dm",2021-05-30,2021-06-01,2021-06-02,NA
+29974,"Hassan",2625410,43,"Male","ILI","Cough","-",2021-05-29,2021-06-01,2021-06-02,NA
+29992,"Hassan",2643541,75,"Female","ILI","Fever, Cough","-",2021-05-30,2021-06-01,2021-06-02,NA
+30001,"Hassan",2657237,65,"Male","ILI","Fever, Cough","DM",2021-05-29,2021-05-31,2021-06-02,NA
+30006,"Hassan",2660513,80,"Female","ILI","Fever, Cough","-",2021-05-31,2021-06-02,2021-06-02,NA
+30009,"Hassan",2666097,47,"Male","ILI","Cough","-",2021-05-30,2021-06-01,2021-06-02,NA
+30011,"Hassan",2671389,65,"Female","ILI","Fever","-",2021-06-01,2021-06-01,2021-06-02,NA
+30012,"Hassan",2674138,45,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-01,2021-06-02,NA
+30081,"Hassan",1610440,45,"Male","ILI","Fever, Cough","DM",2021-06-01,2021-06-02,2021-06-03,NA
+30290,"Hassan",2322756,52,"Male","ILI","Fever, Cough","-",2021-05-18,2021-06-03,2021-06-03,NA
+30310,"Hassan",2362809,65,"Female","ILI","Fever, Cough","-",2021-05-31,2021-06-02,2021-06-03,NA
+30382,"Hassan",2518217,36,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-02,2021-06-03,NA
+30434,"Hassan",2586139,75,"Male","ILI","Fever, Cough","-",2021-05-30,2021-06-02,2021-06-03,NA
+30438,"Hassan",2593116,38,"Female","ILI","Fever, Cough","DM",2021-05-29,2021-06-02,2021-06-03,NA
+30447,"Hassan",2598459,37,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-03,2021-06-03,NA
+30457,"Hassan",2613955,43,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-02,2021-06-03,NA
+30471,"Hassan",2632020,39,"Male","ILI","Fever, Cough","DM",2021-05-28,2021-06-02,2021-06-03,NA
+30472,"Hassan",2632545,30,"Male","ILI","Fever, Cough","-",2021-05-30,2021-06-01,2021-06-03,NA
+30494,"Hassan",2655975,80,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-02,2021-06-03,NA
+30525,"Hassan",2682448,56,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-01,2021-06-03,NA
+30536,"Hassan",2696457,70,"Female","ILI","Fever, Cough","DM",2021-06-01,2021-06-02,2021-06-03,NA
+30537,"Hassan",2698961,65,"Female","ILI","Fever, Cough","-",2021-06-02,2021-06-03,2021-06-03,NA
+30585,"Hassan",1823059,59,"Male","ILI","Fever","HTN",2021-06-03,2021-06-03,2021-06-04,NA
+30768,"Hassan",2517121,70,"Female","ILI","Fever","-",2021-05-24,2021-06-04,2021-06-04,NA
+30802,"Hassan",2571038,56,"Female","ILI","Fever","DM",2021-05-26,2021-06-03,2021-06-04,NA
+30814,"Hassan",2596866,38,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-03,2021-06-04,NA
+30839,"Hassan",2632699,68,"Male","ILI","Fever, Cough","CKD",2021-06-01,2021-06-03,2021-06-04,NA
+30860,"Hassan",2660512,45,"Female","ILI","Fever, Cough","-",2021-05-31,2021-06-03,2021-06-04,NA
+30878,"Hassan",2683422,48,"Male","ILI","Fever, Cough","-",2021-06-02,2021-06-03,2021-06-04,NA
+30887,"Hassan",2691261,55,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-03,2021-06-04,NA
+30896,"Hassan",2704809,75,"Female","ILI","Fever","-",2021-06-04,2021-06-04,2021-06-04,NA
+31056,"Hassan",2340927,56,"Male","ILI","Fever, Cough","-",2021-05-18,2021-06-04,2021-06-05,NA
+31154,"Hassan",2562544,50,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-04,2021-06-05,NA
+31196,"Hassan",2638085,50,"Male","ILI","Fever","DM, HTN",2021-05-29,2021-06-04,2021-06-05,NA
+31231,"Hassan",2678020,54,"Female","ILI","Fever","-",2021-06-01,2021-06-04,2021-06-05,NA
+31234,"Hassan",2682585,51,"Male","ILI","Fever","DM",2021-06-02,2021-06-04,2021-06-05,NA
+31258,"Hassan",2711179,54,"Male","ILI","Fever, Cough","DM",2021-06-03,2021-06-04,2021-06-05,NA
+31259,"Hassan",2711734,30,"Female","ILI","Fever, Cough","-",2021-06-04,2021-06-04,2021-06-05,NA
+31265,"Hassan",2726362,68,"Female","ILI","Fever, Cough","-",NA,2021-06-05,2021-06-05,"Died at her residence"
+31502,"Hassan",2613676,55,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-05,2021-06-06,NA
+31530,"Hassan",2671411,62,"Male","ILI","Fever, Cough","DM, HTN",2021-06-04,2021-06-05,2021-06-06,NA
+31531,"Hassan",2671415,23,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-06,2021-06-06,NA
+31538,"Hassan",2681609,51,"Male","ILI","Fever, Cough","DM, HTN",2021-06-02,2021-06-06,2021-06-06,NA
+31539,"Hassan",2682608,42,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-06,2021-06-06,NA
+31568,"Hassan",2713443,70,"Female","ILI","Fever","DM, HTN",2021-06-03,2021-06-05,2021-06-06,NA
+31572,"Hassan",2714506,74,"Female","ILI","Fever","DM",2021-06-03,2021-06-05,2021-06-06,NA
+31584,"Hassan",2738584,63,"Female","ILI","Fever","DM, HTN",2021-06-05,2021-06-06,2021-06-06,NA
+31827,"Hassan",2632768,31,"Male","ILI","Fever","-",2021-05-30,2021-06-04,2021-06-07,NA
+31828,"Hassan",2634349,80,"Male","ILI","Fever","DM, HTN",2021-05-30,2021-06-07,2021-06-07,NA
+31849,"Hassan",2662503,48,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-07,2021-06-07,NA
+31868,"Hassan",2675625,70,"Female","ILI","Fever","-",2021-06-05,2021-06-07,2021-06-07,NA
+31885,"Hassan",2697916,29,"Male","ILI","Fever, Cough","-",2021-06-02,2021-06-06,2021-06-07,NA
+31886,"Hassan",2698959,32,"Male","ILI","Fever","-",2021-06-02,2021-06-06,2021-06-07,NA
+31897,"Hassan",2711542,50,"Female","ILI","Fever, Cough","-",2021-06-04,2021-06-06,2021-06-07,NA
+31905,"Hassan",2722395,84,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-07,2021-06-07,NA
+31920,"Hassan",2744119,84,"Male","ILI","Fever, Cough","DM,  HTN, IHD",2021-06-06,2021-06-06,2021-06-07,NA
+31923,"Hassan",2746903,48,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-05,2021-06-07,NA
+32005,"Hassan",2618800,40,"Male","ILI","Fever","-",2021-06-04,2021-06-08,2021-06-08,NA
+32008,"Hassan",2625427,66,"Male","ILI","Fever, Cough","-",2021-06-01,2021-06-08,2021-06-08,NA
+32018,"Hassan",2649310,85,"Male","ILI","Fever","-",2021-06-02,2021-06-07,2021-06-08,NA
+32030,"Hassan",2662035,64,"Male","ILI","Fever, Cough","HTN",2021-06-07,2021-06-08,2021-06-08,NA
+32045,"Hassan",2689887,40,"Female","ILI","Fever","-",2021-06-02,2021-06-07,2021-06-08,NA
+32050,"Hassan",2697059,70,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-07,2021-06-08,NA
+32059,"Hassan",2711080,68,"Male","ILI","Fever, Cough","DM, HTN",2021-06-02,2021-06-08,2021-06-08,NA
+32060,"Hassan",2711432,65,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-07,2021-06-08,NA
+32072,"Hassan",2724376,81,"Male","ILI","Fever","-",2021-06-04,2021-06-08,2021-06-08,NA
+32177,"Hassan",2618790,59,"Female","ILI","Fever, Cough","-",2021-05-29,2021-06-08,2021-06-09,NA
+32257,"Hassan",2734855,85,"Female","ILI","Fever, Cough","-",2021-06-07,2021-06-08,2021-06-09,NA
+32267,"Hassan",2740888,75,"Female","ILI","Cough","DM",2021-06-01,2021-06-09,2021-06-09,NA
+32268,"Hassan",2740936,43,"Female","ILI","Cough","-",2021-06-05,2021-06-08,2021-06-09,NA
+32269,"Hassan",2740995,39,"Female","ILI","Cough","-",2021-06-07,2021-06-09,2021-06-09,NA
+32271,"Hassan",2742733,50,"Female","ILI","Fever, Cough","-",2021-06-08,2021-06-08,2021-06-09,NA
+32290,"Hassan",2763627,55,"Female","ILI","Cough","-",2021-06-08,2021-06-08,2021-06-09,NA
+32296,"Hassan",2771272,40,"Male","ILI","Fever, Cough","-",2021-06-08,2021-06-08,2021-06-09,NA
+32336,"Hassan",2541636,45,"Male","ILI","Fever, Cough","-",2021-05-27,2021-06-09,2021-06-10,NA
+32354,"Hassan",2600002,32,"Female","ILI","Fever","-",2021-06-01,2021-06-09,2021-06-10,NA
+32366,"Hassan",2632962,48,"Female","ILI","Fever, Cough","-",2021-05-28,2021-06-10,2021-06-10,NA
+32374,"Hassan",2639845,35,"Male","ILI","Fever","-",2021-06-03,2021-06-09,2021-06-10,NA
+32428,"Hassan",2714857,58,"Female","ILI","Fever, Cough","-",2021-06-05,2021-06-10,2021-06-10,NA
+32454,"Hassan",2747061,70,"Female","ILI","Fever","-",2021-06-07,2021-06-09,2021-06-10,NA
+32463,"Hassan",2752486,58,"Female","ILI","Fever, Cough","DM, HTN",2021-06-07,2021-06-10,2021-06-10,NA
+32473,"Hassan",2764732,72,"Male","ILI","Fever","-",2021-06-09,2021-06-09,2021-06-10,NA
+32474,"Hassan",2764803,98,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-09,2021-06-10,NA
+32475,"Hassan",2764847,68,"Female","ILI","Fever, Cough","HTN",2021-06-07,2021-06-07,2021-06-10,NA
+32514,"Hassan",2453446,45,"Male","ILI","Cough","-",2021-05-24,2021-06-10,2021-06-11,NA
+32569,"Hassan",2664963,65,"Female","ILI","Fever","-",2021-06-01,2021-06-10,2021-06-11,NA
+32710,"Hassan",2669385,70,"Male","ILI","Fever","-",2021-06-07,2021-06-11,2021-06-12,NA
+32723,"Hassan",2682487,58,"Male","ILI","Fever","-",2021-06-10,2021-06-11,2021-06-12,NA
+32774,"Hassan",2772248,65,"Female","ILI","Cough","DM, HTN",2021-06-10,2021-06-12,2021-06-12,NA
+32783,"Hassan",2788296,58,"Female","ILI","Fever, Cough","-",2021-06-08,2021-06-08,2021-06-12,NA
+32785,"Hassan",2790893,37,"Male","ILI","Cough","-",2021-06-10,2021-06-10,2021-06-12,NA
+32786,"Hassan",2792024,55,"Male","ILI","Fever","-",NA,2021-06-10,2021-06-12,"Brought dead"
+32787,"Hassan",2792414,42,"Male","ILI","Cough","-",2021-06-10,2021-06-11,2021-06-12,NA
+32788,"Hassan",2792728,50,"Female","ILI","Cough","HTN",2021-06-10,2021-06-11,2021-06-12,NA
+32866,"Hassan",2736647,57,"Male","ILI","Fever","DM, HTN",2021-06-06,2021-06-13,2021-06-13,NA
+32871,"Hassan",2740889,65,"Male","ILI","Cough","-",2021-06-11,2021-06-12,2021-06-13,NA
+32873,"Hassan",2742982,47,"Male","ILI","Cough","-",2021-05-17,2021-06-12,2021-06-13,NA
+32879,"Hassan",2752485,35,"Male","ILI","Fever","TB",2021-06-05,2021-06-12,2021-06-13,NA
+32880,"Hassan",2752707,83,"Male","ILI","Cough","DM, HTN, IHD",2021-06-06,2021-06-12,2021-06-13,NA
+32893,"Hassan",2761857,73,"Female","ILI","Fever","DM",2021-06-06,2021-06-12,2021-06-13,NA
+32919,"Hassan",2806672,70,"Male","ILI","Fever","-",2021-06-12,2021-06-13,2021-06-13,NA
+32995,"Hassan",2746787,62,"Male","ILI","Cough","-",2021-06-07,2021-06-13,2021-06-14,NA
+33025,"Hassan",2798393,54,"Male","ILI","Fever","-",2021-06-11,2021-06-13,2021-06-14,NA
+33033,"Hassan",2804626,60,"Female","ILI","Fever","DM",2021-06-12,2021-06-13,2021-06-14,NA
+33103,"Hassan",2740953,70,"Female","ILI","Cough","-",2021-06-06,2021-06-15,2021-06-15,NA
+33111,"Hassan",2754654,25,"Male","ILI","Cough","-",2021-06-09,2021-06-14,2021-06-15,NA
+33117,"Hassan",2760502,36,"Male","ILI","Fever","-",2021-06-08,2021-06-14,2021-06-15,NA
+33126,"Hassan",2781368,82,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-14,2021-06-15,NA
+33138,"Hassan",2803874,82,"Male","ILI","Fever, Cough","DM, HTN",2021-06-08,2021-06-15,2021-06-15,NA
+33152,"Hassan",2815583,80,"Male","ILI","Fever, Cough","DM, HTN",2021-06-14,2021-06-15,2021-06-15,NA
+33189,"Hassan",2682364,80,"Female","ILI","Cough","-",2021-06-08,2021-06-15,2021-06-16,NA
+33209,"Hassan",2716996,53,"Male","ILI","Fever, Cough","DM",2021-06-04,2021-06-15,2021-06-16,NA
+33227,"Hassan",2740923,40,"Female","ILI","Fever","-",2021-06-12,2021-06-15,2021-06-16,NA
+33292,"Hassan",2821309,64,"Male","ILI","Cough","-",2021-06-14,2021-06-14,2021-06-16,NA
+33318,"Hassan",2530159,35,"Male","ILI","Fever, Cough","-",2021-05-30,2021-06-16,2021-06-17,NA
+33352,"Hassan",2689854,27,"Male","ILI","Cough","-",2021-05-31,2021-06-16,2021-06-17,NA
+33385,"Hassan",2769456,48,"Female","ILI","Cough","DM, HTN",2021-06-08,2021-06-16,2021-06-17,NA
+33389,"Hassan",2775935,90,"Male","ILI","Fever, Cough","-",2021-06-09,2021-06-16,2021-06-17,NA
+33409,"Hassan",2798434,75,"Male","ILI","Fever","-",2021-06-12,2021-06-16,2021-06-17,NA
+33428,"Hassan",2826714,70,"Male","ILI","Cough","DM",2021-06-16,2021-06-16,2021-06-17,NA
+33434,"Hassan",2832410,70,"Female","ILI","Cough","-",2021-06-16,2021-06-16,2021-06-17,NA
+33464,"Hassan",2561866,36,"Male","ILI","Fever, Cough","-",2021-05-27,2021-06-16,2021-06-18,NA
+33478,"Hassan",2652152,76,"Female","ILI","Fever, Cough","HTN",2021-06-09,2021-06-17,2021-06-18,NA
+33481,"Hassan",2661267,66,"Male","ILI","Fever","-",2021-06-06,2021-06-17,2021-06-18,NA
+33488,"Hassan",2682081,45,"Male","ILI","Cough","-",2021-05-30,2021-06-01,2021-06-18,NA
+33510,"Hassan",2740893,NA,"Female","ILI","Cough","-",2021-06-05,2021-06-06,2021-06-18,NA
+33511,"Hassan",2740929,70,"Male","ILI","Fever, Cough","-",NA,2021-06-05,2021-06-18,"Died at his residence"
+33564,"Hassan",2810557,59,"Female","ILI","Fever, Cough","-",2021-06-13,2021-06-17,2021-06-18,NA
+33571,"Hassan",2814414,65,"Female","ILI","Fever","-",2021-06-13,2021-06-17,2021-06-18,NA
+33584,"Hassan",2826715,60,"Male","ILI","Fever, Cough","HTN",2021-06-14,2021-06-17,2021-06-18,NA
+33670,"Hassan",2764694,44,"Male","ILI","Fever, Cough","-",2021-06-17,2021-06-18,2021-06-19,NA
+33709,"Hassan",2809115,42,"Female","ILI","Fever","-",2021-06-16,2021-06-18,2021-06-19,NA
+33712,"Hassan",2811279,48,"Female","ILI","Fever, Cough","-",2021-06-17,2021-06-17,2021-06-19,NA
+33837,"Hassan",2785965,65,"Male","ILI","Fever","HTN",2021-06-10,2021-06-19,2021-06-20,NA
+33842,"Hassan",2802839,74,"Male","ILI","Fever","-",2021-06-15,2021-06-19,2021-06-20,NA
+33846,"Hassan",2809446,45,"Male","ILI","Fever, Cough","-",2021-06-17,2021-06-19,2021-06-20,NA
+33860,"Hassan",2821835,80,"Male","ILI","Fever, Cough","DM",2021-06-15,2021-06-19,2021-06-20,NA
+33876,"Hassan",2847558,60,"Male","ILI","Fever, Cough","-",2021-06-16,2021-06-20,2021-06-20,NA
+33928,"Hassan",2632924,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-06-02,2021-06-21,NA
+34001,"Hassan",2824509,80,"Male","ILI","Fever, Cough","HTN",2021-06-10,2021-06-21,2021-06-21,NA
+34002,"Hassan",2828322,50,"Male","ILI","Fever","DM",2021-06-17,2021-06-20,2021-06-21,NA
+34081,"Hassan",2763614,78,"Female","ILI","Fever","HTN",2021-06-08,2021-06-20,2021-06-22,NA
+34082,"Hassan",2763643,70,"Male","ILI","Fever","-",2021-06-13,2021-06-21,2021-06-22,NA
+34113,"Hassan",2807204,65,"Female","ILI","Fever","HTN",2021-06-11,2021-06-21,2021-06-22,NA
+34123,"Hassan",2819380,80,"Male","ILI","Fever","HTN",2021-06-14,2021-06-21,2021-06-22,NA
+34134,"Hassan",2835188,50,"Female","ILI","Fever, Cough","-",2021-06-20,2021-06-21,2021-06-22,NA
+34150,"Hassan",2853147,58,"Male","ILI","Fever, Cough","-",2021-06-20,2021-06-21,2021-06-22,NA
+34151,"Hassan",2856609,75,"Female","ILI","Fever","HTN",NA,2021-06-21,2021-06-22,"Died at her residence"
+34240,"Hassan",2814237,63,"Female","ILI","Fever","DM",2021-06-15,2021-06-22,2021-06-23,NA
+34247,"Hassan",2827972,67,"Male","ILI","Fever, Cough","HTN",2021-06-17,2021-06-22,2021-06-23,NA
+34265,"Hassan",2845807,65,"Male","ILI","Fever","IHD",2021-06-22,2021-06-22,2021-06-23,NA
+34271,"Hassan",2854040,46,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-06-21,2021-06-22,2021-06-23,NA
+34276,"Hassan",2857780,65,"Female","ILI","Fever, Cough","-",2021-06-21,2021-06-22,2021-06-23,NA
+34291,"Hassan",100001729,36,"Male","ILI","Fever","-",2021-06-22,2021-06-23,2021-06-23,NA
+34303,"Hassan",2578838,35,"Male","ILI","Fever","-",2021-05-27,2021-06-23,2021-06-24,NA
+34344,"Hassan",2787880,36,"Male","ILI","Fever, Cough","DM, HTN",2021-06-23,2021-06-24,2021-06-24,NA
+34355,"Hassan",2814015,65,"Male","ILI","Fever, Cough","DM, HTN",2021-06-16,2021-06-22,2021-06-24,NA
+34371,"Hassan",2825192,75,"Male","ILI","Fever, Cough","HTN",2021-06-23,2021-06-24,2021-06-24,NA
+34377,"Hassan",2828324,54,"Female","ILI","Fever","-",2021-06-22,2021-06-23,2021-06-24,NA
+34417,"Hassan",2860946,44,"Female","ILI","Fever","-",2021-06-24,2021-06-24,2021-06-24,NA
+34419,"Hassan",2861204,72,"Male","ILI","Fever, Cough","-",2021-06-20,2021-06-24,2021-06-24,NA
+34420,"Hassan",2861270,55,"Male","ILI","Fever","DM",2021-06-22,2021-06-23,2021-06-24,NA
+34424,"Hassan",2862965,33,"Male","ILI","Fever, Cough","-",2021-06-23,2021-06-24,2021-06-24,NA
+34505,"Hassan",2821289,60,"Male","ILI","Fever","-",2021-06-13,2021-06-24,2021-06-25,NA
+34515,"Hassan",2843861,49,"Male","ILI","Fever, Cough","-",2021-06-20,2021-06-23,2021-06-25,NA
+34619,"Hassan",2821289,60,"Male","ILI","Fever","-",2021-06-13,2021-06-24,2021-06-25,NA
+34629,"Hassan",2843861,49,"Male","ILI","Fever, Cough","-",2021-06-20,2021-06-23,2021-06-25,NA
+34704,"Hassan",2787499,60,"Male","ILI","Fever","-",2021-06-25,2021-06-25,2021-06-26,NA
+34711,"Hassan",2803837,63,"Male","ILI","Cough","DM",2021-06-11,2021-06-25,2021-06-26,NA
+34712,"Hassan",2803908,61,"Male","ILI","Fever, Cough","-",2021-06-11,2021-06-25,2021-06-26,NA
+34763,"Hassan",2868859,48,"Female","ILI","Fever","-",2021-06-24,2021-06-25,2021-06-26,NA
+34764,"Hassan",2869655,60,"Male","ILI","Fever, Cough","-",2021-06-25,2021-06-25,2021-06-26,NA
+34802,"Hassan",2773573,48,"Male","ILI ","Fever, Cough ","- ",2021-06-08,2021-06-27,2021-06-27,NA
+34819,"Hassan",2819757,66,"Male","ILI ","Fever ","- ",2021-06-13,2021-06-26,2021-06-27,NA
+34838,"Hassan",2851981,75,"Male","ILI ","Cough ","- ",2021-06-21,2021-06-27,2021-06-27,NA
+34848,"Hassan",2865432,29,"Male","ILI ","Fever ","- ",2021-06-23,2021-06-26,2021-06-27,NA
+34877,"Hassan",2657395,53,"Female","ILI ","Cough ","HTN ",2021-06-26,2021-06-28,2021-06-28,NA
+34890,"Hassan",2796036,70,"Female","ILI ","Fever ","- ",2021-06-11,2021-06-28,2021-06-28,NA
+34900,"Hassan",2824505,35,"Male","ILI ","Fever, Cough ","- ",2021-06-15,2021-06-27,2021-06-28,NA
+34912,"Hassan",2851721,45,"Female","ILI ","Fever ","DM ",2021-06-22,2021-06-28,2021-06-28,NA
+34920,"Hassan",2859529,75,"Female","ILI ","Fever ","HTN ",2021-06-21,2021-06-27,2021-06-28,NA
+35023,"Hassan",2862219,55,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35033,"Hassan",2869221,85,"Female","ILI ","Fever ","HTN ",NA,NA,NA,NA
+35174,"Hassan",2682101,52,"Female","ILI","Fever, Cough","HTN",2021-06-01,2021-06-30,2021-07-01,NA
+35273,"Hassan",2742911,45,"Female","ILI","Fever, Cough","DM",2021-06-14,2021-07-01,2021-07-02,NA
+35279,"Hassan",2784537,64,"Female","ILI","Fever","-",2021-06-10,2021-07-01,2021-07-02,NA
+35298,"Hassan",2854738,65,"Male","ILI","Fever, Cough","-",2021-06-21,2021-07-01,2021-07-02,NA
+35352,"Hassan",2520769,55,"Male","ILI","Fever","DM, HTN",2021-05-25,2021-07-03,2021-07-03,NA
+35365,"Hassan",2808302,77,"Female","ILI","Cough","-",2021-06-13,2021-07-03,2021-07-03,NA
+35380,"Hassan",2856500,70,"Female","ILI","Fever","-",2021-06-21,2021-07-03,2021-07-03,NA
+35381,"Hassan",2858547,75,"Male","ILI","Fever, Cough","-",2021-06-22,2021-07-02,2021-07-03,NA
+35460,"Hassan",2876113,33,"Male","ILI","Fever","DM, HTN",2021-07-01,2021-07-04,2021-07-04,NA
+35510,"Hassan",2809118,80,"Female","ILI","Fever","-",2021-06-28,2021-07-04,2021-07-05,NA
+35545,"Hassan",2895940,40,"Female","ILI","Fever, Cough","-",2021-07-02,2021-07-04,2021-07-05,NA
+35566,"Hassan",2692738,69,"Female","ILI","Fever, Cough","DM",2021-06-09,2021-07-06,2021-07-06,NA
+35611,"Hassan",2888494,72,"Male","ILI","Fever","-",2021-06-30,2021-07-05,2021-07-06,NA
+35629,"Hassan",2897689,75,"Male","ILI","Cough","-",2021-07-03,2021-07-05,2021-07-06,NA
+35695,"Hassan",2885352,85,"Female","ILI","Cough","-",2021-06-30,2021-07-06,2021-07-07,NA
+35770,"Hassan",2895796,85,"Male","ILI","Fever, Cough","DM",2021-06-03,2021-07-08,2021-07-08,NA
+35828,"Hassan",2895907,28,"Male","ILI","Fever","DM",2021-06-03,2021-07-08,2021-07-09,NA
+35887,"Hassan",2906138,42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-08,2021-07-10,2021-07-10,NA
+35888,"Hassan",2906637,83,"Female","ILI","Fever","HTN",2021-07-06,2021-07-08,2021-07-10,NA
+35904,"Hassan",2664137,82,"Male","ILI","Fever","DM, HTN, CKD",2021-06-14,2021-07-10,2021-07-11,NA
+35909,"Hassan",2832435,75,"Female","ILI","Fever, Cough","-",2021-06-20,2021-07-10,2021-07-11,NA
+35920,"Hassan",2885332,60,"Female","ILI","Fever","-",2021-06-28,2021-07-10,2021-07-11,NA
+35936,"Hassan",2903413,48,"Female","ILI","Fever, Cough","-",2021-07-05,2021-07-10,2021-07-11,NA
+35943,"Hassan",2911312,74,"Female","ILI","Fever, Cough","-",2021-06-14,2021-07-10,2021-07-11,NA
+36013,"Hassan",100002894,80,"Male","ILI","Fever","-",2021-07-01,2021-07-11,2021-07-12,NA
+36046,"Hassan",2908587,70,"Female","ILI","Fever, Cough","HTN",2021-07-08,2021-07-13,2021-07-13,NA
+36052,"Hassan",2913810,61,"Female","ILI","Fever","DM, HTN",2021-07-10,2021-07-11,2021-07-13,NA
+36079,"Hassan",2896571,50,"Female","ILI","Fever","HTN",2021-07-04,2021-07-13,2021-07-14,NA
+36100,"Hassan",2915437,48,"Male","ILI","Cough","-",2021-07-12,2021-07-14,2021-07-14,NA

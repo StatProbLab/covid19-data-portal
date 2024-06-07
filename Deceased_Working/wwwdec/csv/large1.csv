@@ -1,0 +1,6 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+2218,"Gadag",25320,"53","Female","Contact under tracing","-","DM, HTN","2020-05-07","2020-07-30","2020-07-31",NA,84,1
+16222,"Bengaluru Urban",1592498,"78","Male","SARI","Fever, Cough, Breathlessness","-","2021-01-05","2021-05-03","2021-05-03",NA,118,0
+16233,"Mysuru",1614151,"69","Male","SARI","Fever, cough, breathlessness","CVA","2021-01-05","2021-05-01","2021-05-03",NA,116,2
+16235,"Mysuru",1625519,"58","Male","SARI","Fever, cough, breathlessness","DM","2021-02-05","2021-05-03","2021-05-03",NA,87,0
+25747,"Shivamogga",2411600,"50","Male","ILI","Fever, Cough","-","2021-03-21","2021-05-23","2021-05-24",NA,63,1

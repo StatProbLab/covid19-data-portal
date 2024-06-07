@@ -1,0 +1,396 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+124,"Chikkamagaluru","7778",72,"Female",NA,NA,NA,2020-06-17,2020-06-18,2020-06-20,NA
+456,"Chikkamagaluru","26858",52,"Female","Contact under tracing","_","_",NA,2020-07-07,2020-07-08,"Brought dead"
+519,"Chikkamagaluru","21603",62,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-02,2020-07-10,2020-07-10,NA
+812,"Chikkamagaluru","38911",56,"Male","ILI","Fever & Cough","-",2020-07-12,2020-07-13,2020-07-14,NA
+813,"Chikkamagaluru","38914",52,"Male","SARI","Cough & Breathlessness","DM",2020-07-11,2020-07-13,2020-07-14,NA
+814,"Chikkamagaluru","38944",76,"Female","Contact under tracing","-","-",NA,2020-07-11,2020-07-14,"Brought dead"
+902,"Chikkamagaluru","44780",74,"Female","SARI","Fever & Breathlessness","HTN",2020-07-13,2020-07-14,2020-07-15,NA
+1292,"Chikkamagaluru","59147",70,"Female","SARI","Fever & Breathlessness","HTN",2020-07-17,2020-07-18,2020-07-19,NA
+1360,"Chikkamagaluru","63626",72,"Male","SARI","Fever & Breathlessness","HTN, COPD, IHD",2020-07-18,2020-07-19,2020-07-20,NA
+1406,"Chikkamagaluru","58505",51,"Female","ILI","Fever & Cough","DM, HTN, CKD",NA,2020-07-15,2020-07-21,"Died at her residence"
+1497,"Chikkamagaluru","76214",72,"Male","Contact under tracing","-","-",NA,2020-07-21,2020-07-22,"Brought dead"
+1501,"Chikkamagaluru","76981",60,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-14,2020-07-14,2020-07-22,NA
+1584,"Chikkamagaluru","77579",70,"Male","ILI","Fever","Asthma",NA,2020-07-16,2020-07-23,"Brought dead"
+1596,"Chikkamagaluru","83007",72,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-22,2020-07-22,2020-07-23,NA
+1629,"Chikkamagaluru","58052",60,"Female","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-17,2020-07-23,2020-07-24,NA
+1630,"Chikkamagaluru","59828",40,"Female","ILI","Fever & Breathlessness","HTN, DM",2020-07-17,2020-07-24,2020-07-24,NA
+1691,"Chikkamagaluru","83005",52,"Female","ILI","Fever & Cough","HTN, DM",2020-07-22,2020-07-23,2020-07-24,NA
+1835,"Chikkamagaluru","92178",55,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-26,2020-07-26,NA
+1938,"Chikkamagaluru","104779",39,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-26,2020-07-27,NA
+1966,"Chikkamagaluru","69691",58,"Female","SARI","Fever & Cough","DM, HTN",2020-07-22,2020-07-27,2020-07-28,NA
+2174,"Chikkamagaluru","107984",85,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-27,2020-07-30,2020-07-30,NA
+2481,"Chikkamagaluru","140244",62,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-31,2020-08-02,2020-08-02,NA
+2680,"Chikkamagaluru","146406",60,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-04,NA
+2683,"Chikkamagaluru","147623",46,"Male","Contact under tracing","-","IHD",NA,2020-08-03,2020-08-04,"Brought dead"
+2731,"Chikkamagaluru","121751",68,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-28,2020-08-03,2020-08-05,NA
+2973,"Chikkamagaluru","165753",75,"Male","ILI","Fever, Cough","COPD",NA,2020-08-05,2020-08-07,"Brought dead"
+2975,"Chikkamagaluru","166269",35,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-06,2020-08-06,2020-08-07,NA
+3068,"Chikkamagaluru","170153",52,"Male","ILI","Fever, Cough","-",2020-08-05,2020-08-07,2020-08-08,NA
+3072,"Chikkamagaluru","172180",38,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-06,2020-08-07,2020-08-08,NA
+3092,"Chikkamagaluru","94283",58,"Female","ILI","Fever, Breathlessness","HTN",2020-07-24,2020-08-08,2020-08-09,NA
+3122,"Chikkamagaluru","140241",57,"Male","ILI","Fever, Cough, Breathlessness","DM",2020-08-01,2020-08-08,2020-08-09,NA
+3321,"Chikkamagaluru","125498",71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-29,2020-08-10,2020-08-11,NA
+3337,"Chikkamagaluru","147944",85,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-03,2020-08-10,2020-08-11,NA
+3363,"Chikkamagaluru","181101",70,"Female","ILI","Fever, Cough, Breathlessness","-",2020-08-09,2020-08-10,2020-08-11,NA
+3421,"Chikkamagaluru","138917",50,"Male","ILI","Fever","DM, HTN",NA,2020-08-11,2020-08-12,"44044"
+3478,"Chikkamagaluru","193547",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-11,2020-08-12,NA
+3558,"Chikkamagaluru","177698",58,"Male","ILI","Fever, Cough","HTN",2020-08-08,2020-08-11,2020-08-13,NA
+3559,"Chikkamagaluru","177712",53,"Female","ILI","Fever, Cough, Breathlessness","DM",2020-08-08,2020-08-12,2020-08-13,NA
+3667,"Chikkamagaluru","181099",62,"Male","ILI","Fever, Cough, Breathlessness","DM",2020-08-08,2020-08-12,2020-08-14,NA
+3758,"Chikkamagaluru","175830",78,"Male","ILI","Fever, Cough","DM",2020-08-10,2020-08-14,2020-08-15,NA
+3803,"Chikkamagaluru","218053",74,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-08-12,2020-08-14,2020-08-15,NA
+3804,"Chikkamagaluru","218732",65,"Female","ILI","Fever, Cough","DM",2020-08-12,2020-08-14,2020-08-15,NA
+3812,"Chikkamagaluru","225452",39,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-13,2020-08-14,2020-08-15,NA
+3883,"Chikkamagaluru","180468",62,"Male","ILI","Fever","HTN",NA,2020-08-16,2020-08-16,NA
+3909,"Chikkamagaluru","210918",77,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",NA,2020-08-16,2020-08-16,NA
+3911,"Chikkamagaluru","214144",56,"Male","ILI","Cough","HTN",NA,2020-08-16,2020-08-16,NA
+3927,"Chikkamagaluru","223681",50,"Female","SARI","Fever, Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+3993,"Chikkamagaluru","184300",48,"Female","Contact under tracing","Fever","DM",2020-08-08,2020-08-17,2020-08-17,NA
+4028,"Chikkamagaluru","226240",70,"Male","Contact under tracing","Fever","DM, HTN",2020-08-13,2020-08-16,2020-08-17,NA
+4267,"Chikkamagaluru","223678",31,"Male","Contact under tracing","-","HTN, IHD",2020-08-18,2020-08-18,2020-08-19,NA
+4372,"Chikkamagaluru","229471",71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-15,2020-08-20,2020-08-20,NA
+4376,"Chikkamagaluru","233308",68,"Male","ILI","Cough, Breathlessness","DM",2020-08-15,2020-08-20,2020-08-20,NA
+4407,"Chikkamagaluru","254607",40,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-18,2020-08-20,2020-08-20,NA
+4469,"Chikkamagaluru","232557",57,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2020-08-14,2020-08-21,2020-08-21,NA
+4484,"Chikkamagaluru","248346",48,"Female","ILI","Fever, Cough, Breathlessness","HTN",2020-08-15,2020-08-21,2020-08-21,NA
+4566,"Chikkamagaluru","246298",67,"Male","Contact under tracing","-","COPD",2020-08-21,2020-08-22,2020-08-22,NA
+4772,"Chikkamagaluru","271969",57,"Male","ILI","Fever, Cough","DM",2020-08-19,2020-08-24,2020-08-24,NA
+4786,"Chikkamagaluru","280096",58,"Female","ILI","Fever, Cough","DM, HTN",2020-08-20,2020-08-24,2020-08-24,NA
+4804,"Chikkamagaluru","289165",70,"Male","Contact under tracing","-","-",NA,2020-08-23,2020-08-24,"Brought dead"
+4943,"Chikkamagaluru","290104",80,"Male","ILI","Fever, Cough","DM, HTN",2020-08-22,2020-08-25,2020-08-25,NA
+5055,"Chikkamagaluru","284999",60,"Male","ILI","Fever, Cough","HTN, COPD",2020-08-22,2020-08-26,2020-08-26,NA
+5268,"Chikkamagaluru","246301",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-17,2020-08-28,2020-08-28,NA
+5299,"Chikkamagaluru","271517",40,"Female","ILI","Fever, Cough","-",2020-08-19,2020-08-28,2020-08-28,NA
+5312,"Chikkamagaluru","284998",79,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-22,2020-08-28,2020-08-28,NA
+5352,"Chikkamagaluru","315149",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-26,2020-08-28,2020-08-28,NA
+5465,"Chikkamagaluru","322986",60,"Female","SARI","Cough, Breathlessness","DM",2020-08-16,2020-08-29,2020-08-29,NA
+5467,"Chikkamagaluru","325134",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-27,2020-08-29,2020-08-29,NA
+5468,"Chikkamagaluru","325897",48,"Female","ILI","Fever, Cough","HTN",2020-08-27,2020-08-29,2020-08-29,NA
+5539,"Chikkamagaluru","296477",65,"Female","ILI","Fever, Cough","DM",2020-08-25,2020-08-30,2020-08-30,NA
+5581,"Chikkamagaluru","339432",80,"Male","ILI","Fever, Cough","HTN",2020-08-29,2020-08-30,2020-08-30,NA
+5658,"Chikkamagaluru","325131",66,"Male","ILI","Cough","DM, HTN",2020-08-27,2020-08-31,2020-08-31,NA
+5675,"Chikkamagaluru","335008",85,"Male","ILI","Cough","-",NA,2020-08-31,2020-08-31,"Brought dead"
+5760,"Chikkamagaluru","290109",89,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-28,2020-08-31,2020-09-01,NA
+5780,"Chikkamagaluru","313155",78,"Male","ILI","Fever, Cough","HTN",2020-08-24,2020-08-31,2020-09-01,NA
+5887,"Chikkamagaluru","307736",70,"Male","ILI","Fever, Cough","Severe Anemia",2020-08-24,2020-09-02,2020-09-02,NA
+5888,"Chikkamagaluru","308338",70,"Female","ILI","Fever, Cough","DM",2020-08-24,2020-09-02,2020-09-02,NA
+5932,"Chikkamagaluru","353144",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-30,2020-09-02,2020-09-02,NA
+5938,"Chikkamagaluru","361394",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-31,2020-09-02,2020-09-02,NA
+6038,"Chikkamagaluru","361492",52,"Female","ILI","Fever, Cough","DM",2020-09-01,2020-09-03,2020-09-03,NA
+6120,"Chikkamagaluru","349164",75,"Male","ILI","Fever, Cough","DM",2020-08-30,2020-09-04,2020-09-04,NA
+6165,"Chikkamagaluru","387869",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-02,2020-09-04,2020-09-04,NA
+6216,"Chikkamagaluru","335018",54,"Male","ILI","Fever, Cough","DM",2020-08-28,2020-09-05,2020-09-05,NA
+6252,"Chikkamagaluru","365925",38,"Female","ILI","Fever, Cough","DM, IHD",2020-08-31,2020-09-05,2020-09-05,NA
+6280,"Chikkamagaluru","379161",44,"Male","ILI","Fever, Cough","DM, IHD",2020-09-02,2020-09-05,2020-09-05,NA
+6286,"Chikkamagaluru","382272",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-03,2020-09-05,2020-09-05,NA
+6383,"Chikkamagaluru","400603",65,"Female","ILI","Fever, Cough","HTN",2020-09-04,2020-09-06,2020-09-06,NA
+6384,"Chikkamagaluru","400604",82,"Male","ILI","Fever, Cough","DM, HTN",2020-09-04,2020-09-06,2020-09-06,NA
+6457,"Chikkamagaluru","305602",85,"Male","ILI","Fever, Cough","HTN, IHD",2020-08-26,2020-09-07,2020-09-07,NA
+6516,"Chikkamagaluru","400574",67,"Male","ILI","Fever, Cough","DM, HTN",2020-09-03,2020-09-07,2020-09-07,NA
+6667,"Chikkamagaluru","413255",47,"Female","ILI","Fever, Cough","DM",2020-09-06,2020-09-08,2020-09-08,NA
+6671,"Chikkamagaluru","416395",82,"Female","ILI","Fever, Cough","DM",2020-09-07,2020-09-08,2020-09-08,NA
+6762,"Chikkamagaluru","394392",50,"Male","ILI","Fever, Cough","HTN",2020-09-04,2020-09-09,2020-09-09,NA
+6797,"Chikkamagaluru","428723",83,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-08,2020-09-09,2020-09-09,NA
+6918,"Chikkamagaluru","431100",50,"Male","ILI","Fever, Cough","-",2020-09-08,2020-09-10,2020-09-10,NA
+6929,"Chikkamagaluru","435914",55,"Female","Contact under tracing","-","DM, HTN",NA,2020-09-09,2020-09-10,NA
+7053,"Chikkamagaluru","440849",54,"Male","ILI","Fever, Cough","HTN",2020-09-09,2020-09-11,2020-09-11,NA
+7057,"Chikkamagaluru","442794",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-09,2020-09-11,2020-09-11,NA
+7123,"Chikkamagaluru","404710",27,"Female","ILI","Fever, Cough","DM",2020-09-06,2020-09-12,2020-09-12,NA
+7344,"Chikkamagaluru","448756",52,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-09,2020-09-14,2020-09-14,NA
+7364,"Chikkamagaluru","464310",62,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-12,2020-09-14,2020-09-14,NA
+7379,"Chikkamagaluru","478564",45,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2020-09-13,2020-09-14,2020-09-14,NA
+7444,"Chikkamagaluru","452572",60,"Male","ILI","Fever, Cough","DM",2020-09-10,2020-09-15,2020-09-15,NA
+7452,"Chikkamagaluru","464291",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-12,2020-09-13,2020-09-15,NA
+7469,"Chikkamagaluru","475916",55,"Male","ILI","Fever, Cough","DM, HTN",2020-09-10,2020-09-15,2020-09-15,NA
+7775,"Chikkamagaluru","473162",71,"Female","ILI","Fever, Cough","DM",2020-09-12,2020-09-16,2020-09-18,NA
+7810,"Chikkamagaluru","502314",46,"Female","ILI","Fever, Cough","DM",2020-09-16,2020-09-18,2020-09-18,NA
+7813,"Chikkamagaluru","505624",65,"Male","ILI","Fever, Cough","DM",2020-09-16,2020-09-18,2020-09-18,NA
+7894,"Chikkamagaluru","487332",50,"Male","Contact under tracing","Fever, Cough","IHD",2020-09-05,2020-09-19,2020-09-19,NA
+8037,"Chikkamagaluru","377327",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-10,2020-09-21,2020-09-21,NA
+8136,"Chikkamagaluru","525335",60,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-18,2020-09-21,2020-09-21,NA
+8153,"Chikkamagaluru","539132",52,"Female","SARI","Breathlessness","DM",2020-09-20,2020-09-21,2020-09-21,NA
+8316,"Chikkamagaluru","519300",80,"Female","SARI","Breathlessness","HTN",2020-09-18,2020-09-22,2020-09-24,NA
+8323,"Chikkamagaluru","536175",40,"Male","SARI","Breathlessness","DM",2020-09-21,2020-09-21,2020-09-24,NA
+8367,"Chikkamagaluru","478579",73,"Male","SARI","Breathlessness","DM, HTN",2020-09-13,2020-09-25,2020-09-25,NA
+8390,"Chikkamagaluru","505643",73,"Male","SARI","Breathlessness","DM, HTN",2020-09-16,2020-09-25,2020-09-25,NA
+8391,"Chikkamagaluru","505646",54,"Male","SARI","Breathlessness","DM, HTN",2020-09-16,2020-09-25,2020-09-25,NA
+8508,"Chikkamagaluru","572559",70,"Female","SARI","Breathlessness","HTN",2020-09-24,2020-09-26,2020-09-26,NA
+8585,"Chikkamagaluru","581986",37,"Male","SARI","Breathlessness","DM",2020-09-25,2020-09-27,2020-09-27,NA
+8605,"Chikkamagaluru","505638",70,"Female","Contact under tracing","Breathlessness","DM",2020-09-16,2020-09-28,2020-09-28,NA
+8782,"Chikkamagaluru","599443",50,"Male","SARI","Breathlessness","DM",2020-09-25,2020-09-29,2020-09-29,NA
+8849,"Chikkamagaluru","577828",85,"Female","SARI","Breathlessness","HTN",2020-09-28,2020-09-30,2020-09-30,NA
+8852,"Chikkamagaluru","583104",47,"Female","SARI","Breathlessness","HTN",2020-09-25,2020-09-30,2020-09-30,NA
+8858,"Chikkamagaluru","589679",62,"Male","SARI","Breathlessness","DM",2020-09-26,2020-09-30,2020-09-30,NA
+9116,"Chikkamagaluru","614291",62,"Male","SARI","Breathlessness","DM",2020-10-01,2020-10-02,2020-10-02,NA
+9221,"Chikkamagaluru","630938",64,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-09-29,2020-10-03,2020-10-03,NA
+9335,"Chikkamagaluru","597624",70,"Male","SARI","Breathlessness","DM",2020-09-27,2020-10-05,2020-10-05,NA
+9538,"Chikkamagaluru","629605",40,"Male","SARI","Breathlessness","_",2020-09-30,2020-10-07,2020-10-07,NA
+9671,"Chikkamagaluru","671349",62,"Male","SARI","Breathlessness","DM",2020-10-05,2020-10-08,2020-10-08,NA
+9770,"Chikkamagaluru","669276",69,"Male","SARI","Breathlessness","-",2020-10-05,2020-10-09,2020-10-09,NA
+9963,"Chikkamagaluru","701650",65,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-10-10,2020-10-11,2020-10-11,NA
+9964,"Chikkamagaluru","701657",56,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-10-08,2020-10-11,2020-10-11,NA
+9970,"Chikkamagaluru","707692",76,"Male","Contact under tracing","Breathlessness","-",2020-10-08,2020-10-11,2020-10-11,NA
+10014,"Chikkamagaluru","680549",82,"Male","SARI","Breathlessness","DM",2020-10-11,2020-10-12,2020-10-12,NA
+10031,"Chikkamagaluru","713341",71,"Female","SARI","Breathlessness","DM",2020-10-09,2020-10-12,2020-10-12,NA
+10204,"Chikkamagaluru","748128",70,"Female","SARI","Breathlessness","DM, HTN",2020-10-12,2020-10-14,2020-10-14,NA
+10758,"Chikkamagaluru","768623",60,"Female","SARI","Breathlessness","DM, HTN",2020-10-20,2020-10-22,2020-10-22,NA
+10766,"Chikkamagaluru","781280",75,"Female","SARI","Breathlessness","DM, HTN",2020-10-18,2020-10-22,2020-10-22,NA
+11342,"Chikkamagaluru","840206",68,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-06,2020-11-06,NA
+11740,"Chikkamagaluru","876615",65,"Male","SARI","Breathlessness","HTN",2020-11-16,2020-11-27,2020-11-27,NA
+11967,"Chikkamagaluru","915427",68,"Female","SARI","Breathlessness","DM, HTN",2020-12-12,2020-12-15,2020-12-16,NA
+12534,"Chikkamagaluru","999610",69,"Male","SARI","Breathlessness","HTN, DM, CA",2021-03-25,2021-03-29,2021-03-30,NA
+12561,"Chikkamagaluru","999606",58,"Female","SARI","Breathlessness","DM, HTN",2021-03-25,2021-03-30,2021-03-31,NA
+13255,"Chikkamagaluru","1133896",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-16,2021-04-17,NA
+13609,"Chikkamagaluru","1161046",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-15,2021-04-19,2021-04-20,NA
+14051,"Chikkamagaluru","1243792",71,"Male","SARI","Breathlessness","DM, HTN, IHD",2021-04-20,2021-04-23,2021-04-23,NA
+14271,"Chikkamagaluru","1290134",55,"Female","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-24,2021-04-24,NA
+14509,"Chikkamagaluru","1254900",80,"Male","SARI","Breathlessness","DM, HTN",2021-04-21,2021-04-24,2021-04-26,NA
+14510,"Chikkamagaluru","1254903",63,"Male","SARI","Breathlessness","DM, HTN",2021-04-21,2021-04-25,2021-04-26,NA
+14884,"Chikkamagaluru","1235936",58,"Male","SARI","Breathlessness","DM, HTN",2021-04-20,2021-04-28,2021-04-28,NA
+14903,"Chikkamagaluru","1266965",47,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-28,2021-04-28,NA
+14968,"Chikkamagaluru","1362774",48,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-26,2021-04-28,NA
+14974,"Chikkamagaluru","1368823",66,"Female","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-28,2021-04-28,NA
+14999,"Chikkamagaluru","1398732",80,"Female","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-04-28,NA
+15215,"Chikkamagaluru","1394911",73,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-04-29,NA
+15373,"Chikkamagaluru","1294753",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-29,2021-04-30,2021-04-30,NA
+15495,"Chikkamagaluru","1499024",55,"Male","SARI","Breathlessness","COPD",2021-04-28,2021-04-30,2021-04-30,NA
+15765,"Chikkamagaluru","1540142",75,"Female","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-01,2021-05-01,NA
+15781,"Chikkamagaluru","1564438",44,"Female","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-01,2021-05-01,NA
+15783,"Chikkamagaluru","1566869",50,"Female","SARI","Breathlessness","DM",2021-04-30,2021-05-01,2021-05-01,NA
+15784,"Chikkamagaluru","1566873",72,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-01,NA
+15886,"Chikkamagaluru","1385826",64,"Female","SARI","Breathlessness","DM",2021-04-24,2021-05-01,2021-05-02,NA
+15906,"Chikkamagaluru","1416993",60,"Male","SARI","Breathlessness","DM",2021-04-24,2021-05-01,2021-05-02,NA
+16366,"Chikkamagaluru","1398682",65,"Female","SARI","Breathlessness","DM",2021-04-26,2021-05-04,2021-05-04,NA
+16437,"Chikkamagaluru","1560638",60,"Female","SARI","Breathlessness","DM",2021-04-28,2021-05-03,2021-05-04,NA
+16443,"Chikkamagaluru","1571675",68,"Male","SARI","Breathlessness","DM",2021-04-28,2021-05-04,2021-05-04,NA
+16855,"Chikkamagaluru","1718550",80,"Female","SARI","Breathlessness","DM",2021-05-02,2021-05-04,2021-05-05,NA
+16856,"Chikkamagaluru","1718551",70,"Female","SARI","Breathlessness","DM",2021-05-02,2021-05-04,2021-05-05,NA
+17502,"Chikkamagaluru","1513916",75,"Female","SARI","Breathlessness","DM",2021-04-29,2021-05-07,2021-05-07,NA
+17703,"Chikkamagaluru","1728586",46,"Female","SARI","Breathlessness","DM, HTN",2021-05-03,2021-05-07,2021-05-07,NA
+17731,"Chikkamagaluru","1751036",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-07,2021-05-07,NA
+17752,"Chikkamagaluru","1788728",69,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-07,2021-05-07,NA
+18139,"Chikkamagaluru","1657163",23,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-08,2021-05-08,NA
+18156,"Chikkamagaluru","1685734",45,"Male","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-08,NA
+18268,"Chikkamagaluru","1880722",69,"Male","SARI","Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-08,NA
+18713,"Chikkamagaluru","1880726",82,"Male","SARI","Breathlessness","DM",2021-05-07,2021-05-08,2021-05-09,NA
+18722,"Chikkamagaluru","1897492",48,"Female","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-07,2021-05-09,NA
+19196,"Chikkamagaluru","1737363",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-10,NA
+19252,"Chikkamagaluru","1818898",91,"Female","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-10,NA
+19305,"Chikkamagaluru","1898486",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-10,NA
+19338,"Chikkamagaluru","1949885",75,"Female","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-10,NA
+19358,"Chikkamagaluru","1986933",57,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-10,NA
+19725,"Chikkamagaluru","1843642",63,"Male","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-11,NA
+19768,"Chikkamagaluru","1898484",35,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-09,2021-05-11,NA
+19796,"Chikkamagaluru","1936508",42,"Male","SARI","Breathlessness","DM",2021-05-07,2021-05-10,2021-05-11,NA
+19819,"Chikkamagaluru","1973317",62,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-11,NA
+19827,"Chikkamagaluru","1988913",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-11,NA
+19974,"Chikkamagaluru","1668608",35,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-12,2021-05-12,NA
+20080,"Chikkamagaluru","1771901",76,"Female","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-12,2021-05-12,NA
+21760,"Chikkamagaluru","2118974",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-16,NA
+21791,"Chikkamagaluru","2160810",52,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-16,NA
+21824,"Chikkamagaluru","2215649",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-16,NA
+22162,"Chikkamagaluru","2105494",45,"Female","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-17,2021-05-17,NA
+22262,"Chikkamagaluru","2227080",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-17,NA
+22298,"Chikkamagaluru","2262624",47,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-17,2021-05-17,NA
+22704,"Chikkamagaluru","2130838",82,"Female","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-18,2021-05-18,NA
+22787,"Chikkamagaluru","2235551",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-18,2021-05-18,NA
+23140,"Chikkamagaluru","2107326",39,"Male","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-15,2021-05-19,NA
+23237,"Chikkamagaluru","2231686",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-19,NA
+23243,"Chikkamagaluru","2238196",85,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-19,NA
+23254,"Chikkamagaluru","2254958",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-18,2021-05-19,NA
+23642,"Chikkamagaluru","2083717",59,"Male","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-17,2021-05-20,NA
+23658,"Chikkamagaluru","2105495",76,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-20,2021-05-20,NA
+23729,"Chikkamagaluru","2205700",40,"Male","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-20,2021-05-20,NA
+23770,"Chikkamagaluru","2254832",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-05-20,NA
+23771,"Chikkamagaluru","2254951",52,"Male","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-20,NA
+23852,"Chikkamagaluru","2360720",40,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-05-20,NA
+23999,"Chikkamagaluru","2083693",40,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-20,2021-05-21,NA
+24033,"Chikkamagaluru","2147641",62,"Female","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-21,2021-05-21,NA
+24069,"Chikkamagaluru","2193170",52,"Male","SARI","Breathlessness","DM, HTN",2021-05-20,2021-05-20,2021-05-21,NA
+24159,"Chikkamagaluru","2319838",33,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-21,2021-05-21,NA
+24199,"Chikkamagaluru","2381519",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-05-21,NA
+24582,"Chikkamagaluru","2324258",45,"Male","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-05-22,NA
+24597,"Chikkamagaluru","2344311",57,"Female","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-22,2021-05-22,NA
+24611,"Chikkamagaluru","2358264",65,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-22,2021-05-22,NA
+24626,"Chikkamagaluru","2382799",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-05-22,NA
+24634,"Chikkamagaluru","2398233",61,"Male","SARI","Breathlessness","DM, HTN",2021-05-20,2021-05-22,2021-05-22,NA
+25166,"Chikkamagaluru","2324223",65,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-23,2021-05-23,NA
+25189,"Chikkamagaluru","2357772",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-23,2021-05-23,NA
+25209,"Chikkamagaluru","2370046",63,"Male","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-23,2021-05-23,NA
+25668,"Chikkamagaluru","2322000",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-24,2021-05-24,NA
+25703,"Chikkamagaluru","2359537",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-24,2021-05-24,NA
+25741,"Chikkamagaluru","2408798",56,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-24,2021-05-24,NA
+25782,"Chikkamagaluru","2446662",75,"Male","SARI","Breathlessness","DM, HTN",2021-05-23,2021-05-24,2021-05-24,NA
+25790,"Chikkamagaluru","2453272",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-23,2021-05-24,2021-05-24,NA
+25791,"Chikkamagaluru","2453311",53,"Female","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-24,NA
+25798,"Chikkamagaluru","2468036",43,"Female","SARI","Breathlessness","DM, HTN",2021-05-22,2021-05-24,2021-05-24,NA
+26215,"Chikkamagaluru","2254922",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-20,2021-05-25,2021-05-25,NA
+26281,"Chikkamagaluru","2364912",49,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-25,NA
+26285,"Chikkamagaluru","2370058",58,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-25,2021-05-25,NA
+26323,"Chikkamagaluru","2410893",45,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-25,2021-05-25,NA
+26338,"Chikkamagaluru","2419122",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-25,NA
+26339,"Chikkamagaluru","2423558",78,"Female","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-25,NA
+26762,"Chikkamagaluru","2262736",53,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-26,2021-05-26,NA
+27395,"Chikkamagaluru","2529998",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-27,2021-05-27,NA
+27662,"Chikkamagaluru","2359508",58,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-28,2021-05-28,NA
+27671,"Chikkamagaluru","2382792",53,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-28,2021-05-28,NA
+27704,"Chikkamagaluru","2446664",82,"Female","SARI","Breathlessness","DM, HTN",2021-05-20,2021-05-28,2021-05-28,NA
+27705,"Chikkamagaluru","2446665",52,"Female","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-28,2021-05-28,NA
+27714,"Chikkamagaluru","2468066",50,"Male","SARI","Breathlessness","DM, HTN",2021-05-27,2021-05-28,2021-05-28,NA
+27766,"Chikkamagaluru","2532372",52,"Female","SARI","Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-05-28,NA
+27794,"Chikkamagaluru","2566775",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-05-28,NA
+28136,"Chikkamagaluru","2428674",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-26,2021-05-29,2021-05-29,NA
+28228,"Chikkamagaluru","2516224",46,"Female","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-29,2021-05-29,NA
+28240,"Chikkamagaluru","2530002",39,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-05-29,2021-05-29,NA
+28253,"Chikkamagaluru","2539589",41,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-05-29,2021-05-29,NA
+28280,"Chikkamagaluru","2578417",73,"Female","SARI","Breathlessness","DM, HTN",2021-05-28,2021-05-29,2021-05-29,NA
+28623,"Chikkamagaluru","2524771",54,"Male","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-30,2021-05-30,NA
+29006,"Chikkamagaluru","2526184",76,"Female","SARI","Breathlessness","DM, HTN",2021-05-25,2021-05-31,2021-05-31,NA
+29031,"Chikkamagaluru","2564282",56,"Female","SARI","Breathlessness","DM, HTN",2021-05-26,2021-05-31,2021-05-31,NA
+29048,"Chikkamagaluru","2585833",52,"Female","SARI","Breathlessness","DM, HTN",2021-05-30,2021-05-31,2021-05-31,NA
+29071,"Chikkamagaluru","2616110",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-28,2021-05-31,2021-05-31,NA
+29472,"Chikkamagaluru","2529990",59,"Female","SARI","Breathlessness","DM, HTN",2021-05-28,2021-06-01,2021-06-01,NA
+29490,"Chikkamagaluru","2543300",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-27,2021-06-01,2021-06-01,NA
+29869,"Chikkamagaluru","2473642",70,"Female","SARI","Breathlessness","-",2021-05-22,2021-06-02,2021-06-02,NA
+29941,"Chikkamagaluru","2576622",61,"Female","SARI","Breathlessness","-",2021-05-26,2021-06-02,2021-06-02,NA
+30513,"Chikkamagaluru","2671217",52,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-03,2021-06-03,NA
+30518,"Chikkamagaluru","2679014",42,"Male","SARI","Breathlessness","DM, HTN",2021-06-01,2021-06-03,2021-06-03,NA
+30753,"Chikkamagaluru","2487165",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-04,NA
+30791,"Chikkamagaluru","2555904",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-04,NA
+30850,"Chikkamagaluru","2652941",45,"Male","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-04,2021-06-04,NA
+30881,"Chikkamagaluru","2689490",95,"Female","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-04,NA
+31499,"Chikkamagaluru","2608657",55,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-06,2021-06-06,NA
+31517,"Chikkamagaluru","2645447",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-06-05,2021-06-06,NA
+31523,"Chikkamagaluru","2658403",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-05,2021-06-06,NA
+31539,"Chikkamagaluru","2689648",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-06,2021-06-06,NA
+31551,"Chikkamagaluru","2697832",45,"Female","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-06,2021-06-06,NA
+31822,"Chikkamagaluru","2630115",41,"Female","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-07,2021-06-07,NA
+31837,"Chikkamagaluru","2645448",71,"Male","SARI","Breathlessness","DM, HTN",2021-05-29,2021-06-07,2021-06-07,NA
+31882,"Chikkamagaluru","2697854",78,"Male","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-07,2021-06-07,NA
+31894,"Chikkamagaluru","2709849",56,"Male","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-07,2021-06-07,NA
+31916,"Chikkamagaluru","2740227",65,"Female","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-07,2021-06-07,NA
+32041,"Chikkamagaluru","2687911",60,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-08,2021-06-08,NA
+32072,"Chikkamagaluru","2726960",40,"Female","SARI","Breathlessness","DM, HTN",2021-06-04,2021-06-08,2021-06-08,NA
+32086,"Chikkamagaluru","2736526",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-04,2021-06-08,2021-06-08,NA
+32197,"Chikkamagaluru","2652804",55,"Female","SARI","Breathlessness","DM, HTN",2021-06-07,2021-06-09,2021-06-09,NA
+32278,"Chikkamagaluru","2757891",56,"Female","SARI","Breathlessness","DM, HTN",2021-06-07,2021-06-09,2021-06-09,NA
+32280,"Chikkamagaluru","2758381",80,"Female","SARI","Breathlessness","DM, HTN",2021-06-08,2021-06-09,2021-06-09,NA
+32416,"Chikkamagaluru","2694157",75,"Male","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-07,2021-06-10,NA
+32424,"Chikkamagaluru","2714001",68,"Male","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-07,2021-06-10,NA
+32443,"Chikkamagaluru","2727060",55,"Female","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-07,2021-06-10,NA
+32611,"Chikkamagaluru","2747936",40,"Male","SARI","Cough, Breathlessness","-",2021-06-05,2021-06-11,2021-06-11,NA
+32616,"Chikkamagaluru","2751334",60,"Male","SARI","Breathlessness","DM, HTN",2021-06-07,2021-06-11,2021-06-11,NA
+32756,"Chikkamagaluru","2745705",62,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-12,2021-06-12,NA
+32787,"Chikkamagaluru","2795725",68,"Female","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-12,2021-06-12,NA
+32788,"Chikkamagaluru","2795823",75,"Male","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-12,2021-06-12,NA
+32851,"Chikkamagaluru","2713307",50,"Female","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-13,2021-06-13,NA
+32874,"Chikkamagaluru","2747929",52,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-13,2021-06-13,NA
+32875,"Chikkamagaluru","2747949",54,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-13,2021-06-13,NA
+32903,"Chikkamagaluru","2782686",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-09,2021-06-13,2021-06-13,NA
+32983,"Chikkamagaluru","2719669",58,"Female","SARI","Breathlessness","DM, HTN",2021-06-04,2021-06-14,2021-06-14,NA
+32987,"Chikkamagaluru","2734724",50,"Female","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-14,2021-06-14,NA
+33140,"Chikkamagaluru","2808452",43,"Female","SARI","Breathlessness","DM, HTN",2021-06-13,2021-06-15,2021-06-15,NA
+33142,"Chikkamagaluru","2812047",80,"Male","SARI","Breathlessness","DM, HTN",2021-06-13,2021-06-15,2021-06-15,NA
+33259,"Chikkamagaluru","2775774",58,"Male","SARI","Breathlessness","DM, HTN",2021-06-08,2021-06-16,2021-06-16,NA
+33274,"Chikkamagaluru","2795845",72,"Female","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-16,2021-06-16,NA
+33278,"Chikkamagaluru","2800626",32,"Female","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-16,2021-06-16,NA
+33280,"Chikkamagaluru","2805767",52,"Female","SARI","Breathlessness","DM, HTN",2021-06-12,2021-06-16,2021-06-16,NA
+33314,"Chikkamagaluru","2513514",59,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-06-16,2021-06-17,NA
+33325,"Chikkamagaluru","2608658",68,"Male","SARI","Breathlessness","DM, HTN",2021-05-28,2021-06-16,2021-06-17,NA
+33331,"Chikkamagaluru","2625238",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-06-16,2021-06-17,NA
+33339,"Chikkamagaluru","2659598",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-06-16,2021-06-17,NA
+33349,"Chikkamagaluru","2681198",42,"Male","SARI","Breathlessness","DM, HTN",2021-06-01,2021-06-16,2021-06-17,NA
+33548,"Chikkamagaluru","2795748",60,"Female","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-18,2021-06-18,NA
+33549,"Chikkamagaluru","2795825",55,"Female","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-18,2021-06-18,NA
+33567,"Chikkamagaluru","2812605",48,"Female","SARI","Breathlessness","DM, HTN",2021-06-13,2021-06-18,2021-06-18,NA
+33589,"Chikkamagaluru","2835030",60,"Female","SARI","Breathlessness","DM, HTN",2021-06-17,2021-06-18,2021-06-18,NA
+33633,"Chikkamagaluru","2643416",28,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-06-18,2021-06-19,NA
+33637,"Chikkamagaluru","2661947",62,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-12,2021-06-19,NA
+33643,"Chikkamagaluru","2701912",70,"Female","SARI","Breathlessness","DM, HTN",2021-06-02,2021-06-16,2021-06-19,NA
+33649,"Chikkamagaluru","2736520",72,"Male","ILI","Fever, Cough","DM, HTN",2021-06-12,2021-06-13,2021-06-19,NA
+33667,"Chikkamagaluru","2764447",56,"Female","SARI","Breathlessness","DM, HTN",2021-06-08,2021-06-19,2021-06-19,NA
+33685,"Chikkamagaluru","2785762",65,"Male","SARI","Breathlessness","DM, HTN",2021-06-10,2021-06-19,2021-06-19,NA
+33722,"Chikkamagaluru","2821090",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-15,2021-06-19,2021-06-19,NA
+33807,"Chikkamagaluru","2732472",75,"Female","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-16,2021-06-20,NA
+33810,"Chikkamagaluru","2738538",68,"Male","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-16,2021-06-20,NA
+33852,"Chikkamagaluru","2817733",45,"Female","SARI","Breathlessness","DM, HTN",2021-06-13,2021-06-20,2021-06-20,NA
+34009,"Chikkamagaluru","2843050",58,"Female","SARI","Breathlessness","DM, HTN",2021-06-18,2021-06-21,2021-06-21,NA
+34022,"Chikkamagaluru","100000901",61,"Female","SARI","Breathlessness","DM, HTN",2021-06-17,2021-06-21,2021-06-21,NA
+34026,"Chikkamagaluru","100001471",2,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-20,2021-06-21,NA
+34098,"Chikkamagaluru","2791559",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-10,2021-06-22,2021-06-22,NA
+34123,"Chikkamagaluru","2822178",74,"Male","SARI","Breathlessness","DM, HTN",2021-06-15,2021-06-22,2021-06-22,NA
+34135,"Chikkamagaluru","2841017",62,"Male","SARI","Breathlessness","DM, HTN",2021-06-18,2021-06-22,2021-06-22,NA
+34190,"Chikkamagaluru","2590169",55,"Male","ILI","Fever, Cough","DM, HTN",2021-05-27,2021-06-11,2021-06-23,NA
+34272,"Chikkamagaluru","2856731",71,"Male","SARI","Breathlessness","DM, HTN",2021-06-21,2021-06-23,2021-06-23,NA
+34367,"Chikkamagaluru","2823338",40,"Male","SARI","Breathlessness","DM, HTN",2021-06-15,2021-06-24,2021-06-24,NA
+34393,"Chikkamagaluru","2848268",51,"Female","SARI","Breathlessness","DM, HTN",2021-06-19,2021-06-24,2021-06-24,NA
+34397,"Chikkamagaluru","2849425",62,"Male","SARI","Breathlessness","DM, HTN",2021-06-20,2021-06-24,2021-06-24,NA
+34414,"Chikkamagaluru","2860896",68,"Female","SARI","Breathlessness","DM, HTN",2021-06-22,2021-06-24,2021-06-24,NA
+34421,"Chikkamagaluru","2862582",62,"Female","SARI","Breathlessness","DM, HTN",2021-06-23,2021-06-24,2021-06-24,NA
+34424,"Chikkamagaluru","2865081",88,"Female","SARI","Breathlessness","DM, HTN",2021-06-23,2021-06-24,2021-06-24,NA
+34494,"Chikkamagaluru","2806633",79,"Male","SARI","Breathlessness","DM, HTN",2021-06-12,2021-06-25,2021-06-25,NA
+34523,"Chikkamagaluru","2852894",65,"Male","SARI","Breathlessness","DM, HTN",2021-06-20,2021-06-25,2021-06-25,NA
+34531,"Chikkamagaluru","2860906",62,"Female","SARI","Breathlessness","DM, HTN",2021-06-22,2021-06-25,2021-06-25,NA
+34807,"Chikkamagaluru","2860911",55,"Male","SARI ","Breathlessness ","DM, HTN ",2021-06-22,2021-06-28,2021-06-28,NA
+34826,"Chikkamagaluru","2878358",67,"Male","SARI ","Breathlessness ","DM, HTN ",2021-06-27,2021-06-28,2021-06-28,NA
+34923,"Chikkamagaluru","2876085",70,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34930,"Chikkamagaluru","100001411",48,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35030,"Chikkamagaluru","2881149",56,"Female","SARI","Breathlessness","DM, HTN",2021-06-28,2021-06-30,2021-06-30,NA
+35108,"Chikkamagaluru","2872714",73,"Male","SARI","Breathlessness","DM, HTN",2021-06-25,2021-07-01,2021-07-01,NA
+35190,"Chikkamagaluru","2860898",72,"Female","SARI","Breathlessness","DM, HTN",2021-06-21,2021-06-22,2021-07-02,NA
+35273,"Chikkamagaluru","2866290",52,"Male","SARI","Fever, Breathlessness","CKD",2021-06-25,2021-07-03,2021-07-03,NA
+35406,"Chikkamagaluru","2855371",59,"Male","SARI","Breathlessness","DM, HTN",2021-05-26,2021-07-05,2021-07-05,NA
+35490,"Chikkamagaluru","2884778",58,"Female","SARI","Breathlessness","DM, HTN",2021-06-29,2021-07-06,2021-07-06,NA
+35499,"Chikkamagaluru","2890949",65,"Female","SARI","Breathlessness","DM, HTN",2021-07-01,2021-07-06,2021-07-06,NA
+35537,"Chikkamagaluru","2524791",48,"Male","SARI","Breathlessness","DM",2021-05-25,2021-06-28,2021-07-07,NA
+35587,"Chikkamagaluru","2897384",42,"Female","SARI","Breathlessness","DM, HTN",2021-07-04,2021-07-07,2021-07-07,NA
+35592,"Chikkamagaluru","2900953",45,"Female","SARI","Breathlessness","DM, HTN",2021-07-06,2021-07-07,2021-07-07,NA
+35627,"Chikkamagaluru","2857672",75,"Female","SARI","Breathlessness","DM, HTN",2021-06-22,2021-07-08,2021-07-08,NA
+35628,"Chikkamagaluru","2858023",55,"Male","SARI","Breathlessness","DM, HTN",2021-06-22,2021-07-08,2021-07-08,NA
+35679,"Chikkamagaluru","2856092",55,"Female","SARI","Breathlessness","DM, HTN",2021-06-21,2021-07-09,2021-07-09,NA
+35714,"Chikkamagaluru","2897385",70,"Female","SARI","Breathlessness","DM, HTN",2021-07-04,2021-07-09,2021-07-09,NA
+35769,"Chikkamagaluru","2905427",70,"Male","SARI","Breathlessness","DM, HTN",2021-07-07,2021-07-10,2021-07-10,NA
+35795,"Chikkamagaluru","2860869",55,"Female","SARI","Breathlessness","DM, HTN",2021-06-22,2021-07-11,2021-07-11,NA
+35884,"Chikkamagaluru","2905749",70,"Female","SARI","Breathlessness","DM, HTN",2021-07-07,2021-07-12,2021-07-12,NA
+35935,"Chikkamagaluru","2912215",65,"Male","SARI","Breathlessness","DM, HTN",2021-07-10,2021-07-12,2021-07-13,NA
+35946,"Chikkamagaluru","100002837",78,"Female","SARI","Breathlessness","DM, HTN",2021-07-08,2021-07-12,2021-07-13,NA
+35977,"Chikkamagaluru","2908124",58,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-07-09,2021-07-13,2021-07-14,NA
+36035,"Chikkamagaluru","2916923",80,"Male","SARI","Breathlessness","DM, HTN",2021-07-13,2021-07-15,2021-07-15,NA
+36346,"Chikkamagaluru","2917851",40,"Female","SARI","Breathlessness","DM, HTN",2021-07-14,2021-07-24,2021-07-24,NA
+36355,"Chikkamagaluru","2929836",65,"Female","SARI","Breathlessness","DM, HTN",2021-07-21,2021-07-24,2021-07-24,NA
+36390,"Chikkamagaluru","100003087",80,"Male","SARI","Breathlessness","DM, HTN",2021-07-23,2021-07-26,2021-07-26,NA
+36414,"Chikkamagaluru","2931493",75,"Male","SARI","Breathlessness","DM, HTN",2021-07-22,2021-07-27,2021-07-27,NA
+36431,"Chikkamagaluru","2931764",60,"Female","SARI","Breathlessness","DM, HTN",2021-07-22,2021-07-28,2021-07-28,NA
+36453,"Chikkamagaluru","2920983",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-16,2021-07-29,2021-07-29,NA
+36495,"Chikkamagaluru","2933305",60,"Female","ILI","Fever, Cough","-",2021-07-26,2021-07-30,2021-07-30,NA
+36501,"Chikkamagaluru","2938191",94,"Male","SARI","Breathlessness","-",2021-07-28,2021-07-30,2021-07-30,NA
+36529,"Chikkamagaluru","2933310",65,"Male","SARI","Breathlessness","DM, HTN",2021-07-23,2021-07-31,2021-07-31,NA
+36535,"Chikkamagaluru","2940000",38,"Female","ILI","Fever","-",2021-07-29,2021-07-29,2021-07-31,NA
+36602,"Chikkamagaluru","2908200",62,"Male","SARI","Breathlessness","HTN, CKD",2021-07-21,2021-08-01,2021-08-03,NA
+36975,"Chikkamagaluru","2952724",64,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-08-09,2021-08-16,2021-08-16,NA
+37124,"Chikkamagaluru","2972897",65,"Male","SARI","Breathlessness","HTN, IHD",2021-08-19,2021-08-21,2021-08-22,NA
+37146,"Chikkamagaluru","2967409",62,"Female","ILI","Fever","-",2021-08-16,2021-08-25,2021-08-25,NA
+37151,"Chikkamagaluru","2973117",63,"Female","ILI","Fever, Cough","-",2021-08-24,2021-08-25,2021-08-25,NA
+37186,"Chikkamagaluru","2983992",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-06,2021-08-26,NA
+37191,"Chikkamagaluru","2953004",78,"Male","ILI","Cough","-",2021-08-09,2021-08-26,2021-08-27,NA
+37238,"Chikkamagaluru","2974305",55,"Female","SARI","Breathlessness","Hypo thyroidism",2021-08-19,2021-08-28,2021-08-30,NA
+37289,"Chikkamagaluru","2982850",80,"Male","ILI","Fever, Cough","-",2021-08-23,2021-09-01,2021-09-01,NA
+37420,"Chikkamagaluru","2999577",49,"Male","ILI","Cough","-",2021-09-08,2021-09-09,2021-09-10,NA
+37424,"Chikkamagaluru","2992615",75,"Female","ILI","Fever","-",2021-09-03,2021-09-10,2021-09-11,NA
+37426,"Chikkamagaluru","2995340",59,"Male","ILI","Cough","-",2021-09-04,2021-09-11,2021-09-11,NA
+37430,"Chikkamagaluru","2997898",70,"Male","ILI","Cough","-",2021-09-06,2021-09-11,2021-09-11,NA
+37433,"Chikkamagaluru","2998855",63,"Female","ILI","Fever","-",2021-09-07,2021-09-11,2021-09-11,NA
+37515,"Chikkamagaluru","2998282",82,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-07,2021-09-17,2021-09-17,NA
+37659,"Chikkamagaluru","3003523",35,"Male","ILI","Fever","-",2021-09-16,2021-09-25,2021-09-25,NA
+37662,"Chikkamagaluru","3006333",70,"Female","ILI","Fever, Cough","-",2021-09-15,2021-09-25,2021-09-25,NA
+37692,"Chikkamagaluru","3014640",78,"Male","ILI","Fever","-",2021-09-18,2021-09-27,2021-09-27,NA
+37711,"Chikkamagaluru","3015360",65,"Male","ILI","Cough","-",2021-09-26,2021-09-28,2021-09-28,NA
+38618,"Chikkamagaluru","3343730",85,"Female","ILI","Fever","-",2022-01-19,2022-01-25,2022-01-25,NA
+38670,"Chikkamagaluru","3343730",85,"Female","ILI","Fever","-",2022-01-19,2022-01-25,2022-01-25,NA
+38822,"Chikkamagaluru","3534206",60,"Male","ILI","Fever, Cough","-",2022-01-21,2022-01-22,2022-01-29,NA
+39101,"Chikkamagaluru","3855089",62,"Male","ILI","Fever","-",2022-02-02,2022-02-03,2022-02-03,NA
+39477,"Chikkamagaluru","3897822",93,"Male","SARI","Fever, Cough","-",2022-02-04,2022-02-08,2022-02-11,NA
+39481,"Chikkamagaluru","3926093",71,"Male","ILI","Fever, Cough","-",2022-02-02,2022-02-11,2022-02-11,NA
+39587,"Chikkamagaluru","3978213",35,"Male","ILI","Fever","-",2022-02-12,2022-02-14,2022-02-14,NA
+39955,"Chikkamagaluru","4019965",66,"Female","ILI","Fever","-",2022-06-28,2022-06-28,2022-06-29,NA

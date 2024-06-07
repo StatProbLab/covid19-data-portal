@@ -1,0 +1,326 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+71,"Raichur",6207,28,"Female","SARI",NA,NA,2020-05-30,2020-06-08,2020-06-11,NA
+292,"Raichur",18416,48,"Male","Travel History Of Yadagiri","Asymptomatic","-",2020-06-29,2020-06-29,2020-07-03,NA
+415,"Raichur",606,65,"Male","SARI","Breathlessness","IHD",2020-07-04,2020-07-05,2020-07-08,NA
+420,"Raichur",11325,37,"Male","SARI","Breathlessness","-",2020-06-26,2020-07-06,2020-07-08,NA
+468,"Raichur",28582,65,"Male","SARI","Breathlessness","-",NA,2020-07-05,2020-07-08,NA
+469,"Raichur",11328,45,"Female","SARI","Fever & Cough & Breathlessness","Hypothyroidism",2020-06-26,2020-07-08,2020-07-09,NA
+530,"Raichur",28591,55,"Male","SARI","Fever & Breathlessness","IHD,  DM",2020-07-05,2020-07-06,2020-07-10,NA
+552,"Raichur",16838,65,"Female","SARI","Breathlessness","DM, HTN",2020-06-30,2020-07-02,2020-07-11,NA
+806,"Raichur",35513,40,"Female","SARI","-",NA,2020-07-10,2020-07-10,2020-07-14,NA
+812,"Raichur",37170,70,"Male","SARI","Breathlessness","HTN, IHD",2020-07-09,2020-07-09,2020-07-14,NA
+862,"Raichur",35516,65,"Male","SARI","Breathlessness","DM",2020-07-11,2020-07-13,2020-07-15,NA
+865,"Raichur",37080,70,"Female","SARI","Breathlessness","IHD",2020-07-11,2020-07-12,2020-07-15,NA
+1069,"Raichur",40096,80,"Female","SARI","Cough & Breathlessness","HTN, CLD",2020-07-12,2020-07-14,2020-07-17,NA
+1454,"Raichur",37070,68,"Male","SARI","Breathlessness","LVF",2020-07-11,2020-07-20,2020-07-22,NA
+1469,"Raichur",69642,54,"Male","SARI","Breathlessness","HTN",2020-07-18,2020-07-19,2020-07-22,NA
+1540,"Raichur",49075,55,"Male","SARI","Breathlessness","DM",2020-07-15,2020-07-22,2020-07-23,NA
+1554,"Raichur",59292,49,"Male","ILI","Fever & Cough","DM, HTN, IHD",2020-07-17,2020-07-20,2020-07-23,NA
+1603,"Raichur",28589,85,"Female","SARI","Fever & Breathlessness","-",2020-07-06,2020-07-19,2020-07-24,NA
+1873,"Raichur",42480,56,"Male","Contact under tracing","-","DM, HTN",2020-07-12,2020-07-21,2020-07-27,NA
+1889,"Raichur",60400,70,"Male","Contact under tracing","-","DM, HTN, IHD",2020-07-16,2020-07-16,2020-07-27,NA
+2025,"Raichur",104314,66,"Male","SARI","Breathlessness","HTN",2020-07-21,2020-07-21,2020-07-28,NA
+2044,"Raichur",44585,60,"Male","SARI","Breathlessness","DM",2020-07-14,2020-07-14,2020-07-29,NA
+2071,"Raichur",84581,60,"Male","SARI","Breathlessness","DM",2020-07-19,2020-07-27,2020-07-29,NA
+2224,"Raichur",52738,22,"Male","Contact under tracing","-","-",2020-07-16,2020-07-19,2020-07-31,NA
+2235,"Raichur",73223,30,"Male","Contact under tracing",NA,"-",2020-07-20,2020-07-21,2020-07-31,NA
+2424,"Raichur",103889,83,"Male","Contact under tracing","-","-",2020-07-25,2020-07-26,2020-08-02,NA
+2438,"Raichur",118113,78,"Male","Contact under tracing","-","-",2020-07-27,2020-07-27,2020-08-02,NA
+2513,"Raichur",103985,55,"Female","SARI","-","-",2020-07-26,2020-07-26,2020-08-03,NA
+2595,"Raichur",77276,55,"Female","SARI","Breathlessness","-",2020-07-22,2020-07-22,2020-08-04,NA
+2614,"Raichur",104086,54,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-26,2020-08-04,NA
+2711,"Raichur",103918,73,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-26,2020-08-05,NA
+2730,"Raichur",119471,50,"Male","SARI","Breathlessness","-",2020-07-29,2020-07-29,2020-08-05,NA
+2791,"Raichur",42277,64,"Male","SARI","Breathlessness","HTN",2020-07-12,2020-07-13,2020-08-06,NA
+2793,"Raichur",52703,50,"Male","SARI","Breathlessness","HTN",2020-07-16,2020-07-17,2020-08-06,NA
+2890,"Raichur",84510,60,"Male","SARI","Breathlessness","-",2020-07-23,2020-07-27,2020-08-07,NA
+2908,"Raichur",109785,50,"Male","SARI","Breathlessness","-",2020-07-20,2020-07-21,2020-08-07,NA
+3029,"Raichur",140808,65,"Male","SARI","Breathlessness","HTN",2020-07-30,2020-07-30,2020-08-08,NA
+3030,"Raichur",140813,91,"Male","SARI","Breathlessness","HTN",2020-08-01,2020-08-02,2020-08-08,NA
+3111,"Raichur",124787,45,"Male","SARI","Breathlessness","-",2020-07-29,2020-07-30,2020-08-09,NA
+3112,"Raichur",125257,50,"Female","SARI","Breathlessness","-",2020-07-26,2020-07-26,2020-08-09,NA
+3335,"Raichur",146361,64,"Female","SARI","Breathlessness","HTN",2020-08-01,2020-08-01,2020-08-11,NA
+3336,"Raichur",146528,60,"Female","SARI","Breathlessness","HTN",2020-08-01,2020-08-01,2020-08-11,NA
+3429,"Raichur",147287,56,"Male","SARI","Breathlessness","HTN",2020-08-01,2020-08-02,2020-08-12,NA
+3436,"Raichur",151318,65,"Female","SARI","Breathlessness","HTN",2020-08-03,2020-08-03,2020-08-12,NA
+3441,"Raichur",154977,61,"Male","SARI","Breathlessness","HTN",2020-08-04,2020-08-05,2020-08-12,NA
+3447,"Raichur",159573,72,"Male","SARI","Breathlessness","HTN",2020-08-05,2020-08-06,2020-08-12,NA
+3543,"Raichur",159576,52,"Female","SARI","Breathlessness","-",2020-08-04,2020-08-04,2020-08-13,NA
+3548,"Raichur",164212,43,"Male","SARI","Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-13,NA
+3550,"Raichur",165143,35,"Female","SARI","Breathlessness","-",2020-08-05,2020-08-05,2020-08-13,NA
+3601,"Raichur",52609,55,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-17,2020-08-14,NA
+3654,"Raichur",164210,40,"Female","SARI","Breathlessness","-",2020-08-02,2020-08-02,2020-08-14,NA
+3762,"Raichur",179186,25,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-08,2020-08-15,NA
+3763,"Raichur",179188,37,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-07,2020-08-15,NA
+3765,"Raichur",180048,70,"Female","SARI","Breathlessness","HTN",2020-08-05,2020-08-06,2020-08-15,NA
+3888,"Raichur",185496,72,"Female","SARI","-","HTN",NA,2020-08-16,2020-08-16,NA
+3895,"Raichur",195220,75,"Male","SARI","-","HTN",NA,2020-08-16,2020-08-16,NA
+3896,"Raichur",196119,56,"Female","SARI","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3981,"Raichur",159998,59,"Male","Contact under tracing","Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-17,NA
+3983,"Raichur",163889,30,"Male","Contact under tracing","Breathlessness","-",2020-08-04,2020-08-04,2020-08-17,NA
+3985,"Raichur",164222,64,"Male","Contact under tracing","Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-17,NA
+4161,"Raichur",224007,50,"Male","SARI","Breathlessness","HTN",2020-08-14,2020-08-14,2020-08-18,NA
+4165,"Raichur",228533,45,"Male","SARI","Breathlessness","-",2020-08-11,2020-08-11,2020-08-18,NA
+4166,"Raichur",228542,90,"Female","SARI","Breathlessness","HTN",2020-08-12,2020-08-12,2020-08-18,NA
+4167,"Raichur",228550,62,"Male","SARI","Breathlessness","HTN",2020-08-12,2020-08-12,2020-08-18,NA
+4254,"Raichur",200847,62,"Male","SARI","Breathlessness","HTN",2020-08-11,2020-08-11,2020-08-19,NA
+4261,"Raichur",212693,65,"Male","SARI","Breathlessness","HTN",2020-08-13,2020-08-13,2020-08-19,NA
+4354,"Raichur",195216,75,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-09,2020-08-20,NA
+4355,"Raichur",196117,34,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-09,2020-08-20,NA
+4488,"Raichur",249010,65,"Female","SARI","Breathlessness","HTN",2020-08-13,2020-08-14,2020-08-21,NA
+4489,"Raichur",249377,68,"Male","SARI","Breathlessness","HTN",2020-08-16,2020-08-16,2020-08-21,NA
+4490,"Raichur",249378,53,"Male","SARI","Breathlessness","-",2020-08-16,2020-08-16,2020-08-21,NA
+4571,"Raichur",249379,60,"Male","SARI","Breathlessness","-",2020-08-15,2020-08-15,2020-08-22,NA
+4572,"Raichur",249385,75,"Female","SARI","Breathlessness","HTN",2020-08-16,2020-08-16,2020-08-22,NA
+4590,"Raichur",261446,83,"Male","SARI","Breathlessness","HTN",2020-08-18,2020-08-18,2020-08-22,NA
+4617,"Raichur",195523,55,"Male","SARI","Breathlessness","HTN",2020-08-08,2020-08-08,2020-08-23,NA
+4665,"Raichur",275970,60,"Female","SARI","Breathlessness","-",2020-08-20,2020-08-20,2020-08-23,NA
+4695,"Raichur",208836,60,"Male","Contact under tracing","-","HTN",2020-08-12,2020-08-12,2020-08-24,NA
+4708,"Raichur",224020,25,"Male","Contact under tracing","-","-",2020-08-14,2020-08-14,2020-08-24,NA
+5050,"Raichur",282609,49,"Male","SARI","Breathlessness","-",2020-08-21,2020-08-21,2020-08-26,NA
+5070,"Raichur",293108,56,"Male","SARI","Breathlessness","HTN",2020-08-22,2020-08-22,2020-08-26,NA
+5146,"Raichur",224008,20,"Female","SARI","Breathlessness","-",2020-08-14,2020-08-14,2020-08-27,NA
+5259,"Raichur",228536,65,"Male","SARI","Breathlessness","HTN",2020-08-14,2020-08-15,2020-08-28,NA
+5407,"Raichur",261451,68,"Male","SARI","Breathlessness","HTN",2020-08-17,2020-08-28,2020-08-29,NA
+5453,"Raichur",312676,80,"Male","SARI","Breathlessness","HTN",2020-08-26,2020-08-26,2020-08-29,NA
+5572,"Raichur",330013,64,"Male","SARI","Breathlessness","HTN",2020-08-26,2020-08-26,2020-08-30,NA
+5578,"Raichur",336690,38,"Male","SARI","Breathlessness","HTN",2020-08-23,2020-08-24,2020-08-30,NA
+5655,"Raichur",319140,70,"Male","SARI","-","HTN",2020-08-26,2020-08-26,2020-08-31,NA
+5667,"Raichur",330023,64,"Male","SARI","-","HTN",2020-08-28,2020-08-28,2020-08-31,NA
+5715,"Raichur",185504,60,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-09,2020-09-01,NA
+5718,"Raichur",187100,53,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-10,2020-09-01,NA
+5729,"Raichur",195519,68,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-10,2020-09-01,NA
+5843,"Raichur",215749,51,"Male","SARI","Breathlessness","HTN",2020-08-13,2020-08-14,2020-09-02,NA
+5872,"Raichur",288876,71,"Male","SARI","Breathlessness","HTN",2020-08-23,2020-08-23,2020-09-02,NA
+5877,"Raichur",292505,69,"Female","SARI","Breathlessness","HTN",2020-08-23,2020-08-24,2020-09-02,NA
+5950,"Raichur",208835,60,"Female","SARI","Breathlessness","HTN",2020-08-12,2020-08-12,2020-09-03,NA
+5953,"Raichur",224005,60,"Male","SARI","Breathlessness","HTN",2020-08-13,2020-08-14,2020-09-03,NA
+5954,"Raichur",224012,50,"Male","SARI","Breathlessness","HTN",2020-08-13,2020-08-14,2020-09-03,NA
+6061,"Raichur",228554,56,"Female","SARI","Breathlessness","-",2020-08-14,2020-08-15,2020-09-04,NA
+6109,"Raichur",335223,65,"Female","SARI","Breathlessness","HTN",2020-08-28,2020-08-28,2020-09-04,NA
+6121,"Raichur",347328,72,"Male","SARI","Breathlessness","HTN",2020-08-30,2020-08-30,2020-09-04,NA
+6255,"Raichur",366327,60,"Male","SARI","Breathlessness","HTN",2020-08-24,2020-08-25,2020-09-05,NA
+6257,"Raichur",367310,76,"Male","SARI","Breathlessness","HTN",2020-08-31,2020-08-31,2020-09-05,NA
+6258,"Raichur",367314,47,"Female","SARI","Breathlessness","-",2020-08-30,2020-08-30,2020-09-05,NA
+6317,"Raichur",294284,50,"Male","SARI","Breathlessness","HTN",2020-08-24,2020-08-25,2020-09-06,NA
+6380,"Raichur",392312,86,"Male","SARI","Breathlessness","HTN",2020-09-03,2020-09-04,2020-09-06,NA
+6493,"Raichur",370908,95,"Male","SARI","Breathlessness","HTN",2020-09-01,2020-09-01,2020-09-07,NA
+6513,"Raichur",397153,54,"Female","SARI","Breathlessness","HTN",2020-09-04,2020-09-05,2020-09-07,NA
+6627,"Raichur",382876,45,"Male","SARI","Breathlessness","HTN",2020-08-31,2020-09-01,2020-09-08,NA
+6635,"Raichur",388946,52,"Male","SARI","Breathlessness","HTN",2020-09-04,2020-09-04,2020-09-08,NA
+6678,"Raichur",184805,65,"Male","SARI","Breathlessness","HTN",2020-08-08,2020-08-11,2020-09-09,NA
+6704,"Raichur",330669,45,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-29,2020-09-09,NA
+6762,"Raichur",392309,60,"Male","SARI","Breathlessness","-",2020-08-31,2020-09-02,2020-09-09,NA
+6873,"Raichur",392301,74,"Male","SARI","Breathlessness","HTN",2020-08-30,2020-09-01,2020-09-10,NA
+6879,"Raichur",399738,78,"Male","SARI","Breathlessness","DM",2020-09-03,2020-09-05,2020-09-10,NA
+6885,"Raichur",406191,84,"Male","SARI","Breathlessness","HTN",2020-09-03,2020-09-05,2020-09-10,NA
+6983,"Raichur",359697,70,"Female","SARI","Breathlessness","DM",2020-08-31,2020-09-08,2020-09-11,NA
+7002,"Raichur",385770,70,"Male","SARI","Breathlessness","HTN",2020-09-03,2020-09-07,2020-09-11,NA
+7071,"Raichur",261449,70,"Male","SARI","Breathlessness","HTN",2020-08-19,2020-09-09,2020-09-12,NA
+7145,"Raichur",433339,56,"Female","SARI","Breathlessness","-",2020-09-05,2020-09-08,2020-09-12,NA
+7185,"Raichur",352624,55,"Male","SARI","Breathlessness","-",2020-08-31,2020-09-02,2020-09-13,NA
+7187,"Raichur",355480,55,"Male","SARI","Breathlessness","-",2020-08-30,2020-09-01,2020-09-13,NA
+7333,"Raichur",433328,50,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-03,2020-09-05,2020-09-14,NA
+7334,"Raichur",433336,65,"Female","Contact under tracing","Breathlessness","-",2020-09-04,2020-09-06,2020-09-14,NA
+7335,"Raichur",433343,61,"Male","Contact under tracing","Breathlessness","DM",2020-09-06,2020-09-07,2020-09-14,NA
+7670,"Raichur",389851,65,"Male","SARI","Breathlessness","-",2020-08-30,2020-09-01,2020-09-18,NA
+7825,"Raichur",370894,82,"Male","Contact under tracing","Breathlessness","HTN",2020-08-28,2020-09-16,2020-09-19,NA
+7938,"Raichur",370891,63,"Male","SARI","Breathlessness","HTN",2020-08-27,2020-09-01,2020-09-20,NA
+8042,"Raichur",397154,50,"Male","SARI","Breathlessness","HTN",2020-09-04,2020-09-05,2020-09-21,NA
+8045,"Raichur",406153,35,"Male","SARI","Breathlessness","-",2020-09-09,2020-09-19,2020-09-21,NA
+8160,"Raichur",364455,56,"Male","SARI","Breathlessness","DM",2020-08-31,2020-09-17,2020-09-22,NA
+8556,"Raichur",542069,65,"Male","SARI","Breathlessness","HTN",2020-09-20,2020-09-21,2020-09-27,NA
+8617,"Raichur",539342,63,"Male","Contact under tracing","Breathlessness","-",2020-09-19,2020-09-21,2020-09-28,NA
+8940,"Raichur",533451,60,"Male","SARI","Breathlessness","-",2020-09-18,2020-09-19,2020-10-01,NA
+9139,"Raichur",508407,62,"Male","Contact under tracing","Breathlessness","HTN",2020-09-16,2020-09-21,2020-10-03,NA
+9312,"Raichur",564106,80,"Female","SARI","Breathlessness","HTN",2020-09-22,2020-09-25,2020-10-05,NA
+9414,"Raichur",581565,73,"Male","SARI","Breathlessness","HTN",2020-09-24,2020-09-29,2020-10-06,NA
+9652,"Raichur",633423,52,"Male","SARI","Breathlessness","HTN",2020-09-30,2020-10-01,2020-10-08,NA
+9733,"Raichur",610744,74,"Male","SARI","Breathlessness","HTN",2020-09-27,2020-10-04,2020-10-09,NA
+9870,"Raichur",663604,82,"Female","SARI","Breathlessness","HTN",2020-10-03,2020-10-07,2020-10-10,NA
+10159,"Raichur",665295,53,"Male","SARI","Breathlessness","DM",2020-10-04,2020-10-07,2020-10-14,NA
+10230,"Raichur",665293,52,"Female","SARI","Breathlessness","HTN",2020-10-03,2020-10-09,2020-10-15,NA
+10380,"Raichur",653549,70,"Male","SARI","Breathlessness","HTN",2020-10-03,2020-10-12,2020-10-17,NA
+10562,"Raichur",685450,61,"Female","SARI","Breathlessness","HTN",2020-10-05,2020-10-09,2020-10-20,NA
+10791,"Raichur",708411,76,"Male","SARI","Breathlessness","HTN",2020-10-08,2020-10-09,2020-10-23,NA
+10978,"Raichur",775401,55,"Male","SARI","Breathlessness","DM, HTN",2020-10-16,2020-10-23,2020-10-27,NA
+11044,"Raichur",805914,60,"Male","SARI","Breathlessness","HTN",2020-10-21,2020-10-23,2020-10-28,NA
+11211,"Raichur",807382,58,"Male","SARI","Breathlessness","-",2020-10-16,2020-10-23,2020-11-02,NA
+11340,"Raichur",830668,75,"Female","SARI","Breathlessness","DM, HTN",2020-10-28,2020-11-02,2020-11-06,NA
+11409,"Raichur",833007,63,"Male","SARI","Breathlessness","-",2020-10-28,2020-11-03,2020-11-09,NA
+11470,"Raichur",811218,58,"Male","SARI","Breathlessness","HTN",2020-10-22,2020-10-23,2020-11-12,NA
+11558,"Raichur",856115,60,"Male","SARI","Breathlessness","HTN",2020-11-06,2020-11-08,2020-11-17,NA
+11622,"Raichur",863166,45,"Male","SARI","Cough, Breathlessness","DM",2020-11-08,2020-11-10,2020-11-20,NA
+11665,"Raichur",789998,60,"Male","SARI","Cough, Breathlessness","HTN",2020-10-19,2020-11-22,2020-11-23,NA
+11833,"Raichur",860130,32,"Female","SARI","Breathlessness","-",2020-11-06,2020-11-11,2020-12-04,NA
+11972,"Raichur",868830,44,"Male","SARI","Breathlessness","-",2020-11-15,2020-11-17,2020-12-17,NA
+13518,"Raichur",1066340,68,"Male","SARI","Breathlessness","HTN",2021-04-08,2021-04-08,2021-04-20,NA
+13653,"Raichur",1036410,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-04,2021-04-11,2021-04-21,NA
+14096,"Raichur",1069613,66,"Male","SARI","Fever, Breathlessness","HTN",2021-04-08,2021-04-11,2021-04-24,NA
+14098,"Raichur",1081374,60,"Male","SARI","Fever, Breathlessness","HTN",2021-04-10,2021-04-12,2021-04-24,NA
+14293,"Raichur",1062070,83,"Male","SARI","Breathlessness","HTN",2021-04-08,2021-04-14,2021-04-25,NA
+14490,"Raichur",1195717,75,"Male","SARI","Fever, Breathlessness","HTN",2021-04-17,2021-04-19,2021-04-26,NA
+14657,"Raichur",1150334,62,"Male","SARI","Breathlessness","-",2021-04-14,2021-04-17,2021-04-27,NA
+14891,"Raichur",1239395,57,"Male","SARI","Breathlessness","HTN",2021-04-18,2021-04-20,2021-04-28,NA
+15576,"Raichur",1217727,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-19,2021-05-01,NA
+15600,"Raichur",1265118,85,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-22,2021-05-01,NA
+15836,"Raichur",1271520,75,"Male","SARI","Breathlessness","HTN",2021-04-21,2021-04-24,2021-05-02,NA
+15844,"Raichur",1285749,67,"Male","SARI","Breathlessness","HTN",2021-04-21,2021-04-22,2021-05-02,NA
+16039,"Raichur",1217728,50,"Female","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-22,2021-05-03,NA
+16052,"Raichur",1257296,65,"Male","SARI","Breathlessness","HTN",2021-04-20,2021-04-23,2021-05-03,NA
+16251,"Raichur",1057770,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-04,2021-04-10,2021-05-04,NA
+16296,"Raichur",1195704,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-18,2021-04-22,2021-05-04,NA
+16629,"Raichur",1210486,60,"Male","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-27,2021-05-05,NA
+16660,"Raichur",1285740,40,"Female","SARI","Breathlessness","-",2021-04-22,2021-04-22,2021-05-05,NA
+16667,"Raichur",1312671,50,"Male","SARI","Breathlessness","HTN",2021-04-20,2021-04-24,2021-05-05,NA
+16909,"Raichur",1210484,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-04-24,2021-05-06,NA
+16920,"Raichur",1265108,80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-25,2021-05-06,NA
+16921,"Raichur",1265146,64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-21,2021-04-24,2021-05-06,NA
+17342,"Raichur",1312601,45,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-26,2021-05-07,NA
+17382,"Raichur",1363394,42,"Female","SARI","Breathlessness","DM, HTN",2021-04-20,2021-04-22,2021-05-07,NA
+17410,"Raichur",1408332,50,"Male","SARI","Breathlessness","HTN",2021-04-20,2021-04-23,2021-05-07,NA
+17417,"Raichur",1417884,47,"Male","SARI","Breathlessness","HTN",2021-04-19,2021-04-22,2021-05-07,NA
+17815,"Raichur",1048260,59,"Female","SARI","Breathlessness","HTN",2021-04-06,2021-04-13,2021-05-08,NA
+17843,"Raichur",1136779,55,"Female","SARI","Breathlessness","HTN",2021-04-15,2021-04-24,2021-05-08,NA
+17949,"Raichur",1318057,55,"Male","SARI","Breathlessness","HTN",2021-04-23,2021-04-24,2021-05-08,NA
+17950,"Raichur",1318069,64,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-24,2021-05-08,NA
+18378,"Raichur",1342857,45,"Female","SARI","Breathlessness","HTN",2021-04-20,2021-04-26,2021-05-09,NA
+18387,"Raichur",1357889,66,"Female","SARI","Breathlessness","HTN",2021-04-23,2021-04-25,2021-05-09,NA
+18388,"Raichur",1357890,56,"Female","SARI","Breathlessness","HTN",2021-04-23,2021-04-25,2021-05-09,NA
+18467,"Raichur",1491387,39,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-05-05,2021-05-09,NA
+18623,"Raichur",1737965,35,"Male","SARI","Breathlessness","HTN",2021-05-02,2021-05-04,2021-05-09,NA
+18793,"Raichur",1195712,50,"Female","ILI","Fever, cough","HTN",2021-04-18,2021-04-28,2021-05-10,NA
+18837,"Raichur",1357892,55,"Female","ILI","Fever","HTN",2021-04-23,2021-04-26,2021-05-10,NA
+18896,"Raichur",1400540,65,"Male","ILI","Fever","HTN",2021-04-25,2021-04-27,2021-05-10,NA
+19477,"Raichur",1239394,60,"Female","SARI","Fever, Cough","HTN",2021-04-20,2021-04-25,2021-05-11,NA
+19531,"Raichur",1363360,47,"Male","SARI","Fever, Cough","HTN",2021-04-23,2021-04-27,2021-05-11,NA
+19551,"Raichur",1435082,55,"Female","SARI","Fever, Cough","HTN",2021-04-26,2021-04-27,2021-05-11,NA
+19875,"Raichur",1342850,53,"Female","ILI","Fever, Cough","HTN",2021-04-22,2021-04-25,2021-05-12,NA
+19882,"Raichur",1400534,43,"Male","ILI","Fever, Cough","HTN",2021-04-25,2021-04-27,2021-05-12,NA
+19887,"Raichur",1417887,45,"Male","ILI","Fever, Cough","HTN",2021-04-22,2021-04-27,2021-05-12,NA
+20394,"Raichur",1285738,50,"Male","ILI","Fever, Cough","HTN",2021-04-21,2021-04-26,2021-05-13,NA
+20434,"Raichur",1499755,50,"Female","ILI","Fever, Cough","HTN",2021-04-28,2021-04-28,2021-05-13,NA
+20446,"Raichur",1537613,60,"Female","ILI","Fever, Cough","HTN",2021-04-27,2021-04-28,2021-05-13,NA
+20456,"Raichur",1573939,57,"Male","ILI","Fever, Cough","HTN",2021-04-28,2021-04-30,2021-05-13,NA
+20729,"Raichur",1265144,50,"Female","ILI","Fever, Cough","-",2021-04-21,2021-04-30,2021-05-14,NA
+20743,"Raichur",1363361,41,"Male","ILI","Fever, Cough","HTN",2021-04-24,2021-04-27,2021-05-14,NA
+20757,"Raichur",1466496,55,"Male","ILI","Fever, Cough","HTN",2021-04-27,2021-05-01,2021-05-14,NA
+21102,"Raichur",1318085,75,"Female","ILI","Fever, Cough","HTN",2021-04-26,2021-05-01,2021-05-15,NA
+21142,"Raichur",1580062,66,"Female","ILI","Fever, Cough","HTN",2021-04-26,2021-05-01,2021-05-15,NA
+21161,"Raichur",1662137,65,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-02,2021-05-15,NA
+21162,"Raichur",1665858,82,"Male","ILI","Fever, Cough","HTN",2021-05-01,2021-05-02,2021-05-15,NA
+21473,"Raichur",1387272,74,"Male","ILI","Fever, Cough","HTN",2021-04-25,2021-05-04,2021-05-16,NA
+21525,"Raichur",1544791,56,"Male","ILI","Fever, Cough","HTN",2021-04-28,2021-04-30,2021-05-16,NA
+21534,"Raichur",1573934,45,"Male","ILI","Fever, Cough","HTN",2021-04-29,2021-04-30,2021-05-16,NA
+21565,"Raichur",1686541,65,"Female","ILI","Fever, Cough","HTN",2021-04-27,2021-05-02,2021-05-16,NA
+21869,"Raichur",1269368,44,"Male","ILI","Fever, Cough","HTN",2021-04-21,2021-04-30,2021-05-17,NA
+21996,"Raichur",1729393,65,"Female","ILI","Fever, Cough","HTN",2021-05-03,2021-05-03,2021-05-17,NA
+21997,"Raichur",1729427,70,"Male","ILI","Fever, Cough","HTN",2021-05-03,2021-05-03,2021-05-17,NA
+22001,"Raichur",1737993,65,"Male","ILI","Fever, Cough","HTN",2021-04-30,2021-04-30,2021-05-17,NA
+22395,"Raichur",1400546,55,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-05-03,2021-05-18,NA
+22449,"Raichur",1587529,70,"Female","ILI","Fever, Cough","HTN",2021-04-30,2021-05-02,2021-05-18,NA
+22494,"Raichur",1652294,50,"Female","ILI","Fever, Cough","HTN",2021-04-30,2021-05-03,2021-05-18,NA
+22952,"Raichur",1665881,70,"Male","ILI","Fever, Cough","HTN",2021-05-01,2021-05-02,2021-05-19,NA
+22958,"Raichur",1672640,70,"Female","ILI","Fever, Cough","HTN",2021-05-02,2021-05-02,2021-05-19,NA
+23016,"Raichur",1837386,60,"Female","ILI","Fever, Cough","HTN",2021-04-30,2021-05-04,2021-05-19,NA
+23369,"Raichur",1417870,82,"Female","ILI","Fever, Cough","HTN",2021-04-26,2021-05-04,2021-05-20,NA
+23458,"Raichur",1652297,70,"Female","ILI","Fever, Cough","HTN",2021-05-01,2021-05-05,2021-05-20,NA
+23493,"Raichur",1708712,54,"Male","ILI","Fever, Cough","HTN",2021-05-02,2021-05-05,2021-05-20,NA
+23505,"Raichur",1753580,75,"Male","ILI","Fever, Cough","HTN",2021-05-02,2021-05-05,2021-05-20,NA
+23877,"Raichur",1357905,65,"Female","ILI","Fever, Cough","HTN",2021-04-23,2021-04-25,2021-05-21,NA
+23879,"Raichur",1435075,65,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-04-26,2021-05-21,NA
+23880,"Raichur",1435084,47,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-04-26,2021-05-21,NA
+23881,"Raichur",1435087,49,"Male","ILI","Fever, Cough","HTN",2021-04-24,2021-04-26,2021-05-21,NA
+24229,"Raichur",1140305,38,"Male","ILI","Fever, Cough","-",2021-04-21,2021-04-30,2021-05-22,NA
+24273,"Raichur",1382290,35,"Male","ILI","Fever, Cough","-",2021-04-26,2021-05-01,2021-05-22,NA
+24307,"Raichur",1514325,65,"Female","ILI","Fever, Cough","HTN",2021-04-28,2021-05-01,2021-05-22,NA
+24315,"Raichur",1537598,60,"Male","ILI","Fever, Cough","HTN",2021-04-29,2021-05-01,2021-05-22,NA
+24678,"Raichur",1265156,72,"Male","ILI","Fever, Cough","-",2021-04-22,2021-04-30,2021-05-23,NA
+24768,"Raichur",1665846,60,"Male","ILI","Fever, Cough","HTN",2021-05-02,2021-05-02,2021-05-23,NA
+24769,"Raichur",1665851,62,"Male","ILI","Fever, Cough","HTN",2021-05-02,2021-05-03,2021-05-23,NA
+25402,"Raichur",1665865,59,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-05,2021-05-24,NA
+25420,"Raichur",1711828,75,"Female","ILI","Fever, Cough","HTN",2021-05-01,2021-05-03,2021-05-24,NA
+25447,"Raichur",1804943,51,"Female","ILI","Fever, Cough","-",2021-04-30,2021-05-04,2021-05-24,NA
+25469,"Raichur",1850454,60,"Male","ILI","Fever, Cough","HTN",2021-05-05,2021-05-06,2021-05-24,NA
+26002,"Raichur",1804995,68,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-05,2021-05-25,NA
+26034,"Raichur",1855239,72,"Male","ILI","Fever, Cough","HTN",2021-05-05,2021-05-06,2021-05-25,NA
+26035,"Raichur",1858227,66,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-07,2021-05-25,NA
+26456,"Raichur",1265084,52,"Male","ILI","Fever, Cough","-",2021-04-21,2021-05-01,2021-05-26,NA
+26457,"Raichur",1265128,75,"Male","ILI","Fever, Cough","HTN",2021-04-21,2021-05-01,2021-05-26,NA
+26483,"Raichur",1426006,58,"Male","ILI","Fever, Cough","-",2021-04-26,2021-05-04,2021-05-26,NA
+26594,"Raichur",1837403,79,"Female","ILI","Fever, Cough","HTN",2021-05-05,2021-05-05,2021-05-26,NA
+26948,"Raichur",1318071,50,"Male","SARI","Fever, cough","HTN",2021-04-25,2021-05-07,2021-05-27,NA
+26982,"Raichur",1665885,38,"Female","SARI","Fever, cough","-",2021-05-02,2021-05-06,2021-05-27,NA
+26996,"Raichur",1708716,43,"Female","SARI","Fever, cough","HTN",2021-05-02,2021-05-04,2021-05-27,NA
+27414,"Raichur",1469138,28,"Female","ILI","Fever, Cough","-",2021-04-27,2021-05-01,2021-05-28,NA
+27415,"Raichur",1471739,28,"Male","ILI","Fever, Cough","-",2021-04-26,2021-05-03,2021-05-28,NA
+27419,"Raichur",1665903,32,"Male","ILI","Fever, Cough","-",2021-04-27,2021-05-01,2021-05-28,NA
+27420,"Raichur",1745338,40,"Male","ILI","Fever, Cough","-",2021-05-02,2021-05-03,2021-05-28,NA
+27818,"Raichur",1361062,35,"Male","ILI","Fever, Cough","-",2021-04-24,2021-05-08,2021-05-29,NA
+27823,"Raichur",1475724,40,"Female","ILI","Fever, Cough","-",2021-04-27,2021-05-03,2021-05-29,NA
+27840,"Raichur",1729392,33,"Female","ILI","Fever, Cough","-",2021-05-03,2021-05-03,2021-05-29,NA
+27854,"Raichur",1834134,60,"Female","ILI","Fever, Cough","-",2021-05-02,2021-05-06,2021-05-29,NA
+28304,"Raichur",1290525,36,"Male","SARI","Fever, Cough","-",2021-04-22,2021-05-02,2021-05-30,NA
+28305,"Raichur",1473811,23,"Male","SARI","Fever, Cough","-",2021-04-27,2021-05-01,2021-05-30,NA
+28383,"Raichur",1665849,55,"Female","SARI","Fever, Cough","HTN",2021-05-02,2021-05-03,2021-05-30,NA
+28686,"Raichur",1313941,36,"Male","ILI","Fever, Cough","-",2021-04-23,2021-05-04,2021-05-31,NA
+28687,"Raichur",1435088,28,"Male","ILI","Fever, Cough","-",2021-04-26,2021-05-06,2021-05-31,NA
+28691,"Raichur",1512327,65,"Male","ILI","Fever, Cough","HTN",2021-05-01,2021-05-03,2021-05-31,NA
+28776,"Raichur",1837343,35,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-09,2021-05-31,NA
+29171,"Raichur",1573932,40,"Male","ILI","Fever, Cough","-",2021-04-30,2021-05-07,2021-06-01,NA
+29174,"Raichur",1605407,56,"Male","ILI","Fever, Cough","HTN",2021-05-01,2021-05-06,2021-06-01,NA
+29178,"Raichur",1628952,47,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-08,2021-06-01,NA
+29794,"Raichur",2265974,38,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-22,2021-06-02,NA
+29796,"Raichur",2271277,35,"Male","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-25,2021-06-02,NA
+29832,"Raichur",2386263,37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-28,2021-06-02,NA
+30242,"Raichur",2225651,41,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-22,2021-06-03,NA
+30254,"Raichur",2257680,58,"Male","ILI","Fever, Cough","HTN",2021-05-15,2021-05-26,2021-06-03,NA
+30266,"Raichur",2271284,47,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-29,2021-06-03,NA
+30330,"Raichur",2417347,50,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-26,2021-06-03,NA
+30565,"Raichur",1573923,47,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-08,2021-06-04,NA
+30578,"Raichur",1737966,53,"Female","ILI","Fever, Cough","HTN",2021-05-03,2021-05-09,2021-06-04,NA
+30612,"Raichur",2041568,30,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-11,2021-06-04,NA
+30618,"Raichur",2061546,34,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-18,2021-06-04,NA
+30928,"Raichur",1466501,49,"Female","ILI","Fever, Cough","-",2021-05-01,2021-05-13,2021-06-05,NA
+30937,"Raichur",1541366,45,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-06,2021-06-05,NA
+31000,"Raichur",2038480,45,"Female","ILI","Fever, Cough","-",2021-05-10,2021-05-11,2021-06-05,NA
+31001,"Raichur",2041569,33,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-12,2021-06-05,NA
+31353,"Raichur",2148924,59,"Male","ILI","Fever, Cough","HTN",2021-05-12,2021-05-18,2021-06-06,NA
+31360,"Raichur",2182822,52,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-15,2021-06-06,NA
+31614,"Raichur",1665868,45,"Male","ILI","Fever, Cough","-",2021-05-02,2021-05-15,2021-06-07,NA
+31664,"Raichur",2076489,35,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-19,2021-06-07,NA
+31671,"Raichur",2115439,50,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-20,2021-06-07,NA
+32114,"Raichur",2257508,32,"Female","ILI","Fever, Cough","-",2021-05-15,2021-05-22,2021-06-09,NA
+32115,"Raichur",2271315,48,"Female","ILI","Fever, Cough","-",2021-05-16,2021-05-22,2021-06-09,NA
+32300,"Raichur",2184578,29,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-26,2021-06-10,NA
+32314,"Raichur",2398699,22,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-26,2021-06-10,NA
+32315,"Raichur",2407125,47,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-26,2021-06-10,NA
+32503,"Raichur",2354050,38,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-24,2021-06-11,NA
+32512,"Raichur",2447052,40,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-26,2021-06-11,NA
+32856,"Raichur",2722701,47,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-04,2021-06-13,NA
+32884,"Raichur",2757373,35,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-08,2021-06-13,NA
+32991,"Raichur",2736937,35,"Female","ILI","Fever, Cough","-",2021-06-04,2021-06-08,2021-06-14,NA
+33002,"Raichur",2757369,45,"Female","ILI","Fever, Cough","-",2021-06-06,2021-06-08,2021-06-14,NA
+33129,"Raichur",2783110,47,"Male","ILI","Fever, Cough","-",2021-06-08,2021-06-10,2021-06-15,NA
+33366,"Raichur",2724599,65,"Female","ILI","Fever, Cough","HTN",2021-06-03,2021-06-09,2021-06-17,NA
+33367,"Raichur",2724613,75,"Male","ILI","Fever, Cough","HTN",2021-06-03,2021-06-09,2021-06-17,NA
+33521,"Raichur",2753472,56,"Male","ILI","Fever, Cough","-",2021-06-07,2021-06-10,2021-06-18,NA
+33527,"Raichur",2757372,70,"Female","ILI","Fever, Cough","HTN",2021-06-05,2021-06-09,2021-06-18,NA
+33727,"Raichur",2823051,60,"Male","ILI","Fever, Cough","-",2021-06-13,2021-06-16,2021-06-19,NA
+33740,"Raichur",2832475,35,"Female","ILI","Fever, Cough","-",2021-06-14,2021-06-17,2021-06-19,NA
+33797,"Raichur",2680810,48,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-12,2021-06-20,NA
+33942,"Raichur",2675900,57,"Male","ILI","Fever, Cough","-",2021-06-01,2021-06-11,2021-06-21,NA
+33954,"Raichur",2724604,62,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-14,2021-06-21,NA
+34038,"Raichur",2515523,72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-06-14,2021-06-22,NA
+34432,"Raichur",2148908,50,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-11,2021-06-25,NA
+34433,"Raichur",2187404,30,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-12,2021-06-25,NA
+34546,"Raichur",2148908,50,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-11,2021-06-25,NA
+34547,"Raichur",2187404,30,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-12,2021-06-25,NA
+34661,"Raichur",2180142,60,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-14,2021-06-26,NA
+34774,"Raichur",2271281,60,"Female","ILI ","Fever, Cough ","- ",2021-05-15,2021-05-16,2021-06-27,NA
+34867,"Raichur",2271314,59,"Male","ILI ","Fever, Cough ","- ",2021-05-14,2021-05-15,2021-06-28,NA
+34958,"Raichur",2320160,60,"Female","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35055,"Raichur",2320163,43,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-17,2021-06-30,NA
+35495,"Raichur",2320169,55,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-17,2021-07-05,NA
+35652,"Raichur",2475578,60,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-22,2021-07-07,NA
+35970,"Raichur",2873403,73,"Male","ILI","Fever, Cough","-",2021-06-26,2021-07-02,2021-07-12,NA

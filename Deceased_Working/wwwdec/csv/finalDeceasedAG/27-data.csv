@@ -1,0 +1,548 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+125,"Udupi","8338",54,"Male",NA,NA,NA,NA,2020-06-19,2020-06-20,"Brought dead"
+258,"Udupi","14357",48,"Male","SARI","Abd- Distension &  Fatigue restlessness","DM,  Chronic alcoholic",2020-06-15,2020-06-28,2020-07-02,NA
+1071,"Udupi","42036",60,"Male","SARI","Fever & Cough & Breathlessness","DM, CKD, HTN, IHD",2020-07-11,2020-07-12,2020-07-17,NA
+1099,"Udupi","47895",63,"Male","Contac Under tracing","Giddiness","DM",2020-07-12,2020-07-14,2020-07-17,NA
+1127,"Udupi","52275",49,"Male","SARI","Cough & Breathlessness","PNEUMONIA, DM",2020-07-15,2020-07-16,2020-07-17,NA
+1208,"Udupi","57766",20,"Female","SARI","Breathlessness","-",2020-07-04,2020-07-18,2020-07-18,NA
+1223,"Udupi","60311",65,"Male","ILI","Fever","COPD",2020-07-17,2020-07-17,2020-07-18,NA
+1293,"Udupi","59313",90,"Male","SARI","Fever","IHD",2020-07-16,2020-07-17,2020-07-19,NA
+1334,"Udupi","58574",54,"Male","SARI","Cough & Breathlessness","ASTHAMA",NA,2020-07-15,2020-07-20,"Brought dead"
+1473,"Udupi","72699",80,"Male","SARI","Breathlessness","COPD",2020-07-15,2020-07-15,2020-07-22,NA
+1627,"Udupi","57783",59,"Male","SARI","Breathlessness","DM, CKD",2020-07-17,2020-07-23,2020-07-24,NA
+1628,"Udupi","57998",63,"Male","SARI","Breathlessness","HTN,  DM, CKD",2020-07-16,2020-07-23,2020-07-24,NA
+1683,"Udupi","80190",65,"Male","ILI","Cough","HTN, DM",NA,2020-07-22,2020-07-24,"Died at his residence"
+1940,"Udupi","31198",46,"Male","ILI","Fever & Cough","Pneumonia",2020-07-09,2020-07-25,2020-07-28,NA
+1946,"Udupi","48289",63,"Male","SARI","Cough & Breathlessness","HTN",2020-07-15,2020-07-25,2020-07-28,NA
+1953,"Udupi","58951",60,"Female","ILI","Fever & Cough","AML, DM",2020-07-17,2020-07-23,2020-07-28,NA
+2012,"Udupi","100793",53,"Male","SARI","Breathlessness","-",NA,2020-07-23,2020-07-28,"Brought dead"
+2019,"Udupi","103039",40,"Male","SARI","Fever & Cough","COPD",NA,2020-07-26,2020-07-28,"Brought dead"
+2020,"Udupi","103174",62,"Female","SARI","Fever & Cough & Breathlessness","HTN, Pneumonia",2020-07-25,2020-07-27,2020-07-28,NA
+2029,"Udupi","105098",40,"Male","ILI","Fever & Cough","HTN, Pneumonia",2020-07-27,2020-07-27,2020-07-28,NA
+2054,"Udupi","65627",60,"Male","ILI","Fever & Cough","DM, HTN",2020-07-03,2020-07-28,2020-07-29,NA
+2063,"Udupi","76294",60,"Male","SARI","Fever & Cough","DM, IHD",2020-07-19,2020-07-28,2020-07-29,NA
+2087,"Udupi","97359",62,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-27,2020-07-29,NA
+2096,"Udupi","105298",75,"Female","SARI","Fever & Cough","HTN",2020-07-10,2020-07-27,2020-07-29,NA
+2146,"Udupi","71890",70,"Female","ILI","Fever & Breathlessness","CA",2020-07-15,2020-07-29,2020-07-30,NA
+2159,"Udupi","91321",67,"Male","ILI","Fever","DM, HTN",2020-07-24,2020-07-29,2020-07-30,NA
+2173,"Udupi","107155",80,"Female","ILI","Fever & Cough","DM, HTN",2020-07-26,2020-07-29,2020-07-30,NA
+2210,"Udupi","117772",63,"Female","SARI","Fever & Breathlessness","Asthma",2020-07-23,2020-07-28,2020-07-30,NA
+2303,"Udupi","68476",66,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-20,2020-07-30,2020-08-01,NA
+2310,"Udupi","80587",63,"Male","ILI","Breathlessness","DM, HTN, CKD,IHD",2020-07-29,2020-07-31,2020-08-01,NA
+2317,"Udupi","94749",62,"Male","ILI","Fever & Breathlessness","DM, HTN",2020-07-25,2020-07-31,2020-08-01,NA
+2326,"Udupi","102358",61,"Male","ILI","Fever","DM, HTN, CKD",2020-07-26,2020-07-30,2020-08-01,NA
+2375,"Udupi","124721",65,"Female","Primary Contact of P-60310","-","DM, HTN",NA,2020-07-31,2020-08-01,"Died at her residence"
+2392,"Udupi","130599",72,"Male","ILI","Fever & Cough","DM, HTN",NA,2020-07-31,2020-08-01,"Brought dead"
+2486,"Udupi","78763",72,"Male","ILI","Fever & Cough","HTN",2020-07-21,2020-08-01,2020-08-03,NA
+2585,"Udupi","58954",49,"Female","SARI","Fever & Breathlessness","CA",2020-07-17,2020-08-02,2020-08-04,NA
+2598,"Udupi","83229",65,"Male","ILI","Fever & Cough","DM",2020-07-20,2020-08-03,2020-08-04,NA
+2604,"Udupi","99436",80,"Female","ILI","Fever & Cough","DM, HTN",2020-07-25,2020-08-03,2020-08-04,NA
+2605,"Udupi","100507",67,"Male","ILI","Fever & Cough","DM, HTN",2020-07-26,2020-08-02,2020-08-04,NA
+2644,"Udupi","130020",68,"Female","ILI","Fever","DM",2020-07-31,2020-08-02,2020-08-04,NA
+2647,"Udupi","132071",62,"Male","SARI","Breathlessness","DM, HTN",2020-07-23,2020-08-03,2020-08-04,NA
+2717,"Udupi","108762",72,"Male","ILI","Fever","DM",2020-07-27,2020-08-03,2020-08-05,NA
+2725,"Udupi","117237",55,"Female","ILI","Fever, Cough","DM, HTN",2020-07-29,2020-08-05,2020-08-05,NA
+2804,"Udupi","96164",82,"Male","SARI","Breathlessness","DM, IHD, HTN",2020-07-24,2020-08-05,2020-08-06,NA
+2820,"Udupi","122155",70,"Male","SARI","Breathlessness","IHD, CLD",2020-07-30,2020-08-05,2020-08-06,NA
+2828,"Udupi","130084",36,"Male","Contact under tracing","-","DM",2020-08-01,2020-08-05,2020-08-06,NA
+2848,"Udupi","145546",75,"Male","Contact of P- 96983","-","HTN",2020-08-03,2020-08-05,2020-08-06,NA
+2867,"Udupi","153330",52,"Male","ILI","Breathlessness","CLD",2020-08-02,2020-08-04,2020-08-06,NA
+2873,"Udupi","158695",52,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-05,2020-08-05,2020-08-06,NA
+2902,"Udupi","106849",65,"Male","ILI","Fever","DM, HTN",2020-07-27,2020-08-06,2020-08-07,NA
+2910,"Udupi","111972",78,"Female","ILI","Fever, Breathlessness","DM",2020-07-28,2020-08-06,2020-08-07,NA
+2914,"Udupi","117071",70,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-07-27,2020-08-07,2020-08-07,NA
+2922,"Udupi","132617",49,"Male","ILI","Fever, Cough","DM, CHD",2020-07-21,2020-08-07,2020-08-07,NA
+2963,"Udupi","159231",75,"Male","SARI","Breathlessness","IHD",2020-08-03,2020-08-06,2020-08-07,NA
+3031,"Udupi","145788",65,"Male","ILI","Fever, Cough","CKD",2020-08-03,2020-08-07,2020-08-08,NA
+3043,"Udupi","152811",77,"Male","SARI","Cough, Breathlessness","HTN",2020-08-04,2020-08-08,2020-08-08,NA
+3048,"Udupi","156074",56,"Male","ILI","Fever, Breathlessness","IHD",2020-08-04,2020-08-08,2020-08-08,NA
+3062,"Udupi","166779",76,"Male","ILI","-","DM, HTN",NA,2020-08-06,2020-08-08,"Brought dead"
+3071,"Udupi","171391",50,"Female","SARI","Cough, Breathlessness","HTN, CKD",2020-08-05,2020-08-06,2020-08-08,NA
+3183,"Udupi","79554",46,"Female","SARI","Breathlessness","DM, HTN",2020-07-20,2020-08-08,2020-08-10,NA
+3207,"Udupi","101849",72,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-07-25,2020-08-10,2020-08-10,NA
+3224,"Udupi","134507",79,"Male","ILI","Fever, Cough","DM, CKD",2020-07-31,2020-08-10,2020-08-10,NA
+3262,"Udupi","174634",65,"Male","SARI","Fever, Breathlessness","ARDS",2020-08-03,2020-08-07,2020-08-10,NA
+3279,"Udupi","181281",89,"Female","ILI","Fever, Cough","DM, HTN, IHD",2020-08-06,2020-08-08,2020-08-10,NA
+3285,"Udupi","184469",14,"Male","Contact under tracing","Fever","SEPSIS",2020-08-07,2020-08-09,2020-08-10,NA
+3384,"Udupi","85280",35,"Male","ILI","Fever","CA",2020-07-21,2020-08-11,2020-08-12,NA
+3408,"Udupi","121994",81,"Male","SARI","Breathlessness","DM, CKD, IHD, BPH",2020-07-28,2020-08-09,2020-08-12,NA
+3415,"Udupi","132309",66,"Male","ILI","Fever","HTN, AKI",2020-08-06,2020-08-11,2020-08-12,NA
+3576,"Udupi","189657",56,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2020-08-08,2020-08-13,2020-08-13,NA
+3630,"Udupi","106831",63,"Male","ILI","Fever, Cough, Breathlessness","HTN, COPD",2020-07-26,2020-08-09,2020-08-14,NA
+3635,"Udupi","121905",55,"Male","ILI","Fever, Cough","HTN, DM",2020-07-28,2020-08-12,2020-08-14,NA
+3637,"Udupi","124696",86,"Male","ILI","Fever, Cough","DM, HTN, IHD",NA,2020-08-11,2020-08-14,"Brought dead"
+3654,"Udupi","165422",80,"Male","SARI","Fever, Cough","IHD, HTN, DM",2020-08-04,2020-08-08,2020-08-14,NA
+3660,"Udupi","171390",48,"Male","ILI","Fever","DM, CKD",2020-08-05,2020-08-11,2020-08-14,NA
+3676,"Udupi","189410",48,"Female","ILI","Cough, Breathlessness","HTN, COPD",2020-08-09,2020-08-11,2020-08-14,NA
+3696,"Udupi","212701",61,"Male","ILI","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",NA,2020-08-12,2020-08-14,"Brought dead"
+3727,"Udupi","126492",43,"Male","SARI","Fever, Breathlessness","DM",2020-07-30,2020-08-10,2020-08-15,NA
+3807,"Udupi","220536",65,"Male","ILI","Fever, Breathlessness","HTN, COPD",2020-08-11,2020-08-13,2020-08-15,NA
+3968,"Udupi","129268",56,"Female","Contact under tracing","Fever","HTN",2020-08-07,2020-08-16,2020-08-17,NA
+4346,"Udupi","186282",56,"Female","SARI","Fever, Breathlessness","HTN",2020-08-07,2020-08-16,2020-08-20,NA
+4401,"Udupi","250688",69,"Female","ILI","Fever, Cough","AKI",2020-08-17,2020-08-18,2020-08-20,NA
+4634,"Udupi","236906",42,"Male","SARI","Fever, Breathlessness","AKI, CLD",2020-08-18,2020-08-19,2020-08-23,NA
+4655,"Udupi","266360",73,"Male","SARI","Fever, Cough","DM, AKI",2020-08-20,2020-08-21,2020-08-23,NA
+4748,"Udupi","253197",75,"Male","SARI","Breathlessness","DM, CLD, CKD",2020-08-15,2020-08-21,2020-08-24,NA
+4753,"Udupi","258489",49,"Female","ILI","Fever, Cough","DM, HTN, CA",2020-08-12,2020-08-20,2020-08-24,NA
+4759,"Udupi","263688",55,"Male","SARI","Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-24,NA
+4776,"Udupi","273937",85,"Female","ILI","Fever, Cough","HTN, AKI, ANAEMIA",2020-08-19,2020-08-21,2020-08-24,NA
+4942,"Udupi","288921",67,"Male","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-08-21,2020-08-24,2020-08-25,NA
+4945,"Udupi","293832",87,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-23,2020-08-24,2020-08-25,NA
+5011,"Udupi","258488",49,"Male","ILI","Fever","DM, HTN, CKD",2020-08-17,2020-08-25,2020-08-26,NA
+5138,"Udupi","213776",72,"Male","ILI","Fever, Breathlessness","DM, HTN, IDH, CKD, COPD",2020-08-15,2020-08-26,2020-08-27,NA
+5258,"Udupi","233529",66,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-18,2020-08-28,2020-08-28,NA
+5304,"Udupi","275506",57,"Male","SARI","Fever, Breathlessness","DM, HTN, AKI",2020-08-20,2020-08-27,2020-08-28,NA
+5654,"Udupi","320298",40,"Male","ILI","Fever, Cough","CA",2020-08-27,2020-08-29,2020-08-31,NA
+5681,"Udupi","338995",43,"Male","ILI","Fever, Cough","CA",2020-08-28,2020-08-29,2020-08-31,NA
+5753,"Udupi","284747",78,"Female","SARI","Fever, Breathlessness","DM",2020-09-01,2020-09-01,2020-09-01,NA
+5792,"Udupi","330739",53,"Male","SARI","Fever, Breathlessness","EPILEPSY",2020-08-30,2020-09-01,2020-09-01,NA
+5901,"Udupi","320769",55,"Male","ILI","Cough, Breathlessness","HTN, CKD",2020-08-25,2020-08-31,2020-09-02,NA
+5918,"Udupi","336772",85,"Male","SARI","Fever, Breathlessness","HTN",2020-08-29,2020-08-30,2020-09-02,NA
+5939,"Udupi","361459",70,"Male","SARI","Fever, Breathlessness","DM",2020-08-31,2020-09-01,2020-09-02,NA
+5969,"Udupi","281691",45,"Female","ILI","Fever, Cough","-",2020-08-17,2020-08-18,2020-09-03,NA
+5994,"Udupi","314532",65,"Male","ILI","Fever, Cough, Breathlessness","HTN, AKI",2020-08-30,2020-09-03,2020-09-03,NA
+6009,"Udupi","336758",46,"Male","ILI","Fever, Cough, Breathlessness","HTN, CLD",2020-08-28,2020-09-02,2020-09-03,NA
+6040,"Udupi","362776",84,"Male","SARI","Cough, Breathlessness","AKI, IHD",2020-08-31,2020-09-02,2020-09-03,NA
+6134,"Udupi","361346",60,"Female","SARI","Cough, Breathlessness","CKD, HTN, IHD",2020-09-01,2020-09-03,2020-09-04,NA
+6145,"Udupi","371309",50,"Male","ILI","Fever, Cough","HTN, CKD",2020-09-03,2020-09-03,2020-09-04,NA
+6203,"Udupi","322476",68,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD, CKD",2020-08-28,2020-09-04,2020-09-05,NA
+6209,"Udupi","327800",62,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-08-29,2020-09-05,2020-09-05,NA
+6220,"Udupi","335687",79,"Female","ILI","Fever","IHD",2020-08-28,2020-09-03,2020-09-05,NA
+6222,"Udupi","339705",70,"Female","ILI","Fever, Cough","DM",2020-09-04,2020-09-04,2020-09-05,NA
+6480,"Udupi","347345",21,"Male","ILI","Fever, Cough","-",2020-08-29,2020-09-06,2020-09-07,NA
+6483,"Udupi","353270",55,"Male","ILI","Fever, Cough","DM, HTN, CLD, CKD",2020-08-31,2020-09-05,2020-09-07,NA
+6583,"Udupi","339000",70,"Female","SARI","Cough, Breathlessness","IHD",2020-08-29,2020-09-07,2020-09-08,NA
+6592,"Udupi","352712",66,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-08-30,2020-09-07,2020-09-08,NA
+6594,"Udupi","356577",55,"Male","SARI","Cough, Breathlessness","DM",2020-09-01,2020-09-08,2020-09-08,NA
+6626,"Udupi","384002",66,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD, AKI",2020-09-03,2020-09-06,2020-09-08,NA
+6651,"Udupi","398707",74,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-09-04,2020-09-07,2020-09-08,NA
+6674,"Udupi","424801",60,"Male","SARI","Cough, Breathlessness","-",2020-09-07,2020-09-07,2020-09-08,NA
+6675,"Udupi","425132",42,"Male","ILI","Fever, Breathlessness","-",2020-09-08,2020-09-08,2020-09-08,NA
+6783,"Udupi","410447",64,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-09-06,2020-09-07,2020-09-09,NA
+6862,"Udupi","380289",68,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-09-04,2020-09-07,2020-09-10,NA
+6879,"Udupi","401411",41,"Female","ILI","Fever, Cough","DM, IHD, RHD",2020-09-04,2020-09-09,2020-09-10,NA
+6884,"Udupi","406564",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-08,2020-09-09,2020-09-10,NA
+6898,"Udupi","415649",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-06,2020-09-06,2020-09-10,NA
+6998,"Udupi","380882",73,"Male","ILI","Fever, Cough","DM, HTN, IDH, COPD",2020-09-01,2020-09-08,2020-09-11,NA
+7037,"Udupi","425133",60,"Male","ILI","Fever, Cough","DM, HTN",2020-09-08,2020-09-10,2020-09-11,NA
+7092,"Udupi","365360",89,"Female","SARI","Fever, Breathlessness","HTN, COPD",2020-09-02,2020-09-11,2020-09-12,NA
+7124,"Udupi","406507",70,"Female","SARI","Fever, Breathlessness","DM",2020-09-05,2020-09-12,2020-09-12,NA
+7568,"Udupi","399438",66,"Female","ILI","Fever, Cough","HTN",2020-09-07,2020-09-13,2020-09-17,NA
+7590,"Udupi","438745",58,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-09-10,2020-09-10,2020-09-17,NA
+7594,"Udupi","440647",93,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD",2020-09-09,2020-09-09,2020-09-17,NA
+7605,"Udupi","452242",70,"Female","Contact under tracing","Fever, Cough","-",2020-09-11,2020-09-12,2020-09-17,NA
+7708,"Udupi","421189",85,"Female","SARI","Fever, Breathlessness","HTN",2020-09-07,2020-09-17,2020-09-18,NA
+7729,"Udupi","433915",59,"Male","SARI","Fever, Breathlessness","DM",2020-09-08,2020-09-15,2020-09-18,NA
+7742,"Udupi","445257",52,"Male","ILI","Fever, Cough","AKI",2020-09-10,2020-09-15,2020-09-18,NA
+7746,"Udupi","448460",42,"Male","SARI","Fever, Breathlessness","CVA",2020-09-10,2020-09-15,2020-09-18,NA
+7751,"Udupi","454926",20,"Female","SARI","Fever, Breathlessness","CVA",2020-09-12,2020-09-13,2020-09-18,NA
+7845,"Udupi","428169",52,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-16,2020-09-19,NA
+8062,"Udupi","461299",84,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-09-11,2020-09-20,2020-09-21,NA
+8102,"Udupi","500244",66,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-16,2020-09-18,2020-09-21,NA
+8118,"Udupi","509087",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-17,2020-09-17,2020-09-21,NA
+8127,"Udupi","516175",72,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-09-17,2020-09-17,2020-09-21,NA
+8542,"Udupi","524147",74,"Male","ILI","Fever, Breathlessness","-",2020-09-18,2020-09-27,2020-09-27,NA
+8713,"Udupi","478794",81,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-24,2020-09-29,NA
+8767,"Udupi","575160",71,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-24,2020-09-27,2020-09-29,NA
+8818,"Udupi","540338",63,"Male","ILI","Fever, Breathlessness","DM, HTN",2020-09-20,2020-09-29,2020-09-30,NA
+8944,"Udupi","544230",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-21,2020-09-24,2020-10-01,NA
+8969,"Udupi","566850",46,"Male","SARI","Breathlessness","HTN, Pneumonia",2020-09-23,2020-09-24,2020-10-01,NA
+8981,"Udupi","584950",75,"Male","ILI","Breathlessness","HT, DM",2020-09-26,2020-09-30,2020-10-01,NA
+9102,"Udupi","600818",89,"Female","ILI","Fever, Cough","DM, HTN",2020-09-27,2020-09-29,2020-10-02,NA
+9216,"Udupi","622677",39,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, IHD",2020-09-26,2020-10-01,2020-10-03,NA
+9225,"Udupi","639825",67,"Male","ILI","Cough, Breathlessness","DM, HTN",2020-08-20,2020-10-01,2020-10-03,NA
+9226,"Udupi","640633",65,"Male","ILI","Fever","DM",2020-10-01,2020-10-01,2020-10-03,NA
+9308,"Udupi","557400",45,"Male","ILI","Fever, Breathlessness","DM, HTN",2020-09-23,2020-10-02,2020-10-05,NA
+9322,"Udupi","577215",64,"Male","ILI","Fever, Breathlessness","DM",2020-09-25,2020-10-04,2020-10-05,NA
+9327,"Udupi","589025",58,"Female","ILI","Fever, Breathlessness","DM",2020-09-26,2020-10-05,2020-10-05,NA
+9389,"Udupi","549963",65,"Male","ILI","Fever, Cough","DM, HTN",2020-09-21,2020-10-05,2020-10-06,NA
+9426,"Udupi","601132",74,"Male","SARI","Breathlessness","HTN",2020-09-27,2020-10-03,2020-10-06,NA
+9462,"Udupi","652664",58,"Male","ILI","Fever, Cough","HTN",2020-10-02,2020-10-03,2020-10-06,NA
+9490,"Udupi","549597",56,"Male","SARI","Breathlessness","CVD",2020-09-19,2020-09-22,2020-10-07,NA
+9505,"Udupi","566392",64,"Female","ILI","Cough","DM, HTN",2020-09-24,2020-10-07,2020-10-07,NA
+9622,"Udupi","576286",68,"Male","SARI","Fever, Breathlessness","DM",2020-09-25,2020-10-07,2020-10-08,NA
+9730,"Udupi","610413",82,"Female","ILI","Fever, Cough","-",2020-09-28,2020-10-08,2020-10-09,NA
+9893,"Udupi","698772",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-05,2020-10-09,2020-10-10,NA
+9942,"Udupi","670764",74,"Female","ILI","Fever, Cough","HTN",2020-10-07,2020-10-11,2020-10-11,NA
+10028,"Udupi","704822",73,"Male","ILI","Fever, Cough","HTN, CVA, CKD",2020-10-07,2020-10-12,2020-10-12,NA
+10123,"Udupi","727748",74,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-10-09,2020-10-11,2020-10-13,NA
+10226,"Udupi","660385",46,"Male","ILI","Fever, Cough","DM, HTN, CKD, RVD",2020-10-05,2020-10-13,2020-10-15,NA
+10262,"Udupi","707093",82,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-09-22,2020-10-08,2020-10-15,NA
+10314,"Udupi","667811",66,"Male","ILI","Fever, Cough","HTN, CKD, CLD",2020-10-05,2020-10-14,2020-10-16,NA
+10355,"Udupi","736112",75,"Male","Contact under tracing","Fever, Cough","CVA",2020-10-12,2020-10-14,2020-10-16,NA
+10398,"Udupi","699443",57,"Female","SARI","Breathlessness","DM, IHD",2020-10-08,2020-10-16,2020-10-17,NA
+10525,"Udupi","742149",55,"Female","SARI","Fever, Breathlessness","DM, CKD",2020-10-13,2020-10-16,2020-10-19,NA
+10529,"Udupi","745190",63,"Male","SARI","Cough, Breathlessness","CVA",2020-10-13,2020-10-15,2020-10-19,NA
+10609,"Udupi","774147",65,"Male","ILI","Fever, Cough","DM, HTN",2020-10-17,2020-10-18,2020-10-20,NA
+10775,"Udupi","795254",50,"Male","ILI","Fever, Cough","DM, HTN, IHD, CKD",2020-10-19,2020-10-21,2020-10-22,NA
+10817,"Udupi","774142",64,"Male","SARI","Cough, Breathlessness","COPD, CKD, CA",2020-10-17,2020-10-22,2020-10-23,NA
+10928,"Udupi","758486",71,"Male","SARI","Cough, Breathlessness","HTN, CVA, IHD",2020-10-10,2020-10-25,2020-10-26,NA
+10978,"Udupi","779877",80,"Female","SARI","Breathlessness","DM, IHD",2020-10-16,2020-10-25,2020-10-27,NA
+11031,"Udupi","792574",54,"Male","SARI","Breathlessness","DM, HTN",2020-10-01,2020-10-27,2020-10-28,NA
+11099,"Udupi","823639",77,"Male","SARI","Cough, Breathlessness","IHD",2020-10-26,2020-10-28,2020-10-29,NA
+11210,"Udupi","809606",85,"Male","ILI","Fever, Cough","-",2020-10-23,2020-11-01,2020-11-02,NA
+11273,"Udupi","819740",45,"Male","SARI","Breathlessness","HTN, CKD",2020-10-27,2020-11-04,2020-11-04,NA
+11303,"Udupi","823656",54,"Female","ILI","Fever, Cough","HTN, CA",2020-11-02,2020-11-04,2020-11-05,NA
+11336,"Udupi","826694",72,"Male","SARI","Breathlessness","HTN, CKD",2020-10-24,2020-11-05,2020-11-06,NA
+11375,"Udupi","853011",72,"Female","ILI","Fever, Cough","DM, HTN, CVA",2020-11-04,2020-11-06,2020-11-07,NA
+11996,"Udupi","913075",69,"Male","ILI","Fever, Cough","DM",2020-12-10,2020-12-17,2020-12-19,NA
+12108,"Udupi","930786",59,"Female","ILI","Cough","DM,  HTN, CA",2020-12-27,2020-12-28,2021-01-04,NA
+12314,"Udupi","962194",67,"Male","ILI","Cough","DM, HTN, AKI",2021-02-19,2021-02-25,2021-02-25,NA
+12498,"Udupi","991515",69,"Male","ILI","Cough","DM,  HTN, CKD",2021-03-24,2021-03-26,2021-03-28,NA
+12565,"Udupi","1006180",90,"Female","ILI","Cough","HTN",2021-03-27,2021-03-30,2021-03-31,NA
+13172,"Udupi","1111955",59,"Male","SARI","Breathlessness, Cough","DM",2021-04-12,2021-04-15,2021-04-16,NA
+13620,"Udupi","1175746",72,"Male","ILI","Fever, Cough","DM,  HTN, CKD, IHD",2021-04-17,2021-04-19,2021-04-20,NA
+15229,"Udupi","1412385",76,"Female","ILI","Fever, cough","DM, HTN",2021-04-25,2021-04-26,2021-04-29,NA
+15305,"Udupi","1509339",62,"Male","ILI","Fever, cough","ILD",2021-04-28,2021-04-28,2021-04-29,NA
+15474,"Udupi","1466575",73,"Male","ILI","Fever, Cough","HTN,  IHD, CKD",2021-04-26,2021-04-28,2021-04-30,NA
+15476,"Udupi","1469317",50,"Female","ILI","Fever, Cough","DM, HTN",2021-04-26,2021-04-29,2021-04-30,NA
+15887,"Udupi","1387754",64,"Male","ILI","Fever, Cough","DM, HTN",2021-04-24,2021-04-30,2021-05-02,NA
+15901,"Udupi","1410245",73,"Female","ILI","Fever, Cough","COPD",2021-04-26,2021-05-01,2021-05-02,NA
+16150,"Udupi","1466598",65,"Female","ILI","Fever, cough","-",2021-04-28,2021-05-03,2021-05-03,NA
+16497,"Udupi","1649458",78,"Male","ILI","Fever, Cough","DM",2021-04-30,2021-05-01,2021-05-04,NA
+16511,"Udupi","1669980",46,"Male","ILI","Fever, Cough","DM",2021-05-02,2021-05-03,2021-05-04,NA
+16837,"Udupi","1679804",65,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-05-02,2021-05-03,2021-05-05,NA
+16861,"Udupi","1726456",81,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16878,"Udupi","1769589",53,"Male","ILI","Fever, Cough","-",2021-05-03,2021-05-05,2021-05-05,NA
+17088,"Udupi","1584253",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-05,2021-05-06,NA
+17134,"Udupi","1649423",87,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-13,2021-05-05,2021-05-06,NA
+17142,"Udupi","1658396",69,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-06,2021-05-06,NA
+17169,"Udupi","1726395",62,"Female","ILI","Fever, Cough","HTN",2021-05-01,2021-05-05,2021-05-06,NA
+17197,"Udupi","1780565",72,"Male","ILI","Fever, Cough","-",2021-05-04,2021-05-04,2021-05-06,NA
+17581,"Udupi","1600633",60,"Female","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-04-30,2021-05-07,2021-05-07,NA
+17586,"Udupi","1607463",64,"Female","ILI","Fever, Cough","DM,  HTN , IHD",2021-04-30,2021-05-05,2021-05-07,NA
+17605,"Udupi","1625904",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-07,2021-05-07,NA
+17606,"Udupi","1625908",58,"Male","ILI","Fever, Cough","DM,  HTN, CVA",2021-05-01,2021-05-06,2021-05-07,NA
+17635,"Udupi","1659239",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-06,2021-05-07,NA
+17720,"Udupi","1744240",87,"Female","ILI","Fever, Cough","DM, HTN",2021-05-03,2021-05-06,2021-05-07,NA
+18164,"Udupi","1706307",69,"Male","ILI","Fever, Cough","DM",2021-05-03,2021-05-08,2021-05-08,NA
+18170,"Udupi","1719935",41,"Male","ILI","Fever, Cough","-",NA,2021-05-07,2021-05-08,"Died at his residence"
+18176,"Udupi","1726453",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-07,2021-05-08,NA
+18179,"Udupi","1735706",66,"Male","ILI","Fever, Cough","HTN",2021-05-08,2021-05-08,2021-05-08,NA
+18190,"Udupi","1750403",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-08,2021-05-08,NA
+18197,"Udupi","1762235",75,"Female","ILI","Fever, Cough","DM",2021-05-03,2021-05-07,2021-05-08,NA
+18203,"Udupi","1780553",79,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-07,2021-05-08,NA
+18207,"Udupi","1789505",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-08,2021-05-08,NA
+18215,"Udupi","1802357",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-08,NA
+18218,"Udupi","1805358",76,"Female","ILI","Fever, Cough","DM, HTN",2021-05-05,2021-05-07,2021-05-08,NA
+18283,"Udupi","1912394",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-07,2021-05-08,NA
+18641,"Udupi","1762230",67,"Female","ILI","Fever, Cough","CAD",2021-05-04,2021-05-08,2021-05-09,NA
+18643,"Udupi","1769588",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2021-05-03,2021-05-09,2021-05-09,NA
+18678,"Udupi","1827578",66,"Male","ILI","Fever, Cough","DM, HTN",2021-05-06,2021-05-09,2021-05-09,NA
+18733,"Udupi","1912444",58,"Male","ILI","Fever, Cough","DM, HTN, CA",2021-05-05,2021-05-08,2021-05-09,NA
+18734,"Udupi","1912450",58,"Female","ILI","Fever, Cough","DM, HTN, AKI",2021-05-06,2021-05-08,2021-05-09,NA
+19212,"Udupi","1766043",73,"Male","ILI","Fever, Cough","-",2021-05-02,2021-05-10,2021-05-10,NA
+19366,"Udupi","1999602",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19678,"Udupi","1789480",72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-11,NA
+19775,"Udupi","1906166",67,"Male","ILI","Fever, cough","DM",2021-05-07,2021-05-10,2021-05-11,NA
+19846,"Udupi","2028423",48,"Female","ILI","Fever, cough","CVA",2021-05-09,2021-05-10,2021-05-11,NA
+20226,"Udupi","1909431",75,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-10,2021-05-12,NA
+20293,"Udupi","1967243",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-11,2021-05-12,NA
+20303,"Udupi","1981887",77,"Male","ILI","Fever, Cough","DM,  HTN, CAD",2021-05-07,2021-05-11,2021-05-12,NA
+20315,"Udupi","2003400",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-12,NA
+20329,"Udupi","2020365",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-11,2021-05-12,NA
+20344,"Udupi","2039194",88,"Female","ILI","Fever, Cough","HTN",2021-05-10,2021-05-10,2021-05-12,NA
+20565,"Udupi","1851302",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-13,2021-05-13,NA
+20569,"Udupi","1862156",51,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-13,2021-05-13,NA
+20653,"Udupi","2029706",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-13,2021-05-13,NA
+20661,"Udupi","2039939",65,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-12,2021-05-13,NA
+20691,"Udupi","2081631",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-13,NA
+20693,"Udupi","2084717",62,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-13,2021-05-13,NA
+20975,"Udupi","2039999",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2021-05-08,2021-05-14,2021-05-14,NA
+21015,"Udupi","2078362",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-14,NA
+21068,"Udupi","2149425",81,"Female","SARI","Fever, Cough","CA",2021-05-10,2021-05-13,2021-05-14,NA
+21322,"Udupi","2058826",87,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-15,2021-05-15,NA
+21324,"Udupi","2061705",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-14,2021-05-15,NA
+21340,"Udupi","2078392",46,"Female","ILI","Fever, Cough","DM, HTN",2021-05-14,2021-05-14,2021-05-15,NA
+21351,"Udupi","2084769",35,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-15,2021-05-15,NA
+21379,"Udupi","2142380",35,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-14,2021-05-15,NA
+21380,"Udupi","2142423",65,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-14,2021-05-15,NA
+21413,"Udupi","2182958",63,"Male","ILI","Fever, Cough","DM",2021-05-12,2021-05-13,2021-05-15,NA
+21698,"Udupi","2039214",92,"Female","ILI","Fever, Cough","-",2021-05-10,2021-05-16,2021-05-16,NA
+21704,"Udupi","2044362",91,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-15,2021-05-16,NA
+21737,"Udupi","2078390",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-16,2021-05-16,NA
+21766,"Udupi","2128385",88,"Female","ILI","Fever, Cough","DM, HTN, IHD",2021-05-11,2021-05-16,2021-05-16,NA
+21828,"Udupi","2223430",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+22119,"Udupi","2029703",62,"Female","ILI","Fever, Cough","-",2021-05-10,2021-05-16,2021-05-17,NA
+22208,"Udupi","2164171",54,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-16,2021-05-17,NA
+22220,"Udupi","2177933",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-17,NA
+22263,"Udupi","2227800",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-17,2021-05-17,NA
+22286,"Udupi","2248037",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22736,"Udupi","2164165",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-18,NA
+22815,"Udupi","2270376",67,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-18,NA
+22826,"Udupi","2296588",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-16,2021-05-17,2021-05-18,NA
+23154,"Udupi","2131934",75,"Female","ILI","Fever, Cough","HTN, COPD",2021-05-14,2021-05-19,2021-05-19,NA
+23184,"Udupi","2161470",77,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-19,NA
+23187,"Udupi","2164211",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-18,2021-05-19,NA
+23220,"Udupi","2200884",65,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-05-15,2021-05-19,2021-05-19,NA
+23299,"Udupi","2327440",86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-17,2021-05-18,2021-05-19,NA
+23751,"Udupi","2233282",63,"Male","ILI","Fever, Cough","DM,  HTN, CLD",2021-05-15,2021-05-19,2021-05-20,NA
+23791,"Udupi","2280086",77,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-19,2021-05-20,NA
+23800,"Udupi","2287445",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-20,NA
+23822,"Udupi","2319194",66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-19,2021-05-20,NA
+23845,"Udupi","2352575",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-19,2021-05-20,NA
+23853,"Udupi","2361336",50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-18,2021-05-20,NA
+24092,"Udupi","2240672",60,"Male","SARI","Fever, Cough, Breathlessness","CA",2021-05-15,2021-05-21,2021-05-21,NA
+24117,"Udupi","2269666",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-21,2021-05-21,NA
+24122,"Udupi","2280078",70,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-21,2021-05-21,NA
+24131,"Udupi","2294849",63,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-05-16,2021-05-21,2021-05-21,NA
+24167,"Udupi","2331683",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-19,2021-05-21,NA
+24178,"Udupi","2347410",60,"Male","ILI","Fever, Cough","DM, IHD",2021-05-17,2021-05-20,2021-05-21,NA
+24204,"Udupi","2394442",45,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-20,2021-05-21,NA
+24542,"Udupi","2238718",76,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-22,2021-05-22,NA
+24544,"Udupi","2243139",65,"Male","SARI","Fever, Cough, Breathlessness","CA",2021-05-18,2021-05-22,2021-05-22,NA
+24570,"Udupi","2301820",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-22,2021-05-22,NA
+24598,"Udupi","2345391",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-20,2021-05-22,2021-05-22,NA
+25154,"Udupi","2304016",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2021-05-16,2021-05-22,2021-05-23,NA
+25192,"Udupi","2359755",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-23,2021-05-23,NA
+25194,"Udupi","2361303",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25275,"Udupi","2446104",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-22,2021-05-23,NA
+25715,"Udupi","2380273",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-23,2021-05-24,NA
+25717,"Udupi","2382094",66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25732,"Udupi","2392713",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-18,2021-05-24,2021-05-24,NA
+25781,"Udupi","2446103",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-24,2021-05-24,NA
+26241,"Udupi","2298540",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-17,2021-05-25,2021-05-25,NA
+26348,"Udupi","2437414",54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-25,2021-05-25,NA
+26361,"Udupi","2468760",33,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-23,2021-05-25,NA
+26375,"Udupi","2477982",67,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-25,2021-05-25,NA
+26811,"Udupi","2365812",97,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-26,2021-05-26,NA
+26835,"Udupi","2399497",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-26,2021-05-26,NA
+26843,"Udupi","2417540",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-24,2021-05-26,NA
+26895,"Udupi","2486096",56,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-24,2021-05-25,2021-05-26,NA
+26908,"Udupi","2505601",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-26,2021-05-26,NA
+27407,"Udupi","2552737",69,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-11,2021-05-26,2021-05-27,NA
+27408,"Udupi","2558078",78,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-26,2021-05-26,2021-05-27,NA
+27740,"Udupi","2504118",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-24,2021-05-26,2021-05-28,NA
+27773,"Udupi","2543924",57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-27,2021-05-28,NA
+27802,"Udupi","2577376",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-27,2021-05-28,NA
+27803,"Udupi","2577388",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-05-28,NA
+27809,"Udupi","2589650",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-28,2021-05-28,NA
+28202,"Udupi","2495020",62,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-24,2021-05-29,2021-05-29,NA
+28203,"Udupi","2498109",68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-29,2021-05-29,NA
+28209,"Udupi","2504104",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-29,NA
+28604,"Udupi","2491915",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-29,2021-05-30,NA
+28645,"Udupi","2569148",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-05-30,NA
+29042,"Udupi","2579485",89,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-31,2021-05-31,NA
+29057,"Udupi","2600738",78,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-30,2021-05-31,NA
+29080,"Udupi","2630563",72,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-05-29,2021-05-31,2021-05-31,NA
+29088,"Udupi","2638734",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-29,2021-05-31,NA
+29503,"Udupi","2569185",69,"Male","SARI","Fever, Cough, Breathlessness","CKD, COPD",2021-05-26,2021-05-31,2021-06-01,NA
+29509,"Udupi","2575743",55,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-30,2021-06-01,2021-06-01,NA
+29558,"Udupi","2662882",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-31,2021-06-01,NA
+29954,"Udupi","2602635",84,"Female","ILI","Cough","-",2021-05-27,2021-06-02,2021-06-02,NA
+29995,"Udupi","2653501",60,"Female","ILI","Fever","-",2021-05-20,2021-06-02,2021-06-02,NA
+30810,"Udupi","2591965",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-03,2021-06-04,NA
+30830,"Udupi","2619416",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-06-04,2021-06-04,NA
+30852,"Udupi","2654919",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-04,2021-06-04,NA
+31177,"Udupi","2612440",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-04,2021-06-05,NA
+31538,"Udupi","2685603",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-05,2021-06-06,NA
+31557,"Udupi","2700227",73,"Male","SARI","Fever, Cough, Breathlessness","IHD, COPD",2021-06-04,2021-06-05,2021-06-06,NA
+31848,"Udupi","2663312",61,"Male","SARI","Fever, Cough, Breathlessness","DM, CA",2021-06-01,2021-06-06,2021-06-07,NA
+31892,"Udupi","2707662",85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-06,2021-06-07,NA
+32049,"Udupi","2698094",23,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-07,2021-06-08,NA
+32081,"Udupi","2729921",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-07,2021-06-08,NA
+32206,"Udupi","2670551",67,"Male","SARI","Fever, Breathlessness","DM",2021-06-04,2021-06-08,2021-06-09,NA
+32286,"Udupi","2759539",72,"Female","SARI","Cough, Breathlessness","DM",2021-06-01,2021-06-08,2021-06-09,NA
+32293,"Udupi","2770900",56,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-06,2021-06-08,2021-06-09,NA
+32295,"Udupi",NA,75,"Male","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-08,2021-06-09,NA
+32397,"Udupi","2678342",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-09,2021-06-10,NA
+32419,"Udupi","2701255",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-09,2021-06-10,NA
+32583,"Udupi","2701505",72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-10,2021-06-11,NA
+32763,"Udupi","2754174",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-11,2021-06-12,NA
+32774,"Udupi","2781624",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-11,2021-06-12,NA
+32839,"Udupi","2670596",71,"Female","SARI","Fever, Breathlessness","-",2021-06-04,2021-06-13,2021-06-13,NA
+32888,"Udupi","2759537",75,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-05-18,2021-06-12,2021-06-13,NA
+32913,"Udupi","2794626",72,"Male","SARI","Fever, Breathlessness","HTN",2021-06-11,2021-06-12,2021-06-13,NA
+32916,"Udupi","2800414",76,"Female","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-06-12,2021-06-12,2021-06-13,NA
+33009,"Udupi","2775409",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-09,2021-06-13,2021-06-14,NA
+33013,"Udupi","2781965",53,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-05,2021-06-13,2021-06-14,NA
+33106,"Udupi","2749694",94,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-06-06,2021-06-14,2021-06-15,NA
+33253,"Udupi","2771791",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-15,2021-06-16,NA
+33260,"Udupi","2776233",89,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-14,2021-06-16,NA
+33346,"Udupi","2674703",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-06,2021-06-17,NA
+33348,"Udupi","2679468",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-26,2021-06-17,NA
+33425,"Udupi","2825748",76,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-16,2021-06-17,NA
+33542,"Udupi","2786537",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-12,2021-06-18,2021-06-18,NA
+33566,"Udupi","2812310",71,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-18,2021-06-18,NA
+33573,"Udupi","2819421",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-17,2021-06-18,NA
+33625,"Udupi","2574243",61,"Female","SARI","Fever, Breathlessness","DM",2021-05-29,2021-06-13,2021-06-19,NA
+33650,"Udupi","2745303",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-07,2021-06-19,NA
+33708,"Udupi","2809168",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-18,2021-06-19,NA
+33871,"Udupi","2842329",35,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-17,2021-06-19,2021-06-20,NA
+33918,"Udupi","2607859",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-20,2021-06-21,NA
+34070,"Udupi","2743573",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-13,2021-06-21,2021-06-22,NA
+34099,"Udupi","2794178",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-10,2021-06-21,2021-06-22,NA
+34221,"Udupi","2736613",59,"Female","SARI","Cough, Breathlessness","-",2021-06-05,2021-06-23,2021-06-23,NA
+34257,"Udupi","2840781",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-22,2021-06-23,NA
+34265,"Udupi","2848017",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-23,2021-06-23,NA
+34288,"Udupi","100001650",64,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-23,2021-06-23,NA
+34352,"Udupi","2811564",70,"Male","SARI","Fever, Cough, Breathlesness","DM",2021-06-16,2021-06-24,2021-06-24,NA
+34365,"Udupi","2821988",69,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-15,2021-06-24,2021-06-24,NA
+34372,"Udupi","2827737",57,"Male","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-19,2021-06-23,2021-06-24,NA
+34374,"Udupi","2828104",67,"Female","SARI","Fever, Cough, Breathlesness","IHD",2021-06-16,2021-06-23,2021-06-24,NA
+34406,"Udupi","2852695",77,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-05,2021-06-24,2021-06-24,NA
+34413,"Udupi","2860602",75,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-23,2021-06-23,2021-06-24,NA
+34425,"Udupi","100000525",52,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-11,2021-06-24,2021-06-24,NA
+34501,"Udupi","2818644",39,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-24,2021-06-25,NA
+34525,"Udupi","2854567",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-21,2021-06-24,2021-06-25,NA
+34616,"Udupi","2837701",40,"Male","SARI","Fever, Cough,  Breathlessness","DM",2021-06-18,2021-06-25,2021-06-26,NA
+34626,"Udupi","2851856",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-06-21,2021-06-25,2021-06-26,NA
+34733,"Udupi","2867413",66,"Female","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-24,2021-06-26,2021-06-27,NA
+34806,"Udupi","2860601",62,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-16,2021-06-27,2021-06-28,NA
+34824,"Udupi","2878302",66,"Female","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-24,2021-06-26,2021-06-28,NA
+35107,"Udupi","2871743",68,"Female","SARI","Fever, Cough, Breathlessness","IHD",2021-06-26,2021-07-01,2021-07-01,NA
+35194,"Udupi","2862777",69,"Female","SARI","Breathlessness","HTN",2021-06-23,2021-06-30,2021-07-02,NA
+35215,"Udupi","2882965",45,"Male","SARI","Breathlessness","-",2021-06-30,2021-07-01,2021-07-02,NA
+35221,"Udupi","2890890",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-01,2021-07-02,NA
+35279,"Udupi","2869732",56,"Male","ILI","Fever","HTN",2021-06-24,2021-06-26,2021-07-03,NA
+35351,"Udupi","2884138",70,"Male","SARI","Fever, Breathlessness","HTN",2021-06-30,2021-07-03,2021-07-04,NA
+35355,"Udupi","2886378",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-30,2021-07-03,2021-07-04,NA
+35526,"Udupi","100002585",81,"Male","SARI","Breathlessness","-",2021-07-03,2021-07-05,2021-07-06,NA
+35647,"Udupi","2890693",87,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-07-04,2021-07-07,2021-07-08,NA
+35723,"Udupi","2904247",81,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-07,2021-07-09,2021-07-09,NA
+35752,"Udupi","2891934",77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-02,2021-07-09,2021-07-10,NA
+35885,"Udupi","2909157",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-11,2021-07-11,2021-07-12,NA
+36036,"Udupi","2918642",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CA",2021-07-13,2021-07-14,2021-07-15,NA
+36103,"Udupi","2909992",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-10,2021-07-16,2021-07-17,NA
+36127,"Udupi","2858754",57,"Female","ILI","Fever, Cough","-",2021-06-26,2021-07-18,2021-07-18,NA
+36142,"Udupi","2911648",63,"Female","SARI","Fever, cough, Breathlessness","DM",2021-07-09,2021-07-17,2021-07-18,NA
+36182,"Udupi","2917321",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-13,2021-07-19,2021-07-19,NA
+36211,"Udupi","2914011",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-11,2021-07-19,2021-07-20,NA
+36247,"Udupi","2919117",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-15,2021-07-20,2021-07-21,NA
+36283,"Udupi","2919117",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-15,2021-07-20,2021-07-21,NA
+36327,"Udupi","2928865",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-20,2021-07-22,2021-07-23,NA
+36381,"Udupi","2927841",69,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-07-20,2021-07-26,2021-07-26,NA
+36418,"Udupi","2936697",78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-24,2021-07-26,2021-07-27,NA
+36436,"Udupi","2938158",34,"Male","SARI","Fever, Cough, Breathlessness","CLD",2021-07-26,2021-07-27,2021-07-28,NA
+36439,"Udupi","2939023",76,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-27,2021-07-27,2021-07-28,NA
+36464,"Udupi","2932083",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-22,2021-07-29,2021-07-29,NA
+36498,"Udupi","2934672",24,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-23,2021-07-30,2021-07-30,NA
+36542,"Udupi","2943144",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-28,2021-07-28,2021-07-31,NA
+36569,"Udupi","2944392",56,"Male","SARI","Fever, Breathlessness","-",2021-07-30,2021-07-31,2021-08-01,NA
+36619,"Udupi","2941736",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-28,2021-08-02,2021-08-03,NA
+36651,"Udupi","2935349",55,"Male","ILI","Fever, Cough","-",2021-08-02,2021-08-03,2021-08-04,NA
+36664,"Udupi","2950538",81,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-03,2021-08-03,2021-08-04,NA
+36687,"Udupi","2951976",82,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-29,2021-08-04,2021-08-05,NA
+36688,"Udupi","2952092",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-03,2021-08-03,2021-08-05,NA
+36693,"Udupi","2299182",42,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-22,2021-08-06,NA
+36694,"Udupi","2318247",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-18,2021-08-06,NA
+36745,"Udupi","2948387",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-30,2021-08-02,2021-08-07,NA
+36747,"Udupi","2952935",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-04,2021-08-05,2021-08-07,NA
+36789,"Udupi","2948765",61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-02,2021-08-09,2021-08-09,NA
+36793,"Udupi","2951220",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-05,2021-08-09,2021-08-09,NA
+36795,"Udupi","2953106",86,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-04,2021-08-09,2021-08-09,NA
+36829,"Udupi","2958897",83,"Female","SARI","Breathlessness","DM, COPD",2021-08-07,2021-08-09,2021-08-10,NA
+36855,"Udupi","2948788",72,"Male","ILI","Fever","-",2021-08-03,2021-08-10,2021-08-11,NA
+36894,"Udupi","2963001",79,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-08-08,2021-08-11,2021-08-12,NA
+36914,"Udupi","2963003",45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-08-10,2021-08-12,2021-08-13,NA
+36930,"Udupi","2959331",61,"Female","ILI","Fever","-",2021-08-09,2021-08-13,2021-08-14,NA
+36962,"Udupi","2967873",50,"Male","SARI","Fever, Cough,  Breathlessness","-",2021-08-13,2021-08-14,2021-08-15,NA
+36963,"Udupi","2968838",60,"Female","ILI","Fever, Cough","-",2021-08-14,2021-08-14,2021-08-15,NA
+37013,"Udupi","2967272",68,"Male","ILI","Fever","-",2021-08-02,2021-08-08,2021-08-17,NA
+37036,"Udupi","2966994",57,"Male","SARI","Cough, Breathlessness","-",2021-08-09,2021-08-17,2021-08-18,NA
+37042,"Udupi","2973057",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-09,2021-08-17,2021-08-18,NA
+37062,"Udupi","2966258",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-11,2021-08-19,2021-08-19,NA
+37063,"Udupi","2967384",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-16,2021-08-18,2021-08-19,NA
+37123,"Udupi","2972039",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-16,2021-08-20,2021-08-22,NA
+37126,"Udupi","2977709",56,"Female","ILI","Fever","-",2021-08-21,2021-08-21,2021-08-22,NA
+37134,"Udupi","2963528",67,"Female","ILI","Fever, Cough","-",2021-08-12,2021-08-21,2021-08-23,NA
+37153,"Udupi","2976111",45,"Male","ILI","Fever, Cough","-",2021-08-21,2021-08-25,2021-08-25,NA
+37157,"Udupi","2978070",76,"Male","ILI","Fever, Cough","DM, HTN",2021-08-24,2021-08-25,2021-08-25,NA
+37161,"Udupi","2980555",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-23,2021-08-24,2021-08-25,NA
+37172,"Udupi","2965899",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-18,2021-08-25,2021-08-26,NA
+37181,"Udupi","2981169",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-23,2021-08-25,2021-08-26,NA
+37202,"Udupi","2983167",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-27,2021-08-27,2021-08-27,NA
+37210,"Udupi","2977842",35,"Male","ILI","Fever, Cough","-",2021-08-19,2021-08-27,2021-08-28,NA
+37235,"Udupi","2962068",69,"Female","SARI","Fever, Cough, Breathlessness","IHD, CKD",2021-08-25,2021-08-29,2021-08-30,NA
+37245,"Udupi","2980193",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-21,2021-08-28,2021-08-30,NA
+37247,"Udupi","2984320",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-23,2021-08-29,2021-08-30,NA
+37270,"Udupi","2986902",82,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-23,2021-08-30,2021-08-31,NA
+37285,"Udupi","2978902",59,"Female","ILI","Fever","-",2021-08-25,2021-09-01,2021-09-01,NA
+37291,"Udupi","2983695",63,"Female","SARI","Fever, Cough, Breathlessnesss","-",2021-08-25,2021-09-01,2021-09-01,NA
+37294,"Udupi","2990474",96,"Female","SARI","Fever, Cough, Breathlessnesss","-",2021-08-31,2021-08-31,2021-09-01,NA
+37311,"Udupi","2988608",48,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-08-28,2021-09-02,2021-09-02,NA
+37347,"Udupi","2979356",67,"Male","ILI","Cough","-",2021-08-21,2021-09-04,2021-09-04,NA
+37369,"Udupi","2989041",43,"Male","ILI","Fever","-",2021-08-28,2021-09-05,2021-09-06,NA
+37436,"Udupi","2972509",69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-08-18,2021-09-12,2021-09-12,NA
+37483,"Udupi","3001220",67,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-09-08,2021-09-14,2021-09-15,NA
+37531,"Udupi","3006371",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-17,2021-09-18,2021-09-18,NA
+37535,"Udupi","3008356",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-17,2021-09-18,2021-09-18,NA
+37542,"Udupi","2997778",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-06,2021-09-18,2021-09-19,NA
+37550,"Udupi","3007407",80,"Male","ILI","Fever, Cough","-",2021-09-17,2021-09-18,2021-09-19,NA
+37567,"Udupi","3001453",78,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-09,2021-09-19,2021-09-20,NA
+37569,"Udupi","3003683",67,"Male","ILI","Fever, Cough","-",2021-09-13,2021-09-19,2021-09-20,NA
+37570,"Udupi","3003787",77,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-09-13,2021-09-19,2021-09-20,NA
+37575,"Udupi","3006913",64,"Male","SARI","Cough, Breathlessness","-",2021-09-16,2021-09-20,2021-09-20,NA
+37596,"Udupi","100003818",70,"Male","ILI","Fever",NA,2021-08-26,2021-09-21,2021-09-21,NA
+37606,"Udupi","3002271",43,"Male","SARI","Fever, Breathlessness","-",2021-09-11,2021-09-21,2021-09-22,NA
+37613,"Udupi","3009464",80,"Female","ILI","Fever, Cough","-",2021-09-21,2021-09-21,2021-09-22,NA
+37649,"Udupi","3009517",82,"Male","ILI","Fever, Cough","-",2021-09-21,2021-09-24,2021-09-24,NA
+37654,"Udupi","100003912",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-20,2021-09-24,2021-09-24,NA
+37664,"Udupi","3011717",78,"Female","ILI","Fever","-",2021-09-23,2021-09-25,2021-09-25,NA
+37689,"Udupi","3011088",53,"Male","ILI","Fever","-",2021-09-21,2021-09-27,2021-09-27,NA
+37831,"Udupi","3019918",32,"F ","ILI ","Fever, cough ","- ",2021-10-05,2021-10-10,2021-10-10,NA
+37880,"Udupi","100003959",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-10-06,2021-10-14,2021-10-15,NA
+37885,"Udupi","3024542",75,"Male","SARI","Fever, cough, breathlessness","-",2021-10-09,2021-10-14,2021-10-16,NA
+37894,"Udupi","3018485",79,"Female","SARI","Fever, Cough, Breathlessness","-",2021-10-01,2021-10-18,2021-10-18,NA
+37912,"Udupi","3023316",71,"Male","ILI","Cough","-",2021-10-12,2021-10-18,2021-10-19,NA
+37915,"Udupi","100003970",75,"Male","SARI","Fever, Breathlessness","-",2021-10-11,2021-10-19,2021-10-19,NA
+37916,"Udupi","100003974",65,"Male","ILI","Fever","-",2021-10-12,2021-10-19,2021-10-19,NA
+38066,"Udupi","3028554",58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-30,2020-12-02,2021-11-08,NA
+38176,"Udupi","3039927",65,"Male","ILI","Fever","-",2021-12-04,2021-12-04,2021-12-05,NA
+38234,"Udupi","100004056",74,"Female","SARI","Fever, Cough, Breathlessness","-",2021-12-18,2021-12-19,2021-12-19,NA
+38515,"Udupi","3384325",55,"Male","SARI","Cough, Breathlessness","-",2022-01-19,2022-01-20,2022-01-21,NA
+38516,"Udupi","3384328",77,"Male","SARI","Fever, Cough","-",2022-01-18,2022-01-21,2022-01-21,NA
+38519,"Udupi","3431149",71,"Male","SARI","Fever, Breathlessness","-",2022-01-19,2022-01-20,2022-01-21,NA
+38523,"Udupi","100004114",47,"Male","ILI","Fever, Cough","-",2022-01-06,2022-01-19,2022-01-21,NA
+38590,"Udupi","3409986",72,"Male","SARI","Fever, Cough, Breathlessness","COPD",2022-01-21,2022-01-24,2022-01-24,NA
+38602,"Udupi","3551483",99,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2022-01-22,2022-01-22,2022-01-24,NA
+38603,"Udupi","3568067",69,"Female","SARI","Fever, Cough,","DM, HTN, IHD",2022-01-22,2022-01-23,2022-01-24,NA
+38620,"Udupi","3363958",64,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-21,2022-01-24,2022-01-25,NA
+38672,"Udupi","3363958",64,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-21,2022-01-24,2022-01-25,NA
+38725,"Udupi","3553827",55,"Male","SARI","Fever, Breathlessness","-",2022-01-25,2022-01-26,2022-01-27,NA
+38752,"Udupi","3706951",92,"Male","ILI","Fever","-",NA,2022-01-25,2022-01-27,"Died at his residence"
+38818,"Udupi","3463332",75,"Male","SARI","Cough, Breathlessness","-",2022-01-20,2022-01-29,2022-01-29,NA
+38828,"Udupi","3575263",89,"Male","ILI","Fever, Cough","-",2022-01-24,2022-01-28,2022-01-29,NA
+38833,"Udupi","3614444",74,"Male","ILI","Fever, Cough","-",2022-01-22,2022-01-27,2022-01-29,NA
+38838,"Udupi","3660522",57,"Female","ILI","Fever, Cough","-",2022-01-27,2022-01-29,2022-01-29,NA
+38863,"Udupi","3764627",87,"Female","ILI","Fever, Cough","-",2022-01-26,2022-01-26,2022-01-29,NA
+38963,"Udupi","3661218",66,"Male","ILI","Cough","-",2022-01-21,2022-01-31,2022-01-31,NA
+38982,"Udupi","3774762",86,"Male","SARI","Fever","-",2022-01-27,2022-01-29,2022-01-31,NA
+39016,"Udupi","3658352",84,"Female","ILI","Fever","-",2022-01-23,2022-01-24,2022-02-01,NA
+39017,"Udupi","3659218",77,"Female","SARI","Breathlessness","-",2022-01-22,2022-01-25,2022-02-01,NA
+39031,"Udupi","3749941",67,"Female","ILI","Fever, Cough","-",2022-01-27,2022-02-01,2022-02-01,NA
+39041,"Udupi","3795411",48,"Male","ILI","Fever","-",2022-01-28,2022-01-29,2022-02-01,NA
+39116,"Udupi","3896730",73,"Male","ILI","Fever","IHD",2022-02-01,2022-02-02,2022-02-03,NA
+39121,"Udupi","3911430",77,"Male","ILI","Fever","DM, IHD, COPD",2022-02-01,2022-02-03,2022-02-03,NA
+39134,"Udupi","3553828",84,"Male","ILI","Fever, Cough","-",2022-01-22,2022-02-01,2022-02-04,NA
+39171,"Udupi","3924663",74,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-31,2022-02-02,2022-02-04,NA
+39206,"Udupi","3861536",73,"Male","ILI","Fever","-",2022-02-01,2022-02-05,2022-02-05,NA
+39217,"Udupi","3921419",49,"Male","ILI","Cough","-",NA,2022-02-03,2022-02-05,"Brought dead"
+39257,"Udupi","3895358",62,"Male","ILI","Fever, Cough","CA",NA,2022-02-01,2022-02-06,"Died at his residence"
+39268,"Udupi","3943159",49,"Male","ILI","Fever, Cough","-",2022-02-05,2022-02-05,2022-02-06,NA
+39287,"Udupi","3818131",80,"Male","ILI","Cough","-",2022-01-29,2022-02-06,2022-02-07,NA
+39295,"Udupi","3863683",77,"Male","SARI","Cough, Breathlessness","-",2022-01-30,2022-02-06,2022-02-07,NA
+39297,"Udupi","3875601",66,"Male","SARI","Cough, Breathlessness","-",NA,2022-02-05,2022-02-07,"Died at his residence"
+39311,"Udupi","3924670",53,"Male","ILI","Fever","-",2022-02-04,2022-02-05,2022-02-07,NA
+39336,"Udupi","3818131",80,"Male","ILI","Cough","-",2022-01-29,2022-02-06,2022-02-07,NA
+39344,"Udupi","3863683",77,"Male","SARI","Cough, Breathlessness","-",2022-01-30,2022-02-06,2022-02-07,NA
+39346,"Udupi","3875601",66,"Male","SARI","Cough, Breathlessness","-",NA,2022-02-05,2022-02-07,"Died at his residence"
+39360,"Udupi","3924670",53,"Male","ILI","Fever","-",2022-02-04,2022-02-05,2022-02-07,NA
+39503,"Udupi","3693662",67,"Male","ILI","Fever, Cough","-",2022-01-28,2022-02-05,2022-02-12,NA
+39561,"Udupi","3971492",73,"Male","SARI","Fever, Cough, Breathlessness","-",2022-02-11,2022-02-11,2022-02-13,NA
+39579,"Udupi","3969464",85,"Male","ILI","Cough","-",2022-02-10,2022-02-13,2022-02-14,NA
+39588,"Udupi","3978243",82,"Female","SARI","Fever, Breathlessness","-",2022-02-12,2022-02-13,2022-02-14,NA
+39607,"Udupi","3973214",72,"Female","SARI","Fever, Cough, Breathlessness","-",2022-02-09,2022-02-13,2022-02-15,NA
+39614,"Udupi","3979476",87,"Male","SARI","Fever, Breathlessness","-",2022-02-02,2022-02-14,2022-02-15,NA
+39620,"Udupi","3872153",85,"Male","ILI","Cough","-",NA,2022-02-13,2022-02-16,"Died at his Residence"
+39634,"Udupi","3978245",75,"Female","SARI","Breathlessness","-",NA,2022-02-15,2022-02-16,"Brought Dead"
+39646,"Udupi","3923686",84,"Male","ILI","Fever","DM, IHD",2022-02-03,2022-02-07,2022-02-17,NA
+39665,"Udupi","3860084",64,"Male","ILI","Fever","-",2022-01-29,2022-02-01,2022-02-18,NA
+39743,"Udupi","3652015",70,"Male","ILI","Fever, Cough","-",2022-01-21,2022-01-31,NA,NA
+39768,"Udupi","3986730",86,"Male","ILI","Fever, Cough","-",2022-02-19,2022-02-20,NA,NA
+39787,"Udupi","3988285",28,"Female","ILI","Fever","-",2022-02-22,2022-02-23,2022-02-23,NA
+39838,"Udupi","3990941",69,"Female","ILI","Fever","-",2022-02-25,2022-02-27,2022-02-27,NA
+39873,"Udupi","3991889",43,"Female","ILI","Cough","-",2022-02-26,2022-02-27,2022-03-02,NA
+40079,"Udupi","4100418",98,"Male","ILI","Fever","-",2022-08-23,2022-08-26,2022-08-30,NA
+40081,"Udupi","4091194",90,"Male","ILI","Fever, Cough","AKI, TB",2022-08-15,2022-08-28,2022-08-31,NA
+40099,"Udupi","4101048",69,"Male","SARI","Breathlessness","DM, HTN",2022-08-03,2022-09-08,2022-09-12,NA

@@ -1,0 +1,58 @@
+###############################################################################
+## Title:                                                                    ##
+## Input: mediadata/plusNew1.xlsx                                            ##
+## Output: mediadata/sandipanclean.csv                                       ##
+## Date Modified: 2nd May 2024                                               ##
+###############################################################################
+
+
+#include Libraries
+library(readxl)
+library(readr)
+
+# Set current working directory
+setwd("/opt/lampp/htdocs/covid19-data-portal/Deceased_Working/wwwdec/")
+
+#read data
+#data<- read_excel("summertime/wwwdec/mediadata/sandipan.xlsx")
+data<- read_excel("mediadata/plusNew1.xlsx")
+#data<- read_csv("../mediadata/plusNew.csv")
+
+
+#View(data)
+#Converting character to date and then formatting it
+data$DOA <- as.Date(data$DOA, format = "%d-%m-%Y")
+data$DOA <- format(as.Date(data$DOA),"%Y-%m-%d")
+
+data$DOD <- as.Date(data$DOD, format = "%d-%m-%Y")
+data$DOD <- format(as.Date(data$DOD),"%Y-%m-%d")
+
+data$`MB Date` <- as.Date(data$`MB Date`, format = "%d-%m-%Y")
+data$`MB Date` <- format(as.Date(data$`MB Date`),"%Y-%m-%d")
+
+
+write.csv(x=data,file="mediadata/sandipanclean.csv",row.names = FALSE)
+
+
+#calculating differences between dates
+data$Difference1=difftime(data$DOD,data$DOA,units = "days")
+data$Difference2=difftime(data$`MB Date`,data$DOD,units = "days")
+
+#Create data frames:positive, negatives,na
+
+na1= subset(data,is.na(data$Difference1))
+na2=subset(data,is.na(data$Difference2))
+large1 = subset(data,as.numeric(data$Difference1)>61)
+large2 = subset(data,as.numeric(data$Difference2)>91)
+negative=subset(data,as.numeric(data$Difference1)<0)
+negative1=subset(data, as.numeric(data$Difference2)< 0)
+
+##writing out dataframe
+write.csv(x=negative,file="mediadata/negative.csv",row.names = FALSE)
+write.csv(x=negative1,file = "mediadata/negative1.csv",row.names = FALSE)
+write.csv(x=na1,file = "mediadata/na1.csv",row.names = FALSE)
+write.csv(x=na2,file = "mediadata/na2.csv",row.names = FALSE)
+write.csv(x=large1,file = "mediadata/large1.csv",row.names = FALSE)
+write.csv(x=large2,file = "mediadata/large2.csv",row.names = FALSE)
+
+

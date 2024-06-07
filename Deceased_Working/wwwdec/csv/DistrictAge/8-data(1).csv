@@ -1,0 +1,457 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+2,"Chikkaballapura","53",70,"Female","Travel history to Mecca",NA,NA,NA,NA,2020-03-26,NA
+11,"Chikkaballapura","250",65,"Male",NA,"H1N1 positive & COPD with obstructive sleep apnea","DM & HTN",2020-04-13,2020-04-15,2020-04-15,NA
+47,"Chikkaballapura","2762",50,"Female",NA,"RTA Head Injury",NA,2020-05-24,2020-05-29,2020-05-29,NA
+271,"Chikkaballapura","9915",58,"Male","ILI","Fever & Cough & Cold","DM, HTN",2020-06-23,2020-06-29,2020-07-03,NA
+274,"Chikkaballapura","13258",55,"Male","Contact under tracing","Asymptomatic","CA PATIENT",2020-06-28,2020-06-28,2020-07-03,NA
+279,"Chikkaballapura","15395",60,"Male","Cardiac Patient","Fever","IHD",NA,2020-06-30,2020-07-03,"Brought dead"
+348,"Chikkaballapura","19824",58,"Female","SARI","Cold & Cough & Breathlessness","DM & COPD",2020-07-03,2020-07-05,2020-07-05,NA
+386,"Chikkaballapura","23622",60,"Male","SARI","Cough & Fever & Breathlessness","DM",2020-07-05,2020-07-05,2020-07-06,NA
+440,"Chikkaballapura","15400",57,"Male","SARI","_","HTN, OBESITY",2020-06-30,2020-07-07,2020-07-08,NA
+453,"Chikkaballapura","23624",50,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, CKD",2020-07-05,2020-07-06,2020-07-08,NA
+533,"Chikkaballapura","31133",50,"Female","SARI","Breathlessness","-",2020-07-07,2020-07-08,2020-07-10,NA
+534,"Chikkaballapura","31152",57,"Male","SARI","Breathlessness","HTN",2020-07-07,2020-07-08,2020-07-10,NA
+599,"Chikkaballapura","35803",46,"Female","Contact under tracing","-","-",NA,2020-07-05,2020-07-11,"Brought dead"
+600,"Chikkaballapura","35808",26,"Female","Contact under tracing","Hypotension","-",2020-07-10,2020-07-10,2020-07-11,NA
+837,"Chikkaballapura","25806",85,"Female","SARI","Breathlessness","DM, HTN",2020-07-07,2020-07-12,2020-07-15,NA
+910,"Chikkaballapura","45257",68,"Male","Travel history Domestic","-","DM, HTN",2020-07-12,2020-07-13,2020-07-15,NA
+1078,"Chikkaballapura","45088",50,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-14,2020-07-14,2020-07-17,NA
+1139,"Chikkaballapura","23628",59,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-05,2020-07-16,2020-07-18,NA
+1447,"Chikkaballapura","72991",35,"Male","SARI","Breathlessness","HTN",NA,2020-07-18,2020-07-21,"Died at his residence"
+1458,"Chikkaballapura","48695",65,"Male","SARI","Breathlessness","DM, HTN",2020-07-15,2020-07-16,2020-07-22,NA
+1495,"Chikkaballapura","76129",54,"Male","Contact under tracing","-","-",2020-07-18,2020-07-18,2020-07-22,NA
+1558,"Chikkaballapura","61302",60,"Male","SARI","Breathlessness","DM, HTN",2020-07-18,2020-07-18,2020-07-23,NA
+1565,"Chikkaballapura","71749",62,"Male","SARI","Breathlessness","-",2020-07-15,2020-07-16,2020-07-23,NA
+1587,"Chikkaballapura","78278",70,"Male","Contact under tracing","-","DM, HTN",2020-07-17,2020-07-17,2020-07-23,NA
+1654,"Chikkaballapura","72396",58,"Male","ILI","Fever & Cough","DM, HTN",2020-07-19,2020-07-23,2020-07-24,NA
+1675,"Chikkaballapura","78823",23,"Male","SARI","Fever & Breathlessness","Obesity",2020-07-21,2020-07-22,2020-07-24,NA
+1681,"Chikkaballapura","79575",63,"Male","SARI","Fever & Breathlessness","DM, HTN",NA,2020-07-19,2020-07-23,NA
+1734,"Chikkaballapura","63605",59,"Male","Contact under tracing","-","Cancer",2020-07-16,2020-07-24,2020-07-25,NA
+1754,"Chikkaballapura","85645",70,"Female","ILI","-","DM, HTN",NA,2020-07-21,2020-07-23,NA
+1783,"Chikkaballapura","39838",65,"Female","SARI","Fever & Breathlessness","-",2020-07-12,2020-07-18,2020-07-26,NA
+1819,"Chikkaballapura","79488",45,"Female","SARI","Breathlessness","-",2020-07-21,2020-07-25,2020-07-26,NA
+1976,"Chikkaballapura","78750",48,"Male","SARI","Breathlessness","HTN",2020-07-21,2020-07-26,2020-07-28,NA
+2005,"Chikkaballapura","97180",31,"Female","SARI","Breathlessness","DM, HTN",2020-07-20,2020-07-25,2020-07-28,NA
+2016,"Chikkaballapura","102521",50,"Female","SARI","Breathlessness","DM, HTN",2020-07-24,2020-07-26,2020-07-28,NA
+2128,"Chikkaballapura","114092",58,"Male","SARI","Breathlessness","DM, HTN",NA,2020-07-28,2020-07-29,"Brought dead"
+2340,"Chikkaballapura","109959",45,"Male","Contact under tracing","-","-",2020-07-27,2020-07-27,2020-08-01,NA
+2465,"Chikkaballapura","132104",75,"Male","Contact under tracing","-","Asthma",2020-07-31,2020-07-31,2020-08-02,NA
+2529,"Chikkaballapura","117181",64,"Male","Contact under tracing","Asymptomatic","DM, HTN, Asthma",2020-07-28,2020-08-01,2020-08-03,NA
+2544,"Chikkaballapura","128355",55,"Male","ILI","Fever","-",2020-07-30,2020-08-01,2020-08-03,NA
+2618,"Chikkaballapura","114922",40,"Female","SARI","Breathlessness","DM",2020-07-28,2020-08-01,2020-08-04,NA
+2619,"Chikkaballapura","115084",63,"Male","SARI","Breathlessness","DM",2020-07-30,2020-08-01,2020-08-04,NA
+2841,"Chikkaballapura","141770",62,"Female","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-06,NA
+2965,"Chikkaballapura","160272",60,"Male","SARI","Breathlessness","DM",2020-08-04,2020-08-05,2020-08-07,NA
+3252,"Chikkaballapura","164718",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-05,2020-08-07,2020-08-10,NA
+3335,"Chikkaballapura","146623",42,"Female","Contact under tracing","-","HTN",2020-08-03,2020-08-10,2020-08-11,NA
+3372,"Chikkaballapura","187824",80,"Female","SARI","Breathlessness","HTN",2020-08-09,2020-08-10,2020-08-11,NA
+3432,"Chikkaballapura","150999",92,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-08-03,2020-08-11,2020-08-12,NA
+3484,"Chikkaballapura","196253",45,"Male","ILI","-","-",NA,2020-08-10,2020-08-12,"Brought dead"
+3570,"Chikkaballapura","186558",60,"Male","SARI","Breathlessness","DM, HTN",2020-08-09,2020-08-11,2020-08-13,NA
+3788,"Chikkaballapura","208494",34,"Male","SARI","Breathlessness","-",2020-08-03,2020-08-13,2020-08-15,NA
+3871,"Chikkaballapura","149591",50,"Male","SARI","Breathlessness","TB",NA,2020-08-16,2020-08-16,NA
+4340,"Chikkaballapura","178759",52,"Female","SARI","Breathlessness","DM, HTN",2020-08-08,2020-08-17,2020-08-20,NA
+4361,"Chikkaballapura","214673",40,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-19,2020-08-20,NA
+4380,"Chikkaballapura","234825",45,"Female","SARI","Breathlessness","-",2020-08-15,2020-08-18,2020-08-20,NA
+4632,"Chikkaballapura","231798",70,"Male","ILI","Fever","DM, HTN, Asthma",2020-08-15,2020-08-19,2020-08-23,NA
+4635,"Chikkaballapura","237540",55,"Female","SARI","Breathlessness","_",2020-08-16,2020-08-20,2020-08-23,NA
+4756,"Chikkaballapura","262883",37,"Male","Contact under tracing","-","-",2020-08-19,2020-08-22,2020-08-24,NA
+4787,"Chikkaballapura","283634",65,"Male","Contact under tracing","-","DM",NA,2020-08-22,2020-08-24,"Brought dead"
+5044,"Chikkaballapura","280069",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-21,2020-08-22,2020-08-26,NA
+5059,"Chikkaballapura","289164",57,"Male","SARI","Breathlessness","DM, HTN",NA,2020-08-22,2020-08-26,"Brought dead"
+5264,"Chikkaballapura","238068",50,"Female","SARI","Fever, Breathlessness","-",2020-08-16,2020-08-25,2020-08-28,NA
+5532,"Chikkaballapura","286601",35,"Female","SARI","Breathlessness","DM",2020-08-22,2020-08-24,2020-08-30,NA
+5574,"Chikkaballapura","334976",50,"Male","SARI","Breathlessness","DM",2020-08-28,2020-08-29,2020-08-30,NA
+5649,"Chikkaballapura","315124",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, Asthma",2020-08-26,2020-08-30,2020-08-31,NA
+5764,"Chikkaballapura","293598",82,"Male","SARI","Breathlessness","DM, HTN",2020-08-24,2020-08-31,2020-09-01,NA
+5801,"Chikkaballapura","340810",50,"Male","SARI","Breathlessness","DM, Asthma",NA,2020-08-30,2020-09-01,"Brought dead"
+6146,"Chikkaballapura","371656",45,"Male","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-02,2020-09-04,NA
+6188,"Chikkaballapura","299703",48,"Male","SARI","Breathlessness","DM, CKD",2020-08-24,2020-08-24,2020-09-05,NA
+6324,"Chikkaballapura","309486",45,"Female","SARI","Breathlessness","-",2020-08-25,2020-08-25,2020-09-06,NA
+6492,"Chikkaballapura","371135",52,"Female","SARI","Breathlessness","-",2020-09-03,2020-09-06,2020-09-07,NA
+6932,"Chikkaballapura","440479",49,"Female","SARI","Breathlessness","-",NA,2020-09-09,2020-09-10,"Brought dead"
+7231,"Chikkaballapura","423908",60,"Male","SARI","Breathlessness","DM, HTN",2020-09-07,2020-09-12,2020-09-13,NA
+7319,"Chikkaballapura","414916",26,"Female","Contact under tracing","Breathlessness","-",2020-09-06,2020-09-12,2020-09-14,NA
+7345,"Chikkaballapura","449367",60,"Female","Contact under tracing","Breathlessness","COPD",2020-09-09,2020-09-11,2020-09-14,NA
+7503,"Chikkaballapura","414927",60,"Male","SARI","Breathlessness","DM, HTN",2020-09-06,2020-09-11,2020-09-16,NA
+7539,"Chikkaballapura","474816",55,"Male","SARI","Breathlessness","DM",2020-09-13,2020-09-14,2020-09-16,NA
+8049,"Chikkaballapura","428714",50,"Male","SARI","Breathlessness","-",2020-09-08,2020-09-19,2020-09-21,NA
+8103,"Chikkaballapura","500637",42,"Male","SARI","Breathlessness","-",2020-09-14,2020-09-16,2020-09-21,NA
+8200,"Chikkaballapura","490448",65,"Male","SARI","Breathlessness","DM",2020-09-15,2020-09-19,2020-09-22,NA
+8451,"Chikkaballapura","489733",65,"Male","ILI","Fever, Cough","-",2020-09-15,2020-09-26,2020-09-26,NA
+8505,"Chikkaballapura","559478",40,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-23,2020-09-26,2020-09-26,NA
+8639,"Chikkaballapura","577795",81,"Female","Contact under tracing","Fever, Breathlessness","-",2020-09-24,2020-09-28,2020-09-28,NA
+8698,"Chikkaballapura","449365",45,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-09,2020-09-29,2020-09-29,NA
+8975,"Chikkaballapura","575974",55,"Male","SARI","Cough, Breathlessness","DM",2020-09-26,2020-09-30,2020-10-01,NA
+9687,"Chikkaballapura","480942",86,"Male","SARI","Breathlessness","DM, HTN",2020-09-14,2020-10-07,2020-10-09,NA
+9720,"Chikkaballapura","589651",48,"Male","SARI","Breathlessness","-",2020-09-26,2020-10-07,2020-10-09,NA
+9737,"Chikkaballapura","614222",80,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-09-29,2020-10-07,2020-10-09,NA
+9774,"Chikkaballapura","672310",30,"Male","ILI","Fever, Cough","-",2020-10-05,2020-10-06,2020-10-09,NA
+9932,"Chikkaballapura","646727",52,"Male","SARI","Breathlessness","-",2020-10-02,2020-10-10,2020-10-11,NA
+9965,"Chikkaballapura","702670",40,"Female","Contact under tracing","Breathlessness","-",2020-10-08,2020-10-10,2020-10-11,NA
+9991,"Chikkaballapura","615381",50,"Male","SARI","Breathlessness","-",2020-09-29,2020-10-10,2020-10-12,NA
+10038,"Chikkaballapura","723546",50,"Male","SARI","Breathlessness","-",NA,2020-10-09,2020-10-12,"Brought dead"
+10172,"Chikkaballapura","684715",74,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-05,2020-10-13,2020-10-14,NA
+10234,"Chikkaballapura","674297",55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-07,2020-10-14,2020-10-15,NA
+10242,"Chikkaballapura","686481",61,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-06,2020-10-14,2020-10-15,NA
+10272,"Chikkaballapura","714249",90,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-28,2020-10-14,2020-10-15,NA
+10276,"Chikkaballapura","724300",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-21,2020-10-14,2020-10-15,NA
+10317,"Chikkaballapura","671342",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-05,2020-10-15,2020-10-16,NA
+10361,"Chikkaballapura","755259",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-12,2020-10-14,2020-10-16,NA
+10435,"Chikkaballapura","767881",38,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-15,2020-10-17,NA
+10505,"Chikkaballapura","706928",47,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-08,2020-10-17,2020-10-19,NA
+10520,"Chikkaballapura","730923",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-11,2020-10-17,2020-10-19,NA
+10752,"Chikkaballapura","764141",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-15,2020-10-20,2020-10-22,NA
+10809,"Chikkaballapura","761026",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-12,2020-10-22,2020-10-23,NA
+10824,"Chikkaballapura","794285",82,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-16,2020-10-21,2020-10-23,NA
+11026,"Chikkaballapura","777201",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-17,2020-10-28,2020-10-28,NA
+11032,"Chikkaballapura","794738",65,"Female","SARI","Fever, Cough, Breathlessness","DM, COPD",NA,2020-10-25,2020-10-28,"Brought dead"
+11131,"Chikkaballapura","813253",74,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2020-10-25,2020-10-30,2020-10-30,NA
+11213,"Chikkaballapura","816556",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-25,2020-10-29,2020-11-02,NA
+11418,"Chikkaballapura","859626",58,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-07,2020-11-08,2020-11-09,NA
+11612,"Chikkaballapura","880406",83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-11-05,2020-11-17,2020-11-19,NA
+11875,"Chikkaballapura","896738",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-28,2020-12-05,2020-12-08,NA
+11963,"Chikkaballapura","915262",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-12,2020-12-13,2020-12-15,NA
+11974,"Chikkaballapura","913852",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-12,2020-12-15,2020-12-17,NA
+12091,"Chikkaballapura","929830",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-26,2020-12-28,2021-01-01,NA
+12352,"Chikkaballapura","965097",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-02-28,2021-03-04,2021-03-05,NA
+12794,"Chikkaballapura","1036926",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-03,2021-04-07,2021-04-09,NA
+12928,"Chikkaballapura","1061843",70,"Female","ILI","Fever, Cough","-",2021-04-06,2021-04-09,2021-04-12,NA
+13127,"Chikkaballapura","1039998",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-02,2021-04-13,2021-04-16,NA
+13211,"Chikkaballapura","1064881",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-08,2021-04-15,2021-04-17,NA
+13451,"Chikkaballapura","1124481",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-12,2021-04-17,2021-04-19,NA
+13483,"Chikkaballapura","1177111",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-17,2021-04-19,NA
+13513,"Chikkaballapura","1061853",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-08,2021-04-16,2021-04-20,NA
+13734,"Chikkaballapura","1189272",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-20,2021-04-21,NA
+13800,"Chikkaballapura","1121875",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-11,2021-04-19,2021-04-22,NA
+13812,"Chikkaballapura","1138842",54,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-15,2021-04-20,2021-04-22,NA
+13964,"Chikkaballapura","1127355",97,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-14,2021-04-23,2021-04-23,NA
+14027,"Chikkaballapura","1206073",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-17,2021-04-21,2021-04-23,NA
+14147,"Chikkaballapura","1136477",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-15,2021-04-23,2021-04-24,NA
+14727,"Chikkaballapura","1287742",72,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-24,2021-04-27,NA
+14953,"Chikkaballapura","1349339",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-26,2021-04-28,NA
+15125,"Chikkaballapura","1242279",45,"Male","SARI","Fever, cough, breathlessness","-",2021-04-20,2021-04-22,2021-04-29,NA
+15129,"Chikkaballapura","1253458",68,"Male","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-04-22,2021-04-29,NA
+15137,"Chikkaballapura","1264020",67,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-21,2021-04-23,2021-04-29,NA
+15335,"Chikkaballapura","1211754",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-19,2021-04-26,2021-04-30,NA
+15345,"Chikkaballapura","1242276",46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-26,2021-04-30,NA
+15586,"Chikkaballapura","1242277",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-26,2021-05-01,NA
+15837,"Chikkaballapura","1279623",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-28,2021-05-02,NA
+15840,"Chikkaballapura","1283206",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-28,2021-05-02,NA
+15853,"Chikkaballapura","1324586",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-29,2021-05-02,NA
+16080,"Chikkaballapura","1344072",66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-04-29,2021-05-03,NA
+16093,"Chikkaballapura","1360295",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-29,2021-05-03,NA
+16096,"Chikkaballapura","1372730",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-28,2021-05-03,NA
+16116,"Chikkaballapura","1401504",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-29,2021-05-03,NA
+16129,"Chikkaballapura","1425364",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-27,2021-05-03,NA
+16340,"Chikkaballapura","1331303",38,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-28,2021-05-04,NA
+16341,"Chikkaballapura","1332663",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-28,2021-05-04,NA
+16362,"Chikkaballapura","1389058",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-25,2021-05-04,NA
+16635,"Chikkaballapura","1235919",86,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-05-01,2021-05-05,NA
+16686,"Chikkaballapura","1389079",41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-30,2021-05-05,NA
+16702,"Chikkaballapura","1422747",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-05-02,2021-05-05,NA
+16788,"Chikkaballapura","1590123",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-02,2021-05-05,NA
+16802,"Chikkaballapura","1620900",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-03,2021-05-05,NA
+16981,"Chikkaballapura","1419832",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HN",2021-04-26,2021-05-03,2021-05-06,NA
+17024,"Chikkaballapura","1490593",46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-03,2021-05-06,NA
+17029,"Chikkaballapura","1498999",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HN",2021-04-28,2021-05-03,2021-05-06,NA
+17352,"Chikkaballapura","1334600",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-05-02,2021-05-07,NA
+17370,"Chikkaballapura","1354218",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-05-03,2021-05-07,NA
+17419,"Chikkaballapura","1427843",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-05-04,2021-05-07,NA
+17447,"Chikkaballapura","1460055",38,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-05-03,2021-05-07,NA
+17455,"Chikkaballapura","1465776",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-03,2021-05-07,NA
+17494,"Chikkaballapura","1508257",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-07,NA
+17536,"Chikkaballapura","1551409",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-07,NA
+18004,"Chikkaballapura","1425324",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-26,2021-05-04,2021-05-08,NA
+18039,"Chikkaballapura","1496239",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-05,2021-05-08,NA
+18100,"Chikkaballapura","1596474",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-04,2021-05-08,NA
+18135,"Chikkaballapura","1654644",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-08,NA
+18142,"Chikkaballapura","1664801",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-08,NA
+18144,"Chikkaballapura","1668509",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-08,NA
+18458,"Chikkaballapura","1482438",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-09,NA
+18503,"Chikkaballapura","1551483",47,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-05,2021-05-09,NA
+18571,"Chikkaballapura","1641048",51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-05,2021-05-09,NA
+18635,"Chikkaballapura","1752704",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-05,2021-05-09,NA
+18865,"Chikkaballapura","1380386",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-05-05,2021-05-10,NA
+19157,"Chikkaballapura","1668519",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-05,2021-05-10,NA
+19220,"Chikkaballapura","1779501",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-06,2021-05-10,NA
+19262,"Chikkaballapura","1829644",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-10,NA
+19274,"Chikkaballapura","1850972",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-10,NA
+19571,"Chikkaballapura","1578847",50,"Male","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-07,2021-05-11,NA
+19572,"Chikkaballapura","1582681",66,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-30,2021-05-07,2021-05-11,NA
+19630,"Chikkaballapura","1737321",50,"Male","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-07,2021-05-11,NA
+19772,"Chikkaballapura","1902584",55,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-11,NA
+19812,"Chikkaballapura","1959672",25,"Male","SARI","Fever, cough, breathlessness","-",2021-05-08,2021-05-08,2021-05-11,NA
+19813,"Chikkaballapura","1959718",78,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-08,2021-05-09,2021-05-11,NA
+19976,"Chikkaballapura","1671893",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-09,2021-05-12,NA
+20020,"Chikkaballapura","1710678",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-09,2021-05-12,NA
+20060,"Chikkaballapura","1749217",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-08,2021-05-12,NA
+20095,"Chikkaballapura","1783125",42,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-08,2021-05-12,NA
+20153,"Chikkaballapura","1822458",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-12,NA
+20193,"Chikkaballapura","1872229",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-09,2021-05-12,NA
+20460,"Chikkaballapura","1593148",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-07,2021-05-13,NA
+20493,"Chikkaballapura","1671894",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-07,2021-05-13,NA
+20498,"Chikkaballapura","1678261",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-07,2021-05-13,NA
+20508,"Chikkaballapura","1710694",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-07,2021-05-13,NA
+20528,"Chikkaballapura","1756179",25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-07,2021-05-13,NA
+20547,"Chikkaballapura","1801626",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-08,2021-05-13,NA
+20813,"Chikkaballapura","1671847",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-11,2021-05-14,NA
+20884,"Chikkaballapura","1864394",38,"Female","SARI","Fever, Cough, Breathlessness","_",2021-05-06,2021-05-08,2021-05-14,NA
+20910,"Chikkaballapura","1926360",35,"Female","SARI","Fever, Cough, Breathlessness","_",2021-05-07,2021-05-07,2021-05-14,NA
+20925,"Chikkaballapura","1959649",36,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-08,2021-05-11,2021-05-14,NA
+20945,"Chikkaballapura","1983939",43,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-08,2021-05-14,NA
+21145,"Chikkaballapura","1596467",59,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-11,2021-05-15,NA
+21152,"Chikkaballapura","1620932",57,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-01,2021-05-10,2021-05-15,NA
+21192,"Chikkaballapura","1760621",42,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-04,2021-05-11,2021-05-15,NA
+21215,"Chikkaballapura","1822452",36,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-05,2021-05-12,2021-05-15,NA
+21223,"Chikkaballapura","1842074",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-10,2021-05-15,NA
+21538,"Chikkaballapura","1586371",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-10,2021-05-16,NA
+21570,"Chikkaballapura","1718536",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-05-16,NA
+21574,"Chikkaballapura","1734471",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-07,2021-05-16,NA
+21610,"Chikkaballapura","1868339",49,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-06,2021-05-16,NA
+21663,"Chikkaballapura","1977620",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-16,NA
+21697,"Chikkaballapura","2038440",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-16,NA
+22022,"Chikkaballapura","1801622",47,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-12,2021-05-17,NA
+22027,"Chikkaballapura","1826103",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-12,2021-05-17,NA
+22035,"Chikkaballapura","1856891",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-09,2021-05-17,NA
+22040,"Chikkaballapura","1872192",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-09,2021-05-17,NA
+22045,"Chikkaballapura","1890044",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-17,NA
+22129,"Chikkaballapura","2046180",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-09,2021-05-17,NA
+22529,"Chikkaballapura","1714493",46,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-12,2021-05-18,NA
+22537,"Chikkaballapura","1739269",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-12,2021-05-18,NA
+22584,"Chikkaballapura","1905079",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-12,2021-05-18,NA
+22614,"Chikkaballapura","1969633",56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-12,2021-05-18,NA
+22643,"Chikkaballapura","2043206",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-18,NA
+22969,"Chikkaballapura","1710725",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-15,2021-05-19,NA
+22972,"Chikkaballapura","1714513",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-15,2021-05-19,NA
+23102,"Chikkaballapura","2054788",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-15,2021-05-19,NA
+23103,"Chikkaballapura","2054797",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-19,NA
+23133,"Chikkaballapura","2097483",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-19,NA
+23134,"Chikkaballapura","2097493",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-19,NA
+23159,"Chikkaballapura","2141413",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-16,2021-05-19,NA
+23185,"Chikkaballapura","2162933",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-16,2021-05-19,NA
+23244,"Chikkaballapura","2239886",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-19,NA
+23522,"Chikkaballapura","1807527",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-14,2021-05-20,NA
+23569,"Chikkaballapura","1926392",73,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-14,2021-05-20,NA
+23582,"Chikkaballapura","1966503",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-13,2021-05-20,NA
+23672,"Chikkaballapura","2123896",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-16,2021-05-20,NA
+23678,"Chikkaballapura","2127123",42,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-16,2021-05-20,NA
+23936,"Chikkaballapura","1905069",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-16,2021-05-21,NA
+23970,"Chikkaballapura","2010330",37,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-16,2021-05-21,NA
+24026,"Chikkaballapura","2133695",40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-21,NA
+24027,"Chikkaballapura","2137552",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-16,2021-05-21,NA
+24028,"Chikkaballapura","2137603",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-21,NA
+24075,"Chikkaballapura","2209827",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-16,2021-05-21,NA
+24471,"Chikkaballapura","2022051",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-17,2021-05-22,NA
+24472,"Chikkaballapura","2022085",95,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-17,2021-05-22,NA
+24494,"Chikkaballapura","2123885",33,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-17,2021-05-22,NA
+24515,"Chikkaballapura","2175981",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-18,2021-05-22,NA
+24516,"Chikkaballapura","2176019",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-18,2021-05-22,NA
+24528,"Chikkaballapura","2205482",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-18,2021-05-22,NA
+24551,"Chikkaballapura","2269605",89,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-17,2021-05-22,NA
+24556,"Chikkaballapura","2274778",48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-18,2021-05-22,NA
+24572,"Chikkaballapura","2302909",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-18,2021-05-22,NA
+24962,"Chikkaballapura","2043197",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-23,NA
+24971,"Chikkaballapura","2051987",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-18,2021-05-23,NA
+24974,"Chikkaballapura","2054763",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-16,2021-05-23,NA
+25053,"Chikkaballapura","2172415",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-17,2021-05-23,NA
+25056,"Chikkaballapura","2179485",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-18,2021-05-23,NA
+25079,"Chikkaballapura","2205506",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-16,2021-05-23,NA
+25151,"Chikkaballapura","2301155",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-05-23,NA
+25548,"Chikkaballapura","2083661",20,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-24,NA
+25580,"Chikkaballapura","2168932",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-19,2021-05-24,NA
+25603,"Chikkaballapura","2215598",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-19,2021-05-24,NA
+25611,"Chikkaballapura","2242253",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-21,2021-05-24,NA
+25653,"Chikkaballapura","2301173",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-24,NA
+25658,"Chikkaballapura","2307832",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-19,2021-05-24,NA
+26162,"Chikkaballapura","2141385",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-21,2021-05-25,NA
+26188,"Chikkaballapura","2205521",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-21,2021-05-25,NA
+26733,"Chikkaballapura","2160804",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-20,2021-05-26,NA
+26758,"Chikkaballapura","2254304",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-19,2021-05-26,NA
+26768,"Chikkaballapura","2279383",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-18,2021-05-26,NA
+26833,"Chikkaballapura","2398082",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-05-26,NA
+27149,"Chikkaballapura","2165966",50,"Male","SARI","Fever, cough, breathlessness","-",2021-05-13,2021-05-21,2021-05-27,NA
+27198,"Chikkaballapura","2254285",65,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-27,NA
+27211,"Chikkaballapura","2276860",75,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-16,2021-05-23,2021-05-27,NA
+27216,"Chikkaballapura","2283801",45,"Female","SARI","Fever, cough, breathlessness","-",2021-05-16,2021-05-17,2021-05-27,NA
+27231,"Chikkaballapura","2303009",30,"Male","SARI","Fever, cough, breathlessness","-",2021-05-17,2021-05-23,2021-05-27,NA
+27238,"Chikkaballapura","2312164",56,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-17,2021-05-23,2021-05-27,NA
+27261,"Chikkaballapura","2340198",40,"Male","SARI","Fever, cough, breathlessness","-",2021-05-18,2021-05-24,2021-05-27,NA
+27318,"Chikkaballapura","2430650",51,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-21,2021-05-24,2021-05-27,NA
+27322,"Chikkaballapura","2432841",55,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-27,NA
+27330,"Chikkaballapura","2440985",85,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-27,NA
+27347,"Chikkaballapura","2460329",90,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-22,2021-05-24,2021-05-27,NA
+27564,"Chikkaballapura","2200170",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-25,2021-05-28,NA
+27589,"Chikkaballapura","2242244",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-24,2021-05-28,NA
+27643,"Chikkaballapura","2328730",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-24,2021-05-28,NA
+27645,"Chikkaballapura","2330705",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-24,2021-05-28,NA
+27668,"Chikkaballapura","2374937",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-28,NA
+27700,"Chikkaballapura","2440992",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-28,NA
+27719,"Chikkaballapura","2473570",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-25,2021-05-28,NA
+27720,"Chikkaballapura","2473590",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-25,2021-05-28,NA
+28087,"Chikkaballapura","2364788",38,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-26,2021-05-29,NA
+28138,"Chikkaballapura","2430711",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-23,2021-05-29,NA
+28139,"Chikkaballapura","2430727",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-05-29,NA
+28143,"Chikkaballapura","2432783",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-23,2021-05-29,NA
+28161,"Chikkaballapura","2453228",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-25,2021-05-29,NA
+28196,"Chikkaballapura","2490871",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-05-29,NA
+28593,"Chikkaballapura","2473602",90,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-25,2021-05-30,NA
+28930,"Chikkaballapura","2348884",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-26,2021-05-31,NA
+28965,"Chikkaballapura","2457011",26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-27,2021-05-31,NA
+28972,"Chikkaballapura","2473600",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-22,2021-05-31,NA
+29014,"Chikkaballapura","2534412",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-05-31,NA
+29027,"Chikkaballapura","1813282",52,"Male","SARI","Breathlessness","HTN",NA,2021-05-22,2021-05-31,"Died at his residence"
+29378,"Chikkaballapura","2328683",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-30,2021-06-01,NA
+29420,"Chikkaballapura","2440986",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-29,2021-06-01,NA
+29422,"Chikkaballapura","2442768",25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-30,2021-06-01,NA
+29441,"Chikkaballapura","2478390",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-29,2021-06-01,NA
+29447,"Chikkaballapura","2488788",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-29,2021-06-01,NA
+29818,"Chikkaballapura","2344256",70,"Female","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-31,2021-06-02,NA
+29821,"Chikkaballapura","2351487",37,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-31,2021-06-02,NA
+29833,"Chikkaballapura","2393670",30,"Male","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-29,2021-06-02,NA
+29882,"Chikkaballapura","2488776",50,"Male","ILI","Fever, Cough","-",2021-05-23,2021-05-29,2021-06-02,NA
+29905,"Chikkaballapura","2520623",85,"Male","ILI","Fever","-",2021-05-24,2021-05-30,2021-06-02,NA
+29944,"Chikkaballapura","2578324",45,"Male","ILI","Cough","-",2021-05-27,2021-05-30,2021-06-02,NA
+29968,"Chikkaballapura","2621778",40,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-02,NA
+29987,"Chikkaballapura","2639547",60,"Male","ILI","Fever, Cough","-",2021-05-30,2021-06-01,2021-06-02,NA
+30300,"Chikkaballapura","2346399",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-31,2021-06-03,NA
+30402,"Chikkaballapura","2536477",28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-01,2021-06-03,NA
+30413,"Chikkaballapura","2553800",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-06-01,2021-06-03,NA
+30484,"Chikkaballapura","2650747",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-01,2021-06-03,NA
+30726,"Chikkaballapura","2398090",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-06-03,2021-06-04,NA
+30773,"Chikkaballapura","2529969",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-01,2021-06-04,NA
+30787,"Chikkaballapura","2551696",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-01,2021-06-04,NA
+30864,"Chikkaballapura","2667094",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-04,NA
+31147,"Chikkaballapura","2553799",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-03,2021-06-05,NA
+31167,"Chikkaballapura","2593942",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-05,2021-06-05,NA
+31210,"Chikkaballapura","2659571",72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-05,NA
+31211,"Chikkaballapura","2659579",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-05,NA
+31485,"Chikkaballapura","2578342",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-06,2021-06-06,NA
+31852,"Chikkaballapura","2665219",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-06,2021-06-07,NA
+31865,"Chikkaballapura","2675460",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-06,2021-06-07,NA
+31973,"Chikkaballapura","2537983",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-06-08,2021-06-08,NA
+32001,"Chikkaballapura","2618501",44,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-06,2021-06-08,NA
+32009,"Chikkaballapura","2633644",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-06,2021-06-08,NA
+32089,"Chikkaballapura","2741757",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-06,2021-06-08,NA
+32099,"Chikkaballapura","2751840",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-07,2021-06-08,NA
+32171,"Chikkaballapura","2605291",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-08,2021-06-09,NA
+32342,"Chikkaballapura","2580351",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-08,2021-06-10,NA
+32390,"Chikkaballapura","2671169",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-08,2021-06-10,NA
+32395,"Chikkaballapura","2673888",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-08,2021-06-10,NA
+32422,"Chikkaballapura","2707064",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-08,2021-06-10,NA
+32470,"Chikkaballapura","2763367",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-09,2021-06-10,NA
+32481,"Chikkaballapura","2768525",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-08,2021-06-10,NA
+32540,"Chikkaballapura","2615202",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-02,2021-06-11,NA
+32610,"Chikkaballapura","2745677",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-09,2021-06-11,NA
+32702,"Chikkaballapura","2655717",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-07,2021-06-12,NA
+32705,"Chikkaballapura","2659561",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-11,2021-06-12,NA
+32706,"Chikkaballapura","2659582",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-11,2021-06-12,NA
+32790,"Chikkaballapura","2796886",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-12,2021-06-12,NA
+32792,"Chikkaballapura",NA,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-06-10,2021-06-12,"Brought dead"
+32944,"Chikkaballapura","2659581",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-13,2021-06-14,NA
+32952,"Chikkaballapura","2673880",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-13,2021-06-14,NA
+33096,"Chikkaballapura","2732439",70,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-05,2021-06-14,2021-06-15,NA
+33116,"Chikkaballapura","2763371",75,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-08,2021-06-15,2021-06-15,NA
+33152,"Chikkaballapura","2818868",60,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-14,2021-06-15,2021-06-15,NA
+33180,"Chikkaballapura","2673887",34,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-13,2021-06-16,NA
+33244,"Chikkaballapura","2762677",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-15,2021-06-16,NA
+33264,"Chikkaballapura","2783751",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-16,2021-06-16,NA
+33273,"Chikkaballapura","2794745",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-15,2021-06-16,NA
+33361,"Chikkaballapura","2721061",27,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-04,2021-06-16,2021-06-17,NA
+33380,"Chikkaballapura","2759708",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-16,2021-06-17,NA
+33406,"Chikkaballapura","2795690",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-11,2021-06-16,2021-06-17,NA
+33430,"Chikkaballapura","2830167",26,"Male","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-17,2021-06-17,NA
+33516,"Chikkaballapura","2751941",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-15,2021-06-18,NA
+33547,"Chikkaballapura","2795659",26,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-12,2021-06-18,"Brought dead"
+33564,"Chikkaballapura","2811098",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-17,2021-06-18,NA
+33584,"Chikkaballapura","2832249",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-18,2021-06-18,NA
+33588,"Chikkaballapura","2834990",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-17,2021-06-18,2021-06-18,NA
+33677,"Chikkaballapura","2778309",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-18,2021-06-19,NA
+33742,"Chikkaballapura","2837872",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-17,2021-06-18,2021-06-19,NA
+33883,"Chikkaballapura","100001144",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-20,2021-06-20,NA
+34019,"Chikkaballapura","2851272",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-20,2021-06-21,NA
+34094,"Chikkaballapura","2787094",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-10,2021-06-21,2021-06-22,NA
+34122,"Chikkaballapura","2819533",90,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-22,2021-06-22,NA
+34165,"Chikkaballapura","100001434",41,"Male","SARI","Fever, Cough,Breathlessness","-",2021-06-18,2021-06-21,2021-06-22,NA
+34246,"Chikkaballapura","2828205",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-22,2021-06-23,NA
+34273,"Chikkaballapura","2857015",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-22,2021-06-23,2021-06-23,NA
+34287,"Chikkaballapura","100001588",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-20,2021-06-23,2021-06-23,NA
+34529,"Chikkaballapura","2860506",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-22,2021-06-24,2021-06-25,NA
+34535,"Chikkaballapura","2865606",83,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-23,2021-06-25,"Died at her residence"
+34818,"Chikkaballapura","2872761",67,"Male","SARI ","Breathlessness ","- ",2021-06-26,2021-06-28,2021-06-28,NA
+34877,"Chikkaballapura","2827265",48,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34886,"Chikkaballapura","2841379",60,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35027,"Chikkaballapura","2879594",20,"Female","SARI","Cough, Breathlessness","-",2021-06-29,2021-06-30,2021-06-30,NA
+35204,"Chikkaballapura","2876084",60,"Female","ILI","Cough","-",2021-06-27,2021-07-01,2021-07-02,NA
+35222,"Chikkaballapura","100001597",53,"Female","SARI","Fever, Breathlessness","DM",2021-06-20,2021-07-02,2021-07-02,NA
+35224,"Chikkaballapura","100002124",19,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-02,2021-07-02,NA
+35253,"Chikkaballapura","2827266",40,"Male","ILI","Cough","-",2021-06-16,2021-07-03,2021-07-03,NA
+35291,"Chikkaballapura","2883304",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-30,2021-07-03,2021-07-03,NA
+35310,"Chikkaballapura","100002457",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-02,2021-07-03,NA
+35487,"Chikkaballapura","2883305",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-06,2021-07-06,NA
+35516,"Chikkaballapura","2899354",1,"Male","SARI","Breathlessness","-",NA,2021-07-03,2021-07-06,"Brought dead"
+35528,"Chikkaballapura","100002642",45,"Female","ILI","Fever, Cough","-",2021-07-05,2021-07-06,2021-07-06,NA
+35665,"Chikkaballapura","100002153",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-08,2021-07-08,NA
+35805,"Chikkaballapura","2885878",60,"Male","ILI","Cough","DM, IHD",2021-07-01,2021-07-11,2021-07-11,NA
+35825,"Chikkaballapura","2910439",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-07,2021-07-08,2021-07-11,NA
+35898,"Chikkaballapura","100002908",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-11,2021-07-11,2021-07-12,NA
+35921,"Chikkaballapura","2899352",55,"Male","SARI","Breathlessness","-",2021-07-06,2021-07-12,2021-07-13,NA
+35945,"Chikkaballapura","100002811",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-09,2021-07-12,2021-07-13,NA
+35988,"Chikkaballapura","100002646",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-05,2021-07-14,2021-07-14,NA
+35989,"Chikkaballapura","100002814",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-09,2021-07-14,2021-07-14,NA
+35991,"Chikkaballapura","100002912",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-11,2021-07-14,2021-07-14,NA
+36020,"Chikkaballapura","2904110",71,"Female","ILI","Fever, Cough","-",2021-07-08,2021-07-15,2021-07-15,NA
+36032,"Chikkaballapura","2915091",60,"Female","SARI","Breathlessness","-",2021-07-12,2021-07-12,2021-07-15,NA
+36039,"Chikkaballapura","100002998",42,"Male","ILI","Fever, Cough","-",2021-07-13,2021-07-15,2021-07-15,NA
+36080,"Chikkaballapura","100003014",75,"Male","SARI","Cough, Breathlessness","-",2021-07-14,2021-07-16,2021-07-16,NA
+36123,"Chikkaballapura","100002997",62,"Male","SARI","Fever, Breathlessness","-",2021-07-13,2021-07-17,2021-07-17,NA
+36153,"Chikkaballapura","2922764",62,"Male","SARI","Fever, cough, Breathlessness","-",2021-07-17,2021-07-17,2021-07-18,NA
+36195,"Chikkaballapura","2924144",46,"Female","SARI","Breathlessness","-",2021-07-17,2021-07-17,2021-07-19,NA
+36227,"Chikkaballapura","100003075",65,"Male","ILI","Fever, Cough","DM, HTN",2021-07-15,2021-07-20,2021-07-20,NA
+36264,"Chikkaballapura","100003200",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-20,2021-07-20,2021-07-21,NA
+36300,"Chikkaballapura","100003200",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-20,2021-07-20,2021-07-21,NA
+36441,"Chikkaballapura","100003358",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-24,2021-07-25,2021-07-28,NA
+36547,"Chikkaballapura","100003380",65,"Male","ILI","Fever, Cough","-",2021-07-26,2021-07-31,2021-07-31,NA
+36572,"Chikkaballapura","100003361",53,"Female","ILI","Fever, Cough","-",2021-07-25,2021-08-01,2021-08-01,NA
+36587,"Chikkaballapura","2935923",60,"Female","ILI","Breathlessness","DM, HTN",2021-07-27,2021-08-02,2021-08-02,NA
+36634,"Chikkaballapura","100003441",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-26,2021-08-02,2021-08-03,NA
+36635,"Chikkaballapura","100003445",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-31,2021-08-02,2021-08-03,NA
+36698,"Chikkaballapura","2857644",60,"Male","ILI","Fever","-",2021-06-22,2021-06-27,2021-08-06,NA
+36715,"Chikkaballapura","2950477",46,"Male","ILI","Fever","-",2021-08-03,2021-08-06,2021-08-06,NA
+36798,"Chikkaballapura","2957339",45,"Female","ILI","Fever, Cough","-",NA,2021-08-05,2021-08-09,"Died at her residence"
+37246,"Chikkaballapura","2984113",75,"Female","SARI","Breathlessness","DM, HTN",2021-08-25,2021-08-27,2021-08-30,NA
+37608,"Chikkaballapura","3002698",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-13,2021-09-17,2021-09-22,NA
+37901,"Chikkaballapura","3022771",65,"Male","ILI","Fever","-",2021-10-02,2021-10-10,2021-10-18,NA
+38009,"Chikkaballapura","3028464",65,"Male","ILI","Fever","DM",2021-10-27,2021-10-29,2021-10-29,NA
+38011,"Chikkaballapura","3007166",75,"Female","ILI","Fever","-",NA,2021-09-17,2021-10-30,"Died at her residence"
+38028,"Chikkaballapura","3028563",48,"Male","ILI","Fever, Cough","DM",2021-10-27,2021-10-31,2021-10-31,NA
+38241,"Chikkaballapura","3044814",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-12-19,2021-12-19,2021-12-21,NA
+38354,"Chikkaballapura","3090379",45,"Male","ILI","Fever","-",2022-01-07,2022-01-07,2022-01-14,NA
+38368,"Chikkaballapura","3090379",45,"Male","ILI","Fever","-",2022-01-07,2022-01-07,2022-01-14,NA
+38387,"Chikkaballapura","3235972",75,"Male","ILI","Cough","-",2022-01-16,2022-01-16,2022-01-16,NA
+38401,"Chikkaballapura","3276517",85,"Female","ILI","Fever","-",NA,2022-01-16,2022-01-17,"Died at her residence"
+38414,"Chikkaballapura","3235972",75,"Male","ILI","Cough","-",2022-01-16,2022-01-16,2022-01-16,NA
+38428,"Chikkaballapura","3276517",85,"Female","ILI","Fever","-",NA,2022-01-16,2022-01-17,"Died at her residence"
+38471,"Chikkaballapura","3380574",82,"Male","SARI","Fever, cough, breathlessness","-",2022-01-16,2022-01-17,2022-01-19,NA
+38641,"Chikkaballapura","3564584",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVD",2022-01-23,2022-01-23,2022-01-25,NA
+38646,"Chikkaballapura","3587912",70,"Female","ILI","Fever","-",NA,2022-01-24,2022-01-25,"Died at her residence"
+38693,"Chikkaballapura","3564584",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVD",2022-01-23,2022-01-23,2022-01-25,NA
+38698,"Chikkaballapura","3587912",70,"Female","ILI","Fever","-",NA,2022-01-24,2022-01-25,"Died at her residence"
+38729,"Chikkaballapura","3615813",45,"Male","SARI","Fever, Breathlessness","-",2022-01-24,2022-01-26,2022-01-27,NA
+38859,"Chikkaballapura","3752326",74,"Female","ILI","Fever","-",2022-01-26,2022-01-27,2022-01-29,NA
+38989,"Chikkaballapura","3814117",75,"Female","SARI","Fever, Cough,
+Breathlessness","-",2022-01-29,2022-01-31,2022-01-31,NA
+38996,"Chikkaballapura","3838491",15,"Female","ILI","Fever, Cough","-",2022-01-28,2022-01-30,2022-01-31,NA
+39074,"Chikkaballapura","3618345",81,"Male","ILI","Fever","COPD",2022-01-31,2022-01-31,2022-02-03,NA
+39094,"Chikkaballapura","3827091",40,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-28,2022-01-28,2022-02-03,NA
+39120,"Chikkaballapura","3905949",75,"Male","SARI","Fever, Cough, Breathlessness","-",2022-02-01,2022-02-02,2022-02-03,NA
+39147,"Chikkaballapura","3840079",76,"Male","ILI","Fever, Cough","DM",2022-02-03,2022-02-04,2022-02-04,NA
+39156,"Chikkaballapura","3880252",70,"Female","ILI","Cough","-",2022-02-02,2022-02-02,2022-02-04,NA
+39202,"Chikkaballapura","3834193",45,"Female","ILI","Fever, Cough","DM",2022-01-30,2022-02-02,2022-02-05,NA
+39400,"Chikkaballapura","3929442",70,"Male","ILI","Fever, Cough","-",2022-02-08,2022-02-08,2022-02-09,NA
+39443,"Chikkaballapura","3929419",85,"Male","ILI","Cough","-",NA,2022-02-08,2022-02-10,"Died at his residence"
+39580,"Chikkaballapura","3970310",65,"Male","SARI","Cough, Breathlessness","-",2022-02-12,2022-02-13,2022-02-14,NA
+39697,"Chikkaballapura","3978209",45,"Male","ILI","Fever, Cough","-",2022-02-18,2022-02-19,2022-02-19,NA
+39939,"Chikkaballapura","3995239",0.5,"Male","ILI","Fever","CHD",2022-03-19,2022-03-21,2022-03-31,NA
+39964,"Chikkaballapura","4033889",75,"Male","SARI","Cough, Breathlessness","DM, HTN,COPD",2022-07-12,2022-07-12,2022-07-14,NA
+40003,"Chikkaballapura","4065927",75,"Female","ILI","Fever","AKI",2022-08-05,2022-08-08,2022-08-10,NA

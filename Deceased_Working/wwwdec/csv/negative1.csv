@@ -1,0 +1,5 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+9149,"Tumakuru",539908,"75","Male","Contact under tracing","Breathlessness","-","2020-09-19","2020-10-09","2020-10-03",NA,20,-6
+18892,"Bengaluru Rural",1397885,"50","Female","SARI","Breathlessness","-","2021-04-25","2021-05-28","2021-05-10",NA,33,-18
+20180,"Bengaluru Urban",1860155,"70","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-05-15","2021-05-16","2021-05-12",NA,1,-4
+34288,"Chitradurga",100001557,"60","Male","ILI","Fever",NA,"2021-06-21","2021-06-26","2021-06-23",NA,5,-3

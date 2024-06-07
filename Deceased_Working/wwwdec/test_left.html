@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+<div class="container page">
+<div class="container-fluid">
+ 
+
+<div class="row">
+      <div class="col-sm-12">
+      </div>
+      </div>
+  <div class="row" align=center>
+      <div class="col-sm-12">
+  <br><br>  
+  <h3> <font color=maroon>Clusters of Symptoms of Deceased across districts</font></h3>
+<!--<a href="./csv/karlastweekR.csv">[Weekly Data in CSV]</a>--><br><br><hr><br>
+
+<center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+<br>
+
+
+<h4>Scatter plot of District-wise Hospitalisation Rate.</h4>
+<p align="left"> The graph below represents the scatter plot of districts in Karnataka based on the data collected.Here we take the ratio of patients hospitalised(i.e,we take the counts of patients who were hospitalised and divide it by total number of death across districts) on one axis and plot a scatter plot with total deaths on the other.This gives us a understanding of how well hospitalisation is done in a particular district.</p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/scatter_place.html" target=top>   <img src="./graphs/scatter_place.png" style="width:100%"></a>
+<a href="./csv/req_dist_scat_ord.csv">Data</a>
+
+  </div>
+</div>
+<p align="left">Most of the districts did well in hospitalising patients.Since most of the districts are above the .95 mark.</p>
+<br><hr><br>
+
+<h4>Scatter plot of Hospitalisation Rate(Wave 1 vs Wave 2).</h4>
+<p align="left"> The scatter plot of Hospitalisation Ratio of the deceased patients has been presented here across districts.The Media Bulletin reports each deceased patient as either admitted to hospital, or brought dead or died at residences, we call both the categories brought dead and died at residence as deceased patients who were not hospitalised.Then for each district, we count the total deceased patients and total hospitalised patients and take the ratio of hospitalised patients to total deceased patients to arrive at the hospitalisation ratio.We calculate the ratio for each district wave wise and then plot plot a scatter plot along with line y=x.</p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/wavewise_hospitalisation_ratio.html" target=top>   <img src="./graphs/wavewise_hospitalisation_ratio.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left"></p>
+<br><hr><br>
+
+<h4>Scatter plot of District-wise Hospitalisation Rate(Subplots).</h4>
+<p align="left">Now for a better analysis we clustered individual districts on the basis of total death counts and then we again perform the similar analysis as earlier.Here we took 3 categories.Firstly with total death count less than 500,secondly total death count ranging within 500 to 1500,and thirdly districts with death count higher than 1500. </p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/scatter_place_500.html" target=top>   <img src="./graphs/scatter_place_500.png" style="width:100%"></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/scatter_place_1500.html" target=top>   <img src="./graphs/scatter_place_1500.png" style="width:100%"></a>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/scatter_placebig.html" target=top>   <img src="./graphs/scatter_placebig.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left"></p>
+<br><hr><br>
+
+<h4>Barplot of Place of Death(Wave-1 vs Wave-2)</h4>
+<p align="left"> The graph below represents the Barplot of Place of Death(wave-wise) in Karnataka based on the data collected.We first separated each individual deceased patient  with respect to wave and then then took counts on the basis of place of death.</p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/placeofdeath_wave.html" target=top>   <img src="./graphs/placeofdeath_wave.png" style="width:100%"></a>
+  </div>
+</div>
+<p align="left">The counts in wave-2 are higher because of the higher number of fatalities. </p>
+<br><hr><br>
+
+<h4>Confidence Interval for Days to Decease Age-Gender-wise</h4>
+<p align="left">From the media bulletin, we took the difference between the date of decease and admission date and call the difference as days to decease.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to decease.We then plot the 95% t-confidence interval around the mean for all the age-gender category.</p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/age_ag_days_t.html" target=top>   <img src="./graphs/age_ag_days_t.png" style="width:100%"></a>
+  </div>
+</div>
+<br><hr><br>
+
+<h4>Confidence Interval for Days to Report Age-Gender-wise</h4>
+<p align="left"> From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to report.We then plot the 95% t-confidence interval around the mean for all the age-gender category.</p>
+<div class="row">
+  <div class="col-sm-12">
+    <a href="./graphs/age_ag_rep_t.html" target=top>   <img src="./graphs/age_ag_rep_t.png" style="width:100%"></a>
+  </div>
+</div>
+<br><hr><br>
+
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatter.html" target=top>   <img src="./graphs/ageScatter.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<p align="left">This graph is the scatter plot of the total age distribution across all districts. As we can see, Bengaluru Urban's trend seems to be different. Below are three scatter plots that give the age distributions of districts based on their total death counts.</p>
+
+<br><hr><br>
+
+<h4>Analysis based on number of deceased across Districts</h4>
+<br>
+<p align="left">These three graphs are the age distribution across districts with the total death count in the district being less than 500, 500-1000, and more than 1000. </p>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatterCntLessThan500.html" target=top>   <img src="./graphs/ageScatterCntLessThan500.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatterCnt500And1000.html" target=top>   <img src="./graphs/ageScatterCnt500And1000.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/ageScatterCntAbove1000.html" target=top>   <img src="./graphs/ageScatterCntAbove1000.png" style="width:100%"></a>
+  </div>
+</div>
+<br><hr><br>
+
+  
+<footer class="container-fluid text-left">
+<div class="row">
+  <div class="col-sm-12">
+    <hr><br>
+<!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karnataka urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+<!-- <br><br>  -->
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 
+ 

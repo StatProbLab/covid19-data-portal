@@ -1,0 +1,60 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+11910,"Bengaluru Urban","909373",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,"2020-08-12","2020-12-10","Brought dead",NA,120
+36360,"Vijayapura","1163258",58,"Male","SARI","Fever, Cough, Breathlessness","-","2021-04-16","2021-04-23","2021-07-26",NA,7,94
+36834,"Hassan","1408101",43,"Male","ILI","Fever, Cough","-","2021-05-05","2021-05-06","2021-08-11",NA,1,97
+37014,"Mysuru","2968346",60,"Male","SARI","Fever, Cough, Breathlessness","DM","2021-05-09","2021-05-15","2021-08-17",NA,6,94
+37038,"Mysuru","2969076",36,"Male","SARI","Fever, Cough, Breathlessness","-","2021-05-07","2021-05-12","2021-08-18",NA,5,98
+37071,"Mysuru","2974968",33,"Male","SARI","Fever, Cough, Breathlessness","-","2021-05-04","2021-05-06","2021-08-19",NA,2,105
+37186,"Chikkamagaluru","2983992",57,"Male","SARI","Fever, Cough, Breathlessness","DM","2021-05-06","2021-05-06","2021-08-26",NA,0,112
+37312,"Mysuru","2989967",65,"Female","ILI","Fever","-","2021-05-09","2021-05-09","2021-09-02",NA,0,116
+37443,"Bengaluru Urban","2997514",47,"Male","ILI","Cough","-",NA,"2021-05-09","2021-09-12","Brought dead",NA,126
+37447,"Bengaluru Urban","2998489",53,"Female","SARI","Fever, Cough, Breathlessness","HTN","2021-06-09","2021-06-09","2021-09-12",NA,0,95
+37504,"Chamarajanagara","2819728",70,"Male","SARI","Fever, Cough, Breathlessness","DM",NA,"2021-06-14","2021-09-17","Brought dead",NA,95
+37536,"Belagavi","2515835",76,"Male","ILI","Fever, cough","-","2021-05-21","2021-05-25","2021-09-19",NA,4,117
+37537,"Belagavi","2537262",56,"Female","ILI","Fever, cough","DM","2021-05-21","2021-05-22","2021-09-19",NA,1,120
+37552,"Belagavi","2544113",52,"Male","SARI","Fever, Cough, Breathlessness","-","2021-05-21","2021-05-24","2021-09-20",NA,3,119
+37576,"Belagavi","2552910",68,"Male","ILI","Fever, cough","-","2021-05-21","2021-05-23","2021-09-21",NA,2,121
+37597,"Belagavi","2537384",34,"Male","ILI","Fever, cough","-","2021-05-17","2021-05-22","2021-09-22",NA,5,123
+37632,"Belagavi","2502514",63,"Male","SARI","Fever, Cough, Breathlessness","DM","2021-05-23","2021-05-24","2021-09-24",NA,1,123
+37633,"Belagavi","2504321",61,"Male","ILI","Fever, Cough","HTN",NA,"2021-05-25","2021-09-24","Died at his residence",NA,122
+37675,"Mandya","2500388",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-05-23","2021-05-25","2021-09-27",NA,2,125
+37676,"Mandya","2636295",45,"Female","SARI","Fever, Cough, Breathlessness","-","2021-05-30","2021-05-31","2021-09-27",NA,1,119
+37677,"Bagalakote","2698170",29,"Male","SARI","Fever, Cough, Breathlessness","-","2021-06-02","2021-06-03","2021-09-27",NA,1,116
+37695,"Belagavi","2537367",72,"Female","ILI","Fever, cough","DM, HTN","2021-05-18","2021-05-22","2021-09-28",NA,4,129
+37869,"Raichur","3020110",55,"Female","SARI","Breathlessness","-","2021-04-21","2021-04-25","2021-10-14",NA,4,172
+38053,"Koppal","2750486",65,"Female","ILI","Cough","DM","2021-06-03","2021-06-08","2021-11-06",NA,5,151
+38054,"Belagavi","2945512",72,"Male","ILI","Fever, Cough","HTN","2021-07-28","2021-08-02","2021-11-06",NA,5,96
+38063,"Koppal","2882544",58,"Male","SARI","Cough, Breathlessness","DM","2021-06-29","2021-06-30","2021-11-08",NA,1,131
+38066,"Udupi","3028554",58,"Male","SARI","Fever, Cough, Breathlessness","-","2020-11-30","2020-12-02","2021-11-08",NA,2,341
+38082,"Koppal","2852184",36,"Male","ILI","Breathing Issues","-","2021-06-21","2021-06-22","2021-11-11",NA,1,142
+38093,"Bengaluru Urban","3032694",72,"Female","SARI","Fever, cough, breathlessness","DM, HTN","2021-04-28","2021-04-30","2021-11-13",NA,2,197
+38104,"Koppal","2860983",72,"Male","SARI","Breathlessness","-","2021-06-22","2021-07-02","2021-11-17",NA,10,138
+38116,"Koppal","2543595",58,"Male","SARI","Fever, Cough, Breathlessness","-","2021-05-24","2021-06-02","2021-11-19",NA,9,170
+38128,"Koppal","2945653",80,"Male","SARI","Fever, Cough, Breathlessness","-","2021-07-31","2021-08-15","2021-11-23",NA,15,100
+38198,"Bengaluru Urban","3032824",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-04-23","2021-04-23","2021-12-09",NA,0,230
+38259,"Bengaluru Urban","1674422",41,"Male","ILI","Fever, Cough","DM, HTN","2021-05-03","2021-05-17","2021-12-28",NA,14,225
+38266,"Chitradurga","100003137",49,"Female","SARI","Fever, Cough, Breathlessness","-","2021-07-18","2021-08-08","2021-12-29",NA,21,143
+38267,"Bengaluru Urban","2743792",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-06-06","2021-06-10","2021-12-30",NA,4,203
+38269,"Bengaluru Urban","3047545",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-04-18","2021-04-19","2021-12-30",NA,1,255
+38270,"Bengaluru Urban","1482858",42,"Male","ILI","Fever","-","2021-04-30","2021-05-12","2021-12-31",NA,12,233
+38271,"Bengaluru Urban","2666889",60,"Male","SARI","Fever,Breathlessness","DM, HTN","2021-05-31","2021-06-18","2021-12-31",NA,18,196
+38274,"Bengaluru Urban","3045402",81,"Female","SARI","Breathlessness","DM","2021-04-25","2021-04-25","2021-12-31",NA,0,250
+38275,"Bengaluru Urban","3046087",76,"Male","ILI","Cough","DM, HTN","2021-09-14","2021-09-19","2021-12-31",NA,5,103
+38278,"Bengaluru Urban","1482858",42,"Male","ILI","Fever","-","2021-04-30","2021-05-12","2021-12-31",NA,12,233
+38279,"Bengaluru Urban","2666889",60,"Male","SARI","Fever,Breathlessness","DM, HTN","2021-05-31","2021-06-18","2021-12-31",NA,18,196
+38282,"Bengaluru Urban","3045402",81,"Female","SARI","Breathlessness","DM","2021-04-25","2021-04-25","2021-12-31",NA,0,250
+38283,"Bengaluru Urban","3046087",76,"Male","ILI","Cough","DM, HTN","2021-09-14","2021-09-19","2021-12-31",NA,5,103
+38286,"Tumakuru","2923394",45,"Female","ILI","Cough","-",NA,"2021-05-06","2022-01-01","Died at her residence",NA,240
+38287,"Mandya","2937362",60,"Female","ILI","Fever, Cough","HTN","2021-07-26","2021-07-29","2022-01-01",NA,3,156
+38291,"Tumakuru","2923556",55,"Female","ILI","Cough","-",NA,"2021-04-27","2022-01-02","Died at her residence",NA,250
+38292,"Uttara Kannada","2966571",62,"Male","ILI","Fever, Cough","-","2021-08-13","2021-09-02","2022-01-02",NA,20,122
+38301,"Chitradurga","100000385",55,"Male","ILI","Fever","-","2021-06-26","2021-07-07","2022-01-03",NA,11,180
+38315,"Bengaluru Urban","1282859",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-04-24","2021-04-24","2022-01-08",NA,0,259
+39910,"Vijayapura","3981517",87,"Male","ILI","Fever, Cough","-","2022-02-15","2022-03-13","3022-03-14",NA,26,365243
+39911,"Mandya","3983536",43,"Female","ILI","Fever, Cough","DM, HTN, IHD, TB","2022-02-19","2022-03-11","3022-03-14",NA,20,365245
+39912,"Kalaburagi","3994056",43,"Male","SARI","Fever, Cough, Breathlessness","-","2022-03-09","2022-03-13","3022-03-14",NA,4,365243
+39913,"Dakshina Kannada","3994101",67,"Male","ILI","Fever, Cough","HTN","2022-03-09","2022-03-13","3022-03-14",NA,4,365243
+39918,"Bengaluru Urban","2391943",65,"Male","ILI","Fever",NA,NA,"2021-05-25","2022-03-18","Died at his residence",NA,297
+39921,"Hassan","3993404",61,"Male","ILI","Fever","IHD","0022-03-03","0022-03-17","2022-03-20",NA,14,730488.016296296
+39940,"Bengaluru Urban","890158",51,"Female","ILI","Fever","-","2020-11-11","2020-11-23","2022-04-04",NA,12,497
+40127,"Dakshina Kannada","4123203",39,"Male","ILI","Fever","-","0022-10-13","0022-10-13","2022-10-14",NA,0,730486.016296296

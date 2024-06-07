@@ -1,0 +1,607 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+227,"Haveri",8295,75,"Female","Contact of P 6832","Fever & Cough & Breathlessness","DM, HTN",2020-06-24,2020-06-30,2020-06-30,NA
+234,"Haveri",13268,60,"Female","SARI","Fever &  Cough","DM, HTN",2020-06-24,2020-06-30,2020-06-30,NA
+541,"Haveri",31816,82,"Male","Contact under tracing","-","IHD",NA,2020-07-06,2020-07-10,"Died at his residence"
+591,"Haveri",35007,45,"Female","CONTACT OF P-23227","Fever & Cough & Breathlessness","CKD, DM",2020-07-04,2020-07-10,2020-07-11,NA
+664,"Haveri",28394,70,"Female","ILI","-","DM",2020-07-04,2020-07-12,2020-07-12,NA
+678,"Haveri",36881,42,"Female","Contact under tracing","-","-",NA,2020-07-08,2020-07-12,"Brought dead"
+735,"Haveri",39657,45,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-09,2020-07-10,2020-07-13,NA
+1206,"Haveri",57120,62,"Male","SARI","Cough & Breathlessness","DM",2020-07-07,2020-07-10,2020-07-18,NA
+1223,"Haveri",59901,70,"Female","SARI","Cough & Breathlessness","-",NA,2020-07-15,2020-07-18,"Died at her residence"
+1299,"Haveri",59654,25,"Male","ILI","Fever & Cough","-",2020-07-17,2020-07-18,2020-07-19,NA
+1307,"Haveri",63899,47,"Female","SARI","Fever & Cough & Breathlessness","DM",NA,2020-07-18,2020-07-19,"Died at her residence"
+1388,"Haveri",69400,70,"Male","SARI","Fever & Cough","-",2020-07-15,2020-07-17,2020-07-20,NA
+1403,"Haveri",52660,48,"Female","under","-","HTN",2020-07-08,2020-07-10,2020-07-21,NA
+1425,"Haveri",68352,70,"Female","SARI","Fever & Cough","HTN",2020-07-19,2020-07-20,2020-07-21,NA
+1427,"Haveri",68640,70,"Male","ILI","-","-",NA,2020-07-11,2020-07-21,"Brought dead"
+1464,"Haveri",63491,75,"Male","SARI","Fever & Cough","DM, HTN",2020-07-17,2020-07-22,2020-07-22,NA
+1478,"Haveri",73170,48,"Female","Contact under tracing","-","-",NA,2020-07-10,2020-07-22,"Died at her residence"
+1494,"Haveri",75229,74,"Female","Contact under tracing","-","DM",NA,2020-07-20,2020-07-22,"Died at her residence"
+1500,"Haveri",76262,20,"Female","Contact under tracing","-","-",NA,2020-07-20,2020-07-22,"Died at her residence"
+1555,"Haveri",59845,68,"Female","SARI","Fever & Cough","DM, HTN",2020-07-17,2020-07-22,2020-07-23,NA
+1707,"Haveri",85728,65,"Male","Contact under tracing","-","DM",NA,2020-07-23,2020-07-24,"Brought dead"
+1780,"Haveri",91556,46,"Male","Contact under tracing","Fever & Cough","-",2020-07-24,2020-07-24,2020-07-25,NA
+1783,"Haveri",96842,78,"Male","Contact under tracing","Fever & Cough","HTN, DM",2020-07-25,2020-07-25,2020-07-25,NA
+1919,"Haveri",99427,43,"Male","SARI","Fever & Cough","-",2020-07-24,2020-07-25,2020-07-27,NA
+2169,"Haveri",102858,80,"Male","SARI","Breathlessness","DM, HTN",2020-07-26,2020-07-28,2020-07-30,NA
+2516,"Haveri",105201,50,"Male","Contact","Breathlessness","HTN, CKD",2020-07-27,2020-07-29,2020-08-03,NA
+2523,"Haveri",109380,58,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-27,2020-07-31,2020-08-03,NA
+2627,"Haveri",118412,74,"Male","ILI","Fever","DM, HTN",2020-07-29,2020-08-03,2020-08-04,NA
+2755,"Haveri",141023,40,"Male","ILI","Fever, Cough","-",2020-08-01,2020-08-03,2020-08-05,NA
+2786,"Haveri",156403,70,"Male","ILI","-","-",2020-08-02,2020-08-04,2020-08-05,NA
+2877,"Haveri",159147,70,"Female","SARI","Breathlessness","COPD",2020-08-03,2020-08-04,2020-08-06,NA
+2970,"Haveri",162188,65,"Male","SARI","Fever, Cough","CA",2020-08-05,2020-08-06,2020-08-07,NA
+3026,"Haveri",136214,51,"Male","SARI","Breathlessness","-",2020-08-02,2020-08-07,2020-08-08,NA
+3057,"Haveri",160322,54,"Male","ILI","Breathlessness","DM, HTN, CKD",2020-08-05,2020-08-06,2020-08-08,NA
+3177,"Haveri",178852,56,"Male","SARI","Breathlessness","-",2020-08-07,2020-08-09,2020-08-09,NA
+3246,"Haveri",156401,46,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-02,2020-08-10,NA
+3291,"Haveri",185149,60,"Male","Contact under tracing","-","-",NA,2020-08-09,2020-08-10,"Brought dead"
+3296,"Haveri",186617,45,"Female","Contact under tracing","Breathlessness","DM, HTN",NA,2020-08-09,2020-08-10,"Brought dead"
+3321,"Haveri",119878,62,"Female","ILI","Fever, Cough","-",2020-07-24,2020-07-26,2020-08-11,NA
+3381,"Haveri",194147,42,"Male","SARI","Breathlessness","-",2020-08-07,2020-08-07,2020-08-11,NA
+3382,"Haveri",194153,70,"Female","SARI","Breathlessness","DM",2020-08-09,2020-08-09,2020-08-11,NA
+3496,"Haveri",202230,61,"Male","SARI","Fever, Cough, Breathlessness","CVD",2020-08-08,2020-08-10,2020-08-12,NA
+3567,"Haveri",183905,80,"Female","ILI","Breathlessness","HTN, COPD",2020-08-09,2020-08-13,2020-08-13,NA
+3595,"Haveri",205305,50,"Male","SARI","Breathlessness","-",2020-08-09,2020-08-10,2020-08-13,NA
+3599,"Haveri",206948,80,"Male","ILI","-","HTN",2020-08-12,2020-08-12,2020-08-13,NA
+3688,"Haveri",204531,70,"Male","SARI","Fever, Breathlessness","-",2020-08-11,2020-08-13,2020-08-14,NA
+3704,"Haveri",219489,50,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-13,2020-08-13,2020-08-14,NA
+3761,"Haveri",177257,50,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-08-02,2020-08-02,2020-08-15,NA
+3810,"Haveri",220765,60,"Male","SARI","Fever, Breathlessness","-",2020-08-14,2020-08-14,2020-08-15,NA
+3915,"Haveri",214777,65,"Female","ILI","-","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3918,"Haveri",220053,56,"Male","Contact under Tracing","Breathlessness","COPD",NA,2020-08-16,2020-08-16,NA
+4022,"Haveri",213035,68,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-12,2020-08-16,2020-08-17,NA
+4033,"Haveri",227293,38,"Female","Contact under tracing","Breathlessness","HTN",2020-08-14,2020-08-16,2020-08-17,NA
+4049,"Haveri",237214,62,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-16,2020-08-16,2020-08-17,NA
+4051,"Haveri",237630,53,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-16,2020-08-17,NA
+4139,"Haveri",204066,38,"Male","ILI","Fever","DM, HTN",2020-08-12,2020-08-16,2020-08-18,NA
+4154,"Haveri",217526,49,"Male","SARI","Fever, Breathlessness","-",NA,2020-08-16,2020-08-18,"Brought dead"
+4192,"Haveri",245590,60,"Male","SARI","Fever, Breathlessness","-",NA,2020-08-17,2020-08-18,"Brought dead"
+4218,"Haveri",142957,45,"Male","SARI","Fever, Breathlessness","-",NA,2020-07-31,2020-08-19,"Brought dead"
+4279,"Haveri",230744,60,"Male","SARI","Fever, Breathlessness","HTN",2020-08-15,2020-08-18,2020-08-19,NA
+4296,"Haveri",241657,47,"Male","SARI","Fever, Breathlessness","-",2020-08-16,2020-08-17,2020-08-19,NA
+4404,"Haveri",251015,52,"Male","SARI","Fever, Breathlessness","HTN, DM",2020-08-18,2020-08-19,2020-08-20,NA
+4418,"Haveri",258003,71,"Male","SARI","Fever, Breathlessness","-",2020-08-18,2020-08-19,2020-08-20,NA
+4420,"Haveri",259938,50,"Female","SARI","Fever, Breathlessness","-",2020-08-17,2020-08-18,2020-08-20,NA
+4423,"Haveri",263001,55,"Male","Contact of P- 219485","Fever, Breathlessness","HTN, CVD",NA,2020-08-19,2020-08-20,"Brought dead"
+4474,"Haveri",233905,65,"Male","ILI","Fever, Breathlessness","HTN",2020-08-15,2020-08-19,2020-08-21,NA
+4491,"Haveri",249712,77,"Male","ILI","Fever, Breathlessness","-",2020-08-18,2020-08-18,2020-08-21,NA
+4508,"Haveri",263006,75,"Male","SARI","Breathlessness","-",2020-08-19,2020-08-19,2020-08-21,NA
+4515,"Haveri",266269,30,"Male","ILI","Fever, Breathlessness","CVD",NA,2020-08-20,2020-08-21,"Brought dead"
+4666,"Haveri",278270,65,"Female","ILI","Cough","_",NA,2020-08-21,2020-08-23,"Brought dead"
+4667,"Haveri",278271,60,"Male","ILI","Cough","_",NA,2020-08-21,2020-08-23,"Brought dead"
+4673,"Haveri",283157,58,"Male","ILI","Cough","CVD",2020-08-21,2020-08-22,2020-08-23,NA
+4675,"Haveri",284154,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-21,2020-08-22,2020-08-23,NA
+4790,"Haveri",283699,44,"Male","Contact under tracing","Cough, Breathlessness","-",NA,2020-08-22,2020-08-24,"Brought dead"
+4791,"Haveri",284161,85,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-21,2020-08-21,2020-08-24,NA
+4794,"Haveri",285970,50,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",NA,2020-08-19,2020-08-24,"Brought dead"
+4795,"Haveri",285972,54,"Male","Contact under tracing","Cough, Breathlessness","-",NA,2020-08-19,2020-08-24,"Brought dead"
+4804,"Haveri",288850,64,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN, CKD",NA,2020-08-22,2020-08-24,"Brought dead"
+4805,"Haveri",288852,60,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",NA,2020-08-23,2020-08-24,"Brought dead"
+4819,"Haveri",175210,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-20,2020-08-25,NA
+4897,"Haveri",251014,60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-18,2020-08-23,2020-08-25,NA
+4909,"Haveri",258424,84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-19,2020-08-22,2020-08-25,NA
+4939,"Haveri",283686,59,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-22,2020-08-23,2020-08-25,NA
+4948,"Haveri",294691,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-25,NA
+5083,"Haveri",300961,73,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-24,2020-08-26,NA
+5086,"Haveri",303858,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-25,2020-08-25,2020-08-26,NA
+5156,"Haveri",244683,65,"Male","SARI","Fever, Breathlessness","DM",2020-08-17,2020-08-25,2020-08-27,NA
+5173,"Haveri",269106,80,"Female","SARI","Fever, Breathlessness","-",2020-08-20,2020-08-26,2020-08-27,NA
+5195,"Haveri",288848,74,"Female","SARI","Fever, Breathlessness","-",2020-08-22,2020-08-26,2020-08-27,NA
+5213,"Haveri",303854,58,"Male","SARI","Breathlessness","-",NA,2020-08-25,2020-08-27,"Brought dead"
+5229,"Haveri",317664,70,"Female","SARI","Breathlessness","-",NA,2020-08-26,2020-08-27,"Brought dead"
+5402,"Haveri",257054,42,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-19,2020-08-29,2020-08-29,NA
+5427,"Haveri",294687,57,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-08-25,2020-08-29,NA
+5431,"Haveri",295196,50,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-08-26,2020-08-29,NA
+5432,"Haveri",295204,75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-23,2020-08-26,2020-08-29,NA
+5446,"Haveri",308429,61,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-23,2020-08-26,2020-08-29,NA
+5452,"Haveri",311920,47,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-24,2020-08-24,2020-08-29,NA
+5458,"Haveri",315320,55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-26,2020-08-26,2020-08-29,NA
+5460,"Haveri",316922,56,"Male","Contact under tracing","-","DM, HTN",NA,2020-08-26,2020-08-29,"Brought dead"
+5461,"Haveri",316923,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-26,2020-08-29,NA
+5540,"Haveri",295195,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-17,2020-08-27,2020-08-30,NA
+5557,"Haveri",320229,63,"Male","Contact under tracing","-","-",NA,2020-08-28,2020-08-30,"Brought dead"
+5562,"Haveri",323711,49,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-27,2020-08-30,"Died at his residence"
+5689,"Haveri",342049,54,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",NA,2020-08-30,2020-08-31,"Died at his residence"
+5695,"Haveri",349283,52,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-08-28,2020-08-30,2020-08-31,NA
+5697,"Haveri",349621,62,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-29,2020-08-30,2020-08-31,NA
+5698,"Haveri",349623,73,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-29,2020-08-31,NA
+5699,"Haveri",350968,69,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-29,2020-08-30,2020-08-31,NA
+5822,"Haveri",352373,85,"Male","ILI","Fever, Cough","-",2020-08-29,2020-08-30,2020-09-01,NA
+5832,"Haveri",357289,53,"Male","ILI","Fever, Cough, Breathlessness","DM, HTN",2020-08-31,2020-08-31,2020-09-01,NA
+5865,"Haveri",277393,80,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-21,2020-08-27,2020-09-02,NA
+5943,"Haveri",362652,50,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2020-09-01,2020-09-02,"Brought dead"
+5992,"Haveri",311919,72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-26,2020-09-03,NA
+6043,"Haveri",365115,45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-01,2020-09-01,2020-09-03,NA
+6047,"Haveri",370786,70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-31,2020-08-31,2020-09-03,NA
+6051,"Haveri",377463,70,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-02,2020-09-02,2020-09-03,NA
+6568,"Haveri",311929,56,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-29,2020-09-08,NA
+6592,"Haveri",349622,63,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-09-05,2020-09-08,NA
+6595,"Haveri",354428,68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-04,2020-09-05,2020-09-08,NA
+6657,"Haveri",400969,78,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-05,2020-09-05,2020-09-08,NA
+6759,"Haveri",387932,45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-02,2020-09-07,2020-09-09,NA
+6786,"Haveri",412130,42,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-06,2020-09-07,2020-09-09,NA
+6833,"Haveri",345687,69,"Male","SARI","Breathlessness","-",2020-08-29,2020-08-31,2020-09-10,NA
+7005,"Haveri",391733,40,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-07,2020-09-11,2020-09-11,NA
+7048,"Haveri",434698,55,"Female","SARI","Breathlessness","-",2020-09-05,2020-09-08,2020-09-11,NA
+7149,"Haveri",440902,82,"Male","SARI","Fever, Breathlessness, Cough","DM",2020-09-05,2020-09-05,2020-09-12,NA
+7260,"Haveri",465047,73,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-12,2020-09-13,2020-09-13,NA
+7350,"Haveri",452985,60,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-10,2020-09-14,2020-09-14,NA
+7367,"Haveri",464998,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-05,2020-09-13,2020-09-14,NA
+7456,"Haveri",465011,49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-12,2020-09-14,2020-09-15,NA
+7469,"Haveri",473482,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-12,2020-09-14,2020-09-15,NA
+7692,"Haveri",411399,76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-09,2020-09-18,NA
+7726,"Haveri",432043,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-10,2020-09-18,NA
+7728,"Haveri",432554,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-09,2020-09-09,2020-09-18,NA
+7739,"Haveri",440571,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-11,2020-09-18,NA
+7749,"Haveri",450693,49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-11,2020-09-18,NA
+7795,"Haveri",488419,50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-14,2020-09-16,2020-09-18,NA
+7872,"Haveri",450685,68,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-10,2020-09-13,2020-09-19,NA
+7879,"Haveri",464990,62,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-12,2020-09-19,NA
+7937,"Haveri",359630,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2020-07-08,2020-07-08,2020-09-20,NA
+7996,"Haveri",491005,50,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-17,2020-09-20,NA
+8068,"Haveri",464996,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-13,2020-09-21,NA
+8117,"Haveri",507905,42,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-17,2020-09-17,2020-09-21,NA
+8130,"Haveri",516352,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-17,2020-09-21,NA
+8299,"Haveri",480417,67,"Male","SARI","Breathlessness","DM, HTN",2020-09-14,2020-09-21,2020-09-24,NA
+8321,"Haveri",522439,75,"Male","SARI","Breathlessness","DM, HTN",2020-09-18,2020-09-20,2020-09-24,NA
+8417,"Haveri",547351,40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-20,2020-09-23,2020-09-25,NA
+8443,"Haveri",472501,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-13,2020-09-21,2020-09-26,NA
+8463,"Haveri",507902,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-20,2020-09-26,NA
+8467,"Haveri",516535,43,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-21,2020-09-26,NA
+8552,"Haveri",536274,46,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-20,2020-09-24,2020-09-27,NA
+8567,"Haveri",548682,71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-21,2020-09-25,2020-09-27,NA
+8615,"Haveri",533067,45,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-26,2020-09-28,NA
+8625,"Haveri",544732,58,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-26,2020-09-28,NA
+8639,"Haveri",572693,54,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-24,2020-09-26,2020-09-28,NA
+8649,"Haveri",592915,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-09-27,2020-09-28,NA
+8758,"Haveri",562024,69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-27,2020-09-29,NA
+8782,"Haveri",592422,90,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-26,2020-09-27,2020-09-29,NA
+8869,"Haveri",597698,54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-09-28,2020-09-30,NA
+8911,"Haveri",465008,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-09-10,2020-10-01,"Died at his residence"
+9099,"Haveri",597211,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-09-30,2020-10-02,NA
+9125,"Haveri",632399,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-01,2020-10-01,2020-10-02,NA
+9211,"Haveri",613279,45,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-29,2020-10-01,2020-10-03,NA
+9215,"Haveri",617947,38,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-29,2020-09-30,2020-10-03,NA
+9284,"Haveri",620868,78,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-29,2020-10-02,2020-10-04,NA
+9410,"Haveri",575301,36,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-09-26,2020-10-05,2020-10-06,NA
+9415,"Haveri",583155,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-25,2020-10-03,2020-10-06,NA
+9525,"Haveri",598272,68,"Male","SARI","Fever, Cough, Breathlessness","_",2020-10-02,2020-10-06,2020-10-07,NA
+9565,"Haveri",653453,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","_",2020-10-05,2020-10-06,2020-10-07,NA
+9834,"Haveri",599304,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-27,2020-10-09,2020-10-10,NA
+9836,"Haveri",602879,55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-28,2020-10-10,2020-10-10,NA
+9861,"Haveri",644194,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-04,2020-10-09,2020-10-10,NA
+9863,"Haveri",646065,48,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-06,2020-10-09,2020-10-10,NA
+10054,"Haveri",533069,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-20,2020-10-13,NA
+10388,"Haveri",672508,64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-05,2020-10-16,2020-10-17,NA
+10405,"Haveri",701826,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-09,2020-10-16,2020-10-17,NA
+10477,"Haveri",759230,68,"Male","ILI","Fever, Cough, Breathlessness","DM",2020-10-14,2020-10-17,2020-10-18,NA
+10541,"Haveri",768700,60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-16,2020-10-17,2020-10-19,NA
+10584,"Haveri",729496,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-13,2020-10-19,2020-10-20,NA
+10600,"Haveri",753098,64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-19,2020-10-20,NA
+10879,"Haveri",805366,84,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-19,2020-10-23,2020-10-24,NA
+11095,"Haveri",817115,78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-23,2020-10-28,2020-10-29,NA
+11115,"Haveri",767947,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-16,2020-10-20,2020-10-30,NA
+11116,"Haveri",770998,74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-14,2020-10-15,2020-10-30,NA
+11270,"Haveri",817116,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-19,2020-10-30,2020-11-04,NA
+11386,"Haveri",833121,48,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-27,2020-11-08,2020-11-08,NA
+11530,"Haveri",863127,36,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2020-11-12,2020-11-14,2020-11-15,NA
+11646,"Haveri",874614,72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-14,2020-11-20,2020-11-21,NA
+11963,"Haveri",911400,72,"Male","SARI","Breathlessness","DM, COPD",2020-12-06,2020-12-12,2020-12-15,NA
+12650,"Haveri",1021197,75,"Male","ILI","Fever, Cough","-",NA,2021-04-04,2021-04-05,"Died at his residence"
+12980,"Haveri",1043508,64,"Male","ILI","Fever, cough","DM, HTN",2021-04-04,2021-04-10,2021-04-13,NA
+13430,"Haveri",1105856,38,"Male","ILI","Fever, Cough","-",2021-04-13,2021-04-18,2021-04-19,NA
+13699,"Haveri",1137828,45,"Female","SARI","Breathlessness","DM, HTN",2021-04-20,2021-04-21,2021-04-21,NA
+13915,"Haveri",1064956,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-08,2021-04-12,2021-04-23,NA
+13975,"Haveri",1142589,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-22,2021-04-23,NA
+13982,"Haveri",1153571,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-22,2021-04-23,NA
+14063,"Haveri",1261160,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-21,2021-04-21,2021-04-23,NA
+14193,"Haveri",1179951,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-20,2021-04-24,NA
+14202,"Haveri",1192008,38,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-04-21,2021-04-23,2021-04-24,NA
+14269,"Haveri",1281647,57,"Male","SARI","Fever, Cough","DM, HTN",NA,2021-04-21,2021-04-24,"Died at his residence"
+14290,"Haveri",1048227,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-04-21,2021-04-25,2021-04-25,NA
+14330,"Haveri",1157136,52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-17,2021-04-25,2021-04-25,NA
+14487,"Haveri",1191996,51,"Male","ILI","Fever","DM, HTN",NA,2021-04-19,2021-04-26,"Died at his residence"
+14515,"Haveri",1264368,70,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-04-22,2021-04-24,2021-04-26,NA
+14562,"Haveri",1324922,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-21,2021-04-24,2021-04-26,NA
+14604,"Haveri",1354390,81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-26,NA
+14663,"Haveri",1168385,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-22,2021-04-27,NA
+14762,"Haveri",1352200,53,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-04-27,NA
+14771,"Haveri",1362971,51,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-23,2021-04-25,2021-04-27,NA
+14833,"Haveri",1140161,60,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-16,2021-04-27,2021-04-28,NA
+14941,"Haveri",1332886,1,"Female","ILI","Cough, Congenital hemolytic Anaemia","-",NA,2021-04-26,2021-04-28,"Died at her residence"
+15057,"Haveri",1112889,51,"Male","SARI","Cough, Breathlessness","HTN",2021-04-13,2021-04-28,2021-04-29,NA
+15253,"Haveri",1439705,75,"Male","_","_","DM",NA,2021-04-26,2021-04-29,"Brought dead"
+15263,"Haveri",1446093,62,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-27,2021-04-29,NA
+15268,"Haveri",1450450,58,"Female","SARI","Cough, Breathlessness","_",2021-04-26,2021-04-27,2021-04-29,NA
+15288,"Haveri",1468684,60,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-27,2021-04-29,NA
+15298,"Haveri",1481917,50,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-27,2021-04-28,2021-04-29,NA
+15322,"Haveri",1162121,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-15,2021-04-29,2021-04-30,NA
+15413,"Haveri",1352201,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-28,2021-04-30,NA
+15768,"Haveri",1540591,80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-04-30,2021-05-01,NA
+15784,"Haveri",1564657,26,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-30,2021-05-01,NA
+15940,"Haveri",1499333,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-05-01,2021-05-02,NA
+15977,"Haveri",1583130,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-01,2021-05-02,NA
+15991,"Haveri",1605061,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-02,NA
+16002,"Haveri",1615429,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-04-30,2021-05-02,NA
+16224,"Haveri",1593546,55,"Male","SARI","Fever, cough, breathlessness","_",2021-04-30,2021-05-02,2021-05-03,NA
+16227,"Haveri",1596748,72,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-02,2021-05-02,2021-05-03,NA
+16484,"Haveri",1628343,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-03,2021-05-04,NA
+16491,"Haveri",1643987,45,"Male","SARI","Fever, Cough, Breathlessness","_",2021-04-30,2021-05-03,2021-05-04,NA
+16498,"Haveri",1648999,61,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-04-26,2021-05-02,2021-05-04,NA
+16503,"Haveri",1654681,84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-04,2021-05-04,NA
+16519,"Haveri",1685908,53,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-05-02,2021-05-03,2021-05-04,NA
+16521,"Haveri",1688847,59,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-03,2021-05-04,NA
+16798,"Haveri",1605048,43,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16810,"Haveri",1628328,40,"Male","SARI","Fever, cough, Breathlessness","_",2021-05-01,2021-05-03,2021-05-05,NA
+16823,"Haveri",1648993,60,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16845,"Haveri",1699396,42,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-03,2021-05-03,2021-05-05,NA
+17154,"Haveri",1688782,63,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-30,2021-05-05,2021-05-06,NA
+17160,"Haveri",1705929,68,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-01,2021-05-03,2021-05-06,NA
+17163,"Haveri",1708199,45,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-03,2021-05-04,2021-05-06,NA
+17585,"Haveri",1602741,55,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-30,2021-05-06,2021-05-07,NA
+17614,"Haveri",1631712,75,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-04,2021-05-06,2021-05-07,NA
+17657,"Haveri",1682473,75,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-01,2021-05-06,2021-05-07,NA
+17667,"Haveri",1691454,43,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-03,2021-05-04,2021-05-07,NA
+17668,"Haveri",1691479,65,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-03,2021-05-06,2021-05-07,NA
+17694,"Haveri",1718995,38,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-26,2021-05-06,2021-05-07,NA
+17712,"Haveri",1734693,72,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-07,NA
+17763,"Haveri",1800435,50,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-04,2021-05-05,2021-05-07,NA
+17764,"Haveri",1800437,62,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-04,2021-05-05,2021-05-07,NA
+18049,"Haveri",1513996,76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-05,2021-05-08,NA
+18084,"Haveri",1566879,28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-08,NA
+18200,"Haveri",1765181,40,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-06,2021-05-08,NA
+18204,"Haveri",1776268,75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-08,NA
+18224,"Haveri",1811551,49,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-06,2021-05-08,NA
+18238,"Haveri",1842233,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-08,NA
+18241,"Haveri",1843717,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-08,NA
+18243,"Haveri",1846889,41,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-07,2021-05-08,NA
+18245,"Haveri",1847620,38,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-07,2021-05-08,NA
+18268,"Haveri",1877286,57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-06,2021-05-08,NA
+18593,"Haveri",1682467,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-07,2021-05-09,NA
+18609,"Haveri",1718996,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-06,2021-05-09,NA
+18650,"Haveri",1785994,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-07,2021-05-09,NA
+18697,"Haveri",1854847,45,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-07,2021-05-09,NA
+18714,"Haveri",1877287,21,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-09,NA
+18720,"Haveri",1890441,57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18726,"Haveri",1901371,79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-09,NA
+18737,"Haveri",1914875,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-09,NA
+19160,"Haveri",1668873,45,"Male","ILI","Fever, Cough","-",2021-05-02,2021-05-09,2021-05-10,NA
+19184,"Haveri",1691484,55,"Female","ILI","Fever, Cough","DM, HTN",2021-05-06,2021-05-08,2021-05-10,NA
+19209,"Haveri",1751198,70,"Male","ILI","Fever, Cough","DM, HTN",2021-05-05,2021-05-07,2021-05-10,NA
+19226,"Haveri",1785986,56,"Female","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-06,2021-05-10,NA
+19236,"Haveri",1800427,43,"Male","ILI","Fever, Cough","-",2021-05-04,2021-05-08,2021-05-10,NA
+19252,"Haveri",1815702,68,"Male","ILI","Fever, Cough","DM, HTN",2021-05-05,2021-05-09,2021-05-10,NA
+19318,"Haveri",1914891,65,"Male","ILI","Fever, Cough","HTN",2021-05-07,2021-05-08,2021-05-10,NA
+19319,"Haveri",1914893,55,"Female","ILI","Fever, Cough","DM",2021-05-07,2021-05-08,2021-05-10,NA
+19337,"Haveri",1947326,68,"Male","ILI","Fever, Cough","DM, HTN",2021-05-07,2021-05-09,2021-05-10,NA
+19346,"Haveri",1963334,65,"Female","ILI","Fever, Cough","DM, HTN",2021-05-08,2021-05-10,2021-05-10,NA
+19355,"Haveri",1981056,58,"Male","ILI","Fever, Cough","DM, HTN",2021-05-08,2021-05-10,2021-05-10,NA
+19362,"Haveri",1993665,61,"Male","ILI","Fever, Cough","DM, HTN",2021-05-07,2021-05-09,2021-05-10,NA
+19599,"Haveri",1691489,92,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-10,2021-05-11,NA
+19676,"Haveri",1785987,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-09,2021-05-11,NA
+19743,"Haveri",1865016,67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-08,2021-05-11,NA
+19762,"Haveri",1884679,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-09,2021-05-11,NA
+19816,"Haveri",1963333,54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-11,NA
+19956,"Haveri",1641333,88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-11,2021-05-12,NA
+19998,"Haveri",1688811,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-07,2021-05-12,NA
+20053,"Haveri",1737626,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-08,2021-05-12,NA
+20091,"Haveri",1779756,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-10,2021-05-12,NA
+20121,"Haveri",1800436,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-11,2021-05-12,NA
+20273,"Haveri",1949908,49,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-10,2021-05-12,NA
+20314,"Haveri",2002744,64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-10,2021-05-12,NA
+20333,"Haveri",2025203,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-12,NA
+20341,"Haveri",2034387,57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-11,2021-05-12,NA
+20344,"Haveri",2038465,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-12,NA
+20520,"Haveri",1734678,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-13,NA
+20538,"Haveri",1779751,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-11,2021-05-13,NA
+20570,"Haveri",1861294,58,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-07,2021-05-11,2021-05-13,NA
+20608,"Haveri",1954080,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-13,NA
+20613,"Haveri",1959949,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-13,NA
+20656,"Haveri",2032766,69,"Female","ILI","Fever, Cough","DM",NA,2021-05-12,2021-05-13,"Died at her residence"
+20667,"Haveri",2043544,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-13,NA
+20676,"Haveri",2055179,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-13,NA
+20678,"Haveri",2058100,62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-12,2021-05-13,NA
+20921,"Haveri",1947337,85,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+20956,"Haveri",2005102,76,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-14,NA
+20991,"Haveri",2049286,75,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-13,2021-05-14,NA
+21010,"Haveri",2065658,53,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-14,NA
+21023,"Haveri",2091891,65,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+21024,"Haveri",2091892,65,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-14,NA
+21036,"Haveri",2115960,62,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-14,NA
+21037,"Haveri",2116659,67,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-10,2021-05-12,2021-05-14,NA
+21072,"Haveri",2150899,85,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+21234,"Haveri",1861296,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-14,2021-05-15,NA
+21397,"Haveri",2156110,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-12,2021-05-15,"Died at his residence"
+21398,"Haveri",2156461,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-14,2021-05-15,NA
+21404,"Haveri",2163178,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-13,2021-05-15,NA
+21411,"Haveri",2169261,60,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-05-09,2021-05-13,2021-05-15,NA
+21425,"Haveri",2191982,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-14,2021-05-15,NA
+21606,"Haveri",1846888,78,"Male","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-16,2021-05-16,NA
+21616,"Haveri",1877284,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-11,2021-05-16,NA
+21673,"Haveri",1996184,60,"Female","ILI","Fever, Cough","_",NA,2021-05-15,2021-05-16,"Died at her residence"
+21696,"Haveri",2037862,75,"Male","ILI","Fever, Cough","HTN",2021-05-10,2021-05-14,2021-05-16,NA
+21708,"Haveri",2046467,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-14,2021-05-16,NA
+21709,"Haveri",2046474,60,"Female","ILI","Fever, Cough","DM, HTN",2021-05-11,2021-05-15,2021-05-16,NA
+21719,"Haveri",2061210,55,"Female","ILI","Fever, Cough","HTN",2021-05-10,2021-05-15,2021-05-16,NA
+21729,"Haveri",2069048,55,"Male","ILI","Fever, Cough","_",2021-05-12,2021-05-14,2021-05-16,NA
+21763,"Haveri",2119893,73,"Male","ILI","Fever, Cough","DM, HTN",2021-05-12,2021-05-14,2021-05-16,NA
+21781,"Haveri",2152290,55,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-13,2021-05-14,2021-05-16,NA
+21783,"Haveri",2153588,64,"Male","ILI","Fever, Cough","DM",2021-05-12,2021-05-15,2021-05-16,NA
+22059,"Haveri",1914894,35,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-07,2021-05-15,2021-05-17,NA
+22062,"Haveri",1918495,74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-16,2021-05-17,NA
+22123,"Haveri",2030505,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-15,2021-05-17,NA
+22218,"Haveri",2172684,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-15,2021-05-17,NA
+22220,"Haveri",2176423,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-16,2021-05-17,NA
+22250,"Haveri",2211191,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-15,2021-05-17,NA
+22268,"Haveri",2234047,28,"Female","SARI","Fever, Cough, Breathlessness","_",2021-05-13,2021-05-15,2021-05-17,NA
+22275,"Haveri",2242494,72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-15,2021-05-17,NA
+22293,"Haveri",2255632,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-17,NA
+22294,"Haveri",2255639,85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-16,2021-05-17,NA
+23060,"Haveri",1963335,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-19,NA
+23065,"Haveri",1969892,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-17,2021-05-19,NA
+23113,"Haveri",2065665,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-19,2021-05-19,NA
+23145,"Haveri",2115961,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-18,2021-05-19,NA
+23162,"Haveri",2141693,75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-16,2021-05-19,NA
+23179,"Haveri",2156465,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-16,2021-05-19,NA
+23214,"Haveri",2195782,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-17,2021-05-19,NA
+23215,"Haveri",2195783,50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-18,2021-05-19,NA
+23248,"Haveri",2242488,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-19,NA
+23288,"Haveri",2297455,65,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-17,2021-05-19,"Brought dead"
+23295,"Haveri",2308009,27,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-19,NA
+23627,"Haveri",2058105,54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-18,2021-05-20,NA
+23655,"Haveri",2097858,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-18,2021-05-20,NA
+23694,"Haveri",2147937,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-19,2021-05-20,NA
+23712,"Haveri",2172682,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-19,2021-05-20,NA
+23774,"Haveri",2255613,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-20,NA
+23775,"Haveri",2255628,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-05-20,NA
+23790,"Haveri",2275122,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23838,"Haveri",2337558,51,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-19,2021-05-20,NA
+23997,"Haveri",2077944,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-20,2021-05-21,NA
+24010,"Haveri",2103528,69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-19,2021-05-21,NA
+24043,"Haveri",2156096,67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-17,2021-05-21,NA
+24078,"Haveri",2211190,76,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-13,2021-05-20,2021-05-21,NA
+24099,"Haveri",2242495,71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-20,2021-05-21,NA
+24187,"Haveri",2356125,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-19,2021-05-21,NA
+24199,"Haveri",2375338,50,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-19,2021-05-21,"Brought dead"
+24593,"Haveri",2337567,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-21,2021-05-22,NA
+24629,"Haveri",2387680,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-22,NA
+24630,"Haveri",2388759,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-21,2021-05-22,NA
+24642,"Haveri",2409121,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-20,2021-05-22,NA
+24648,"Haveri",2413775,38,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-20,2021-05-21,2021-05-22,NA
+24650,"Haveri",2418525,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-21,2021-05-22,NA
+25082,"Haveri",2206154,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-22,2021-05-23,NA
+25159,"Haveri",2310343,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-22,2021-05-23,NA
+25220,"Haveri",2379413,51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-22,2021-05-23,NA
+25229,"Haveri",2387706,61,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-23,NA
+25235,"Haveri",2394015,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-22,2021-05-23,NA
+25238,"Haveri",2395708,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-23,NA
+25247,"Haveri",2403903,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-22,2021-05-23,NA
+25274,"Haveri",2441290,63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-22,2021-05-23,NA
+25643,"Haveri",2284092,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-23,2021-05-24,NA
+25644,"Haveri",2286621,53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-22,2021-05-24,NA
+25724,"Haveri",2384425,61,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-05-23,2021-05-24,NA
+25728,"Haveri",2387710,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-23,2021-05-24,NA
+25732,"Haveri",2388785,68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-24,2021-05-24,NA
+25788,"Haveri",2450423,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-21,2021-05-24,NA
+25807,"Haveri",2474754,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-22,2021-05-24,NA
+26177,"Haveri",2176416,78,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-20,2021-05-25,NA
+26209,"Haveri",2247063,45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-20,2021-05-25,NA
+26320,"Haveri",2403902,52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-24,2021-05-25,NA
+26366,"Haveri",2471977,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-25,NA
+26370,"Haveri",2474667,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-25,NA
+26391,"Haveri",2495892,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-23,2021-05-25,NA
+26392,"Haveri",2495916,26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-25,NA
+26872,"Haveri",2454142,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-26,2021-05-26,NA
+26889,"Haveri",2481545,68,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-23,2021-05-26,"Died at his residence"
+26892,"Haveri",2483604,65,"Female","ILI","Fever, Cough","-",2021-05-23,2021-05-24,2021-05-26,NA
+26899,"Haveri",2494422,74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-24,2021-05-26,NA
+26900,"Haveri",2496917,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-24,2021-05-26,NA
+26909,"Haveri",2505293,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-24,2021-05-26,NA
+26920,"Haveri",2517135,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-25,2021-05-26,NA
+27295,"Haveri",2401526,52,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-20,2021-05-26,2021-05-27,NA
+27316,"Haveri",2428821,55,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-25,2021-05-26,2021-05-27,NA
+27321,"Haveri",2431116,64,"Female","SARI","Fever, cough, breathlessness","-",2021-05-21,2021-05-26,2021-05-27,NA
+27357,"Haveri",2474710,62,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-22,2021-05-27,2021-05-27,NA
+27687,"Haveri",2422999,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-28,2021-05-28,NA
+27733,"Haveri",2494424,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-28,NA
+27755,"Haveri",2521985,28,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-23,2021-05-28,NA
+27769,"Haveri",2532749,55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-26,2021-05-28,NA
+27794,"Haveri",2565803,45,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-25,2021-05-28,NA
+28078,"Haveri",2358370,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-29,2021-05-29,NA
+28153,"Haveri",2441285,38,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-28,2021-05-29,NA
+28159,"Haveri",2445749,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-28,2021-05-29,NA
+28203,"Haveri",2494224,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-05-29,NA
+28267,"Haveri",2554151,68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-28,2021-05-29,NA
+28278,"Haveri",2570222,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-29,2021-05-29,NA
+28279,"Haveri",2572121,62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-27,2021-05-29,NA
+28506,"Haveri",2299938,78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-28,2021-05-30,NA
+28531,"Haveri",2388760,48,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-29,2021-05-30,NA
+28589,"Haveri",2464878,89,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-29,2021-05-30,NA
+28593,"Haveri",2469715,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-28,2021-05-30,NA
+28596,"Haveri",2474674,52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-29,2021-05-30,NA
+28599,"Haveri",2480173,48,"Male","ILI","Fever, Cough","-",2021-05-23,2021-05-29,2021-05-30,NA
+28607,"Haveri",2495867,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-05-30,NA
+28618,"Haveri",2510331,78,"Female","ILI","Fever, Cough","DM, HTN",2021-05-24,2021-05-29,2021-05-30,NA
+28672,"Haveri",2598481,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-29,2021-05-30,NA
+28674,"Haveri",2608842,80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-05-28,2021-05-30,NA
+28961,"Haveri",2441286,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-28,2021-05-31,NA
+28962,"Haveri",2441294,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-26,2021-05-31,NA
+28976,"Haveri",2474755,75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-30,2021-05-31,NA
+29022,"Haveri",2545977,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-30,2021-05-31,NA
+29047,"Haveri",2584293,62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-30,2021-05-31,NA
+29070,"Haveri",2612085,48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-30,2021-05-31,NA
+29083,"Haveri",2631561,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-29,2021-05-31,NA
+29392,"Haveri",2377687,45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-31,2021-06-01,NA
+29428,"Haveri",2458872,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-26,2021-06-01,NA
+29463,"Haveri",2517132,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-06-01,2021-06-01,NA
+29533,"Haveri",2620517,80,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-01,2021-06-01,NA
+29545,"Haveri",2639861,72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-05-31,2021-06-01,NA
+29552,"Haveri",2645503,40,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-05-31,2021-06-01,NA
+29873,"Haveri",2474675,34,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-25,2021-06-02,NA
+29874,"Haveri",2474751,85,"Female","SARI","Cough, Breathlessness","HTN",NA,2021-06-02,2021-06-02,"Died at her residence"
+29878,"Haveri",2479521,75,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-23,2021-05-28,2021-06-02,NA
+29984,"Haveri",2636250,60,"Female","ILI","Fever, Cough","DM",2021-05-30,2021-06-02,2021-06-02,NA
+29996,"Haveri",2653283,78,"Male","SARI","Cough, Breathlessness","HTN",NA,2021-05-31,2021-06-02,"Died at his residence"
+30008,"Haveri",2664139,42,"Male","ILI","Fever","-",2021-05-31,2021-06-01,2021-06-02,NA
+30418,"Haveri",2564511,55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-02,2021-06-03,NA
+30423,"Haveri",2572118,40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-06-03,2021-06-03,NA
+30474,"Haveri",2634351,46,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-06-03,2021-06-03,NA
+30477,"Haveri",2642359,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-03,2021-06-03,NA
+30479,"Haveri",2643566,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-02,2021-06-03,NA
+30487,"Haveri",2650938,85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-31,2021-06-03,NA
+30491,"Haveri",2654402,67,"Female","SARI","Fever, Cough, Breathlessness","_",2021-05-31,2021-06-02,2021-06-03,NA
+30512,"Haveri",2669468,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-01,2021-06-03,NA
+30742,"Haveri",2450413,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-02,2021-06-04,NA
+30763,"Haveri",2508486,61,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-06-02,2021-06-04,NA
+30818,"Haveri",2601654,34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-04,2021-06-04,NA
+30831,"Haveri",2618842,50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-03,2021-06-04,NA
+30880,"Haveri",2686528,55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-02,2021-06-04,NA
+30884,"Haveri",2689922,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-04,NA
+30894,"Haveri",2699490,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-04,2021-06-04,NA
+31150,"Haveri",2554154,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-31,2021-06-05,NA
+31157,"Haveri",2565789,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-06-03,2021-06-05,NA
+31170,"Haveri",2598474,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-06-01,2021-06-05,NA
+31203,"Haveri",2651097,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-05,2021-06-05,NA
+31254,"Haveri",2706198,76,"Male","ILI","Fever, Cough","_",2021-05-31,2021-06-02,2021-06-05,NA
+31255,"Haveri",2706199,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-04,2021-06-05,NA
+31483,"Haveri",2573903,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-05,2021-06-06,NA
+31488,"Haveri",2578896,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-05,2021-06-06,NA
+31544,"Haveri",2692769,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-06,2021-06-06,NA
+31563,"Haveri",2706202,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-06,2021-06-06,NA
+31577,"Haveri",2722414,63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-05,2021-06-06,NA
+31579,"Haveri",2724392,35,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-05,2021-06-06,NA
+31804,"Haveri",2595126,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-28,2021-06-07,NA
+31806,"Haveri",2600020,63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-05-31,2021-06-07,NA
+31807,"Haveri",2600026,65,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-05-28,2021-05-28,2021-06-07,NA
+31808,"Haveri",2601656,87,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-06-07,NA
+31815,"Haveri",2616144,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-29,2021-06-07,NA
+31825,"Haveri",2630218,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-07,2021-06-07,NA
+31892,"Haveri",2707229,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-07,NA
+31911,"Haveri",2730314,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-06,2021-06-07,NA
+31914,"Haveri",2733798,70,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-06,2021-06-07,NA
+31919,"Haveri",2740245,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-06,2021-06-07,NA
+32020,"Haveri",2650271,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-07,2021-06-08,NA
+32022,"Haveri",2650934,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-07,2021-06-08,NA
+32064,"Haveri",2717009,51,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-04,2021-06-08,"Brought dead"
+32065,"Haveri",2717889,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-06,2021-06-08,NA
+32066,"Haveri",2718680,36,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-07,2021-06-08,NA
+32070,"Haveri",2723417,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-07,2021-06-08,NA
+32086,"Haveri",2732653,46,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-06,2021-06-08,NA
+32090,"Haveri",2740547,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-06,2021-06-08,NA
+32094,"Haveri",2744985,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-06,2021-06-08,NA
+32098,"Haveri",2749471,74,"Female","ILI","Fever, Cough","DM, HTN",2021-06-04,2021-06-06,2021-06-08,NA
+32100,"Haveri",2751365,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-07,2021-06-08,NA
+32145,"Haveri",2516349,71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-27,2021-06-09,NA
+32181,"Haveri",2622099,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-01,2021-06-09,NA
+32187,"Haveri",2629289,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-08,2021-06-09,NA
+32188,"Haveri",2630216,46,"Male","ILI","Fever, Cough","DM",2021-05-29,2021-06-08,2021-06-09,NA
+32197,"Haveri",2650270,49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-06,2021-06-09,NA
+32200,"Haveri",2654403,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-09,NA
+32201,"Haveri",2655988,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-09,NA
+32220,"Haveri",2688272,35,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-06-07,2021-06-09,NA
+32223,"Haveri",2689923,84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-08,2021-06-09,NA
+32235,"Haveri",2714523,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-08,2021-06-09,NA
+32237,"Haveri",2715629,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-07,2021-06-09,NA
+32287,"Haveri",2759413,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-07,2021-06-09,NA
+32378,"Haveri",2642308,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-03,2021-06-10,NA
+32429,"Haveri",2714862,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-09,2021-06-10,NA
+32432,"Haveri",2716504,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-10,2021-06-10,NA
+32467,"Haveri",2758493,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-06,2021-06-10,NA
+32476,"Haveri",2764885,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-09,2021-06-10,NA
+32477,"Haveri",2765880,43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-09,2021-06-10,NA
+32550,"Haveri",2638092,48,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-05-30,2021-06-10,2021-06-11,NA
+32574,"Haveri",2674163,78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-10,2021-06-11,NA
+32579,"Haveri",2688285,71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-10,2021-06-11,NA
+32582,"Haveri",2694360,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-11,2021-06-11,NA
+32603,"Haveri",2735901,82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-10,2021-06-11,NA
+32616,"Haveri",2749480,72,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-03,2021-06-10,2021-06-11,NA
+32632,"Haveri",2768698,82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-10,2021-06-11,NA
+32634,"Haveri",2771683,74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-08,2021-06-11,NA
+32637,"Haveri",2772251,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-09,2021-06-11,NA
+32647,"Haveri",2782130,31,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-10,2021-06-11,NA
+32726,"Haveri",2686536,63,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-08,2021-06-12,NA
+32732,"Haveri",2706205,78,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-11,2021-06-12,NA
+32749,"Haveri",2725824,28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-12,NA
+32759,"Haveri",2745894,68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-11,2021-06-12,NA
+32771,"Haveri",2764870,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-11,2021-06-12,NA
+32848,"Haveri",2702082,50,"Female","ILI","Fever, Cough","DM",2021-06-03,2021-06-05,2021-06-13,NA
+32850,"Haveri",2706203,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-06,2021-06-13,NA
+32907,"Haveri",2783791,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-12,2021-06-13,NA
+32973,"Haveri",2697924,66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-04,2021-06-14,NA
+32984,"Haveri",2718684,28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-12,2021-06-14,NA
+32987,"Haveri",2728865,74,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-07,2021-06-14,NA
+32996,"Haveri",2748070,54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-14,2021-06-14,NA
+33019,"Haveri",2786468,32,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-12,2021-06-13,2021-06-14,NA
+33140,"Haveri",2806377,89,"Male","SARI","Fever, cough, Breathlessness","DM",2021-06-12,2021-06-14,2021-06-15,NA
+33143,"Haveri",2808475,60,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-12,2021-06-15,2021-06-15,NA
+33145,"Haveri",2812729,44,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-13,2021-06-13,2021-06-15,NA
+33330,"Haveri",2616143,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-16,2021-06-17,NA
+33376,"Haveri",2747178,50,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-06-06,2021-06-17,2021-06-17,NA
+33405,"Haveri",2793156,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-16,2021-06-17,NA
+33504,"Haveri",2727131,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-15,2021-06-18,NA
+33505,"Haveri",2727534,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-17,2021-06-18,NA
+33536,"Haveri",2778465,56,"Male","ILI","Fever, Cough","DM",2021-06-09,2021-06-17,2021-06-18,NA
+33563,"Haveri",2810031,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-13,2021-06-17,2021-06-18,NA
+33658,"Haveri",2756439,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-19,2021-06-19,NA
+33678,"Haveri",2773777,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-18,2021-06-19,NA
+33680,"Haveri",2778472,72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-09,2021-06-17,2021-06-19,NA
+33735,"Haveri",2828682,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-06-17,2021-06-19,"Brought dead"
+33736,"Haveri",2828689,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-16,2021-06-19,2021-06-19,NA
+33738,"Haveri",2830321,55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-15,2021-06-19,2021-06-19,NA
+33819,"Haveri",2758472,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-15,2021-06-16,2021-06-20,NA
+33820,"Haveri",2761529,71,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-17,2021-06-20,NA
+33823,"Haveri",2764865,65,"Male","ILI","Fever, Cough","DM, HTN",2021-06-08,2021-06-10,2021-06-20,NA
+33864,"Haveri",2832464,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-19,2021-06-20,NA
+33871,"Haveri",2841478,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-20,2021-06-20,NA
+33933,"Haveri",2647269,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-06-20,2021-06-21,NA
+33960,"Haveri",2749470,41,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-17,2021-06-21,NA
+33985,"Haveri",2801079,64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-12,2021-06-20,2021-06-21,NA
+34015,"Haveri",2846312,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-19,2021-06-19,2021-06-21,NA
+34016,"Haveri",2847133,48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CVD",2021-06-19,2021-06-20,2021-06-21,NA
+34117,"Haveri",2808458,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-15,2021-06-22,NA
+34148,"Haveri",2849724,65,"Male","SARI","Fever, Cough, Breathlessness","CVD",NA,2021-06-18,2021-06-22,"Brought dead"
+34372,"Haveri",2825199,68,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-15,2021-06-23,2021-06-24,NA
+34398,"Haveri",2849004,50,"Female","SARI","Fever, Cough, Breathlesness","HTN",2021-06-19,2021-06-24,2021-06-24,NA
+34401,"Haveri",2850299,48,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-19,2021-06-23,2021-06-24,NA
+34403,"Haveri",2851336,32,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-20,2021-06-23,2021-06-24,NA
+34418,"Haveri",2860969,70,"Male","SARI","Fever, Cough, Breathlesness","HTN",2021-06-22,2021-06-24,2021-06-24,NA
+34472,"Haveri",2751031,44,"Female","ILI","Fever, Cough","DM",2021-06-06,2021-06-24,2021-06-25,NA
+34473,"Haveri",2753396,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-16,2021-06-25,NA
+34586,"Haveri",2751031,44,"Female","ILI","Fever, Cough","DM",2021-06-06,2021-06-24,2021-06-25,NA
+34587,"Haveri",2753396,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-16,2021-06-25,NA
+34767,"Haveri",2872727,70,"Male","ILI","Fever, Cough","HTN",2021-06-23,2021-06-23,2021-06-26,NA
+34896,"Haveri",2815620,55,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-14,2021-06-27,2021-06-28,NA
+34909,"Haveri",2843699,101,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-18,2021-06-28,2021-06-28,NA
+34928,"Haveri",2865515,33,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-24,2021-06-27,2021-06-28,NA
+34967,"Haveri",2710045,60,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"24+AC0-06+AC0-2021"
+34985,"Haveri",2811358,48,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"25+AC0-06+AC0-2021"
+34986,"Haveri",2811360,40,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"24+AC0-06+AC0-2021"
+34992,"Haveri",2822283,60,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35001,"Haveri",2840050,67,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021"
+35024,"Haveri",2862983,70,"Female","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35031,"Haveri",2865862,35,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35040,"Haveri",2876241,54,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"25+AC0-06+AC0-2021"
+35092,"Haveri",2811359,52,"Male","ILI","Fever, Cough","-",2021-06-14,2021-06-28,2021-06-30,NA
+35103,"Haveri",2839529,26,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-21,2021-06-30,NA
+35118,"Haveri",2855161,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-27,2021-06-30,NA
+35125,"Haveri",2861688,78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-22,2021-06-27,2021-06-30,NA
+35130,"Haveri",2869983,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-06-30,2021-06-30,NA
+35213,"Haveri",2849003,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-30,2021-07-01,NA
+35238,"Haveri",2883151,40,"Female","ILI","Fever, Cough","HTN",2021-06-28,2021-06-28,2021-07-01,NA
+35288,"Haveri",2825585,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-07-02,2021-07-02,NA
+35309,"Haveri",2862658,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-23,2021-07-01,2021-07-02,NA
+35316,"Haveri",2869984,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-07-01,2021-07-02,NA
+35417,"Haveri",2891570,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-02,2021-07-03,NA
+35479,"Haveri",2890607,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-03,2021-07-04,NA
+35537,"Haveri",2889627,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-04,2021-07-05,NA
+35621,"Haveri",2893236,69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-02,2021-07-06,NA
+35627,"Haveri",2896065,81,"Male","ILI","Fever, Cough","-",2021-07-04,2021-07-05,2021-07-06,NA
+35838,"Haveri",2903943,51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-07,2021-07-07,2021-07-09,NA
+35846,"Haveri",100001186,52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-16,2021-07-07,2021-07-09,NA
+35858,"Haveri",2863565,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-07,2021-07-10,NA
+35906,"Haveri",2783554,60,"Female","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-06-15,2021-07-10,2021-07-11,NA
+35935,"Haveri",2900751,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-05,2021-07-11,2021-07-11,NA
+36005,"Haveri",2911591,68,"Male","ILI","Fever, Cough","-",2021-07-10,2021-07-10,2021-07-12,NA
+36044,"Haveri",2905569,92,"Female","ILI","Fever, Cough","DM, HTN",2021-07-07,2021-07-13,2021-07-13,NA
+36087,"Haveri",2903737,15,"Female","ILI","Fever, Cough","-",2021-07-09,2021-07-11,2021-07-14,NA

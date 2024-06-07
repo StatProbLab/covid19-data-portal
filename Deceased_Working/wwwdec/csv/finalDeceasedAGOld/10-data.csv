@@ -1,0 +1,248 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+905,"Chitradurga","45032",75,"Female","ILI","Fever","-",2020-07-11,2020-07-11,2020-07-15,NA
+1380,"Chitradurga","68577",68,"Male","ILI","Fever & Cough","-",2020-07-19,2020-07-19,2020-07-20,NA
+1383,"Chitradurga","69020",44,"Female","SARI","Breathlessness","-",2020-07-18,2020-07-19,2020-07-20,NA
+1600,"Chitradurga","18177",61,"Male","Travel History Bengaluru","Cough & Breathlessness","DM",2020-07-03,2020-07-14,2020-07-24,NA
+1615,"Chitradurga","47871",61,"Male","SARI","Cough & Breathlessness","-",2020-07-14,2020-07-16,2020-07-24,NA
+1686,"Chitradurga","80789",71,"Female","SARI","Breathlessness","DM, HTN",2020-07-21,2020-07-22,2020-07-24,NA
+2330,"Chitradurga","103385",52,"Male","SARI","Cough & Breathlessness","-",2020-07-25,2020-07-26,2020-08-01,NA
+2348,"Chitradurga","114089",42,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-28,2020-07-29,2020-08-01,NA
+2352,"Chitradurga","115706",56,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-28,2020-07-29,2020-08-01,NA
+2627,"Chitradurga","120016",45,"Female","SARI","Cough & Breathlessness","-",2020-07-29,2020-08-01,2020-08-04,NA
+2642,"Chitradurga","127263",84,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-31,2020-08-01,2020-08-04,NA
+2658,"Chitradurga","134889",45,"Female","SARI","Fever, Breathlessness","HTN",2020-07-31,2020-08-01,2020-08-04,NA
+3078,"Chitradurga","75551",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-20,2020-07-20,2020-08-09,NA
+3113,"Chitradurga","125825",40,"Male","SARI","Cough","DM, HTN",2020-07-31,2020-08-07,2020-08-09,NA
+4609,"Chitradurga","161221",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-05,2020-08-07,2020-08-23,NA
+4613,"Chitradurga","171858",68,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-12,2020-08-23,NA
+4617,"Chitradurga","199585",55,"Male","ILI","Breathlessness","-",2020-08-10,2020-08-20,2020-08-23,NA
+4820,"Chitradurga","186928",64,"Female","SARI","Breathlessness","DM, HTN",2020-08-09,2020-08-12,2020-08-25,NA
+4821,"Chitradurga","186929",71,"Male","SARI","Breathlessness","-",2020-08-09,2020-08-10,2020-08-25,NA
+4843,"Chitradurga","223652",40,"Male","SARI","-","-",2020-08-14,2020-08-19,2020-08-25,NA
+5510,"Chitradurga","246280",68,"Female","ILI","Fever","DM",2020-08-17,2020-08-17,2020-08-30,NA
+5537,"Chitradurga","294125",60,"Male","ILI","Cough","-",NA,2020-08-24,2020-08-30,"Brought dead"
+5834,"Chitradurga","185357",60,"Male","ILI","Fever, Cough","DM, HTN",2020-08-06,2020-08-07,2020-09-02,NA
+5835,"Chitradurga","186927",52,"Male","ILI","Fever, Cough","DM, HTN",NA,2020-08-09,2020-09-02,"Brought dead"
+5851,"Chitradurga","259820",82,"Male","SARI","Fever, Breathlessness","-",2020-08-19,2020-08-19,2020-09-02,NA
+6685,"Chitradurga","286862",78,"Male","SARI","Cough, Breathlessness","DM, HTN",NA,2020-08-09,2020-09-09,"Brought dead"
+6718,"Chitradurga","344469",47,"Male","SARI","Cough, Breathlessness","DM",2020-08-19,2020-08-19,2020-09-09,NA
+6968,"Chitradurga","352045",75,"Male","ILI","Fever, Cough","DM, HTN",2020-08-30,2020-09-03,2020-09-11,NA
+6969,"Chitradurga","352050",65,"Male","SARI","Cough, Breathlessness","-",2020-08-30,2020-09-01,2020-09-11,NA
+7087,"Chitradurga","356001",85,"Male","SARI","Fever, Breathlessness, Cough","-",2020-09-01,2020-09-04,2020-09-12,NA
+7090,"Chitradurga","360474",55,"Male","SARI","Breathlessness, Cough","-",2020-08-31,2020-09-04,2020-09-12,NA
+7093,"Chitradurga","365882",70,"Male","SARI","Breathlessness, Cough","-",2020-09-02,2020-09-05,2020-09-12,NA
+7107,"Chitradurga","385303",59,"Male","SARI","Fever, Cough","DM, HTN",2020-09-03,2020-09-05,2020-09-12,NA
+8522,"Chitradurga","480938",68,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-09-15,2020-09-27,NA
+8523,"Chitradurga","482246",82,"Male","SARI","Breathlessness","HTN",2020-09-16,2020-09-19,2020-09-27,NA
+8720,"Chitradurga","504831",60,"Male","ILI","Breathlessness","HTN",2020-09-17,2020-09-17,2020-09-29,NA
+8728,"Chitradurga","514410",60,"Male","ILI","Breathlessness","HTN",2020-09-17,2020-09-18,2020-09-29,NA
+8730,"Chitradurga","516676",85,"Male","ILI","Breathlessness","HTN",2020-09-19,2020-09-22,2020-09-29,NA
+9828,"Chitradurga","589613",50,"Female","SARI","Cough, Breathlessness","-",2020-09-26,2020-09-28,2020-10-10,NA
+9842,"Chitradurga","613116",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-29,2020-09-30,2020-10-10,NA
+9855,"Chitradurga","634729",64,"Male","SARI","Cough, Breathlessness","-",2020-10-01,2020-10-02,2020-10-10,NA
+9921,"Chitradurga","624022",73,"Male","ILI","Fever, Cough","DM",2020-09-29,2020-10-05,2020-10-11,NA
+9945,"Chitradurga","672277",60,"Male","ILI","Fever, Cough","DM",2020-10-01,2020-10-07,2020-10-11,NA
+9992,"Chitradurga","616557",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-30,2020-10-01,2020-10-12,NA
+9998,"Chitradurga","635654",53,"Male","SARI","Cough, Breathlessness","-",2020-09-26,2020-10-04,2020-10-12,NA
+10181,"Chitradurga","703571",65,"Male","ILI","Fever, Cough","-",2020-10-10,2020-10-11,2020-10-14,NA
+10336,"Chitradurga","713298",60,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-10-09,2020-10-11,2020-10-16,NA
+10350,"Chitradurga","730259",75,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-10-12,2020-10-13,2020-10-16,NA
+10363,"Chitradurga","756952",78,"Male","SARI","Cough, Breathlessness","-",2020-10-14,2020-10-14,2020-10-16,NA
+10458,"Chitradurga","722658",75,"Male","ILI","Breathlessness","DM",2020-10-01,2020-10-14,2020-10-18,NA
+10483,"Chitradurga","765754",52,"Female","ILI","Breathlessness","-",2020-10-14,2020-10-15,2020-10-18,NA
+10674,"Chitradurga","750084",58,"Female","ILI","Breathlessness","HTN",2020-10-18,2020-10-18,2020-10-21,NA
+10756,"Chitradurga","765755",72,"Male","SARI","Breathlessness","DM, HTN",2020-10-16,2020-10-19,2020-10-22,NA
+10757,"Chitradurga","767871",55,"Female","SARI","Breathlessness","DM, HTN",2020-10-16,2020-10-19,2020-10-22,NA
+10810,"Chitradurga","765763",50,"Male","ILI","Breathlessness","DM, HTN",2020-10-15,2020-10-19,2020-10-23,NA
+10878,"Chitradurga","807707",81,"Male","ILI","Breathlessness","HTN",2020-10-23,2020-10-24,2020-10-24,NA
+11083,"Chitradurga","798786",51,"Female","SARI","Breathlessness","DM",2020-10-21,2020-10-27,2020-10-29,NA
+11084,"Chitradurga","799632",85,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-23,2020-10-25,2020-10-29,NA
+11089,"Chitradurga","808488",65,"Male","ILI","Fever, Cough","DM, CLD",2020-10-23,2020-10-25,2020-10-29,NA
+11196,"Chitradurga","826176",80,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-28,2020-10-31,2020-11-01,NA
+11416,"Chitradurga","849822",58,"Male","ILI","Breathlessness","DM, HTN",2020-11-04,2020-11-07,2020-11-09,NA
+11438,"Chitradurga","860888",29,"Male","ILI","Fever, Breathlessness","CLD",2020-11-08,2020-11-09,2020-11-10,NA
+11457,"Chitradurga","860897",50,"Female","ILI","Breathlessness","DM",2020-11-08,2020-11-08,2020-11-11,NA
+11795,"Chitradurga","893943",0.33,"Male","SARI","Breathlessness","Seizures",2020-11-22,2020-11-28,2020-12-01,NA
+11804,"Chitradurga","876369",63,"Male","SARI","Breathlessness","-",2020-11-15,2020-11-24,2020-12-02,NA
+11848,"Chitradurga","889821",75,"Male","ILI","Fever, Cough","DM",2020-11-24,2020-11-27,2020-12-05,NA
+11912,"Chitradurga","875933",45,"Male","SASRI","Fever, Cough, Breathlessness","-",2020-11-13,2020-11-16,2020-12-11,NA
+11956,"Chitradurga","902045",82,"Male","ILI","Fever, Cough","DM, HTN",2020-12-01,2020-12-08,2020-12-15,NA
+12183,"Chitradurga","943338",75,"Male","SARI","Fever, Breathlessness","DM, CKD",2021-01-12,2021-01-18,2021-01-20,NA
+12786,"Chitradurga","1024093",65,"Female","SARI","Fever, Breathlessness","HTN",2021-04-01,2021-04-08,2021-04-09,NA
+14350,"Chitradurga","1203993",53,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-23,2021-04-25,NA
+14877,"Chitradurga","1229243",75,"Male","SARI","Fever, cough, breathlessness","IHD",2021-04-18,2021-04-21,2021-04-28,NA
+15077,"Chitradurga","1159692",72,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-19,2021-04-25,2021-04-29,NA
+15248,"Chitradurga","1436501",36,"Male","SARI","Fever, breathlessness","DM, HTN",2021-04-27,2021-04-27,2021-04-29,NA
+15661,"Chitradurga","1362740",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-30,2021-05-01,NA
+15695,"Chitradurga","1419736",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-28,2021-05-01,NA
+15702,"Chitradurga","1425298",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-05-01,NA
+16041,"Chitradurga","1230814",46,"Male","SARI","Fever, breathlessness","DM",2021-04-24,2021-04-24,2021-05-03,NA
+16056,"Chitradurga","1280320",58,"Female","SARI","Fever, breathlessness","HTN",2021-04-30,2021-05-02,2021-05-03,NA
+16114,"Chitradurga","1400024",40,"Male","ILI","Fever, cough","-",2021-04-25,2021-05-01,2021-05-03,NA
+16135,"Chitradurga","1436502",85,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-26,2021-04-30,2021-05-03,NA
+16405,"Chitradurga","1493246",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-04-29,2021-05-04,NA
+16421,"Chitradurga","1504369",52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-04-30,2021-05-04,NA
+16632,"Chitradurga","1232522",90,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-23,2021-05-05,NA
+18091,"Chitradurga","1582508",46,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-06,2021-05-08,NA
+18775,"Chitradurga","1969402",28,"Male","ILI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+19362,"Chitradurga","1996173",26,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19364,"Chitradurga","1999446",48,"Female","ILI","Fever","-",2021-05-09,2021-05-09,2021-05-10,NA
+19591,"Chitradurga","1664655",59,"Male","ILI","Fever","DM",2021-05-03,2021-05-11,2021-05-11,NA
+19677,"Chitradurga","1788711",60,"Male","SARI","Cough, breathlessness","HTN",2021-04-29,2021-05-10,2021-05-11,NA
+19777,"Chitradurga","1908135",72,"Male","ILI","Fever, cough","DM",2021-05-07,2021-05-09,2021-05-11,NA
+19818,"Chitradurga","1969403",4,"Male","ILI","Fever","-",2021-05-07,2021-05-09,2021-05-11,NA
+19847,"Chitradurga","2029134",52,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-09,2021-05-09,2021-05-11,NA
+20048,"Chitradurga","1734444",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-12,NA
+20284,"Chitradurga","1962900",86,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-12,NA
+20649,"Chitradurga","2024650",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-13,NA
+20850,"Chitradurga","1788721",52,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-14,NA
+21065,"Chitradurga","2147448",58,"Male","SARI","Cough, breathlessness","-",2021-05-13,2021-05-14,2021-05-14,NA
+21144,"Chitradurga","1596365",48,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-15,2021-05-15,NA
+21228,"Chitradurga","1856827",60,"Male","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-13,2021-05-15,NA
+21314,"Chitradurga","2048727",50,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-13,2021-05-15,"Died at her residence"
+21406,"Chitradurga","2165832",45,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-15,2021-05-15,NA
+21660,"Chitradurga","1969390",48,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-15,2021-05-16,NA
+21716,"Chitradurga","2060953",51,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-14,2021-05-16,NA
+21817,"Chitradurga","2196183",31,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-15,2021-05-16,NA
+21818,"Chitradurga","2196193",48,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-15,2021-05-16,NA
+22271,"Chitradurga","2239807",66,"Male","ILI","Fever","-",2021-05-16,2021-05-16,2021-05-17,NA
+22836,"Chitradurga","2309848",75,"Female","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-18,2021-05-18,NA
+23190,"Chitradurga","2165822",50,"Female","ILI","Fever","-",2021-05-11,2021-05-18,2021-05-19,NA
+23201,"Chitradurga","2179391",0.25,"Female","ILI","Fever","-",2021-05-16,2021-05-18,2021-05-19,NA
+23222,"Chitradurga","2205428",45,"Female","ILI","Fever","-",2021-05-13,2021-05-17,2021-05-19,NA
+23616,"Chitradurga","2040941",50,"Female","SARI","Fever, Breathlessness","DM",2021-05-11,2021-05-17,2021-05-20,NA
+23703,"Chitradurga","2162822",40,"Male","ILI","Fever","-",2021-05-11,2021-05-15,2021-05-20,NA
+23769,"Chitradurga","2254081",57,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-20,NA
+23833,"Chitradurga","2332992",67,"Male","ILI","Fever","-",2021-05-16,2021-05-16,2021-05-20,NA
+24108,"Chitradurga","2254185",70,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-19,2021-05-21,NA
+24119,"Chitradurga","2274578",75,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-16,2021-05-21,NA
+24489,"Chitradurga","2107215",49,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-20,2021-05-22,NA
+25004,"Chitradurga","2103262",65,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-23,2021-05-23,NA
+25022,"Chitradurga","2121210",79,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-22,2021-05-23,NA
+25115,"Chitradurga","2262557",89,"Female","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-21,2021-05-23,NA
+25274,"Chitradurga","2444779",63,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-22,2021-05-23,NA
+25283,"Chitradurga","2473539",80,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-22,2021-05-23,NA
+25561,"Chitradurga","2126989",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-23,2021-05-24,NA
+25667,"Chitradurga","2318808",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-23,2021-05-24,NA
+25714,"Chitradurga","2379184",26,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-23,2021-05-24,NA
+25763,"Chitradurga","2430526",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25803,"Chitradurga","2473541",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-24,NA
+26861,"Chitradurga","2444764",76,"Male","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-26,2021-05-26,NA
+26911,"Chitradurga","2508148",70,"Female","SARI","Fever, Breathlessness","DM",2021-05-23,2021-05-25,2021-05-26,NA
+26922,"Chitradurga","2522675",55,"Female","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-24,2021-05-26,NA
+27283,"Chitradurga","2379193",78,"Female","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-25,2021-05-27,NA
+27287,"Chitradurga","2382746",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-16,2021-05-26,2021-05-27,NA
+27291,"Chitradurga","2393577",70,"Male","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-26,2021-05-27,NA
+27354,"Chitradurga","2473516",58,"Female","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-27,2021-05-27,NA
+27384,"Chitradurga","2513449",65,"Female","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-26,2021-05-27,NA
+27638,"Chitradurga","2326646",45,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-28,2021-05-28,NA
+27675,"Chitradurga","2389134",45,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-28,2021-05-28,NA
+28104,"Chitradurga","2382743",64,"Female","SARI","Fever, Breathlessness","DM",2021-05-28,2021-05-29,2021-05-29,NA
+28385,"Chitradurga","1668433",66,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-28,2021-05-30,NA
+28508,"Chitradurga","2322701",65,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-29,2021-05-30,NA
+29092,"Chitradurga","2643313",40,"Male","SARI","Fever, Breathlessness","-",2021-05-28,2021-05-31,2021-05-31,NA
+29380,"Chitradurga","2340106",50,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-31,2021-06-01,NA
+29469,"Chitradurga","2526068",40,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29484,"Chitradurga","2536350",50,"Female","SARI","Fever, Breathlessness","-",2021-05-30,2021-05-31,2021-06-01,NA
+29501,"Chitradurga","2568016",26,"Female","SARI","Fever, Breathlessness","-",2021-05-31,2021-05-31,2021-06-01,NA
+29532,"Chitradurga","2621661",36,"Female","SARI","Fever, Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29534,"Chitradurga","2628105",60,"Female","SARI","Fever, Breathlessness","-",2021-05-28,2021-05-30,2021-06-01,NA
+29548,"Chitradurga","2643364",65,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29783,"Chitradurga","2217862",82,"Male","ILI","Fever","-",2021-05-13,2021-06-02,2021-06-02,NA
+29854,"Chitradurga","2444745",68,"Male","ILI","Cough","-",2021-05-21,2021-06-01,2021-06-02,NA
+29974,"Chitradurga","2628100",50,"Male","ILI","Cough","-",2021-05-28,2021-06-02,2021-06-02,NA
+30491,"Chitradurga","2655603",64,"Male","SARI","Fever, Breathlessness","-",2021-06-03,2021-06-03,2021-06-03,NA
+30778,"Chitradurga","2539547",65,"Female","SARI","Fever, Breathlessness","DM",2021-05-24,2021-06-02,2021-06-04,NA
+31251,"Chitradurga","2705872",55,"Female","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-05,2021-06-05,NA
+31480,"Chitradurga","2570840",55,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-06-04,2021-06-06,NA
+31872,"Chitradurga","2680994",75,"Male","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-06,2021-06-07,NA
+32213,"Chitradurga","2681484",66,"Male","SARI","Fever, Breathlessness","-",2021-06-01,2021-06-09,2021-06-09,NA
+32296,"Chitradurga","1653265",45,"Female","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-07,2021-06-10,NA
+32401,"Chitradurga","2680991",72,"Male","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-10,2021-06-10,NA
+32417,"Chitradurga","2695242",38,"Male","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-07,2021-06-10,NA
+32641,"Chitradurga","2777504",49,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-10,2021-06-11,NA
+32656,"Chitradurga","2254105",44,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-06-11,2021-06-12,NA
+32764,"Chitradurga","2755251",60,"Female","SARI","Fever, Breathlessness","DM",2021-06-06,2021-06-12,2021-06-12,NA
+32789,"Chitradurga","2796866",65,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-11,2021-06-12,NA
+32976,"Chitradurga","2707045",55,"Male","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-12,2021-06-14,NA
+33550,"Chitradurga","2798006",60,"Female","ILI","Fever","-",2021-06-13,2021-06-18,2021-06-18,NA
+33630,"Chitradurga","2620131",60,"Female","SARI","Fever, Breathlessness","-",2021-06-01,2021-06-06,2021-06-19,NA
+33631,"Chitradurga","2620157",38,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-06-05,2021-06-19,NA
+33644,"Chitradurga","2704418",31,"Male","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-07,2021-06-19,NA
+33688,"Chitradurga","2791800",50,"Female","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-13,2021-06-19,NA
+33829,"Chitradurga","2774076",50,"Male","SARI","Fever, Breathlessness","-",2021-06-12,2021-06-19,2021-06-20,NA
+33831,"Chitradurga","2776583",80,"Male","ILI","Fever","-",2021-06-16,2021-06-19,2021-06-20,NA
+34152,"Chitradurga","100000345",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-10,2021-06-22,NA
+34153,"Chitradurga","100000382",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-14,2021-06-22,NA
+34249,"Chitradurga","2831138",56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-18,2021-06-21,2021-06-23,NA
+34286,"Chitradurga","100001557",60,"Male","ILI","Fever",NA,2021-06-21,2021-06-26,2021-06-23,NA
+34340,"Chitradurga","2787043",40,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-16,2021-06-18,2021-06-24,NA
+34427,"Chitradurga","100001164",38,"Female","SARI","Fever, Cough, Breathlesness","-",2021-05-31,2021-06-18,2021-06-24,NA
+35041,"Chitradurga","100002149",43,"Male","SARI","Fever, Breathlessness","-",2021-06-28,2021-06-30,2021-06-30,NA
+35155,"Chitradurga","2702923",65,"Female","ILI","Fever","-",2021-05-31,2021-06-15,2021-07-02,NA
+35517,"Chitradurga","100000894",25,"Female","SARI","Fever, Breathlessness","-",2021-06-07,2021-07-05,2021-07-06,NA
+35740,"Chitradurga","2856481",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-22,2021-07-10,NA
+36124,"Chitradurga","2821626",52,"Male","ILI","Fever","DM",2021-06-12,2021-06-18,2021-07-18,NA
+36172,"Chitradurga","2901996",60,"Female","ILI","Fever, Cough","-",2021-07-09,2021-07-19,2021-07-19,NA
+36261,"Chitradurga","100001766",58,"Female","ILI","Fever, Cough","-",2021-06-23,2021-07-20,2021-07-21,NA
+36297,"Chitradurga","100001766",58,"Female","ILI","Fever, Cough","-",2021-06-23,2021-07-20,2021-07-21,NA
+36654,"Chitradurga","2938173",80,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-27,2021-07-28,2021-08-04,NA
+36696,"Chitradurga","2718606",58,"Male","ILI","Fever","DM",2021-06-08,2021-06-10,2021-08-06,NA
+36723,"Chitradurga","100001776",59,"Male","ILI","Fever","-",2021-06-08,2021-06-26,2021-08-06,NA
+36805,"Chitradurga","2855917",58,"Male","SARI","Fever, Breathlessness","DM",2021-06-19,2021-06-24,2021-08-10,NA
+36836,"Chitradurga","2787035",55,"Female","ILI","Fever","-",2021-06-09,2021-08-11,2021-08-11,NA
+36863,"Chitradurga","100000422",50,"Male","SARI","Breathlessness","-",2021-05-24,2021-08-11,2021-08-11,NA
+36867,"Chitradurga","1653258",55,"Male","ILI","Fever, Cough","-",2021-05-02,2021-08-12,2021-08-12,NA
+36868,"Chitradurga","2039618",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-08-12,2021-08-12,NA
+36898,"Chitradurga","2625212",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-08-13,2021-08-13,NA
+36899,"Chitradurga","2634540",62,"Male","ILI","Fever, Cough","-",2021-06-01,2021-08-13,2021-08-13,NA
+36919,"Chitradurga","2742572",61,"Male","ILI","Fever, Cough","-",2021-06-08,2021-06-11,2021-08-14,NA
+36920,"Chitradurga","2756248",48,"Male","ILI","Fever, Cough","-",NA,2021-06-09,2021-08-14,"Died at his  residence"
+36921,"Chitradurga","2821042",23,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-16,2021-08-14,NA
+36944,"Chitradurga","2772751",65,"Male","ILI","Fever","-",2021-06-08,2021-06-11,2021-08-15,NA
+36945,"Chitradurga","2776561",70,"Male","ILI","Fever","-",2021-06-07,2021-06-10,2021-08-15,NA
+36965,"Chitradurga","2829400",81,"Male","ILI","Fever, Cough","-",2021-06-16,2021-06-25,2021-08-16,NA
+36966,"Chitradurga","2853953",51,"Male","ILI","Fever","-",2021-06-20,2021-06-20,2021-08-16,NA
+37572,"Chitradurga","3005069",56,"Female","ILI","Fever","-",2021-09-16,2021-09-19,2021-09-20,NA
+37770,"Chitradurga","3001483",39,"Male","ILI","Fever","-",2021-09-12,2021-09-14,2021-10-04,NA
+37867,"Chitradurga","2992266",47,"Female","ILI","Fever","-",2021-10-01,2021-10-13,2021-10-14,NA
+38109,"Chitradurga","3032103",90,"Male","ILI","Fever",NA,2021-11-14,2021-11-14,2021-11-17,NA
+38144,"Chitradurga","3019956",58,"Male","ILI","Fever","-",2021-10-04,NA,2021-11-27,"Died at residence on"
+38229,"Chitradurga","3032104",88,"Female","ILI","Fever","-",2021-11-17,2021-11-17,2021-12-18,NA
+38266,"Chitradurga","100003137",49,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-18,2021-08-08,2021-12-29,NA
+38301,"Chitradurga","100000385",55,"Male","ILI","Fever","-",2021-06-26,2021-07-07,2022-01-03,NA
+38404,"Chitradurga","3294589",36,"Female","ILI","Fever","-",2022-01-16,2022-01-16,2022-01-17,NA
+38431,"Chitradurga","3294589",36,"Female","ILI","Fever","-",2022-01-16,2022-01-16,2022-01-17,NA
+38439,"Chitradurga","3135714",13,"Female","ILI","Fever, Cough","-",2022-01-12,2022-01-17,2022-01-18,NA
+38616,"Chitradurga","3308540",85,"Male","ILI","Fever","-",2022-01-20,2022-01-20,2022-01-25,NA
+38622,"Chitradurga","3406668",65,"Male","SARI","Cough, Breathlessness","-",2022-01-20,2022-01-20,2022-01-25,NA
+38668,"Chitradurga","3308540",85,"Male","ILI","Fever","-",2022-01-20,2022-01-20,2022-01-25,NA
+38674,"Chitradurga","3406668",65,"Male","SARI","Cough, Breathlessness","-",2022-01-20,2022-01-20,2022-01-25,NA
+38718,"Chitradurga","3453681",42,"Male","ILI","Fever","-",2022-01-20,2022-01-22,2022-01-27,NA
+38774,"Chitradurga","3516575",68,"Male","SARI","Breathlessness","-",2022-01-22,2022-01-26,2022-01-28,NA
+38888,"Chitradurga","3507695",65,"Male","SARI","Fever, Breathlessness","-",2022-01-22,2022-01-22,2022-01-30,NA
+38899,"Chitradurga","3684499",50,"Male","ILI","Cough","CLD",NA,2022-01-25,2022-01-30,"Died at his residence"
+38926,"Chitradurga","3800052",17,"Male","ILI","Fever, Cough","-",2022-01-29,2022-01-30,2022-01-30,NA
+39163,"Chitradurga","3905942",80,"Male","ILI","Fever, Cough","-",2022-02-02,2022-02-03,2022-02-04,NA
+39210,"Chitradurga","3879704",73,"Female","ILI","Fever, Cough","-",2022-02-03,2022-02-04,2022-02-05,NA
+39228,"Chitradurga","3401555",60,"Male","SARI","Fever, Cough, Breathlessness","DM",NA,2022-01-21,2022-02-06,"Died at his residence"
+39294,"Chitradurga","3863261",55,"Male","ILI","Cough","-",2022-01-30,2022-01-31,2022-02-07,NA
+39343,"Chitradurga","3863261",55,"Male","ILI","Cough","-",2022-01-30,2022-01-31,2022-02-07,NA
+39377,"Chitradurga","3745558",22,"Female","ILI","Fever, Cough","-",2022-01-24,2022-01-24,2022-02-09,NA
+39383,"Chitradurga","3846238",48,"Female","SARI","Cough, Breathlessness","DM, CKD",2022-01-29,2022-02-02,2022-02-09,NA
+39387,"Chitradurga","3867461",60,"Female","SARI","Cough, Breathlessness","-",2022-02-02,2022-02-03,2022-02-09,NA
+39457,"Chitradurga","3965008",77,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-02-06,2022-02-09,2022-02-10,NA
+39470,"Chitradurga","3867776",14,"Female","ILI","Fever, Cough","TB",NA,2022-01-30,2022-02-11,"Died at her residence"
+39519,"Chitradurga","3947424",72,"Male","ILI","Fever, Cough","HTN",2022-02-06,2022-02-10,2022-02-12,NA
+39647,"Chitradurga","3938521",39,"Male","ILI","Fever, Cough","-",NA,2022-02-07,2022-02-17,"Died at his residence"
+39689,"Chitradurga","3929168",74,"Male","SARI","Cough, Breathlessness","COPD",NA,2022-02-06,2022-02-19,"Died at his residence"
+39784,"Chitradurga","3981868",76,"Male","ILI","Fever","-",2022-02-15,2022-02-21,2022-02-23,NA
+39786,"Chitradurga","3987888",85,"Male","ILI","Fever, Cough, Breathlessness","DM, TB",2022-02-19,2022-02-21,2022-02-23,NA
+39881,"Chitradurga","3990892",44,"Male","SARI","Breathlessness","CA DM, HTN,CLD",2022-02-25,2022-02-25,2022-03-05,NA
+39884,"Chitradurga","3990892",44,"Male","SARI","Breathlessness","DM, HTN, CLD",2022-02-25,2022-02-25,2022-03-06,NA
+40059,"Chitradurga","4082145",49,"MALE","SARI","Fever, Cough,
+Breathlessnes","DM",2022-08-19,2022-08-22,2022-08-25,NA
+40096,"Chitradurga","4110593",70,"Male","SARI","Fever, Cough,
+Breathlessness","DM",2022-09-04,2022-09-07,2022-09-09,NA
+40134,"Chitradurga","4122278",47,"Female","ILI","Fever","DM, HTN,
+CKD",2022-10-07,2022-10-18,2022-10-31,NA

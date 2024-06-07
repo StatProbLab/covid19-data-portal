@@ -1,0 +1,579 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+23,"Davanagere",556,69,"Male","SARI & Travel history",NA,"DM & IHD",2020-04-28,2020-05-01,2020-05-02,NA
+29,"Davanagere",662,50,"Female","SARI","Breathlessness",NA,NA,NA,2020-05-05,NA
+30,"Davanagere",694,55,"Female","SARI",NA,"DM & HTN",NA,NA,2020-05-07,NA
+52,"Davanagere",3861,80,"Female","Contact of P-2415","Fever & Cough & Breathlessness",NA,NA,2020-05-29,2020-06-03,"Brought dead"
+54,"Davanagere",4093,83,"Female","Secondary contact of P-2560","Chest pain",NA,2020-05-31,2020-05-31,2020-06-04,NA
+125,"Davanagere",7208,90,"Male",NA,NA,NA,2020-06-13,2020-06-20,2020-06-20,NA
+238,"Davanagere",14411,50,"Female","SARI","Breathlessness","DM",2020-06-29,2020-06-30,2020-06-30,NA
+286,"Davanagere",16675,80,"Male","SARI","Breathlessness","HTN, COPD",2020-06-24,2020-07-02,2020-07-03,NA
+349,"Davanagere",18102,68,"Male","SARI","Breathlessness & Cold & Fever & Cough","HTN",2020-07-01,2020-07-04,2020-07-05,NA
+355,"Davanagere",21680,53,"Male","SARI","Cold & Fever & Cough","DM, IHD,  POST PTCA",2020-06-29,2020-06-30,2020-07-05,NA
+383,"Davanagere",18103,49,"Male","SARI","Breathlessness & Cold & Fever & Cough","HTN, DM",2020-06-30,2020-07-04,2020-07-06,NA
+409,"Davanagere",25830,55,"Male","SARI","Breathlessness & Fever & Cough & Chest Pain","DM, HTN",2020-07-06,2020-07-07,2020-07-07,NA
+482,"Davanagere",30682,73,"Male","SARI","Fever & Cough & Breathlessness","DM,  HTN, CKD",2020-07-07,2020-07-08,2020-07-09,NA
+603,"Davanagere",35935,57,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-08,2020-07-11,NA
+604,"Davanagere",35944,62,"Female","Contact of P- 25826","Fever & Cough & Breathlessness","DM, HTN",2020-07-05,2020-07-10,2020-07-11,NA
+605,"Davanagere",35957,70,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-11,2020-07-11,NA
+637,"Davanagere",18104,60,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, COPD",2020-07-02,2020-07-11,2020-07-12,NA
+667,"Davanagere",31428,53,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-09,2020-07-12,NA
+675,"Davanagere",36454,55,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-10,2020-07-11,2020-07-12,NA
+726,"Davanagere",35946,39,"Male","ILI","Fever & Cough & Breathlessness","HTN",2020-07-06,2020-07-12,2020-07-13,NA
+819,"Davanagere",41693,85,"Female","SARI","Fever & Cough & Breathlessness","HTN, DM, COPD",2020-07-10,2020-07-13,2020-07-14,NA
+1122,"Davanagere",51678,43,"Female","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-14,2020-07-15,2020-07-17,NA
+1123,"Davanagere",51686,62,"Male","SARI","Fever & Cough & Breathlessness","IHD, HTN",NA,2020-07-15,2020-07-17,"Died at his residence"
+1194,"Davanagere",51690,35,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-07-11,2020-07-13,2020-07-18,NA
+1216,"Davanagere",58191,48,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-15,2020-07-16,2020-07-18,NA
+1219,"Davanagere",59479,45,"Female","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-13,2020-07-17,2020-07-18,NA
+1301,"Davanagere",59803,55,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-15,2020-07-18,2020-07-19,NA
+1309,"Davanagere",64755,50,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-17,2020-07-17,2020-07-19,NA
+1363,"Davanagere",64246,64,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-08,2020-07-17,2020-07-20,NA
+1666,"Davanagere",75482,21,"Male","SARI","Fever & Cough & Breathlessness","DM, CKD",2020-07-20,2020-07-22,2020-07-24,NA
+1684,"Davanagere",79703,55,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-19,2020-07-22,2020-07-24,NA
+1731,"Davanagere",59807,55,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-15,2020-07-21,2020-07-25,NA
+1804,"Davanagere",64508,64,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-18,2020-07-24,2020-07-26,NA
+1825,"Davanagere",83021,21,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-22,2020-07-23,2020-07-26,NA
+1827,"Davanagere",85812,65,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-21,2020-07-23,2020-07-26,NA
+1886,"Davanagere",59484,65,"Male","SARI","Fever & Cough & Breathlessness","IHD, DM, HTN",2020-07-17,2020-07-25,2020-07-27,NA
+1985,"Davanagere",86202,70,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-17,2020-07-26,2020-07-28,NA
+2006,"Davanagere",97011,76,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-20,2020-07-26,2020-07-28,NA
+2010,"Davanagere",99330,59,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-21,2020-07-26,2020-07-28,NA
+2013,"Davanagere",100695,45,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-22,2020-07-26,2020-07-28,NA
+2069,"Davanagere",81489,62,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-19,2020-07-22,2020-07-29,NA
+2078,"Davanagere",89365,72,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, CKD",2020-07-23,2020-07-25,2020-07-29,NA
+2079,"Davanagere",91438,68,"Female","SARI","Fever & Cough & Breathlessness","COPD",2020-07-27,2020-07-28,2020-07-29,NA
+2080,"Davanagere",91545,60,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-28,2020-07-29,NA
+2164,"Davanagere",96853,50,"Male","SARI","Fever & Cough & Breathlessness","CKD",2020-07-24,2020-07-29,2020-07-30,NA
+2282,"Davanagere",120025,60,"Female","SARI","Fever & Breathlessness","COPD",2020-07-29,2020-07-29,2020-07-31,NA
+2288,"Davanagere",121830,63,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-29,2020-07-30,2020-07-31,NA
+2353,"Davanagere",115042,63,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-28,2020-07-28,2020-08-01,NA
+2359,"Davanagere",117800,59,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-29,2020-07-30,2020-08-01,NA
+2368,"Davanagere",122561,80,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-07-29,2020-07-29,2020-08-01,NA
+2372,"Davanagere",123406,55,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-29,2020-07-31,2020-08-01,NA
+2422,"Davanagere",102106,74,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, CKD, IHD",2020-07-26,2020-07-31,2020-08-02,NA
+2437,"Davanagere",117696,70,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-29,2020-08-01,2020-08-02,NA
+2440,"Davanagere",119674,45,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-29,2020-07-31,2020-08-02,NA
+2505,"Davanagere",96350,50,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-24,2020-08-02,2020-08-03,NA
+2565,"Davanagere",138019,79,"Male","Contact under tracing","Breathlessness","IHD",2020-08-01,2020-08-01,2020-08-03,NA
+2611,"Davanagere",103377,68,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-25,2020-08-02,2020-08-04,NA
+2618,"Davanagere",112387,65,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-31,2020-08-02,2020-08-04,NA
+2622,"Davanagere",115332,56,"Female","SARI","Fever & Cough & Breathlessness",NA,2020-07-27,2020-08-03,2020-08-04,NA
+2665,"Davanagere",140289,45,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-08-01,2020-08-03,2020-08-04,NA
+2677,"Davanagere",143413,60,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-08-01,2020-08-03,2020-08-04,NA
+2720,"Davanagere",109884,30,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-27,2020-08-04,2020-08-05,NA
+2724,"Davanagere",113193,46,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-05,NA
+2740,"Davanagere",128602,38,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-29,2020-08-04,2020-08-05,NA
+2743,"Davanagere",132189,49,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-31,2020-08-03,2020-08-05,NA
+2749,"Davanagere",138187,62,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-08-01,2020-08-04,2020-08-05,NA
+2759,"Davanagere",142190,75,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-08-02,2020-08-04,2020-08-05,NA
+2826,"Davanagere",128620,70,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-30,2020-08-05,2020-08-06,NA
+2838,"Davanagere",137235,63,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-01,2020-08-04,2020-08-06,NA
+2851,"Davanagere",145863,60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-01,2020-08-05,2020-08-06,NA
+2860,"Davanagere",148954,77,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-03,2020-08-04,2020-08-06,NA
+2865,"Davanagere",151495,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-03,2020-08-04,2020-08-06,NA
+2879,"Davanagere",160285,58,"Female","SARI","Fever, Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-06,NA
+2880,"Davanagere",160691,69,"Male","SARI","Fever, Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-06,NA
+2883,"Davanagere",163741,65,"Male","SARI","Fever, Breathlessness","HTN",2020-08-05,2020-08-05,2020-08-06,NA
+2968,"Davanagere",160286,40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-05,2020-08-07,2020-08-07,NA
+2983,"Davanagere",169190,72,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-08-06,2020-08-06,2020-08-07,NA
+3035,"Davanagere",147922,70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-07,2020-08-08,NA
+3068,"Davanagere",169202,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-05,2020-08-08,2020-08-08,NA
+3106,"Davanagere",121869,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-29,2020-08-01,2020-08-09,NA
+3110,"Davanagere",123489,38,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-27,2020-08-01,2020-08-09,NA
+3114,"Davanagere",125715,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKI",2020-08-02,2020-08-06,2020-08-09,NA
+3126,"Davanagere",140939,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-01,2020-08-07,2020-08-09,NA
+3129,"Davanagere",142720,49,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-02,2020-08-08,2020-08-09,NA
+3144,"Davanagere",166292,63,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-04,2020-08-08,2020-08-09,NA
+3168,"Davanagere",175171,55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-06,2020-08-06,2020-08-09,NA
+3172,"Davanagere",176511,75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-05,2020-08-05,2020-08-09,NA
+3180,"Davanagere",179494,54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-07,2020-08-07,2020-08-09,NA
+3237,"Davanagere",146200,49,"Male","SARI","Fever, Cough, Breathlessness","NIL",2020-08-03,2020-08-08,2020-08-10,NA
+3242,"Davanagere",148966,67,"Male","SARI","Fever, Cough, Breathlessness","NIL",2020-08-04,2020-08-07,2020-08-10,NA
+3243,"Davanagere",149860,77,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-08-03,2020-08-08,2020-08-10,NA
+3244,"Davanagere",155744,41,"Male","SARI","Fever, Cough, Breathlessness","NIL",2020-08-04,2020-08-06,2020-08-10,NA
+3245,"Davanagere",155747,48,"Male","SARI","Fever, Cough, Breathlessness","NIL",2020-08-04,2020-08-06,2020-08-10,NA
+3259,"Davanagere",169179,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-05,2020-08-09,2020-08-10,NA
+3263,"Davanagere",174342,58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-06,2020-08-09,2020-08-10,NA
+3267,"Davanagere",176513,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-06,2020-08-07,2020-08-10,NA
+3270,"Davanagere",177214,48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-06,2020-08-07,2020-08-10,NA
+3294,"Davanagere",186594,63,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-08,2020-08-09,2020-08-10,NA
+3295,"Davanagere",186599,58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-09,2020-08-09,2020-08-10,NA
+3346,"Davanagere",160693,48,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-04,2020-08-09,2020-08-11,NA
+3349,"Davanagere",162789,53,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-04,2020-08-09,2020-08-11,NA
+3379,"Davanagere",193570,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-09,2020-08-10,2020-08-11,NA
+3380,"Davanagere",193577,71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-09,2020-08-10,2020-08-11,NA
+3431,"Davanagere",149207,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-04,2020-08-10,2020-08-12,NA
+3457,"Davanagere",175872,37,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-07,2020-08-09,2020-08-12,NA
+3458,"Davanagere",176520,69,"Male","SARI","Fever, Cough, Breathlessness","DH, IHD",2020-08-07,2020-08-09,2020-08-12,NA
+3463,"Davanagere",181750,66,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-07,2020-08-10,2020-08-12,NA
+3466,"Davanagere",184336,65,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-08-08,2020-08-09,2020-08-12,NA
+3481,"Davanagere",193569,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-10,2020-08-11,2020-08-12,NA
+3547,"Davanagere",164126,64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-05,2020-08-13,2020-08-13,NA
+3553,"Davanagere",169201,48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-06,2020-08-12,2020-08-13,NA
+3598,"Davanagere",205785,80,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-10,2020-08-11,2020-08-13,NA
+3663,"Davanagere",174340,60,"Female","SARI","Fever, Breathlessness","DM",2020-08-07,2020-08-13,2020-08-14,NA
+3664,"Davanagere",174347,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-05,2020-08-14,2020-08-14,NA
+3672,"Davanagere",186004,80,"Male","SARI","Fever, Breathlessness","-",2020-08-08,2020-08-14,2020-08-14,NA
+3682,"Davanagere",192737,58,"Male","SARI","Fever, Breathlessness","DM",2020-08-10,2020-08-13,2020-08-14,NA
+3689,"Davanagere",204792,60,"Male","SARI","Fever, Breathlessness","-",2020-08-10,2020-08-14,2020-08-14,NA
+3696,"Davanagere",207713,70,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-13,2020-08-14,2020-08-14,NA
+3702,"Davanagere",215448,68,"Male","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-14,2020-08-14,NA
+3776,"Davanagere",187854,78,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD, CKD",2020-08-09,2020-08-14,2020-08-15,NA
+3780,"Davanagere",192736,65,"Male","SARI","Fever, Breathlessness","HTN, IHD, COPD",2020-08-10,2020-08-13,2020-08-15,NA
+3789,"Davanagere",204798,70,"Male","SARI","Fever, Breathlessness","DM, TB",2020-08-10,2020-08-13,2020-08-15,NA
+3808,"Davanagere",220222,65,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD, CKD",2020-08-13,2020-08-14,2020-08-15,NA
+3815,"Davanagere",226285,63,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-13,2020-08-14,2020-08-15,NA
+3902,"Davanagere",199744,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3907,"Davanagere",207720,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3916,"Davanagere",215419,80,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+4181,"Davanagere",238098,65,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD, CKD",2020-08-16,2020-08-17,2020-08-18,NA
+4238,"Davanagere",175867,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-16,2020-08-19,NA
+4257,"Davanagere",205808,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-12,2020-08-19,2020-08-19,NA
+4275,"Davanagere",229931,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-17,2020-08-15,2020-08-19,NA
+4284,"Davanagere",233347,64,"Male","SARI","Fever, Cough, Breathlessness","DM, CVA, CKD",2020-08-15,2020-08-19,2020-08-19,NA
+4286,"Davanagere",234839,42,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-18,2020-08-19,NA
+4288,"Davanagere",235469,58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-18,2020-08-19,NA
+4293,"Davanagere",240095,89,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-16,2020-08-19,NA
+4365,"Davanagere",216481,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-14,2020-08-20,2020-08-20,NA
+4399,"Davanagere",243869,75,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-08-17,2020-08-19,2020-08-20,NA
+4402,"Davanagere",250030,51,"Female","SARI","Fever, Cough, Breathlessness","TB, COPD",2020-08-18,2020-08-18,2020-08-20,NA
+4415,"Davanagere",256636,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-17,2020-08-18,2020-08-20,NA
+4424,"Davanagere",263539,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-20,NA
+4445,"Davanagere",195170,65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-08,2020-08-20,2020-08-21,NA
+4451,"Davanagere",205801,69,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-11,2020-08-20,2020-08-21,NA
+4453,"Davanagere",208559,53,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-10,2020-08-20,2020-08-21,NA
+4454,"Davanagere",211575,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-12,2020-08-19,2020-08-21,NA
+4461,"Davanagere",225527,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-20,2020-08-21,NA
+4502,"Davanagere",259345,76,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-19,2020-08-20,2020-08-21,NA
+4509,"Davanagere",263515,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-14,2020-08-20,2020-08-21,NA
+4576,"Davanagere",250069,56,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-08-19,2020-08-20,2020-08-22,NA
+4580,"Davanagere",253768,78,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-20,2020-08-22,NA
+4603,"Davanagere",274377,49,"Female","SARI","Fever, Cough, Breathlessness","IHD",2020-08-19,2020-08-21,2020-08-22,NA
+4609,"Davanagere",277329,63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-21,2020-08-22,NA
+4610,"Davanagere",280137,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-20,2020-08-21,2020-08-22,NA
+4632,"Davanagere",225538,80,"Male","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-22,2020-08-23,NA
+4678,"Davanagere",286638,58,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-21,2020-08-22,2020-08-23,NA
+4697,"Davanagere",211574,45,"Male","SARI","Fever, Breathlessness","DM",2020-08-13,2020-08-23,2020-08-24,NA
+4719,"Davanagere",232594,47,"Male","SARI","Fever, Breathlessness","DM",2020-08-18,2020-08-23,2020-08-24,NA
+4739,"Davanagere",247023,88,"Female","SARI","Fever, Breathlessness","-",2020-08-17,2020-08-22,2020-08-24,NA
+4746,"Davanagere",250033,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-19,2020-08-23,2020-08-24,NA
+4757,"Davanagere",261216,51,"Female","SARI","Fever, Breathlessness","-",2020-08-20,2020-08-24,2020-08-24,NA
+4796,"Davanagere",286323,45,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-24,NA
+4801,"Davanagere",288422,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-24,NA
+4834,"Davanagere",211550,62,"Male","SARI","-","DM",2020-08-12,2020-08-13,2020-08-25,NA
+4872,"Davanagere",241865,48,"Female","SARI","Fever, Breathlessness","-",2020-08-10,2020-08-23,2020-08-25,NA
+4885,"Davanagere",247032,61,"Male","SARI","Fever, Breathlessness","IHD",2020-08-22,2020-08-23,2020-08-25,NA
+4888,"Davanagere",248388,62,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-20,2020-08-23,2020-08-25,NA
+4895,"Davanagere",250023,56,"Male","SARI","Fever, Breathlessness","DM",2020-08-21,2020-08-23,2020-08-25,NA
+4988,"Davanagere",233357,46,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-14,2020-08-25,2020-08-26,NA
+4998,"Davanagere",243873,65,"Female","SARI","Fever, Breathlessness","-",2020-08-21,2020-08-24,2020-08-26,NA
+5016,"Davanagere",260450,78,"Female","SARI","Fever, Breathlessness","IHD",2020-08-17,2020-08-24,2020-08-26,NA
+5047,"Davanagere",280156,55,"Male","SARI","Fever, Breathlessness","DM",2020-08-20,2020-08-23,2020-08-26,NA
+5059,"Davanagere",287993,60,"Male","SARI","Fever, Breathlessness","-",2020-08-18,2020-08-25,2020-08-26,NA
+5304,"Davanagere",274061,60,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-19,2020-08-26,2020-08-28,NA
+5318,"Davanagere",288793,62,"Female","SARI","Fever, Breathlessness","DM",2020-08-11,2020-08-26,2020-08-28,NA
+5331,"Davanagere",298971,45,"Female","SARI","Fever, Breathlessness","DM, IHD",2020-08-22,2020-08-26,2020-08-28,NA
+5341,"Davanagere",304682,55,"Male","SARI","Fever, Breathlessness","-",2020-08-24,2020-08-26,2020-08-28,NA
+5344,"Davanagere",305531,58,"Female","SARI","Fever, Breathlessness","DM",2020-08-25,2020-08-26,2020-08-28,NA
+5345,"Davanagere",306320,48,"Male","SARI","Fever, Breathlessness","-",2020-08-25,2020-08-26,2020-08-28,NA
+5401,"Davanagere",257006,60,"Female","SARI","Breathlessness","DM, IHD, AKI",2020-08-19,2020-08-25,2020-08-29,NA
+5457,"Davanagere",315237,63,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-28,2020-08-29,NA
+5468,"Davanagere",323033,70,"Female","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-28,2020-08-29,NA
+5560,"Davanagere",323045,39,"Male","SARI","Fever, Breathlessness","-",2020-08-26,2020-08-29,2020-08-30,NA
+5569,"Davanagere",327644,51,"Male","SARI","Fever, Breathlessness","DM",2020-08-26,2020-08-29,2020-08-30,NA
+5571,"Davanagere",328631,55,"Female","SARI","Fever, Breathlessness","-",2020-08-28,2020-08-29,2020-08-30,NA
+5575,"Davanagere",333559,60,"Male","SARI","Fever, Breathlessness","-",2020-08-28,2020-08-28,2020-08-30,NA
+5610,"Davanagere",272398,68,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-08-23,2020-08-30,2020-08-31,NA
+5634,"Davanagere",298966,65,"Male","SARI","Fever, Breathlessness","-",2020-08-25,2020-08-30,2020-08-31,NA
+5650,"Davanagere",314061,53,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-08-21,2020-08-30,2020-08-31,NA
+5653,"Davanagere",317610,74,"Male","SARI","Fever, Breathlessness","-",2020-08-29,2020-08-29,2020-08-31,NA
+5673,"Davanagere",332785,69,"Female","SARI","Fever, Breathlessness","-",2020-08-29,2020-08-29,2020-08-31,NA
+5685,"Davanagere",340873,79,"Female","SARI","Fever, Breathlessness","HTN",2020-08-29,2020-08-30,2020-08-31,NA
+5736,"Davanagere",233342,58,"Male","SARI","Fever, Breathlessness","-",2020-08-16,2020-09-01,2020-09-01,NA
+5773,"Davanagere",298272,70,"Male","SARI","Fever, Breathlessness","DM, AKI",2020-08-24,2020-09-01,2020-09-01,NA
+5796,"Davanagere",334110,75,"Male","SARI","Fever, Breathlessness","-",2020-08-27,2020-08-31,2020-09-01,NA
+5812,"Davanagere",349226,60,"Male","SARI","Fever, Breathlessness","DM",2020-08-29,2020-08-31,2020-09-01,NA
+5922,"Davanagere",337342,70,"Male","SARI","Fever, Breathlessness","DM",2020-08-28,2020-09-02,2020-09-02,NA
+6087,"Davanagere",303811,72,"Female","SARI","Fever, Breathlessness","HTN",2020-08-25,2020-09-03,2020-09-04,NA
+6089,"Davanagere",310667,66,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-24,2020-09-03,2020-09-04,NA
+6090,"Davanagere",311197,45,"Male","SARI","Fever, Breathlessness","-",2020-08-26,2020-09-02,2020-09-04,NA
+6099,"Davanagere",320533,62,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-27,2020-09-03,2020-09-04,NA
+6106,"Davanagere",329846,43,"Male","SARI","Fever, Breathlessness","-",2020-08-28,2020-09-03,2020-09-04,NA
+6118,"Davanagere",343337,62,"Male","SARI","Fever, Breathlessness","HTN",2020-08-31,2020-09-03,2020-09-04,NA
+6141,"Davanagere",368020,43,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-31,2020-09-02,2020-09-04,NA
+6145,"Davanagere",371137,70,"Female","SARI","Fever, Breathlessness","DM",2020-09-01,2020-09-02,2020-09-04,NA
+6149,"Davanagere",371723,75,"Male","SARI","Fever, Breathlessness","DM",2020-08-30,2020-09-02,2020-09-04,NA
+6150,"Davanagere",371724,46,"Female","SARI","Fever, Breathlessness","DM",2020-09-01,2020-09-01,2020-09-04,NA
+6194,"Davanagere",303049,35,"Male","SARI","Fever, Breathlessness","-",2020-08-26,2020-09-04,2020-09-05,NA
+6219,"Davanagere",335555,66,"Female","SARI","Fever, Breathlessness","HTN",2020-09-01,2020-09-03,2020-09-05,NA
+6247,"Davanagere",358881,60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-30,2020-09-05,2020-09-05,NA
+6256,"Davanagere",367132,83,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-22,2020-09-03,2020-09-05,NA
+6270,"Davanagere",375844,65,"Male","SARI","Fever, Breathlessness","HTN",2020-09-02,2020-09-04,2020-09-05,NA
+6271,"Davanagere",375846,34,"Male","SARI","Fever, Breathlessness","-",2020-09-02,2020-09-04,2020-09-05,NA
+6287,"Davanagere",380761,68,"Female","SARI","Fever, Breathlessness","HTN",2020-09-01,2020-09-03,2020-09-05,NA
+6475,"Davanagere",334101,64,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-27,2020-09-05,2020-09-07,NA
+6486,"Davanagere",358913,55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-02,2020-09-06,2020-09-07,NA
+6522,"Davanagere",404970,30,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-09-05,2020-09-05,2020-09-07,NA
+6614,"Davanagere",372702,46,"Male","Contact of P - 366053","-","DM, HTN",2020-09-02,2020-09-06,2020-09-08,NA
+6619,"Davanagere",378410,40,"Male","SARI","Fever, Breathlessness","-",2020-09-02,2020-09-02,2020-09-08,NA
+6722,"Davanagere",348610,70,"Male","SARI","Fever, Cough","-",2020-09-08,2020-09-08,2020-09-09,NA
+6779,"Davanagere",404966,64,"Male","SARI","Fever, Cough","DM, HTN",2020-09-04,2020-09-08,2020-09-09,NA
+6865,"Davanagere",380764,75,"Male","Contact of P - 331881","-","DM, HTN, IHD",2020-09-02,2020-09-09,2020-09-10,NA
+6876,"Davanagere",396964,60,"Female","ILI","Fever, Cough","-",2020-09-03,2020-09-09,2020-09-10,NA
+6922,"Davanagere",431164,73,"Male","SARI","Breathlessness","-",2020-09-07,2020-09-08,2020-09-10,NA
+7052,"Davanagere",439278,64,"Male","Contac t under tracing","-","-",2020-09-09,2020-09-09,2020-09-11,NA
+7129,"Davanagere",410076,65,"Male","SARI","Breathlessness","-",2020-09-07,2020-09-10,2020-09-12,NA
+7237,"Davanagere",425497,43,"Male","ILI","Fever, Cough","-",2020-09-07,2020-09-11,2020-09-13,NA
+7440,"Davanagere",440566,58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-14,2020-09-15,NA
+7861,"Davanagere",439256,68,"Male","Contact under tracing","Cough, Breathlessness","IHD",2020-09-09,2020-09-18,2020-09-19,NA
+7890,"Davanagere",477540,65,"Female","Contact under tracing","-","-",2020-09-13,2020-09-15,2020-09-19,NA
+7901,"Davanagere",492764,60,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-09-14,2020-09-19,2020-09-19,NA
+8067,"Davanagere",464516,85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-10,2020-09-20,2020-09-21,NA
+8107,"Davanagere",501330,53,"Female","SARI","Breathlessness","-",2020-09-18,2020-09-19,2020-09-21,NA
+8116,"Davanagere",506439,70,"Male","ILI","Fever, Cough","-",2020-09-17,2020-09-19,2020-09-21,NA
+8280,"Davanagere",391385,52,"Male","SARI","Breathlessness","-",2020-09-04,2020-09-21,2020-09-24,NA
+8303,"Davanagere",486831,86,"Male","SARI","Breathlessness","DM, HTN, COPD, AKI",2020-09-14,2020-09-21,2020-09-24,NA
+8328,"Davanagere",539155,97,"Male","SARI","Cough, Breathlessness","HTN",2020-09-20,2020-09-21,2020-09-24,NA
+8334,"Davanagere",548485,70,"Male","SARI","Cough, Breathlessness","-",2020-09-21,2020-09-23,2020-09-24,NA
+8504,"Davanagere",558190,40,"Female","SARI","Breathlessness","DM, HTN, TB",2020-09-23,2020-09-25,2020-09-26,NA
+8513,"Davanagere",576074,65,"Female","SARI","Breathlessness","-",2020-09-25,2020-09-25,2020-09-26,NA
+8644,"Davanagere",578648,50,"Male","SARI","Breathlessness","DM, HTN",2020-09-08,2020-09-27,2020-09-28,NA
+9113,"Davanagere",609874,77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-10-01,2020-10-02,NA
+9212,"Davanagere",615430,65,"Male","Contact under tracing","-","-",2020-09-27,2020-10-02,2020-10-03,NA
+9741,"Davanagere",616692,55,"Male","ILI","Fever, Cough","-",2020-10-04,2020-10-08,2020-10-09,NA
+9754,"Davanagere",646786,60,"Male","ILI","Fever, Cough","CVA",2020-10-03,2020-10-08,2020-10-09,NA
+9770,"Davanagere",666833,56,"Female","SARI","Breathlessness","DM",2020-10-02,2020-10-04,2020-10-09,NA
+9777,"Davanagere",672428,57,"Male","SARI","Breathlessness","HTN",2020-10-05,2020-10-08,2020-10-09,NA
+10032,"Davanagere",705362,65,"Female","Contact under tracing","-","-",2020-09-25,2020-10-10,2020-10-12,NA
+10035,"Davanagere",715519,80,"Male","Contact under tracing","-","IHD",2020-10-09,2020-10-09,2020-10-12,NA
+10286,"Davanagere",737376,60,"Female","Contact under tracing","Fever, Breathlessness","-",2020-10-12,2020-10-12,2020-10-15,NA
+10419,"Davanagere",728557,45,"Female","SARI","Cough, Breathlessness","-",2020-10-13,2020-10-14,2020-10-17,NA
+10647,"Davanagere",718009,70,"Female","SARI","Cough, Breathlessness","DM",2020-10-15,2020-10-20,2020-10-21,NA
+10775,"Davanagere",791887,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-17,2020-10-21,2020-10-22,NA
+10956,"Davanagere",815445,60,"Female","Contac t under tracing","-","DM",2020-10-20,2020-10-24,2020-10-26,NA
+11055,"Davanagere",818065,66,"Male","Contact under tracing","-","DM, HTN",2020-10-26,2020-10-26,2020-10-28,NA
+11097,"Davanagere",821304,63,"Male","Contact under tracing","-","HTN",2020-10-25,2020-10-28,2020-10-29,NA
+11150,"Davanagere",830626,58,"Female","SARI","Breathlessness","DM, HTN",2020-10-28,2020-10-29,2020-10-30,NA
+11255,"Davanagere",840801,80,"Male","SARI","Fever, Breathlessness","DM",2020-10-31,2020-11-02,2020-11-03,NA
+11278,"Davanagere",821782,32,"Female","SARI","Fever, Breathlessness","-",2020-10-26,2020-11-03,2020-11-04,NA
+11290,"Davanagere",843467,74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-03,2020-11-04,NA
+11342,"Davanagere",835637,78,"Male","SARI","Fever, Breathlessness","DM",2020-10-29,2020-11-04,2020-11-06,NA
+11438,"Davanagere",856529,51,"Male","SARI","-","DM, COPD",2020-11-04,2020-11-07,2020-11-10,NA
+11532,"Davanagere",865994,17,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-09,2020-11-10,2020-11-15,NA
+11927,"Davanagere",911343,38,"Male","SARI","Cough, Breathlessness","DM",2020-12-08,2020-12-10,2020-12-11,NA
+14211,"Davanagere",1195391,56,"Male","SARI","Fever, Breathlessness","-",2021-04-16,2021-04-22,2021-04-24,NA
+14243,"Davanagere",1243871,50,"Male","SARI","Fever, Breathlessness","DM",2021-04-18,2021-04-23,2021-04-24,NA
+14385,"Davanagere",1264214,51,"Female","SARI","Fever, Breathlessness","HTN",2021-04-21,2021-04-24,2021-04-25,NA
+14681,"Davanagere",1208170,47,"Male","SARI","Fever, Breathlessness","HTN",2021-04-19,2021-04-26,2021-04-27,NA
+14870,"Davanagere",1220253,78,"Female","SARI","Fever, breathlessness","HTN",2021-04-24,2021-04-27,2021-04-28,NA
+14919,"Davanagere",1294816,46,"Male","SARI","Fever, breathlessness","-",2021-04-22,2021-04-26,2021-04-28,NA
+14939,"Davanagere",1324774,43,"Female","SARI","Fever, breathlessness","DM, HTN",2021-04-22,2021-04-26,2021-04-28,NA
+15349,"Davanagere",1243857,80,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-19,2021-04-27,2021-04-30,NA
+15408,"Davanagere",1344135,45,"Female","SARI","Fever, Breathlessness","-",2021-04-25,2021-04-27,2021-04-30,NA
+15409,"Davanagere",1344155,58,"Female","SARI","Fever, Breathlessness","DM",2021-04-23,2021-04-27,2021-04-30,NA
+15430,"Davanagere",1397099,55,"Male","SARI","Fever, Breathlessness","HTN",2021-04-21,2021-04-27,2021-04-30,NA
+15457,"Davanagere",1434933,70,"Male","SARI","Fever, Breathlessness","HTN",2021-04-26,2021-04-27,2021-04-30,NA
+15475,"Davanagere",1465961,61,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-27,2021-04-28,2021-04-30,NA
+15642,"Davanagere",1329827,63,"Male","SARI","Fever, Breathlessness","-",2021-04-23,2021-04-30,2021-05-01,NA
+15679,"Davanagere",1389117,36,"Female","SARI","Fever, Breathlessness","DM",2021-04-25,2021-04-30,2021-05-01,NA
+15686,"Davanagere",1397097,26,"Male","SARI","Fever, Breathlessness","DM",2021-04-24,2021-04-29,2021-05-01,NA
+15705,"Davanagere",1425581,36,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-04-28,2021-05-01,NA
+15711,"Davanagere",1432025,50,"Male","SARI","Fever, Breathlessness","IHD",2021-04-26,2021-04-30,2021-05-01,NA
+15730,"Davanagere",1475338,73,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-05-01,NA
+15897,"Davanagere",1400172,33,"Male","SARI","Fever, Breathlessness","-",2021-04-24,2021-05-01,2021-05-02,NA
+15973,"Davanagere",1579078,60,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-04-30,2021-05-02,NA
+16163,"Davanagere",1490783,64,"Male","SARI","Fever, breathlessness","DM, HTN, CKD",2021-04-28,2021-05-02,2021-05-03,NA
+16175,"Davanagere",1504708,28,"Male","SARI","Fever, breathlessness","-",2021-04-28,2021-05-02,2021-05-03,NA
+16202,"Davanagere",1551744,55,"Male","SARI","Fever, breathlessness","-",2021-04-29,2021-05-01,2021-05-03,NA
+16736,"Davanagere",1493433,35,"Male","SARI","Fever, Breathlessness","CKD",2021-04-28,2021-05-04,2021-05-05,NA
+16811,"Davanagere",1631446,70,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-04,2021-05-05,NA
+17000,"Davanagere",1446078,44,"Female","SARI","Fever, Breathlessness","-",2021-04-25,2021-05-02,2021-05-06,NA
+17091,"Davanagere",1586575,64,"Female","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-05,2021-05-06,NA
+17121,"Davanagere",1624406,60,"Female","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-05,2021-05-06,NA
+17505,"Davanagere",1518361,30,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-05-06,2021-05-07,NA
+17706,"Davanagere",1731796,63,"Male","SARI","Fever, Breathlessness","DM",2021-05-03,2021-05-05,2021-05-07,NA
+18289,"Davanagere",1930148,70,"Male","SARI","Fever, Breathlessness","DM",2021-04-05,2021-05-07,2021-05-08,NA
+18549,"Davanagere",1612896,68,"Male","SARI","Fever, Breathlessness","HTN, COPD",2021-04-30,2021-05-07,2021-05-09,NA
+18566,"Davanagere",1634862,39,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-08,2021-05-09,NA
+18569,"Davanagere",1638015,65,"Female","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-08,2021-05-09,NA
+18570,"Davanagere",1638019,56,"Female","SARI","Fever, Breathlessness","DM",2021-04-30,2021-05-08,2021-05-09,NA
+18639,"Davanagere",1756369,45,"Male","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-09,NA
+19223,"Davanagere",1779683,68,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-05,2021-05-08,2021-05-10,NA
+19260,"Davanagere",1826455,28,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-09,2021-05-10,NA
+19291,"Davanagere",1872614,25,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-09,2021-05-10,NA
+19742,"Davanagere",1864638,53,"Male","SARI","Fever, breathlessness","DM",2021-04-05,2021-05-10,2021-05-11,NA
+19764,"Davanagere",1887104,72,"Male","SARI","Fever, breathlessness","DM, HTN",2021-05-05,2021-05-10,2021-05-11,NA
+19789,"Davanagere",1918404,85,"Female","SARI","Fever, breathlessness","HTN",2021-05-06,2021-05-10,2021-05-11,NA
+20365,"Davanagere",2067483,56,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-11,2021-05-12,NA
+21009,"Davanagere",2065551,53,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-10,2021-05-12,2021-05-14,NA
+21243,"Davanagere",1892636,68,"Male","SARI","Fever, Breathlessness","HTN, IHD",2021-05-06,2021-05-14,2021-05-15,NA
+21364,"Davanagere",2103448,60,"Female","SARI","Fever, Breathlessness","DM",2021-05-11,2021-05-14,2021-05-15,NA
+21680,"Davanagere",2007731,61,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-15,2021-05-16,NA
+22118,"Davanagere",2024734,69,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-16,2021-05-17,NA
+22227,"Davanagere",2182180,30,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-16,2021-05-17,NA
+22269,"Davanagere",2235557,80,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-15,2021-05-16,2021-05-17,NA
+22721,"Davanagere",2147954,51,"Male","SARI","Fever, Breathlessness","DM",2021-05-13,2021-05-17,2021-05-18,NA
+22791,"Davanagere",2238309,75,"Male","SARI","Fever, Breathlessness","IHD",2021-05-15,2021-05-17,2021-05-18,NA
+22805,"Davanagere",2255385,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-18,NA
+22818,"Davanagere",2274984,43,"Male","SARI","Fever, Breathlessness","CVA",2021-05-15,2021-05-17,2021-05-18,NA
+23298,"Davanagere",2319888,61,"Female","SARI","Fever, Breathlessness","DM",2021-05-17,2021-05-18,2021-05-19,NA
+23720,"Davanagere",2189054,53,"Male","SARI","Fever, Breathlessness","DM",2021-05-13,2021-05-19,2021-05-20,NA
+24154,"Davanagere",2317516,72,"Male","ILI","Fever, Cough","IHD",2021-05-15,2021-05-20,2021-05-21,NA
+24514,"Davanagere",2169046,70,"Male","SARI","Fever, Breathlessness","IHD",2021-05-13,2021-05-20,2021-05-22,NA
+24570,"Davanagere",2295844,75,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-16,2021-05-20,2021-05-22,NA
+24605,"Davanagere",2348987,75,"Female","ILI","Fever","DM",2021-05-18,2021-05-20,2021-05-22,NA
+24609,"Davanagere",2353419,60,"Male","ILI","Fever","HTN",2021-05-17,2021-05-20,2021-05-22,NA
+25118,"Davanagere",2263032,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-15,2021-05-22,2021-05-23,NA
+25132,"Davanagere",2275007,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-15,2021-05-22,2021-05-23,NA
+25224,"Davanagere",2382876,58,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-22,2021-05-23,NA
+25695,"Davanagere",2351643,67,"Male","SARI","Fever, Breathlessness","DM",2021-05-18,2021-05-22,2021-05-24,NA
+25749,"Davanagere",2415145,40,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25778,"Davanagere",2445099,75,"Female","SARI","Fever, Breathlessness","DM",2021-05-21,2021-05-23,2021-05-24,NA
+26267,"Davanagere",2330976,62,"Male","SARI","Fever, Breathlessness","IHD",2021-05-18,2021-05-24,2021-05-25,NA
+26310,"Davanagere",2393776,64,"Male","SARI","Fever, Breathlessness","DM",2021-05-19,2021-05-24,2021-05-25,NA
+26311,"Davanagere",2395632,57,"Male","SARI","Fever, Breathlessness","HTN",2021-05-19,2021-05-24,2021-05-25,NA
+26844,"Davanagere",2410977,50,"Female","ILI","Fever","DM, HTN",2021-05-22,2021-05-24,2021-05-26,NA
+26894,"Davanagere",2485370,69,"Female","ILI","Fever","HTN",2021-05-23,2021-05-24,2021-05-26,NA
+26895,"Davanagere",2485386,68,"Female","SARI","Fever, Breathlessness","DM",2021-05-22,2021-05-24,2021-05-26,NA
+27368,"Davanagere",2485412,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-21,2021-05-25,2021-05-27,NA
+27404,"Davanagere",2539696,55,"Male","SARI","Fever, Breathlessness","DM",2021-05-25,2021-05-26,2021-05-27,NA
+27728,"Davanagere",2480039,58,"Female","SARI","Fever, Breathlessness","DM",2021-05-23,2021-05-26,2021-05-28,NA
+27778,"Davanagere",2548221,74,"Female","SARI","Fever, Breathlessness","HTN",2021-05-26,2021-05-26,2021-05-28,NA
+28178,"Davanagere",2474065,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-27,2021-05-29,NA
+28215,"Davanagere",2505070,65,"Female","SARI","Fever, Breathlessness","HTN",2021-05-24,2021-05-28,2021-05-29,NA
+28248,"Davanagere",2534511,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-28,2021-05-29,NA
+28250,"Davanagere",2536579,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-27,2021-05-29,NA
+28296,"Davanagere",2607260,68,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-28,2021-05-28,2021-05-29,NA
+28569,"Davanagere",2426868,30,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-28,2021-05-30,NA
+28602,"Davanagere",2488935,60,"Male","SARI","Fever, Breathlessness","DM",2021-05-24,2021-05-28,2021-05-30,NA
+28604,"Davanagere",2491022,70,"Male","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-29,2021-05-30,NA
+28626,"Davanagere",2526290,42,"Male","SARI","Fever, Breathlessness","HTN",2021-05-25,2021-05-28,2021-05-30,NA
+28628,"Davanagere",2530081,80,"Male","SARI","Fever, Breathlessness","DM",2021-05-25,2021-05-28,2021-05-30,NA
+28641,"Davanagere",2553994,40,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-28,2021-05-30,NA
+28652,"Davanagere",2576746,40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-28,2021-05-30,NA
+28656,"Davanagere",2582119,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-28,2021-05-30,NA
+29051,"Davanagere",2585992,60,"Female","SARI","Fever, Breathlessness","DM",2021-05-27,2021-05-28,2021-05-31,NA
+29446,"Davanagere",2485353,75,"Male","SARI","Fever, Breathlessness","HTN",2021-05-24,2021-05-30,2021-06-01,NA
+29472,"Davanagere",2526296,51,"Male","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-31,2021-06-01,NA
+29504,"Davanagere",2568031,65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-26,2021-05-30,2021-06-01,NA
+29529,"Davanagere",2608682,80,"Female","ILI","Fever, Cough","DM",2021-05-27,2021-05-29,2021-06-01,NA
+29532,"Davanagere",2610731,60,"Female","ILI","Fever, Cough","DM",2021-05-27,2021-05-31,2021-06-01,NA
+29916,"Davanagere",2534495,25,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-01,2021-06-02,NA
+29926,"Davanagere",2554010,55,"Female","SARI","Fever, Breathlessness","CHD",2021-05-25,2021-06-01,2021-06-02,NA
+29947,"Davanagere",2578616,55,"Male","SARI","Cough, Breathlessness","-",2021-05-26,2021-05-31,2021-06-02,NA
+29973,"Davanagere",2625292,31,"Male","SARI","Breathlessness","-",2021-05-28,2021-05-31,2021-06-02,NA
+29999,"Davanagere",2655790,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-01,2021-06-02,NA
+30413,"Davanagere",2550465,45,"Male","SARI","Cough, Breathlessness","DM",2021-05-25,2021-06-01,2021-06-03,NA
+30431,"Davanagere",2580481,67,"Female","ILI","Cough","HTN",2021-05-27,2021-06-01,2021-06-03,NA
+30459,"Davanagere",2617559,45,"Male","SARI","Cough, Breathlessness","DM",2021-05-28,2021-06-02,2021-06-03,NA
+30465,"Davanagere",2626860,55,"Male","SARI","Cough, Breathlessness","DM",2021-05-29,2021-06-02,2021-06-03,NA
+30505,"Davanagere",2661238,32,"Male","SARI","Cough, Breathlessness","-",2021-05-31,2021-06-02,2021-06-03,NA
+30508,"Davanagere",2661981,44,"Female","SARI","Cough, Breathlessness","-",2021-05-30,2021-06-01,2021-06-03,NA
+30526,"Davanagere",2683077,61,"Male","SARI","Cough, Breathlessness","HTN",2021-05-31,2021-06-02,2021-06-03,NA
+30790,"Davanagere",2553999,70,"Male","SARI","Cough, Breathlessness","DM",2021-05-26,2021-05-28,2021-06-04,NA
+30795,"Davanagere",2556055,65,"Female","SARI","Cough, Breathlessness","-",2021-05-26,2021-06-01,2021-06-04,NA
+30826,"Davanagere",2611391,65,"Female","SARI","Cough, Breathlessness","DM",2021-05-27,2021-06-02,2021-06-04,NA
+30855,"Davanagere",2655777,50,"Female","SARI","Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-04,NA
+30861,"Davanagere",2661236,52,"Male","SARI","Cough, Breathlessness","DM",2021-05-31,2021-06-02,2021-06-04,NA
+30875,"Davanagere",2679100,28,"Male","SARI","Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-04,NA
+30899,"Davanagere",2709966,65,"Male","SARI","Cough, Breathlessness","-",2021-03-06,2021-04-06,2021-06-04,NA
+30901,"Davanagere",2712431,73,"Male","SARI","Cough, Breathlessness","-",2021-03-06,2021-04-06,2021-06-04,NA
+31162,"Davanagere",2576756,33,"Female","SARI","Cough, Breathlessness","-",2021-05-27,2021-06-05,2021-06-05,NA
+31168,"Davanagere",2586001,60,"Female","SARI","Fever, Breathlessness","-",2021-05-27,2021-06-05,2021-06-05,NA
+31187,"Davanagere",2625315,70,"Male","SARI","Cough, Breathlessness","DM",2021-05-29,2021-06-05,2021-06-05,NA
+31240,"Davanagere",2688047,60,"Male","sARI","Breathlessness","-",2021-06-01,2021-06-05,2021-06-05,NA
+31513,"Davanagere",2629204,64,"Female","ILI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-02,2021-06-06,NA
+31523,"Davanagere",2657284,80,"Male","ILI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-04,2021-06-06,NA
+31567,"Davanagere",2709965,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-04,2021-06-06,NA
+31580,"Davanagere",2725124,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-06,NA
+31583,"Davanagere",2733633,47,"Male","ILI","Cough","-",2021-06-05,2021-06-06,2021-06-06,NA
+31586,"Davanagere",2740532,75,"Male","ILI","Cough","-",2021-06-05,2021-06-06,2021-06-06,NA
+31812,"Davanagere",2607249,82,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-06-07,2021-06-07,NA
+31860,"Davanagere",2669088,50,"Female","ILI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-07,2021-06-07,NA
+31876,"Davanagere",2685042,46,"Female","ILI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-07,2021-06-07,NA
+31890,"Davanagere",2704654,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-07,2021-06-07,NA
+31895,"Davanagere",2708676,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-07,2021-06-07,NA
+32004,"Davanagere",2618645,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-08,2021-06-08,NA
+32031,"Davanagere",2663089,48,"Female","ILI","Fever, Cough","-",2021-05-30,2021-06-08,2021-06-08,NA
+32079,"Davanagere",2728833,35,"Female","ILI","Fever, Cough","-",2021-06-02,2021-06-08,2021-06-08,NA
+32080,"Davanagere",2729071,60,"Male","ILI","Fever, Cough","-",2021-06-04,2021-06-08,2021-06-08,NA
+32193,"Davanagere",2640945,36,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-09,2021-06-09,NA
+32213,"Davanagere",2679091,67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-09,2021-06-09,NA
+32217,"Davanagere",2685092,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-09,2021-06-09,NA
+32225,"Davanagere",2692659,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-09,2021-06-09,NA
+32241,"Davanagere",2718599,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-09,2021-06-09,NA
+32251,"Davanagere",2731285,54,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-09,2021-06-09,NA
+32262,"Davanagere",2737558,68,"Female","SARI","Fever, Cough, Breathlessness","IHD",2021-06-04,2021-06-09,2021-06-09,NA
+32377,"Davanagere",2640954,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-30,2021-06-10,2021-06-10,NA
+32394,"Davanagere",2672614,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-10,2021-06-10,NA
+32409,"Davanagere",2686433,48,"Male","ILI","Fever","DM, HTN",2021-06-02,2021-06-10,2021-06-10,NA
+32423,"Davanagere",2704581,55,"Female","ILI","Fever, Cough","-",2021-06-02,2021-06-10,2021-06-10,NA
+32435,"Davanagere",2719743,55,"Female","SARI","Fever, Cough, Breathlessness","IHD",2021-06-04,2021-06-10,2021-06-10,NA
+32441,"Davanagere",2725801,70,"Male","ILI","Fever, Cough","CKD",2021-06-04,2021-06-10,2021-06-10,NA
+32464,"Davanagere",2755357,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-10,2021-06-10,NA
+32531,"Davanagere",2584075,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-11,2021-06-11,NA
+32543,"Davanagere",2615286,82,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-11,2021-06-11,NA
+32610,"Davanagere",2744021,40,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-11,2021-06-11,NA
+32620,"Davanagere",2753861,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-11,2021-06-11,NA
+32668,"Davanagere",2517964,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-12,2021-06-12,NA
+32673,"Davanagere",2551896,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-06-12,2021-06-12,NA
+32676,"Davanagere",2559421,44,"Male","ILI","Fever, Cough","-",2021-05-25,2021-06-12,2021-06-12,NA
+32677,"Davanagere",2559438,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-06-12,2021-06-12,NA
+32773,"Davanagere",2768611,45,"Male","ILI","Fever, Cough","-",2021-06-08,2021-06-12,2021-06-12,NA
+32784,"Davanagere",2789756,45,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-12,2021-06-12,NA
+32814,"Davanagere",2571862,30,"Male","ILI","Fever, Cough","-",2021-05-25,2021-06-13,2021-06-13,NA
+32817,"Davanagere",2576785,80,"Female","SARI","Fever, Breathlessness","DM",2021-05-27,2021-06-13,2021-06-13,NA
+32819,"Davanagere",2578576,59,"Male","ILI","Fever, Cough","-",2021-05-26,2021-06-13,2021-06-13,NA
+32820,"Davanagere",2578579,46,"Male","ILI","Fever, Cough","-",2021-05-26,2021-06-13,2021-06-13,NA
+32821,"Davanagere",2578587,60,"Male","SARI","Fever, Breathlessness","HTN",2021-05-26,2021-06-13,2021-06-13,NA
+32822,"Davanagere",2584104,41,"Male","ILI","Fever, Cough","-",2021-05-26,2021-06-13,2021-06-13,NA
+32823,"Davanagere",2586008,76,"Female","SARI","Fever, Breathlessness","IHD",2021-05-27,2021-06-13,2021-06-13,NA
+32959,"Davanagere",2687968,55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-05,2021-06-13,2021-06-14,NA
+32961,"Davanagere",2691178,42,"Male","SARI","Fever, Breathlessness","_",2021-06-10,2021-06-13,2021-06-14,NA
+32962,"Davanagere",2692637,84,"Male","SARI","Fever, Breathlessness","_",2021-06-09,2021-06-13,2021-06-14,NA
+32963,"Davanagere",2692655,59,"Male","SARI","Fever, Breathlessness","_",2021-06-04,2021-06-13,2021-06-14,NA
+32964,"Davanagere",2692664,55,"Female","SARI","Fever, Breathlessness","_",2021-06-05,2021-06-13,2021-06-14,NA
+32966,"Davanagere",2694202,51,"Male","SARI","Cough, Breathlessness","DM",2021-06-05,2021-06-13,2021-06-14,NA
+32968,"Davanagere",2695291,52,"Female","SARI","Fever, Breathlessness","_",2021-06-06,2021-06-14,2021-06-14,NA
+33031,"Davanagere",2802664,45,"Female","SARI","Fever, Breathlessness","_",2021-06-05,2021-06-13,2021-06-14,NA
+33032,"Davanagere",2804586,68,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-12,2021-06-13,2021-06-14,NA
+33036,"Davanagere",2810508,46,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-13,2021-06-13,2021-06-14,NA
+33051,"Davanagere",2598277,65,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-28,2021-06-15,2021-06-15,NA
+33055,"Davanagere",2623969,33,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-15,2021-06-15,NA
+33056,"Davanagere",2623971,42,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-15,2021-06-15,NA
+33057,"Davanagere",2623976,22,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-15,2021-06-15,NA
+33058,"Davanagere",2626855,27,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-15,2021-06-15,NA
+33059,"Davanagere",2630964,27,"Female","ILI","Fever, Cough","-",2021-05-28,2021-06-15,2021-06-15,NA
+33061,"Davanagere",2634322,72,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-28,2021-06-15,2021-06-15,NA
+33198,"Davanagere",2703207,66,"Female","SARI","Cough, Breathlessness","-",2021-06-02,2021-06-16,2021-06-16,NA
+33199,"Davanagere",2704569,55,"Male","ILI","Fever, Breathlessness","-",2021-06-11,2021-06-16,2021-06-16,NA
+33202,"Davanagere",2711025,62,"Male","ILI","Fever, Breathlessness","-",2021-06-11,2021-06-16,2021-06-16,NA
+33203,"Davanagere",2712412,79,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-16,2021-06-16,NA
+33204,"Davanagere",2712422,70,"Male","SARI","Fever, Breathlessness","-",2021-06-09,2021-06-16,2021-06-16,NA
+33212,"Davanagere",2717678,65,"Female","SARI","Cough, Breathlessness","-",2021-06-15,2021-06-16,2021-06-16,NA
+33271,"Davanagere",2793010,24,"Female","ILI","Fever, Cough","-",2021-06-10,2021-06-16,2021-06-16,NA
+33359,"Davanagere",2708679,30,"Female","SARI","Fever, Breathlessness","DM",2021-06-03,2021-06-17,2021-06-17,NA
+33364,"Davanagere",2722325,80,"Female","SARI","Fever, Breathlessness","HTN",2021-06-04,2021-06-17,2021-06-17,NA
+33372,"Davanagere",2744840,46,"Male","ILI","Fever, Cough","-",2021-06-06,2021-06-17,2021-06-17,NA
+33373,"Davanagere",2745760,70,"Female","ILI","Fever, Cough","IHD",2021-06-06,2021-06-17,2021-06-17,NA
+33381,"Davanagere",2758419,33,"Male","ILI","Fever, Cough","-",2021-06-07,2021-06-17,2021-06-17,NA
+33390,"Davanagere",2776686,68,"Female","SARI","Fever, Breathlessness","HTN",2021-06-09,2021-06-17,2021-06-17,NA
+33395,"Davanagere",2781879,59,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-09,2021-06-17,2021-06-17,NA
+33400,"Davanagere",2787377,55,"Female","SARI","Fever, Breathlessness","DM",2021-06-10,2021-06-17,2021-06-17,NA
+33404,"Davanagere",2793011,65,"Female","SARI","Fever, Breathlessness","HTN",2021-06-10,2021-06-17,2021-06-17,NA
+33415,"Davanagere",2803711,55,"Male","ILI","Fever, Cough","-",2021-06-12,2021-06-17,2021-06-17,NA
+33417,"Davanagere",2808519,69,"Male","SARI","Fever, Breathlessness","HTN",2021-06-13,2021-06-17,2021-06-17,NA
+33554,"Davanagere",2799754,58,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-10,2021-06-15,2021-06-18,NA
+33597,"Davanagere",100000432,56,"Female","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-17,2021-06-18,NA
+33598,"Davanagere",100000449,38,"Male","ILI","Fever, Cough","-",2021-06-13,2021-06-17,2021-06-18,NA
+33599,"Davanagere",100000490,62,"Male","SARI","Fever, Breathlessness","IHD",2021-06-13,2021-06-17,2021-06-18,NA
+33600,"Davanagere",100000557,30,"Female","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-16,2021-06-18,NA
+33601,"Davanagere",100000612,47,"Female","ILI","Fever, Cough","-",2021-06-13,2021-06-17,2021-06-18,NA
+33602,"Davanagere",100000645,62,"Female","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-16,2021-06-18,NA
+33603,"Davanagere",100000706,58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-13,2021-06-17,2021-06-18,NA
+33604,"Davanagere",100000810,81,"Female","SARI","Fever, Breathlessness","DM, CKD",2021-06-13,2021-06-17,2021-06-18,NA
+33605,"Davanagere",100000847,60,"Male","SARI","Fever, Breathlessness","HTN",2021-06-13,2021-06-17,2021-06-18,NA
+33699,"Davanagere",2800923,55,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-19,2021-06-19,NA
+33751,"Davanagere",100000396,30,"Male","ILI","Fever, Cough","-",2021-06-13,2021-06-19,2021-06-19,NA
+33752,"Davanagere",100000484,58,"Male","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-19,2021-06-19,NA
+33754,"Davanagere",100000579,65,"Female","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-19,2021-06-19,NA
+33756,"Davanagere",100000758,62,"Male","SARI","Fever, Breathlessness","IHD",2021-06-13,2021-06-19,2021-06-19,NA
+33757,"Davanagere",100000762,49,"Male","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-19,2021-06-19,NA
+33759,"Davanagere",100000905,60,"Female","SARI","Fever, Breathlessness","HTN",2021-06-13,2021-06-19,2021-06-19,NA
+33760,"Davanagere",100000921,58,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-13,2021-06-19,2021-06-19,NA
+33761,"Davanagere",100000984,47,"Male","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-19,2021-06-19,NA
+33762,"Davanagere",100001124,55,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-13,2021-06-18,2021-06-19,NA
+33763,"Davanagere",100001149,43,"Male","ILI","Fever, Cough","-",2021-06-13,2021-06-18,2021-06-19,NA
+33830,"Davanagere",2772945,66,"Female","SARI","Fever, Breathlessness","HTN",2021-06-08,2021-06-20,2021-06-20,NA
+33878,"Davanagere",100000399,43,"Male","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-20,2021-06-20,NA
+33880,"Davanagere",100000407,60,"Female","SARI","Fever, Breathlessness","IHD",2021-06-13,2021-06-20,2021-06-20,NA
+33881,"Davanagere",100000503,50,"Female","SARI","Fever, Breathlessness","CHD",2021-06-13,2021-06-20,2021-06-20,NA
+33882,"Davanagere",100000821,90,"Female","SARI","Fever, Breathlessness","CKD",2021-06-13,2021-06-20,2021-06-20,NA
+33886,"Davanagere",100001210,68,"Male","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-20,2021-06-20,NA
+33887,"Davanagere",100001265,53,"Female","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-20,2021-06-20,NA
+33910,"Davanagere",2547966,40,"Female","SARI","Breathlessness","HTN",2021-05-30,2021-06-06,2021-06-21,NA
+33968,"Davanagere",2769411,70,"Male","SARI","Fever, Breathlesness","HTN",2021-06-08,2021-06-21,2021-06-21,NA
+33987,"Davanagere",2803720,59,"Male","ILI","Fever, Cough","-",2021-06-12,2021-06-21,2021-06-21,NA
+34000,"Davanagere",2822901,84,"Male","SARI","Fever, Breathlesness","DM",2021-06-15,2021-06-21,2021-06-21,NA
+34023,"Davanagere",100000899,45,"Male","ILI","Fever, Cough","-",2021-06-15,2021-06-21,2021-06-21,NA
+34025,"Davanagere",100000902,58,"Male","SARI","Fever, Breathlesness","IHD",2021-06-15,2021-06-21,2021-06-21,NA
+34026,"Davanagere",100000959,65,"Male","SARI","Fever, Breathlesness","HTN",2021-06-15,2021-06-21,2021-06-21,NA
+34035,"Davanagere",2426832,52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-24,2021-06-22,NA
+34073,"Davanagere",2751773,34,"Male","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-22,2021-06-22,NA
+34076,"Davanagere",2757929,34,"Male","SARI","Fever, Breathlessness","-",2021-06-12,2021-06-21,2021-06-22,NA
+34086,"Davanagere",2775003,60,"Male","SARI","Fever, Breathlessness","DM",2021-06-09,2021-06-22,2021-06-22,NA
+34127,"Davanagere",2827609,84,"Female","SARI","Fever, Breathlessness","DM",2021-06-15,2021-06-22,2021-06-22,NA
+34133,"Davanagere",2834600,72,"Male","SARI","Fever, Breathlessness","DM",2021-06-17,2021-06-22,2021-06-22,NA
+34138,"Davanagere",2842794,50,"Male","SARI","Fever, Breathlessness","-",2021-06-18,2021-06-22,2021-06-22,NA
+34156,"Davanagere",100000408,65,"Female","ILI","Fever, Cough","-",2021-06-15,2021-06-22,2021-06-22,NA
+34164,"Davanagere",100001230,53,"Female","SARI","Fever, Breathlessness","-",2021-06-18,2021-06-22,2021-06-22,NA
+34255,"Davanagere",2834044,36,"Male","ILI","Fever, Cough","-",2021-06-17,2021-06-23,2021-06-23,NA
+34278,"Davanagere",100000504,65,"Female","SARI","Fever, Breathlessness","DM",2021-06-17,2021-06-23,2021-06-23,NA
+34279,"Davanagere",100000534,48,"Male","SARI","Fever, Breathlessness","-",2021-06-17,2021-06-23,2021-06-23,NA
+34280,"Davanagere",100000667,60,"Male","SARI","Fever, Breathlessness","HTN",2021-06-17,2021-06-23,2021-06-23,NA
+34281,"Davanagere",100000795,65,"Male","SARI","Fever, Breathlessness","DM",2021-06-17,2021-06-23,2021-06-23,NA
+34282,"Davanagere",100000922,45,"Female","SARI","Fever, Breathlessness","HTN",2021-06-17,2021-06-23,2021-06-23,NA
+34283,"Davanagere",100000951,36,"Male","ILI","Fever, Cough","-",2021-06-17,2021-06-23,2021-06-23,NA
+34285,"Davanagere",100001208,55,"Female","SARI","Fever, Breathlessness","IHD",2021-06-17,2021-06-23,2021-06-23,NA
+34335,"Davanagere",2780055,70,"Female","SARI","Fever, Breathlessness","IHD",2021-06-08,2021-06-24,2021-06-24,NA
+34336,"Davanagere",2780056,51,"Female","SARI","Fever, Breathlessness","DM",2021-06-08,2021-06-24,2021-06-24,NA
+34386,"Davanagere",2842062,71,"Male","SARI","Fever, Breathlessness","HTN",2021-06-18,2021-06-24,2021-06-24,NA
+34485,"Davanagere",2789831,58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-24,2021-06-25,NA
+34487,"Davanagere",2794341,47,"Male","ILI","Fever, Cough","-",2021-06-11,2021-06-25,2021-06-25,NA
+34511,"Davanagere",2840004,55,"Female","SARI","Breathlessness","-",2021-06-18,2021-06-25,2021-06-25,NA
+34539,"Davanagere",100000514,75,"Male","ILI","Fever, Cough","-",2021-06-21,2021-06-24,2021-06-25,NA
+34540,"Davanagere",100000988,55,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-24,2021-06-25,"Brought dead"
+34599,"Davanagere",2789831,58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-24,2021-06-25,NA
+34601,"Davanagere",2794341,47,"Male","ILI","Fever, Cough","-",2021-06-11,2021-06-25,2021-06-25,NA
+34625,"Davanagere",2840004,55,"Female","SARI","Breathlessness","-",2021-06-18,2021-06-25,2021-06-25,NA
+34653,"Davanagere",100000514,75,"Male","ILI","Fever, Cough","-",2021-06-21,2021-06-24,2021-06-25,NA
+34654,"Davanagere",100000988,55,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-24,2021-06-25,"Brought dead"
+34707,"Davanagere",2796995,37,"Female","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-26,2021-06-26,NA
+34725,"Davanagere",2825915,55,"Female","SARI","Fever, Breathlessness","DM",2021-06-14,2021-06-26,2021-06-26,NA
+34769,"Davanagere",100000848,35,"Male","SARI","Fever, Breathlessness","-",2021-06-14,2021-06-26,2021-06-26,NA
+34770,"Davanagere",100001204,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-26,2021-06-26,NA
+34772,"Davanagere",100001441,65,"Female","SARI","Fever, Breathlessness","HTN",2021-06-14,2021-06-26,2021-06-26,NA
+34807,"Davanagere",2783290,59,"Male","SARI ","Fever, Breathlessness ","- ",2021-06-09,2021-06-27,2021-06-27,NA
+34828,"Davanagere",2829489,79,"Male","SARI ","Fever, Breathlessness ","DM ",2021-06-15,2021-06-27,2021-06-27,NA
+34887,"Davanagere",2780828,65,"Male","ILI ","Fever, Cough ","- ",2021-06-25,2021-06-27,2021-06-28,NA
+34908,"Davanagere",2843400,43,"Male","ILI ","Fever, Cough ","- ",2021-06-25,2021-06-27,2021-06-28,NA
+34914,"Davanagere",2852619,82,"Male","SARI ","Fever, Breathlessness ","IHD ",2021-06-20,2021-06-28,2021-06-28,NA
+34952,"Davanagere",100000616,55,"Female","SARI ","Fever, Breathlessness ","DM ",2021-06-21,2021-06-28,2021-06-28,NA
+34968,"Davanagere",2718615,50,"Female","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34973,"Davanagere",2744851,65,"Male","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34981,"Davanagere",2793012,67,"Male","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35000,"Davanagere",2839491,66,"Male","SARI ","Fever, Breathlessness ","IHD ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35080,"Davanagere",2766945,45,"Male","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-27,2021-06-30,NA
+35081,"Davanagere",2768599,60,"Female","SARI","Fever, Breathlessness","HTN",2021-06-09,2021-06-24,2021-06-30,NA
+35151,"Davanagere",100001489,72,"Male","SARI","Fever, Breathlessness","DM",2021-06-29,2021-06-30,2021-06-30,NA
+35207,"Davanagere",2843396,40,"Male","ILI","Fever","-",2021-06-18,2021-07-01,2021-07-01,NA
+35241,"Davanagere",2884618,57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-29,2021-07-01,NA
+35247,"Davanagere",2887444,40,"Male","ILI","Fever, Cough","-",2021-06-30,2021-07-01,2021-07-01,NA
+35304,"Davanagere",2860295,58,"Male","SARI","Cough, Breathlessness","-",2021-06-22,2021-06-27,2021-07-02,NA
+35422,"Davanagere",100001980,65,"Female","SARI","Cough, Breathlessness","HTN",2021-06-26,2021-07-03,2021-07-03,NA
+35480,"Davanagere",2894588,52,"Male","ILI","Fever, Cough","-",2021-06-17,2021-07-04,2021-07-04,NA
+35481,"Davanagere",100001431,55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-02,2021-07-04,2021-07-04,NA
+35483,"Davanagere",100002128,50,"Male","ILI","Fever, Cough","HTN",2021-06-28,2021-07-04,2021-07-04,NA
+35485,"Davanagere",100002434,60,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-07-02,2021-07-04,2021-07-04,NA
+35548,"Davanagere",2897108,58,"Male","SARI","Fever, Breathlessness","-",2021-07-02,2021-07-05,2021-07-05,NA
+35552,"Davanagere",100002384,60,"Female","SARI","Fever, Breathlessness","DM",2021-07-04,2021-07-05,2021-07-05,NA
+35584,"Davanagere",2858901,48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-05,2021-07-06,NA
+35602,"Davanagere",2883127,65,"Female","ILI","Cough","-",2021-07-01,2021-07-06,2021-07-06,NA
+35638,"Davanagere",100002395,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-06,2021-07-06,NA
+35711,"Davanagere",100000805,45,"Female","SARI","Fever, Breathlessness","HTN",2021-07-03,2021-07-07,2021-07-07,NA
+35712,"Davanagere",100001127,55,"Male","SARI","Fever, Breathlessness","DM",2021-07-04,2021-07-07,2021-07-07,NA
+35749,"Davanagere",2864818,70,"Female","SARI","Fever, Breathlessness","-",2021-06-23,2021-07-08,2021-07-08,NA
+35766,"Davanagere",2893514,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-08,2021-07-08,NA
+35771,"Davanagere",2897886,76,"Female","ILI","Fever","DM, HTN",2021-07-05,2021-07-08,2021-07-08,NA
+35779,"Davanagere",100000989,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-07-08,2021-07-08,NA
+35813,"Davanagere",2882799,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-09,2021-07-09,NA
+35816,"Davanagere",2884291,52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-09,2021-07-09,NA
+35836,"Davanagere",2902286,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-06,2021-07-08,2021-07-09,NA
+35845,"Davanagere",100000526,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-09,2021-07-09,NA
+35847,"Davanagere",100002515,86,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-03,2021-07-09,2021-07-09,NA
+35892,"Davanagere",100000568,59,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-05,2021-07-10,2021-07-10,NA
+35893,"Davanagere",100001449,72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-19,2021-07-10,2021-07-10,NA
+35945,"Davanagere",2911943,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-10,2021-07-11,2021-07-11,NA
+36056,"Davanagere",100000798,56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-13,2021-07-13,2021-07-13,NA
+36059,"Davanagere",100002430,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-02,2021-07-13,2021-07-13,NA
+36081,"Davanagere",2897032,51,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-03,2021-07-14,2021-07-14,NA

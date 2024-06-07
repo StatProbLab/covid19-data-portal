@@ -1,0 +1,1420 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+64,"Dharwad","1943",58,"Male","Returned from Maharashtra",NA,NA,2020-05-23,2020-06-09,2020-06-10,NA
+77,"Dharwad","6258",70,"Male","Returned from Maharashtra","Breathlessness",NA,2020-06-09,2020-06-12,2020-06-13,NA
+85,"Dharwad","7060",65,"Male","Contact of P-6222",NA,NA,2020-06-14,2020-06-14,2020-06-15,NA
+169,"Dharwad","8753",42,"Male","Contact of P - 6839","Throat Pain","-",2020-06-20,2020-06-24,2020-06-26,NA
+186,"Dharwad","11406",73,"Male","Contact under tracing","GI & Bleeding","DM, HTN",2020-06-22,2020-06-24,2020-06-27,NA
+189,"Dharwad","6257",71,"Female","ILI","Fever & Fatigue & Dry Cough","T2DM",2020-06-10,2020-06-28,2020-06-28,NA
+227,"Dharwad","10375",83,"Male","SARI","Breathlessness","HTN, IHD",2020-06-24,2020-06-30,2020-06-30,NA
+238,"Dharwad","14535",69,"Male","SARI","Chest Pain & Fatigue & Dysnea","IHD",2020-06-27,2020-06-27,2020-06-30,NA
+296,"Dharwad","12138",82,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-06-27,2020-07-03,2020-07-04,NA
+315,"Dharwad","16936",73,"Male","ILI","Fever & Cough","IHD",2020-07-02,2020-07-03,2020-07-04,NA
+319,"Dharwad","20061",80,"Male","ILI","Fever &  Cold","-",NA,2020-07-01,2020-07-04,"Brought dead"
+356,"Dharwad","23273",67,"Female","ILI","Cough & Fever & Breathlessness","DM, HTN",2020-07-01,2020-07-05,2020-07-05,NA
+405,"Dharwad","25517",52,"Male","ILI","Cold & Cough","-",2020-07-07,2020-07-07,2020-07-07,NA
+445,"Dharwad","18713",34,"Male","SARI","Fever & Breathlessness","-",2020-07-01,2020-07-06,2020-07-08,NA
+446,"Dharwad","20056",65,"Male","ILI","Breathlessness","_",2020-07-01,2020-07-07,2020-07-08,NA
+461,"Dharwad","28431",85,"Female","Contac Under tracing","-","-",NA,2020-07-08,2020-07-08,NA
+462,"Dharwad","28450",62,"Male","SARI","Breathlessness & Fever","-",2020-07-05,2020-07-05,2020-07-08,NA
+463,"Dharwad","28451",65,"Male","SARI","Breathlessness","-",2020-07-06,2020-07-07,2020-07-08,NA
+464,"Dharwad","28461",54,"Female","SARI","Breathlessness","DM, HTN",2020-07-05,2020-07-06,2020-07-08,NA
+465,"Dharwad","28497",70,"Male","SARI","Breathlessness & Fever","-",2020-07-04,2020-07-05,2020-07-08,NA
+468,"Dharwad","18716",55,"Male","SARI","Cough & Breathlessness","Chronic  Lung Disease, DM",2020-07-02,2020-07-08,2020-07-09,NA
+469,"Dharwad","23232",88,"Male","SARI","Breathlessness","HTN, DM",2020-07-01,2020-07-03,2020-07-09,NA
+471,"Dharwad","24839",65,"Male","ILI","Fever & Cough","HTN, DM",2020-07-03,2020-07-08,2020-07-09,NA
+473,"Dharwad","25532",67,"Male","SARI","Fever & Breathlessness","HTN, DM",2020-07-04,2020-07-08,2020-07-09,NA
+475,"Dharwad","28410",78,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-06,2020-07-06,2020-07-09,NA
+481,"Dharwad","30725",54,"Male","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-06,2020-07-09,2020-07-09,NA
+482,"Dharwad","30726",85,"Male","ILI","Fever & Cough","HTN, DM",2020-07-05,2020-07-07,2020-07-09,NA
+522,"Dharwad","25518",40,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-06,2020-07-09,2020-07-10,NA
+530,"Dharwad","30715",60,"Male","SARI","Fever & Cough","ARDS",2020-06-07,2020-07-10,2020-07-10,NA
+578,"Dharwad","28462",73,"Male","SARI","Cough & Fever","CVD",2020-07-06,2020-07-07,2020-07-11,NA
+593,"Dharwad","35294",54,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-08,2020-07-09,2020-07-11,NA
+594,"Dharwad","35295",58,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-08,2020-07-09,2020-07-11,NA
+667,"Dharwad","35263",52,"Male","ILI","Cough","-",2020-07-07,2020-07-10,2020-07-12,NA
+723,"Dharwad","35231",85,"Female","SARI","Cough & Breathlessness","m, Bronchopneumonia",2020-07-06,2020-07-12,2020-07-13,NA
+725,"Dharwad","38792",74,"Male","SARI","Cough & Breathlessness","DM,  HTN, Bronchopneumonia",2020-07-10,2020-07-12,2020-07-13,NA
+726,"Dharwad","38818",70,"Male","ILI","Cough & Fever","HTN",NA,2020-07-08,2020-07-13,"Died at his residence"
+738,"Dharwad","40107",63,"Male","ILI","Cough & Fever","-",NA,2020-07-11,2020-07-13,"Died at his residence"
+739,"Dharwad","40136",38,"Male","ILI","Cough & Fever","-",2020-07-10,2020-07-12,2020-07-13,NA
+811,"Dharwad","38783",56,"Female","SARI","Cough & Breathlessness","-",2020-07-09,2020-07-11,2020-07-14,NA
+835,"Dharwad","25498",52,"Female","SARI","Breathlessness","-",2020-07-01,2020-07-14,2020-07-15,NA
+836,"Dharwad","25538",48,"Male","Contac Under tracing","-","-",2020-07-03,2020-07-09,2020-07-15,NA
+908,"Dharwad","45201",60,"Male","SARI","Breathlessness","DM, HTN",2020-07-11,2020-07-14,2020-07-15,NA
+909,"Dharwad","45244",58,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-11,2020-07-12,2020-07-15,NA
+911,"Dharwad","45261",51,"Male","SARI","Breathlessness","DM",2020-07-10,2020-07-14,2020-07-15,NA
+1018,"Dharwad","15630",50,"Male","ILI","Fever","Sepsis",2020-06-30,2020-07-13,2020-07-17,NA
+1050,"Dharwad","30740",46,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-04,2020-07-15,2020-07-17,NA
+1051,"Dharwad","31758",61,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-10,2020-07-14,2020-07-17,NA
+1064,"Dharwad","38823",68,"Female","SARI","Breathlessness","HTN",2020-07-09,2020-07-15,2020-07-17,NA
+1074,"Dharwad","44951",60,"Male","SARI","Breathlessness","DM",2020-07-09,2020-07-15,2020-07-17,NA
+1075,"Dharwad","44962",52,"Male","ILI","Cough","DM",2020-07-08,2020-07-15,2020-07-17,NA
+1119,"Dharwad","51592",55,"Male","ILI","Fever & Cough","-",2020-07-09,2020-07-15,2020-07-17,NA
+1128,"Dharwad","52328",55,"Female","ILI","Fever","-",2020-07-12,2020-07-14,2020-07-17,NA
+1142,"Dharwad","31811",69,"Male","SARI","Cough & Breathlessness","DM, HTN, IHD",2020-07-03,2020-07-16,2020-07-18,NA
+1179,"Dharwad","48790",50,"Male","SARI","Fever & Breathlessness","DM",2020-07-16,2020-07-16,2020-07-18,NA
+1205,"Dharwad","57513",30,"Female","SARI","Fever & Cough","-",2020-07-12,2020-07-14,2020-07-18,NA
+1206,"Dharwad","57621",66,"Female","ILI","Fever & Breathlessness","DM, HTN",2020-07-11,2020-07-13,2020-07-18,NA
+1211,"Dharwad","57872",70,"Female","ILI","Cough & Breathlessness","DM, HTN",2020-07-13,2020-07-14,2020-07-18,NA
+1213,"Dharwad","58018",82,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-13,2020-07-17,2020-07-18,NA
+1254,"Dharwad","44767",57,"Male","Contact under tracing","-","DM, HTN",2020-07-13,2020-07-18,2020-07-19,NA
+1287,"Dharwad","57451",52,"Female","ILI","-","-",2020-07-10,2020-07-14,2020-07-19,NA
+1288,"Dharwad","57869",50,"Female","ILI","Fever & Cough","DM, HTN",2020-07-13,2020-07-13,2020-07-19,NA
+1314,"Dharwad","65306",45,"Male","SARI","Breathlessness","DM, HTN",2020-07-18,2020-07-18,2020-07-19,NA
+1322,"Dharwad","28446",65,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-07,2020-07-18,2020-07-20,NA
+1335,"Dharwad","58735",48,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-19,2020-07-20,NA
+1337,"Dharwad","59434",38,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-13,2020-07-16,2020-07-20,NA
+1339,"Dharwad","59778",35,"Female","SARI","-","CKD",2020-07-14,2020-07-16,2020-07-20,NA
+1362,"Dharwad","64783",58,"Male","ILI","Cough & Breathlessness","DM, HTN",2020-07-16,2020-07-19,2020-07-20,NA
+1381,"Dharwad","68713",56,"Female","ILI","Cough","DM, HTN",NA,2020-07-14,2020-07-20,"Died at her residence"
+1402,"Dharwad","57629",70,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-12,2020-07-14,2020-07-21,NA
+1404,"Dharwad","58132",76,"Male","ILI","Cough & Breathlessness","-",2020-07-14,2020-07-15,2020-07-21,NA
+1405,"Dharwad","58262",66,"Male","ILI","-","DM, HTN",2020-07-16,2020-07-16,2020-07-21,NA
+1407,"Dharwad","59215",50,"Male","ILI","Fever & Cough & Breathlessness","-",NA,2020-07-16,2020-07-21,"Brought dead"
+1428,"Dharwad","69246",91,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-17,2020-07-19,2020-07-21,NA
+1451,"Dharwad","36663",79,"Female","Contact under tracing","-","DM, HTN",2020-07-07,2020-07-20,2020-07-22,NA
+1453,"Dharwad","38812",59,"Male","SARI","Cough & Breathlessness","HTN",2020-07-09,2020-07-19,2020-07-22,NA
+1455,"Dharwad","44283",58,"Female","SARI","Fever","DM, HTN",2020-07-08,2020-07-20,2020-07-22,NA
+1460,"Dharwad","59520",69,"Male","SARI","Fever & Breathlessness","DM, HTN, CKD",2020-07-15,2020-07-19,2020-07-22,NA
+1466,"Dharwad","65322",56,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-18,2020-07-20,2020-07-22,NA
+1513,"Dharwad","31815",53,"Male","Contact under tracing","-","DM, HTN",2020-06-30,2020-07-13,2020-07-23,NA
+1551,"Dharwad","58491",52,"Female","ILI","Fever & Cough","-",NA,2020-07-15,2020-07-23,NA
+1602,"Dharwad","30754",65,"Male","SARI","Breathlessness","DM,  HTN, IHD",2020-07-11,2020-07-21,2020-07-24,NA
+1603,"Dharwad","31781",51,"Female","SARI","Cough & Breathlessness","CKD",2020-07-07,2020-07-15,2020-07-24,NA
+1614,"Dharwad","47436",46,"Female","SARI","Cough & Breathlessness","-",2020-07-12,2020-07-22,2020-07-24,NA
+1618,"Dharwad","48763",63,"Female","SARI","Cough & Breathlessness","DM, HTN",2020-07-16,2020-07-22,2020-07-24,NA
+1638,"Dharwad","64750",83,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-17,2020-07-21,2020-07-24,NA
+1739,"Dharwad","68896",25,"Female","SARI","Breathlessness","DM",2020-07-21,2020-07-22,2020-07-25,NA
+1745,"Dharwad","76860",74,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-18,2020-07-19,2020-07-25,NA
+1750,"Dharwad","81877",63,"Male","SARI","Fever & Breathlessness","DM",2020-07-21,2020-07-22,2020-07-25,NA
+1752,"Dharwad","83345",49,"Female","SARI","Breathlessness","DM, HTN",2020-07-20,2020-07-21,2020-07-25,NA
+1787,"Dharwad","47509",48,"Male","SARI","Breathlessness","-",2020-07-13,2020-07-24,2020-07-26,NA
+1794,"Dharwad","59662",57,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-16,2020-07-23,2020-07-26,NA
+1795,"Dharwad","60038",49,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-14,2020-07-24,2020-07-26,NA
+1796,"Dharwad","60158",34,"Male","SARI","Fever & Cough & Breathlessness","CLD",2020-07-17,2020-07-22,2020-07-26,NA
+1799,"Dharwad","63695",45,"Male","SARI","Breathlessness","DM",2020-07-15,2020-07-24,2020-07-26,NA
+1811,"Dharwad","73082",72,"Male","SARI","Cough & Breathlessness","IHD",2020-07-18,2020-07-22,2020-07-26,NA
+1880,"Dharwad","55303",53,"Female","SARI","Cough & Breathlessness","DM",2020-07-13,2020-07-22,2020-07-27,NA
+1889,"Dharwad","65342",72,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-07-17,2020-07-20,2020-07-27,NA
+1890,"Dharwad","68111",75,"Male","SARI","Breathlessness","HTN",2020-07-16,2020-07-22,2020-07-27,NA
+1896,"Dharwad","76894",55,"Male","SARI","Fever & Breathlessness","DM, HTN, IHD",2020-07-18,2020-07-19,2020-07-27,NA
+1897,"Dharwad","76970",48,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-18,2020-07-21,2020-07-27,NA
+1899,"Dharwad","77293",60,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-19,2020-07-22,2020-07-27,NA
+1905,"Dharwad","86422",82,"Male","SARI","Breathlessness","DM, HTN",2020-07-22,2020-07-23,2020-07-27,NA
+1909,"Dharwad","91096",51,"Male","SARI","Fever & Breathlessness","-",2020-07-23,2020-07-23,2020-07-27,NA
+1962,"Dharwad","68237",60,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-07-19,2020-07-25,2020-07-28,NA
+1973,"Dharwad","76884",64,"Male","SARI","-","DM, HTN",2020-07-17,2020-07-24,2020-07-28,NA
+1979,"Dharwad","83417",78,"Female","SARI","Cough & Breathlessness","CA",2020-07-13,2020-07-23,2020-07-28,NA
+1996,"Dharwad","94968",50,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-25,2020-07-28,NA
+1997,"Dharwad","95121",72,"Female","SARI","Cough & Breathlessness","HTN",2020-07-23,2020-07-24,2020-07-28,NA
+1998,"Dharwad","95177",64,"Female","SARI","Breathlessness","DM, HTN",2020-07-22,2020-07-24,2020-07-28,NA
+2057,"Dharwad","69570",75,"Male","SARI","Cough","DM",2020-07-19,2020-07-22,2020-07-29,NA
+2062,"Dharwad","73481",26,"Female","SARI","Fever & Cough","-",2020-07-18,2020-07-21,2020-07-29,NA
+2071,"Dharwad","85988",98,"Male","ILI","Fever & Cough","-",2020-07-19,2020-07-23,2020-07-29,NA
+2072,"Dharwad","86081",68,"Female","ILI","Cough","DM",2020-07-22,2020-07-23,2020-07-29,NA
+2073,"Dharwad","86221",68,"Female","Contact under tracing","-","DM, HTN, CVD",2020-07-15,2020-07-20,2020-07-29,NA
+2081,"Dharwad","94157",56,"Male","SARI","Breathlessness","DM",2020-07-24,2020-07-25,2020-07-29,NA
+2084,"Dharwad","94633",60,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-23,2020-07-24,2020-07-29,NA
+2142,"Dharwad","59338",72,"Female","SARI","Cough & Breathlessness","HTN",2020-07-12,2020-07-17,2020-07-30,NA
+2143,"Dharwad","60017",84,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN, CLD",2020-07-18,2020-07-22,2020-07-30,NA
+2144,"Dharwad","64647",74,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD, IHD",2020-07-17,2020-07-24,2020-07-30,NA
+2148,"Dharwad","73492",71,"Male","SARI","Breathlessness","DM, CKD",2020-07-18,2020-07-26,2020-07-30,NA
+2155,"Dharwad","82942",64,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-23,2020-07-25,2020-07-30,NA
+2161,"Dharwad","93797",68,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-07-22,2020-07-24,2020-07-30,NA
+2171,"Dharwad","106138",82,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-27,2020-07-30,NA
+2180,"Dharwad","112306",80,"Female","SARI","Fever & Breathlessness","HTN",2020-07-26,2020-07-26,2020-07-30,NA
+2218,"Dharwad","35280",30,"Female","ILI","Fever","-",2020-07-11,2020-07-11,2020-07-31,NA
+2219,"Dharwad","35290",72,"Male","ILI","Fever & Cough","-",2020-07-11,2020-07-23,2020-07-31,NA
+2220,"Dharwad","44282",91,"Male","ILI","Fever & Cough","HTN",2020-07-13,2020-07-24,2020-07-31,NA
+2243,"Dharwad","83419",77,"Male","Contact under tracing","-","DM, HTN",2020-07-20,2020-07-21,2020-07-31,NA
+2244,"Dharwad","85907",69,"Male","Contact under tracing","-","DM, HTN, CKD",2020-07-19,2020-07-23,2020-07-31,NA
+2258,"Dharwad","102335",45,"Female","SARI","Cough & Breathlessness","DM, HTN",2020-07-24,2020-07-27,2020-07-31,NA
+2259,"Dharwad","102485",60,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-26,2020-07-27,2020-07-31,NA
+2304,"Dharwad","68689",73,"Male","SARI","Fever","DM, CVA",2020-07-17,2020-07-27,2020-08-01,NA
+2307,"Dharwad","76754",74,"Male","SARI","Fever & Breathlessness","DM, HTN, IHD",2020-07-20,2020-07-23,2020-08-01,NA
+2319,"Dharwad","95123",72,"Male","SARI","Breathlessness","DM, HTN",2020-07-23,2020-07-27,2020-08-01,NA
+2324,"Dharwad","102168",34,"Male","SARI","-","-",2020-07-25,2020-07-27,2020-08-01,NA
+2325,"Dharwad","102213",72,"Male","SARI","Fever & Breathlessness","-",2020-07-25,2020-07-27,2020-08-01,NA
+2328,"Dharwad","103008",53,"Male","SARI","Breathlessness","HTN",2020-07-26,2020-07-27,2020-08-01,NA
+2334,"Dharwad","106577",55,"Male","SARI","Breathlessness","-",2020-07-20,2020-07-27,2020-08-01,NA
+2335,"Dharwad","106986",56,"Male","SARI","Cough & Breathlessness","-",2020-07-27,2020-07-27,2020-08-01,NA
+2400,"Dharwad","48103",80,"Female","SARI","Breathlessness","HTN",2020-07-14,2020-07-30,2020-08-02,NA
+2407,"Dharwad","81525",65,"Male","SARI","Breathlessness","-",2020-07-20,2020-07-28,2020-08-02,NA
+2408,"Dharwad","81865",28,"Male","SARI","-","-",2020-07-18,2020-07-27,2020-08-02,NA
+2410,"Dharwad","86279",80,"Male","Contact under tracing","-","HTN, IHD",2020-07-23,2020-07-29,2020-08-02,NA
+2417,"Dharwad","98704",50,"Male","SARI","Fever & Breathlessness","DM",2020-07-25,2020-07-25,2020-08-02,NA
+2419,"Dharwad","102054",78,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-28,2020-08-02,NA
+2421,"Dharwad","102176",82,"Male","SARI","Breathlessness","-",2020-07-27,2020-07-28,2020-08-02,NA
+2426,"Dharwad","106910",70,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-27,2020-07-28,2020-08-02,NA
+2493,"Dharwad","86122",70,"Female","SARI","Fever & Breathlessness","HTN, IHD",2020-07-23,2020-07-31,2020-08-03,NA
+2502,"Dharwad","96252",48,"Male","SARI","Breathlessness","DM, HTN",2020-07-22,2020-07-29,2020-08-03,NA
+2508,"Dharwad","102508",77,"Female","ILI","-","IHD",2020-07-24,2020-07-30,2020-08-03,NA
+2526,"Dharwad","114437",81,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-07-30,2020-07-30,2020-08-03,NA
+2528,"Dharwad","115635",51,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-28,2020-08-01,2020-08-03,NA
+2530,"Dharwad","118108",53,"Female","SARI","Fever & Cough","DM, HTN",2020-07-29,2020-07-29,2020-08-03,NA
+2533,"Dharwad","119672",76,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-27,2020-07-31,2020-08-03,NA
+2542,"Dharwad","124664",85,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-07-29,2020-07-29,2020-08-03,NA
+2581,"Dharwad","18708",62,"Male","ILI","Fever","DM",2020-07-25,2020-07-30,2020-08-04,NA
+2584,"Dharwad","44428",70,"Male","SARI","Fever & Cough & Breathlessness","COPD",2020-07-07,2020-07-16,2020-08-04,NA
+2606,"Dharwad","100963",57,"Male","SARI","Breathlessness","-",2020-07-27,2020-08-03,2020-08-04,NA
+2607,"Dharwad","102396",63,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-07-25,2020-07-31,2020-08-04,NA
+2608,"Dharwad","103148",68,"Male","ILI","-","DM",2020-07-26,2020-08-02,2020-08-04,NA
+2614,"Dharwad","110147",45,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-07-31,2020-08-01,2020-08-04,NA
+2615,"Dharwad","111946",68,"Female","SARI","Fever & Cough","HTN",2020-07-29,2020-07-30,2020-08-04,NA
+2641,"Dharwad","126896",55,"Male","SARI","Breathlessness","IHD",2020-07-28,2020-08-01,2020-08-04,NA
+2739,"Dharwad","128700",53,"Male","SARI","Breathlessness","IHD",2020-07-31,2020-07-31,2020-08-05,NA
+2790,"Dharwad","47791",73,"Female","ILI","Fever","DM, HTN",2020-07-11,2020-07-24,2020-08-06,NA
+2793,"Dharwad","59295",87,"Female","ILI","-","-",2020-07-13,2020-07-27,2020-08-06,NA
+2797,"Dharwad","72868",65,"Female","SARI","Cough","-",2020-07-16,2020-07-29,2020-08-06,NA
+2803,"Dharwad","94589",62,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-24,2020-07-25,2020-08-06,NA
+2822,"Dharwad","127351",70,"Female","SARI","Cough, Breathlessness","HTN, IHD",2020-07-30,2020-07-31,2020-08-06,NA
+2856,"Dharwad","148619",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-03,2020-08-04,2020-08-06,NA
+2859,"Dharwad","149831",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-03,2020-08-05,2020-08-06,NA
+2874,"Dharwad","159145",43,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-05,2020-08-05,2020-08-06,NA
+2882,"Dharwad","73004",66,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-15,2020-08-04,2020-08-07,NA
+2887,"Dharwad","81467",78,"Male","SARI","Breathlessness","DM",2020-07-20,2020-07-21,2020-08-07,NA
+2903,"Dharwad","106985",63,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-07-26,2020-08-04,2020-08-07,NA
+2918,"Dharwad","122282",75,"Male","ILI","Fever, Cough","HTN, IHD",2020-07-29,2020-08-03,2020-08-07,NA
+2929,"Dharwad","138011",54,"Male","ILI","Fever, Cough","DM, HTN",2020-07-31,2020-08-03,2020-08-07,NA
+2939,"Dharwad","143887",53,"Male","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-04,2020-08-07,NA
+2940,"Dharwad","143959",65,"Female","SARI","Cough","HTN",2020-07-31,2020-08-03,2020-08-07,NA
+2959,"Dharwad","158414",65,"Male","SARI","Breathlessness","IHD",2020-08-03,2020-08-04,2020-08-07,NA
+2969,"Dharwad","162810",55,"Male","ILI","Fever, Cough","HTN",2020-08-05,2020-08-06,2020-08-07,NA
+3013,"Dharwad","119877",39,"Male","SARI","Fever, Breathlessness","DM",2020-07-27,2020-07-29,2020-08-08,NA
+3019,"Dharwad","128740",58,"Female","SARI","Breathlessness","DM, HTN",2020-07-29,2020-08-06,2020-08-08,NA
+3022,"Dharwad","130605",72,"Female","SARI","Breathlessness","DM",2020-08-01,2020-08-04,2020-08-08,NA
+3030,"Dharwad","144332",82,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-02,2020-08-07,2020-08-08,NA
+3052,"Dharwad","158410",49,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-08-02,2020-08-06,2020-08-08,NA
+3053,"Dharwad","158412",58,"Male","SARI","Cough, Breathlessness","HTN",2020-08-03,2020-08-05,2020-08-08,NA
+3076,"Dharwad","64691",64,"Male","SARI","Cough, Breathlessness","DM",2020-07-17,2020-07-25,2020-08-09,NA
+3077,"Dharwad","72703",58,"Female","SARI","Cough, Breathlessness","-",2020-07-14,2020-07-25,2020-08-09,NA
+3091,"Dharwad","93956",74,"Female","SARI","Cough, Breathlessness","DM, HTN, CKD",2020-07-21,2020-08-04,2020-08-09,NA
+3106,"Dharwad","122214",89,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-29,2020-07-30,2020-08-09,NA
+3107,"Dharwad","122422",65,"Male","ILI","Cough","DM, HTN",2020-07-29,2020-07-30,2020-08-09,NA
+3137,"Dharwad","158706",55,"Female","SARI","Breathlessness","DM, HTN",2020-08-05,2020-08-06,2020-08-09,NA
+3213,"Dharwad","120285",64,"Male","SARI","Fever, Cough","DM, HTN",2020-07-28,2020-08-05,2020-08-10,NA
+3237,"Dharwad","147480",68,"Female","SARI","Breathlessness","HTN",2020-08-03,2020-08-04,2020-08-10,NA
+3254,"Dharwad","167060",52,"Female","SARI","Fever, Breathlessness","-",2020-08-06,2020-08-06,2020-08-10,NA
+3266,"Dharwad","176551",87,"Male","SARI","Cough, Breathlessness","-",2020-08-05,2020-08-08,2020-08-10,NA
+3297,"Dharwad","85985",76,"Male","SARI","Breathlessness","DM, HTN",2020-07-21,2020-07-21,2020-08-11,NA
+3298,"Dharwad","86185",63,"Male","SARI","Breathlessness","IHD",2020-07-20,2020-07-21,2020-08-11,NA
+3313,"Dharwad","96064",75,"Male","SARI","Breathlessness","IHD",2020-07-23,2020-07-24,2020-08-11,NA
+3314,"Dharwad","100513",65,"Female","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-25,2020-08-11,NA
+3315,"Dharwad","100582",48,"Male","SARI","Breathlessness","HTN, IHD",2020-07-23,2020-07-30,2020-08-11,NA
+3316,"Dharwad","106132",52,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-07-25,2020-08-07,2020-08-11,NA
+3317,"Dharwad","109678",64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-27,2020-08-08,2020-08-11,NA
+3342,"Dharwad","157123",76,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-03,2020-08-07,2020-08-11,NA
+3361,"Dharwad","178775",65,"Female","SARI","Fever, Breathlessness","-",2020-08-08,2020-08-08,2020-08-11,NA
+3413,"Dharwad","129302",55,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-07-31,2020-08-01,2020-08-12,NA
+3451,"Dharwad","170186",40,"Male","Contact under tracing","Breathlessness","-",2020-08-06,2020-08-06,2020-08-12,NA
+3522,"Dharwad","111684",54,"Male","SARI","Fever, Breathlessness","HTN",2020-07-27,2020-08-02,2020-08-13,NA
+3537,"Dharwad","154801",45,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-04,2020-08-12,2020-08-13,NA
+3566,"Dharwad","184632",65,"Male","SARI","Fever, Breathlessness","DM",2020-08-08,2020-08-11,2020-08-13,NA
+3567,"Dharwad","186018",82,"Male","SARI","Fever, Cough","HTN",2020-08-09,2020-08-11,2020-08-13,NA
+3574,"Dharwad","188399",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-09,2020-08-09,2020-08-13,NA
+3581,"Dharwad","196217",70,"Male","SARI","Fever, Breathlessness","HTN, CHD",2020-08-11,2020-08-11,2020-08-13,NA
+3601,"Dharwad","60426",42,"Male","SARI","Cough, Breathlessness","IHD",2020-08-05,2020-08-08,2020-08-14,NA
+3619,"Dharwad","100979",76,"Female","ILI","Fever, Cough","HTN",2020-07-24,2020-08-11,2020-08-14,NA
+3627,"Dharwad","104975",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-07-26,2020-08-10,2020-08-14,NA
+3643,"Dharwad","141637",64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-07,2020-08-14,NA
+3644,"Dharwad","142183",67,"Male","SARI","Cough, Breathlessness","-",2020-07-30,2020-08-10,2020-08-14,NA
+3648,"Dharwad","156677",55,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-08-07,2020-08-09,2020-08-14,NA
+3653,"Dharwad","164894",70,"Male","SARI","Fever, Cough, Breathlessness","DM, TB",2020-08-05,2020-08-06,2020-08-14,NA
+3671,"Dharwad","186042",53,"Female","Contact under tracing","-","DM, HTN",2020-08-08,2020-08-10,2020-08-14,NA
+3720,"Dharwad","72175",72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-14,2020-07-21,2020-08-15,NA
+3722,"Dharwad","97527",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-07-22,2020-07-23,2020-08-15,NA
+3724,"Dharwad","115738",75,"Male","SARI","Fever, Cough","HTN",2020-07-26,2020-07-29,2020-08-15,NA
+3725,"Dharwad","121540",65,"Male","SARI","Fever, Breathlessness","DM",2020-07-29,2020-07-31,2020-08-15,NA
+3733,"Dharwad","142188",38,"Male","Contact under tracing","-","-",2020-08-01,2020-08-12,2020-08-15,NA
+3746,"Dharwad","164151",76,"Male","Contact under tracing","-","DM, HTN, AKI",2020-08-05,2020-08-11,2020-08-15,NA
+3781,"Dharwad","195166",69,"Male","ILI","Fever, Cough","DM",2020-08-09,2020-08-11,2020-08-15,NA
+3868,"Dharwad","139024",71,"Male","ILI","Fever, Cough","-",NA,2020-08-16,2020-08-16,NA
+3870,"Dharwad","146315",23,"Male","SARI","Breathlessness","HTN, CKD",NA,2020-08-16,2020-08-16,NA
+3874,"Dharwad","152694",76,"Male","SARI","Fever, Breathlessness","DM, HTN, CVD",NA,2020-08-16,2020-08-16,NA
+3904,"Dharwad","205261",60,"Male","ILI","Fever, Cough","HTN",NA,2020-08-16,2020-08-16,NA
+3906,"Dharwad","209540",64,"Male","SARI","Breathlessness","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3984,"Dharwad","164889",55,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-03,2020-08-12,2020-08-17,NA
+3992,"Dharwad","181134",67,"Male","Contact under tracing","Breathlessness","HTN",2020-08-08,2020-08-13,2020-08-17,NA
+3995,"Dharwad","186038",72,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-08-08,2020-08-11,2020-08-17,NA
+4003,"Dharwad","195165",45,"Male","Contact under tracing","Breathlessness","DM",2020-08-09,2020-08-13,2020-08-17,NA
+4004,"Dharwad","196192",65,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-11,2020-08-12,2020-08-17,NA
+4079,"Dharwad","119884",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, Anemia",2020-07-27,2020-08-02,2020-08-18,NA
+4081,"Dharwad","124578",63,"Male","SARI","Cough, Breathlessness","DM, HTN, AKI",2020-07-28,2020-08-02,2020-08-18,NA
+4098,"Dharwad","151121",56,"Male","ILI","Fever, Cough","DM, HTN",2020-08-05,2020-08-15,2020-08-18,NA
+4108,"Dharwad","171082",56,"Male","SARI","Breathlessness","HTN",2020-08-07,2020-08-15,2020-08-18,NA
+4119,"Dharwad","183483",64,"Male","SARI","Breathlessness","DM, HTN",2020-08-06,2020-08-07,2020-08-18,NA
+4125,"Dharwad","190742",63,"Male","ILI","Cough","DM, HTN",2020-08-11,2020-08-12,2020-08-18,NA
+4130,"Dharwad","193613",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-08,2020-08-13,2020-08-18,NA
+4149,"Dharwad","214190",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-15,2020-08-18,NA
+4168,"Dharwad","229177",64,"Female","SARI","Cough, Breathlessness","HTN",2020-08-15,2020-08-15,2020-08-18,NA
+4169,"Dharwad","229186",37,"Female","SARI","Cough, Breathlessness","-",2020-08-15,2020-08-15,2020-08-18,NA
+4221,"Dharwad","153526",76,"Male","Contact under tracing","-","CVA",2020-08-03,2020-08-07,2020-08-19,NA
+4241,"Dharwad","186034",58,"Male","SARI","Breathlessness","Pneumonia, ARDS",2020-08-07,2020-08-16,2020-08-19,NA
+4244,"Dharwad","192771",45,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-08-09,2020-08-14,2020-08-19,NA
+4250,"Dharwad","198429",78,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-15,2020-08-19,NA
+4251,"Dharwad","198435",60,"Male","SARI","Breathlessness","HTN, AKI",2020-08-09,2020-08-17,2020-08-19,NA
+4253,"Dharwad","204200",71,"Male","SARI","Breathlessness","DM, HTN, IHD, AKI",2020-08-10,2020-08-17,2020-08-19,NA
+4257,"Dharwad","211323",61,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-15,2020-08-19,NA
+4262,"Dharwad","218123",64,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-08-13,2020-08-18,2020-08-19,NA
+4271,"Dharwad","227998",58,"Male","SARI","Fever, Breathlessness","AKI",2020-08-14,2020-08-16,2020-08-19,NA
+4434,"Dharwad","183486",55,"Female","SARI","Fever, Breathlessness","-",2020-08-06,2020-08-10,2020-08-21,NA
+4436,"Dharwad","184471",60,"Male","Contact under tracing","-","CVA",2020-08-06,2020-08-17,2020-08-21,NA
+4460,"Dharwad","226318",75,"Female","ILI","Fever","DM, HTN",2020-08-13,2020-08-18,2020-08-21,NA
+4528,"Dharwad","186033",70,"Male","SARI","Breathlessness","DM, HTN",2020-08-07,2020-08-19,2020-08-22,NA
+4529,"Dharwad","186607",70,"Male","SARI","Cough, Breathlessness","-",2020-08-08,2020-08-19,2020-08-22,NA
+4540,"Dharwad","211579",45,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-08-11,2020-08-19,2020-08-22,NA
+4560,"Dharwad","240451",40,"Female","SARI","Fever, Breathlessness","-",2020-08-15,2020-08-18,2020-08-22,NA
+4561,"Dharwad","240457",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-16,2020-08-19,2020-08-22,NA
+4580,"Dharwad","256178",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-17,2020-08-18,2020-08-22,NA
+4582,"Dharwad","256665",50,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-22,NA
+4611,"Dharwad","164892",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-09,2020-08-11,2020-08-23,NA
+4624,"Dharwad","212103",65,"Female","SARI","Cough, Breathlessness","DM, HTN, CKD",2020-08-13,2020-08-20,2020-08-23,NA
+4639,"Dharwad","242544",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-17,2020-08-18,2020-08-23,NA
+4684,"Dharwad","184787",82,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, CKD",2020-08-08,2020-08-24,2020-08-24,NA
+4713,"Dharwad","229961",92,"Female","Contact under tracing","Cough, Breathlessness","-",2020-08-15,2020-08-23,2020-08-24,NA
+4837,"Dharwad","219114",65,"Male","SARI","Breathlessness","DM",2020-08-12,2020-08-18,2020-08-25,NA
+4848,"Dharwad","228000",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-14,2020-08-21,2020-08-25,NA
+4869,"Dharwad","240971",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-14,2020-08-24,2020-08-25,NA
+4876,"Dharwad","243890",83,"Female","SARI","Breathlessness","HTN",2020-08-19,2020-08-20,2020-08-25,NA
+4894,"Dharwad","250499",72,"Male","SARI","Breathlessness","-",2020-08-15,2020-08-20,2020-08-25,NA
+4912,"Dharwad","264788",48,"Male","SARI","Fever, Breathlessness","DVT",2020-08-19,2020-08-21,2020-08-25,NA
+4917,"Dharwad","268257",65,"Male","SARI","Breathlessness","DM",2020-08-19,2020-08-20,2020-08-25,NA
+4922,"Dharwad","272001",30,"Female","SARI","Cough, Breathlessness","CKD",2020-08-18,2020-08-21,2020-08-25,NA
+4976,"Dharwad","220190",60,"Female","ILI","Fever, Cough","-",2020-08-14,2020-08-20,2020-08-26,NA
+4987,"Dharwad","234377",65,"Male","ILI","Fever","DM, CKD",2020-08-13,2020-08-20,2020-08-26,NA
+4994,"Dharwad","242532",67,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-16,2020-08-20,2020-08-26,NA
+4995,"Dharwad","242537",42,"Male","SARI","Breathlessness","HTN",2020-08-16,2020-08-20,2020-08-26,NA
+5007,"Dharwad","256177",63,"Female","SARI","Cough, Breathlessness","HTN",2020-08-17,2020-08-19,2020-08-26,NA
+5009,"Dharwad","256658",70,"Female","SARI","Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-26,NA
+5027,"Dharwad","268261",64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-20,2020-08-21,2020-08-26,NA
+5029,"Dharwad","273044",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-20,2020-08-20,2020-08-26,NA
+5244,"Dharwad","198992",68,"Male","SARI","Fever, Breathlessness","-",2020-08-10,2020-08-21,2020-08-28,NA
+5261,"Dharwad","234844",70,"Female","SARI","Breathlessness","DM, HTN",2020-08-15,2020-08-21,2020-08-28,NA
+5262,"Dharwad","236309",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, Asthma",2020-08-15,2020-08-21,2020-08-28,NA
+5270,"Dharwad","248416",62,"Male","SARI","Breathlessness","-",2020-08-17,2020-08-21,2020-08-28,NA
+5278,"Dharwad","254677",77,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-08-20,2020-08-20,2020-08-28,NA
+5279,"Dharwad","256655",47,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-21,2020-08-28,NA
+5286,"Dharwad","264787",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-08-19,2020-08-21,2020-08-28,NA
+5303,"Dharwad","274801",66,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-08-20,2020-08-21,2020-08-28,NA
+5319,"Dharwad","289623",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-21,2020-08-22,2020-08-28,NA
+5376,"Dharwad","218125",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-13,2020-08-22,2020-08-29,NA
+5379,"Dharwad","227234",78,"Male","SARI","Breathlessness","DM, HTN",2020-08-13,2020-08-24,2020-08-29,NA
+5391,"Dharwad","251974",59,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-19,2020-08-22,2020-08-29,NA
+5407,"Dharwad","264783",59,"Male","ILI","Cough","DM, HTN",2020-08-19,2020-08-22,2020-08-29,NA
+5409,"Dharwad","272403",75,"Male","ILI","Fever, Cough","DM, HTN",2020-08-20,2020-08-22,2020-08-29,NA
+5414,"Dharwad","279630",81,"Male","ILI","Fever, Cough, Breathlessness","HTN",2020-08-22,2020-08-25,2020-08-29,NA
+5424,"Dharwad","291649",67,"Male","SARI","Cough, Breathlessness","-",2020-08-21,2020-08-22,2020-08-29,NA
+5431,"Dharwad","295810",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-23,2020-08-23,2020-08-29,NA
+5461,"Dharwad","318554",78,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-28,2020-08-29,NA
+5479,"Dharwad","103224",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-07-25,2020-07-26,2020-08-30,NA
+5481,"Dharwad","157139",43,"Male","ILI","Cough, Breathlessness","-",2020-08-04,2020-08-14,2020-08-30,NA
+5484,"Dharwad","161302",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-05,2020-08-16,2020-08-30,NA
+5496,"Dharwad","186040",50,"Male","Contact under tracing","-","DM, HTN, CVA",2020-08-08,2020-08-08,2020-08-30,NA
+5499,"Dharwad","192762",73,"Male","SARI","Breathlessness","-",2020-08-08,2020-08-11,2020-08-30,NA
+5506,"Dharwad","220490",58,"Female","SARI","Fever, Breathlessness","-",2020-08-12,2020-08-13,2020-08-30,NA
+5507,"Dharwad","234380",75,"Male","Contact under tracing","-","HTN, IHD",2020-08-13,2020-08-14,2020-08-30,NA
+5509,"Dharwad","241876",55,"Female","SARI","Breathlessness","DM",2020-08-15,2020-08-17,2020-08-30,NA
+5526,"Dharwad","280617",53,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-08-23,2020-08-23,2020-08-30,NA
+5586,"Dharwad","183482",60,"Male","Contact under tracing","Cough","DM, HTN",2020-08-06,2020-08-23,2020-08-31,NA
+5587,"Dharwad","184618",69,"Male","Contact under tracing","Breathlessness","HTN",2020-08-09,2020-08-23,2020-08-31,NA
+5598,"Dharwad","248411",60,"Female","Contact under tracing","Breathlessness","DM",2020-08-17,2020-08-20,2020-08-31,NA
+5599,"Dharwad","248767",58,"Female","Contact under tracing","Fever, Cough","DM, HTN",2020-08-16,2020-08-22,2020-08-31,NA
+5605,"Dharwad","260474",55,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-23,2020-08-31,NA
+5606,"Dharwad","262183",63,"Female","Contact under tracing","Breathlessness","HTN",2020-08-19,2020-08-23,2020-08-31,NA
+5625,"Dharwad","291656",48,"Male","Contact under tracing","Breathlessness","DM, AKD",2020-08-22,2020-08-22,2020-08-31,NA
+5627,"Dharwad","295162",61,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, CKD",2020-08-22,2020-08-25,2020-08-31,NA
+5628,"Dharwad","295165",60,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-23,2020-08-25,2020-08-31,NA
+5699,"Dharwad","92135",44,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-22,2020-07-25,2020-09-01,NA
+5700,"Dharwad","122748",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-07-29,2020-07-30,2020-09-01,NA
+5833,"Dharwad","128846",50,"Male","ILI","Fever","ARF",2020-07-27,2020-07-30,2020-09-02,NA
+5845,"Dharwad","235099",66,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-13,2020-08-28,2020-09-02,NA
+5860,"Dharwad","273497",44,"Male","SARI","Breathlessness","DM",2020-08-19,2020-08-29,2020-09-02,NA
+5866,"Dharwad","287532",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-09-02,NA
+5869,"Dharwad","288796",70,"Male","SARI","Fever, Breathlessness","HTN, CKD, IHD",2020-08-21,2020-08-28,2020-09-02,NA
+5882,"Dharwad","298307",65,"Male","ILI","-","-",2020-08-23,2020-08-26,2020-09-02,NA
+5885,"Dharwad","303055",78,"Female","SARI","Cough, Breathlessness","-",2020-08-23,2020-08-29,2020-09-02,NA
+5886,"Dharwad","303065",62,"Female","SARI","Cough, Breathlessness","-",2020-08-23,2020-08-26,2020-09-02,NA
+5903,"Dharwad","321459",40,"Female","SARI","Breathlessness","-",2020-08-25,2020-08-27,2020-09-02,NA
+5931,"Dharwad","348659",38,"Male","SARI","Fever, Breathlessness","-",2020-08-29,2020-08-29,2020-09-02,NA
+5958,"Dharwad","256654",47,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-18,2020-08-31,2020-09-03,NA
+5964,"Dharwad","266626",60,"Female","ILI","Fever, Breathlessness","HTN",2020-08-20,2020-08-29,2020-09-03,NA
+5977,"Dharwad","291678",64,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-08-21,2020-08-30,2020-09-03,NA
+5982,"Dharwad","303826",75,"Female","SARI","Fever, Breathlessness","HTN",2020-08-24,2020-08-29,2020-09-03,NA
+5983,"Dharwad","304693",54,"Female","SARI","Breathlessness","DM, HTN",2020-08-24,2020-08-29,2020-09-03,NA
+5995,"Dharwad","316860",42,"Female","SARI","Breathlessness","DM",2020-08-26,2020-08-29,2020-09-03,NA
+6007,"Dharwad","332833",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-28,2020-08-30,2020-09-03,NA
+6025,"Dharwad","348643",56,"Female","SARI","Breathlessness","-",2020-08-28,2020-08-29,2020-09-03,NA
+6027,"Dharwad","349245",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-30,2020-08-31,2020-09-03,NA
+6050,"Dharwad","178879",60,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-08-07,2020-08-09,2020-09-04,NA
+6052,"Dharwad","196177",47,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-09,2020-08-10,2020-09-04,NA
+6053,"Dharwad","198414",55,"Male","SARI","Cough, Breathlessness","DM, HTN, AKI",2020-08-10,2020-08-12,2020-09-04,NA
+6056,"Dharwad","220750",60,"Male","SARI","Fever, Breathlessness","HTN",2020-08-12,2020-08-14,2020-09-04,NA
+6063,"Dharwad","242560",83,"Male","SARI","Breathlessness","AKI",2020-08-17,2020-08-25,2020-09-04,NA
+6066,"Dharwad","264784",50,"Male","SARI","Breathlessness","DM, HTN",2020-08-19,2020-08-24,2020-09-04,NA
+6070,"Dharwad","270052",75,"Male","SARI","Fever, Breathlessness","-",2020-08-20,2020-08-25,2020-09-04,NA
+6080,"Dharwad","294659",70,"Male","SARI","Fever, Breathlessness","-",2020-08-23,2020-08-25,2020-09-04,NA
+6083,"Dharwad","299869",73,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-23,2020-08-25,2020-09-04,NA
+6113,"Dharwad","340966",77,"Male","SARI","Fever, Breathlessness","DM",2020-08-30,2020-09-01,2020-09-04,NA
+6166,"Dharwad","143053",30,"Male","SARI","Breathlessness","HTN, CLD",2020-08-01,2020-08-08,2020-09-05,NA
+6170,"Dharwad","234374",68,"Female","SARI","Cough, Breathlessness","-",2020-08-13,2020-08-17,2020-09-05,NA
+6184,"Dharwad","295811",58,"Female","ILI","Fever","DM, HTN",2020-08-23,2020-08-31,2020-09-05,NA
+6193,"Dharwad","305566",45,"Male","SARI","Cough, Breathlessness","COPD, AKI",2020-08-26,2020-08-30,2020-09-05,NA
+6199,"Dharwad","316043",66,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-31,2020-09-05,NA
+6201,"Dharwad","317631",58,"Male","SARI","Cough, Breathlessness","IDH, CKD",2020-08-25,2020-08-26,2020-09-05,NA
+6207,"Dharwad","325988",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-25,2020-08-29,2020-09-05,NA
+6211,"Dharwad","329237",82,"Female","SARI","Cough, Breathlessness","HTN",2020-08-28,2020-08-31,2020-09-05,NA
+6330,"Dharwad","331174",43,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-29,2020-09-02,2020-09-06,NA
+6333,"Dharwad","335083",40,"Male","SARI","Breathlessness","-",2020-08-27,2020-09-04,2020-09-06,NA
+6342,"Dharwad","347204",64,"Male","SARI","Breathlessness","HTN, IHD",2020-09-01,2020-09-03,2020-09-06,NA
+6344,"Dharwad","349241",52,"Male","SARI","Breathlessness","DM, HTN",2020-08-29,2020-09-04,2020-09-06,NA
+6350,"Dharwad","360511",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-31,2020-09-03,2020-09-06,NA
+6356,"Dharwad","368055",56,"Male","SARI","Breathlessness","DM",2020-09-01,2020-09-03,2020-09-06,NA
+6432,"Dharwad","248764",74,"Male","SARI","Fever, Breathlessness","HTN",2020-08-16,2020-08-16,2020-09-07,NA
+6443,"Dharwad","271997",80,"Male","Contact under tracing","-","DM, HTN",2020-08-18,2020-08-22,2020-09-07,NA
+6448,"Dharwad","286345",75,"Male","SARI","Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-09-07,NA
+6453,"Dharwad","303062",75,"Female","SARI","Fever, Breathlessness","-",2020-08-23,2020-08-23,2020-09-07,NA
+6454,"Dharwad","303063",61,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-23,2020-08-27,2020-09-07,NA
+6455,"Dharwad","303818",79,"Male","SARI","Fever, Breathlessness","-",2020-08-24,2020-08-26,2020-09-07,NA
+6456,"Dharwad","304705",49,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-09-01,2020-09-07,NA
+6469,"Dharwad","330574",77,"Female","SARI","Breathlessness","HTN",2020-08-26,2020-08-28,2020-09-07,NA
+6474,"Dharwad","335085",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-28,2020-08-31,2020-09-07,NA
+6479,"Dharwad","347206",64,"Male","SARI","Breathlessness","DM",2020-08-31,2020-08-31,2020-09-07,NA
+6534,"Dharwad","236033",51,"Female","SARI","Cough, Breathlessness","-",2020-08-24,2020-08-27,2020-09-08,NA
+6535,"Dharwad","237191",47,"Female","SARI","Cough, Breathlessness","-",2020-08-15,2020-08-19,2020-09-08,NA
+6537,"Dharwad","241873",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-16,2020-09-01,2020-09-08,NA
+6538,"Dharwad","247063",66,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-08-19,2020-09-03,2020-09-08,NA
+6547,"Dharwad","291137",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-27,2020-09-01,2020-09-08,NA
+6555,"Dharwad","302584",78,"Male","SARI","Cough, Breathlessness","HTN, COPD, IHD",2020-08-23,2020-09-01,2020-09-08,NA
+6561,"Dharwad","308404",42,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-27,2020-09-01,2020-09-08,NA
+6586,"Dharwad","344942",55,"Female","SARI","Breathlessness","-",2020-08-28,2020-08-31,2020-09-08,NA
+6713,"Dharwad","340151",75,"Male","SARI","Breathlessness","DM, HTN",2020-08-28,2020-09-04,2020-09-09,NA
+6817,"Dharwad","298313",74,"Female","Contact under tracing","-","DM",2020-08-25,2020-09-04,2020-09-10,NA
+6822,"Dharwad","325998",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-27,2020-08-29,2020-09-10,NA
+6825,"Dharwad","333594",89,"Male","SARI","Breathlessness","HTN",2020-08-28,2020-09-01,2020-09-10,NA
+6832,"Dharwad","351356",62,"Female","SARI","Breathlessness","DM",2020-08-30,2020-09-04,2020-09-10,NA
+6833,"Dharwad","351727",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-30,2020-09-05,2020-09-10,NA
+6835,"Dharwad","353601",78,"Female","ILI","Fever, Cough","DM, HTN",2020-08-31,2020-09-05,2020-09-10,NA
+6859,"Dharwad","378427",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-02,2020-09-05,2020-09-10,NA
+6878,"Dharwad","400784",55,"Male","ILI","Fever, Cough","DM, HTN",2020-09-05,2020-09-05,2020-09-10,NA
+6934,"Dharwad","198432",70,"Female","ILI","Fever, Cough","DM, COPD",2020-08-11,2020-08-11,2020-09-11,NA
+6938,"Dharwad","296553",71,"Male","SARI","Breathlessness","HTN",2020-08-24,2020-09-04,2020-09-11,NA
+6946,"Dharwad","312474",63,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-08-26,2020-09-01,2020-09-11,NA
+6954,"Dharwad","327961",59,"Male","ILI","Fever, Cough","-",2020-08-27,2020-09-01,2020-09-11,NA
+6955,"Dharwad","328641",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-25,2020-09-01,2020-09-11,NA
+6965,"Dharwad","350343",40,"Male","SARI","Breathlessness","ILD",2020-08-30,2020-09-03,2020-09-11,NA
+6973,"Dharwad","356164",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-01,2020-09-05,2020-09-11,NA
+6980,"Dharwad","358143",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-31,2020-09-02,2020-09-11,NA
+6985,"Dharwad","364189",22,"Female","SARI","Breathlessness","-",2020-09-01,2020-09-02,2020-09-11,NA
+7065,"Dharwad","202197",67,"Female","SARI","Fever, Breathlessness, Cough","CKD",2020-08-10,2020-08-31,2020-09-12,NA
+7074,"Dharwad","273438",67,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-21,2020-08-26,2020-09-12,NA
+7084,"Dharwad","316038",76,"Male","SARI","Fever, Breathlessness, Cough","HTN",2020-08-25,2020-09-04,2020-09-12,NA
+7096,"Dharwad","369345",80,"Male","SARI","Breathlessness, Cough","HTN",2020-09-01,2020-09-09,2020-09-12,NA
+7110,"Dharwad","388565",65,"Male","SARI","Fever, Breathlessness, Cough","HTN",2020-09-04,2020-09-08,2020-09-12,NA
+7115,"Dharwad","396971",60,"Male","SARI","Fever, Breathlessness, Cough","IHD",2020-09-02,2020-09-04,2020-09-12,NA
+7119,"Dharwad","400769",68,"Female","SARI","Breathlessness, Cough","DM, HTN",2020-09-03,2020-09-09,2020-09-12,NA
+7120,"Dharwad","400782",80,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-05,2020-09-08,2020-09-12,NA
+7131,"Dharwad","413799",55,"Male","SARI","Fever, Breathlessness, Cough","HTN",2020-09-06,2020-09-08,2020-09-12,NA
+7169,"Dharwad","291660",59,"Male","SARI","Fever, Breathlessness","DM",2020-08-22,2020-09-06,2020-09-13,NA
+7175,"Dharwad","338204",73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-26,2020-09-06,2020-09-13,NA
+7180,"Dharwad","348657",45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-09-07,2020-09-13,NA
+7196,"Dharwad","369342",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-01,2020-09-07,2020-09-13,NA
+7199,"Dharwad","371747",65,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-09-02,2020-09-05,2020-09-13,NA
+7204,"Dharwad","382385",63,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-03,2020-09-07,2020-09-13,NA
+7209,"Dharwad","387209",70,"Male","SARI","Breathlessness","DM, HTN",2020-09-03,2020-09-06,2020-09-13,NA
+7261,"Dharwad","237183",70,"Male","SARI","Fever, Breathlessness","CKD",2020-08-14,2020-09-06,2020-09-14,NA
+7269,"Dharwad","321460",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-25,2020-09-07,2020-09-14,NA
+7278,"Dharwad","360160",74,"Male","Contact under tracing","Breathlessness","-",2020-08-31,2020-09-06,2020-09-14,NA
+7286,"Dharwad","381263",64,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-03,2020-09-10,2020-09-14,NA
+7289,"Dharwad","387211",55,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-03,2020-09-07,2020-09-14,NA
+7296,"Dharwad","396384",60,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-05,2020-09-06,2020-09-14,NA
+7298,"Dharwad","397657",71,"Male","Contact under tracing","Fever, Cough","HTN",2020-09-04,2020-09-07,2020-09-14,NA
+7300,"Dharwad","398997",71,"Female","Contact under tracing","Breathlessness","HTN",2020-09-04,2020-09-08,2020-09-14,NA
+7317,"Dharwad","414693",72,"Male","Contact under tracing","Fever, Breathlessness","-",2020-09-06,2020-09-08,2020-09-14,NA
+7551,"Dharwad","351481",80,"Male","SARI","Cough, Breathlessness","TB",2020-08-31,2020-09-11,2020-09-17,NA
+7552,"Dharwad","355199",40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-30,2020-09-14,2020-09-17,NA
+7558,"Dharwad","377372",86,"Male","ILI","Fever, Cough","-",2020-09-05,2020-09-09,2020-09-17,NA
+7559,"Dharwad","382369",80,"Female","SARI","Fever, Cough, Breathlessness","AKI",2020-09-02,2020-09-05,2020-09-17,NA
+7561,"Dharwad","387210",80,"Male","ILI","Fever, Cough","HTN",2020-09-03,2020-09-10,2020-09-17,NA
+7567,"Dharwad","397656",72,"Male","SARI","Fever, Breathlessness","HTN",2020-09-04,2020-09-12,2020-09-17,NA
+7669,"Dharwad","391437",65,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-03,2020-09-03,2020-09-18,NA
+7709,"Dharwad","423968",75,"Female","SARI","Fever, Breathlessness","HTN",2020-09-06,2020-09-11,2020-09-18,NA
+7710,"Dharwad","423972",56,"Male","SARI","Fever, Cough","DM",2020-09-06,2020-09-08,2020-09-18,NA
+7711,"Dharwad","423973",54,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-07,2020-09-18,NA
+7714,"Dharwad","427390",47,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-07,2020-09-10,2020-09-18,NA
+7717,"Dharwad","430449",85,"Male","SARI","Fever, Breathlessness","HTN, IHD",2020-09-07,2020-09-15,2020-09-18,NA
+7722,"Dharwad","431942",67,"Female","SARI","Cough, Breathlessness","DM",2020-09-07,2020-09-11,2020-09-18,NA
+7723,"Dharwad","431947",58,"Male","SARI","Fever, Breathlessness","AKI",2020-09-07,2020-09-09,2020-09-18,NA
+7725,"Dharwad","432519",65,"Male","SARI","Fever, Cough, Breathlessness","AKI",2020-09-08,2020-09-09,2020-09-18,NA
+7817,"Dharwad","235502",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-11,2020-09-14,2020-09-19,NA
+7819,"Dharwad","329214",86,"Male","Contact under tracing","-","DM, HTN",2020-08-28,2020-09-10,2020-09-19,NA
+7856,"Dharwad","432520",57,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-09,2020-09-19,NA
+7864,"Dharwad","446918",66,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-10,2020-09-15,2020-09-19,NA
+7874,"Dharwad","457395",85,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-12,2020-09-14,2020-09-19,NA
+7934,"Dharwad","345817",60,"Female","SARI","Fever, Breathlessness","HTN",2020-08-30,2020-09-12,2020-09-20,NA
+7940,"Dharwad","398048",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2020-09-04,2020-09-14,2020-09-20,NA
+7941,"Dharwad","400765",68,"Male","SARI","Breathlessness","DM, HTN",2020-09-05,2020-09-13,2020-09-20,NA
+7952,"Dharwad","435413",64,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-11,2020-09-13,2020-09-20,NA
+7975,"Dharwad","471303",62,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-13,2020-09-20,NA
+7976,"Dharwad","473199",83,"Male","Contact under tracing","Fever, Breathlessness","HTN, ILD",2020-09-11,2020-09-12,2020-09-20,NA
+8035,"Dharwad","355218",62,"Male","ILI","Fever, Cough","IHD",2020-08-31,2020-09-11,2020-09-21,NA
+8044,"Dharwad","407630",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-05,2020-09-12,2020-09-21,NA
+8047,"Dharwad","421726",68,"Male","SARI","Breathlessness","HTN",2020-09-08,2020-09-11,2020-09-21,NA
+8048,"Dharwad","423970",70,"Male","SARI","Cough, Breathlessness","HTN",2020-09-06,2020-09-11,2020-09-21,NA
+8055,"Dharwad","445003",80,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-09-10,2020-09-12,2020-09-21,NA
+8058,"Dharwad","448168",75,"Male","SARI","Breathlessness","DM, HTN",2020-09-10,2020-09-10,2020-09-21,NA
+8080,"Dharwad","479143",82,"Male","SARI","Fever, Breathlessness","-",2020-09-10,2020-09-12,2020-09-21,NA
+8277,"Dharwad","387212",82,"Male","ILI","Breathlessness","DM, HTN",2020-09-03,2020-09-16,2020-09-24,NA
+8281,"Dharwad","423975",74,"Male","SARI","Breathlessness","HTN",2020-09-06,2020-09-16,2020-09-24,NA
+8288,"Dharwad","445623",85,"Male","SARI","Breathlessness","-",2020-09-10,2020-09-12,2020-09-24,NA
+8292,"Dharwad","473202",67,"Male","SARI","Breathlessness","-",2020-09-12,2020-09-15,2020-09-24,NA
+8352,"Dharwad","397658",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-04,2020-09-17,2020-09-25,NA
+8356,"Dharwad","400802",68,"Male","ILI","Fever, Cough","-",2020-09-05,2020-09-16,2020-09-25,NA
+8361,"Dharwad","446910",61,"Male","SARI","Cough, Breathlessness","HTN",2020-09-09,2020-09-17,2020-09-25,NA
+8379,"Dharwad","497595",67,"Male","SARI","Fever, Breathlessness","-",2020-09-14,2020-09-19,2020-09-25,NA
+8395,"Dharwad","508836",65,"Female","SARI","Fever, Breathlessness","-",2020-09-16,2020-09-18,2020-09-25,NA
+8428,"Dharwad","380385",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-02,2020-09-18,2020-09-26,NA
+8430,"Dharwad","423961",74,"Male","SARI","Cough, Breathlessness","-",2020-09-07,2020-09-16,2020-09-26,NA
+8450,"Dharwad","487813",63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-14,2020-09-21,2020-09-26,NA
+8488,"Dharwad","537913",59,"Female","SARI","Breathlessness","HTN",2020-09-20,2020-09-24,2020-09-26,NA
+8512,"Dharwad","196013",50,"Male","Contact under tracing","-","IHD",2020-08-30,2020-08-30,2020-09-27,NA
+8514,"Dharwad","424752",56,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-20,2020-09-27,NA
+8610,"Dharwad","526487",85,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-09-18,2020-09-27,2020-09-28,NA
+8691,"Dharwad","407208",47,"Male","SARI","Cough, Breathlessness","HTN, CKD",2020-09-05,2020-09-06,2020-09-29,NA
+8704,"Dharwad","456678",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-08,2020-09-12,2020-09-29,NA
+8717,"Dharwad","491974",75,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-09-14,2020-09-19,2020-09-29,NA
+8718,"Dharwad","501765",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-19,2020-09-29,NA
+8789,"Dharwad","424241",67,"Male","SARI","Cough, Breathlessness","DM",2020-09-07,2020-09-17,2020-09-30,NA
+8805,"Dharwad","501342",62,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-18,2020-09-30,NA
+8894,"Dharwad","394660",70,"Male","SARI","Cough, Breathlessness","DM",2020-09-03,2020-09-19,2020-10-01,NA
+8911,"Dharwad","470529",59,"Female","SARI","Cough, Breathlessness","HTN, IHD",2020-09-14,2020-09-19,2020-10-01,NA
+8912,"Dharwad","473214",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-11,2020-09-16,2020-10-01,NA
+8920,"Dharwad","506452",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-18,2020-09-19,2020-10-01,NA
+8973,"Dharwad","572644",53,"Male","SARI","Fever, Breathlessness","HTN",2020-09-23,2020-09-29,2020-10-01,NA
+9006,"Dharwad","413803",72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-05,2020-09-22,2020-10-02,NA
+9007,"Dharwad","431234",82,"Male","SARI","Cough, Breathlessness","-",2020-09-14,2020-09-23,2020-10-02,NA
+9008,"Dharwad","432517",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-07,2020-09-19,2020-10-02,NA
+9012,"Dharwad","446923",67,"Female","SARI","Cough, Breathlessness","-",2020-09-10,2020-09-17,2020-10-02,NA
+9023,"Dharwad","491980",56,"Male","SARI","Fever, Breathlessness","-",2020-09-15,2020-09-24,2020-10-02,NA
+9035,"Dharwad","525766",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-17,2020-09-22,2020-10-02,NA
+9134,"Dharwad","482282",60,"Male","Contact under tracing","Cough, Breathlessness","DM, AKI",2020-09-15,2020-09-18,2020-10-03,NA
+9142,"Dharwad","526224",62,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-09-18,2020-09-24,2020-10-03,NA
+9143,"Dharwad","526426",81,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-27,2020-10-03,NA
+9144,"Dharwad","536922",68,"Male","Contact under tracing","Fever","-",2020-09-18,2020-09-26,2020-10-03,NA
+9192,"Dharwad","598528",46,"Male","Contact under tracing","-","DM",2020-09-28,2020-09-28,2020-10-03,NA
+9228,"Dharwad","59799",62,"Male","ILI","Fever","DM, HTN, IHD",2020-07-12,2020-08-30,2020-10-04,NA
+9346,"Dharwad","619489",35,"Male","SARI","Fever, Breathlessness","CLD",2020-09-27,2020-10-03,2020-10-05,NA
+9393,"Dharwad","556744",62,"Female","SARI","Breathlessness","HTN, IHD",2020-09-22,2020-09-23,2020-10-06,NA
+9401,"Dharwad","568804",64,"Female","ILI","Fever, Cough","-",2020-09-24,2020-09-30,2020-10-06,NA
+9481,"Dharwad","490490",76,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-29,2020-10-07,NA
+9482,"Dharwad","497593",28,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-14,2020-09-24,2020-10-07,NA
+9596,"Dharwad","402126",64,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-21,2020-10-08,NA
+9620,"Dharwad","574610",72,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-09-25,2020-09-25,2020-10-08,NA
+9684,"Dharwad","38817",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-10,2020-07-27,2020-10-09,NA
+9690,"Dharwad","511389",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-17,2020-09-26,2020-10-09,NA
+9696,"Dharwad","534497",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-26,2020-10-09,NA
+9802,"Dharwad","450643",65,"Female","SARI","Fever","-",2020-09-09,2020-09-28,2020-10-10,NA
+9804,"Dharwad","544687",50,"Female","SARI","Cough, Breathlessness","-",2020-09-19,2020-09-28,2020-10-10,NA
+9806,"Dharwad","560226",50,"Male","SARI","Fever, Cough","DM, HTN",2020-09-23,2020-09-30,2020-10-10,NA
+9900,"Dharwad","431949",60,"Male","SARI","Cough, Breathlessness","-",2020-09-09,2020-09-29,2020-10-11,NA
+9901,"Dharwad","508833",76,"Female","SARI","Cough, Breathlessness","HTN",2020-09-21,2020-09-27,2020-10-11,NA
+9905,"Dharwad","582740",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-24,2020-09-28,2020-10-11,NA
+9975,"Dharwad","108314",61,"Male","ILI","Fever, Cough","DM",2020-07-25,2020-07-30,2020-10-12,NA
+9978,"Dharwad","407614",53,"Male","ILI","Fever, Cough","DM, HTN, COPD",2020-08-27,2020-09-07,2020-10-12,NA
+9979,"Dharwad","494511",46,"Male","ILI","Fever, Cough","IHD",2020-09-16,2020-09-16,2020-10-12,NA
+10051,"Dharwad","521345",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-24,2020-09-30,2020-10-13,NA
+10058,"Dharwad","597655",74,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-10-01,2020-10-01,2020-10-13,NA
+10135,"Dharwad","538672",70,"Male","SARI","Cough, Breathlessness","DM",2020-09-22,2020-10-01,2020-10-14,NA
+10139,"Dharwad","574341",65,"Male","SARI","Fever, Breathlessness","AKI",2020-09-24,2020-10-01,2020-10-14,NA
+10142,"Dharwad","591534",60,"Female","SARI","Cough, Breathlessness","HTN",2020-09-27,2020-09-28,2020-10-14,NA
+10207,"Dharwad","525765",76,"Male","SARI","Breathlessness","DM, HTN",2020-09-17,2020-09-18,2020-10-15,NA
+10211,"Dharwad","582741",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-24,2020-10-05,2020-10-15,NA
+10292,"Dharwad","508824",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-16,2020-09-24,2020-10-16,NA
+10299,"Dharwad","618787",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-29,2020-09-29,2020-10-16,NA
+10305,"Dharwad","638784",64,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-09-23,2020-09-25,2020-10-16,NA
+10365,"Dharwad","464669",68,"Male","SARI","Breathlessness","DM, HTN",2020-09-09,2020-09-11,2020-10-17,NA
+10366,"Dharwad","508823",77,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-24,2020-10-17,NA
+10367,"Dharwad","511376",70,"Male","ILI","Fever, Cough","DM, HTN",2020-09-24,2020-09-26,2020-10-17,NA
+10438,"Dharwad","430452",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-07,2020-09-09,2020-10-18,NA
+10439,"Dharwad","455975",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-13,2020-10-18,NA
+10489,"Dharwad","468492",67,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-11,2020-09-15,2020-10-19,NA
+10490,"Dharwad","482284",52,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-09-15,2020-09-19,2020-10-19,NA
+10553,"Dharwad","494543",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-20,2020-10-20,NA
+10617,"Dharwad","338208",42,"Male","ILI","Fever, Cough","HTN, CKD, CVA",2020-09-28,2020-09-28,2020-10-21,NA
+10618,"Dharwad","582045",65,"Female","ILI","Fever, Cough","DM, HTN, IHD, CKD",2020-09-24,2020-09-29,2020-10-21,NA
+10710,"Dharwad","607487",72,"Female","SARI","Fever, Breathlessness","-",2020-09-26,2020-10-02,2020-10-22,NA
+10711,"Dharwad","618798",78,"Male","SARI","Breathlessness","DM",2020-09-28,2020-09-30,2020-10-22,NA
+10713,"Dharwad","649106",85,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2020-10-02,2020-10-03,2020-10-22,NA
+10780,"Dharwad","627675",85,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-09-29,2020-10-03,2020-10-23,NA
+10781,"Dharwad","666226",54,"Male","SARI","Cough, Breathlessness","DM",2020-10-02,2020-10-03,2020-10-23,NA
+10830,"Dharwad","486294",55,"Male","SARI","Fever, Breathlessness","-",2020-09-13,2020-09-29,2020-10-24,NA
+10831,"Dharwad","581387",68,"Male","Contact under tracing","-","DM, HTN, COPD",2020-09-24,2020-10-03,2020-10-24,NA
+10914,"Dharwad","625227",59,"Male","SARI","Cough, Breathlessness","DM, CKD",2020-09-30,2020-10-04,2020-10-26,NA
+10915,"Dharwad","627672",56,"Male","SARI","Cough, Breathlessness","HTN, CKD",2020-10-01,2020-10-06,2020-10-26,NA
+10918,"Dharwad","667219",32,"Male","SARI","Cough, Breathlessness","-",2020-10-05,2020-10-05,2020-10-26,NA
+10956,"Dharwad","670326",70,"Female","SARI","Breathlessness","AKI",2020-10-06,2020-10-08,2020-10-27,NA
+10957,"Dharwad","683970",64,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-10-06,2020-10-08,2020-10-27,NA
+10958,"Dharwad","698254",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-10-07,2020-10-07,2020-10-27,NA
+11000,"Dharwad","631455",72,"Male","ILI","Fever, Cough","DM, HTN",2020-09-29,2020-10-11,2020-10-28,NA
+11005,"Dharwad","675629",62,"Male","SARI","Fever, Breathlessness","HTN",2020-10-07,2020-10-13,2020-10-28,NA
+11055,"Dharwad","685986",55,"Male","SARI","Breathlessness","COPD",2020-10-05,2020-10-06,2020-10-29,NA
+11056,"Dharwad","688701",52,"Male","ILI","Fever, Cough","DM",2020-10-06,2020-10-09,2020-10-29,NA
+11059,"Dharwad","723634",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-12,2020-10-29,NA
+11101,"Dharwad","547449",75,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-21,2020-10-10,2020-10-30,NA
+11103,"Dharwad","700838",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-08,2020-10-16,2020-10-30,NA
+11149,"Dharwad","368063",60,"Female","ILI","Fever, Cough","-",2020-08-31,2020-09-06,2020-10-31,NA
+11178,"Dharwad","714942",56,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-10-10,2020-10-14,2020-11-01,NA
+11201,"Dharwad","756093",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-14,2020-10-15,2020-11-02,NA
+11230,"Dharwad","357302",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-28,2020-08-30,2020-11-03,NA
+11231,"Dharwad","610926",76,"Female","SARI","Fever, Breathlessness","HTN",2020-09-28,2020-10-05,2020-11-03,NA
+11256,"Dharwad","564644",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-28,2020-10-05,2020-11-04,NA
+11257,"Dharwad","574342",82,"Male","SARI","Cough, Breathlessness","IHD",2020-09-23,2020-10-06,2020-11-04,NA
+11290,"Dharwad","689473",56,"Female","SARI","Cough, Fever, Breathlessness","HTN, COPD",2020-10-04,2020-10-10,2020-11-05,NA
+11291,"Dharwad","713403",74,"Female","SARI","Breathlessness","DM, HTN",2020-10-09,2020-10-13,2020-11-05,NA
+11321,"Dharwad","738270",70,"Male","SARI","Breathlessness","HTN, IHD",2020-10-10,2020-10-14,2020-11-06,NA
+11356,"Dharwad","592913",54,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-26,2020-10-15,2020-11-07,NA
+11378,"Dharwad","367161",62,"Male","ILI","Fever, Cough","DM",2020-09-01,2020-09-01,2020-11-08,NA
+11379,"Dharwad","537914",71,"Male","ILI","Fever, Cough","-",2020-09-20,2020-10-15,2020-11-08,NA
+11400,"Dharwad","670325",88,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-06,2020-10-16,2020-11-09,NA
+11401,"Dharwad","721975",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-16,2020-11-09,NA
+11419,"Dharwad","748171",72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-12,2020-10-15,2020-11-10,NA
+11440,"Dharwad","748155",41,"Female","ILI","Breathlessness","HTN, CKD, TB",2020-10-12,2020-10-17,2020-11-11,NA
+11441,"Dharwad","757405",96,"Male","ILI","Breathlessness","DM, IHD",2020-10-14,2020-10-16,2020-11-11,NA
+11462,"Dharwad","573164",54,"Male","ILI","Fever, Cough","IHD, HTN",2020-10-16,2020-10-18,2020-11-12,NA
+11465,"Dharwad","754592",80,"Male","SARI","Breathlessness","CKD, HTN, IHD",2020-10-16,2020-10-18,2020-11-12,NA
+11483,"Dharwad","675624",69,"Male","SARI","Fever, Breathlessness","-",2020-10-06,2020-10-19,2020-11-13,NA
+11500,"Dharwad","778257",78,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-30,2020-10-19,2020-11-14,NA
+11517,"Dharwad","769373",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-26,2020-10-19,2020-11-15,NA
+11539,"Dharwad","717333",74,"Female","SARI","Fever","DM, HTN",2020-10-09,2020-10-20,2020-11-16,NA
+11550,"Dharwad","778260",68,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-10-16,2020-10-20,2020-11-17,NA
+11567,"Dharwad","746732",65,"Male","SARI","Cough, Breathlessness","DM, HTN, CLD",2020-10-14,2020-10-27,2020-11-18,NA
+11568,"Dharwad","750647",65,"Female","ILI","Fever, Cough","HTN, DM, IHD",2020-10-12,2020-10-23,2020-11-18,NA
+11588,"Dharwad","737398",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-30,2020-11-19,NA
+11589,"Dharwad","792427",65,"Female","SARI","Fever, Breathlessness","HTN",2020-10-19,2020-10-28,2020-11-19,NA
+11613,"Dharwad","814946",65,"Male","SARI","Cough, Breathlessness","-",2020-10-22,2020-10-28,2020-11-20,NA
+11614,"Dharwad","830343",84,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-29,2020-11-08,2020-11-20,NA
+11632,"Dharwad","854278",78,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-04,2020-11-08,2020-11-21,NA
+11652,"Dharwad","862692",77,"Male","SARI","Breathlessness","-",2020-10-31,2020-11-08,2020-11-22,NA
+11668,"Dharwad","859789",90,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-07,2020-11-13,2020-11-23,NA
+11706,"Dharwad","847337",62,"Female","SARI","Fever, Breathlessness","DM, HTN, CVA",2020-11-05,2020-11-10,2020-11-25,NA
+11722,"Dharwad","887974",70,"Female","SARI","Breathlessness","-",2020-11-18,2020-11-19,2020-11-25,NA
+11809,"Dharwad","893947",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-25,2020-11-29,2020-12-02,NA
+11823,"Dharwad","892148",50,"Male","SARI","Breathlessness","TB",2020-11-26,2020-12-01,2020-12-03,NA
+11842,"Dharwad","901551",79,"Male","ILI","Fever, Cough","DM",2020-11-29,2020-12-02,2020-12-04,NA
+11894,"Dharwad","904961",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-04,2020-12-07,2020-12-09,NA
+11909,"Dharwad","907657",60,"Female","SARI","Cough, Breathlessness","DM, HTN, AKI",2020-12-06,2020-12-08,2020-12-10,NA
+11923,"Dharwad","907199",70,"Male","SASRI","Cough, Breathlessness","DM, HTN, CVA",2020-12-06,2020-12-08,2020-12-11,NA
+12040,"Dharwad","914875",85,"Male","ILI","Fever, Cold","DM, HTN, IHD",2020-12-12,2020-12-23,2020-12-25,NA
+12079,"Dharwad","930014",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-12-25,2020-12-26,2020-12-30,NA
+12097,"Dharwad","925783",93,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-18,2020-12-28,2021-01-02,NA
+12121,"Dharwad","931374",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-28,2020-12-31,2021-01-06,NA
+12186,"Dharwad","939995",70,"Male","ILI","Fever, Cough","DM, HTN, CKD",2021-01-04,2021-01-15,2021-01-21,NA
+12204,"Dharwad","935751",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-01-02,2021-01-15,2021-02-27,NA
+12214,"Dharwad","942716",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-01-11,2021-01-20,2021-01-31,NA
+12227,"Dharwad","953376",72,"Male","ILI","Fever","DM, HTN, IHD",2021-01-28,2021-02-02,2021-02-05,NA
+12258,"Dharwad","952951",54,"Male","ILI","Fever, Cough","DM",2021-01-27,2021-02-02,2021-02-12,NA
+12281,"Dharwad","957007",60,"Male","ILI","Fever, Cough","HTN, AKI",2021-02-05,2021-02-08,2021-02-18,NA
+12298,"Dharwad","959811",65,"Male","SARI","Fever, Cough, Breathlessness","AKI, Hepatitis",2021-02-12,2021-02-13,2021-02-22,NA
+12322,"Dharwad","959495",79,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-02-12,2021-02-17,2021-02-27,NA
+12346,"Dharwad","956231",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-02-05,2021-02-19,2021-03-04,NA
+12367,"Dharwad","959923",66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-02-12,2021-02-19,2021-03-09,NA
+12381,"Dharwad","965461",71,"Male","ILI","Fever","DM",2021-02-25,2021-02-28,2021-03-12,NA
+12398,"Dharwad","966938",80,"Female","ILI","Fever, Cough","DM",2021-02-28,2021-03-01,2021-03-16,NA
+12417,"Dharwad","970202",94,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-03-09,2021-03-11,2021-03-19,NA
+12434,"Dharwad","968982",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-03-02,2021-03-14,2021-03-22,NA
+12451,"Dharwad","969939",65,"Male","ILI","Fever, Cough","DM, HTN",2021-03-06,2021-03-15,2021-03-24,NA
+12485,"Dharwad","985980",74,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-03-20,2021-03-23,2021-03-27,NA
+12573,"Dharwad","995338",76,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2021-03-25,2021-03-28,2021-04-01,NA
+12575,"Dharwad","996542",60,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-03-24,2021-03-28,2021-04-01,NA
+12614,"Dharwad","999231",51,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-03-26,2021-04-03,2021-04-04,NA
+12618,"Dharwad","1012615",61,"Male","SARI","Fever, Breathlessness","DM",2021-03-30,2021-04-03,2021-04-04,NA
+12673,"Dharwad","1006132",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-27,2021-04-01,2021-04-06,NA
+12676,"Dharwad","1008777",64,"Female","ILI","Fever, Cough","DM, HTN",2021-03-30,2021-04-03,2021-04-06,NA
+12680,"Dharwad","1016864",62,"Male","ILI","Fever","HTN, CKD",2021-03-30,2021-04-02,2021-04-06,NA
+12743,"Dharwad","1016586",68,"Female","ILI","Fever","HTN",2021-03-31,2021-04-06,2021-04-08,NA
+12806,"Dharwad","1049272",52,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-04-05,2021-04-06,2021-04-09,NA
+12818,"Dharwad","1013679",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-03-31,2021-04-05,2021-04-10,NA
+12823,"Dharwad","1030685",68,"Male","ILI","Fever, Cough","DM, HTN",2021-04-03,2021-04-08,2021-04-10,NA
+12963,"Dharwad","1021500",75,"Male","SARI","Fever, Breathlessness","HTN",2021-03-31,2021-04-08,2021-04-13,NA
+13024,"Dharwad","1025939",78,"Female","SARI","Fever, Breathlessness","HTN",2021-04-02,2021-04-10,2021-04-14,NA
+13031,"Dharwad","1072329",82,"Female","ILI","Fever","HTN",2021-04-09,2021-04-10,2021-04-14,NA
+13034,"Dharwad","1078361",36,"Female","ILI","Cough","CA",2021-04-10,2021-04-11,2021-04-14,NA
+13097,"Dharwad","1082654",79,"Male","ILI","Cough","HTN",2021-04-04,2021-04-12,2021-04-15,NA
+13099,"Dharwad","1083971",67,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-04,2021-04-13,2021-04-15,NA
+13103,"Dharwad","1093408",28,"Male","ILI","Fever","DM",2021-04-04,2021-04-13,2021-04-15,NA
+13230,"Dharwad","1093409",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-10,2021-04-15,2021-04-17,NA
+13245,"Dharwad","1124578",63,"Male","ILI","Fever","COPD",2021-04-13,2021-04-14,2021-04-17,NA
+13314,"Dharwad","1105744",65,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-04-10,2021-04-16,2021-04-18,NA
+13323,"Dharwad","1124546",69,"Male","SARI","Cough, Breathlessness","HTN, COPD",2021-04-13,2021-04-15,2021-04-18,NA
+13324,"Dharwad","1124569",70,"Female","ILI","Cough","DM, HTN, CLD",2021-04-12,2021-04-15,2021-04-18,NA
+13358,"Dharwad","1030677",87,"Female","ILI","Cough","IHD",2021-04-02,2021-04-17,2021-04-19,NA
+13385,"Dharwad","1062789",85,"Female","ILI","Fever","DM, HTN, IHD",2021-04-08,2021-04-14,2021-04-19,NA
+13386,"Dharwad","1063871",70,"Male","ILI","Fever, Cough","-",2021-04-07,2021-04-14,2021-04-19,NA
+13537,"Dharwad","1100674",60,"Male","ILI","Fever","DM, HTN",2021-04-16,2021-04-18,2021-04-20,NA
+13604,"Dharwad","1157053",87,"Male","ILI","Fever, Cough","IHD",2021-04-17,2021-04-18,2021-04-20,NA
+13614,"Dharwad","1167850",74,"Male","ILI","Cough","-",2021-04-16,2021-04-18,2021-04-20,NA
+13617,"Dharwad","1171313",75,"Male","SARI","Fever, Breathlessness","-",2021-04-16,2021-04-17,2021-04-20,NA
+13779,"Dharwad","1073827",40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-10,2021-04-16,2021-04-22,NA
+13825,"Dharwad","1164625",68,"Male","ILI","Fever","HTN",2021-04-08,2021-04-19,2021-04-22,NA
+13831,"Dharwad","1170113",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-20,2021-04-22,NA
+13839,"Dharwad","1177197",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-22,NA
+13852,"Dharwad","1197540",81,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-17,2021-04-20,2021-04-22,NA
+13950,"Dharwad","1112369",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-12,2021-04-18,2021-04-23,NA
+13953,"Dharwad","1113767",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-19,2021-04-23,NA
+13983,"Dharwad","1159840",74,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-17,2021-04-21,2021-04-23,NA
+13993,"Dharwad","1171314",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-20,2021-04-23,NA
+14050,"Dharwad","1240764",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-21,2021-04-23,NA
+14165,"Dharwad","1153519",73,"Male","ILI","Fever, Cough","DM, HTN",2021-04-14,2021-04-23,2021-04-24,NA
+14169,"Dharwad","1159860",71,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-15,2021-04-22,2021-04-24,NA
+14184,"Dharwad","1171308",82,"Male","ILI","Fever","DM,  HTN, IHD, CKD",2021-04-15,2021-04-21,2021-04-24,NA
+14225,"Dharwad","1211836",88,"Female","SARI","Fever, Breathlessness","HTN",2021-04-19,2021-04-21,2021-04-24,NA
+14254,"Dharwad","1261124",40,"Female","ILI","Fever","-",2021-04-19,2021-04-23,2021-04-24,NA
+14319,"Dharwad","1131496",25,"Female","ILI","Fever, Cough","DM",2021-04-14,2021-04-24,2021-04-25,NA
+14344,"Dharwad","1197518",59,"Female","ILI","Fever","DM, HTN",2021-04-17,2021-04-24,2021-04-25,NA
+14379,"Dharwad","1261102",73,"Male","ILI","Fever","DM, HTN",2021-04-19,2021-04-24,2021-04-25,NA
+14390,"Dharwad","1271179",37,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-23,2021-04-25,NA
+14420,"Dharwad","1327956",63,"Female","ILI","Fever","DM, CKD",2021-04-23,2021-04-24,2021-04-25,NA
+14421,"Dharwad","1327958",66,"Female","ILI","Fever, Cough","DM, HTN",2021-04-23,2021-04-25,2021-04-25,NA
+14472,"Dharwad","1167849",41,"Male","ILI","Fever, Cough","-",2021-04-19,2021-04-26,2021-04-26,NA
+14493,"Dharwad","1206165",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-22,2021-04-26,NA
+14512,"Dharwad","1261109",45,"Male","ILI","Fever","CLD",2021-04-20,2021-04-26,2021-04-26,NA
+14532,"Dharwad","1301840",60,"Male","SARI","Cough, Breathlessness","HTN",2021-04-19,2021-04-22,2021-04-26,NA
+14575,"Dharwad","1335990",38,"Male","SARI","Cough, Breathlessness","-",2021-04-22,2021-04-24,2021-04-26,NA
+14664,"Dharwad","1171306",65,"Male","SARI","Fever, Breathlessness","-",2021-04-15,2021-04-24,2021-04-27,NA
+14706,"Dharwad","1254953",43,"Male","ILI","Fever","-",2021-04-22,2021-04-23,2021-04-27,NA
+14708,"Dharwad","1261119",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-20,2021-04-23,2021-04-27,NA
+14712,"Dharwad","1264264",19,"Female","ILI","Fever","-",2021-04-20,2021-04-21,2021-04-27,NA
+14765,"Dharwad","1360417",68,"Male","SARI","Fever, Breathlessness","HTN",2021-04-21,2021-04-26,2021-04-27,NA
+14941,"Dharwad","1335963",62,"Female","ILI","Fever, Cough","-",2021-04-21,2021-04-27,2021-04-28,NA
+14961,"Dharwad","1357305",57,"Female","SARI","Fever, Breathlessness","-",2021-04-25,2021-04-28,2021-04-28,NA
+14969,"Dharwad","1362837",45,"Female","ILI","Fever","DM, HTN",2021-04-24,2021-04-26,2021-04-28,NA
+15033,"Dharwad","1430371",70,"Male","ILI","Fever, Cough","IHD",2021-04-26,2021-04-27,2021-04-28,NA
+15156,"Dharwad","1297291",45,"Male","SARI","Fever, cough, breathlessness","-",2021-04-23,2021-04-26,2021-04-29,NA
+15159,"Dharwad","1301865",45,"Female","ILI","Fever, cough","CLD",2021-04-27,2021-04-28,2021-04-29,NA
+15174,"Dharwad","1334674",50,"Female","SARI","Breathlessness","HTN",2021-04-21,2021-04-26,2021-04-29,NA
+15175,"Dharwad","1335972",61,"Male","ILI","Fever","HTN",2021-04-23,2021-04-29,2021-04-29,NA
+15240,"Dharwad","1430355",60,"Male","ILI","Fever","DM, HTN",2021-04-26,2021-04-28,2021-04-29,NA
+15331,"Dharwad","1197531",57,"Female","ILI","Fever, Cough","DM, HTN",2021-04-17,2021-04-27,2021-04-30,NA
+15352,"Dharwad","1264279",75,"Male","ILI","Fever","-",2021-04-26,2021-04-28,2021-04-30,NA
+15394,"Dharwad","1327908",72,"Female","ILI","Fever, Cough","-",2021-04-23,2021-04-29,2021-04-30,NA
+15449,"Dharwad","1430392",90,"Female","SARI","Fever, Breathlessness","CKD, CLD",2021-04-26,2021-04-27,2021-04-30,NA
+15451,"Dharwad","1432104",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-25,2021-04-27,2021-04-30,NA
+15452,"Dharwad","1432109",45,"Male","ILI","Cough","-",2021-04-24,2021-04-29,2021-04-30,NA
+15480,"Dharwad","1477285",65,"Female","ILI","Fever","DM, HTN",2021-04-25,2021-04-27,2021-04-30,NA
+15625,"Dharwad","1311328",50,"Male","SARI","Fever, Breathlessness","HTN",2021-04-21,2021-04-30,2021-05-01,NA
+15665,"Dharwad","1366673",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-30,2021-05-01,NA
+15704,"Dharwad","1425653",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-05-01,NA
+15710,"Dharwad","1432102",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-25,2021-04-30,2021-05-01,NA
+15814,"Dharwad","1197528",69,"Male","ILI","Fever, Cough","-",2021-04-17,2021-04-30,2021-05-02,NA
+15830,"Dharwad","1261114",75,"Female","SARI","Fever, Breathlessness","HTN",2021-04-19,2021-04-24,2021-05-02,NA
+15912,"Dharwad","1428040",60,"Male","SARI","Fever, Breathlessness","-",2021-04-27,2021-04-27,2021-05-02,NA
+16142,"Dharwad","1450310",58,"Female","SARI","Breathlessness","HTN",2021-04-27,2021-04-27,2021-05-03,NA
+16168,"Dharwad","1499219",46,"Male","SARI","Fever, breathlessness","DM",2021-04-26,2021-05-02,2021-05-03,NA
+16201,"Dharwad","1551854",80,"Female","ILI","Fever","-",2021-04-29,2021-04-30,2021-05-03,NA
+16219,"Dharwad","1590256",53,"Male","SARI","Fever, cough, breathlessness","-",2021-04-25,2021-04-30,2021-05-03,NA
+16365,"Dharwad","1397141",38,"Male","SARI","Fever, Breathlessness","-",2021-04-24,2021-05-04,2021-05-04,NA
+16379,"Dharwad","1428039",60,"Male","ILI","Fever","DM",2021-04-30,2021-05-04,2021-05-04,NA
+16404,"Dharwad","1490829",79,"Male","ILI","Fever, Cough","HTN",2021-04-27,2021-05-03,2021-05-04,NA
+16512,"Dharwad","1672165",70,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-04,2021-05-04,NA
+16703,"Dharwad","1422993",50,"Female","SARI","Fever, Cough, Breathlessness","Hypothyroidism",2021-04-26,2021-04-26,2021-05-05,NA
+16706,"Dharwad","1425634",45,"Male","ILI","Fever","-",2021-04-28,2021-04-29,2021-05-05,NA
+16721,"Dharwad","1471351",59,"Male","ILI","Fever, Cough","-",2021-04-30,2021-05-01,2021-05-05,NA
+16724,"Dharwad","1482646",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-05-05,NA
+16737,"Dharwad","1496499",62,"Male","ILI","Fever, Cough","DM, HTN",2021-05-02,2021-05-03,2021-05-05,NA
+16778,"Dharwad","1554903",56,"Male","ILI","Fever","DM, HTN",2021-04-29,2021-05-04,2021-05-05,NA
+16827,"Dharwad","1665016",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-05-05,NA
+16859,"Dharwad","1722385",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD, IHD",2021-04-28,2021-05-03,2021-05-05,NA
+16989,"Dharwad","1430388",75,"Male","SARI","Fever, breathlessness","DM",2021-04-26,2021-05-05,2021-05-06,NA
+17056,"Dharwad","1531310",78,"Male","SARI","Fever, cough, breathlessness","DM, CRD",2021-04-28,2021-05-05,2021-05-06,NA
+17073,"Dharwad","1547656",82,"Male","ILI","Fever, cough","DM",2021-04-26,2021-05-04,2021-05-06,NA
+17120,"Dharwad","1624458",64,"Male","ILI","Fever, Cough","-",2021-05-01,2021-05-05,2021-05-06,NA
+17143,"Dharwad","1659986",62,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-27,2021-05-04,2021-05-06,NA
+17174,"Dharwad","1731867",33,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-02,2021-05-04,2021-05-06,NA
+17420,"Dharwad","1428044",71,"Male","ILI","Fever","DM",2021-04-28,2021-05-05,2021-05-07,NA
+17421,"Dharwad","1428050",70,"Female","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-05-02,2021-05-07,NA
+17482,"Dharwad","1499221",79,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-27,2021-05-04,2021-05-07,NA
+17495,"Dharwad","1508380",65,"Female","ILI","Fever","DM, HTN",2021-04-26,2021-05-01,2021-05-07,NA
+17523,"Dharwad","1537026",63,"Female","ILI","Fever, cough","DM, HTN",2021-04-30,2021-05-05,2021-05-07,NA
+17741,"Dharwad","1768765",47,"Female","SARI","Fever, breathlessness","DM",2021-05-02,2021-05-05,2021-05-07,NA
+17745,"Dharwad","1772204",60,"Female","ILI","Fever","DM, HTN",2021-05-02,2021-05-03,2021-05-07,NA
+18064,"Dharwad","1540419",72,"Female","ILI","Fever, Cough","DM, HTN",2021-04-27,2021-05-02,2021-05-08,NA
+18101,"Dharwad","1599952",84,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-08,NA
+18443,"Dharwad","1463222",67,"Male","SARI","Fever, Breathlessness","DM",2021-04-28,2021-04-29,2021-05-09,NA
+18532,"Dharwad","1593479",76,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-05-01,2021-05-06,2021-05-09,NA
+18604,"Dharwad","1710891",45,"Male","SARI","Fever, Cough, Breathlessness","CLD",2021-04-30,2021-05-07,2021-05-09,NA
+18611,"Dharwad","1722448",63,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-27,2021-05-06,2021-05-09,NA
+18944,"Dharwad","1441197",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-26,2021-05-10,NA
+19036,"Dharwad","1496541",59,"Male","ILI","Fever","DM, HTN",2021-04-28,2021-04-30,2021-05-10,NA
+19109,"Dharwad","1606960",64,"Female","ILI","Fever, Cough","DM, HTN",2021-04-30,2021-05-03,2021-05-10,NA
+19183,"Dharwad","1697574",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-02,2021-05-10,NA
+19189,"Dharwad","1722393",54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-02,2021-05-10,NA
+19213,"Dharwad","1768741",57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-03,2021-05-10,NA
+19295,"Dharwad","1884447",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-10,NA
+19303,"Dharwad","1896639",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-10,NA
+19556,"Dharwad","1490831",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-05-06,2021-05-11,NA
+19619,"Dharwad","1722444",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-09,2021-05-11,NA
+19672,"Dharwad","1779714",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-11,NA
+19700,"Dharwad","1815415",88,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-03,2021-05-10,2021-05-11,NA
+19781,"Dharwad","1911440",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-07,2021-05-11,NA
+19845,"Dharwad","2027851",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-09,2021-05-11,NA
+19907,"Dharwad","1493462",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-27,2021-05-12,NA
+19924,"Dharwad","1579106",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-06,2021-05-12,NA
+19928,"Dharwad","1583018",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-01,2021-05-12,NA
+20050,"Dharwad","1737468",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-08,2021-05-12,NA
+20085,"Dharwad","1776024",45,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-04,2021-05-12,NA
+20247,"Dharwad","1921933",76,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-12,NA
+20294,"Dharwad","1969841",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-11,2021-05-12,NA
+20343,"Dharwad","2039094",78,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-05-09,2021-05-10,2021-05-12,NA
+20447,"Dharwad","1540412",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-10,2021-05-13,NA
+20494,"Dharwad","1672153",65,"Male","ILI","Fever, Cough","DM",2021-04-30,2021-04-30,2021-05-13,NA
+20495,"Dharwad","1672154",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-04-30,2021-05-13,NA
+20556,"Dharwad","1829854",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-09,2021-05-13,NA
+20561,"Dharwad","1842193",80,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-09,2021-05-13,NA
+20600,"Dharwad","1934126",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-11,2021-05-13,NA
+20629,"Dharwad","1998525",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-13,NA
+20644,"Dharwad","2022176",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-13,NA
+20670,"Dharwad","2049185",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20818,"Dharwad","1685773",47,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-02,2021-05-02,2021-05-14,NA
+20892,"Dharwad","1881003",54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-14,2021-05-14,NA
+20907,"Dharwad","1914765",52,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-11,2021-05-14,NA
+20946,"Dharwad","1984211",58,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-14,NA
+21019,"Dharwad","2091545",46,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-08,2021-05-12,2021-05-14,NA
+21155,"Dharwad","1631478",70,"Male","ILI","Fever, Cough","-",2021-04-30,2021-05-08,2021-05-15,NA
+21166,"Dharwad","1697575",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-07,2021-05-15,NA
+21197,"Dharwad","1768760",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-04,2021-05-15,NA
+21200,"Dharwad","1779735",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-15,NA
+21204,"Dharwad","1790598",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-08,2021-05-15,NA
+21218,"Dharwad","1826476",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-15,NA
+21231,"Dharwad","1860696",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-09,2021-05-15,NA
+21236,"Dharwad","1884416",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-07,2021-05-15,NA
+21585,"Dharwad","1776025",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-16,NA
+21602,"Dharwad","1833629",70,"Female","ILI","Fever, Cough","DM, HTN",2021-05-05,2021-05-14,2021-05-16,NA
+21616,"Dharwad","1890211",46,"Male","ILI","Fever, Cough","-",2021-05-05,2021-05-06,2021-05-16,NA
+21636,"Dharwad","1930323",83,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-08,2021-05-16,NA
+21651,"Dharwad","1957060",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-16,NA
+21657,"Dharwad","1966653",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-16,NA
+21665,"Dharwad","1984098",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-16,NA
+21674,"Dharwad","2002669",43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-16,NA
+21722,"Dharwad","2063515",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-16,NA
+22052,"Dharwad","1905373",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-15,2021-05-17,NA
+22070,"Dharwad","1942438",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-16,2021-05-17,NA
+22076,"Dharwad","1950965",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-14,2021-05-17,NA
+22098,"Dharwad","1998520",80,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-13,2021-05-17,NA
+22138,"Dharwad","2063534",34,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-07,2021-05-14,2021-05-17,NA
+22621,"Dharwad","2005050",67,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-11,2021-05-18,NA
+22640,"Dharwad","2039085",62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-11,2021-05-18,NA
+22752,"Dharwad","2184213",55,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-05-13,2021-05-13,2021-05-18,NA
+22905,"Dharwad","1551772",65,"Male","ILI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-17,2021-05-19,NA
+22914,"Dharwad","1579111",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-09,2021-05-19,NA
+22994,"Dharwad","1779739",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-04,2021-05-19,NA
+23010,"Dharwad","1833611",86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-19,NA
+23032,"Dharwad","1890274",73,"Male","SARI","Fever, Cough, Breathlessness","DM, CRD",2021-05-06,2021-05-07,2021-05-19,NA
+23046,"Dharwad","1926708",48,"Female","ILI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-17,2021-05-19,NA
+23047,"Dharwad","1934031",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-09,2021-05-19,NA
+23049,"Dharwad","1942432",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-10,2021-05-19,NA
+23050,"Dharwad","1942434",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-09,2021-05-19,NA
+23057,"Dharwad","1963255",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-09,2021-05-19,NA
+23441,"Dharwad","1631480",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-04-30,2021-05-07,2021-05-20,NA
+23467,"Dharwad","1668800",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-10,2021-05-20,NA
+23488,"Dharwad","1697545",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-01,2021-05-20,NA
+23517,"Dharwad","1776015",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-07,2021-05-20,NA
+23526,"Dharwad","1815567",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-20,NA
+23548,"Dharwad","1877092",61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-07,2021-05-20,NA
+23560,"Dharwad","1911391",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-20,NA
+23587,"Dharwad","1984114",53,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-13,2021-05-20,NA
+23630,"Dharwad","2065638",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-20,NA
+23761,"Dharwad","2247031",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-13,2021-05-16,2021-05-20,NA
+23898,"Dharwad","1621373",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-10,2021-05-21,NA
+23922,"Dharwad","1776017",82,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-05-03,2021-05-04,2021-05-21,NA
+23939,"Dharwad","1914823",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-21,NA
+23942,"Dharwad","1921892",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-19,2021-05-21,NA
+23944,"Dharwad","1942431",40,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-07,2021-05-21,NA
+23988,"Dharwad","2058088",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-21,NA
+24007,"Dharwad","2103494",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-10,2021-05-21,NA
+24109,"Dharwad","2255542",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24160,"Dharwad","2320742",85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-19,2021-05-21,NA
+24299,"Dharwad","1493457",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-29,2021-05-22,NA
+24417,"Dharwad","1776020",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-22,NA
+24418,"Dharwad","1776033",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-14,2021-05-22,NA
+24419,"Dharwad","1776036",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-08,2021-05-22,NA
+24423,"Dharwad","1783342",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-08,2021-05-22,NA
+24441,"Dharwad","1881020",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-14,2021-05-22,NA
+24478,"Dharwad","2052343",49,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-10,2021-05-22,NA
+24480,"Dharwad","2065642",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-22,NA
+24499,"Dharwad","2137874",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-11,2021-05-11,2021-05-22,NA
+24804,"Dharwad","1752861",69,"Male","ILI","Fever, Cough","HTN",2021-05-04,2021-05-11,2021-05-23,NA
+24808,"Dharwad","1756460",59,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-05-04,2021-05-06,2021-05-23,NA
+24819,"Dharwad","1772312",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-04,2021-05-23,NA
+24839,"Dharwad","1800359",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-06,2021-05-23,NA
+24866,"Dharwad","1857095",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-07,2021-05-23,NA
+24869,"Dharwad","1860689",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-23,NA
+24870,"Dharwad","1860820",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-23,NA
+24942,"Dharwad","2007787",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-23,NA
+25054,"Dharwad","2176265",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-23,NA
+25386,"Dharwad","1628346",82,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-12,2021-05-24,NA
+25403,"Dharwad","1675282",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-06,2021-05-24,NA
+25420,"Dharwad","1722398",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-11,2021-05-24,NA
+25426,"Dharwad","1756441",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-13,2021-05-24,NA
+25457,"Dharwad","1822960",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-24,NA
+25468,"Dharwad","1854633",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-15,2021-05-24,NA
+25471,"Dharwad","1860836",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-08,2021-05-24,NA
+25482,"Dharwad","1900914",71,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-08,2021-05-24,NA
+25489,"Dharwad","1911385",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-06,2021-05-24,NA
+25491,"Dharwad","1914832",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-24,NA
+25584,"Dharwad","2176266",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-24,NA
+25600,"Dharwad","2210579",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-13,2021-05-18,2021-05-24,NA
+25645,"Dharwad","2293580",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-19,2021-05-24,NA
+25671,"Dharwad","2326765",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-24,NA
+25677,"Dharwad","2333352",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-05-24,NA
+26072,"Dharwad","1926694",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-21,2021-05-25,NA
+26099,"Dharwad","2013595",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-20,2021-05-25,NA
+26129,"Dharwad","2061101",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-13,2021-05-25,NA
+26146,"Dharwad","2103479",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-10,2021-05-25,NA
+26160,"Dharwad","2137978",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-18,2021-05-25,NA
+26223,"Dharwad","2277123",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-19,2021-05-25,NA
+26246,"Dharwad","2301347",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-15,2021-05-25,NA
+26259,"Dharwad","2326760",91,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-22,2021-05-25,NA
+26311,"Dharwad","2398377",86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-18,2021-05-25,NA
+26324,"Dharwad","2411029",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-25,NA
+26335,"Dharwad","2416897",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-25,NA
+26352,"Dharwad","2446801",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-22,2021-05-25,NA
+26570,"Dharwad","1776029",56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-12,2021-05-26,NA
+26571,"Dharwad","1776184",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-13,2021-05-26,NA
+26572,"Dharwad","1779719",65,"Female","ILI","Fever, Cough","-",2021-05-03,2021-05-12,2021-05-26,NA
+26690,"Dharwad","2043446",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-26,NA
+26692,"Dharwad","2046371",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-10,2021-05-26,NA
+26697,"Dharwad","2052278",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-26,NA
+26701,"Dharwad","2063530",63,"Female","ILI","Fever, Cough","HTN, CRD",2021-05-10,2021-05-15,2021-05-26,NA
+26708,"Dharwad","2091769",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-15,2021-05-26,NA
+26712,"Dharwad","2103504",73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-26,NA
+26715,"Dharwad","2110790",72,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-13,2021-05-26,NA
+26723,"Dharwad","2133881",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-26,NA
+26726,"Dharwad","2141577",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-26,NA
+26958,"Dharwad","1531316",90,"Female","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-01,2021-05-27,NA
+27006,"Dharwad","1776034",55,"Female","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-10,2021-05-27,NA
+27007,"Dharwad","1776061",60,"Female","SARI","Fever, cough, breathlessness","-",2021-05-04,2021-05-05,2021-05-27,NA
+27020,"Dharwad","1826480",49,"Male","SARI","Fever, cough, breathlessness","DM, HTN, CLD",2021-05-05,2021-05-05,2021-05-27,NA
+27024,"Dharwad","1842153",64,"Male","SARI","Fever, cough, breathlessness","-",2021-05-02,2021-05-04,2021-05-27,NA
+27031,"Dharwad","1860690",93,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-05,2021-05-10,2021-05-27,NA
+27033,"Dharwad","1864797",62,"Female","SARI","Fever, cough, breathlessness","DM, CLD",2021-05-06,2021-05-07,2021-05-27,NA
+27050,"Dharwad","1908394",52,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-27,NA
+27053,"Dharwad","1914795",68,"Male","SARI","Fever, cough, breathlessness","-",2021-05-06,2021-05-07,2021-05-27,NA
+27060,"Dharwad","1942452",72,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-06,2021-05-10,2021-05-27,NA
+27068,"Dharwad","1969811",74,"Male","ILI","Fever, cough","DM, HTN",2021-05-07,2021-05-10,2021-05-27,NA
+27081,"Dharwad","2010651",69,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-27,NA
+27084,"Dharwad","2019191",82,"Male","SARI","Fever, cough, breathlessness","-",2021-05-09,2021-05-10,2021-05-27,NA
+27086,"Dharwad","2022183",33,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-08,2021-05-08,2021-05-27,NA
+27093,"Dharwad","2039087",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-09,2021-05-10,2021-05-27,NA
+27414,"Dharwad","1493456",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-27,2021-05-28,NA
+27415,"Dharwad","1593476",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-08,2021-05-28,NA
+27435,"Dharwad","1914752",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-13,2021-05-28,NA
+27437,"Dharwad","1934039",83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-13,2021-05-28,NA
+27438,"Dharwad","1950967",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-28,NA
+27443,"Dharwad","1969830",38,"Female","ILI","Fever, Cough","-",2021-05-07,2021-05-12,2021-05-28,NA
+27446,"Dharwad","1992367",46,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-12,2021-05-28,NA
+27448,"Dharwad","2002667",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-13,2021-05-28,NA
+27450,"Dharwad","2007806",81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-28,NA
+27451,"Dharwad","2010637",51,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-11,2021-05-28,NA
+27470,"Dharwad","2052265",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-28,NA
+27471,"Dharwad","2052272",76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-13,2021-05-28,NA
+27472,"Dharwad","2052289",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-28,NA
+27504,"Dharwad","2133890",72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-28,NA
+27824,"Dharwad","1540380",77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2021-04-28,2021-05-16,2021-05-29,NA
+27829,"Dharwad","1621355",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-15,2021-05-29,NA
+27865,"Dharwad","1942435",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-14,2021-05-29,NA
+27875,"Dharwad","2013572",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-14,2021-05-29,NA
+27885,"Dharwad","2049162",64,"Female","ILI","Fever, Cough","DM, HTN",2021-05-09,2021-05-14,2021-05-29,NA
+27886,"Dharwad","2049165",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-15,2021-05-29,NA
+27921,"Dharwad","2080451",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-29,NA
+27942,"Dharwad","2103477",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-14,2021-05-29,NA
+27965,"Dharwad","2137878",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-15,2021-05-29,NA
+27966,"Dharwad","2141581",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-15,2021-05-29,NA
+27968,"Dharwad","2148015",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-14,2021-05-29,NA
+27979,"Dharwad","2176268",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-29,NA
+27983,"Dharwad","2186343",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-29,NA
+27988,"Dharwad","2210480",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-29,NA
+27989,"Dharwad","2221643",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-29,NA
+27990,"Dharwad","2221647",53,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-14,2021-05-29,NA
+27991,"Dharwad","2221658",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-29,NA
+27992,"Dharwad","2221659",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-29,NA
+28025,"Dharwad","2277065",48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-15,2021-05-29,NA
+28481,"Dharwad","1884454",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-30,NA
+28484,"Dharwad","2052296",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-17,2021-05-30,NA
+28485,"Dharwad","2063506",62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-19,2021-05-30,NA
+28486,"Dharwad","2133891",58,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-19,2021-05-30,NA
+28487,"Dharwad","2137845",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-15,2021-05-30,NA
+28488,"Dharwad","2148055",81,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-23,2021-05-30,NA
+28490,"Dharwad","2166127",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-30,NA
+28492,"Dharwad","2172548",83,"Female","ILI","Fever, Cough","HTN",2021-05-12,2021-05-19,2021-05-30,NA
+28493,"Dharwad","2176263",58,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-18,2021-05-30,NA
+28494,"Dharwad","2184261",34,"Female","ILI","Fever, Cough","DM, HTN",2021-05-14,2021-05-23,2021-05-30,NA
+28498,"Dharwad","2221682",77,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-05-14,2021-05-20,2021-05-30,NA
+28502,"Dharwad","2263124",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-15,2021-05-30,NA
+28505,"Dharwad","2303174",59,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-18,2021-05-30,NA
+28507,"Dharwad","2317616",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-17,2021-05-30,NA
+28509,"Dharwad","2333329",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-17,2021-05-30,NA
+28516,"Dharwad","2367555",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-19,2021-05-30,NA
+28517,"Dharwad","2367558",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-30,NA
+28528,"Dharwad","2387658",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-24,2021-05-30,NA
+28547,"Dharwad","2411040",71,"Male","ILI","Fever, Cough","DM",2021-05-20,2021-05-28,2021-05-30,NA
+28688,"Dharwad","1511899",70,"Male","ILI","Fever, Cough","-",2021-04-27,2021-05-17,2021-05-31,NA
+28744,"Dharwad","1776069",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-16,2021-05-31,NA
+28861,"Dharwad","1984099",56,"Female","SARI","Fever, Cough, Breathlessness","CA",2021-05-07,2021-05-16,2021-05-31,NA
+28880,"Dharwad","2010631",68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-16,2021-05-31,NA
+28891,"Dharwad","2027802",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-16,2021-05-31,NA
+28910,"Dharwad","2240080",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-15,2021-05-31,NA
+28911,"Dharwad","2244950",90,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-31,NA
+28914,"Dharwad","2255458",64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-16,2021-05-31,NA
+28917,"Dharwad","2268318",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-16,2021-05-31,NA
+28919,"Dharwad","2279551",63,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-17,2021-05-31,NA
+29189,"Dharwad","1700593",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-17,2021-06-01,NA
+29210,"Dharwad","1768757",64,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-17,2021-06-01,NA
+29241,"Dharwad","1905345",56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-19,2021-06-01,NA
+29349,"Dharwad","2100706",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-17,2021-06-01,NA
+29350,"Dharwad","2103496",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-16,2021-06-01,NA
+29358,"Dharwad","2221593",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-06-01,NA
+29361,"Dharwad","2247003",59,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-17,2021-06-01,NA
+29362,"Dharwad","2263131",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-15,2021-06-01,NA
+29374,"Dharwad","2317625",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-06-01,NA
+29721,"Dharwad","2005046",67,"Male","ILI","Fever","-",2021-05-06,2021-05-19,2021-06-02,NA
+29722,"Dharwad","2007804",57,"Male","ILI","Fever, Cough","-",2021-05-08,2021-05-20,2021-06-02,NA
+29758,"Dharwad","2131102",80,"Female","ILI","Cough","-",2021-05-11,2021-05-20,2021-06-02,NA
+29782,"Dharwad","2210454",50,"Male","ILI","Fever, Cough","DM, HTN",2021-05-13,2021-05-20,2021-06-02,NA
+29796,"Dharwad","2279539",71,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-20,2021-06-02,NA
+30101,"Dharwad","1776040",68,"Male","SARI","Fever, Cough, Breathlessness","DM, CVA",2021-05-01,2021-05-19,2021-06-03,NA
+30159,"Dharwad","2007802",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-19,2021-06-03,NA
+30296,"Dharwad","2333338",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-19,2021-06-03,NA
+30316,"Dharwad","2377614",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CRD",2021-05-19,2021-05-19,2021-06-03,NA
+30627,"Dharwad","2091643",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-20,2021-06-04,NA
+30662,"Dharwad","2221653",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-20,2021-06-04,NA
+30666,"Dharwad","2235791",63,"Female","ILI","Fever, cough","-",2021-05-15,2021-05-20,2021-06-04,NA
+30725,"Dharwad","2395661",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-19,2021-06-04,NA
+31012,"Dharwad","2141579",46,"Male","ILI","Fever, Cough","DM",2021-05-11,2021-05-22,2021-06-05,NA
+31047,"Dharwad","2333351",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-06-05,NA
+31050,"Dharwad","2337376",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-23,2021-06-05,NA
+31056,"Dharwad","2344563",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-20,2021-06-05,NA
+31087,"Dharwad","2411016",51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-06-05,NA
+31090,"Dharwad","2416890",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-21,2021-06-05,NA
+31093,"Dharwad","2424968",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-06-05,NA
+31100,"Dharwad","2439248",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-22,2021-06-05,NA
+31346,"Dharwad","2103481",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-21,2021-06-06,NA
+31365,"Dharwad","2215820",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-21,2021-06-06,NA
+31367,"Dharwad","2221681",52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-20,2021-06-06,NA
+31406,"Dharwad","2346598",85,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-20,2021-06-06,NA
+31407,"Dharwad","2346610",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-06-06,NA
+31409,"Dharwad","2349062",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-23,2021-06-06,NA
+31418,"Dharwad","2372686",58,"Male","SARI","Fever, Cough, Breathlessness","DM, CVA",2021-05-18,2021-05-21,2021-06-06,NA
+31431,"Dharwad","2409000",67,"Female","SARI","Fever, Cough, Breathlessness","CHD",2021-05-20,2021-05-22,2021-06-06,NA
+31452,"Dharwad","2458679",54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-23,2021-06-06,NA
+31667,"Dharwad","2103489",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-22,2021-06-07,NA
+31691,"Dharwad","2291415",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-06-07,NA
+31694,"Dharwad","2303179",90,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-06-07,NA
+31707,"Dharwad","2346630",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-22,2021-06-07,NA
+31718,"Dharwad","2370297",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-06-07,NA
+31728,"Dharwad","2401338",57,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-22,2021-06-07,NA
+31737,"Dharwad","2428799",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-06-07,NA
+31739,"Dharwad","2433173",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-22,2021-06-07,NA
+31926,"Dharwad","1718740",42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-23,2021-06-08,NA
+31927,"Dharwad","1860843",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-23,2021-06-08,NA
+31928,"Dharwad","1864771",45,"Male","ILI","Fever, Cough","-",NA,2021-05-06,2021-06-08,"Brought dead"
+31934,"Dharwad","2179622",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-23,2021-06-08,NA
+31940,"Dharwad","2277064",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-23,2021-06-08,NA
+31941,"Dharwad","2279546",51,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-23,2021-06-08,NA
+31942,"Dharwad","2282013",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-24,2021-06-08,NA
+31961,"Dharwad","2474109",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-23,2021-06-08,NA
+31965,"Dharwad","2487249",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-23,2021-06-08,NA
+32106,"Dharwad","2137871",56,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-24,2021-06-09,NA
+32107,"Dharwad","2148020",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-24,2021-06-09,NA
+32108,"Dharwad","2152233",61,"Male","ILI","Fever, Cough","DM, HTN",2021-05-11,2021-05-24,2021-06-09,NA
+32114,"Dharwad","2275043",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-24,2021-06-09,NA
+32117,"Dharwad","2317622",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-24,2021-06-09,NA
+32122,"Dharwad","2377578",59,"Male","ILI","Fever, Cough","DM,  HTN, CLD",2021-05-19,2021-05-24,2021-06-09,NA
+32124,"Dharwad","2381686",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CRD",2021-05-21,2021-05-24,2021-06-09,NA
+32136,"Dharwad","2469681",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-06-09,NA
+32138,"Dharwad","2494226",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-06-09,NA
+32297,"Dharwad","1930184",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-24,2021-06-10,NA
+32299,"Dharwad","2234546",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-25,2021-06-10,NA
+32306,"Dharwad","2370217",86,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-24,2021-06-10,NA
+32314,"Dharwad","2430892",81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-25,2021-06-10,NA
+32322,"Dharwad","2487248",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, RHD",2021-05-11,2021-05-25,2021-06-10,NA
+32323,"Dharwad","2487252",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-06-10,NA
+32331,"Dharwad","2538072",56,"Male","ILI","Fever, Cough","-",2021-05-25,2021-05-25,2021-06-10,NA
+32332,"Dharwad","2538074",80,"Female","ILI","Fever, Cough","HTN",2021-05-25,2021-05-25,2021-06-10,NA
+32490,"Dharwad","2141582",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-25,2021-06-11,NA
+32496,"Dharwad","2279548",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-25,2021-06-11,NA
+32497,"Dharwad","2333316",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-25,2021-06-11,NA
+32500,"Dharwad","2346586",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-25,2021-06-11,NA
+32502,"Dharwad","2377594",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-25,2021-06-11,NA
+32505,"Dharwad","2395659",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-25,2021-06-11,NA
+32506,"Dharwad","2395664",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-25,2021-06-11,NA
+32507,"Dharwad","2418467",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-25,2021-06-11,NA
+32511,"Dharwad","2447645",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-06-11,NA
+32649,"Dharwad","2133925",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-27,2021-06-12,NA
+32650,"Dharwad","2186340",78,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-26,2021-06-12,NA
+32651,"Dharwad","2193382",71,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-26,2021-06-12,NA
+32657,"Dharwad","2282041",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-25,2021-06-12,NA
+32658,"Dharwad","2310255",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-25,2021-06-12,NA
+32659,"Dharwad","2333320",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-26,2021-06-12,NA
+32663,"Dharwad","2428795",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-25,2021-06-12,NA
+32667,"Dharwad","2536611",70,"Female","ILI","Fever, Cough","DM, HTN",2021-05-24,2021-05-25,2021-06-12,NA
+32669,"Dharwad","2549563",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-27,2021-06-12,NA
+32672,"Dharwad","2551909",35,"Female","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-05-25,2021-05-26,2021-06-12,NA
+32796,"Dharwad","2097808",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-26,2021-06-13,NA
+32800,"Dharwad","2370238",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-26,2021-06-13,NA
+32801,"Dharwad","2390484",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-25,2021-06-13,NA
+32802,"Dharwad","2409037",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-26,2021-06-13,NA
+32803,"Dharwad","2439251",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-25,2021-06-13,NA
+32804,"Dharwad","2460484",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-26,2021-06-13,NA
+32806,"Dharwad","2482067",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-26,2021-06-13,NA
+32807,"Dharwad","2487298",76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-26,2021-06-13,NA
+32808,"Dharwad","2508312",73,"Male","ILI","Fever, Cough","HTN, DM, CRD",2021-05-25,2021-05-26,2021-06-13,NA
+32922,"Dharwad","2277060",85,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-27,2021-06-14,NA
+32923,"Dharwad","2305555",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-27,2021-06-14,NA
+32924,"Dharwad","2333346",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-17,2021-05-27,2021-06-14,NA
+32930,"Dharwad","2462574",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-27,2021-06-14,NA
+32932,"Dharwad","2482070",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-28,2021-06-14,NA
+32933,"Dharwad","2497868",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-27,2021-06-14,NA
+32935,"Dharwad","2513684",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-27,2021-06-14,NA
+32936,"Dharwad","2532692",84,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-26,2021-06-14,NA
+32937,"Dharwad","2538080",81,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-27,2021-06-14,NA
+32938,"Dharwad","2576860",74,"Male","SARI","Fever, Cough, Breathlessness","DM, CVA",2021-05-27,2021-05-27,2021-06-14,NA
+33040,"Dharwad","2291426",77,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-16,2021-05-31,2021-06-15,NA
+33042,"Dharwad","2333322",55,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-17,2021-05-28,2021-06-15,NA
+33045,"Dharwad","2534520",45,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-27,2021-05-28,2021-06-15,NA
+33046,"Dharwad","2538158",50,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-25,2021-05-29,2021-06-15,NA
+33047,"Dharwad","2576857",65,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-27,2021-05-30,2021-06-15,NA
+33048,"Dharwad","2590208",72,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-26,2021-05-27,2021-06-15,NA
+33050,"Dharwad","2608730",66,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-28,2021-05-31,2021-06-15,NA
+33051,"Dharwad","2612018",43,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-28,2021-05-29,2021-06-15,NA
+33154,"Dharwad","2133888",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-30,2021-06-16,NA
+33155,"Dharwad","2333317",54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-30,2021-06-16,NA
+33156,"Dharwad","2395663",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-30,2021-06-16,NA
+33157,"Dharwad","2395683",63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-27,2021-06-16,NA
+33159,"Dharwad","2506734",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-06-16,NA
+33162,"Dharwad","2513707",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-27,2021-06-16,NA
+33163,"Dharwad","2551907",76,"Female","ILI","Fever, Cough","DM, HTN",2021-05-25,2021-05-27,2021-06-16,NA
+33165,"Dharwad","2580488",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-30,2021-06-16,NA
+33166,"Dharwad","2595123",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-05-30,2021-06-16,NA
+33308,"Dharwad","2392422",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-29,2021-06-17,NA
+33311,"Dharwad","2491041",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-30,2021-06-17,NA
+33312,"Dharwad","2497870",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-28,2021-06-17,NA
+33315,"Dharwad","2517977",66,"Female","ILI","Fever, Cough","HTN, CKD",2021-05-25,2021-05-28,2021-06-17,NA
+33317,"Dharwad","2534528",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-06-17,NA
+33323,"Dharwad","2599877",64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-29,2021-06-17,NA
+33327,"Dharwad","2613210",50,"Male","ILI","Fever, Cough","DM",2021-05-28,2021-05-30,2021-06-17,NA
+33335,"Dharwad","2639679",45,"Female","ILI","Fever, Cough","-",2021-05-29,2021-05-29,2021-06-17,NA
+33342,"Dharwad","2667251",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-09,2021-06-17,NA
+33440,"Dharwad","2107535",55,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-28,2021-06-18,NA
+33441,"Dharwad","2202971",73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-29,2021-06-18,NA
+33443,"Dharwad","2275053",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-28,2021-06-18,NA
+33453,"Dharwad","2474209",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-28,2021-06-18,NA
+33458,"Dharwad","2538073",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-28,2021-06-18,NA
+33459,"Dharwad","2544341",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-29,2021-06-18,NA
+33460,"Dharwad","2551910",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-06-18,NA
+33461,"Dharwad","2556072",27,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-06-18,NA
+33464,"Dharwad","2580527",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-28,2021-06-18,NA
+33612,"Dharwad","2346616",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-31,2021-06-19,NA
+33614,"Dharwad","2447649",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-05-21,2021-05-31,2021-06-19,NA
+33615,"Dharwad","2447652",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-29,2021-06-19,NA
+33616,"Dharwad","2460442",57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-06-19,NA
+33617,"Dharwad","2468180",80,"Female","ILI","Fever, Cough","DM, HTN",2021-05-22,2021-05-29,2021-06-19,NA
+33619,"Dharwad","2534523",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-06-19,NA
+33628,"Dharwad","2605753",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-30,2021-06-19,NA
+33629,"Dharwad","2618691",28,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-05-30,2021-06-19,NA
+33773,"Dharwad","2377610",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-31,2021-06-20,NA
+33774,"Dharwad","2379361",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-31,2021-06-20,NA
+33778,"Dharwad","2491089",94,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-06-01,2021-06-20,NA
+33780,"Dharwad","2513662",46,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-31,2021-06-20,NA
+33781,"Dharwad","2513669",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-20,2021-06-20,NA
+33784,"Dharwad","2599916",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-31,2021-06-20,NA
+33786,"Dharwad","2621938",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-05-31,2021-06-20,NA
+33787,"Dharwad","2631439",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-29,2021-06-20,NA
+33788,"Dharwad","2631460",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-05-29,2021-06-20,NA
+33790,"Dharwad","2654273",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-05-31,2021-06-20,NA
+33832,"Dharwad","2776712",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-18,2021-06-20,NA
+33896,"Dharwad","2379360",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-06-01,2021-06-21,NA
+33912,"Dharwad","2587369",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-06-01,2021-06-21,NA
+33917,"Dharwad","2605723",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-01,2021-06-21,NA
+33919,"Dharwad","2608740",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-01,2021-06-21,NA
+33924,"Dharwad","2626904",80,"Female","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-29,2021-05-30,2021-06-21,NA
+33935,"Dharwad","2660456",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-01,2021-06-21,NA
+33937,"Dharwad","2667252",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-21,NA
+33939,"Dharwad","2674096",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-21,NA
+34038,"Dharwad","2538075",42,"Male","ILI","Fever, Cough","HTN",2021-05-24,2021-06-01,2021-06-22,NA
+34042,"Dharwad","2580538",61,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-27,2021-06-03,2021-06-22,NA
+34044,"Dharwad","2590268",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-02,2021-06-22,NA
+34046,"Dharwad","2612017",42,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-02,2021-06-22,NA
+34048,"Dharwad","2620394",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-22,NA
+34050,"Dharwad","2639681",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-02,2021-06-22,NA
+34054,"Dharwad","2677138",42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-03,2021-06-22,NA
+34187,"Dharwad","2538102",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-04,2021-06-23,NA
+34189,"Dharwad","2578712",90,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-03,2021-06-23,NA
+34192,"Dharwad","2639682",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-02,2021-06-23,NA
+34194,"Dharwad","2653175",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-02,2021-06-23,NA
+34197,"Dharwad","2659721",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-23,NA
+34202,"Dharwad","2677980",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-04,2021-06-23,NA
+34212,"Dharwad","2701400",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-04,2021-06-23,NA
+34213,"Dharwad","2704735",90,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-03,2021-06-23,NA
+34219,"Dharwad","2731307",49,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-04,2021-06-23,NA
+34300,"Dharwad","2576871",50,"Female","SARI","Fever, Cough, Breathlesness","IHD",2021-05-28,2021-06-05,2021-06-24,NA
+34302,"Dharwad","2586013",62,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN, COPD",2021-05-27,2021-06-06,2021-06-24,NA
+34303,"Dharwad","2626864",60,"Male","SARI","Fever, Cough, Breathlesness","-",2021-05-28,2021-06-04,2021-06-24,NA
+34305,"Dharwad","2639762",55,"Male","SARI","Fever, Cough, Breathlesness","DM",2021-06-04,2021-06-04,2021-06-24,NA
+34306,"Dharwad","2669171",54,"Male","SARI","Fever, Cough, Breathlesness","DM",2021-06-04,2021-06-05,2021-06-24,NA
+34307,"Dharwad","2691217",84,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-02,2021-06-06,2021-06-24,NA
+34310,"Dharwad","2709971",54,"Female","SARI","Fever, Cough, Breathlesness","DM",2021-06-02,2021-06-05,2021-06-24,NA
+34312,"Dharwad","2719775",52,"Male","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-03,2021-06-05,2021-06-24,NA
+34313,"Dharwad","2722373",75,"Male","SARI","Fever, Cough, Breathlesness","CVA",2021-06-04,2021-06-05,2021-06-24,NA
+34326,"Dharwad","2763521",60,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN, COPD",2021-06-06,2021-06-09,2021-06-24,NA
+34449,"Dharwad","2590281",84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-06,2021-06-25,NA
+34451,"Dharwad","2612641",92,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CRD",2021-05-29,2021-06-06,2021-06-25,NA
+34454,"Dharwad","2639685",83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-07,2021-06-25,NA
+34460,"Dharwad","2677981",73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-08,2021-06-25,NA
+34462,"Dharwad","2694266",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-06,2021-06-25,NA
+34464,"Dharwad","2704739",67,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-05,2021-06-07,2021-06-25,NA
+34465,"Dharwad","2704784",41,"Female","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-03,2021-06-07,2021-06-25,NA
+34473,"Dharwad","2754614",70,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-06,2021-06-08,2021-06-25,NA
+34477,"Dharwad","2765804",80,"Female","SARI","Fever, Cough, Breathlessness","HTN, CVA",2021-05-21,2021-06-07,2021-06-25,NA
+34564,"Dharwad","2591071",39,"Male","SARI","Fever, Cough,  Breathlessness","IHD",2021-05-27,2021-06-09,2021-06-26,NA
+34573,"Dharwad","2723345",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-09,2021-06-26,NA
+34574,"Dharwad","2730283",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-26,NA
+34575,"Dharwad","2735825",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-04,2021-06-08,2021-06-26,NA
+34576,"Dharwad","2738576",89,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-08,2021-06-26,NA
+34578,"Dharwad","2757111",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-08,2021-06-26,NA
+34585,"Dharwad","2772643",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-09,2021-06-09,2021-06-26,NA
+34666,"Dharwad","2587374",68,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-05-26,2021-06-10,2021-06-27,NA
+34672,"Dharwad","2685173",32,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-01,2021-06-09,2021-06-27,NA
+34674,"Dharwad","2704716",65,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-03,2021-06-06,2021-06-27,NA
+34676,"Dharwad","2711059",75,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-06,2021-06-09,2021-06-27,NA
+34678,"Dharwad","2731318",72,"Female","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-05,2021-06-09,2021-06-27,NA
+34680,"Dharwad","2745845",65,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-06,2021-06-09,2021-06-27,NA
+34760,"Dharwad","2646274",60,"Female","ILI ","Fever, Cough ","DM, HTN ",2021-05-29,2021-06-11,2021-06-28,NA
+34762,"Dharwad","2659718",62,"Female","SARI ","Fever, Cough, Breathlessness ","HTN ",2021-05-30,2021-06-10,2021-06-28,NA
+34764,"Dharwad","2675553",78,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-05-31,2021-06-11,2021-06-28,NA
+34769,"Dharwad","2775867",42,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN, CRD ",2021-06-07,2021-06-10,2021-06-28,NA
+34772,"Dharwad","2787378",70,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-10,2021-06-10,2021-06-28,NA
+34850,"Dharwad","2704726",37,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"12+AC0-06+AC0-2021"
+34854,"Dharwad","2733703",80,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"05+AC0-06+AC0-2021"
+34855,"Dharwad","2734834",67,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",NA,NA,NA,"12+AC0-06+AC0-2021"
+34856,"Dharwad","2736638",60,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"06+AC0-06+AC0-2021"
+34862,"Dharwad","2787403",73,"Male","ILI ","Fever, Cough ","DM, HTN ",NA,NA,NA,"12+AC0-06+AC0-2021"
+34942,"Dharwad","2654271",43,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-30,2021-06-14,2021-06-30,NA
+34945,"Dharwad","2692689",44,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-14,2021-06-30,NA
+34946,"Dharwad","2719783",50,"Male","SARI","Fever, Cough, Breathlessness","HTN, TB",2021-06-03,2021-06-14,2021-06-30,NA
+34963,"Dharwad","2764623",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-14,2021-06-30,NA
+34968,"Dharwad","2782122",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-10,2021-06-13,2021-06-30,NA
+34974,"Dharwad","2798328",72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-08,2021-06-14,2021-06-30,NA
+35054,"Dharwad","2654269",57,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-15,2021-07-01,NA
+35056,"Dharwad","2675557",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-16,2021-07-01,NA
+35062,"Dharwad","2756416",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-17,2021-07-01,NA
+35063,"Dharwad","2758452",49,"Female","SARI","Fever, Cough, Breathlessness","DM, CRD",2021-06-07,2021-06-15,2021-07-01,NA
+35070,"Dharwad","2780067",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-17,2021-07-01,NA
+35075,"Dharwad","2811240",48,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-12,2021-06-15,2021-07-01,NA
+35079,"Dharwad","2821260",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-17,2021-07-01,NA
+35162,"Dharwad","2783444",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-06-10,2021-06-18,2021-07-02,NA
+35164,"Dharwad","2802710",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-19,2021-07-02,NA
+35165,"Dharwad","2805857",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-11,2021-06-18,2021-07-02,NA
+35170,"Dharwad","2817325",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-15,2021-06-18,2021-07-02,NA
+35173,"Dharwad","2830285",62,"Male","SARI","Fever, Cough, Breathlessness","DM , HTN , CKD",2021-06-15,2021-06-18,2021-07-02,NA
+35174,"Dharwad","2834611",72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-20,2021-07-02,NA
+35179,"Dharwad","2845763",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-19,2021-07-02,NA
+35244,"Dharwad","2745889",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-21,2021-07-03,NA
+35245,"Dharwad","2764651",47,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-21,2021-07-03,NA
+35255,"Dharwad","2830299",40,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-21,2021-07-03,NA
+35257,"Dharwad","2837925",62,"Male","ILI","Fever, Cough","CHD",2021-06-17,2021-06-22,2021-07-03,NA
+35259,"Dharwad","2843157",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-18,2021-06-21,2021-07-03,NA
+35261,"Dharwad","2845281",62,"Female","SARI","Fever, Cough, Breathlessness","TB",2021-06-18,2021-06-20,2021-07-03,NA
+35323,"Dharwad","2783986",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-09,2021-06-21,2021-07-04,NA
+35324,"Dharwad","2801927",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-11,2021-06-23,2021-07-04,NA
+35326,"Dharwad","2802682",43,"Female","ILI","Fever, Cough","DM",2021-06-20,2021-06-20,2021-07-04,NA
+35330,"Dharwad","2845764",40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-18,2021-06-23,2021-07-04,NA
+35334,"Dharwad","2855705",58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-21,2021-06-23,2021-07-04,NA
+35393,"Dharwad","2789913",49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-20,2021-06-24,2021-07-05,NA
+35396,"Dharwad","2816752",58,"Female","ILI","Fever, Cough","DM, HTN",2021-06-14,2021-06-25,2021-07-05,NA
+35399,"Dharwad","2827927",92,"Female","ILI","Fever, Cough","-",2021-06-15,2021-06-25,2021-07-05,NA
+35401,"Dharwad","2840013",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-25,2021-07-05,NA
+35454,"Dharwad","2795119",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-27,2021-07-06,NA
+35458,"Dharwad","2830306",55,"Female","ILI","Fever, Cough","DM, HTN",2021-06-25,2021-06-26,2021-07-06,NA
+35460,"Dharwad","2833073",86,"Male","SARI","Breathlessness","COPD",2021-06-17,2021-06-27,2021-07-06,NA
+35461,"Dharwad","2842083",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-27,2021-07-06,NA
+35466,"Dharwad","2853799",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-20,2021-06-26,2021-07-06,NA
+35467,"Dharwad","2858129",63,"Male","SARI","Fever, Cough, Breathlessness","DM , HTN, CVA",2021-06-22,2021-06-27,2021-07-06,NA
+35477,"Dharwad","2874761",43,"Male","SARI","Fever, Cough, Breathlessness","HTN, CRD",2021-06-25,2021-06-26,2021-07-06,NA
+35545,"Dharwad","2795118",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-15,2021-06-30,2021-07-07,NA
+35552,"Dharwad","2842546",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-24,2021-06-29,2021-07-07,NA
+35557,"Dharwad","2851707",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-07-02,2021-07-07,NA
+35560,"Dharwad","2854387",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-06-29,2021-07-07,NA
+35570,"Dharwad","2876783",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-30,2021-06-30,2021-07-07,NA
+35573,"Dharwad","2879903",78,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-06-29,2021-07-07,NA
+35617,"Dharwad","2825120",61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-15,2021-07-04,2021-07-08,NA
+35621,"Dharwad","2845766",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-10,2021-07-02,2021-07-08,NA
+35623,"Dharwad","2851709",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-19,2021-07-02,2021-07-08,NA
+35631,"Dharwad","2862624",57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-02,2021-07-02,2021-07-08,NA
+35649,"Dharwad","2892150",62,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-07-02,2021-07-06,2021-07-08,NA
+35672,"Dharwad","2785084",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-10,2021-07-06,2021-07-09,NA
+35676,"Dharwad","2851934",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-23,2021-07-06,2021-07-09,NA
+35686,"Dharwad","2869240",78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-07-04,2021-07-09,NA
+35688,"Dharwad","2871215",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-25,2021-07-04,2021-07-09,NA
+35705,"Dharwad","2888945",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-06,2021-07-09,NA
+35789,"Dharwad","2759405",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-14,2021-07-11,NA
+35792,"Dharwad","2825569",65,"Female","ILI","Fever, Cough","DM,  HTN, CRD",2021-05-31,2021-06-16,2021-07-11,NA
+35797,"Dharwad","2867244",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-22,2021-07-07,2021-07-11,NA
+35818,"Dharwad","2898814",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-07-03,2021-07-09,2021-07-11,NA
+35848,"Dharwad","2858904",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-21,2021-07-03,2021-07-12,NA
+35905,"Dharwad","2783754",73,"Female","ILI","Fever, Cough","HTN, CRD",2021-06-09,2021-06-11,2021-07-13,NA
+35996,"Dharwad","2759002",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-09,2021-07-15,NA
+36018,"Dharwad","2903026",72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-10,2021-07-13,2021-07-15,NA
+36070,"Dharwad","2912590",56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-10,2021-07-15,2021-07-16,NA
+36084,"Dharwad","2832292",32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-23,2021-07-17,NA
+36200,"Dharwad","2823945",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-14,2021-06-14,2021-07-20,NA
+36231,"Dharwad","2887446",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-01,2021-07-01,2021-07-21,NA
+36235,"Dharwad","2900443",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-05,2021-07-19,2021-07-21,NA
+36267,"Dharwad","2887446",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-01,2021-07-01,2021-07-21,NA
+36271,"Dharwad","2900443",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-05,2021-07-19,2021-07-21,NA
+36301,"Dharwad","2811249",60,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-14,2021-07-23,"Brought dead"
+36324,"Dharwad","2927134",72,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-07-20,2021-07-21,2021-07-23,NA
+36332,"Dharwad","2874757",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-25,2021-07-22,2021-07-24,NA
+36446,"Dharwad","2910704",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-10,2021-07-27,2021-07-29,NA
+36485,"Dharwad","2905662",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CRD",2021-07-07,2021-07-09,2021-07-30,NA
+36603,"Dharwad","2923631",65,"Male","ILI","Fever, Cough","CVA",2021-07-16,2021-07-17,2021-08-03,NA
+36606,"Dharwad","2928999",41,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-20,2021-07-27,2021-08-03,NA
+36697,"Dharwad","2797029",65,"Male","ILI","Fever, Cough","HTN",2021-06-10,2021-06-11,2021-08-06,NA
+36700,"Dharwad","2905969",56,"Male","SARI","Fever, Cough, Breathlessness","DM , HTN",2021-07-14,2021-08-04,2021-08-06,NA
+36727,"Dharwad","2916699",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-02,2021-07-15,2021-08-07,NA
+36731,"Dharwad","2933844",38,"Male","ILI","Fever, Cough","DM, CKD",2021-07-23,2021-07-26,2021-08-07,NA
+36761,"Dharwad","2929058",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-20,2021-08-05,2021-08-08,NA
+36767,"Dharwad","2943810",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-07-29,2021-08-06,2021-08-08,NA
+36787,"Dharwad","2943883",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-29,2021-08-07,2021-08-09,NA
+36791,"Dharwad","2950532",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-03,2021-08-04,2021-08-09,NA
+36817,"Dharwad","2947420",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-30,2021-07-31,2021-08-10,NA
+36874,"Dharwad","2907186",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-09,2021-07-28,2021-08-12,NA
+36931,"Dharwad","2962613",83,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-09,2021-08-12,2021-08-14,NA
+37051,"Dharwad","2946892",83,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-04,2021-08-13,2021-08-19,NA
+37075,"Dharwad","2924889",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-17,2021-08-18,NA,NA
+37110,"Dharwad","2753391",64,"Male","ILI","Fever, cough","-",2021-06-09,2021-06-17,2021-08-22,NA
+37112,"Dharwad","2938380",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-27,2021-08-20,2021-08-22,NA
+37163,"Dharwad","2775865",78,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-06-08,2021-06-14,2021-08-26,NA
+37168,"Dharwad","2963307",53,"Male","SARI","Fever, cough, breathlessness","DM, HTN, CKD",2021-07-31,2021-08-17,2021-08-26,NA
+37189,"Dharwad","2947432",50,"Male","SARI","Fever, Cough, Breathlessness","HTN, TB",2021-07-31,2021-07-31,2021-08-27,NA
+37318,"Dharwad","2871217",40,"Male","ILI","Fever, cough","-",2021-06-21,2021-08-09,2021-09-03,NA
+37346,"Dharwad","2976767",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-20,2021-08-20,2021-09-04,NA
+37421,"Dharwad","2981742",46,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-22,2021-09-09,2021-09-11,NA
+37510,"Dharwad","2969990",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-01,2021-09-15,2021-09-17,NA
+37560,"Dharwad","2975736",35,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-18,2021-09-19,2021-09-20,NA
+37626,"Dharwad","2995857",65,"Female","ILI","Fever, cough","-",2021-09-07,2021-09-20,2021-09-23,NA
+37717,"Dharwad","3003008",53,"Male","ILI","Fever, cough","TB",2021-09-07,2021-09-11,2021-09-29,NA
+37823,"Dharwad","3020661",56,"Female","SARI","Fever, cough, breathlessness","DM, CKD",2021-10-04,2021-10-08,2021-10-09,NA
+37842,"Dharwad","3019237",78,"M ","SARI ","Fever, Cough, Breathlessness ","DM, HTN, COPD ",2021-10-07,2021-10-09,2021-10-11,NA
+37888,"Dharwad","3018125",52,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-09-21,2021-10-13,2021-10-17,NA
+37903,"Dharwad","3012806",72,"Male","SARI","Cough, Breathlessness","-",2021-09-01,2021-09-29,2021-10-19,NA
+37919,"Dharwad","3018610",65,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-10-03,2021-10-12,2021-10-20,NA
+37928,"Dharwad","3017213",62,"Female","ILI","Fever, cough","DM",2021-09-30,2021-10-17,2021-10-21,NA
+37937,"Dharwad","3019234",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-10-16,2021-10-17,2021-10-22,NA
+37965,"Dharwad","3025248",88,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CHD",2021-10-12,2021-10-19,2021-10-25,NA
+38004,"Dharwad","3009644",21,"Female","SARI","Fever, Breathlessness","CA",2021-09-12,2021-09-30,2021-10-29,NA
+38021,"Dharwad","3020062",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-01,2021-10-04,2021-10-31,NA
+38047,"Dharwad","3027019",60,"Male","ILI","Fever, cough","DM, HTN",2021-10-21,2021-11-02,2021-11-05,NA
+38102,"Dharwad","3033841",85,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-10-26,2021-11-14,2021-11-16,NA
+38126,"Dharwad","3018518",42,"Female","SARI","Fever, cough, breathlessness","DM, HTN, COPD",2021-10-01,2021-11-17,2021-11-22,NA
+38135,"Dharwad","3033130",76,"Male","ILI","Fever, Cough","HTN",2021-11-09,2021-11-14,2021-11-24,NA
+38139,"Dharwad","3030854",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-11-02,2021-11-24,2021-11-26,NA
+38145,"Dharwad","3035557",84,"Female","SARI","Fever, Cough,Breathlessness","DM,HTN, IHD",2021-11-20,2021-11-25,2021-11-27,NA
+38184,"Dharwad","3026990",34,"Male","SARI","Cough, Breathlessness","COPD",2021-09-13,2021-09-14,2021-12-07,NA
+38230,"Dharwad","3041515",80,"Male","ILI","Fever, Breathlessness","DM, HTN, IHD",2021-12-06,2021-12-09,2021-12-18,NA
+38396,"Dharwad","3227089",46,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2022-01-03,2022-01-15,2022-01-17,NA
+38423,"Dharwad","3227089",46,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2022-01-03,2022-01-15,2022-01-17,NA
+38447,"Dharwad","3269780",73,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-16,2022-01-16,2022-01-18,NA
+38504,"Dharwad","3199009",62,"Male","ILI","Fever, Breathlessness","HTN, COPD",2022-01-12,2022-01-17,2022-01-21,NA
+38537,"Dharwad","3339346",82,"Male","ILI","Fever, Cough","DM, HTN, CHD",2022-01-19,2022-01-19,2022-01-22,NA
+38563,"Dharwad","3339346",82,"Male","ILI","Fever, Cough","DM, HTN, CHD",2022-01-19,2022-01-19,2022-01-22,NA
+38746,"Dharwad","3677014",60,"Male","SARI","Breathlessness","-",2022-01-25,2022-01-25,2022-01-27,NA
+38816,"Dharwad","3437841",85,"Male","ILI","Fever, cough","DM, HTN",2022-01-18,2022-01-19,2022-01-29,NA
+38885,"Dharwad","3423690",68,"Male","ILI","Fever, Cough","-",2022-01-20,2022-01-24,2022-01-30,NA
+38951,"Dharwad","3381473",35,"Male","ILI","Fever, Cough","CLD",2022-01-17,2022-01-20,2022-01-31,NA
+39027,"Dharwad","3741098",57,"Female","SARI","Cough, Breathlessness","DM, HTN, CKD",2022-01-26,2022-01-27,2022-02-01,NA
+39078,"Dharwad","3677013",82,"Male","ILI","Fever, Cough","-",2022-01-25,2022-01-26,2022-02-03,NA
+39136,"Dharwad","3618413",75,"Male","ILI","Fever, Cough","CNS disorder",2022-01-22,2022-01-28,2022-02-04,NA
+39188,"Dharwad","3638002",68,"Female","ILI","Fever, Cough","CKD, CVD, MOD S",2022-01-24,2022-01-28,2022-02-05,NA
+39245,"Dharwad","3814202",77,"Male","ILI","Fever, Cough","DM",2022-01-28,2022-01-28,2022-02-06,NA
+39280,"Dharwad","3717125",75,"Female","ILI","Fever","DM, HTN, IHD",2022-01-25,2022-01-28,2022-02-07,NA
+39281,"Dharwad","3751074",93,"Male","ILI","Fever","DM, HTN, IHD",2022-01-29,2022-01-30,2022-02-07,NA
+39329,"Dharwad","3717125",75,"Female","ILI","Fever","DM, HTN, IHD",2022-01-25,2022-01-28,2022-02-07,NA
+39330,"Dharwad","3751074",93,"Male","ILI","Fever","DM, HTN, IHD",2022-01-29,2022-01-30,2022-02-07,NA
+39382,"Dharwad","3838546",57,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2022-01-28,2022-02-01,2022-02-09,NA
+39384,"Dharwad","3863275",66,"Male","SARI","Cough, Breathlessness","-",2022-01-30,2022-02-02,2022-02-09,NA
+39419,"Dharwad","3618541",60,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2022-01-22,2022-02-05,2022-02-10,NA
+39426,"Dharwad","3836482",60,"Female","SARI","Breathlessness","DM, HTN, CVD",2022-01-29,2022-01-30,2022-02-10,NA
+39459,"Dharwad","3460946",86,"Male","ILI","Fever, Cough","HTN, IHD",2022-01-29,2022-01-29,2022-02-11,NA
+39461,"Dharwad","3542079",75,"Male","ILI","Fever, Cough","HTN, CKD",2022-01-19,2022-01-23,2022-02-11,NA
+39501,"Dharwad","3600826",66,"Female","ILI","Fever","HTN, IHD",2022-01-21,2022-01-23,2022-02-12,NA
+39504,"Dharwad","3765861",80,"Male","ILI","Fever","DM, HTN, CKD",2022-01-26,2022-02-01,2022-02-12,NA
+39537,"Dharwad","3600835",75,"Female","ILI","Fever","DM, HTN",2022-01-22,2022-01-22,2022-02-13,NA
+39538,"Dharwad","3636269",85,"Female","SARI","Fever, Breathlessness","DM, HTN",2022-01-24,2022-01-30,2022-02-13,NA
+39568,"Dharwad","3855141",87,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-01-30,2022-02-05,2022-02-14,NA
+39569,"Dharwad","3876484",56,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2022-01-30,2022-02-01,2022-02-14,NA
+39590,"Dharwad","3618542",50,"Female","SARI","Fever, Breathlessness","DM, HTN",2022-01-23,2022-01-29,2022-02-15,NA
+39591,"Dharwad","3763978",65,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2022-01-26,2022-01-30,2022-02-15,NA
+39616,"Dharwad","3555709",65,"Female","ILI","Fever, Cough,Breathlessness","DM,HTN, IHD",2022-01-20,2022-01-28,2022-02-16,NA
+39618,"Dharwad","3658439",65,"Male","ILI","Fever, Cough,Breathlessness","HTN,CKD, COPD",2022-01-24,2022-01-29,2022-02-16,NA
+39639,"Dharwad","3752470",82,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-01-26,2022-01-27,2022-02-17,NA
+39644,"Dharwad","3891185",74,"Male","SARI","Fever, Breathlessness","IHD",2022-01-31,2022-02-06,2022-02-17,NA
+39662,"Dharwad","3542078",80,"Female","ILI","Fever, Cough","DM, HTN, IHD",2022-01-25,2022-02-11,2022-02-18,NA
+39670,"Dharwad","3898809",71,"Male","SARI","Fever, Breathlessness","CKD",2022-01-31,2022-02-05,2022-02-18,NA
+39688,"Dharwad","3921113",88,"Male","ILI","Cough","DM, HTN",2022-02-03,2022-02-07,2022-02-19,NA
+39693,"Dharwad","3961282",56,"Female","SARI","Fever, Cough, Breathlessness","TB",2022-01-31,2022-02-09,2022-02-19,NA
+39710,"Dharwad","3890505",86,"Female","ILI","Fever, Cough","DM, HTN",2022-01-31,2022-02-10,2022-02-20,NA
+39714,"Dharwad","3964431",90,"Female","SARI","Fever, Cough,Breathlessnesss","HTN",2022-02-09,2022-02-18,2022-02-20,NA
+39732,"Dharwad","3961272",35,"Male","SARI","Breathlessness","-",2022-02-08,2022-02-08,2022-02-21,NA
+39733,"Dharwad","3970605",31,"Female","ILI","Cough","-",2022-02-06,2022-02-12,2022-02-21,NA
+39755,"Dharwad","3961281",48,"Female","SARI","Fever, Breathlessness","-",2022-02-07,2022-02-16,NA,NA
+39756,"Dharwad","3966497",50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2022-02-08,2022-02-09,NA,NA
+39804,"Dharwad","3970606",83,"Male","SARI","Breathlessness","DM, AKI",2022-02-15,2022-02-20,2022-02-24,NA
+39817,"Dharwad","3954817",88,"Male","ILI","Fever, Cough","DM, HTN, IHD",2022-02-06,2022-02-10,2022-02-25,NA
+39866,"Dharwad","3871782",79,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2022-01-30,2022-02-21,2022-03-02,NA
+39869,"Dharwad","3981025",63,"Male","SARI","Cough, Breathlessness","HTN, IHD",2022-02-14,2022-02-16,2022-03-02,NA
+39877,"Dharwad","3978811",88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-02-01,2022-02-13,2022-03-04,NA
+39882,"Dharwad","3991406",79,"Male","SARI","Fever, Cough,Breathlessness","DM, HTN,IHD",2022-01-22,2022-01-23,2022-03-05,NA
+39885,"Dharwad","3991406",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2022-01-22,2022-01-23,2022-03-06,NA
+39897,"Dharwad","3868739",90,"Female","SARI","Breathlessness","HTN",NA,2022-01-31,2021-03-09,"Died at her residence"
+39901,"Dharwad","3907667",76,"Male","ILI","Fever, Cough","DM, HTN",2022-02-01,2022-02-12,2022-03-10,NA
+39917,"Dharwad","3910388",68,"Male","SARI","Cough, Breathlessness","-",NA,2022-02-02,2022-03-18,"Brought dead"
+39932,"Dharwad","3993179",75,"Female","SARI","Fever, Cough ,Breathlessness","DM,HTN",NA,2022-03-04,2022-03-25,NA
+39965,"Dharwad","4033025",73,"Male","SARI","Cough,Breathlessness","DM, HTN,IHD",2022-07-12,2022-07-12,2022-07-15,NA
+39971,"Dharwad","4044983",77,"Male","SARI","Cough,
+Breathlessness","DM,HTN,
+ARDS",2022-07-20,2022-07-24,2022-07-26,NA
+39989,"Dharwad","4033852",17,"Male","SARI","Fever, Cough,
+Breathlessness","Seizure
+disorder.",2022-06-24,2022-08-01,2022-08-04,NA
+39998,"Dharwad","4057627",75,"Female","SARI","Cough,Breathlessness","DM",2022-07-28,2022-08-07,2022-08-08,NA
+40011,"Dharwad","4076573",72,"Male","SARI","Fever cough Breathlessness","-",2022-08-06,2022-08-09,2022-08-11,NA
+40014,"Dharwad","4051490",52,"Female","SARI","Cough,Breathlessness","HTN,IHD",2022-07-26,2022-08-10,2022-08-12,NA
+40020,"Dharwad","4076660",62,"Male","ILI","Cough","HTN",2022-08-13,2022-08-07,2022-08-13,NA
+40021,"Dharwad","4076711",75,"Female","SARI","Fever, Cough,
+Breathlessness","CLD",2022-08-09,2022-08-11,2022-08-13,NA
+40026,"Dharwad","4076703",60,"Male","SARI","Breathlessness","HTN, CkD",2022-08-07,2022-08-12,2022-08-14,NA
+40027,"Dharwad","4075244",58,"MALE","SARI","Fever, Cough,
+Brethlessness","DM, HTN,",2022-08-07,2022-08-13,2022-08-16,NA
+40031,"Dharwad","4084734",74,"MALE","SARI","Fever, Cough,
+Brethlessness","DM, AKI",2022-08-13,2022-08-14,2022-08-16,NA
+40037,"Dharwad","4081722",71,"Female","SARI","Fever,
+Breathlessness","DM, HTN",2022-08-14,2022-08-16,2022-08-18,NA
+40042,"Dharwad","4082263",64,"MALE","SARI","Fever,
+Breathlessness","DM, HTN,",2022-08-12,2022-08-18,NA,NA
+40043,"Dharwad","4088753",59,"MALE","SARI","Fever, Cough,
+Breathlessness","DM, HTN,",2022-08-14,2022-08-17,NA,NA
+40054,"Dharwad","4087388",84,"MALE","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-08-17,2022-08-21,2022-08-23,NA
+40056,"Dharwad","4067940",58,"MALE","SARI","Fever, Cough,
+Breathlessness","HTN, CND,
+IHD, ILD",2022-08-07,2022-08-23,2022-08-24,NA
+40070,"Dharwad","4097180",22,"MALE","ILI","Fever","AKI",2022-06-14,2022-08-23,2022-08-28,NA
+40083,"Dharwad","4092841",69,"Male","SARI","Fever,
+Breathlessness","DM, HTN,
+IHD, CKD",2022-08-16,2022-09-01,2022-09-02,NA
+40085,"Dharwad","4078508",79,"Male","SARI","Fever, Cough,Breathlessness","DM, HTN, AKI",2022-08-10,2022-09-02,2022-09-04,NA
+40086,"Dharwad","4106862",62,"Male","SARI","Fever, Cough,Breathlessness","COPD, AKI",2022-08-30,2022-08-30,2022-09-04,NA
+40088,"Dharwad","4108734",82,"Male","SARI","Fever, Cough,
+Breathlessness","DM, HTN",2022-09-01,2022-09-02,2022-09-05,NA
+40112,"Dharwad","4117142",62,"Male","SARI","Fever, Cough,
+Breathlessness","-",2022-09-14,2022-09-16,2022-09-20,NA
+40119,"Dharwad","4120545",76,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD, CKD",2022-09-27,2022-09-29,2022-09-30,NA
+40137,"Dharwad","4126212",81,"Male","ILI","Fever","HTN",NA,2022-11-09,2022-11-12,"Died at his Residence"

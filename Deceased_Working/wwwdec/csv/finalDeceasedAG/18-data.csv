@@ -1,0 +1,352 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+398,"Kodagu","25314",58,"Male","SARI","Breathlessness & Cough","TB, HTN",2020-07-04,2020-07-04,2020-07-06,NA
+707,"Kodagu","28904",77,"Male","SARI","Breathlessness","CKD",2020-07-08,2020-07-12,2020-07-13,NA
+722,"Kodagu","35131",86,"Female","SARI","Cough & Fever","HTN",NA,2020-07-12,2020-07-13,"Died at her residence"
+1126,"Kodagu","52198",90,"Female","Contact under tracing","Cough","_",2020-07-16,2020-07-16,2020-07-17,NA
+1225,"Kodagu","60505",58,"Male","under","-","-",2020-07-13,2020-07-14,2020-07-18,NA
+2017,"Kodagu","102747",46,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-26,2020-07-28,NA
+2271,"Kodagu","115677",38,"Male","ILI","Cough","-",2020-07-27,2020-07-28,2020-07-31,NA
+2292,"Kodagu","124568",54,"Female","ILI","Cough","-",2020-07-29,2020-07-30,2020-07-31,NA
+2294,"Kodagu","125427",45,"Male","SARI","Fever & Cough","-",2020-07-29,2020-07-30,2020-07-31,NA
+2765,"Kodagu","146388",58,"Male","SARI","Fever & Cough & Breathlessness","-",2020-08-03,2020-08-04,2020-08-05,NA
+3070,"Kodagu","171137",58,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-07,2020-08-08,NA
+4015,"Kodagu","208642",38,"Male","Contact under tracing","Breathlessness",NA,2020-08-14,2020-08-15,2020-08-17,NA
+4336,"Kodagu","174403",36,"Male","ILI","-","-",2020-08-08,2020-08-19,2020-08-20,NA
+4411,"Kodagu","255503",65,"Female","ILI","Cough","-",2020-08-19,2020-08-19,2020-08-20,NA
+4440,"Kodagu","189573",65,"Male","ILI","Fever, Cough","-",2020-08-10,2020-08-20,2020-08-21,NA
+4511,"Kodagu","264824",60,"Female","ILI","Fever","-",2020-08-20,2020-08-21,2020-08-21,NA
+5216,"Kodagu","311934",73,"Female","SARI","Breathlessness","-",2020-08-26,2020-08-26,2020-08-27,NA
+5265,"Kodagu","243345",55,"Male","SARI","Breathlessness","-",2020-08-18,2020-08-27,2020-08-28,NA
+5441,"Kodagu","305620",53,"Male","ILI","Fever, Cough","-",2020-08-26,2020-08-29,2020-08-29,NA
+5575,"Kodagu","336274",60,"Female","ILI","Fever, Cough","-",2020-08-29,2020-08-29,2020-08-30,NA
+5577,"Kodagu","337350",63,"Male","ILI","Breathlessness","-",2020-08-29,2020-08-30,2020-08-30,NA
+6338,"Kodagu","344057",70,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-31,2020-09-05,2020-09-06,NA
+6450,"Kodagu","294692",58,"Female","ILI","Fever, Cough","-",2020-08-25,2020-09-06,2020-09-07,NA
+6736,"Kodagu","366152",75,"Male","ILI","Fever, Cough","-",2020-09-02,2020-09-03,2020-09-09,NA
+6925,"Kodagu","434297",48,"Male","ILI","Fever, Cough","-",2020-09-08,2020-09-09,2020-09-10,NA
+6994,"Kodagu","369836",90,"Male","ILI","Fever, Cough","-",2020-09-02,2020-09-11,2020-09-11,NA
+7374,"Kodagu","474911",61,"Male","Contact under tracing","Breathlessness","HTN, CKD",2020-09-13,2020-09-13,2020-09-14,NA
+7752,"Kodagu","456015",49,"Male","ILI","Fever, Cough","-",2020-09-02,2020-09-16,2020-09-18,NA
+7794,"Kodagu","488456",58,"Male","ILI","Fever, Cough","-",2020-09-14,2020-09-17,2020-09-18,NA
+7815,"Kodagu","507447",96,"Female","ILI","Fever, Cough","-",2020-09-14,2020-09-17,2020-09-18,NA
+8397,"Kodagu","520453",67,"Male","ILI","Fever, Cough","DM, HTN",2020-09-22,2020-09-24,2020-09-25,NA
+8408,"Kodagu","536278",53,"Male","ILI","Fever, Cough","DM, HTN",2020-09-24,2020-09-24,2020-09-25,NA
+8648,"Kodagu","594161",56,"Male","ILI","Breathlessness","DM, HTN, TB",2020-09-27,2020-09-27,2020-09-28,NA
+8716,"Kodagu","491513",69,"Male","ILI","Fever, Breathlessness","HTN",2020-09-10,2020-09-29,2020-09-29,NA
+8761,"Kodagu","571993",65,"Male","ILI","Cough, Breathlessness","DM, COPD",2020-09-25,2020-09-29,2020-09-29,NA
+8972,"Kodagu","571996",83,"Female","ILI","Fever, Breathlessness","-",NA,2020-09-30,2020-10-01,"Died at her residence"
+8989,"Kodagu","597216",52,"Male","ILI","Fever, Cough","DM, HTN",2020-09-27,2020-09-27,2020-10-01,NA
+9000,"Kodagu","616797",74,"Male","ILI","Cough, Breathlessness","DM, HTN, COPD",2020-09-29,2020-09-30,2020-10-01,NA
+9001,"Kodagu","621175",33,"Male","ILI","Breathlessness","CA",NA,2020-09-30,2020-10-01,"Died at his residence"
+9258,"Kodagu","556905",50,"Male","ILI","Fever","CKD, CA",2020-09-24,2020-09-30,2020-10-04,NA
+9266,"Kodagu","591580",65,"Male","ILI","Fever","-",2020-09-26,2020-10-02,2020-10-04,NA
+9275,"Kodagu","612456",53,"Male","Contact under tracing","Fever","-",2020-09-29,2020-10-02,2020-10-04,NA
+9292,"Kodagu","643296",53,"Male","Contact under tracing","Fever","DM",2020-10-01,2020-10-02,2020-10-04,NA
+9362,"Kodagu","646096",75,"Male","ILI","Fever, Cough","DM, HTN, CVA",NA,2020-10-01,2020-10-05,"Died at his residence"
+9511,"Kodagu","574613",56,"Male","ILI","Cough, Breathlessness","_",2020-09-24,2020-10-06,2020-10-07,NA
+9710,"Kodagu","577040",67,"Male","SARI","Breathlessness","DM, HTN",2020-09-25,2020-09-25,2020-10-09,NA
+9860,"Kodagu","645124",55,"Female","ILI","-","-",2020-10-04,2020-10-08,2020-10-10,NA
+9872,"Kodagu","672537",75,"Male","ILI","-","-",2020-10-05,2020-10-09,2020-10-10,NA
+10083,"Kodagu","672522",59,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-10-05,2020-10-11,2020-10-13,NA
+10086,"Kodagu","675690",65,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-10-05,2020-10-12,2020-10-13,NA
+10111,"Kodagu","713434",82,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-10-09,2020-10-12,2020-10-13,NA
+10302,"Kodagu","624187",52,"Male","ILI","Fever, Cough","-",2020-10-04,2020-10-08,2020-10-16,NA
+10330,"Kodagu","699343",78,"Male","Contact under tracing","Fever, Cough","DM, HTN, COPD",2020-10-09,2020-10-10,2020-10-16,NA
+10333,"Kodagu","706024",76,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-10-08,2020-10-09,2020-10-16,NA
+10369,"Kodagu","591022",63,"Male","ILI","Fever, Cough","HTN",2020-09-26,2020-09-29,2020-10-17,NA
+10371,"Kodagu","613298",64,"Female","ILI","Fever, Cough","HTN",2020-09-29,2020-10-12,2020-10-17,NA
+10531,"Kodagu","750104",73,"Male","ILI","Fever, Cough","-",2020-10-15,2020-10-17,2020-10-19,NA
+10540,"Kodagu","769407",50,"Male","ILI","Fever, Cough","-",2020-10-16,2020-10-17,2020-10-19,NA
+10770,"Kodagu","787064",58,"Female","ILI","Fever, Cough","DM, HTN",2020-10-18,2020-10-21,2020-10-22,NA
+10947,"Kodagu","801835",87,"Male","ILI","-","DM",2020-10-20,2020-10-23,2020-10-26,NA
+11018,"Kodagu","767948",63,"Male","ILI","Breathlessness","DM, HTN, COPD",2020-10-16,2020-10-26,2020-10-28,NA
+11041,"Kodagu","805368",66,"Male","ILI","Fever, Cough","DM, HTN, COPD",2020-10-24,2020-10-25,2020-10-28,NA
+11236,"Kodagu","807832",75,"Female","ILI","Fever, Cough","DM, HTN",2020-10-23,2020-11-01,2020-11-03,NA
+11569,"Kodagu","837244",32,"Male","ILI","Fever","-",2020-11-08,2020-11-10,2020-11-18,NA
+11601,"Kodagu","865208",46,"Male","Contact under tracing","-","HTN",2020-11-10,2020-11-17,2020-11-19,NA
+11725,"Kodagu","865209",70,"Female","SARI","Breathlessness","HTN",2020-11-10,2020-11-23,2020-11-26,NA
+11780,"Kodagu","885178",71,"Male","ILI","Fever","IHD",2020-11-22,2020-11-28,2020-11-30,NA
+11953,"Kodagu","877655",92,"Male","ILI","Fever, Cough","DM, IHD",2020-11-19,2020-12-12,2020-12-15,NA
+11984,"Kodagu","914558",46,"Male","ILI","Fever, Cough","DM",2020-12-12,2020-12-15,2020-12-18,NA
+12066,"Kodagu","927405",65,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-12-25,2020-12-25,2020-12-28,NA
+12173,"Kodagu","939788",62,"Female","SARI","Breathlessness","-",2021-01-06,2021-01-09,2021-01-18,NA
+12286,"Kodagu","956166",67,"Male","SARI","Fever & Breathlessness","DM, HTN",2021-02-01,2021-02-04,2021-02-19,NA
+13478,"Kodagu","1163079",79,"Female","SARI","Fever, Breathlessness","-",2021-04-14,2021-04-19,2021-04-19,NA
+13581,"Kodagu","1141471",68,"Female","SARI","Breathlessness","-",2021-04-14,2021-04-16,2021-04-20,NA
+13757,"Kodagu","1234255",50,"Male","SARI","Breathlessness","-",2021-04-18,2021-04-20,2021-04-21,NA
+13868,"Kodagu","1220327",67,"Male","ILI","Fever","-",2021-04-18,2021-04-21,2021-04-22,NA
+13881,"Kodagu","1264462",85,"Female","ILI","Fever, cough","-",2021-04-21,2021-04-21,2021-04-22,NA
+14197,"Kodagu","1190751",71,"Male","SARI","Fever, Breathlessness","HTN",2021-04-17,2021-04-24,2021-04-24,NA
+14238,"Kodagu","1236100",68,"Male","ILI","Fever, Cough","-",2021-04-17,2021-04-23,2021-04-24,NA
+15374,"Kodagu","1294870",70,"Female","SARI","Breathlessness","DM, COPD",2021-04-22,2021-04-22,2021-04-30,NA
+15380,"Kodagu","1303386",82,"Female","SARI","Breathlessness","HTN",2021-04-27,2021-04-28,2021-04-30,NA
+15419,"Kodagu","1370724",71,"Female","SARI","Breathlessness","COPD",2021-04-25,2021-04-26,2021-04-30,NA
+15420,"Kodagu","1372783",49,"Female","SARI","Breathlessness","-",2021-04-27,2021-04-28,2021-04-30,NA
+15425,"Kodagu","1381948",73,"Male","ILI","Fever","DM,  HTN, CLD",2021-04-25,2021-04-25,2021-04-30,NA
+15632,"Kodagu","1324925",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-27,2021-05-01,NA
+15670,"Kodagu","1373942",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-27,2021-05-01,NA
+15718,"Kodagu","1453936",77,"Male","ILI","Fever","-",2021-04-27,2021-04-28,2021-05-01,NA
+15951,"Kodagu","1534383",27,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-04-30,2021-05-02,NA
+15960,"Kodagu","1544151",75,"Male","SARI","Fever, Breathlessness","DM, COPD",2021-04-29,2021-04-29,2021-05-02,NA
+16335,"Kodagu","1307085",71,"Female","SARI","Fever, Breathlessness","HTN",2021-04-29,2021-04-29,2021-05-04,NA
+16395,"Kodagu","1468749",49,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-01,2021-05-04,NA
+16440,"Kodagu","1564675",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-05-04,NA
+16449,"Kodagu","1575392",85,"Female","SARI","Breathlessness","-",2021-04-30,2021-04-30,2021-05-04,NA
+16451,"Kodagu","1579315",87,"Female","SARI","Breathlessness","-",2021-04-30,2021-04-30,2021-05-04,NA
+16943,"Kodagu","1317635",72,"Female","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-04-23,2021-05-03,2021-05-06,NA
+17005,"Kodagu","1453937",71,"Male","SARI","Breathlessness","HTN",2021-04-30,2021-05-03,2021-05-06,NA
+17014,"Kodagu","1468733",36,"Male","SARI","Cough, Breathlessness","-",2021-04-29,2021-05-03,2021-05-06,NA
+17052,"Kodagu","1527501",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-03,2021-05-06,NA
+17080,"Kodagu","1564685",64,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-06,NA
+17091,"Kodagu","1596760",53,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-03,2021-05-06,NA
+17092,"Kodagu","1596768",68,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-02,2021-05-06,NA
+17109,"Kodagu","1618459",63,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-02,2021-05-06,NA
+17127,"Kodagu","1631751",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-30,2021-05-02,2021-05-06,NA
+17128,"Kodagu","1631752",58,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-06,NA
+17145,"Kodagu","1668884",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-06,NA
+17154,"Kodagu","1699455",49,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-02,2021-05-06,NA
+17396,"Kodagu","1386197",62,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-04,2021-05-07,NA
+17429,"Kodagu","1439760",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-07,NA
+17462,"Kodagu","1478670",49,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-05-04,2021-05-07,NA
+17524,"Kodagu","1537146",50,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-04,2021-05-07,NA
+17553,"Kodagu","1568809",80,"Female","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-07,NA
+17623,"Kodagu","1649051",44,"Male","SARI","Cough, Breathlessness","DM",2021-05-02,2021-05-05,2021-05-07,NA
+17776,"Kodagu","1823264",25,"Male","ILI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-07,NA
+17793,"Kodagu","1849643",46,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-07,NA
+17797,"Kodagu","1852529",29,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17799,"Kodagu","1854873",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-05,2021-05-07,NA
+18106,"Kodagu","1605086",76,"Male","SARI","Breathlessness","DM, COPD",NA,2021-05-07,2021-05-08,"Died at his residence"
+18107,"Kodagu","1605115",49,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-08,NA
+18136,"Kodagu","1654741",75,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-04-25,2021-05-06,2021-05-08,NA
+18199,"Kodagu","1772585",37,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-07,2021-05-08,NA
+18335,"Kodagu","1244000",68,"Female","SARI","Breathlessness","COPD",2021-05-01,2021-05-01,2021-05-09,NA
+18336,"Kodagu","1245640",67,"Male","SARI","Fever, Breathlessness","HTN",2021-04-28,2021-04-28,2021-05-09,NA
+18485,"Kodagu","1522458",64,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-28,2021-04-29,2021-05-09,NA
+18527,"Kodagu","1590459",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-09,NA
+18580,"Kodagu","1661761",69,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-02,2021-05-09,NA
+18583,"Kodagu","1668916",55,"Male","SARI","Fever, Breathlessness","-",2021-04-21,2021-05-03,2021-05-09,NA
+18696,"Kodagu","1854862",73,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-06,2021-05-09,NA
+18805,"Kodagu","1246837",58,"Male","SARI","Fever, Breathlessness","-",2021-04-20,2021-04-21,2021-05-10,NA
+19033,"Kodagu","1490963",60,"Male","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-04,2021-05-10,NA
+19115,"Kodagu","1611584",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-08,2021-05-10,NA
+19121,"Kodagu","1624830",77,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-05,2021-05-10,NA
+19184,"Kodagu","1699464",50,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-05,2021-05-10,NA
+19195,"Kodagu","1732005",45,"Female","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-07,2021-05-10,NA
+19202,"Kodagu","1746708",74,"Male","SARI","Cough, Breathlessness","DM",2021-05-06,2021-05-08,2021-05-10,NA
+19272,"Kodagu","1845727",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-10,NA
+19275,"Kodagu","1852537",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-10,NA
+19531,"Kodagu","1386151",38,"Female","SARI","Fever, Breathlessness","_",2021-04-29,2021-05-09,2021-05-11,NA
+19653,"Kodagu","1756895",60,"Male","SARI","Cough, Breathlessness","DM",2021-05-04,2021-05-10,2021-05-11,NA
+19715,"Kodagu","1833696",68,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-09,2021-05-11,NA
+19724,"Kodagu","1842248",74,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-09,2021-05-11,NA
+19806,"Kodagu","1951852",70,"Male","SARI","Fever, Cough, Breathlessness","_",NA,2021-05-08,2021-05-11,"Brought dead"
+19810,"Kodagu","1957199",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-11,NA
+19849,"Kodagu","2035391",55,"Male","SARI","Fever, Cough, Breathlessness","_",2021-05-02,2021-05-09,2021-05-11,NA
+19977,"Kodagu","1672234",65,"Female","SARI","Cough, Breathlessness","-",2021-05-04,2021-05-10,2021-05-12,NA
+20185,"Kodagu","1865028",52,"Male","SARI","Cough, Breathlessness","DM",2021-05-09,2021-05-11,2021-05-12,NA
+20189,"Kodagu","1868942",60,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-10,2021-05-12,NA
+20232,"Kodagu","1911559",46,"Female","SARI","Fever, Breathlessness","COPD",2021-05-10,2021-05-10,2021-05-12,NA
+20279,"Kodagu","1957206",70,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-11,2021-05-12,NA
+20286,"Kodagu","1963338",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-12,NA
+20291,"Kodagu","1966665",48,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-11,2021-05-12,NA
+20302,"Kodagu","1981124",92,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-12,NA
+20335,"Kodagu","2029476",80,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-08,2021-05-10,2021-05-12,NA
+20358,"Kodagu","2052401",48,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-10,2021-05-12,NA
+20532,"Kodagu","1765193",63,"Female","SARI","Breathlessness","DM, HTN",2021-05-06,2021-05-12,2021-05-13,NA
+20539,"Kodagu","1789057",68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-13,NA
+20651,"Kodagu","2025206",68,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-13,NA
+20688,"Kodagu","2076450",86,"Male","ILI","Fever","DM",2021-05-11,2021-05-11,2021-05-13,NA
+20708,"Kodagu","2124243",85,"Female","ILI","Fever","DM, HTN",2021-05-11,2021-05-11,2021-05-13,NA
+20840,"Kodagu","1753296",67,"Female","SARI","Breathlessness","HTN",2021-05-04,2021-05-05,2021-05-14,NA
+20861,"Kodagu","1807931",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-13,2021-05-14,NA
+20926,"Kodagu","1959966",54,"Female","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-14,NA
+20927,"Kodagu","1959970",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-14,NA
+20934,"Kodagu","1969918",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+21040,"Kodagu","2124244",50,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+21041,"Kodagu","2124245",40,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-12,2021-05-14,NA
+21082,"Kodagu","2172715",85,"Female","SARI","Cough, Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-14,NA
+21263,"Kodagu","1944086",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21299,"Kodagu","2019337",63,"Female","SARI","Breathlessness","DM",2021-05-11,2021-05-14,2021-05-15,NA
+21307,"Kodagu","2029436",50,"Male","ILI","Fever","-",2021-05-14,2021-05-14,2021-05-15,NA
+21352,"Kodagu","2091913",36,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-15,NA
+21626,"Kodagu","1914903",55,"Female","SARI","Breathlessness","DM",2021-05-07,2021-05-14,2021-05-16,NA
+21637,"Kodagu","1930354",72,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-15,2021-05-16,NA
+21703,"Kodagu","2041283",78,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-15,2021-05-16,NA
+21738,"Kodagu","2083948",52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-14,2021-05-16,NA
+21792,"Kodagu","2161016",76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-16,NA
+21795,"Kodagu","2166233",70,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-13,2021-05-15,2021-05-16,NA
+21819,"Kodagu","2203062",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-14,2021-05-16,NA
+21834,"Kodagu","2238441",68,"Female","SARI","Cough, Breathlessness","CKD",2021-05-15,2021-05-15,2021-05-16,NA
+22062,"Kodagu","1922032",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-15,2021-05-17,NA
+22182,"Kodagu","2121561",76,"Male","SARI","Breathlessness","DM, CKD",2021-05-12,2021-05-15,2021-05-17,NA
+22249,"Kodagu","2211193",75,"Male","SARI","Cough, Breathlessness","COPD",2021-05-14,2021-05-16,2021-05-17,NA
+22250,"Kodagu","2211304",90,"Female","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-17,NA
+22679,"Kodagu","2091928",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-16,2021-05-18,NA
+22744,"Kodagu","2176476",72,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-05-13,2021-05-16,2021-05-18,NA
+22805,"Kodagu","2255646",75,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-16,2021-05-18,NA
+23136,"Kodagu","2105673",64,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-17,2021-05-19,NA
+23149,"Kodagu","2124250",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-17,2021-05-19,NA
+23287,"Kodagu","2299946",67,"Male","SARI","Breathlessness","DM,  HTN, CVA",2021-05-17,2021-05-17,2021-05-19,NA
+23597,"Kodagu","2000872",54,"Male","SARI","Fever, Breathlessness","DM",2021-05-06,2021-05-19,2021-05-20,NA
+24081,"Kodagu","2221784",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-19,2021-05-21,NA
+24141,"Kodagu","2303323",70,"Female","SARI","Fever, Breathlessness","HTN",2021-05-17,2021-05-19,2021-05-21,NA
+24145,"Kodagu","2305802",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-19,2021-05-21,NA
+24153,"Kodagu","2317657",65,"Female","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24189,"Kodagu","2359601",45,"Male","ILI","Fever","-",2021-05-19,2021-05-19,2021-05-21,NA
+24466,"Kodagu","1994590",27,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-10,2021-05-20,2021-05-22,NA
+24581,"Kodagu","2323979",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2021-05-18,2021-05-21,2021-05-22,NA
+25069,"Kodagu","2199205",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-16,2021-05-22,2021-05-23,NA
+25256,"Kodagu","2417013",68,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-20,2021-05-21,2021-05-23,NA
+25260,"Kodagu","2421644",20,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-21,2021-05-23,NA
+25680,"Kodagu","2337592",75,"Female","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-22,2021-05-24,NA
+25688,"Kodagu","2349133",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-05-24,NA
+25725,"Kodagu","2386806",73,"Male","SARI","Fever, Breathlessness","DM",2021-05-20,2021-05-23,2021-05-24,NA
+25780,"Kodagu","2445789",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-23,2021-05-24,NA
+26208,"Kodagu","2247069",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-22,2021-05-25,NA
+26237,"Kodagu","2294583",49,"Female","SARI","Cough, Breathlessness","DM",2021-05-16,2021-05-23,2021-05-25,NA
+26273,"Kodagu","2349131",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-24,2021-05-25,NA
+26749,"Kodagu","2218165",44,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-26,NA
+27203,"Kodagu","2271183",54,"Male","SARI","Fever, cough, breathlessness","-",2021-05-17,2021-05-25,2021-05-27,NA
+27208,"Kodagu","2272731",36,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-16,2021-05-25,2021-05-27,NA
+27387,"Kodagu","2517171",62,"Female","ILI","Fever, cough","DM, HTN",NA,2021-05-26,2021-05-27,"Brought dead"
+27639,"Kodagu","2326782",58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-27,2021-05-28,NA
+27690,"Kodagu","2426975",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-27,2021-05-28,NA
+28109,"Kodagu","2395779",70,"Female","SARI","Fever, Cough, Breathlessness","HTN, CVA, CKD",2021-05-20,2021-05-28,2021-05-29,NA
+28123,"Kodagu","2413781",42,"Female","ILI","Fever, Cough","-",2021-05-21,2021-05-22,2021-05-29,NA
+28135,"Kodagu","2426977",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-21,2021-05-28,2021-05-29,NA
+28293,"Kodagu","2600045",59,"Female","ILI","Fever, Cough","-",2021-05-28,2021-05-28,2021-05-29,NA
+28536,"Kodagu","2398542",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-30,2021-05-30,NA
+28592,"Kodagu","2469743",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-15,2021-05-30,2021-05-30,NA
+28676,"Kodagu","2612130",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-05-30,NA
+28975,"Kodagu","2474815",55,"Male","ILI","Fever, Cough","-",2021-05-26,2021-05-26,2021-05-31,NA
+29424,"Kodagu","2447752",59,"Female","SARI","Breathlessness","DM, CKD",2021-05-31,2021-05-31,2021-06-01,NA
+29437,"Kodagu","2474813",74,"Male","SARI","Fever, Cough, Breathlessness","Hypothyroidism",2021-05-22,2021-05-31,2021-06-01,NA
+29473,"Kodagu","2530202",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-31,2021-06-01,NA
+29540,"Kodagu","2637076",40,"Male","SARI","Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-01,NA
+30008,"Kodagu","2669484",60,"Male","ILI","Fever","-",2021-06-01,2021-06-01,2021-06-02,NA
+30387,"Kodagu","2521440",88,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-25,2021-06-01,2021-06-03,NA
+31017,"Kodagu","2184524",58,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-18,2021-06-05,NA
+31261,"Kodagu","2723419",78,"Male","SARI","Breathlessness","HTN, COPD",2021-06-04,2021-06-04,2021-06-05,NA
+31501,"Kodagu","2620560",59,"Female","SARI","Fever, Breathlessness","Hypo thyroidism",2021-05-29,2021-06-04,2021-06-06,NA
+31508,"Kodagu","2624141",35,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-05,2021-06-06,NA
+31527,"Kodagu","2667307",80,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-05-31,2021-06-06,2021-06-06,NA
+31555,"Kodagu","2699783",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-04,2021-06-06,NA
+31868,"Kodagu","2679192",42,"Male","SARI","Fever, Cough, Breathlessness","Epilepsy",2021-06-03,2021-06-06,2021-06-07,NA
+32017,"Kodagu","2649478",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-07,2021-06-08,NA
+32066,"Kodagu","2720003",60,"Male","ILI","Cough","-",NA,2021-06-06,2021-06-08,"Died at his residence"
+32082,"Kodagu","2730319",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-05,2021-06-07,2021-06-08,NA
+32486,"Kodagu","2776824",65,"Female","ILI","Fever, Cough","-",NA,2021-06-09,2021-06-10,"Died at her residence"
+32487,"Kodagu","2776826",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-09,2021-06-10,2021-06-10,NA
+32520,"Kodagu","2543453",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-11,2021-06-11,NA
+32738,"Kodagu","2718687",72,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-06-04,2021-06-04,2021-06-12,NA
+32766,"Kodagu","2757990",74,"Male","SARI","Fever, Breathlessness","HTN",2021-06-08,2021-06-08,2021-06-12,NA
+32862,"Kodagu","2733803",75,"Female","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-12,2021-06-13,NA
+32942,"Kodagu","2620541",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-13,2021-06-14,NA
+32990,"Kodagu","2744142",43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-13,2021-06-14,NA
+33027,"Kodagu","2801088",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-14,2021-06-14,NA
+33117,"Kodagu","2763656",58,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-06-08,2021-06-14,2021-06-15,NA
+33139,"Kodagu","2807507",65,"Male","SARI","Fever, cough, Breathlessness","DM, IHD",2021-06-11,2021-06-15,2021-06-15,NA
+33153,"Kodagu","1881552",52,"Male","ILI","Fever, Cough","DM",NA,2021-05-28,2021-06-16,"Brought dead"
+33174,"Kodagu","2647275",40,"Male","ILI","Cough","-",2021-05-30,2021-05-30,2021-06-16,NA
+33731,"Kodagu","2825600",28,"Male","ILI","Fever","-",NA,2021-06-15,2021-06-19,"Died at his residence"
+33805,"Kodagu","2730318",65,"Female","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-19,2021-06-20,NA
+34004,"Kodagu","2831634",68,"Female","SARI","Cough, Breathlessness","HTN",2021-06-16,2021-06-20,2021-06-21,NA
+34006,"Kodagu","2838554",45,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-20,2021-06-21,NA
+34063,"Kodagu","2726431",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-22,2021-06-22,NA
+34145,"Kodagu","2849006",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2021-06-21,2021-06-22,2021-06-22,NA
+34226,"Kodagu","2767037",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-23,2021-06-23,NA
+34341,"Kodagu","2787633",58,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-10,2021-06-24,2021-06-24,NA
+34347,"Kodagu","2802878",73,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-06-13,2021-06-24,2021-06-24,NA
+34522,"Kodagu","2852427",69,"Female","SARI","Fever, Breathlessness","HTN",2021-06-19,2021-06-24,2021-06-25,NA
+34633,"Kodagu","2857175",59,"Female","SARI","Breathlessness","HTN, IHD",2021-06-22,2021-06-26,2021-06-26,NA
+34690,"Kodagu","2782765",59,"Female","SARI ","Breathlessness ","HTN ",2021-06-10,2021-06-26,2021-06-27,NA
+34706,"Kodagu","2822999",62,"Male","SARI ","Fever, Breathlessness ","DM, HTN, CVA ",2021-06-18,2021-06-26,2021-06-27,NA
+34778,"Kodagu","2811367",54,"Female","SARI ","Breathlessness ","DM, HTN ",2021-06-13,2021-06-28,2021-06-28,NA
+34896,"Kodagu","2854056",92,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN, CKD ",NA,NA,NA,"CKD +ACI-"
+35078,"Kodagu","2819547",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-28,2021-07-01,NA
+35121,"Kodagu","2882106",75,"Female","ILI","Fever, Cough","-",NA,2021-06-29,2021-07-01,"Brought Dead"
+35196,"Kodagu","2866677",39,"Female","ILI","Fever","DM, HTN",NA,2021-07-01,2021-07-02,"Brought dead"
+35210,"Kodagu","2879178",36,"Male","SARI","Breathlessness","DM",2021-06-28,2021-07-01,2021-07-02,NA
+35404,"Kodagu","2853829",79,"Female","SARI","Fever, Cough, Breathlessness","Epilepsy",2021-06-25,2021-07-05,2021-07-05,NA
+35543,"Kodagu","2772286",68,"Male","ILI","Fever","-",2021-06-12,2021-07-06,2021-07-07,NA
+35550,"Kodagu","2836291",65,"Female","SARI","Fever, Cough","DM, HTN",2021-06-24,2021-07-06,2021-07-07,NA
+35553,"Kodagu","2844053",58,"Female","SARI","Breathlessness","DM, HTN",2021-06-20,2021-07-06,2021-07-07,NA
+35568,"Kodagu","2873953",60,"Male","ILI","Fever, Cough","Epilepsy",2021-07-03,2021-07-06,2021-07-07,NA
+35874,"Kodagu","2895000",70,"Female","ILI","Fever, Cough","DM, HTN",2021-07-09,2021-07-11,2021-07-12,NA
+35887,"Kodagu","2910303",46,"Male","SARI","Breathlessness","HTN",2021-07-10,2021-07-12,2021-07-12,NA
+35956,"Kodagu","2883154",39,"Male","SARI","Fever, Breathlessness","-",2021-07-05,2021-07-14,2021-07-14,NA
+36062,"Kodagu","2904810",86,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-15,2021-07-16,2021-07-16,NA
+36132,"Kodagu","2892374",72,"Male","SARI","Fever, Breathlessness","-",2021-07-03,2021-07-17,2021-07-18,NA
+36164,"Kodagu","2873181",78,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-07-18,2021-07-19,NA
+36180,"Kodagu","2915126",70,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-07-09,2021-07-19,2021-07-19,NA
+36197,"Kodagu","2924706",84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-15,2021-07-18,2021-07-19,NA
+36213,"Kodagu","2917420",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-13,2021-07-19,2021-07-20,NA
+36309,"Kodagu","2901634",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-09,2021-07-21,2021-07-23,NA
+36335,"Kodagu","2896409",77,"Male","SARI","Breathlessness","HTN",2021-07-04,2021-07-24,2021-07-24,NA
+36412,"Kodagu","2926802",70,"Female","SARI","Breathlessness","HTN",2021-07-17,2021-07-27,2021-07-27,NA
+36435,"Kodagu","2936423",60,"Male","SARI","Breathlessness","DM, HTN",2021-07-24,2021-07-27,2021-07-28,NA
+36449,"Kodagu","2913907",65,"Female","SARI","Breathlessness","DM, CA",2021-07-12,2021-07-29,2021-07-29,NA
+36503,"Kodagu","2939696",65,"Male","SARI","Fever, Breathlessness","HTN, COPD",2021-07-27,2021-07-29,2021-07-30,NA
+36532,"Kodagu","2936376",80,"Female","SARI","Fever, Breathlessness","HTN, IHD, COPD",2021-07-24,2021-07-31,2021-07-31,NA
+36574,"Kodagu","2870192",41,"Male","ILI","Fever, Cough","-",NA,2021-06-25,2021-08-02,"Died at his residence"
+36584,"Kodagu","2934005",59,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-07-23,2021-08-01,2021-08-02,NA
+36599,"Kodagu","2898235",93,"Female","ILI","Fever","-",NA,2021-07-06,2021-08-03,"Died at her residence"
+36667,"Kodagu","2880275",71,"Female","ILI","Fever, Cough","-",NA,2021-07-28,2021-08-05,"Died at her residence"
+36822,"Kodagu","2953914",94,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-08-04,2021-08-09,2021-08-10,NA
+36849,"Kodagu","2942627",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-29,2021-08-10,2021-08-11,NA
+36861,"Kodagu","2956553",57,"Female","SARI","Breathlessness","DM, HTN,",2021-08-06,2021-08-10,2021-08-11,NA
+36961,"Kodagu","2966987",78,"Male","SARI","Fever, Cough,   Breathlessness","HTN, COPD",2021-08-12,2021-08-14,2021-08-15,NA
+36971,"Kodagu","2944652",76,"Male","SARI","Breathlessness","DM",2021-07-30,2021-08-15,2021-08-16,NA
+36981,"Kodagu","2959586",72,"Male","ILI","Fever, Cough","DM, HTN",2021-08-08,2021-08-16,2021-08-16,NA
+36988,"Kodagu","2970371",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-15,2021-08-15,2021-08-16,NA
+36997,"Kodagu","2919981",65,"Male","SARI","Fever, Breathlessness","-",2021-07-22,2021-08-16,2021-08-17,NA
+37020,"Kodagu","2971453",85,"Male","ILI","Fever","-",NA,2021-08-16,2021-08-17,"Died at his  residence"
+37054,"Kodagu","2954740",41,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-08-05,2021-08-16,2021-08-19,NA
+37058,"Kodagu","2962471",68,"Male","SARI","Fever, Breathlessness","HTN",2021-08-09,2021-08-19,2021-08-19,NA
+37132,"Kodagu","2945493",91,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-31,2021-08-22,2021-08-23,NA
+37165,"Kodagu","2952618",65,"Male","ILI","Fever","-",2021-08-08,2021-08-25,2021-08-26,NA
+37190,"Kodagu","2947715",101,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-01,2021-08-26,2021-08-27,NA
+37196,"Kodagu","2975954",64,"Female","ILI","Cough","-",2021-08-21,2021-08-26,2021-08-27,NA
+37228,"Kodagu","2977416",67,"Male","SARI","Breathlessness","DM, HTN, CKD",2021-08-21,2021-08-28,2021-08-29,NA
+37269,"Kodagu","2983648",84,"Female","ILI","Fever","-",2021-08-28,2021-08-30,2021-08-31,NA
+37274,"Kodagu","2988708",70,"Male","ILI","Fever, Cough","-",NA,2021-08-29,2021-08-31,"Died at his residence"
+37377,"Kodagu","2968795",17,"Female","ILI","Cough","-",2021-08-16,2021-09-06,2021-09-07,NA
+37386,"Kodagu","2992109",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-02,2021-09-06,2021-09-07,NA
+37416,"Kodagu","2992906",62,"Male","ILI","Fever","-",2021-09-02,2021-09-09,2021-09-10,NA
+37423,"Kodagu","2991996",42,"Male","ILI","Cough","-",2021-09-06,2021-09-11,2021-09-11,NA
+37439,"Kodagu","2995772",63,"Male","ILI","Cough","-",2021-09-06,2021-09-12,2021-09-12,NA
+37457,"Kodagu","2995859",37,"Male","ILI","Fever","-",2021-09-05,2021-09-12,2021-09-13,NA
+37468,"Kodagu","2990648",84,"Female","ILI","Cough","-",2021-08-31,2021-09-13,2021-09-14,NA
+37498,"Kodagu","2998027",75,"Male","ILI","Fever, Cough","-",2021-09-09,2021-09-15,2021-09-16,NA
+37669,"Kodagu","3004362",65,"Male","ILI","Cough","-",2021-09-16,2021-09-25,2021-09-26,NA
+37761,"Kodagu","2996869",74,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-09-06,2021-10-02,2021-10-03,NA
+37870,"Kodagu","3022076",60,"Female","ILI","Fever","-",2021-10-09,2021-10-14,2021-10-14,NA
+37895,"Kodagu","3019476",48,"Male","ILI","Fever","-",2021-10-05,2021-10-17,2021-10-18,NA
+37906,"Kodagu","3019012",57,"Male","ILI","Fever","-",2021-10-03,2021-10-19,2021-10-19,NA
+38084,"Kodagu","3025110",84,"Male","ILI","Fever, Cough","-",2021-10-15,2021-10-22,2021-11-11,NA
+38142,"Kodagu","3035898",94,"Male","ILI","Fever, Cough","-",2021-11-22,2021-11-26,2021-11-26,NA
+38182,"Kodagu","3037572",60,"Female","ILI","Cough","-",2021-11-28,2021-12-05,2021-12-06,NA
+38194,"Kodagu","3037845",73,"Male","ILI","Fever","-",2021-11-29,2021-12-07,2021-12-08,NA
+38239,"Kodagu","3043381",93,"Male","ILI","Fever","-",2021-12-15,2021-12-20,2021-12-21,NA
+38240,"Kodagu","3044771",86,"Male","ILI","Fever","-",2021-12-19,2021-12-20,2021-12-21,NA
+38244,"Kodagu","3043969",82,"Male","SARI","Cough, Breathlessness","-",2021-12-21,2021-12-21,2021-12-22,NA
+38247,"Kodagu","3045451",94,"Female","ILI","Fever","-",2021-12-22,2021-12-22,2021-12-23,NA
+38255,"Kodagu","3039968",82,"Male","SARI","Breathlessness","-",2021-12-07,2021-12-27,2021-12-27,NA
+38536,"Kodagu","3295685",80,"Male","SARI","Fever, Breathlessness","-",2022-01-16,2022-01-16,2022-01-22,NA
+38562,"Kodagu","3295685",80,"Male","SARI","Fever, Breathlessness","-",2022-01-16,2022-01-16,2022-01-22,NA
+38612,"Kodagu","3233910",47,"Male","ILI","Fever","DM, HTN",2022-01-15,2022-01-24,2022-01-25,NA
+38664,"Kodagu","3233910",47,"Male","ILI","Fever","DM, HTN",2022-01-15,2022-01-24,2022-01-25,NA
+38748,"Kodagu","3696140",47,"Male","ILI","Fever, Cough","-",2022-01-14,2022-01-24,2022-01-27,NA
+38761,"Kodagu","3116032",95,"Male","ILI","Fever","-",2022-01-11,2022-01-28,2022-01-28,NA
+38880,"Kodagu","3816065",65,"Female","ILI","Fever, Cough","-",2022-01-29,2022-01-29,2022-01-29,NA
+39099,"Kodagu","3842691",35,"Male","ILI","Fever","-",2022-02-03,2022-02-03,2022-02-03,NA
+39510,"Kodagu","3914479",78,"Male","ILI","Fever, Cough","-",2022-02-03,2022-02-10,2022-02-12,NA
+39548,"Kodagu","3948880",70,"Male","ILI","Fever","-",2022-02-07,2022-02-12,2022-02-13,NA
+39623,"Kodagu","3911183",72,"Male","ILI","Fever","-",2022-02-04,2022-02-15,2022-02-16,"Died at his Residence"
+39660,"Kodagu","3983432",58,"Male","SARI","Breathlessness","-",2022-02-17,2022-02-17,2022-02-17,NA
+39675,"Kodagu","3975869",83,"Male","ILI","Fever","-",2022-02-13,2022-02-14,2022-02-18,NA
+39730,"Kodagu","3939830",75,"Male","ILI","Cough","-",2022-02-07,2022-02-21,2022-02-21,NA
+39807,"Kodagu","3989025",90,"Female","ILI","Fever","-",2022-02-23,2022-02-24,2022-02-24,NA
+39835,"Kodagu","3977474",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-02-12,2022-02-25,2022-02-27,NA
+40093,"Kodagu","4106569",74,"Female","ILI","Fever,Cough","CKD",2022-08-29,2022-09-07,2022-09-08,NA
+40129,"Kodagu","4123398",52,"Male","ILI","Fever","IHD",2022-10-13,2022-10-14,2022-10-16,NA

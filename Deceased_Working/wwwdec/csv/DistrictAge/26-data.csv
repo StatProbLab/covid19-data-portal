@@ -1,0 +1,1219 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+3,"Tumakuru","60",60,"Male","Travel history to Delhi",NA,NA,NA,NA,2020-03-27,NA
+157,"Tumakuru","9900",56,"Male","SARI","Fever & Cough & Breathlessness","Type 2 DM & HTN & Myasthenia",2020-06-22,2020-06-23,2020-06-24,NA
+197,"Tumakuru","11948",76,"Female","SARI","Fever & Cough & difficulty in breathing","DM",2020-06-26,2020-06-27,2020-06-28,NA
+198,"Tumakuru","11949",40,"Male","Contact of P-9900","Fever & Cough & Breathlessness","HTN",2020-06-27,2020-06-27,2020-06-28,NA
+264,"Tumakuru","16699",60,"Male","Under Investigation","Fever &  Breathlessness","-",NA,2020-06-30,2020-07-02,"Died at his residence"
+352,"Tumakuru","21671",50,"Female","SARI","Cough & Breathlessness","DM, HTN, CKD",2020-06-28,2020-07-03,2020-07-05,NA
+385,"Tumakuru","23577",78,"Male","SARI","Breathlessness & Cold & Fever & Cough","COPD, DM",2020-07-04,2020-07-05,2020-07-06,NA
+439,"Tumakuru","14412",29,"Male","Contac Under tracing","-","-",2020-06-26,2020-06-30,2020-07-08,NA
+459,"Tumakuru","27038",55,"Female","Contact under tracing","Vomiting","DM, HTN",NA,2020-07-06,2020-07-08,"Brought dead"
+479,"Tumakuru","29178",53,"Male","ILI","Fever & Cough & Breathlessness","DM, HTN",2020-07-06,2020-07-07,2020-07-09,NA
+587,"Tumakuru","33637",65,"Female","SARI","Breathlessness & Cough  & giddiness","DM, HTN",2020-07-08,2020-07-08,2020-07-11,NA
+588,"Tumakuru","33641",55,"Male","SARI","Breathlessness & Cough","DM, HTN, IHD",2020-07-08,2020-07-08,2020-07-11,NA
+674,"Tumakuru","36732",60,"Female","SARI","Breathlessness","DM, HTN",2020-07-10,2020-07-11,2020-07-12,NA
+735,"Tumakuru","39853",58,"Female","Contact under tracing","-","DM",NA,2020-07-10,2020-07-13,"Brought dead"
+838,"Tumakuru","25810",55,"Female","SARI","Breathlessness","HTN, CKD",2020-07-05,2020-07-14,2020-07-15,NA
+1118,"Tumakuru","51512",72,"Male","Travel history Domestic","-","DM, HTN",2020-07-15,2020-07-17,2020-07-17,NA
+1201,"Tumakuru","55372",52,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-09,2020-07-13,2020-07-18,NA
+1218,"Tumakuru","59542",58,"Female","SARI","Fever & Breathlessness","DM",2020-07-16,2020-07-16,2020-07-18,NA
+1224,"Tumakuru","60447",23,"Female","SARI","Fever & Breathlessness","-",2020-07-09,2020-07-13,2020-07-18,NA
+1255,"Tumakuru","45054",55,"Male","SARI","Breathlessness","HTN",2020-07-13,2020-07-18,2020-07-19,NA
+1296,"Tumakuru","59547",62,"Male","SARI","Breathlessness","AKI",2020-07-16,2020-07-17,2020-07-19,NA
+1367,"Tumakuru","65311",60,"Male","Contact of P-16696","-","CKD",NA,2020-07-16,2020-07-20,"Brought Dead"
+1409,"Tumakuru","60209",59,"Female","SARI","Breathlessness","DM, CKD",2020-07-15,2020-07-19,2020-07-21,NA
+1441,"Tumakuru","71619",40,"Male","SARI","Fever & Breathlessness","DM",2020-07-19,2020-07-20,2020-07-21,NA
+1446,"Tumakuru","72611",60,"Female","SARI","Cough & Breathlessness","DM, HTN",NA,2020-07-20,2020-07-21,"Died at her residence"
+1471,"Tumakuru","72258",76,"Female","SARI","Breathlessness","DM",2020-07-19,2020-07-21,2020-07-22,NA
+1496,"Tumakuru","76151",52,"Male","SARI","Fever & Cough","HTN",NA,2020-07-21,2020-07-22,"Brought dead"
+1555,"Tumakuru","60508",50,"Female","SARI","Fever & Cough","DM",2020-07-17,2020-07-22,2020-07-23,NA
+1567,"Tumakuru","72217",51,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-19,2020-07-22,2020-07-23,NA
+1607,"Tumakuru","36802",64,"Male","SARI","Fever & Cough","-",2020-07-11,2020-07-14,2020-07-24,NA
+1692,"Tumakuru","83620",45,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-21,2020-07-22,2020-07-24,NA
+1697,"Tumakuru","84498",26,"Female","SARI","Fever & Cough","-",2020-07-21,2020-07-22,2020-07-24,NA
+1702,"Tumakuru","85154",65,"Female","SARI","Fever & Breathlessness","-",2020-07-22,2020-07-22,2020-07-24,NA
+1706,"Tumakuru","86530",65,"Female","SARI","Fever & Breathlessness","DM",2020-07-22,2020-07-22,2020-07-24,NA
+1728,"Tumakuru","59378",75,"Male","SARI","-","DM",2020-07-16,2020-07-16,2020-07-25,NA
+1824,"Tumakuru","84819",79,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-22,2020-07-23,2020-07-26,NA
+1827,"Tumakuru","88634",58,"Male","SARI","Breathlessness","-",NA,2020-07-23,2020-07-26,"Brought dead"
+1837,"Tumakuru","92570",55,"Female","SARI","Fever & Breathlessness","DM",2020-07-24,2020-07-25,2020-07-26,NA
+1838,"Tumakuru","92648",52,"Male","SARI","Breathlessness","-",2020-07-24,2020-07-24,2020-07-26,NA
+1857,"Tumakuru","96404",73,"Male","SARI","-","DM, HTN",2020-07-22,2020-07-24,2020-07-26,NA
+2022,"Tumakuru","104022",60,"Female","SARI","Fever","HTN",2020-07-24,2020-07-25,2020-07-28,NA
+2059,"Tumakuru","71315",60,"Male","SARI","Fever & Breathlessness","-",2020-07-18,2020-07-27,2020-07-29,NA
+2089,"Tumakuru","100837",70,"Female","SARI","Breathlessness","DM",2020-07-25,2020-07-26,2020-07-29,NA
+2101,"Tumakuru","107187",51,"Male","SARI","Breathlessness","DM, HTN",2020-07-24,2020-07-25,2020-07-29,NA
+2197,"Tumakuru","115874",36,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-28,2020-07-30,"Brought dead"
+2217,"Tumakuru","29177",62,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-04,2020-07-27,2020-07-31,NA
+2251,"Tumakuru","94390",80,"Female","SARI","Breathlessness","HTN",2020-07-24,2020-07-26,2020-07-31,NA
+2261,"Tumakuru","104323",63,"Male","SARI","Breathlessness","DM",2020-07-26,2020-07-29,2020-07-31,NA
+2287,"Tumakuru","122330",55,"Male","SARI","Fever & Cough","HTN",2020-07-29,2020-07-29,2020-07-31,NA
+2306,"Tumakuru","72300",52,"Male","SARI","Fever & Breathlessness","HTN",2020-07-18,2020-07-29,2020-08-01,NA
+2360,"Tumakuru","119675",75,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-29,2020-07-31,2020-08-01,NA
+2485,"Tumakuru","71917",31,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-24,2020-07-28,2020-08-03,NA
+2499,"Tumakuru","92240",60,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-23,2020-08-01,2020-08-03,NA
+2519,"Tumakuru","108073",36,"Male","SARI","Cough","-",2020-07-27,2020-08-02,2020-08-03,NA
+2672,"Tumakuru","143101",76,"Female","SARI","Cough, Breathlessness","DM",2020-07-30,2020-07-31,2020-08-04,NA
+2697,"Tumakuru","81473",70,"Male","SARI","Cough","DM, HTN",2020-07-22,2020-08-04,2020-08-05,NA
+2745,"Tumakuru","134974",67,"Male","SARI","Breathlessness","DM",2020-08-01,2020-08-02,2020-08-05,NA
+2750,"Tumakuru","139955",70,"Male","SARI","Fever, Breathlessness","-",2020-08-01,2020-08-04,2020-08-05,NA
+2752,"Tumakuru","140775",73,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, CKD",2020-08-01,2020-08-03,2020-08-05,NA
+2806,"Tumakuru","103986",45,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-26,2020-08-01,2020-08-06,NA
+2844,"Tumakuru","143021",69,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-31,2020-08-02,2020-08-06,NA
+2845,"Tumakuru","144317",65,"Male","SARI","Breathlessness","DM",2020-08-01,2020-08-05,2020-08-06,NA
+2869,"Tumakuru","156002",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-08-04,2020-08-06,NA
+2871,"Tumakuru","157280",56,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-05,2020-08-06,NA
+3009,"Tumakuru","115814",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-26,2020-08-06,2020-08-08,NA
+3056,"Tumakuru","162344",78,"Male","SARI","Breathlessness","DM, HTN",2020-08-03,2020-08-05,2020-08-08,NA
+3088,"Tumakuru","84584",40,"Male","SARI","Cough, Breathlessness","COPD",2020-07-22,2020-08-05,2020-08-09,NA
+3111,"Tumakuru","125561",62,"Female","SARI","Breathlessness","DM, HTN",2020-07-30,2020-08-08,2020-08-09,NA
+3148,"Tumakuru","169827",60,"Male","SARI","Cough","DM",2020-08-06,2020-08-07,2020-08-09,NA
+3163,"Tumakuru","173215",32,"Male","SARI","Cough, Breathlessness","CKD",2020-08-03,2020-08-08,2020-08-09,NA
+3217,"Tumakuru","125608",60,"Male","SARI","Fever, Breathlessness","DM",2020-07-30,2020-08-08,2020-08-10,NA
+3225,"Tumakuru","137545",69,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2020-07-25,2020-08-07,2020-08-10,NA
+3229,"Tumakuru","142865",52,"Male","SARI","Breathlessness","IHD",NA,2020-07-31,2020-08-10,"Brought dead"
+3246,"Tumakuru","160387",44,"Male","SARI","Cough, Breathlessness","Asthma",2020-08-04,2020-08-09,2020-08-10,NA
+3276,"Tumakuru","180642",75,"Male","SARI","Cough, Breathlessness","DM",2020-08-07,2020-08-08,2020-08-10,NA
+3327,"Tumakuru","138069",70,"Female","SARI","Fever","DM, HTN",2020-07-31,2020-08-07,2020-08-11,NA
+3406,"Tumakuru","115070",65,"Female","SARI","Cough","DM, HTN",2020-07-27,2020-07-28,2020-08-12,NA
+3423,"Tumakuru","142241",78,"Male","SARI","Breathlessness","-",2020-08-02,2020-08-06,2020-08-12,NA
+3430,"Tumakuru","150874",52,"Female","SARI","Fever, breathlessness","DM, HTN",2020-08-03,2020-08-08,2020-08-12,NA
+3435,"Tumakuru","151429",53,"Male","SARI","Fever, Cough","DM",2020-08-03,2020-08-09,2020-08-12,NA
+3442,"Tumakuru","156000",58,"Female","SARI","-","DM",2020-07-04,2020-08-10,2020-08-12,NA
+3459,"Tumakuru","178631",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-03,2020-08-10,2020-08-12,NA
+3526,"Tumakuru","125227",60,"Female","SARI","Cough, Breathlessness","Asthma",2020-07-30,2020-07-30,2020-08-13,NA
+3532,"Tumakuru","149110",61,"Male","ILI","Fever","HTN",2020-08-03,2020-08-11,2020-08-13,NA
+3579,"Tumakuru","195860",95,"Female","ILI","-","DM, HTN",2020-08-08,2020-08-08,2020-08-13,NA
+3666,"Tumakuru","180086",52,"Male","SARI","Breathlessness","_",2020-08-08,2020-08-08,2020-08-14,NA
+3684,"Tumakuru","201652",50,"Male","SARI","Breathlessness","DM",2020-08-11,2020-08-11,2020-08-14,NA
+3762,"Tumakuru","179602",55,"Male","SARI","Fever, Breathlessness","-",2020-08-05,2020-08-11,2020-08-15,NA
+3773,"Tumakuru","186741",64,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-09,2020-08-13,2020-08-15,NA
+3852,"Tumakuru","108223",63,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",NA,2020-08-16,2020-08-16,NA
+3885,"Tumakuru","184993",50,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3898,"Tumakuru","199117",35,"Male","SARI","Cough, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3912,"Tumakuru","214381",50,"Male","SARI","Fever","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3925,"Tumakuru","223139",63,"Male","SARI","Cough, Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+4019,"Tumakuru","211848",29,"Female","Contact under tracing","Fever, Breathlessness","-",2020-08-09,2020-08-15,2020-08-17,NA
+4039,"Tumakuru","230365",35,"Female","Contact under tracing","Fever","-",2020-08-15,2020-08-15,2020-08-17,NA
+4133,"Tumakuru","196131",40,"Male","ILI","Fever","-",2020-08-06,2020-08-08,2020-08-18,NA
+4138,"Tumakuru","204309",37,"Male","SARI","Cough, Breathlessness","-",2020-08-06,2020-08-14,2020-08-18,NA
+4173,"Tumakuru","232750",75,"Female","SARI","Fever, Cough","HTN",2020-08-13,2020-08-13,2020-08-18,NA
+4174,"Tumakuru","234494",54,"Female","SARI","Breathlessness","DM",2020-08-14,2020-08-15,2020-08-18,NA
+4278,"Tumakuru","230858",50,"Female","SARI","Breathlessness","DM",2020-08-14,2020-08-15,2020-08-19,NA
+4279,"Tumakuru","230860",55,"Male","SARI","Breathlessness","DM, HTN",2020-08-11,2020-08-11,2020-08-19,NA
+4280,"Tumakuru","232762",72,"Female","SARI","Breathlessness","DM, IHD",2020-08-12,2020-08-14,2020-08-19,NA
+4292,"Tumakuru","240551",70,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-16,2020-08-19,NA
+4307,"Tumakuru","246689",59,"Male","SARI","Breathlessness","HTN",2020-08-14,2020-08-14,2020-08-19,NA
+4414,"Tumakuru","256823",70,"Male","ILI","Fever","-",2020-08-13,2020-08-18,2020-08-20,NA
+4481,"Tumakuru","246688",50,"Male","Contact under tracing","-","DM",NA,2020-08-15,2020-08-21,"Brought dead"
+4492,"Tumakuru","256344",59,"Female","SARI","Breathlessness","DM, HTN",NA,2020-08-18,2020-08-21,"Brought dead"
+4512,"Tumakuru","265449",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-18,2020-08-21,NA
+4520,"Tumakuru","163435",66,"Male","SARI","Breathlessness","DM, HTN",2020-08-06,2020-08-18,2020-08-22,NA
+4526,"Tumakuru","180641",72,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-09,2020-08-16,2020-08-22,NA
+4562,"Tumakuru","240552",78,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-19,2020-08-22,NA
+4563,"Tumakuru","240554",60,"Female","SARI","Fever, Cough","DM, HTN, IHD",2020-08-16,2020-08-18,2020-08-22,NA
+4581,"Tumakuru","256334",67,"Male","Contact under tracing","-","DM",2020-08-17,2020-08-18,2020-08-22,NA
+4594,"Tumakuru","268402",58,"Male","SARI","-","-",2020-08-19,2020-08-20,2020-08-22,NA
+4629,"Tumakuru","224964",65,"Female","ILI","Fever","-",2020-08-14,2020-08-17,2020-08-23,NA
+4644,"Tumakuru","246682",65,"Female","Contact under tracing","-","DM, HTN",NA,2020-08-13,2020-08-23,"Died at her residence"
+4652,"Tumakuru","259507",44,"Male","ILI","Fever","DM, HTN",2020-08-18,2020-08-19,2020-08-23,NA
+4657,"Tumakuru","266767",38,"Female","SARI","Breathlessness","DM, HTN",2020-08-20,2020-08-20,2020-08-23,NA
+4658,"Tumakuru","267234",51,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-19,2020-08-19,2020-08-23,NA
+4703,"Tumakuru","223156",65,"Female","Contact under tracing","-","DM",2020-08-12,2020-08-22,2020-08-24,NA
+4766,"Tumakuru","267240",55,"Male","Contact under tracing","Breathlessness","-",2020-08-19,2020-08-19,2020-08-24,NA
+4782,"Tumakuru","276811",75,"Female","Contact under tracing","-","DM, HTN, IHD",2020-08-20,2020-08-22,2020-08-24,NA
+4785,"Tumakuru","279134",65,"Male","Contact under tracing","Fever","-",2020-08-21,2020-08-21,2020-08-24,NA
+4890,"Tumakuru","249398",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-16,2020-08-20,2020-08-25,NA
+4903,"Tumakuru","257370",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-17,2020-08-23,2020-08-25,NA
+4938,"Tumakuru","283766",45,"Female","SARI","Cough, Breathlessness","DM, COPD",2020-08-22,2020-08-22,2020-08-25,NA
+4941,"Tumakuru","287601",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-25,NA
+4978,"Tumakuru","223143",56,"Male","ILI","Fever","DM",2020-08-09,2020-08-21,2020-08-26,NA
+5030,"Tumakuru","273894",60,"Male","SARI","Breathlessness","DM, HTN",2020-08-21,2020-08-21,2020-08-26,NA
+5038,"Tumakuru","278423",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-22,2020-08-24,2020-08-26,NA
+5184,"Tumakuru","282086",53,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-19,2020-08-24,2020-08-27,NA
+5194,"Tumakuru","289349",55,"Male","ILI","Fever","DM",2020-08-19,2020-08-21,2020-08-27,NA
+5214,"Tumakuru","310270",39,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-24,2020-08-24,2020-08-27,NA
+5280,"Tumakuru","257364",67,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-18,2020-08-26,2020-08-28,NA
+5309,"Tumakuru","283209",36,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-20,2020-08-26,2020-08-28,NA
+5311,"Tumakuru","284738",74,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-22,2020-08-26,2020-08-28,NA
+5349,"Tumakuru","310271",75,"Male","SARI","Cough, Breathlessness","DM",NA,2020-08-25,2020-08-28,"Brought dead"
+5390,"Tumakuru","250677",84,"Male","ILI","Fever, Breathlessness","-",2020-08-17,2020-08-25,2020-08-29,NA
+5396,"Tumakuru","256325",60,"Female","Contact under tracing","-","IHD",2020-08-18,2020-08-25,2020-08-29,NA
+5438,"Tumakuru","300191",80,"Male","Contact under tracing","-","AKI",2020-08-24,2020-08-25,2020-08-29,NA
+5449,"Tumakuru","310777",37,"Male","Contact under tracing","-","-",2020-08-25,2020-08-26,2020-08-29,NA
+5453,"Tumakuru","314489",80,"Male","Contact under tracing","-","IHD",2020-08-21,2020-08-26,2020-08-29,NA
+5554,"Tumakuru","317155",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-22,2020-08-25,2020-08-30,NA
+5565,"Tumakuru","327045",75,"Male","Contact under tracing","-","DM, HTN",2020-08-12,2020-08-17,2020-08-30,NA
+5630,"Tumakuru","297808",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-08-29,2020-08-31,NA
+5650,"Tumakuru","317159",41,"Male","SARI","Breathlessness","IHD",2020-08-26,2020-08-26,2020-08-31,NA
+5656,"Tumakuru","322460",55,"Male","ILI","Fever, Cough","DM, HTN",2020-08-28,2020-08-30,2020-08-31,NA
+5737,"Tumakuru","251515",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-16,2020-08-18,2020-09-01,NA
+5755,"Tumakuru","285637",65,"Female","Contact under tracing","-","COPD",2020-08-11,2020-08-24,2020-09-01,NA
+5783,"Tumakuru","319844",42,"Male","ILI","Fever, Cough","DM, HTN",2020-08-25,2020-08-29,2020-09-01,NA
+5844,"Tumakuru","225860",60,"Male","Contact under tracing","-","DM, HTN",2020-08-10,2020-08-29,2020-09-02,NA
+5871,"Tumakuru","288917",85,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-08-26,2020-08-31,2020-09-02,NA
+5895,"Tumakuru","314497",70,"Male","ILI","Fever, Cough","COPD",2020-08-20,2020-08-25,2020-09-02,NA
+5989,"Tumakuru","311382",35,"Male","SARI","Cough, Breathlessness","-",2020-08-30,2020-08-30,2020-09-03,NA
+6010,"Tumakuru","337383",74,"Female","Under Investig ation","-","DM, HTN, IHD",NA,2020-08-31,2020-09-03,"Died at her residence"
+6014,"Tumakuru","338335",32,"Female","SARI","Cough, Breathlessness","-",2020-08-27,2020-08-28,2020-09-03,NA
+6103,"Tumakuru","327058",69,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-19,2020-08-31,2020-09-04,NA
+6124,"Tumakuru","351595",61,"Female","SARI","Breathlessness","HTN",2020-08-29,2020-08-30,2020-09-04,NA
+6127,"Tumakuru","353250",72,"Male","ILI","Fever, Cough","HTN, CKD",2020-08-29,2020-08-31,2020-09-04,NA
+6130,"Tumakuru","354606",74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-29,2020-09-01,2020-09-04,NA
+6219,"Tumakuru","335677",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-25,2020-08-31,2020-09-05,NA
+6238,"Tumakuru","352695",28,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-30,2020-09-05,NA
+6335,"Tumakuru","336751",65,"Male","Contact under tracing","-","-",2020-08-31,2020-09-04,2020-09-06,NA
+6357,"Tumakuru","368382",40,"Male","SARI","Fever, Breathlessness","-",2020-08-31,2020-09-01,2020-09-06,NA
+6370,"Tumakuru","379942",70,"Female","ILI","Fever, Cough","-",NA,2020-08-30,2020-09-06,"Died at her residence"
+6478,"Tumakuru","342330",65,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-08-29,2020-09-04,2020-09-07,NA
+6488,"Tumakuru","363591",54,"Male","Contact under tracing","-","DM, HTN, IHD",2020-08-31,2020-09-04,2020-09-07,NA
+6597,"Tumakuru","360288",60,"Female","SARI","Breathlessness","DM, HTN, Asthma",2020-08-26,2020-09-05,2020-09-08,NA
+6623,"Tumakuru","380873",75,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-09-02,2020-09-03,2020-09-08,NA
+6640,"Tumakuru","392514",88,"Male","SARI","Breathlessness","-",2020-09-03,2020-09-03,2020-09-08,NA
+6641,"Tumakuru","392606",55,"Female","Contact under tracing","Fever, Cough","-",2020-09-04,2020-09-04,2020-09-08,NA
+6660,"Tumakuru","406478",50,"Male","ILI","Fever","-",2020-09-04,2020-09-05,2020-09-08,NA
+6661,"Tumakuru","406498",65,"Male","SARI","Breathlessness","DM, HTN, Asthma",NA,2020-09-05,2020-09-08,"Died at his residence"
+6708,"Tumakuru","333167",35,"Male","SARI","Fever, Breathlessness","-",2020-09-07,2020-09-07,2020-09-09,NA
+6726,"Tumakuru","356559",60,"Male","ILI","Fever, Cough","-",2020-08-31,2020-09-07,2020-09-09,NA
+6750,"Tumakuru","378496",64,"Male","ILI","Fever, Cough","-",2020-09-01,2020-09-07,2020-09-09,NA
+6773,"Tumakuru","401328",60,"Female","SARI","Breathlessness","DM, HTN",2020-08-27,2020-09-05,2020-09-09,NA
+6782,"Tumakuru","410401",64,"Male","Contact under tracing","-","HTN",NA,2020-09-08,2020-09-09,"Brought dead"
+6816,"Tumakuru","297822",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-25,2020-08-30,2020-09-10,NA
+6828,"Tumakuru","338961",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-08-27,2020-09-10,NA
+7008,"Tumakuru","398217",71,"Male","SARI","Fever, Breathlessness","-",2020-09-02,2020-09-08,2020-09-11,NA
+7022,"Tumakuru","409251",52,"Male","SARI","Breathlessness","DM",2020-09-06,2020-09-08,2020-09-11,NA
+7140,"Tumakuru","426145",70,"Female","SARI","Breathlessness","DM",2020-09-08,2020-09-10,2020-09-12,NA
+7174,"Tumakuru","329473",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-27,2020-09-10,2020-09-13,NA
+7202,"Tumakuru","377982",96,"Male","ILI","Fever, Cough","DM, CKD",2020-08-26,2020-09-08,2020-09-13,NA
+7252,"Tumakuru","447513",69,"Male","SARI","Breathlessness","-",2020-09-09,2020-09-09,2020-09-13,NA
+7291,"Tumakuru","392594",62,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-09,2020-09-10,2020-09-14,NA
+7310,"Tumakuru","408160",42,"Male","Contact under tracing","Breathlessness","DM",2020-09-05,2020-09-11,2020-09-14,NA
+7346,"Tumakuru","450156",65,"Male","Contact under tracing","Fever, Cough","-",NA,2020-09-11,2020-09-14,"Brought dead"
+7347,"Tumakuru","450835",77,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-08,2020-09-14,NA
+7366,"Tumakuru","466424",53,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-29,2020-09-09,2020-09-14,NA
+7367,"Tumakuru","466437",70,"Male","Contact under tracing","Fever, Cough","DM",2020-09-06,2020-09-07,2020-09-14,NA
+7441,"Tumakuru","443943",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-13,2020-09-15,NA
+7446,"Tumakuru","454848",65,"Male","ILI","Fever, Cough","-",2020-09-10,2020-09-11,2020-09-15,NA
+7456,"Tumakuru","466426",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-07,2020-09-09,2020-09-15,NA
+7457,"Tumakuru","466433",84,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-04,2020-09-07,2020-09-15,NA
+7501,"Tumakuru","412917",56,"Female","SARI","Cough, Breathlessness","HTN",2020-09-06,2020-09-13,2020-09-16,NA
+7504,"Tumakuru","422668",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-11,2020-09-16,NA
+7522,"Tumakuru","458889",35,"Male","ILI","Fever, Cough","-",2020-09-10,2020-09-12,2020-09-16,NA
+7523,"Tumakuru","458895",77,"Female","Contact under tracing","-","DM, HTN",2020-09-06,2020-09-13,2020-09-16,NA
+7536,"Tumakuru","471537",56,"Male","ILI","Fever, Cough","DM",2020-09-12,2020-09-12,2020-09-16,NA
+7744,"Tumakuru","447563",43,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-14,2020-09-18,NA
+7777,"Tumakuru","473586",64,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-12,2020-09-15,2020-09-18,NA
+7795,"Tumakuru","489592",55,"Male","SARI","Fever, Breathlessness","DM",2020-09-14,2020-09-15,2020-09-18,NA
+7826,"Tumakuru","398681",65,"Male","Contact under tracing","Fever, Cough","CKD",2020-09-03,2020-09-17,2020-09-19,NA
+7865,"Tumakuru","447549",60,"Female","Contact under tracing","Breathlessness","DM, COPD",NA,2020-09-09,2020-09-19,"Died at her residence"
+7900,"Tumakuru","496097",64,"Male","Contact under tracing","-","DM",2020-09-14,2020-09-15,2020-09-19,NA
+7906,"Tumakuru","501443",68,"Male","Contact under tracing","Fever, Cough","IHD",NA,2020-09-14,2020-09-19,"Died at his residence"
+7995,"Tumakuru","491596",75,"Male","Contact under tracing","-","DM, IHD",NA,2020-09-15,2020-09-20,"Died at his residence"
+8121,"Tumakuru","510872",35,"Male","ILI","Fever, Cough","-",2020-09-16,2020-09-16,2020-09-21,NA
+8126,"Tumakuru","515359",65,"Male","ILI","Fever, Cough","DM, HTN",2020-09-16,2020-09-17,2020-09-21,NA
+8132,"Tumakuru","518646",49,"Male","Contact Under Tracing","-","DM",2020-09-16,2020-09-18,2020-09-21,NA
+8166,"Tumakuru","420108",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-11,2020-09-18,2020-09-22,NA
+8190,"Tumakuru","472615",40,"Male","SARI","Cough, Breathlessness","-",NA,2020-09-12,2020-09-22,"Brought dead"
+8191,"Tumakuru","474444",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-13,2020-09-19,2020-09-22,NA
+8210,"Tumakuru","503172",43,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-12,2020-09-19,2020-09-22,NA
+8360,"Tumakuru","443906",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-10,2020-09-20,2020-09-25,NA
+8377,"Tumakuru","489571",65,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-09-14,2020-09-15,2020-09-25,NA
+8433,"Tumakuru","455590",83,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-12,2020-09-18,2020-09-26,NA
+8471,"Tumakuru","525065",74,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-09-19,2020-09-21,2020-09-26,NA
+8520,"Tumakuru","461642",60,"Male","SARI","Fever, Breathlessness","-",2020-09-17,2020-09-22,2020-09-27,NA
+8525,"Tumakuru","489581",57,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-09-14,2020-09-22,2020-09-27,NA
+8536,"Tumakuru","515299",75,"Male","SARI","Fever, Breathlessness","DM",2020-09-18,2020-09-21,2020-09-27,NA
+8537,"Tumakuru","516756",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-16,2020-09-23,2020-09-27,NA
+8555,"Tumakuru","542161",66,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-21,2020-09-24,2020-09-27,NA
+8601,"Tumakuru","492954",55,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-09-15,2020-09-23,2020-09-28,NA
+8602,"Tumakuru","494803",72,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-15,2020-09-24,2020-09-28,NA
+8604,"Tumakuru","504143",56,"Male","Contact under tracing","Breathlessness","-",2020-09-22,2020-09-23,2020-09-28,NA
+8621,"Tumakuru","543517",91,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-24,2020-09-28,NA
+8708,"Tumakuru","467817",45,"Male","SARI","Fever, Cough","-",2020-09-13,2020-09-27,2020-09-29,NA
+8723,"Tumakuru","509147",61,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-09-16,2020-09-25,2020-09-29,NA
+8725,"Tumakuru","510112",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-16,2020-09-19,2020-09-29,NA
+8810,"Tumakuru","518660",50,"Male","Contact under tracing","Fever","CVA",NA,2020-09-22,2020-09-30,"Died at his residence"
+8845,"Tumakuru","573966",82,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-23,2020-09-30,NA
+8854,"Tumakuru","584118",80,"Male","SARI","Breathlessness","COPD",2020-09-23,2020-09-23,2020-09-30,NA
+8906,"Tumakuru","456886",56,"Male","SARI","Cough, Breathlessness","HTN",2020-09-19,2020-09-25,2020-10-01,NA
+8907,"Tumakuru","457657",42,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-15,2020-09-25,2020-10-01,NA
+8940,"Tumakuru","538352",80,"Male","SARI","Breathlessness","DM, COPD",2020-09-21,2020-09-22,2020-10-01,NA
+8943,"Tumakuru","543515",50,"Male","ILI","Fever, Cough","-",NA,2020-09-19,2020-10-01,"Brought dead"
+8957,"Tumakuru","557848",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-21,2020-09-25,2020-10-01,NA
+8974,"Tumakuru","574746",67,"Male","ILI","Fever, Cough","DM, HTN",2020-09-25,2020-09-29,2020-10-01,NA
+8988,"Tumakuru","594279",63,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-25,2020-09-28,2020-10-01,NA
+8993,"Tumakuru","603119",58,"Male","SARI","Cough, Breathlessness","HTN",2020-09-25,2020-09-27,2020-10-01,NA
+9009,"Tumakuru","433866",50,"Male","SARI","Fever, Breathlessness","-",2020-09-15,2020-09-19,2020-10-02,NA
+9018,"Tumakuru","470726",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-12,2020-09-14,2020-10-02,NA
+9019,"Tumakuru","473578",36,"Male","ILI","Fever, Cough","DM",2020-09-12,2020-09-13,2020-10-02,NA
+9026,"Tumakuru","508921",55,"Male","SARI","Fever, Breathlessness","-",2020-09-16,2020-09-21,2020-10-02,NA
+9037,"Tumakuru","535562",54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-19,2020-09-22,2020-10-02,NA
+9038,"Tumakuru","540223",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-22,2020-09-29,2020-10-02,NA
+9041,"Tumakuru","544853",44,"Male","SARI","Breathlessness","-",2020-09-18,2020-09-26,2020-10-02,NA
+9096,"Tumakuru","595060",61,"Male","SARI","Fever, Breathlessness","COPD",2020-09-25,2020-09-30,2020-10-02,NA
+9138,"Tumakuru","508471",65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-09-27,2020-10-03,NA
+9147,"Tumakuru","539908",75,"Male","Contact under tracing","Breathlessness","-",2020-09-19,2020-10-09,2020-10-03,NA
+9184,"Tumakuru","591091",62,"Male","Contact under tracing","Fever","DM",2020-09-27,2020-09-30,2020-10-03,NA
+9189,"Tumakuru","595064",56,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-25,2020-09-29,2020-10-03,NA
+9196,"Tumakuru","600318",52,"Male","Contact under tracing","Fever","DM, HTN, RVD",2020-09-22,2020-09-30,2020-10-03,NA
+9217,"Tumakuru","623434",60,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",NA,2020-09-29,2020-10-03,"Brought dead"
+9255,"Tumakuru","552243",93,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-19,2020-09-30,2020-10-04,NA
+9259,"Tumakuru","566251",45,"Male","SARI","Cough, Breathlessness","-",2020-09-22,2020-09-29,2020-10-04,NA
+9263,"Tumakuru","586944",36,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-26,2020-10-02,2020-10-04,NA
+9316,"Tumakuru","572230",50,"Male","SARI","Fever, Breathlessness","HTN",2020-09-24,2020-09-27,2020-10-05,NA
+9341,"Tumakuru","613533",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-29,2020-10-02,2020-10-05,NA
+9343,"Tumakuru","614751",37,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-27,2020-09-28,2020-10-05,NA
+9352,"Tumakuru","626697",48,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-26,2020-09-29,2020-10-05,NA
+9410,"Tumakuru","579976",63,"Female","SARI","Breathlessness","DM, CKD",2020-09-25,2020-10-05,2020-10-06,NA
+9424,"Tumakuru","599005",74,"Male","SARI","Breathlessness","CA",2020-09-28,2020-10-01,2020-10-06,NA
+9449,"Tumakuru","637038",40,"Male","Contact under tracing","-","DM, HTN",NA,2020-10-01,2020-10-06,"Brought dead"
+9487,"Tumakuru","544200",65,"Male","ILI","Fever, Cough","_",2020-09-20,2020-09-24,2020-10-07,NA
+9509,"Tumakuru","572822",71,"Male","ILI","Fever, Cough","_",2020-09-24,2020-10-02,2020-10-07,NA
+9545,"Tumakuru","637023",60,"Female","SARI","Breathlessness","-",NA,2020-10-03,2020-10-07,"Died at her residence"
+9548,"Tumakuru","643351",75,"Male","SARI","Fever, Cough, Breathlessness","_",2020-10-01,2020-10-02,2020-10-07,NA
+9573,"Tumakuru","666615",76,"Male","SARI","Cough, Breathlessness","-",2020-10-02,2020-10-06,2020-10-07,NA
+9584,"Tumakuru","276812",42,"Male","ILI","Fever, Cough","DM",NA,2020-08-20,2020-10-08,"Died at his residence"
+9610,"Tumakuru","554218",49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-26,2020-10-08,NA
+9648,"Tumakuru","629813",73,"Male","SARI","Fever, Breathlessness","-",2020-10-02,2020-10-02,2020-10-08,NA
+9664,"Tumakuru","654772",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-03,2020-10-06,2020-10-08,NA
+9668,"Tumakuru","667504",66,"Male","SARI","Fever, Breathlessness","HTN",2020-10-04,2020-10-04,2020-10-08,NA
+9718,"Tumakuru","587966",57,"Male","ILI","Fever, Cough","DM",2020-09-28,2020-10-04,2020-10-09,NA
+9743,"Tumakuru","623447",49,"Male","SARI","Cough, Breathlessness","DM",2020-09-30,2020-10-08,2020-10-09,NA
+9744,"Tumakuru","623455",70,"Male","SARI","Cough, Breathlessness","DM",2020-10-04,2020-10-06,2020-10-09,NA
+9747,"Tumakuru","626705",57,"Male","ILI","Fever, Cough","-",2020-09-30,2020-10-03,2020-10-09,NA
+9786,"Tumakuru","689649",34,"Male","ILI","Cough, Breathlessness","-",2020-10-06,2020-10-07,2020-10-09,NA
+9791,"Tumakuru","695459",62,"Male","Contact under tracing","-","-",NA,2020-10-07,2020-10-09,"Brought dead"
+9825,"Tumakuru","585883",47,"Male","SARI","Breathlessness","DM",2020-09-28,2020-10-09,2020-10-10,NA
+9827,"Tumakuru","589007",65,"Male","SARI","Cough, Breathlessness","CVA",2020-09-27,2020-10-08,2020-10-10,NA
+9853,"Tumakuru","632126",52,"Male","ILI","Fever, Cough","HTN, COPD",2020-09-29,2020-10-08,2020-10-10,NA
+9873,"Tumakuru","672733",58,"Male","ILI","Fever, Cough","DM",2020-10-05,2020-10-07,2020-10-10,NA
+9907,"Tumakuru","591087",55,"Male","SARI","Cough, Breathlessness","DM, IHD",2020-09-27,2020-10-07,2020-10-11,NA
+9952,"Tumakuru","689636",75,"Male","SARI","Cough, Breathlessness","-",2020-10-07,2020-10-08,2020-10-11,NA
+9959,"Tumakuru","697178",70,"Male","ILI","Fever, Cough","TB",2020-10-08,2020-10-09,2020-10-11,NA
+9984,"Tumakuru","607771",56,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-26,2020-10-02,2020-10-12,NA
+10050,"Tumakuru","410386",62,"Female","Contact under tracing","Breathlessness","COPD",2020-09-05,2020-09-07,2020-10-13,NA
+10053,"Tumakuru","567454",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD, CKD",2020-09-21,2020-09-25,2020-10-13,NA
+10057,"Tumakuru","584166",60,"Female","SARI","Fever, Breathlessness","-",2020-09-23,2020-09-29,2020-10-13,NA
+10060,"Tumakuru","614759",54,"Female","Contact under tracing","Fever, Cough","-",NA,2020-09-30,2020-10-13,"Died at his residence"
+10097,"Tumakuru","692655",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-29,2020-10-01,2020-10-13,NA
+10107,"Tumakuru","708771",65,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-07,2020-10-09,2020-10-13,NA
+10108,"Tumakuru","709853",55,"Female","SARI","Fever, Breathlessness","-",2020-10-09,2020-10-09,2020-10-13,NA
+10147,"Tumakuru","638096",81,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-30,2020-10-09,2020-10-14,NA
+10159,"Tumakuru","666685",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-04,2020-10-11,2020-10-14,NA
+10174,"Tumakuru","690567",65,"Male","ILI","Fever, Cough","DM",2020-10-08,2020-10-11,2020-10-14,NA
+10197,"Tumakuru","726375",55,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-10-08,2020-10-10,2020-10-14,NA
+10230,"Tumakuru","667503",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-03,2020-10-10,2020-10-15,NA
+10233,"Tumakuru","673742",65,"Male","SARI","Fever, Breathlessness","DM",2020-10-09,2020-10-11,2020-10-15,NA
+10267,"Tumakuru","709865",70,"Male","Contact under tracing","-","-",2020-10-09,2020-10-11,2020-10-15,NA
+10306,"Tumakuru","639025",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2020-09-29,2020-10-10,2020-10-16,NA
+10326,"Tumakuru","691638",71,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-10-07,2020-10-12,2020-10-16,NA
+10342,"Tumakuru","719396",89,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-10,2020-10-11,2020-10-16,NA
+10349,"Tumakuru","728749",37,"Female","Contact under tracing","Cough, Breathlessness","-",2020-10-11,2020-10-12,2020-10-16,NA
+10389,"Tumakuru","676871",75,"Male","SARI","Fever, Breathlessness","HTN",2020-10-05,2020-10-15,2020-10-17,NA
+10427,"Tumakuru","753273",80,"Male","ILI","Fever, Cough","-",2020-10-12,2020-10-14,2020-10-17,NA
+10430,"Tumakuru","758482",60,"Male","Contact under tracing","-","-",2020-10-14,2020-10-15,2020-10-17,NA
+10434,"Tumakuru","762604",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-15,2020-10-15,2020-10-17,NA
+10455,"Tumakuru","709870",73,"Male","ILI","Fever, Cough","DM, HTN",2020-10-09,2020-10-16,2020-10-18,NA
+10494,"Tumakuru","652647",62,"Male","SARI","Fever, Breathlessness","HTN, COPD",2020-10-03,2020-10-16,2020-10-19,NA
+10495,"Tumakuru","662009",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-04,2020-10-16,2020-10-19,NA
+10504,"Tumakuru","705496",90,"Male","-","Breathlessness","-",NA,2020-10-09,2020-10-19,"Died at his residence"
+10583,"Tumakuru","730443",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-10,2020-09-19,2020-10-20,NA
+10653,"Tumakuru","727367",65,"Male","SARI","Fever, Breathlessness","-",2020-10-12,2020-10-16,2020-10-21,NA
+10660,"Tumakuru","736084",70,"Male","Contact under tracing","-","-",2020-10-12,2020-10-17,2020-10-21,NA
+10699,"Tumakuru","780920",49,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-17,2020-10-19,2020-10-21,NA
+10701,"Tumakuru","782926",56,"Female","Contact under tracing","-","DM",2020-10-18,2020-10-20,2020-10-21,NA
+10763,"Tumakuru","775422",68,"Male","ILI","Fever, Cough","-",2020-10-19,2020-10-19,2020-10-22,NA
+10769,"Tumakuru","785581",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-18,2020-10-18,2020-10-22,NA
+10782,"Tumakuru","675919",55,"Female","SARI","Fever, Breathlessness","HTN",2020-10-04,2020-10-19,2020-10-23,NA
+10787,"Tumakuru","702132",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-14,2020-10-23,NA
+10795,"Tumakuru","721460",49,"Female","SARI","Fever, Breathlessness","-",2020-10-09,2020-10-21,2020-10-23,NA
+10797,"Tumakuru","742032",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-13,2020-10-23,NA
+10860,"Tumakuru","764989",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-15,2020-10-21,2020-10-24,NA
+10889,"Tumakuru","736096",47,"Male","ILI","Fever, Cough","DM, HTN",2020-10-12,2020-10-23,2020-10-25,NA
+10937,"Tumakuru","774651",38,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-17,2020-10-24,2020-10-26,NA
+10983,"Tumakuru","793471",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-22,2020-10-23,2020-10-27,NA
+11049,"Tumakuru","812965",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-23,2020-10-25,2020-10-28,NA
+11058,"Tumakuru","709876",65,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-10-26,2020-10-29,"Brought dead"
+11063,"Tumakuru","753286",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-15,2020-10-25,2020-10-29,NA
+11105,"Tumakuru","747699",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-13,2020-10-28,2020-10-30,NA
+11111,"Tumakuru","764976",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-14,2020-10-27,2020-10-30,NA
+11112,"Tumakuru","767142",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-25,2020-10-25,2020-10-30,NA
+11153,"Tumakuru","765889",70,"Female","ILI","Fever, Cough","HTN",2020-10-16,2020-10-24,2020-10-31,NA
+11179,"Tumakuru","776781",59,"Male","SARI","Breathlessness","COPD",2020-10-22,2020-10-24,2020-11-01,NA
+11204,"Tumakuru","779457",92,"Female","SARI","Cough, Breathlessness","HTN",2020-10-18,2020-10-24,2020-11-02,NA
+11237,"Tumakuru","808751",60,"Male","SARI","Cough, Breathlessness","DM",2020-10-23,2020-10-25,2020-11-03,NA
+11297,"Tumakuru","792006",58,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-10-28,2020-10-30,2020-11-05,NA
+11329,"Tumakuru","809569",51,"Male","ILI","Fever, Cough","DM",2020-10-22,2020-10-25,2020-11-06,NA
+11331,"Tumakuru","822712",70,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-10-23,2020-11-06,"Brought dead"
+11333,"Tumakuru","823992",55,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-10-27,2020-10-28,2020-11-06,NA
+11361,"Tumakuru","805934",78,"Male","SARI","Breathlessness","-",2020-10-22,2020-10-25,2020-11-07,NA
+11362,"Tumakuru","807932",62,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-29,2020-10-29,2020-11-07,NA
+11369,"Tumakuru","839977",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-29,2020-10-29,2020-11-07,NA
+11411,"Tumakuru","837973",48,"Female","ILI","Fever, Cough","-",NA,2020-10-31,2020-11-09,"Brought dead"
+11430,"Tumakuru","838518",68,"Male","ILI","Fever, Cough","IHD",NA,2020-10-31,2020-11-10,"Brought dead"
+11446,"Tumakuru","829289",90,"Female","ILI","Fever, Cough","DM, HTN, COPD",2020-10-26,2020-11-03,2020-11-11,NA
+11447,"Tumakuru","833350",72,"Male","SARI","Fever, Cough","HTN, DM",2020-10-29,2020-11-02,2020-11-11,NA
+11474,"Tumakuru","853342",40,"Male","ILI","Fever, Cough","-",2020-11-05,2020-11-06,2020-11-12,NA
+11502,"Tumakuru","836886",70,"Male","Contact under tracing","-","DM, HTN",2020-10-30,2020-11-03,2020-11-14,NA
+11509,"Tumakuru","844232",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-03,2020-11-03,2020-11-14,NA
+11521,"Tumakuru","841807",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-03,2020-11-03,2020-11-15,NA
+11553,"Tumakuru","844731",70,"Male","SARI","Breathlessness","-",NA,2020-11-02,2020-11-17,"Brought dead"
+11570,"Tumakuru","844238",60,"Male","ILI","Fever, Cough","-",2020-10-30,2020-11-04,2020-11-18,NA
+11597,"Tumakuru","852997",68,"Female","SARI","Cough, Breathlessness","-",2020-11-04,2020-11-06,2020-11-19,NA
+11608,"Tumakuru","873926",55,"Female","ILI","Cough, Fever","DM",2020-11-12,2020-11-14,2020-11-19,NA
+11622,"Tumakuru","870325",85,"Male","SARI","Breathlessness","HTN",2020-11-12,2020-11-16,2020-11-20,NA
+11640,"Tumakuru","864819",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-14,2020-11-17,2020-11-21,NA
+11641,"Tumakuru","867899",74,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-11,2020-11-19,2020-11-21,NA
+11716,"Tumakuru","877812",51,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-23,2020-11-23,2020-11-25,NA
+11720,"Tumakuru","883465",52,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-21,2020-11-22,2020-11-25,NA
+11729,"Tumakuru","876629",64,"Female","SARI","Breathlessness","-",2020-11-14,2020-11-25,2020-11-26,NA
+11768,"Tumakuru","886826",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-22,2020-11-26,2020-11-29,NA
+11840,"Tumakuru","899554",55,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-27,2020-11-27,2020-12-04,NA
+11841,"Tumakuru","900283",84,"Male","ILI","Fever, Cough","HTN, COPD",2020-11-26,2020-12-03,2020-12-04,NA
+11888,"Tumakuru","898886",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-30,2020-12-09,2020-12-09,NA
+11919,"Tumakuru","900405",82,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-07,2020-12-09,2020-12-11,NA
+11921,"Tumakuru","902520",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-02,2020-12-06,2020-12-11,NA
+11931,"Tumakuru","901581",65,"Male","SARI","Fever, Breathlessness","DM",2020-12-04,2020-12-10,2020-12-12,NA
+11958,"Tumakuru","904040",70,"Female","SARI","Fever, Cough, Breathlessness","IHD",2020-12-04,2020-12-05,2020-12-15,NA
+11983,"Tumakuru","909408",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-04,2020-12-06,2020-12-18,NA
+12029,"Tumakuru","904261",52,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-04,2020-12-17,2020-12-23,NA
+12098,"Tumakuru","926609",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-26,2020-12-30,2021-01-02,NA
+12104,"Tumakuru","933840",95,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-01-01,2021-01-02,2021-01-03,NA
+12122,"Tumakuru","932051",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-29,2021-01-02,2021-01-06,NA
+12125,"Tumakuru","933613",82,"Male","SARI","Fever, Cough, Breathlessness","DH, HTN",2020-12-30,2021-01-06,2021-01-07,NA
+12138,"Tumakuru","935365",72,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-01-02,2021-01-09,2021-01-10,NA
+12148,"Tumakuru","940113",29,"Female","SARI","Fever, Breathlessness","-",2021-01-07,2021-01-08,2021-01-12,NA
+12174,"Tumakuru","939887",90,"Female","SARI","Breathlessness","HTN",2021-01-08,2021-01-16,2021-01-18,NA
+12192,"Tumakuru","948034",80,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD, IHD",2021-01-20,2021-01-20,2021-01-23,NA
+12262,"Tumakuru","957504",69,"Male","SARI","Fever, Breathlessness","DM",2021-02-07,2021-02-08,2021-02-13,NA
+12280,"Tumakuru","954529",54,"Male","ILI","Fever, Cough","-",2021-02-01,2021-02-02,2021-02-18,NA
+12291,"Tumakuru","958203",86,"Male","ILI","Fever, Cough","DM",2021-02-10,2021-02-12,2021-02-20,NA
+12295,"Tumakuru","955291",49,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-02-05,2021-02-07,2021-02-22,NA
+12307,"Tumakuru","960135",61,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-02-10,2021-02-16,2021-02-24,NA
+12340,"Tumakuru","963711",87,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-02-22,2021-02-27,2021-03-02,NA
+12355,"Tumakuru","963241",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-02-21,2021-03-01,2021-03-06,NA
+12368,"Tumakuru","960107",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-02-12,2021-02-14,2021-03-09,NA
+12437,"Tumakuru","977035",66,"Male","ILI","Fever, Cough","-",2021-03-16,2021-03-18,2021-03-22,NA
+12476,"Tumakuru","979931",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-16,2021-03-21,2021-03-26,NA
+12484,"Tumakuru","980260",50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-03-19,2021-03-21,2021-03-27,NA
+12495,"Tumakuru","983771",62,"Female","ILI","Fever, Cough","DM",NA,2021-03-19,2021-03-28,"Brought dead"
+12555,"Tumakuru","980131",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-21,2021-03-22,2021-03-31,NA
+12558,"Tumakuru","985255",90,"Female","SARI","Fever, Cough, Breathlessness","-",2021-03-19,2021-03-23,2021-03-31,NA
+12584,"Tumakuru","1016406",50,"Male","SARI","Fever, cough, breathlessness","-",2021-03-31,2021-03-31,2021-04-01,NA
+12608,"Tumakuru","1025372",70,"Female","SARI","Fever, Cough, Breathlessness","HTN, DM",2021-03-26,2021-04-01,2021-04-03,NA
+12613,"Tumakuru","995681",54,"Female","SARI","Cough, Breathlessness","PTB",2021-03-25,2021-03-31,2021-04-04,NA
+12635,"Tumakuru","1003670",43,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-28,2021-04-03,2021-04-05,NA
+12716,"Tumakuru","1016663",34,"Male","SARI","Fever, Breathlessness","-",2021-04-01,2021-04-05,2021-04-07,NA
+12745,"Tumakuru","1019679",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-01,2021-04-01,2021-04-08,NA
+12819,"Tumakuru","1017301",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-27,2021-04-05,2021-04-10,NA
+12831,"Tumakuru","1045393",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-06,2021-04-07,2021-04-10,NA
+13022,"Tumakuru","1020583",72,"Male","ILI","Fever, Cough","DM, HTN",2021-04-01,2021-04-08,2021-04-14,NA
+13079,"Tumakuru","1035579",75,"Male","ILI","Fever, Cough","-",2021-04-02,2021-04-07,2021-04-15,NA
+13088,"Tumakuru","1048266",43,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-08,2021-04-09,2021-04-15,NA
+13129,"Tumakuru","1041374",69,"Female","ILI","Fever","DM, HTN",2021-04-02,2021-04-09,2021-04-16,NA
+13132,"Tumakuru","1052780",56,"Male","SARI","Fever, Breathlessness","-",2021-04-07,2021-04-10,2021-04-16,NA
+13197,"Tumakuru","1040909",62,"Male","SARI","Breathlessness","HTN",2021-04-05,2021-04-14,2021-04-17,NA
+13219,"Tumakuru","1070741",61,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-09,2021-04-09,2021-04-17,NA
+13243,"Tumakuru","1118579",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-12,2021-04-13,2021-04-17,NA
+13316,"Tumakuru","1109863",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-13,2021-04-14,2021-04-18,NA
+13377,"Tumakuru","1052369",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-09,2021-04-17,2021-04-19,NA
+13552,"Tumakuru","1117386",55,"Female","SARI","Fever, Breathlessness","-",2021-04-13,2021-04-19,2021-04-20,NA
+13579,"Tumakuru","1138021",38,"Male","SARI","Fever, Breathlessness","-",2021-04-18,2021-04-19,2021-04-20,NA
+13618,"Tumakuru","1171597",76,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-17,2021-04-20,NA
+13623,"Tumakuru","1178794",30,"Male","ILI","Fever","-",2021-04-17,2021-04-17,2021-04-20,NA
+13695,"Tumakuru","1135362",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-19,2021-04-21,NA
+13782,"Tumakuru","1078460",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-15,2021-04-17,2021-04-22,NA
+13792,"Tumakuru","1101524",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-10,2021-04-20,2021-04-22,NA
+13806,"Tumakuru","1130224",38,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-17,2021-04-18,2021-04-22,NA
+13822,"Tumakuru","1152435",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-19,2021-04-22,NA
+13823,"Tumakuru","1153875",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-18,2021-04-19,2021-04-22,NA
+13958,"Tumakuru","1122164",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-20,2021-04-23,NA
+13961,"Tumakuru","1124758",44,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-13,2021-04-15,2021-04-23,NA
+13966,"Tumakuru","1130764",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-14,2021-04-19,2021-04-23,NA
+13981,"Tumakuru","1154922",60,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-04-11,2021-04-16,2021-04-23,NA
+13997,"Tumakuru","1173135",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-14,2021-04-17,2021-04-23,NA
+14152,"Tumakuru","1140319",70,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-04-14,2021-04-20,2021-04-24,NA
+14187,"Tumakuru","1174398",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-19,2021-04-24,2021-04-24,NA
+14231,"Tumakuru","1225969",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-21,2021-04-24,NA
+14338,"Tumakuru","1171630",65,"Female","ILI","Fever, cough","HTN",2021-04-18,2021-04-19,2021-04-25,NA
+14342,"Tumakuru","1192118",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-25,2021-04-25,NA
+14359,"Tumakuru","1228566",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-21,2021-04-22,2021-04-25,NA
+14366,"Tumakuru","1234624",72,"Male","ILI","Fever, cough","DM",2021-04-14,2021-04-19,2021-04-25,NA
+14389,"Tumakuru","1269436",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-21,2021-04-22,2021-04-25,NA
+14425,"Tumakuru","1333224",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-24,2021-04-25,NA
+14464,"Tumakuru","1143923",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-26,2021-04-26,NA
+14549,"Tumakuru","1318222",30,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-24,2021-04-24,2021-04-26,NA
+14561,"Tumakuru","1325753",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-23,2021-04-26,NA
+14603,"Tumakuru","1354810",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-25,2021-04-26,NA
+14678,"Tumakuru","1204131",47,"Male","ILI","Fever","DM, HTN",2021-04-19,2021-04-25,2021-04-27,NA
+14695,"Tumakuru","1236319",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-24,2021-04-27,NA
+14766,"Tumakuru","1361194",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-04-27,NA
+14881,"Tumakuru","1234570",55,"Male","SARI","fever, cough, breathlessness","-",2021-04-20,2021-04-21,2021-04-28,NA
+14882,"Tumakuru","1234607",62,"Male","SARI","fever, cough, breathlessness","-",2021-04-22,2021-04-25,2021-04-28,NA
+14883,"Tumakuru","1234621",55,"Male","SARI","fever, cough, breathlessness","DM",2021-04-19,2021-04-24,2021-04-28,NA
+14992,"Tumakuru","1387714",65,"Female","SARI","fever, cough, breathlessness","-",2021-04-25,2021-04-25,2021-04-28,NA
+15007,"Tumakuru","1407180",50,"Female","SARI","fever, cough, breathlessness","DM, HTN",2021-04-24,2021-04-27,2021-04-28,NA
+15123,"Tumakuru","1239499",60,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-20,2021-04-24,2021-04-29,NA
+15138,"Tumakuru","1265487",42,"Male","SARI","fever, breathlessness","-",2021-04-21,2021-04-22,2021-04-29,NA
+15148,"Tumakuru","1280437",51,"Male","ILI","Fever, cough, breathlessness","-",2021-04-21,2021-04-27,2021-04-29,NA
+15155,"Tumakuru","1295571",38,"Female","SARI","Fever, cough, breathlessness","-",2021-04-20,2021-04-26,2021-04-29,NA
+15157,"Tumakuru","1297829",46,"Male","SARI","Cough, breathlessness","DM, HTN",2021-04-22,2021-04-23,2021-04-29,NA
+15158,"Tumakuru","1297873",60,"Male","SARI","fever, cough, breathlessness","-",2021-04-24,2021-04-26,2021-04-29,NA
+15162,"Tumakuru","1315785",41,"Male","ILI","Cough","DM",2021-04-23,2021-04-27,2021-04-29,NA
+15182,"Tumakuru","1342900",60,"Male","SARI","Cough, breathlessness","-",2021-04-24,2021-04-25,2021-04-29,NA
+15186,"Tumakuru","1350020",65,"Female","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-28,2021-04-29,NA
+15367,"Tumakuru","1285868",52,"Male","ILI","Fever, cough","-",2021-04-26,2021-04-27,2021-04-30,NA
+15377,"Tumakuru","1295621",54,"Male","ILI","Fever, cough","DM, HTN",2021-04-22,2021-04-27,2021-04-30,NA
+15383,"Tumakuru","1306238",27,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-04-28,2021-04-30,NA
+15388,"Tumakuru","1318224",21,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-29,2021-04-30,NA
+15432,"Tumakuru","1400580",50,"Female","ILI","Fever, cough","-",2021-04-26,2021-04-26,2021-04-30,NA
+15475,"Tumakuru","1469306",47,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-24,2021-04-28,2021-04-30,NA
+15634,"Tumakuru","1325747",75,"Male","ILI","Fever, Cough","-",2021-04-24,2021-04-27,2021-05-01,NA
+15635,"Tumakuru","1325791",60,"Female","ILI","Fever, Cough","-",2021-04-26,2021-04-30,2021-05-01,NA
+15648,"Tumakuru","1346763",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-21,2021-04-28,2021-05-01,NA
+15693,"Tumakuru","1414935",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-01,NA
+15706,"Tumakuru","1428619",66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-27,2021-05-01,NA
+15721,"Tumakuru","1457881",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-28,2021-05-01,NA
+15738,"Tumakuru","1497237",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-04-30,2021-05-01,NA
+15739,"Tumakuru","1497363",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-26,2021-05-01,NA
+15742,"Tumakuru","1499815",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-05-01,NA
+15751,"Tumakuru","1514634",43,"Female","SARI","Cough, Breathlessness","-",2021-04-26,2021-04-27,2021-05-01,NA
+15763,"Tumakuru","1535004",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-28,2021-05-01,NA
+15768,"Tumakuru","1541462",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-28,2021-05-01,NA
+15843,"Tumakuru","1285902",70,"Male","SARI","Breathlessness","DM, HTN",2021-04-22,2021-04-27,2021-05-02,NA
+15844,"Tumakuru","1288396",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-22,2021-04-27,2021-05-02,NA
+15854,"Tumakuru","1325730",80,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-04-27,2021-05-02,NA
+15855,"Tumakuru","1325812",49,"Male","ILI","Fever, Cough","-",2021-04-24,2021-04-26,2021-05-02,NA
+15888,"Tumakuru","1389668",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-05-02,NA
+15908,"Tumakuru","1417968",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-26,2021-05-02,NA
+15916,"Tumakuru","1436927",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-26,2021-05-02,NA
+15932,"Tumakuru","1484041",64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-27,2021-05-02,NA
+15945,"Tumakuru","1514788",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-02,NA
+15955,"Tumakuru","1537726",85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-05-02,NA
+15956,"Tumakuru","1537730",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-05-02,NA
+15964,"Tumakuru","1552756",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-01,2021-05-02,NA
+16003,"Tumakuru","1625842",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-02,NA
+16085,"Tumakuru","1352729",48,"Male","SARI","Fever, cough, breathlessness","-",2021-04-27,2021-04-29,2021-05-03,NA
+16104,"Tumakuru","1387342",47,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-30,2021-05-02,2021-05-03,NA
+16105,"Tumakuru","1387502",47,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-25,2021-04-27,2021-05-03,NA
+16112,"Tumakuru","1397554",60,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-25,2021-05-03,2021-05-03,NA
+16169,"Tumakuru","1499874",55,"Male","ILI","Fever","IHD",2021-04-28,2021-04-28,2021-05-03,NA
+16174,"Tumakuru","1505523",53,"Male","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-04-29,2021-05-03,NA
+16175,"Tumakuru","1509308",45,"Female","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-05-01,2021-05-03,NA
+16195,"Tumakuru","1545026",43,"Male","SARI","Fever, cough, breathlessness","-",NA,2021-04-29,2021-05-03,"Brought dead"
+16330,"Tumakuru","1271600",60,"Female","ILI","Fever","DM, HTN",2021-04-16,2021-04-22,2021-05-04,NA
+16331,"Tumakuru","1290620",40,"Male","SARI","Cough, Breathlessness","DM",2021-04-24,2021-05-04,2021-05-04,NA
+16338,"Tumakuru","1315703",76,"Male","ILI","Fever","DM, HTN",2021-04-29,2021-05-01,2021-05-04,NA
+16369,"Tumakuru","1407273",50,"Female","ILI","Fever","-",2021-04-23,2021-05-02,2021-05-04,NA
+16374,"Tumakuru","1418002",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-03,2021-05-04,NA
+16432,"Tumakuru","1548691",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-04-29,2021-05-04,NA
+16434,"Tumakuru","1552769",55,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-05-01,2021-05-04,NA
+16455,"Tumakuru","1590986",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-25,2021-04-30,2021-05-04,NA
+16461,"Tumakuru","1597380",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-04,NA
+16463,"Tumakuru","1603147",54,"Male","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16484,"Tumakuru","1629120",65,"Female","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-01,2021-05-04,NA
+16485,"Tumakuru","1629132",40,"Female","SARI","Cough, Breathlessness","-",2021-04-29,2021-04-30,2021-05-04,NA
+16515,"Tumakuru","1679750",48,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-02,2021-05-04,NA
+16536,"Tumakuru","1723140",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-04,NA
+16677,"Tumakuru","1367067",70,"Female","ILI","Fever, Cough","HTN",2021-04-24,2021-04-25,2021-05-05,NA
+16695,"Tumakuru","1407291",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-03,2021-05-05,NA
+16711,"Tumakuru","1448162",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-03,2021-05-05,NA
+16712,"Tumakuru","1451116",71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-01,2021-05-05,NA
+16731,"Tumakuru","1489045",80,"Male","ILI","Fever","DM",2021-04-27,2021-05-03,2021-05-05,NA
+16736,"Tumakuru","1494176",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-01,2021-05-05,NA
+16774,"Tumakuru","1548649",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-01,2021-05-05,NA
+16780,"Tumakuru","1558692",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-03,2021-05-05,NA
+16783,"Tumakuru","1569086",56,"Male","ILI","Cough","DM",2021-04-23,2021-05-04,2021-05-05,NA
+16813,"Tumakuru","1635486",14,"Male","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-05,NA
+16817,"Tumakuru","1644341",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-05-05,NA
+16865,"Tumakuru","1738155",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-03,2021-05-05,NA
+16930,"Tumakuru","1295553",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-05,2021-05-06,NA
+16964,"Tumakuru","1382372",60,"Female","ILI","Fever","-",2021-04-26,2021-04-30,2021-05-06,NA
+17028,"Tumakuru","1497326",65,"Male","ILI","Fever","DM, HTN",2021-04-26,2021-05-02,2021-05-06,NA
+17031,"Tumakuru","1502483",37,"Male","SARI","Cough, Breathlessness","DM",2021-04-30,2021-05-04,2021-05-06,NA
+17036,"Tumakuru","1509170",66,"Male","ILI","Fever, Cough","-",2021-05-03,2021-05-04,2021-05-06,NA
+17040,"Tumakuru","1514782",70,"Male","SARI","Breathlessness","DM",2021-04-28,2021-05-05,2021-05-06,NA
+17084,"Tumakuru","1580246",65,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-01,2021-05-06,NA
+17110,"Tumakuru","1618892",62,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-06,NA
+17133,"Tumakuru","1647399",66,"Female","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-03,2021-05-06,NA
+17165,"Tumakuru","1715897",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-04,2021-05-06,NA
+17176,"Tumakuru","1735242",25,"Female","ILI","Fever","-",2021-05-02,2021-05-02,2021-05-06,NA
+17196,"Tumakuru","1773351",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-06,NA
+17198,"Tumakuru","1783912",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-05,2021-05-06,NA
+17214,"Tumakuru","1840760",54,"Male","ILI","Fever, Cough","DM, HTN",2021-05-03,2021-05-05,2021-05-06,NA
+17348,"Tumakuru","1325639",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-03,2021-05-07,NA
+17392,"Tumakuru","1382456",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-05-02,2021-05-07,NA
+17397,"Tumakuru","1387702",52,"Male","ILI","Cough","-",2021-04-29,2021-05-05,2021-05-07,NA
+17399,"Tumakuru","1389625",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-27,2021-05-07,NA
+17401,"Tumakuru","1391387",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-06,2021-05-07,NA
+17422,"Tumakuru","1430621",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-28,2021-05-07,NA
+17451,"Tumakuru","1463909",85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-03,2021-05-07,NA
+17480,"Tumakuru","1497262",37,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-04-29,2021-05-07,NA
+17508,"Tumakuru","1525057",49,"Male","SARI","Cough, Breathlessness","-",2021-04-29,2021-05-05,2021-05-07,NA
+17602,"Tumakuru","1622304",48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-06,2021-05-07,NA
+17609,"Tumakuru","1629137",43,"Male","ILI","Fever","DM",2021-04-29,2021-05-04,2021-05-07,NA
+17716,"Tumakuru","1738138",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-07,NA
+17791,"Tumakuru","1846116",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17792,"Tumakuru","1848327",67,"Male","ILI","Fever, Cough","HTN",2021-05-04,2021-05-05,2021-05-07,NA
+17802,"Tumakuru","1873983",58,"Male","ILI","Fever, Cough","-",2021-05-05,2021-05-06,2021-05-07,NA
+17993,"Tumakuru","1407369",54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-05-07,2021-05-08,NA
+18021,"Tumakuru","1448166",47,"Male","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-02,2021-05-08,NA
+18041,"Tumakuru","1497386",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-04,2021-05-08,NA
+18062,"Tumakuru","1537720",72,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-29,2021-05-02,2021-05-08,NA
+18120,"Tumakuru","1625767",58,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-06,2021-05-08,NA
+18127,"Tumakuru","1647436",30,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-05,2021-05-08,NA
+18154,"Tumakuru","1679769",67,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-08,NA
+18193,"Tumakuru","1753645",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-04,2021-05-08,NA
+18225,"Tumakuru","1816380",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-08,NA
+18246,"Tumakuru","1848878",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-03,2021-05-08,NA
+18251,"Tumakuru","1858370",60,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-06,2021-05-08,NA
+18253,"Tumakuru","1862088",61,"Female","SARI","Breathlessness","DM",2021-05-02,2021-05-05,2021-05-08,NA
+18486,"Tumakuru","1525055",48,"Male","SARI","Cough, Breathlessness","-",2021-04-26,2021-04-29,2021-05-09,NA
+18491,"Tumakuru","1535022",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-03,2021-05-09,NA
+18504,"Tumakuru","1555782",71,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-05-09,NA
+18612,"Tumakuru","1723296",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-06,2021-05-09,NA
+18626,"Tumakuru","1747578",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-09,NA
+18642,"Tumakuru","1765991",40,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-09,NA
+18647,"Tumakuru","1783955",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-09,NA
+18650,"Tumakuru","1792856",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-05-09,NA
+18651,"Tumakuru","1793754",55,"Male","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-09,NA
+18706,"Tumakuru","1865945",50,"Female","ILI","Fever","DM",2021-05-04,2021-05-08,2021-05-09,NA
+18716,"Tumakuru","1888159",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18717,"Tumakuru","1888170",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18723,"Tumakuru","1898676",69,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-09,2021-05-09,NA
+18725,"Tumakuru","1903202",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-06,2021-05-09,NA
+18730,"Tumakuru","1909291",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-08,2021-05-09,NA
+18744,"Tumakuru","1927461",72,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18771,"Tumakuru","1954665",50,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-08,2021-05-09,2021-05-09,NA
+18937,"Tumakuru","1433677",58,"Female","ILI","Fever","-",2021-05-06,2021-05-06,2021-05-10,NA
+19094,"Tumakuru","1584092",51,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-05,2021-05-10,NA
+19174,"Tumakuru","1683556",51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-04,2021-05-10,NA
+19186,"Tumakuru","1715845",57,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-07,2021-05-10,NA
+19229,"Tumakuru","1798661",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-10,2021-05-10,NA
+19246,"Tumakuru","1812216",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-10,NA
+19261,"Tumakuru","1827515",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-10,NA
+19264,"Tumakuru","1834262",30,"Male","ILI","Fever, cough","-",2021-05-05,2021-05-05,2021-05-10,NA
+19266,"Tumakuru","1840761",30,"Female","ILI","Fever, Cough","-",2021-05-04,2021-05-08,2021-05-10,NA
+19278,"Tumakuru","1862067",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-08,2021-05-10,NA
+19298,"Tumakuru","1888288",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-10,NA
+19319,"Tumakuru","1915710",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-10,NA
+19355,"Tumakuru","1984780",35,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-09,2021-05-10,NA
+19356,"Tumakuru","1985010",51,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-10,2021-05-10,NA
+19357,"Tumakuru","1985157",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-05,2021-05-10,NA
+19560,"Tumakuru","1509127",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-04,2021-05-04,2021-05-11,NA
+19569,"Tumakuru","1561441",38,"Female","SARI","Cough, breathlessness","-",2021-04-25,2021-05-09,2021-05-11,NA
+19575,"Tumakuru","1597430",50,"Female","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-07,2021-05-11,NA
+19578,"Tumakuru","1605497",45,"Male","ILI","Fever, cough","-",2021-05-04,2021-05-08,2021-05-11,NA
+19582,"Tumakuru","1629148",58,"Female","SARI","Breathlessness","DM",2021-05-01,2021-05-05,2021-05-11,NA
+19584,"Tumakuru","1641773",59,"Female","ILI","Fever","-",2021-05-01,2021-05-08,2021-05-11,NA
+19605,"Tumakuru","1702464",60,"Female","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-10,2021-05-11,NA
+19660,"Tumakuru","1765979",60,"Male","ILI","Fever","DM, HTN",2021-05-04,2021-05-05,2021-05-11,NA
+19661,"Tumakuru","1765980",70,"Female","ILI","Fever, cough","-",2021-05-04,2021-05-05,2021-05-11,NA
+19673,"Tumakuru","1784076",43,"Male","ILI","Fever","-",2021-05-04,2021-05-05,2021-05-11,NA
+19689,"Tumakuru","1802301",65,"Female","SARI","Fever, breathlessness","-",2021-05-05,2021-05-05,2021-05-11,NA
+19699,"Tumakuru","1812241",45,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-04,2021-05-09,2021-05-11,NA
+19756,"Tumakuru","1882153",34,"Male","ILI","Fever, cough","DM",2021-05-05,2021-05-08,2021-05-11,NA
+19757,"Tumakuru","1882155",67,"Male","ILI","Fever, cough","DM, HTN",2021-05-05,2021-05-07,2021-05-11,NA
+19769,"Tumakuru","1898686",65,"Female","ILI","Fever","DM",2021-05-06,2021-05-10,2021-05-11,NA
+19820,"Tumakuru","1974369",35,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-11,NA
+19906,"Tumakuru","1491575",78,"Female","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-09,2021-05-12,NA
+19929,"Tumakuru","1587774",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-03,2021-05-12,NA
+19998,"Tumakuru","1692260",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-02,2021-05-12,NA
+20081,"Tumakuru","1773335",16,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-12,2021-05-12,NA
+20087,"Tumakuru","1776965",65,"Male","ILI","Fever, Cough","DM, HTN",2021-05-03,2021-05-09,2021-05-12,NA
+20145,"Tumakuru","1816408",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-12,NA
+20162,"Tumakuru","1837744",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-11,2021-05-12,NA
+20181,"Tumakuru","1861986",56,"Male","SARI","Fever, Breathlessness","DM",2021-05-07,2021-05-09,2021-05-12,NA
+20192,"Tumakuru","1869543",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-12,NA
+20243,"Tumakuru","1915917",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-12,NA
+20248,"Tumakuru","1922749",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-12,NA
+20311,"Tumakuru","2001322",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-12,NA
+20324,"Tumakuru","2014691",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-10,2021-05-12,NA
+20338,"Tumakuru","2033246",66,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-12,NA
+20479,"Tumakuru","1632359",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-04,2021-05-13,NA
+20525,"Tumakuru","1747457",55,"Female","SARI","Fever, Breathlessness","-",2021-04-28,2021-05-01,2021-05-13,NA
+20558,"Tumakuru","1837857",70,"Female","ILI","Fever, Cough","HTN",2021-05-07,2021-05-11,2021-05-13,NA
+20559,"Tumakuru","1837887",52,"Female","SARI","Fever, Breathlessness","DM",2021-05-07,2021-05-12,2021-05-13,NA
+20580,"Tumakuru","1891248",70,"Female","ILI","Fever, Cough","DM",2021-05-08,2021-05-12,2021-05-13,NA
+20596,"Tumakuru","1927518",74,"Male","ILI","Fever, Cough","DM, HTN",2021-05-06,2021-05-08,2021-05-13,NA
+20612,"Tumakuru","1960500",77,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-11,2021-05-13,NA
+20620,"Tumakuru","1981880",52,"Female","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-12,2021-05-13,NA
+20631,"Tumakuru","2001328",36,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-09,2021-05-13,NA
+20636,"Tumakuru","2005740",60,"Male","ILI","Fever, Cough","-",2021-05-08,2021-05-11,2021-05-13,NA
+20667,"Tumakuru","2044257",82,"Male","ILI","Fever, Cough","HTN",2021-05-09,2021-05-09,2021-05-13,NA
+20800,"Tumakuru","1616667",46,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-11,2021-05-14,NA
+20828,"Tumakuru","1723277",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-01,2021-05-03,2021-05-14,NA
+20830,"Tumakuru","1726328",55,"Male","ILI","Fever, Cough","-",2021-04-23,2021-05-03,2021-05-14,NA
+20834,"Tumakuru","1740053",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-13,2021-05-14,NA
+20842,"Tumakuru","1757693",50,"Female","ILI","Fever, Cough","DM",2021-05-06,2021-05-10,2021-05-14,NA
+20845,"Tumakuru","1773353",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-04,2021-05-14,NA
+20846,"Tumakuru","1773371",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-04,2021-05-14,NA
+20864,"Tumakuru","1812160",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-12,2021-05-14,NA
+20871,"Tumakuru","1837845",47,"Female","SARI","Fever, Cough, Breathlessness","Hypothyroidism",2021-05-06,2021-05-13,2021-05-14,NA
+20904,"Tumakuru","1909262",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-10,2021-05-14,NA
+20921,"Tumakuru","1950085",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-12,2021-05-14,NA
+20935,"Tumakuru","1970543",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-12,2021-05-14,NA
+20958,"Tumakuru","2011608",55,"Female","SARI","Fever, Cough, Breathlessness","HTN, CLD",2021-05-08,2021-05-10,2021-05-14,NA
+20960,"Tumakuru","2014709",32,"Male","ILI","Fever","-",2021-05-09,2021-05-11,2021-05-14,NA
+20990,"Tumakuru","2049817",70,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2021-05-10,2021-05-10,2021-05-14,NA
+20991,"Tumakuru","2050104",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-10,2021-05-14,NA
+20995,"Tumakuru","2052931",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-14,NA
+20996,"Tumakuru","2052968",50,"Male","SARI","Breathlessness","CA",2021-05-11,2021-05-12,2021-05-14,NA
+21023,"Tumakuru","2094067",75,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-05-05,2021-05-06,2021-05-14,NA
+21173,"Tumakuru","1715886",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-13,2021-05-15,NA
+21184,"Tumakuru","1747309",45,"Female","SARI","Cough, Breathlessness","DM",2021-05-09,2021-05-13,2021-05-15,NA
+21186,"Tumakuru","1748868",79,"Male","ILI","Fever, Cough","DM",2021-05-11,2021-05-12,2021-05-15,NA
+21193,"Tumakuru","1762167",59,"Male","ILI","Fever, Cough","DM",2021-05-02,2021-05-13,2021-05-15,NA
+21217,"Tumakuru","1823897",61,"Male","ILI","Fever, Cough","DM, HTN",2021-05-06,2021-05-12,2021-05-15,NA
+21237,"Tumakuru","1885066",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21247,"Tumakuru","1898776",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-15,NA
+21254,"Tumakuru","1912376",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-15,NA
+21269,"Tumakuru","1960498",48,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-12,2021-05-15,NA
+21271,"Tumakuru","1964156",45,"Male","ILI","Fever","-",2021-05-07,2021-05-13,2021-05-15,NA
+21290,"Tumakuru","2003390",68,"Male","ILI","Fever","DM",2021-05-08,2021-05-13,2021-05-15,NA
+21316,"Tumakuru","2049918",80,"Male","ILI","Fever, Cough","HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21321,"Tumakuru","2058671",86,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-11,2021-05-15,NA
+21339,"Tumakuru","2078220",40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-14,2021-05-15,NA
+21345,"Tumakuru","2081160",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-15,NA
+21354,"Tumakuru","2094360",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-15,NA
+21355,"Tumakuru","2094600",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-15,NA
+21370,"Tumakuru","2116743",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-14,2021-05-15,NA
+21564,"Tumakuru","1686602",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-16,NA
+21640,"Tumakuru","1940406",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-16,NA
+21658,"Tumakuru","1967118",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-13,2021-05-16,NA
+21709,"Tumakuru","2049777",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-16,NA
+21712,"Tumakuru","2052942",72,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-14,2021-05-16,NA
+21732,"Tumakuru","2072356",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-16,NA
+21762,"Tumakuru","2120239",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-13,2021-05-16,NA
+21769,"Tumakuru","2131804",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-13,2021-05-16,NA
+21774,"Tumakuru","2138573",28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-16,NA
+21796,"Tumakuru","2166834",73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-16,NA
+21823,"Tumakuru","2212872",52,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-13,2021-05-16,NA
+22023,"Tumakuru","1808706",37,"Male","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-17,NA
+22054,"Tumakuru","1909283",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-17,NA
+22075,"Tumakuru","1950110",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-17,NA
+22087,"Tumakuru","1974610",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-14,2021-05-17,NA
+22101,"Tumakuru","2001326",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-05-17,NA
+22105,"Tumakuru","2003371",60,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-14,2021-05-17,NA
+22107,"Tumakuru","2008546",54,"Female","ILI","Fever, Cough","HTN",2021-05-08,2021-05-13,2021-05-17,NA
+22111,"Tumakuru","2014737",36,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-17,NA
+22127,"Tumakuru","2041662",29,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-17,NA
+22144,"Tumakuru","2076616",65,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-17,NA
+22177,"Tumakuru","2117955",88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-16,2021-05-17,NA
+22203,"Tumakuru","2149381",65,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-13,2021-05-17,NA
+22222,"Tumakuru","2180342",65,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-15,2021-05-17,NA
+22302,"Tumakuru","2271360",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-13,2021-05-16,2021-05-17,NA
+22565,"Tumakuru","1855492",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-15,2021-05-18,NA
+22577,"Tumakuru","1891626",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-14,2021-05-18,NA
+22580,"Tumakuru","1898682",72,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-16,2021-05-18,NA
+22595,"Tumakuru","1934822",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-15,2021-05-18,NA
+22607,"Tumakuru","1964163",43,"Male","ILI","Fever","-",2021-05-06,2021-05-15,2021-05-18,NA
+22627,"Tumakuru","2011629",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-18,NA
+22651,"Tumakuru","2047095",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-16,2021-05-18,NA
+22660,"Tumakuru","2055786",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-18,NA
+22685,"Tumakuru","2106194",40,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-14,2021-05-18,NA
+22712,"Tumakuru","2138638",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-18,NA
+22723,"Tumakuru","2151310",55,"Male","ILI","Fever","HTN",2021-05-10,2021-05-16,2021-05-18,NA
+22748,"Tumakuru","2180343",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-13,2021-05-17,2021-05-18,NA
+22755,"Tumakuru","2189838",60,"Male","ILI","Fever, Cough","HTN",2021-05-12,2021-05-14,2021-05-18,NA
+22768,"Tumakuru","2206461",84,"Male","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-15,2021-05-18,NA
+22769,"Tumakuru","2206524",34,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-16,2021-05-18,NA
+23028,"Tumakuru","1877847",50,"Male","SARI","Breathlessness","DM",2021-05-09,2021-05-16,2021-05-19,NA
+23054,"Tumakuru","1945805",42,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-17,2021-05-19,NA
+23059,"Tumakuru","1964220",60,"Male","SARI","Breathlessness","DM",2021-05-08,2021-05-13,2021-05-19,NA
+23061,"Tumakuru","1967177",73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-19,NA
+23066,"Tumakuru","1970547",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-16,2021-05-19,NA
+23073,"Tumakuru","1998661",45,"Female","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-15,2021-05-19,NA
+23104,"Tumakuru","2055816",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-19,NA
+23129,"Tumakuru","2094290",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-15,2021-05-19,NA
+23130,"Tumakuru","2094380",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-17,2021-05-19,NA
+23131,"Tumakuru","2094597",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-17,2021-05-19,NA
+23157,"Tumakuru","2138907",62,"Male","SARI","Breathlessness","DM",2021-05-13,2021-05-16,2021-05-19,NA
+23183,"Tumakuru","2161348",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-19,NA
+23200,"Tumakuru","2177739",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-19,NA
+23215,"Tumakuru","2196429",54,"Male","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-19,NA
+23223,"Tumakuru","2206506",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-19,NA
+23225,"Tumakuru","2213003",54,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-17,2021-05-19,NA
+23241,"Tumakuru","2236922",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-19,NA
+23253,"Tumakuru","2247575",23,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-19,NA
+23256,"Tumakuru","2258787",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-16,2021-05-19,NA
+23543,"Tumakuru","1869538",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-20,NA
+23552,"Tumakuru","1888068",54,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-18,2021-05-20,NA
+23553,"Tumakuru","1891275",65,"Male","ILI","Cough","DM",2021-05-09,2021-05-19,2021-05-20,NA
+23562,"Tumakuru","1915918",58,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-14,2021-05-20,NA
+23618,"Tumakuru","2044249",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-10,2021-05-20,NA
+23623,"Tumakuru","2052909",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-20,NA
+23624,"Tumakuru","2052913",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-20,NA
+23627,"Tumakuru","2058616",23,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-13,2021-05-20,NA
+23648,"Tumakuru","2094267",65,"Male","ILI","Cough","-",2021-05-11,2021-05-14,2021-05-20,NA
+23649,"Tumakuru","2094660",50,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-17,2021-05-20,NA
+23680,"Tumakuru","2128154",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-20,NA
+23681,"Tumakuru","2128260",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-18,2021-05-20,NA
+23687,"Tumakuru","2139043",55,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-05-20,NA
+23705,"Tumakuru","2164122",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-20,NA
+23715,"Tumakuru","2180344",68,"Female","SARI","Fever, Breathlessness","DM",2021-05-14,2021-05-19,2021-05-20,NA
+23728,"Tumakuru","2203471",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-18,2021-05-20,NA
+23735,"Tumakuru","2212964",30,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-19,2021-05-20,NA
+23736,"Tumakuru","2212997",70,"Female","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-20,NA
+23763,"Tumakuru","2247480",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-05-20,NA
+23799,"Tumakuru","2287282",39,"Female","SARI","Cough, Breathlessness","HTN",2021-05-17,2021-05-18,2021-05-20,NA
+23957,"Tumakuru","1984778",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-14,2021-05-21,NA
+23963,"Tumakuru","2005739",55,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-20,2021-05-21,NA
+23964,"Tumakuru","2005755",34,"Male","SARI","Breathlessness","DM",2021-05-09,2021-05-14,2021-05-21,NA
+23966,"Tumakuru","2008520",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-18,2021-05-21,NA
+23974,"Tumakuru","2031018",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-21,NA
+24003,"Tumakuru","2094291",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-11,2021-05-21,NA
+24024,"Tumakuru","2131851",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-21,NA
+24029,"Tumakuru","2138648",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-21,NA
+24039,"Tumakuru","2151316",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-15,2021-05-21,NA
+24057,"Tumakuru","2182947",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-21,NA
+24067,"Tumakuru","2192477",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-21,NA
+24073,"Tumakuru","2206551",68,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-21,NA
+24089,"Tumakuru","2238692",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-19,2021-05-21,NA
+24091,"Tumakuru","2240392",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-21,NA
+24111,"Tumakuru","2258283",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-21,NA
+24156,"Tumakuru","2318103",48,"Male","ILI","Fever, Cough","DM",2021-05-17,2021-05-19,2021-05-21,NA
+24463,"Tumakuru","1974230",73,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-07,2021-05-22,NA
+24467,"Tumakuru","2005744",80,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-18,2021-05-22,NA
+24470,"Tumakuru","2014735",40,"Female","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-11,2021-05-22,NA
+24479,"Tumakuru","2052940",32,"Male","ILI","Cough","-",2021-05-18,2021-05-21,2021-05-22,NA
+24482,"Tumakuru","2071101",52,"Male","ILI","Cough","-",2021-05-18,2021-05-21,2021-05-22,NA
+24486,"Tumakuru","2081320",39,"Male","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-22,NA
+24491,"Tumakuru","2109369",50,"Female","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-18,2021-05-22,NA
+24517,"Tumakuru","2177185",53,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-20,2021-05-22,NA
+24529,"Tumakuru","2206463",37,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-20,2021-05-22,NA
+24545,"Tumakuru","2247756",55,"Female","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-19,2021-05-22,NA
+24553,"Tumakuru","2273250",50,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-20,2021-05-22,NA
+24558,"Tumakuru","2277921",52,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-16,2021-05-22,NA
+24559,"Tumakuru","2280064",30,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-16,2021-05-22,NA
+24595,"Tumakuru","2342279",65,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-18,2021-05-22,NA
+24602,"Tumakuru","2347378",60,"Female","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-19,2021-05-22,NA
+24606,"Tumakuru","2350252",62,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-22,NA
+24635,"Tumakuru","2399253",45,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-21,2021-05-22,NA
+24641,"Tumakuru","2409454",45,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-21,2021-05-22,NA
+24967,"Tumakuru","2050111",55,"Male","SARI","Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-23,NA
+25026,"Tumakuru","2124718",35,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-20,2021-05-23,NA
+25035,"Tumakuru","2138778",73,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-18,2021-05-23,NA
+25055,"Tumakuru","2177533",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-20,2021-05-23,NA
+25105,"Tumakuru","2247699",37,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-19,2021-05-23,NA
+25133,"Tumakuru","2280063",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-23,NA
+25155,"Tumakuru","2306282",42,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-22,2021-05-23,NA
+25172,"Tumakuru","2331451",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-23,NA
+25174,"Tumakuru","2333568",64,"Male","ILI","Fever","-",2021-05-18,2021-05-19,2021-05-23,NA
+25180,"Tumakuru","2345252",33,"Male","ILI","Fever, Cough","DM",2021-05-17,2021-05-20,2021-05-23,NA
+25202,"Tumakuru","2365786",70,"Male","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-19,2021-05-23,NA
+25242,"Tumakuru","2402126",32,"Male","SARI","Breathlessness","DM, HTN",2021-05-20,2021-05-21,2021-05-23,NA
+25252,"Tumakuru","2414222",51,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25577,"Tumakuru","2163985",60,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-23,2021-05-24,NA
+25588,"Tumakuru","2187536",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-23,2021-05-24,NA
+25604,"Tumakuru","2218661",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25673,"Tumakuru","2329457",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-24,NA
+25674,"Tumakuru","2329461",38,"Male","SARI","Fever, Breathlessness","CKD",2021-05-18,2021-05-23,2021-05-24,NA
+25691,"Tumakuru","2350255",67,"Male","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-23,2021-05-24,NA
+25723,"Tumakuru","2384774",64,"Male","SARI","Cough, Breathlessness","DM",2021-05-18,2021-05-18,2021-05-24,NA
+25756,"Tumakuru","2425712",74,"Female","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-22,2021-05-24,NA
+25809,"Tumakuru","2476043",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-22,2021-05-24,2021-05-24,NA
+25810,"Tumakuru","2476045",45,"Female","ILI","Fever","-",2021-05-22,2021-05-24,2021-05-24,NA
+25815,"Tumakuru","2484180",36,"Male","SARI","Cough, Breathlessness","DM",2021-05-22,2021-05-24,2021-05-24,NA
+26167,"Tumakuru","2158623",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-22,2021-05-25,NA
+26168,"Tumakuru","2158632",82,"Male","ILI","Fever, Cough","DM, HTN",2021-05-20,2021-05-24,2021-05-25,NA
+26176,"Tumakuru","2177536",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-13,2021-05-25,NA
+26178,"Tumakuru","2189834",67,"Male","ILI","Fever","DM, HTN",2021-05-14,2021-05-24,2021-05-25,NA
+26191,"Tumakuru","2213030",70,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-18,2021-05-22,2021-05-25,NA
+26209,"Tumakuru","2247766",70,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-23,2021-05-25,NA
+26226,"Tumakuru","2282773",60,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-05-21,2021-05-24,2021-05-25,NA
+26261,"Tumakuru","2329406",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-21,2021-05-25,NA
+26270,"Tumakuru","2333928",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-25,NA
+26277,"Tumakuru","2358507",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-19,2021-05-25,NA
+26287,"Tumakuru","2370784",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-25,NA
+26343,"Tumakuru","2429005",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-23,2021-05-25,NA
+26344,"Tumakuru","2431581",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-25,NA
+26386,"Tumakuru","2489859",80,"Female","SARI","Fever, Breathlessness","HTN",2021-05-16,2021-05-24,2021-05-25,NA
+26710,"Tumakuru","2101399",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-19,2021-05-26,NA
+26743,"Tumakuru","2203475",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-14,2021-05-26,NA
+26744,"Tumakuru","2206554",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-26,NA
+26755,"Tumakuru","2245228",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-23,2021-05-26,NA
+26766,"Tumakuru","2277941",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-26,NA
+26771,"Tumakuru","2287304",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-22,2021-05-26,NA
+26807,"Tumakuru","2361245",26,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-20,2021-05-26,NA
+26854,"Tumakuru","2431590",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-26,NA
+26865,"Tumakuru","2449920",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26876,"Tumakuru","2472431",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-26,NA
+26882,"Tumakuru","2475835",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26883,"Tumakuru","2475984",74,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-26,NA
+26885,"Tumakuru","2480277",85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-26,NA
+26919,"Tumakuru","2518922",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-23,2021-05-26,NA
+27218,"Tumakuru","2290200",55,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-24,2021-05-26,2021-05-27,NA
+27219,"Tumakuru","2290269",67,"Male","ILI","Fever, cough","-",2021-05-16,2021-05-23,2021-05-27,NA
+27232,"Tumakuru","2308430",65,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-20,2021-05-27,NA
+27253,"Tumakuru","2327145",58,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-25,2021-05-27,NA
+27272,"Tumakuru","2359739",60,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-27,NA
+27301,"Tumakuru","2409555",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-19,2021-05-25,2021-05-27,NA
+27309,"Tumakuru","2422681",55,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-21,2021-05-21,2021-05-27,NA
+27320,"Tumakuru","2431667",60,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-23,2021-05-24,2021-05-27,NA
+27327,"Tumakuru","2439728",62,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-05-27,NA
+27345,"Tumakuru","2459549",70,"Female","SARI","Fever, Breathlessness","DM",2021-05-22,2021-05-27,2021-05-27,NA
+27367,"Tumakuru","2486054",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-24,2021-05-25,2021-05-27,NA
+27370,"Tumakuru","2489571",70,"Male","SARI","Fever, cough, breathlessness","-",2021-05-22,2021-05-25,2021-05-27,NA
+27376,"Tumakuru","2498986",58,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-24,2021-05-27,2021-05-27,NA
+27385,"Tumakuru","2514168",50,"Male","ILI","Fever","DM,  HTN, CKD",2021-05-22,2021-05-26,2021-05-27,NA
+27627,"Tumakuru","2310900",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-22,2021-05-28,NA
+27674,"Tumakuru","2387229",42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-25,2021-05-28,NA
+27678,"Tumakuru","2402233",44,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-26,2021-05-28,NA
+27679,"Tumakuru","2404358",46,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-20,2021-05-25,2021-05-28,NA
+27688,"Tumakuru","2425693",47,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-23,2021-05-28,NA
+27709,"Tumakuru","2449896",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-28,NA
+27716,"Tumakuru","2472315",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-28,NA
+27723,"Tumakuru","2476003",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-26,2021-05-28,NA
+27724,"Tumakuru","2476040",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-27,2021-05-28,NA
+27729,"Tumakuru","2482370",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-05-28,NA
+27734,"Tumakuru","2498985",41,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-26,2021-05-28,NA
+27735,"Tumakuru","2499074",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-26,2021-05-28,NA
+27764,"Tumakuru","2530873",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-28,NA
+27765,"Tumakuru","2530972",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-26,2021-05-28,NA
+27806,"Tumakuru","2579317",32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-28,NA
+28066,"Tumakuru","2345183",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-26,2021-05-29,NA
+28099,"Tumakuru","2378062",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-26,2021-05-29,NA
+28113,"Tumakuru","2399288",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-23,2021-05-29,NA
+28114,"Tumakuru","2402228",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-29,NA
+28124,"Tumakuru","2414224",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-25,2021-05-29,NA
+28127,"Tumakuru","2419799",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-24,2021-05-26,2021-05-29,NA
+28174,"Tumakuru","2472257",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-26,2021-05-29,NA
+28194,"Tumakuru","2489841",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-05-29,NA
+28216,"Tumakuru","2507122",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-26,2021-05-29,NA
+28217,"Tumakuru","2509294",95,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-28,2021-05-29,NA
+28263,"Tumakuru","2552684",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-27,2021-05-29,NA
+28268,"Tumakuru","2560501",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-27,2021-05-29,NA
+28279,"Tumakuru","2574233",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-05-29,NA
+28520,"Tumakuru","2373186",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-27,2021-05-30,NA
+28548,"Tumakuru","2411775",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-24,2021-05-30,NA
+28568,"Tumakuru","2427315",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-28,2021-05-30,NA
+28573,"Tumakuru","2437343",36,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-28,2021-05-30,NA
+28625,"Tumakuru","2526770",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-27,2021-05-30,NA
+28628,"Tumakuru","2530887",27,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-30,NA
+28638,"Tumakuru","2552445",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-24,2021-05-27,2021-05-30,NA
+28671,"Tumakuru","2598913",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-28,2021-05-30,NA
+28940,"Tumakuru","2399103",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-31,2021-05-31,NA
+28941,"Tumakuru","2399299",55,"Female","ILI","Fever","-",2021-05-21,2021-05-30,2021-05-31,NA
+28955,"Tumakuru","2431609",72,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-28,2021-05-31,NA
+28971,"Tumakuru","2472382",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-26,2021-05-31,NA
+29008,"Tumakuru","2528642",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-29,2021-05-31,NA
+29023,"Tumakuru","2550770",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-31,NA
+29024,"Tumakuru","2550771",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-31,NA
+29036,"Tumakuru","2571538",70,"Female","SARI","Breathlessness","DM, HTN",2021-05-27,2021-05-29,2021-05-31,NA
+29416,"Tumakuru","2431597",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-06-01,NA
+29421,"Tumakuru","2441735",62,"Female","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-29,2021-06-01,NA
+29425,"Tumakuru","2449564",67,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-30,2021-06-01,NA
+29439,"Tumakuru","2475862",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-28,2021-06-01,NA
+29456,"Tumakuru","2508980",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-28,2021-06-01,NA
+29487,"Tumakuru","2540154",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-06-01,NA
+29520,"Tumakuru","2600610",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-05-31,2021-06-01,NA
+29522,"Tumakuru","2602394",75,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-05-30,2021-06-01,NA
+29541,"Tumakuru","2637254",52,"Male","SARI","Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29895,"Tumakuru","2509129",50,"Female","ILI","Cough","-",2021-05-24,2021-05-30,2021-06-02,NA
+29909,"Tumakuru","2525315",55,"Male","ILI","Fever, Cough","-",2021-05-26,2021-05-31,2021-06-02,NA
+29911,"Tumakuru","2528612",76,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-31,2021-06-02,NA
+29912,"Tumakuru","2528636",80,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-29,2021-05-30,2021-06-02,NA
+29913,"Tumakuru","2528646",28,"Female","SARI","Breathlessness","-",2021-05-27,2021-05-27,2021-06-02,NA
+29922,"Tumakuru","2549165",74,"Male","ILI","Fever","-",2021-05-26,2021-05-26,2021-06-02,NA
+29988,"Tumakuru","2640261",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-31,2021-06-02,NA
+30367,"Tumakuru","2503998",50,"Female","ILI","Fever, Cough","-",2021-05-28,2021-05-31,2021-06-03,NA
+30397,"Tumakuru","2533119",39,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-03,2021-06-03,NA
+30412,"Tumakuru","2552516",59,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-03,2021-06-03,NA
+30420,"Tumakuru","2571527",50,"Female","SARI","Breathlessness","-",2021-05-28,2021-06-02,2021-06-03,NA
+30449,"Tumakuru","2604306",44,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-29,2021-06-02,2021-06-03,NA
+30456,"Tumakuru","2615581",63,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-05-29,2021-06-01,2021-06-03,NA
+30487,"Tumakuru","2651624",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-02,2021-06-03,NA
+30772,"Tumakuru","2528591",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-06-04,NA
+30840,"Tumakuru","2637232",76,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-05-30,2021-06-02,2021-06-04,NA
+30855,"Tumakuru","2657657",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-05-31,2021-06-04,NA
+30865,"Tumakuru","2670383",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-04,NA
+30879,"Tumakuru","2687174",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-03,2021-06-04,NA
+30884,"Tumakuru","2690285",65,"Female","ILI","Fever","DM, CKD",2021-06-01,2021-06-02,2021-06-04,NA
+31184,"Tumakuru","2622490",70,"Female","ILI","Fever, Cough","-",2021-05-29,2021-06-04,2021-06-05,NA
+31226,"Tumakuru","2673045",70,"Female","SARI","Breathlessness","-",2021-06-01,2021-06-04,2021-06-05,NA
+31230,"Tumakuru","2680209",50,"Male","SARI","Fever, Breathlessness","-",2021-06-01,2021-06-02,2021-06-05,NA
+31241,"Tumakuru","2691728",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-02,2021-06-05,NA
+31461,"Tumakuru","2489916",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-06-05,2021-06-06,NA
+31476,"Tumakuru","2545516",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-03,2021-06-06,NA
+31488,"Tumakuru","2579362",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-26,2021-06-02,2021-06-06,NA
+31497,"Tumakuru","2602467",39,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-03,2021-06-06,NA
+31559,"Tumakuru","2701196",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-05,2021-06-06,NA
+31580,"Tumakuru","2730666",81,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-05,2021-06-06,NA
+31756,"Tumakuru","2482365",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-06-06,2021-06-07,NA
+31779,"Tumakuru","2552591",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-05,2021-06-07,NA
+31793,"Tumakuru","2579438",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-06-05,2021-06-07,NA
+31878,"Tumakuru","2694813",60,"Female","ILI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-03,2021-06-07,NA
+31976,"Tumakuru","2554685",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-27,2021-06-08,NA
+32004,"Tumakuru","2619228",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-06-05,2021-06-08,NA
+32031,"Tumakuru","2670372",80,"Female","ILI","Fever","DM, HTN",2021-06-01,2021-06-05,2021-06-08,NA
+32054,"Tumakuru","2706682",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-06-05,2021-06-08,NA
+32065,"Tumakuru","2718955",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-05,2021-06-08,NA
+32085,"Tumakuru","2732929",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-07,2021-06-08,NA
+32168,"Tumakuru","2602459",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-28,2021-05-30,2021-06-09,NA
+32216,"Tumakuru","2687006",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-07,2021-06-09,NA
+32217,"Tumakuru","2687009",60,"Female","ILI","Fever, Cough","HTN",2021-06-04,2021-06-07,2021-06-09,NA
+32245,"Tumakuru","2727226",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-06,2021-06-09,NA
+32251,"Tumakuru","2731863",67,"Male","ILI","Cough","HTN",2021-06-04,2021-06-07,2021-06-09,NA
+32252,"Tumakuru","2731867",23,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-07,2021-06-09,NA
+32253,"Tumakuru","2731869",61,"Male","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-05,2021-06-09,NA
+32258,"Tumakuru","2735263",45,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-08,2021-06-09,NA
+32370,"Tumakuru","2636540",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-06,2021-06-08,2021-06-10,NA
+32378,"Tumakuru","2644073",45,"Male","SARI","Breathlessness","DM",2021-06-07,2021-06-09,2021-06-10,NA
+32402,"Tumakuru","2684077",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-07,2021-06-10,NA
+32408,"Tumakuru","2687118",43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-09,2021-06-10,NA
+32450,"Tumakuru","2744350",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-07,2021-06-10,NA
+32530,"Tumakuru","2587675",50,"Male","SARI","Cough, Breathlessness","-",2021-05-27,2021-06-03,2021-06-11,NA
+32562,"Tumakuru","2657666",65,"Female","SARI","Cough, Breathlessness","-",2021-05-31,2021-06-04,2021-06-11,NA
+32570,"Tumakuru","2673032",58,"Male","SARI","Breathlessness","HTN",2021-06-01,2021-06-01,2021-06-11,NA
+32581,"Tumakuru","2694818",82,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-06,2021-06-11,NA
+32619,"Tumakuru","2756687",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-08,2021-06-11,NA
+32692,"Tumakuru","2624411",22,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-02,2021-06-12,NA
+32726,"Tumakuru","2691723",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-06,2021-06-12,NA
+32737,"Tumakuru","2718192",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-09,2021-06-12,NA
+32742,"Tumakuru","2721564",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-10,2021-06-12,NA
+32765,"Tumakuru","2755886",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-11,2021-06-12,NA
+32843,"Tumakuru","2691734",70,"Male","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-06,2021-06-13,NA
+32872,"Tumakuru","2744360",65,"Male","ILI","Cough","DM, HTN",2021-06-10,2021-06-11,2021-06-13,NA
+32912,"Tumakuru","2794441",65,"Male","SARI","Breathlessness","DM, HTN",2021-06-11,2021-06-13,2021-06-13,NA
+32988,"Tumakuru","2735194",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-11,2021-06-14,NA
+33001,"Tumakuru","2757484",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-11,2021-06-14,NA
+33016,"Tumakuru","2784123",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-10,2021-06-13,2021-06-14,NA
+33098,"Tumakuru","2735238",60,"Male","ILI","Fever, Cough","DM, HTN",2021-06-05,2021-06-08,2021-06-15,NA
+33112,"Tumakuru","2758728",65,"Female","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-13,2021-06-15,NA
+33114,"Tumakuru","2760249",72,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-11,2021-06-15,NA
+33221,"Tumakuru","2734274",78,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-13,2021-06-16,NA
+33270,"Tumakuru","2794144",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-13,2021-06-16,NA
+33281,"Tumakuru","2807331",83,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-12,2021-06-15,2021-06-16,NA
+33294,"Tumakuru","100000339",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-16,NA
+33298,"Tumakuru","100000556",31,"Male","SARI","Cough, Breathlessness","-",2021-06-11,2021-06-13,2021-06-16,NA
+33360,"Tumakuru","2718193",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-14,2021-06-17,NA
+33575,"Tumakuru","2820428",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-17,2021-06-18,NA
+33577,"Tumakuru","2822436",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-15,2021-06-18,NA
+33604,"Tumakuru","100000900",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-12,2021-06-15,2021-06-18,NA
+33673,"Tumakuru","2770885",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-16,2021-06-19,NA
+33748,"Tumakuru","100000376",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-17,2021-06-19,NA
+33843,"Tumakuru","2808292",47,"Male","SARI","Fever, Breathlessness","DM",2021-06-15,2021-06-17,2021-06-20,NA
+33846,"Tumakuru","2810167",48,"Female","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-15,2021-06-20,NA
+33925,"Tumakuru","2631136",74,"Female","SARI","Breathlessness","-",2021-05-29,2021-05-30,2021-06-21,NA
+33984,"Tumakuru","2802091",60,"Female","SARI","Breathlessness","DM",2021-06-11,2021-06-18,2021-06-21,NA
+34008,"Tumakuru","2841918",60,"Male","SARI","Breathlessness","DM, HTN",2021-06-18,2021-06-19,2021-06-21,NA
+34078,"Tumakuru","2762960",75,"Male","ILI","Fever, Cough","DM, HTN",2021-06-08,2021-06-15,2021-06-22,NA
+34114,"Tumakuru","2807330",42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-12,2021-06-14,2021-06-22,NA
+34116,"Tumakuru","2810165",68,"Male","SARI","Fever, Breathlessness","DM",2021-06-13,2021-06-17,2021-06-22,NA
+34118,"Tumakuru","2816399",68,"Male","ILI","Cough","-",2021-06-15,2021-06-15,2021-06-22,NA
+34160,"Tumakuru","100000863",75,"Male","ILI","Fever, Cough","DM",2021-06-11,2021-06-18,2021-06-22,NA
+34259,"Tumakuru","2841908",25,"Female","SARI","Fever, Breathlessness","Epilepsy",2021-06-18,2021-06-20,2021-06-23,NA
+34268,"Tumakuru","2850860",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-21,2021-06-23,2021-06-23,NA
+34344,"Tumakuru","2790889",48,"Male","SARI","Fever, Breathlessness","DM",2021-06-18,2021-06-20,2021-06-24,NA
+34387,"Tumakuru","2844338",45,"Male","SARI","Fever, Breathlessness","DM",2021-06-19,2021-06-23,2021-06-24,NA
+34488,"Tumakuru","2800363",70,"Female","SARI","Fever, Breathlessness","HTN",2021-06-19,2021-06-20,2021-06-25,NA
+34510,"Tumakuru","2840161",64,"Male","SARI","Breathlessness","HTN",2021-06-16,2021-06-21,2021-06-25,NA
+34536,"Tumakuru","100000499",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-24,2021-06-25,NA
+34584,"Tumakuru","2770867",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-21,2021-06-26,NA
+34592,"Tumakuru","2797304",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-13,2021-06-26,NA
+34624,"Tumakuru","2844337",23,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-24,2021-06-26,NA
+34708,"Tumakuru","2825975",55,"Female","SARI ","Fever, Breathlessness ","DM ",2021-06-24,2021-06-26,2021-06-27,NA
+34805,"Tumakuru","2859667",55,"Male","SARI ","Breathlessness ","DM,  CVA, CKD  ",2021-06-22,2021-06-26,2021-06-28,NA
+34816,"Tumakuru","2871286",50,"Female","ILI ","Fever, Cough ","DM ",2021-06-25,2021-06-27,2021-06-28,NA
+34887,"Tumakuru","2841917",59,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021"
+34892,"Tumakuru","2846916",45,"Female","SARI ","Breathlessness ","- ",NA,NA,NA,NA
+34904,"Tumakuru","2858723",42,"Female","SARI ","Breathlessness ","DM ",NA,NA,NA,NA
+34977,"Tumakuru","2816300",42,"Male","SARI","Fever, Breathlessness","DM",NA,2021-06-24,2021-06-30,"Died at his residence"
+35003,"Tumakuru","2858730",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-22,2021-06-25,2021-06-30,NA
+35112,"Tumakuru","2875103",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-26,2021-06-30,2021-07-01,NA
+35113,"Tumakuru","2876312",68,"Female","ILI","Cough","DM, HTN",2021-06-30,2021-07-01,2021-07-01,NA
+35183,"Tumakuru","2855531",63,"Male","ILI","Fever","HTN",2021-06-24,2021-07-01,2021-07-02,NA
+35201,"Tumakuru","2870088",88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-24,2021-06-30,2021-07-02,NA
+35304,"Tumakuru","100000566",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-30,2021-07-02,2021-07-03,NA
+35354,"Tumakuru","2885400",49,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-02,2021-07-04,NA
+35356,"Tumakuru","2886873",35,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-28,2021-07-04,2021-07-04,NA
+35361,"Tumakuru","2888766",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-29,2021-07-03,2021-07-04,NA
+35415,"Tumakuru","2873201",39,"Male","ILI","Fever","DM",2021-06-26,2021-07-05,2021-07-05,NA
+35424,"Tumakuru","2891744",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-01,2021-07-01,2021-07-05,NA
+35433,"Tumakuru","100000656",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-07-03,2021-07-05,NA
+35475,"Tumakuru","2873420",70,"Male","SARI","Breathlessness","DM",2021-07-02,2021-07-04,2021-07-06,NA
+35507,"Tumakuru","2894496",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-03,2021-07-04,2021-07-06,NA
+35510,"Tumakuru","2895586",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-04,2021-07-05,2021-07-06,NA
+35584,"Tumakuru","2891327",50,"Female","ILI","Cough","-",2021-07-06,2021-07-06,2021-07-07,NA
+35591,"Tumakuru","2900847",75,"Female","ILI","Fever, Cough","-",2021-07-06,2021-07-06,2021-07-07,NA
+35639,"Tumakuru","2877356",38,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-28,2021-07-04,2021-07-08,NA
+35643,"Tumakuru","2886622",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-30,2021-07-02,2021-07-08,NA
+35657,"Tumakuru","2901708",83,"Male","SARI","Breathlessness","DM, HTN, CKD",2021-07-06,2021-07-06,2021-07-08,NA
+35694,"Tumakuru","2877686",63,"Female","SARI","Breathlessness","DM, HTN",2021-06-25,2021-07-01,2021-07-09,NA
+35698,"Tumakuru","2883213",76,"Male","ILI","Fever","DM, HTN",2021-06-30,2021-07-02,2021-07-09,NA
+35707,"Tumakuru","2890162",45,"Male","SARI","Breathlessness","HTN",2021-07-06,2021-07-07,2021-07-09,NA
+35757,"Tumakuru","2897721",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-05,2021-07-08,2021-07-10,NA
+35759,"Tumakuru","2898328",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-01,2021-07-06,2021-07-10,NA
+35760,"Tumakuru","2900019",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-07-03,2021-07-05,2021-07-10,NA
+35808,"Tumakuru","2890175",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-01,2021-07-09,2021-07-11,NA
+35822,"Tumakuru","2908268",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-08,2021-07-10,2021-07-11,NA
+35866,"Tumakuru","2887322",66,"Female","ILI","Fever, Cough","DM",2021-06-30,2021-07-11,2021-07-12,NA
+35875,"Tumakuru","2898098",65,"Male","ILI","Fever, Cough","-",2021-07-06,2021-07-11,2021-07-12,NA
+35881,"Tumakuru","2904845",75,"Male","ILI","Fever, Cough","DM, HTN",2021-07-07,2021-07-11,2021-07-12,NA
+35924,"Tumakuru","2901215",68,"Male","SARI","Breathlessness","-",2021-07-06,2021-07-12,2021-07-13,NA
+35972,"Tumakuru","2904849",84,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-07-07,2021-07-08,2021-07-14,NA
+35979,"Tumakuru","2911354",85,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-07-10,2021-07-14,"Died at his residence"
+36031,"Tumakuru","2914406",64,"Male","SARI","Cough, Breathlessness","HTN",2021-07-11,2021-07-12,2021-07-15,NA
+36053,"Tumakuru","2891743",49,"Male","ILI","Fever","-",2021-07-02,2021-07-16,2021-07-16,NA
+36110,"Tumakuru","2913987",62,"Male","SARI","Fever, Breathlessness","HTN",2021-07-11,2021-07-16,2021-07-17,NA
+36117,"Tumakuru","2920439",45,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-07-14,2021-07-16,2021-07-17,NA
+36147,"Tumakuru","2916608",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-07-13,2021-07-17,2021-07-18,NA
+36183,"Tumakuru","2917441",60,"Female","ILI","Fever","DM, HTN",2021-07-14,2021-07-18,2021-07-19,NA
+36186,"Tumakuru","2919771",70,"Male","ILI","Fever, Cough","DM, HTN",2021-07-15,2021-07-18,2021-07-19,NA
+36204,"Tumakuru","2896924",55,"Male","ILI","Fever, Cough","-",2021-07-12,2021-07-20,2021-07-20,NA
+36221,"Tumakuru","2925260",70,"Male","ILI","Fever","-",2021-07-16,2021-07-18,2021-07-20,NA
+36242,"Tumakuru","2915659",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-15,2021-07-18,2021-07-21,NA
+36278,"Tumakuru","2915659",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-15,2021-07-18,2021-07-21,NA
+36303,"Tumakuru","2890460",41,"Male","ILI","Fever","HTN",2021-07-01,2021-07-03,2021-07-23,NA
+36334,"Tumakuru","2894485",70,"Male","ILI","Fever","-",2021-07-03,2021-07-03,2021-07-24,NA
+36385,"Tumakuru","2934560",60,"Female","ILI","Fever","-",2021-07-22,2021-07-24,2021-07-26,NA
+36409,"Tumakuru","2923119",70,"Male","ILI","Cough","DM, HTN",2021-07-16,2021-07-23,2021-07-27,NA
+36415,"Tumakuru","2932294",50,"Male","SARI","Cough, Breathlessness","-",2021-07-22,2021-07-22,2021-07-27,NA
+36469,"Tumakuru","2936624",55,"Female","SARI","Cough, Breathlessness","-",2021-07-25,2021-07-25,2021-07-29,NA
+36577,"Tumakuru","2926058",50,"Male","SARI","Breathlessness","DM",2021-07-31,2021-08-01,2021-08-02,NA
+36588,"Tumakuru","2937461",40,"Male","ILI","Fever","-",2021-07-26,2021-08-01,2021-08-02,NA
+36600,"Tumakuru","2907099",30,"Male","ILI","Fever","-",2021-08-02,2021-08-02,2021-08-03,NA
+36601,"Tumakuru","2907594",65,"Male","ILI","Fever","-",2021-07-08,2021-08-01,2021-08-03,NA
+36648,"Tumakuru","2934627",75,"Male","ILI","Cough","HTN",2021-07-24,2021-08-02,2021-08-04,NA
+36779,"Tumakuru","2049856",45,"Male","SARI","Fever, Cough, Breathlessness","DM",NA,2021-05-10,2021-08-09,"Died at his residence"
+36794,"Tumakuru","2951771",63,"Male","ILI","Fever","-",2021-08-06,2021-08-09,2021-08-09,NA
+36803,"Tumakuru","2654916",60,"Female","ILI","Fever","DM",2021-05-31,2021-05-31,2021-08-10,NA
+36872,"Tumakuru","2880136",58,"Female","SARI","Cough","HTN",2021-06-28,2021-07-02,2021-08-12,NA
+36875,"Tumakuru","2915661",80,"Male","SARI","Breathlessness","DM, HTN",2021-07-12,2021-07-12,2021-08-12,NA
+36907,"Tumakuru","2942984",50,"Female","ILI","Fever, Cough","-",2021-07-30,2021-08-12,2021-08-13,NA
+36909,"Tumakuru","2949473",76,"Male","SARI","Breathlessness","-",2021-08-02,2021-08-02,2021-08-13,NA
+37017,"Tumakuru","2969941",40,"Female","SARI","Breathlessness","-",2021-08-13,2021-08-16,2021-08-17,NA
+37025,"Tumakuru","2382021",63,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-18,2021-05-19,2021-08-18,NA
+37027,"Tumakuru","2929145",65,"Male","ILI","Fever","-",2021-07-20,2021-08-03,2021-08-18,NA
+37047,"Tumakuru","2338422",48,"Male","SARI","Cough, Breathlessness","-",NA,2021-05-21,2021-08-19,NA
+37074,"Tumakuru","2525308",57,"Male","ILI","Fever","-",NA,2021-05-26,NA,"Brought dead"
+37109,"Tumakuru","2419709",70,"Female","ILI","Fever","-",NA,2021-08-21,2021-08-22,"Brought dead"
+37128,"Tumakuru","2978694",60,"Female","SARI","Fever, Breathlessness","-",2021-08-21,2021-08-21,2021-08-22,NA
+37138,"Tumakuru","2970381",68,"Female","ILI","Fever","HTN",2021-08-14,2021-08-23,2021-08-23,NA
+37183,"Tumakuru","2982265",59,"Male","SARI","Cough, Breathlessness","-",2021-08-23,2021-08-23,2021-08-26,NA
+37197,"Tumakuru","2976853",70,"Female","ILI","Fever, Cough","-",2021-08-18,2021-08-24,2021-08-27,NA
+37244,"Tumakuru","2979042",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-21,2021-08-29,2021-08-30,NA
+37250,"Tumakuru","2661460",68,"Female","SARI","Breathlessness","-",2021-05-31,2021-06-01,2021-08-31,NA
+37275,"Tumakuru","2887634",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-06-30,2021-09-01,NA
+37316,"Tumakuru","2991079",88,"Female","SARI","Breathlessness","-",2021-08-30,2021-08-31,2021-09-02,NA
+37372,"Tumakuru","2995279",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-03,2021-09-05,2021-09-06,NA
+37405,"Tumakuru","2998628",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-02,2021-09-07,2021-09-08,NA
+37456,"Tumakuru","2995280",37,"Male","ILI","Cough","-",2021-09-01,2021-09-12,2021-09-13,NA
+37484,"Tumakuru","3001671",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-09-10,2021-09-15,"Died at her residence"
+37502,"Tumakuru","3004770",52,"Female","ILI","Fever","-",2021-09-14,2021-09-14,2021-09-16,NA
+37532,"Tumakuru","3006695",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-16,2021-09-17,2021-09-18,NA
+37604,"Tumakuru","2939287",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-26,2021-07-29,2021-09-22,NA
+37630,"Tumakuru","3008621",48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-17,2021-09-22,2021-09-23,NA
+37646,"Tumakuru","3005206",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-09-15,2021-09-20,2021-09-24,NA
+37691,"Tumakuru","3014325",48,"Male","ILI","Fever","DM, HTN",NA,2021-09-25,2021-09-27,"Died at his residence"
+37740,"Tumakuru","3015709",43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-09-28,2021-09-30,2021-09-30,NA
+37764,"Tumakuru","3016316",57,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-09-27,2021-09-29,2021-10-03,NA
+37778,"Tumakuru","3017803",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-01,2021-10-04,2021-10-04,NA
+37791,"Tumakuru","3019466",60,"M ","SARI ","Fever, Cough, breathlessness ","HTN ",2021-10-03,2021-10-03,2021-10-05,NA
+37800,"Tumakuru","3016186",80,"F ","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-09-27,2021-10-03,2021-10-06,NA
+37808,"Tumakuru","3018329",34,"F ","ILI ","Fever ","- ",2021-10-06,2021-10-06,2021-10-07,NA
+37815,"Tumakuru","3021381",22,"Male","ILI","Fever, Cough","-",2021-10-06,2021-10-06,2021-10-08,NA
+37818,"Tumakuru","3010515",68,"Male","SARI","Cough, Breathlessness","-",2021-09-20,2021-09-26,2021-10-09,NA
+37824,"Tumakuru","3020749",80,"Male","SARI","Cough, Breathlessness","-",NA,2021-10-05,2021-10-09,"Died at his residence"
+37832,"Tumakuru","3021393",75,"M ","SARI ","Fever, Cough, Breathlessness ","- ",2021-10-06,2021-10-07,2021-10-10,NA
+37865,"Tumakuru","3023272",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-28,2021-10-10,2021-10-13,NA
+37902,"Tumakuru","3022927",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-10,2021-10-14,2021-10-18,NA
+37908,"Tumakuru","3020069",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-10-11,2021-10-14,2021-10-19,NA
+37933,"Tumakuru","3026003",86,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-18,2021-10-21,2021-10-21,NA
+37935,"Tumakuru","3018289",63,"Female","SARI","Breathlessness","DM, HTN",2021-09-06,2021-10-08,2021-10-22,NA
+37947,"Tumakuru","3020068",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-02,2021-10-05,2021-10-23,NA
+37953,"Tumakuru","3020070",81,"Female","ILI","Fever, Cough","DM, HTN",2021-10-06,2021-10-06,2021-10-24,NA
+37976,"Tumakuru","3015568",23,"Male","ILI","Fever","-",2021-10-25,2021-10-25,2021-10-27,NA
+38038,"Tumakuru","3024852",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-10-15,2021-10-30,2021-11-02,NA
+38064,"Tumakuru","3021038",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-10-06,2021-10-06,2021-11-08,NA
+38086,"Tumakuru","3027230",70,"Male","ILI","Fever, Cough","DM, HTN",2021-10-23,2021-10-30,2021-11-11,NA
+38103,"Tumakuru","3034188",65,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-11-14,2021-11-16,2021-11-16,NA
+38131,"Tumakuru","3035261",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-11-18,2021-11-22,2021-11-23,NA
+38146,"Tumakuru","3035568",59,"Male","ILI","Fever","DM,HTN",2021-11-19,2021-11-20,2021-11-27,NA
+38151,"Tumakuru","3035974",73,"Male","ILI","Fever","DM, HTN",2021-11-22,2021-11-27,2021-11-29,NA
+38156,"Tumakuru","3035974",73,"Male","ILI","Fever","DM, HTN",2021-11-22,2021-11-27,2021-11-29,NA
+38177,"Tumakuru","3023274",86,"Male","ILI","Fever, Cough","-",2021-10-10,2021-10-16,2021-12-06,NA
+38218,"Tumakuru","3041874",75,"Female","SARI","Fever, Breathlessness","DM,HTN",2021-12-06,2021-12-07,2021-12-14,NA
+38261,"Tumakuru","3040450",65,"Male","ILI","Fever, Cough","DM, HTN",2021-12-10,2021-12-11,2021-12-29,NA
+38286,"Tumakuru","2923394",45,"Female","ILI","Cough","-",NA,2021-05-06,2022-01-01,"Died at her residence"
+38291,"Tumakuru","2923556",55,"Female","ILI","Cough","-",NA,2021-04-27,2022-01-02,"Died at her residence"
+38348,"Tumakuru","3139971",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-01-11,2022-01-12,2022-01-13,NA
+38398,"Tumakuru","3240111",69,"Male","ILI","Fever, Cough","DM",2022-01-16,2022-01-16,2022-01-17,NA
+38425,"Tumakuru","3240111",69,"Male","ILI","Fever, Cough","DM",2022-01-16,2022-01-16,2022-01-17,NA
+38440,"Tumakuru","3157320",58,"Male","ILI","Fever, Cough","-",2022-01-13,2022-01-13,2022-01-18,NA
+38445,"Tumakuru","3261223",90,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-15,2022-01-16,2022-01-18,NA
+38468,"Tumakuru","3348140",60,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2022-01-17,2022-01-18,2022-01-19,NA
+38483,"Tumakuru","3327386",28,"Male","ILI","Fever","DM, HTN",2022-01-17,2022-01-17,2022-01-20,NA
+38493,"Tumakuru","3384099",73,"Female","SARI","Breathlessness","DM, HTN",2022-01-18,2022-01-20,2022-01-20,NA
+38549,"Tumakuru","3539660",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-01-21,2022-01-22,2022-01-22,NA
+38575,"Tumakuru","3539660",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-01-21,2022-01-22,2022-01-22,NA
+38585,"Tumakuru","3287366",56,"Female","SARI","Breathlessness","DM",2022-01-17,2022-01-17,2022-01-24,NA
+38645,"Tumakuru","3580841",65,"Female","SARI","Cough, Breathlessness","DM, CLD",2022-01-22,2022-01-23,2022-01-25,NA
+38657,"Tumakuru","3659171",50,"Male","SARI","Cough, Breathlessness","DM, CVD, CLD",2022-01-24,2022-01-25,2022-01-25,NA
+38697,"Tumakuru","3580841",65,"Female","SARI","Cough, Breathlessness","DM, CLD",2022-01-22,2022-01-23,2022-01-25,NA
+38709,"Tumakuru","3659171",50,"Male","SARI","Cough, Breathlessness","DM, CVD, CLD",2022-01-24,2022-01-25,2022-01-25,NA
+38716,"Tumakuru","3427059",83,"Female","SARI","Fever, Breathlessness","DM",2022-01-20,2022-01-20,2022-01-27,NA
+38750,"Tumakuru","3703948",35,"Female","SARI","Fever, Breathlessness","-",2022-01-25,2022-01-25,2022-01-27,NA
+38779,"Tumakuru","3614402",84,"Male","SARI","Breathlessness","HTN",2022-01-22,2022-01-23,2022-01-28,NA
+38792,"Tumakuru","3714028",51,"Female","ILI","Fever, Cough,","HTN",NA,NA,2022-01-28,"Died at her residence"
+38800,"Tumakuru","3744333",70,"Male","SARI","Fever,
+Breathlessness","-",2022-01-27,2022-01-28,2022-01-28,NA
+38806,"Tumakuru","3752927",70,"Male","SARI","Fever,
+Breathlessness","DM,
+HTN",2022-01-27,2022-01-27,2022-01-28,NA
+38827,"Tumakuru","3574947",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-01-22,2022-01-28,2022-01-29,NA
+38847,"Tumakuru","3693152",45,"Male","SARI","Breathlessness","-",2022-01-23,2022-01-24,2022-01-29,NA
+38861,"Tumakuru","3759420",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-01-27,2022-01-28,2022-01-29,NA
+38868,"Tumakuru","3778464",75,"Male","SARI","Fever, Cough, Breathlessness","DM,H TN",2022-01-27,2022-01-27,2022-01-29,NA
+38902,"Tumakuru","3700360",60,"Female","ILI","Cough","-",2022-01-26,2022-01-26,2022-01-30,NA
+38918,"Tumakuru","3774635",75,"Male","SARI","Fever, Cough, Breathlessness","CHD",2022-01-25,2022-01-26,2022-01-30,NA
+38920,"Tumakuru","3784888",43,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-25,2022-01-28,2022-01-30,NA
+38930,"Tumakuru","3805748",52,"Female","SARI","Fever, Breathlessness","DM",2022-01-27,2022-01-28,2022-01-30,NA
+38968,"Tumakuru","3700362",75,"Male","SARI","Cough, Breathlessness","DM,HTN",2022-01-27,2022-01-29,2022-01-31,NA
+39014,"Tumakuru","3651924",88,"Male","ILI","Fever, Cough","DM, HTN",2022-01-28,2022-01-30,2022-02-01,NA
+39097,"Tumakuru","3837076",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-01-29,2022-01-31,2022-02-03,NA
+39106,"Tumakuru","3873954",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2022-01-31,2022-01-31,2022-02-03,NA
+39216,"Tumakuru","3919694",55,"Female","ILI","Fever, Cough","DM",2022-02-03,2022-02-03,2022-02-05,NA
+39225,"Tumakuru","3935898",65,"Male","ILI","Fever, Cough","DM, HTN, COPD",2022-02-04,2022-02-04,2022-02-05,NA
+39266,"Tumakuru","3938841",70,"Male","SARI","Breathlessness","-",2022-02-03,2022-02-06,2022-02-06,NA
+39283,"Tumakuru","3764556",89,"Female","ILI","Fever","DM, HTN",2022-01-28,2022-02-06,2022-02-07,NA
+39284,"Tumakuru","3768833",78,"Male","ILI","Cough","IHD, CKD",2022-01-27,2022-02-07,2022-02-07,NA
+39292,"Tumakuru","3858477",63,"Female","SARI","Cough, Breathlessness","DM, HTN",2022-02-01,2022-02-06,2022-02-07,NA
+39314,"Tumakuru","3934297",80,"Female","SARI","Breathlessness","DM, IHD",2022-02-04,2022-02-05,2022-02-07,NA
+39332,"Tumakuru","3764556",89,"Female","ILI","Fever","DM, HTN",2022-01-28,2022-02-06,2022-02-07,NA
+39333,"Tumakuru","3768833",78,"Male","ILI","Cough","IHD, CKD",2022-01-27,2022-02-07,2022-02-07,NA
+39341,"Tumakuru","3858477",63,"Female","SARI","Cough, Breathlessness","DM, HTN",2022-02-01,2022-02-06,2022-02-07,NA
+39363,"Tumakuru","3934297",80,"Female","SARI","Breathlessness","DM, IHD",2022-02-04,2022-02-05,2022-02-07,NA
+39385,"Tumakuru","3864193",70,"Male","SARI","Cough, Breathlessness","DM, IHD, TB",2022-01-29,2022-01-29,2022-02-09,NA
+39406,"Tumakuru","3946767",55,"Female","ILI","Fever","DM, HTN, TB",2022-02-04,2022-02-08,2022-02-09,NA
+39408,"Tumakuru","3950747",65,"Male","ILI","Fever","DM, HTN, COPD",2022-02-05,2022-02-08,2022-02-09,NA
+39431,"Tumakuru","3872947",70,"Male","ILI","Cough","COPD",2022-01-31,2022-01-31,2022-02-10,NA
+39433,"Tumakuru","3906426",42,"Male","SARI","Cough, Breathlessness","-",NA,2022-02-07,2022-02-10,"Died at his residence"
+39440,"Tumakuru","3921366",70,"Male","SARI","Fever, Cough, Breathlessness","COPD",NA,2022-02-03,2022-02-10,"Died at his residence"
+39441,"Tumakuru","3924640",74,"Female","SARI","Cough, Breathlessness","DM, HTN, CVD",2022-02-02,2022-02-03,2022-02-10,NA
+39455,"Tumakuru","3961985",64,"Male","SARI","Cough, Breathlessness","DM, HTN",2022-02-08,2022-02-10,2022-02-10,NA
+39462,"Tumakuru","3662917",63,"Female","SARI","Fever, cough, breathlessness","DM",2022-02-07,2022-02-10,2022-02-11,NA
+39469,"Tumakuru","3843020",80,"Male","SARI","Fever, cough, breathlessness","CND",2021-12-30,2022-01-31,2022-02-11,NA
+39516,"Tumakuru","3936852",80,"Female","ILI","Fever, Cough","DM",2022-02-03,2022-02-09,2022-02-12,NA
+39532,"Tumakuru","3973437",96,"Male","ILI","Fever, Cough","-",NA,2022-02-10,2022-02-12,"Died at his residence"
+39541,"Tumakuru","3927384",75,"Male","SARI","Fever, Breathlessness","COPD",2022-02-01,2022-02-02,2022-02-13,NA
+39546,"Tumakuru","3945254",55,"Male","SARI","Fever, Breathlessness","CLD, IHD",NA,2022-02-06,2022-02-13,"Died at his residence"
+39575,"Tumakuru","3946750",65,"Female","SARI","Breathlessness","DM",2022-02-04,2022-02-04,2022-02-14,NA
+39581,"Tumakuru","3973450",80,"Male","SARI","Cough, Breathlessness","COPD, CA",2022-02-10,2022-02-14,2022-02-14,NA
+39694,"Tumakuru","3968507",74,"Male","SARI","Cough, Breathlessness","DM, HTN",NA,2022-02-11,2022-02-19,"Died at his residence"
+39715,"Tumakuru","3970414",67,"Female","SARI","Cough,Breathlessness","DM, HTN,IHD",2022-02-10,2022-02-18,2022-02-20,NA
+39759,"Tumakuru","3976525",70,"Male","SARI","Cough, Breathlessness","-",2022-02-11,2022-02-11,NA,NA
+39760,"Tumakuru","3978241",23,"Female","SARI","Cough, Breathlessness","ARDS",2022-02-13,2022-02-15,NA,NA
+39823,"Tumakuru","3990254",75,"Female","SARI","Fever, Breathlessness","DM, COPD",2022-02-21,2022-02-23,2022-02-25,NA
+39863,"Tumakuru","3709109",74,"Male","SARI","Cough, Breathlessness","CA",NA,2022-02-03,2022-03-02,"Died at his residence"
+39874,"Tumakuru","3920550",65,"Male","SARI","Fever, Breathlessness","HTN, CKD",NA,2022-02-06,2022-03-04,"Brought dead"
+39933,"Tumakuru","3994586",38,"Male","ILI","Fever, Cough","CKD",2022-03-12,2022-03-25,2022-03-25,NA
+39936,"Tumakuru","3992662",59,"Male","SARI","Breathlessness","HTN, IHD",2022-02-14,2022-03-06,2022-03-28,NA
+39982,"Tumakuru","4041870",55,"Male","SARI","Breathlessness","-",2022-07-18,2022-07-30,2022-07-31,NA
+39988,"Tumakuru","4031812",21,"Female","SARI","Fever,
+Breathlessness","HTN",2022-07-06,2022-07-29,2022-08-04,NA
+40092,"Tumakuru","4110753",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2022-09-03,2022-09-04,2022-09-07,NA
+40111,"Tumakuru","4115684",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN,",2022-09-13,2022-09-16,2022-09-18,NA
+40115,"Tumakuru","4118961",94,"Male","SARI","Cough,
+Breathlessness","DM, AKI",2022-09-21,2022-09-22,2022-09-23,NA

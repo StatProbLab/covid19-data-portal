@@ -1,0 +1,165 @@
+"",,,Age,,,,Co-,,
+Sl.,,State,,,Descr,,,,
+"",District,,in,Sex,,Symptoms,Morbid,DOA,DOD
+No,,P No.,,,iption,,,,
+"",,,Yrs,,,,ities,,
+"",,,,,,"Fever, Cough,",,,
+1,Ballari*,1212212,83,M,SARI,,-,19-05-2021,19-05-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Cough,",,,
+2,Ballari*,1344622,40,M,SARI,,-,23-04-2021,24-04-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever, Cough,",,,
+3,Ballari*,1358626,50,F,SARI,,HTN,24-04-2021,25-04-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Cough,",,,
+4,Ballari*,1361542,32,M,SARI,,-,24-04-2021,27-04-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Cough,",,,
+5,Ballari*,1387999,57,F,SARI,,-,28-04-2021,01-05-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever, Cough,","DM,",,
+6,Shivamogga,2081057,59,M,SARI,,,15-06-2021,24-06-2021
+"",,,,,,Breathlessness,HTN,,
+"",,,,,,"Cough,",,,
+7,Ballari*,2190219,60,M,SARI,,-,13-05-2021,13-05-2021
+"",,,,,,Breathlessness,,,
+8,Raichuru*,2320163,43,M,ILI,"Fever, Cough",-,16-05-2021,17-05-2021
+"",Dakshina,,,,,,Hypo,,
+9,Kannada*,2517049,46,M,SARI,Breathlessness,thyroidism,24-05-2021,14-06-2021
+"",,,,,,,"DM,",,
+"",Dakshina,,,,,"Fever,",,,
+10,,2595106,56,M,SARI,,"HTN,",28-05-2021,12-06-2021
+"",Kannada*,,,,,Breathlessness,,,
+"",,,,,,,CKD,,
+"",,,,,,"Fever, Cough,",,,
+11,Dhaarwada*,2654271,43,F,SARI,,HTN,30-05-2021,14-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Cough,",,,
+12,Ballari,2663367,60,F,SARI,,-,31-05-2021,29-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever,",,,
+13,Shivamogga,2674612,55,M,SARI,,-,08-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever, Cough,","DM,",,
+14,Dhaarwada*,2692689,44,M,SARI,,,04-06-2021,14-06-2021
+"",,,,,,Breathlessness,HTN,,
+"",,,,,,"Fever, Cough,","HTN,",,
+15,Dhaarwada*,2719783,50,M,SARI,,,03-06-2021,14-06-2021
+"",,,,,,Breathlessness,TB,,
+"",,,,,,"Fever,",,,
+16,Shivamogga,2721459,60,F,SARI,,HTN,04-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever,",,,
+17,Shivamogga,2727214,62,M,SARI,,IHD,03-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,
+"",Dakshina,,,,,,,,
+18,,2730246,80,M,ILI,"Fever, Cough",DM,07-06-2021,29-06-2021
+"",Kannada,,,,,,,,
+"",,,,,,"Fever,",,,
+19,Shivamogga,2730649,60,M,SARI,,DM,04-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,
+"",Dakshina,,,,,"Fever,",,,
+20,,2739048,28,M,SARI,,-,05-06-2021,08-06-2021
+"",Kannada*,,,,,Breathlessness,,,
+"",Dakshina,,,,,"Fever,",,,
+21,,2746622,55,M,SARI,,DM,14-06-2021,18-06-2021
+"",Kannada*,,,,,Breathlessness,,,
+"",,,,,,"Fever,",,,
+22,Davanagere *,2748758,68,F,SARI,,IHD,06-06-2021,07-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever,",,,
+23,Davanagere *,2752001,71,M,SARI,,DM,07-06-2021,20-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,,,,,
+24,"DakshinaKannada",2756381,33,M,SARI,"Fever,Breathlessness",DM,07-06-2021,29-06-2021,
+25,Davanagere *,2756400,65,F,SARI,"Fever,Breathlessness",CKD,06-06-2021,16-06-2021,
+26,Davanagere *,2757094,55,F,SARI,"Fever,Breathlessness",DM,07-06-2021,08-06-2021,
+27,Davanagere *,2757921,80,M,SARI,"Fever,Breathlessness",IHD,06-06-2021,06-06-2021,
+28,Davanagere *,2758411,62,F,SARI,"Fever,Breathlessness",-,08-06-2021,15-06-2021,
+29,Davanagere *,2758975,73,F,SARI,"Fever,Breathlessness",DM,07-06-2021,13-06-2021,
+30,Davanagere *,2758984,56,M,SARI,"Fever,Breathlessness",HTN,02-06-2021,12-06-2021,
+31,"DakshinaKannada",2761500,49,F,SARI,"Fever,Breathlessness",HTN,08-06-2021,30-06-2021,
+32,Dhaarwada*,2764623,45,F,SARI,"Fever, Cough,Breathlessness",-,10-06-2021,14-06-2021,
+33,Davanagere,2766945,45,M,SARI,"Fever,Breathlessness",-,07-06-2021,27-06-2021,
+34,Davanagere,2768599,60,F,SARI,"Fever,Breathlessness",HTN,09-06-2021,24-06-2021,
+35,Shivamogga,2769611,60,M,SARI,"Fever,Breathlessness",-,24-06-2021,26-06-2021,
+36,Davanagere *,2770159,63,M,SARI,"Fever,Breathlessness",-,19-05-2021,11-06-2021,
+37,Dhaarwada*,2782122,75,M,SARI,"Fever, Cough,Breathlessness","DM,HTN",10-06-2021,13-06-2021,
+38,Kolara *,2782173,45,M,SARI,"Fever, Cough,Breathlessness",-,09-06-2021,15-06-2021,
+39,Hasssana,2782983,69,M,ILI,Fever,-,09-06-2021,30-06-2021,
+40,Mysuru*,2785280,68,F,ILI,"Fever, Cough","DM,HTN","Died at residence11-06-2021",,
+41,Hasssana,2795980,45,M,ILI,"Fever, Cough",HTN,17-06-2021,28-06-2021,
+42,Mysuru,2796263,60,F,SARI,"Fever, Cough,Breathlessness",-,11-06-2021,26-06-2021,
+43,Dhaarwada*,2798328,72,F,SARI,"Fever, Cough,Breathlessness",HTN,08-06-2021,14-06-2021,
+44,"BengaluruUrban",2810298,73,M,ILI,Fever,-,"Brought dead on27-06-2021",,
+45,Haveri,2811359,52,M,ILI,"Fever, Cough",-,14-06-2021,28-06-2021,
+46,Tumakuru,2816300,42,M,SARI,"Fever,Breathlessness",DM,"Died at residence24-06-2021",,
+47,"BengaluruUrban",2818226,55,F,ILI,Fever,"DM,HTN",14-06-2021,28-06-2021,
+48,"ChamarajaNagara",2821629,42,M,SARI,"Fever,Breathlessness",-,16-06-2021,29-06-2021,
+49,"DakshinaKannada",2824469,44,M,SARI,"Fever,Breathlessness",-,23-06-2021,28-06-2021,
+50,Kolara,2825208,38,M,SARI,"Fever, Cough,Breathlessness",-,21-06-2021,27-06-2021,
+51,"BengaluruUrban",2827475,59,M,ILI,Cough,"DM,HTN,IHD",16-06-2021,29-06-2021,
+"",,,,,,,,,,
+53,"DakshinaKannada",2836190,56,M,SARI,"Fever,Breathlessness","DM,HTN",24-06-2021,29-06-2021,
+54,Mysuru,2837087,65,M,SARI,"Fever,Breathlessness","DM,HTN",02-06-2021,29-06-2021,
+55,Mysuru,2838755,65,M,SARI,"Fever, Cough,Breathlessness","DM,HTN,IHD",18-06-2021,20-06-2021,
+56,Haveri,2839529,26,F,SARI,"Fever, Cough,Breathlessness",-,18-06-2021,21-06-2021,
+57,Mysuru,2839622,65,M,SARI,Breathlessness,-,18-06-2021,30-06-2021,
+58,"DakshinaKannada",2839961,62,M,SARI,"Fever,Breathlessness",-,18-06-2021,30-06-2021,
+59,Hasssana,2840537,54,F,ILI,"Fever, Cough",DM,18-06-2021,29-06-2021,
+60,Mandya,2840639,65,M,SARI,"Fever, Cough,Breathlessness","DM,HTN",18-06-2021,30-06-2021,
+61,Bagalkote,2841455,49,M,SARI,"Fever, Cough,Breathlessness",-,17-06-2021,30-06-2021,
+62,Belagavi,2842359,62,F,SARI,"Fever, Cough,Breathlessness",-,18-06-2021,30-06-2021,
+63,"BengaluruUrban",2842477,64,M,ILI,Fever,DM,"Died at residence27-06-2021",,
+64,Mysuru,2845900,48,F,SARI,"Fever, Cough,Breathlessness",-,20-06-2021,30-06-2021,
+65,"BengaluruUrban",2847390,80,F,SARI,Breathlessness,HTN,18-06-2021,28-06-2021,
+66,Ballari,2850099,60,F,SARI,"Fever, Cough,Breathlessness",HTN,19-06-2021,26-06-2021,
+67,Mysuru,2850797,75,M,ILI,"Fever, Cough","DM,HTN,IHD","Brought dead on20-06-2021",,
+68,Mysuru,2851513,58,M,SARI,"Cough,Breathlessness","DM,HTN",20-06-2021,29-06-2021,
+69,Koppala,2854465,56,M,SARI,"Cough,Breathlessness",-,27-06-2021,29-06-2021,
+70,"DakshinaKannada",2855103,70,F,SARI,"Fever,Breathlessness","DM,HTN",25-06-2021,30-06-2021,
+71,Haveri,2855161,38,F,SARI,"Fever, Cough,Breathlessness",-,20-06-2021,27-06-2021,
+72,Tumakuru,2858730,65,M,SARI,"Fever,Breathlessness","DM,HTN",22-06-2021,25-06-2021,
+73,Uttara Kannada,2859114,52,M,SARI,"Fever, Cough,Breathlessness",-,21-06-2021,29-06-2021,
+74,Kalaburagi,2859572,69,M,SARI,"Fever, Cough,Breathlessness","DM,HTN",21-06-2021,29-06-2021,
+75,Bengaluru Rural,2859944,85,M,SARI,Breathlessness,-,22-06-2021,26-06-2021,
+76,Mandya,2860140,60,M,SARI,"Fever, Cough,Breathlessness",-,11-06-2021,30-06-2021,
+77,Uttara Kannada,2860615,72,M,SARI,"Fever, Cough,Breathlessness",CKD,25-06-2021,28-06-2021,
+78,Haveri,2861688,78,M,SARI,"Fever, Cough,Breathlessness","DM,HTN,CKD",22-06-2021,27-06-2021,
+79,"BengaluruUrban",2861721,76,M,SARI,"Fever,Breathlessness",DM,22-06-2021,28-06-2021,
+"",,,,,,,,,,
+81,Ballari,2864491,47,M,ILI,"Fever, Cough",-,24-06-2021,29-06-2021,
+82,"DakshinaKannada",2865551,63,M,SARI,"Fever,Breathlessness","DM,HTN",24-06-2021,29-06-2021,
+83,Haveri,2869983,59,F,SARI,"Fever, Cough,Breathlessness",HTN,25-06-2021,30-06-2021,
+84,"BengaluruUrban",2870711,35,F,SARI,Breathlessness,-,25-06-2021,29-06-2021,
+85,"BengaluruUrban",2872187,65,M,ILI,Fever,HTN,25-06-2021,29-06-2021,
+86,"BengaluruUrban",2873007,71,M,SARI,Breathlessness,HTN,26-06-2021,28-06-2021,
+87,"DakshinaKannada",2873162,45,M,SARI,"Fever,Breathlessness",-,26-06-2021,29-06-2021,
+88,Belagavi,2873203,67,M,SARI,"Fever, Cough,Breathlessness",DM,25-06-2021,27-06-2021,
+89,Kalaburagi,2873680,60,F,SARI,"Fever, Cough,Breathlessness",-,26-06-2021,29-06-2021,
+90,Mysuru,2874610,60,M,SARI,"Fever,Breathlessness","DM,HTN",26-06-2021,29-06-2021,
+91,Mysuru,2875057,65,M,SARI,"Fever, Cough,Breathlessness","HTN,CVA",25-06-2021,29-06-2021,
+92,Uttara Kannada,2877120,60,M,SARI,"Fever, Cough,Breathlessness",HTN,25-06-2021,29-06-2021,
+93,Bengaluru Rural,2877579,65,F,SARI,Breathlessness,-,27-06-2021,30-06-2021,
+94,Mysuru,2878059,58,M,SARI,"Fever,Breathlessness","DM,HTN,IHD",27-06-2021,29-06-2021,
+95,"BengaluruUrban",2878996,70,F,SARI,Breathlessness,DM,28-06-2021,29-06-2021,
+96,Chikkaballapura,2879594,20,F,SARI,"Cough,Breathlessness",-,29-06-2021,30-06-2021,
+97,"DakshinaKannada",2880483,57,F,ILI,Fever,"DM,HTN",27-06-2021,29-06-2021,
+98,"BengaluruUrban",2881101,50,M,SARI,"Fever,Breathlessness",-,26-06-2021,28-06-2021,
+99,Chikkamagaluru,2881149,56,F,SARI,Breathlessness,"DM,HTN",28-06-2021,30-06-2021,
+100,Gadag,2881642,65,M,SARI,"Fever, Cough,Breathlessness",-,27-06-2021,28-06-2021,
+101,"ChamarajaNagara",2882721,70,F,SARI,"Fever,Breathlessness",-,28-06-2021,30-06-2021,
+102,Gadag,2884950,60,F,SARI,"Fever, Cough,Breathlessness",-,25-05-2021,26-06-2021,
+103,"DakshinaKannada*",100000226,63,F,ILI,"Fever, Cough",DM,23-05-2021,27-05-2021,
+104,Davanagere,100001489,72,M,SARI,"Fever,Breathlessness",DM,29-06-2021,30-06-2021,
+105,Mandya,100001530,35,F,SARI,"Fever, Cough,Breathlessness",-,20-06-2021,21-06-2021,
+106,Vijayapura,100001730,55,M,SARI,"Fever, Cough,Breathlessness",DM,22-06-2021,26-06-2021,
+107,Mysuru,100001743,43,F,SARI,Breathlessness,-,25-06-2021,30-06-2021,
+108,Mysuru,100002018,62,M,SARI,"Fever, Cough,Breathlessness",-,26-06-2021,30-06-2021,
+"",,,,,,"Fever,",,,
+110,Chitradurga,100002149,43,M,SARI,,-,28-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,
+"",,,,,,"Fever, Cough,",,,
+111,Mysuru,2864689,65,F,SARI,,DM,22-06-2021,30-06-2021
+"",,,,,,Breathlessness,,,

@@ -1,0 +1,314 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+6,"Gadag",166,80,"Female","SARI",NA,NA,NA,NA,2020-04-09,NA
+53,"Gadag",4082,44,"Male","ILI","Fever & Cough & UTI","DM & sepsis & bronchopneumonia",2020-06-02,2020-06-02,2020-06-04,NA
+185,"Gadag",11231,95,"Female","Inter district travel - Bengaluru","Cough & Breathlessness","COPD, DM",2020-06-25,2020-06-27,2020-06-27,NA
+254,"Gadag",9730,75,"Male","SARI","Fever &  Breathlessness","DM, HTN, DEMENTIA",2020-06-23,2020-06-23,2020-07-02,NA
+534,"Gadag",31130,52,"Male","ILI","Fever & Cough","-",NA,2020-07-09,2020-07-10,"Brought dead"
+575,"Gadag",25321,75,"Male","SARI","Fever & Cough & Breathlessness","HTN, COPD",2020-07-04,2020-07-10,2020-07-11,NA
+584,"Gadag",31106,51,"Female","ILI","Cough & Fever","DM",2020-07-09,2020-07-10,2020-07-11,NA
+592,"Gadag",35077,58,"Female","SARI","Fever & Cough & Breathlessness","HTN, IHD, DM",2020-07-09,2020-07-10,2020-07-11,NA
+723,"Gadag",35048,20,"Male","Fever","Seizures","-",2020-07-09,2020-07-12,2020-07-13,NA
+1075,"Gadag",44849,65,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-12,2020-07-13,2020-07-17,NA
+1264,"Gadag",51683,84,"Male","SARI","Breathlessness","DM, HTN",2020-07-16,2020-07-17,2020-07-19,NA
+1265,"Gadag",51693,87,"Female","SARI","Cough","HTN",2020-07-14,2020-07-16,2020-07-19,NA
+1293,"Gadag",58945,73,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-13,2020-07-16,2020-07-19,NA
+1304,"Gadag",60823,45,"Male","SARI","-","-",2020-07-14,2020-07-18,2020-07-19,NA
+1426,"Gadag",68569,40,"Male","Contact under tracing","Fever & Breathlessness","DM",2020-07-18,2020-07-18,2020-07-21,NA
+1573,"Gadag",75252,61,"Male","SARI","Breathlessness","DM",2020-07-19,2020-07-20,2020-07-23,NA
+1577,"Gadag",75641,54,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-21,2020-07-21,2020-07-23,NA
+1667,"Gadag",75541,55,"Male","SARI","Breathlessness","DM,  HTN, CKD",2020-07-17,2020-07-19,2020-07-24,NA
+1706,"Gadag",85602,68,"Male","SARI","Cough & Breathlessness","HTN, DM, IHD",2020-07-20,2020-07-23,2020-07-24,NA
+1776,"Gadag",90619,60,"Female","SARI","Cough & Breathlessness","HTN",2020-07-23,2020-07-23,2020-07-25,NA
+1807,"Gadag",65878,78,"Female","SARI","Fever & Breathlessness","-",2020-07-24,2020-07-25,2020-07-26,NA
+1833,"Gadag",91077,64,"Male","SARI","Fever & Breathlessness","HTN",2020-07-22,2020-07-25,2020-07-26,NA
+1877,"Gadag",52033,65,"Female","SARI","-","DM, HTN",2020-07-13,2020-07-25,2020-07-27,NA
+2017,"Gadag",102447,31,"Male","Contact under tracing","Cough & Breathlessness","HTN",2020-07-24,2020-07-25,2020-07-28,NA
+2030,"Gadag",104620,60,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-26,2020-07-26,2020-07-28,NA
+2068,"Gadag",77608,59,"Male","SARI","Cough & Breathlessness","DM, HTN, IHD",2020-07-19,2020-07-27,2020-07-29,NA
+2081,"Gadag",92434,48,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-27,2020-07-29,NA
+2099,"Gadag",106078,80,"Male","SARI","Breathlessness","HTN",2020-07-26,2020-07-26,2020-07-29,NA
+2172,"Gadag",106087,87,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-26,2020-07-28,2020-07-30,NA
+2218,"Gadag",25320,53,"Female","Contact under tracing","-","DM, HTN",2020-05-07,2020-07-30,2020-07-31,NA
+2238,"Gadag",77226,71,"Female","under","Fever","-",2020-07-16,2020-07-30,2020-07-31,NA
+2259,"Gadag",99473,54,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-25,2020-07-30,2020-07-31,NA
+2325,"Gadag",102157,62,"Male","SARI","Fever & Breathlessness","DM",2020-07-25,2020-07-30,2020-08-01,NA
+2338,"Gadag",107191,70,"Male","SARI","Breathlessness","-",2020-07-27,2020-07-27,2020-08-01,NA
+2425,"Gadag",105188,72,"Male","SARI","Cough","-",2020-07-08,2020-07-30,2020-08-02,NA
+2444,"Gadag",122567,52,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-29,2020-07-30,2020-08-02,NA
+2456,"Gadag",127210,72,"Male","SARI","Cough & Breathlessness","DM, HTN, IHD",2020-07-30,2020-07-30,2020-08-02,NA
+2515,"Gadag",104972,64,"Male","SARI","Cough & Breathlessness","HTN",2020-07-24,2020-07-30,2020-08-03,NA
+2539,"Gadag",121698,51,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-29,2020-08-01,2020-08-03,NA
+2625,"Gadag",117611,40,"Male","SARI","Fever & Cough","-",2020-07-28,2020-08-01,2020-08-04,NA
+2716,"Gadag",107346,76,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-28,2020-08-02,2020-08-05,NA
+2828,"Gadag",129493,43,"Male","SARI","Breathlessness","DM",2020-07-24,2020-08-05,2020-08-06,NA
+2836,"Gadag",134609,62,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-30,2020-08-03,2020-08-06,NA
+2956,"Gadag",152350,54,"Female","SARI","Breathlessness","DM, HTN",2020-08-03,2020-08-04,2020-08-07,NA
+2957,"Gadag",154813,76,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-04,2020-08-06,2020-08-07,NA
+3010,"Gadag",115144,50,"Male","SARI","Cough, Breathlessness","DM",2020-07-28,2020-08-06,2020-08-08,NA
+3138,"Gadag",157645,59,"Male","SARI","Cough, Breathlessness","-",2020-08-03,2020-08-07,2020-08-09,NA
+3225,"Gadag",134207,67,"Male","SARI","Breathlessness","DM, Asthma",2020-07-31,2020-08-09,2020-08-10,NA
+3282,"Gadag",181732,62,"Male","SARI","Cough, Breathlessness","-",2020-08-07,2020-08-08,2020-08-10,NA
+3350,"Gadag",163276,55,"Female","SARI","Breathlessness","-",2020-08-04,2020-08-10,2020-08-11,NA
+3366,"Gadag",181733,55,"Male","SARI","Cough, Breathlessness","-",2020-08-07,2020-08-08,2020-08-11,NA
+3468,"Gadag",187874,49,"Male","SARI","Fever","DM, HTN",2020-08-09,2020-08-09,2020-08-12,NA
+3667,"Gadag",179522,30,"Male","Contact under tracing","-","-",2020-08-07,2020-08-09,2020-08-14,NA
+3738,"Gadag",144188,62,"Female","SARI","-","HTN",2020-08-03,2020-08-14,2020-08-15,NA
+3777,"Gadag",189357,36,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-09,2020-08-12,2020-08-15,NA
+3898,"Gadag",197840,61,"Female","SARI","-","COPD",NA,2020-08-16,2020-08-16,NA
+3912,"Gadag",212307,62,"Female","SARI","Cough, Breathlessness","DM, HTN",NA,2020-08-16,2020-08-16,NA
+4136,"Gadag",196271,67,"Male","SARI","Fever, Breathlessness","DM",2020-08-09,2020-08-14,2020-08-18,NA
+4158,"Gadag",221194,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-13,2020-08-14,2020-08-18,NA
+4230,"Gadag",165819,52,"Male","SARI","Cough, Breathlessness","DM",2020-08-07,2020-08-16,2020-08-19,NA
+4290,"Gadag",236042,61,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-18,2020-08-19,NA
+4383,"Gadag",236043,84,"Male","ILI","Cough","DM, HTN",2020-08-15,2020-08-19,2020-08-20,NA
+4482,"Gadag",241914,62,"Male","SARI","Breathlessness","-",2020-08-15,2020-08-18,2020-08-21,NA
+4534,"Gadag",189350,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-09,2020-08-19,2020-08-22,NA
+4539,"Gadag",208603,75,"Male","SARI","Fever, Breathlessness","HTN, IHD",2020-08-12,2020-08-19,2020-08-22,NA
+4729,"Gadag",237582,68,"Male","Contact under tracing","Fever, Breathlessness","IHD",2020-08-16,2020-08-20,2020-08-24,NA
+4907,"Gadag",257569,50,"Male","SARI","Breathlessness","-",2020-08-17,2020-08-23,2020-08-25,NA
+5034,"Gadag",274385,70,"Male","SARI","Cough, Breathlessness","-",2020-08-19,2020-08-24,2020-08-26,NA
+5076,"Gadag",295170,68,"Male","ILI","Fever","-",2020-08-15,2020-08-21,2020-08-26,NA
+5194,"Gadag",288820,64,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-22,2020-08-23,2020-08-27,NA
+5215,"Gadag",307839,32,"Male","SARI","Fever, Cough","DM, HTN",2020-08-12,2020-08-22,2020-08-27,NA
+5348,"Gadag",307840,66,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-10,2020-08-23,2020-08-28,NA
+5349,"Gadag",308812,58,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-25,2020-08-28,NA
+5350,"Gadag",309799,63,"Male","SARI","Fever, Cough, Breathlessness",NA,2020-08-24,2020-08-25,2020-08-28,NA
+5377,"Gadag",215504,55,"Male","SARI","Cough, Breathlessness","-",2020-08-11,2020-08-26,2020-08-29,NA
+5507,"Gadag",220345,60,"Male","SARI","Fever, Cough, Breathlessness","DM, AKI",2020-08-14,2020-08-28,2020-08-30,NA
+5544,"Gadag",300821,35,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-22,2020-08-27,2020-08-30,NA
+5558,"Gadag",321504,70,"Male","SARI","Fever, Breathlessness","-",2020-08-24,2020-08-27,2020-08-30,NA
+5676,"Gadag",334130,48,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-21,2020-08-25,2020-08-31,NA
+5749,"Gadag",275822,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-20,2020-08-31,2020-09-01,NA
+5792,"Gadag",324516,89,"Male","SARI","Fever, Cough, Breathlessness","HTN, AKI",2020-08-27,2020-08-31,2020-09-01,NA
+5854,"Gadag",262136,45,"Male","SARI","Cough, Breathlessness","-",2020-08-19,2020-08-31,2020-09-02,NA
+5861,"Gadag",273451,74,"Female","SARI","Fever, Breathlessness","DM",2020-08-20,2020-08-27,2020-09-02,NA
+5898,"Gadag",316055,65,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-31,2020-09-02,NA
+6004,"Gadag",324519,75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-27,2020-08-29,2020-09-03,NA
+6020,"Gadag",342737,57,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-31,2020-09-03,NA
+6032,"Gadag",350359,71,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-31,2020-09-03,NA
+6124,"Gadag",350358,70,"Male","SARI","Fever, Breathlessness","-",2020-08-27,2020-09-01,2020-09-04,NA
+6142,"Gadag",368106,76,"Male","SARI","Cough, Breathlessness","DM",2020-08-30,2020-09-01,2020-09-04,NA
+6200,"Gadag",315299,62,"Male","SARI","Cough, Breathlessness","-",2020-08-27,2020-09-01,2020-09-05,NA
+6251,"Gadag",361429,62,"Male","SARI","Breathlessness","-",2020-08-30,2020-09-02,2020-09-05,NA
+6268,"Gadag",374865,72,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-17,2020-09-02,2020-09-05,NA
+6365,"Gadag",374864,65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-01,2020-09-02,2020-09-06,NA
+6373,"Gadag",380782,50,"Female","SARI","Breathlessness","-",2020-08-30,2020-09-02,2020-09-06,NA
+6503,"Gadag",382457,36,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-26,2020-09-03,2020-09-07,NA
+6514,"Gadag",399020,58,"Male","SARI","Breathlessness","-",2020-09-03,2020-09-04,2020-09-07,NA
+6533,"Gadag",229022,63,"Male","SARI","Fever","-",2020-08-15,2020-09-06,2020-09-08,NA
+6617,"Gadag",374871,80,"Female","SARI","Cough, Breathlessness","DM, AKI",2020-09-01,2020-09-05,2020-09-08,NA
+6680,"Gadag",221196,59,"Male","SARI","Breathlessness","-",2020-08-13,2020-09-06,2020-09-09,NA
+6772,"Gadag",399022,80,"Male","SARI","Breathlessness","DM, HTN",2020-09-04,2020-09-07,2020-09-09,NA
+6877,"Gadag",398858,72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-03,2020-09-07,2020-09-10,NA
+6878,"Gadag",399010,83,"Male","SARI","Breathlessness","HTN",2020-09-02,2020-09-08,2020-09-10,NA
+6945,"Gadag",309802,64,"Female","SARI","Cough, Breathlessness","-",2020-08-24,2020-09-06,2020-09-11,NA
+7054,"Gadag",439986,63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-07,2020-09-11,NA
+7118,"Gadag",398071,46,"Male","SARI","Fever, Breathlessness","DM",2020-09-09,2020-09-10,2020-09-12,NA
+7217,"Gadag",396393,64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-04,2020-09-12,2020-09-13,NA
+7221,"Gadag",405111,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-07,2020-09-10,2020-09-13,NA
+7372,"Gadag",470554,52,"Male","Contact under tracing","Breathlessness","-",2020-09-02,2020-09-05,2020-09-14,NA
+7373,"Gadag",470556,54,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-01,2020-09-06,2020-09-14,NA
+7455,"Gadag",464745,60,"Male","SARI","Fever, Breathlessness","-",2020-09-01,2020-09-07,2020-09-15,NA
+7464,"Gadag",470555,77,"Male","SARI","Fever, Breathlessness","DM",2020-09-03,2020-09-07,2020-09-15,NA
+7619,"Gadag",471331,72,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-09,2020-09-17,2020-09-17,NA
+7625,"Gadag",473777,45,"Female","Contact under tracing","Cough, Breathlessness","-",2020-09-05,2020-09-17,2020-09-17,NA
+7776,"Gadag",472024,76,"Male","SARI","Fever, Breathlessness","-",2020-09-09,2020-09-18,2020-09-18,NA
+7784,"Gadag",479151,85,"Female","ILI","Fever, Cough","-",2020-09-11,2020-09-18,2020-09-18,NA
+7959,"Gadag",439988,65,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-05,2020-09-11,2020-09-20,NA
+7979,"Gadag",473778,65,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-06,2020-09-06,2020-09-20,NA
+7991,"Gadag",484774,64,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-13,2020-09-14,2020-09-20,NA
+8017,"Gadag",514683,61,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-04,2020-09-14,2020-09-20,NA
+8093,"Gadag",490042,67,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-14,2020-09-16,2020-09-21,NA
+8100,"Gadag",495953,52,"Male","Contact Under Tracing","-","-",2020-09-15,2020-09-15,2020-09-21,NA
+8126,"Gadag",514686,59,"Male","SARI","Cough, Breathlessness","-",2020-08-31,2020-09-15,2020-09-21,NA
+8140,"Gadag",525437,80,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2020-08-24,2020-09-16,2020-09-21,NA
+8175,"Gadag",451085,74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-09,2020-09-16,2020-09-22,NA
+8199,"Gadag",484772,63,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-16,2020-09-22,NA
+8378,"Gadag",487822,60,"Male","SARI","Cough, Breathlessness","DM",2020-09-14,2020-09-18,2020-09-25,NA
+8401,"Gadag",525438,40,"Male","SARI","Cough, Breathlessness","-",2020-08-25,2020-09-17,2020-09-25,NA
+8462,"Gadag",507251,85,"Male","SARI","Breathlessness","DM, IHD",2020-09-16,2020-09-19,2020-09-26,NA
+8551,"Gadag",536240,90,"Male","SARI","Breathlessness","-",2020-09-18,2020-09-21,2020-09-27,NA
+8768,"Gadag",574344,58,"Male","SARI","Breathlessness","-",2020-09-24,2020-09-26,2020-09-29,NA
+8829,"Gadag",555566,59,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-21,2020-09-26,2020-09-30,NA
+9195,"Gadag",598532,62,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-30,2020-10-03,NA
+9373,"Gadag",656398,60,"Female","SARI","Breathlessness","HTN",2020-09-15,2020-09-28,2020-10-05,NA
+9374,"Gadag",656399,55,"Male","SARI","Breathlessness","CKD",2020-09-23,2020-09-30,2020-10-05,NA
+9455,"Gadag",641851,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-24,2020-10-01,2020-10-06,NA
+9796,"Gadag",700842,58,"Male","SARI","Cough, Breathlessness","-",2020-10-02,2020-10-03,2020-10-09,NA
+9878,"Gadag",676321,60,"Male","ILI","Fever, Cough","-",2020-10-04,2020-10-06,2020-10-10,NA
+10001,"Gadag",636708,70,"Female","SARI","Fever, Breathlessness","DM",2020-10-01,2020-10-07,2020-10-12,NA
+10192,"Gadag",716027,42,"Male","SARI","Breathlessness","DM",2020-10-08,2020-10-09,2020-10-14,NA
+10424,"Gadag",740335,55,"Female","SARI","Fever, Breathlessness","-",2020-10-10,2020-10-15,2020-10-17,NA
+11102,"Gadag",347664,24,"Male","SARI","Breathlessness","-",2020-08-22,2020-08-30,2020-10-30,NA
+16398,"Gadag",1477305,54,"Female","ILI","Fever, Cough","-",2021-04-25,2021-05-01,2021-05-04,NA
+16441,"Gadag",1564629,54,"Female","SARI","Breathlessness","-",2021-04-24,2021-05-01,2021-05-04,NA
+16472,"Gadag",1610400,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-30,2021-05-04,NA
+16684,"Gadag",1379548,65,"Female","ILI","Fever, cough","-",2021-04-21,2021-05-02,2021-05-05,NA
+16818,"Gadag",1643764,78,"Female","SARI","Breathlessness","HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16822,"Gadag",1648927,60,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-05,NA
+17020,"Gadag",1477299,82,"Female","SARI","Fever, cough, breathlessness","HTN",2021-04-25,2021-05-03,2021-05-06,NA
+17181,"Gadag",1747157,68,"Male","SARI","Cough, breathlessness","DM",2021-05-01,2021-05-04,2021-05-06,NA
+17551,"Gadag",1564641,62,"Male","SARI","Fever, breathlessness","-",2021-04-27,2021-05-06,2021-05-07,NA
+17624,"Gadag",1648926,58,"Male","SARI","Fever, breathlessness","HTN",2021-04-27,2021-05-04,2021-05-07,NA
+17674,"Gadag",1701462,50,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-01,2021-05-07,NA
+18111,"Gadag",1608606,80,"Female","SARI","Cough, Breathlessness","HTN",2021-05-06,2021-05-07,2021-05-08,NA
+18242,"Gadag",1846810,47,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-05,2021-05-08,NA
+18654,"Gadag",1794710,52,"Female","SARI","Fever & Breathlessness","DM",2021-05-01,2021-05-07,2021-05-09,NA
+18655,"Gadag",1795552,46,"Female","SARI","Fever & Breathlessness","DM",2021-05-02,2021-05-07,2021-05-09,NA
+18754,"Gadag",1940003,63,"Female","SARI","Fever & Breathlessness","DM, COPD",2021-05-06,2021-05-07,2021-05-09,NA
+19203,"Gadag",1746668,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-08,2021-05-10,NA
+19336,"Gadag",1946373,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-08,2021-05-10,NA
+19805,"Gadag",1947548,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-09,2021-05-11,NA
+19831,"Gadag",1993653,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-10,2021-05-11,NA
+19832,"Gadag",1994546,83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-09,2021-05-11,NA
+20109,"Gadag",1794707,69,"Female","ILI","Fever, Cough","-",2021-05-01,2021-05-06,2021-05-12,NA
+20198,"Gadag",1877198,75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-12,NA
+20272,"Gadag",1947903,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-12,2021-05-12,NA
+20356,"Gadag",2046407,67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-11,2021-05-12,NA
+20525,"Gadag",1743666,73,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-12,2021-05-13,NA
+20542,"Gadag",1794706,74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-11,2021-05-13,NA
+20643,"Gadag",2010721,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-11,2021-05-13,NA
+20673,"Gadag",2049212,57,"Male","ILI","Fever, Cough","-",2021-05-08,2021-05-12,2021-05-13,NA
+20694,"Gadag",2083887,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-13,NA
+20953,"Gadag",1994543,68,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-05,2021-05-12,2021-05-14,NA
+21038,"Gadag",2118248,68,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-14,NA
+21088,"Gadag",2190730,57,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-14,NA
+21089,"Gadag",2191931,38,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-14,NA
+21159,"Gadag",1646789,64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-13,2021-05-15,NA
+21266,"Gadag",1947581,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-12,2021-05-15,NA
+21289,"Gadag",1993654,42,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-12,2021-05-15,NA
+21349,"Gadag",2083890,58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-15,NA
+21641,"Gadag",1939930,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-16,NA
+21677,"Gadag",2002724,36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-16,NA
+21759,"Gadag",2112389,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-13,2021-05-16,NA
+21760,"Gadag",2112394,63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-14,2021-05-16,NA
+21928,"Gadag",1564618,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-25,2021-05-13,2021-05-17,NA
+22099,"Gadag",1997562,70,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-10,2021-05-15,2021-05-17,NA
+22110,"Gadag",2010720,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-17,NA
+22234,"Gadag",2190734,62,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-12,2021-05-14,2021-05-17,NA
+22672,"Gadag",2075378,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-18,NA
+22727,"Gadag",2154306,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-16,2021-05-18,NA
+22733,"Gadag",2158508,76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-17,2021-05-18,NA
+22735,"Gadag",2159556,57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-18,NA
+22814,"Gadag",2263345,68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-16,2021-05-18,NA
+23181,"Gadag",2158504,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-19,NA
+23183,"Gadag",2159544,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-19,NA
+23197,"Gadag",2172638,42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-15,2021-05-19,NA
+23264,"Gadag",2263276,87,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-19,NA
+23297,"Gadag",2312506,76,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-16,2021-05-19,NA
+23621,"Gadag",2046398,66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-15,2021-05-20,NA
+23699,"Gadag",2154318,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-18,2021-05-20,NA
+23782,"Gadag",2263344,80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-16,2021-05-20,NA
+23783,"Gadag",2263346,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-20,NA
+23787,"Gadag",2268602,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-17,2021-05-20,NA
+24089,"Gadag",2236204,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-15,2021-05-21,NA
+24103,"Gadag",2247043,77,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-21,NA
+24184,"Gadag",2351740,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24189,"Gadag",2356832,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-21,NA
+24190,"Gadag",2358349,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24506,"Gadag",2154325,69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-20,2021-05-22,NA
+24596,"Gadag",2340598,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-05-22,NA
+24611,"Gadag",2356831,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-05-22,NA
+24623,"Gadag",2367598,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-22,NA
+25002,"Gadag",2097846,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-23,NA
+25047,"Gadag",2159557,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-23,NA
+25201,"Gadag",2365246,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-23,NA
+25228,"Gadag",2386755,74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25663,"Gadag",2312995,46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-24,NA
+25706,"Gadag",2360914,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-05-24,NA
+26181,"Gadag",2190721,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-24,2021-05-25,NA
+26220,"Gadag",2263260,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-24,2021-05-25,NA
+26254,"Gadag",2312513,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-24,2021-05-25,NA
+26255,"Gadag",2312527,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-23,2021-05-25,NA
+26393,"Gadag",2496909,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-05-23,2021-05-25,NA
+26877,"Gadag",2471965,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-26,2021-05-26,NA
+26898,"Gadag",2494295,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-25,2021-05-26,NA
+26915,"Gadag",2510266,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-26,NA
+26926,"Gadag",2524893,80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-26,2021-05-26,NA
+27265,"Gadag",2344615,64,"Female","SARI","Fever, cough, breathlessness","-",2021-05-16,2021-05-26,2021-05-27,NA
+27286,"Gadag",2379391,65,"Female","ILI","Fever, cough","-",2021-05-16,2021-05-20,2021-05-27,NA
+27290,"Gadag",2384422,54,"Male","SARI","Fever, cough, breathlessness","-",2021-05-23,2021-05-26,2021-05-27,NA
+27380,"Gadag",2500000,62,"Male","SARI","Fever, cough, breathlessness","-",2021-05-23,2021-05-23,2021-05-27,NA
+27393,"Gadag",2524863,60,"Male","SARI","Fever, cough, breathlessness","-",2021-05-22,2021-05-26,2021-05-27,NA
+27703,"Gadag",2443201,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-26,2021-05-28,NA
+27790,"Gadag",2564500,40,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-23,2021-05-28,NA
+27791,"Gadag",2564503,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-23,2021-05-28,NA
+27792,"Gadag",2564504,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-05-28,NA
+27793,"Gadag",2564506,37,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-24,2021-05-28,NA
+28157,"Gadag",2443196,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-21,2021-05-29,NA
+28268,"Gadag",2556184,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-29,NA
+28272,"Gadag",2564505,39,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-24,2021-05-29,NA
+28274,"Gadag",2565714,31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-29,NA
+28276,"Gadag",2568764,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-27,2021-05-29,NA
+28566,"Gadag",2424994,41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-26,2021-05-30,NA
+28622,"Gadag",2520198,79,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-27,2021-05-30,NA
+28645,"Gadag",2559602,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-27,2021-05-30,NA
+28646,"Gadag",2559611,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-05-30,NA
+28660,"Gadag",2584216,70,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-26,2021-05-28,2021-05-30,NA
+29017,"Gadag",2534565,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-05-31,NA
+29034,"Gadag",2565744,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-29,2021-05-31,NA
+29037,"Gadag",2570199,86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-27,2021-05-31,NA
+29069,"Gadag",2612079,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-28,2021-05-31,NA
+29403,"Gadag",2393968,64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-28,2021-06-01,NA
+29470,"Gadag",2524924,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-30,2021-06-01,NA
+29517,"Gadag",2584190,54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29527,"Gadag",2605794,36,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-06-01,NA
+29821,"Gadag",2344611,65,"Male","ILI","Cough","DM, HTN",2021-05-15,2021-05-30,2021-06-02,NA
+29824,"Gadag",2353527,60,"Female","ILI","Cough","DM, HTN",2021-05-17,2021-05-31,2021-06-02,NA
+29967,"Gadag",2617656,45,"Male","ILI","Fever, Cough","-",2021-05-28,2021-05-31,2021-06-02,NA
+29995,"Gadag",2652081,57,"Female","ILI","Fever","-",2021-05-30,2021-05-30,2021-06-02,NA
+30449,"Gadag",2599941,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-03,NA
+30450,"Gadag",2601547,62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-31,2021-06-03,NA
+30519,"Gadag",2677992,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-06-01,2021-06-03,NA
+30535,"Gadag",2694325,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-06-03,NA
+30788,"Gadag",2550534,80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-03,2021-06-04,NA
+30889,"Gadag",2694324,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-31,2021-06-04,NA
+30890,"Gadag",2694327,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CCF",2021-05-19,2021-06-01,2021-06-04,NA
+31146,"Gadag",2545114,40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-06-03,2021-06-05,NA
+31182,"Gadag",2617661,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-03,2021-06-05,NA
+31188,"Gadag",2626952,80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-05,NA
+31264,"Gadag",2725806,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-05,2021-06-05,NA
+31505,"Gadag",2621980,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-06,2021-06-06,NA
+31517,"Gadag",2638020,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-04,2021-06-06,NA
+31543,"Gadag",2692698,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-03,2021-06-03,2021-06-06,NA
+31581,"Gadag",2727119,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-05,2021-06-06,NA
+31754,"Gadag",2477525,78,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-06-06,2021-06-07,NA
+31912,"Gadag",2731425,88,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-06,2021-06-07,NA
+32041,"Gadag",2680712,86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-06,2021-06-08,NA
+32073,"Gadag",2725805,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-07,2021-06-08,NA
+32236,"Gadag",2714843,80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-07,2021-06-09,NA
+32279,"Gadag",2753376,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-06,2021-06-07,2021-06-09,NA
+32386,"Gadag",2657376,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-09,2021-06-10,NA
+32402,"Gadag",2680729,62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-09,2021-06-10,NA
+32427,"Gadag",2714502,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-08,2021-06-10,NA
+32523,"Gadag",2545099,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-06-09,2021-06-11,NA
+32566,"Gadag",2663151,66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-30,2021-06-09,2021-06-11,NA
+32591,"Gadag",2718648,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-09,2021-06-09,2021-06-11,NA
+32688,"Gadag",2610799,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-09,2021-06-12,NA
+32737,"Gadag",2714493,87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2021-05-30,2021-06-10,2021-06-12,NA
+32830,"Gadag",2631519,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-11,2021-06-13,NA
+33186,"Gadag",2680724,70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-10,2021-06-16,NA
+33219,"Gadag",2725802,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-15,2021-06-16,NA
+33593,"Gadag",2837929,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-17,2021-06-18,NA
+33701,"Gadag",2802745,85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-10,2021-06-19,2021-06-19,NA
+33832,"Gadag",2775890,82,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-13,2021-06-17,2021-06-20,NA
+33999,"Gadag",2821271,70,"Male","ILI","Fever, Cough","-",2021-06-17,2021-06-19,2021-06-21,NA
+34762,"Gadag",2868857,90,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-23,2021-06-26,NA
+34766,"Gadag",2871981,84,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-25,2021-06-26,NA
+34804,"Gadag",2777678,67,"Female","SARI ","Fever, Cough, Breathlessness ","HTN ",2021-06-10,2021-06-27,2021-06-27,NA
+34853,"Gadag",2872228,85,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",2021-06-03,2021-06-25,2021-06-27,NA
+34938,"Gadag",2878166,54,"Female","ILI ","Fever, Cough ","- ",2021-06-06,2021-06-26,2021-06-28,NA
+34939,"Gadag",2878232,60,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",2021-06-13,2021-06-27,2021-06-28,NA
+35028,"Gadag",2864955,68,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35042,"Gadag",2881185,70,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35147,"Gadag",2881642,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-06-28,2021-06-30,NA
+35149,"Gadag",2884950,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-26,2021-06-30,NA
+35242,"Gadag",2884951,65,"Female","ILI","Fever, Cough","-",2021-05-01,2021-06-29,2021-07-01,NA
+35248,"Gadag",2888131,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-27,2021-07-01,NA
+35321,"Gadag",2877016,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-07-01,2021-07-02,NA
+35414,"Gadag",2890970,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-05,2021-07-01,2021-07-03,NA
+35468,"Gadag",2884811,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-02,2021-07-04,NA
+35514,"Gadag",2825936,44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-07-02,2021-07-05,NA
+35790,"Gadag",2834620,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-07-06,2021-07-09,NA
+35946,"Gadag",2912144,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-22,2021-07-09,2021-07-11,NA
+35972,"Gadag",2877015,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-07-10,2021-07-12,"Died at her residence"

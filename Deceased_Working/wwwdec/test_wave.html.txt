@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>India COVID-19</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=1024">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+ <link rel="stylesheet" href="../css/web.css">
+
+
+    <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <style>
+      body {  
+      background-color:
+      font-family: Verdana, Arial, Helvetica,sans-serif;
+      font-size: 20px;
+      color: #000000;
+      }
+
+      .page-header{
+      padding-bottom:9px;
+      margin:40px 0 20px;
+      border-bottom:1px solid #eee
+      text-align: center;
+      }
+
+
+      .navbar{
+      text-align: center;
+      background-color: #151515;
+      }
+
+      /* Set black background color, white text and some padding */
+      footer {
+      background-color: #151515;
+      color: white;
+      padding: 15px;
+      }
+      hr {
+    border-top: 1px solid red;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container page">
+
+<div class="row ">
+  <div class="col-sm-10 col-sm-offset-2 col-xs-12"><!-- <div class="col-xs-12"> -->
+    <div class="page-header">
+      <h3 class="text-center"> <font color=maroon>COVID-19 India-Timeline</font> 
+	<small> <font color=maroon>an understanding across States and Union Territories</font></small></h3>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid">
+
+  
+  <nav class="navbar navbar-expand-lg navbar-dark "> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto" style="float: left">
+	<li class="nav-item active"><a class="navbar-brand" style="float: left" href="index.php" target="_blank"><h4><font color=#cc79a7>Home</font></h4></a></li>	
+ 	<li class="nav-item active"><a class="navbar-brand" style="float: left" href="data.php" target="_blank"><h4><font color=#cc79a7>Data</font></h4></a> </li>
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left" href="./feedback.php" target="_blank"><h4><font color=#cc79a7>Feedback</font></h4></a> </li>
+      </ul>
+  </nav>
+  <nav class="navbar navbar-expand-lg navbar-dark"> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto" style="float: left">
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="" target="_blank"><h5><font color=#f0e442>India States:</font></h5></a> </li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./timeline.php" target="_blank"><h5> Timeline</h5></a></li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./log.php" target="_blank"><h5>Cases</h5></a></li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./iact.php" target="_blank"><h5> Active Cases</h5></a></li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./indiar.php" target="_blank"><h5>$R_t$</h5></a></li>
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="dt.php" target="_blank"><h5>Doubling time</h5></a> </li>
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="feg.php" target="_blank"><h5>Falling off Exponential</h5></a> </li>
+      </ul>
+  </nav>
+  <nav class="navbar navbar-expand-lg navbar-dark "> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto">	  
+     	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="" target="_blank"><h5><font color=#f0e442>Karnataka:</font></h5></a> </li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./timelinek.php" target="_blank"><h5> Timeline</h5></a></li>
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./loggk.php" target="_blank"><h5>Cases</h5></a></li>
+     	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kaactive.php" target="_blank"><h5> Active Cases</h5></a></li>
+        <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kart.php" target="_blank"><h5>$R_t$</h5></a></li>
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="dtk.php" target="_blank"><h5>Doubling time</h5></a> </li>
+	<li class="nav-item active">  <a class="navbar-brand" style="float: left"  href="fegk.php" target="_blank"><h5>Falling off Exponential</h5></a> </li>
+
+      </ul>
+    </div>
+  </nav>  
+  <nav class="navbar navbar-expand-lg navbar-dark "> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto">	  
+  <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./wp" target="_blank"><h5><font color=#f0e442>Karnataka Districts:</font> One Week Predictions </h5></a></li>
+       <!-- <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kaicu.php" target="_blank"><h5>Testing and ICU </h5></a></li>
+        <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kavac.php" target="_blank"><h5>Vaccination </h5></a></li>-->
+       
+<!--  <li class="nav-item dropdown">
+    <a class="navbar-brand" style="float: left"  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      <font color=white><h5>Deceased Data</h5></font>
+    </a>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+      <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./kadec.php" target="_blank"><font color=maroon>Overall  </font> </a>
+      <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./kaagedec.php" target="_blank"><font color=maroon>Age-Distribution </font> </a>
+      <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./kahosrat.php" target="_blank"><font color=maroon>Hospitalisation Ratio  </font> </a>
+      <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./kadays.php" target="_blank"><font color=maroon>Days to Decease </font> </a>
+      <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./karep.php" target="_blank"><font color=maroon>Days to Report  </font> </a>
+    </div>-->
+
+
+
+<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kadec.php" target="_blank"><h5>Deceased Data </h5></a></li>
+ 
+      </ul>
+    </div>
+  </nav>  
+  <nav class="navbar navbar-expand-lg navbar-dark "> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto">	  
+	<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kinf/index.php" target="_blank"><h5><font color=#f0e442> Karnataka Cases(March-June 2020):</font>  In Depth  </h5></a></li>
+	<li class="nav-item dropdown">
+	  <a class="navbar-brand" style="float: left"  class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+	    <font color=white><h5>Trace History</h5></font>
+	  </a>
+	  <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=restkar" target="_blank"><font color=maroon>Clusters: Imported and Local  </font> </a>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=ili" target="_blank"><font color=maroon> Clusters: Influenza Like Illness</font></a><br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=sari" target="_blank"><font color=maroon> Clusters: Sever Acute Respiratory Infection</font></a><br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=un" target="_blank"><font color=maroon> Clusters: Unknown </font></a><br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=ot" target="_blank"><font color=maroon> Clusters: Others </font></a><br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=mh1kar" target="_blank"><font color=maroon> From Maharashtra - May 15</font></a><br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=mh2kar" target="_blank"><font color=maroon>  From Maharashtra - May 15- 31</font></a>
+	    <br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=mh5kar" target="_blank"><font color=maroon>  From Maharashtra - June 1st- June 5th</font></a>
+	    <br>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=mh6kar" target="_blank"><font color=maroon>  From Maharashtra - June 5th-12th</font></a>
+	    <a class="navbar-brand" style="float: left"  class="dropdown-item" href="./trace/karframeall.php?cluster=mh7kar" target="_blank"><font color=maroon>  From Maharashtra - June 12th-</font></a>
+	  </div>
+      </ul>
+    </div>
+  </nav>  
+<!--  <nav class="navbar navbar-expand-lg navbar-dark "> 
+    <div class="container">
+      <ul class="navbar-nav mr-auto">	  
+  <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./" target="_blank"><h5><font color=#f0e442>Karnataka Districts:</font> </h5></a></li>
+<li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kadec.php" target="_blank"><h5><font color=#f0e442>Deceased Data:</font> </h5></a></li> <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kaagedec.php" target="_blank"><h5>Age-Gender Distribution </h5></a></li>  <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kahosrat.php" target="_blank"><h5>Hospitalisation Ratio </h5></a></li> <li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./kadays.php" target="_blank"><h5>Days to Decease </h5></a></l><li class="nav-item active"> <a class="navbar-brand" style="float: left"  href="./karep.php" target="_blank"><h5>Days to Report</h5></a></li>
+      </ul>
+    </div>
+  </nav> --> 
+
+  </div>
+
+ 
+
+<div class="row" align=center>
+      <div class="col-sm-12">
+<center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+
+  <br><br>  
+  <h3> <font color=maroon>Karnataka Deceased Data </font></h3>
+ <h4><font color=maroon>Wave 1 versus Wave 2</h4> </font> 
+</div>
+</div>
+  <div class="row">
+    <div class="col-sm-12">
+
+<p align="left">We have partitioned the pandemic timeline into three waves.</p>
+<ul align="left">
+  <li>Wave 1 - till the end of October 2020</li>
+  <li>Middle wave - from November 2020 till the end of January 2021</li>
+  <li>Wave 2 - from February 2021 till present</li>
+</ul>
+<p align="left">Since,the counts during the Wave Middle were comparatively low,so,for some of the plots, we only considered Wave 1 and Wave 2 for our analysis.</p>
+
+
+<br>
+
+<h4>Distribution of number of deceasaed</h4>
+<br>
+<!-- <a href="./plotlyfiguresdec/linePlotAgeDistr.html" target=top>   <img src="./plotlyfiguresdec/linePlotAgeDistr.png" style="width:49%"></a>-->
+ <a href="./plotlyfiguresdec/linePlotAgeDistrPercent.html" target=top>   <img src="./plotlyfiguresdec/linePlotAgeDistrPercent.png" style="width:49%"></a>
+ <a href="./plotlyfiguresdec/waveScatter.html" target=top>   <img src="./plotlyfiguresdec/waveScatter.png" style="width:49%"></a>
+
+<br>
+<p align="left">The graph on left  represents monthwise death count. Although there has been slight increase in deaths in August 2020, there is a visible spike of death cases in May 2021.</p>
+<p> The graph on the right  is a plot of number of deceased in each district in wave 1 versus the number of deceased in wave 2. The point size indicates the sum of deaths during the two waves across districts. The line y=x has been plotted. This suggests that the districts above the line have wave 2 death count higher than wave 1 death count, while districts below the line have wave 1 death count higher than that of wave 2.  <font color=#cc79a7>The number of deceased in Bengaluru Urban during wave 1 is 3836, during middle wave is 488 and during wave 2 is 11235 as of 2nd July, 2021. Due to the large count, this district has not been plotted.</font>
+  
+<br><hr><br>
+
+<h4>Age and Gender Distribution across waves</h4>
+<br>
+
+<p align="left">The first two(from the left) graphs present wave 1 and
+wave 2 deceased COVID-19 patients age distribution along with the
+census of population of Karnataka for reference. Though the trends in
+wave 1 and wave 2 are almost similar, from the graph it can be seen
+that the mean age of deceased in wave 1 is around 61 and wave 2 is
+around 60.  </p>
+
+<br>  
+ <a href="./plotlyfiguresdec/wave1AgePop.html" target=top>   <img src="./plotlyfiguresdec/wave1AgePop.png" style="width:30%"></a>
+ <a href="./plotlyfiguresdec/wave2AgePop.html" target=top>   <img src="./plotlyfiguresdec/wave2AgePop.png" style="width:30%"></a>
+ <a href="./plotlyfiguresdec/ageAcrossWaves.html" target=top>   <img src="./plotlyfiguresdec/ageAcrossWaves.png" style="width:30%"></a>
+
+<p> In the third(from the left) graph above we plot a stacked histogram of age
+distribution across waves.  The deceased population between 0-40 has
+increased three fold during wave 2 and around two fold in the other
+age groups. In all the below stacked age-gender graphs, the yellow color indicates the males while the blue indicates the females. </p>
+
+ <a href="./plotlyfiguresdec/wave1AgeDistr.html" target=top>   <img src="./plotlyfiguresdec/wave1AgeDistr.png" style="width:30%"></a>
+ <a href="./plotlyfiguresdec/midWaveAgeDistr.html" target=top>   <img src="./plotlyfiguresdec/midWaveAgeDistr.png" style="width:30%"></a>
+ <a href="./plotlyfiguresdec/wave2AgeDistr.html" target=top>   <img src="./plotlyfiguresdec/wave2AgeDistr.png" style="width:30%"></a>
+
+<p>In all waves the there are significantly more male deaths then female deaths.  </p>
+
+<ul> <li><button type="button" class="btn btn-link"  data-toggle="collapse" data-target="#adage"><font color=maroon><h5>Confidence Interval for Age  across districts</h5></font> </button></li>   	  <div class="collapse" id="adage">
+
+ <a href="./plotlyfiguresdec/waveCI-T.html" target=top>   <img src="./plotlyfiguresdec/waveCI-T.png" style="width:100%"></a>
+
+<br>
+<p align="left">This plot represents the confidence interval for the age of the deceased by each district. It has been ordered in descending order of mean age of the deceased in wave 1. The 95% t-interval around the mean age has been calculated and plotted. A wide variation about the districts can be observed.</p>
+</div>
+</ul>
+<br><br>
+      </ul>
+      <br><hr><br>
+
+       <h4>Days to Decease and Report (Wave-1 vs Wave-2)</h4>
+      <p align="left"> The graph below represents the distribution of days to decease(wave-wise) in Karnataka based on the data collected. </p>
+<!--	    <a href="./plotlyfiguresdec/daystodecease_wavewise.html" target=top>   <img src="./plotlyfiguresdec/daystodecease_wavewise.png" style="width:100%"></a>-->
+	    <a href="./plotlyfiguresdec/wavewise_decease_mean.html" target=top>   <img src="./plotlyfiguresdec/wavewise_decease_mean.png" style="width:49%"></a>  <a href="./plotlyfiguresdec/mean_report_wave.html" target=top>   <img src="./plotlyfiguresdec/mean_report_wave.png" style="width:49%"></a>
+
+  <!--	    <a href="./plotlyfiguresdec/daystoreport_wave.html" target=top>   <img src="./plotlyfiguresdec/daystoreport_wave.png" style="width:100%"></a>-->
+  
+<ul> <li><button type="button" class="btn btn-link"  data-toggle="collapse" data-target="#addw"><font color=maroon><h5>Confidence Interval for Days to Decease(Wave-1 vs Wave-2)</h5></font> </button></li>   	  <div class="collapse" id="addw">
+  <p align="left"> The graph below represents the confidence interval for days to decease(wave-wise) in Karnataka based on the data collected.  The 95% t-interval around the mean is calculated and plotted below. </p>
+      <a href="./plotlyfiguresdec/ci_t_wavewise_decease.html" target=top>   <img src="./plotlyfiguresdec/ci_t_wavewise_decease.png" style="width:100%"></a>
+      <p align="left">.</p>
+</div>
+</ul>
+
+<ul> <li><button type="button" class="btn btn-link"  data-toggle="collapse" data-target="#ador"><font color=maroon><h5>Confidence Interval for Days to Report(Wave-1 vs Wave-2)</h5></font> </button></li>   	  <div class="collapse" id="ador">
+  <p align="left"> The graph below represents the confidence interval for days to report(wave-wise) in Karnataka based on the data collected. The 95% t-interval around the mean is calculated and plotted below. </p>
+      <a href="./plotlyfiguresdec/ci_t_report_wave.html" target=top>   <img src="./plotlyfiguresdec/ci_t_report_wave.png" style="width:100%"></a>
+
+</div>
+</ul>
+<br><hr><br>
+</div>
+</div>
+ 
+
+
+      <footer class="container-fluid text-left">
+	<div class="row">
+	  <div class="col-sm-12">
+<p>Suggested BibTeX citation:</p>
+<pre>
+<font color="#ffffff">@misc{inc19,
+      Contributors = {ISI-IISC-Team: Sree Akshaya, Siva Athreya, Srivatsa B., Nitya Gadhiwala,   Jainam Khakra, Abhiti Mishra, Sandipan Mishra, Srigyan Nandi,  Nihesh Rathod, A. Y. Sarath, Rajesh Sundaresan, Srinidi Veeraraghavan. },
+      TITLE = {Covid-19 States of India and Karnataka District Timeline 20-21},
+      YEAR = {2020},
+  NOTE = {at \url{http://www.isibang.ac.in/~athreya/incovid19}}}</font>
+</pre>
+
+	    <br><br> <font color="#ffffff"></font>
+   	  </div>
+	</div>
+      </footer>
+      
+    </div>
+
+</body>
+</html>

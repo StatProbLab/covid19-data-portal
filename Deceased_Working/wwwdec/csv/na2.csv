@@ -1,0 +1,298 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+1,"Kalaburagi","6",76,"Male","Travel history to Saudi Arabia",NA,"HTN & Asthama",NA,NA,"2020-03-13",NA,NA,NA
+2,"Chikkaballapura","53",70,"Female","Travel history to Mecca",NA,NA,NA,NA,"2020-03-26",NA,NA,NA
+3,"Tumakuru","60",60,"Male","Travel history to Delhi",NA,NA,NA,NA,"2020-03-27",NA,NA,NA
+5,"Kalaburagi","177",65,"Male","SARI",NA,NA,NA,NA,"2020-04-08",NA,NA,NA
+6,"Gadag","166",80,"Female","SARI",NA,NA,NA,NA,"2020-04-09",NA,NA,NA
+7,"Kalaburagi","205",55,"Male",NA,NA,NA,NA,NA,"2020-04-14",NA,NA,NA
+8,"Bengaluru Urban","219",76,"Male",NA,NA,NA,NA,NA,"2020-04-14",NA,NA,NA
+9,"Bengaluru Urban","252",65,"Male",NA,NA,NA,NA,NA,"2020-04-14",NA,NA,NA
+10,"Vijayapura","257",69,"Male",NA,NA,NA,NA,NA,"2020-04-14",NA,NA,NA
+12,"Belagavi","279",80,"Female",NA,NA,NA,NA,NA,"2020-04-15",NA,NA,NA
+15,"Bengaluru Urban","281",65,"Female","SARI",NA,NA,NA,NA,"2020-04-19",NA,NA,NA
+16,"Dakshina Kannada","390",50,"Female","SARI",NA,NA,NA,NA,"2020-04-19",NA,NA,NA
+17,"Kalaburagi","414",80,"Male","SARI",NA,"Parkinson's disease","2020-04-19",NA,"2020-04-21",NA,NA,NA
+18,"Dakshina Kannada","432",78,"Female","Contact",NA,"HTN & Stroke & Pneumonia",NA,NA,"2020-04-24",NA,NA,NA
+26,"Kalaburagi","587",56,"Male","SARI","Fever & Cough",NA,"2020-04-29",NA,"2020-05-04",NA,NA,NA
+27,"Davanagere","651",48,NA,"SARI",NA,"Hypertension &, Diabetes & Hypothyroidism","2020-05-01",NA,"2020-05-04",NA,NA,NA
+29,"Davanagere","662",50,"Female","SARI","Breathlessness",NA,NA,NA,"2020-05-05",NA,NA,NA
+30,"Davanagere","694",55,"Female","SARI",NA,"DM & HTN",NA,NA,"2020-05-07",NA,NA,NA
+35,"Bengaluru Rural","786",60,"Male",NA,"Pneumonia & Respiratory distress with hypotension","DM",NA,NA,"2020-05-14",NA,NA,NA
+36,"Bidar","1041",52,"Male","SARI & Travel history to Hyderabad",NA,NA,NA,NA,"2020-05-15",NA,NA,NA
+56,"Vijayapura","5010",82,"Female",NA,"DM & HTN & IHD",NA,NA,NA,"2020-06-06","Died at residence",NA,NA
+61,"Bengaluru Urban","5468",65,"Female","SARI","Giddiness & Breathlessness",NA,"2020-06-04",NA,"2020-06-08",NA,NA,NA
+121,"Ballari","7724",62,"Male",NA,NA,NA,"2020-06-16",NA,NA,"Brought dead",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16777,"Uttara Kannada","1552836",72,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,NA,"2021-05-05","Brought dead",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+34839,"Ballari","1588069",58,"Female","SARI ","Breathlessness ","HTN ",NA,NA,NA,NA,NA,NA
+34840,"Ballari","1786769",56,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34841,"Ballari","1878358",60,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34842,"Raichur","2320160",60,"Female","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34843,"Kolar","2624189",59,"Female","ILI ","Fever ","- ",NA,NA,NA,NA,NA,NA
+34844,"Bengaluru Urban","2639164",54,"Female","ILI ","Fever ","- ",NA,NA,NA,NA,NA,NA
+34845,"Bengaluru Urban","2656904",56,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"28+AC0-05+AC0-2021",NA,NA
+34846,"Bengaluru Urban","2661091",56,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"05+AC0-06+AC0-2021",NA,NA
+34847,"Bengaluru Urban","2677899",56,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN, IHD ",NA,NA,NA,"IHD +ACI-",NA,NA
+34848,"Ballari","2695792",40,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34849,"Dakshina Kannada","2696399",66,"Male","SARI ","Fever, Cough, Breathlessness ","IHD ",NA,NA,NA,"03+AC0-06+AC0-2021",NA,NA
+34850,"Dharwad","2704726",37,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"12+AC0-06+AC0-2021",NA,NA
+34851,"Haveri","2710045",60,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"24+AC0-06+AC0-2021",NA,NA
+34852,"Davanagere","2718615",50,"Female","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34853,"Dakshina Kannada","2732509",52,"Female","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34854,"Dharwad","2733703",80,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"05+AC0-06+AC0-2021",NA,NA
+34855,"Dharwad","2734834",67,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",NA,NA,NA,"12+AC0-06+AC0-2021",NA,NA
+34856,"Dharwad","2736638",60,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"06+AC0-06+AC0-2021",NA,NA
+34857,"Davanagere","2744851",65,"Male","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34858,"Bengaluru Urban","2750980",36,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"26+AC0-06+AC0-2021",NA,NA
+34859,"Mysuru","2754869",67,"Female","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34860,"Bengaluru Urban","2758909",61,"Male","SARI ","Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34861,"Bengaluru Urban","2779187",65,"Male","SARI ","Breathlessness ","IHD ",NA,NA,NA,NA,NA,NA
+34862,"Dharwad","2787403",73,"Male","ILI ","Fever, Cough ","DM, HTN ",NA,NA,NA,"12+AC0-06+AC0-2021",NA,NA
+34863,"Mysuru","2791699",65,"Female","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34864,"Bengaluru Urban","2791896",43,"Female","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34865,"Davanagere","2793012",67,"Male","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34866,"Bengaluru Urban","2804991",56,"Male","SARI ","Breathlessness ","DM ",NA,NA,NA,NA,NA,NA
+34867,"Mysuru","2807261",60,"Female","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34868,"Bengaluru Urban","2807452",60,"Male","SARI ","Fever, Breathlessness ","HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34869,"Haveri","2811358",48,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"25+AC0-06+AC0-2021",NA,NA
+34870,"Haveri","2811360",40,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"24+AC0-06+AC0-2021",NA,NA
+34871,"Mandya","2811429",60,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN, COPD ",NA,NA,NA,"COPD +ACI-",NA,NA
+34872,"Bengaluru Urban","2814129",46,"Female","SARI ","Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34873,"Mysuru","2817930",88,"Female","SARI ","Fever, Cough, Breathlessness ","HTN ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34874,"Bengaluru Urban","2819490",78,"Male","SARI ","Cough, Breathlessness ","HTN, CKD ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34875,"Dakshina Kannada","2822200",82,"Female","SARI ","Fever, Cough, Breathlessness ","COPD ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34876,"Haveri","2822283",60,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34877,"Chikkaballapura","2827265",48,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34878,"Dakshina Kannada","2829427",70,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34879,"Mysuru","2829581",63,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"16+AC0-06+AC0-2021",NA,NA
+34880,"Mysuru","2831712",63,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34881,"Belagavi","2834892",58,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"17+AC0-06+AC0-2021",NA,NA
+34882,"Ballari","2835491",70,"Male","SARI ","Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34883,"Ballari","2837759",50,"Male","SARI ","Breathlessness ","- ",NA,NA,NA,NA,NA,NA
+34884,"Davanagere","2839491",66,"Male","SARI ","Fever, Breathlessness ","IHD ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34885,"Haveri","2840050",67,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34886,"Chikkaballapura","2841379",60,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34887,"Tumakuru","2841917",59,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34888,"Bengaluru Rural","2842386",80,"Male","SARI ","Breathlessness ","- ",NA,NA,NA,NA,NA,NA
+34889,"Belagavi","2843570",60,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34890,"Dakshina Kannada","2844018",43,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34891,"Bengaluru Urban","2845566",80,"Male","ILI ","Fever ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34892,"Tumakuru","2846916",45,"Female","SARI ","Breathlessness ","- ",NA,NA,NA,NA,NA,NA
+34893,"Chamarajanagara","2848741",36,"Female","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34894,"Shivamogga","2850833",85,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34895,"Mysuru","2851511",44,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"24+AC0-06+AC0-2021",NA,NA
+34896,"Kodagu","2854056",92,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN, CKD ",NA,NA,NA,"CKD +ACI-",NA,NA
+34897,"Ballari","2855256",42,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34898,"Dakshina Kannada","2855381",29,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34899,"Ramanagara","2856252",65,"Male","SARI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34900,"Bengaluru Urban","2857228",60,"Female","SARI ","Fever, Breathlessness ","DM, HTN, IHD ",NA,NA,NA,"22+AC0-06+AC0-2021",NA,NA
+34901,"Dakshina Kannada","2858112",55,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34902,"Mandya","2858203",62,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34903,"Shivamogga","2858713",65,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34904,"Tumakuru","2858723",42,"Female","SARI ","Breathlessness ","DM ",NA,NA,NA,NA,NA,NA
+34905,"Mysuru","2861113",63,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34906,"Bengaluru Urban","2862044",78,"Male","SARI ","Fever, Cough ","IHD ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34907,"Hassan","2862219",55,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34908,"Haveri","2862983",70,"Female","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34909,"Dakshina Kannada","2863291",40,"Male","SARI ","Fever, Cough, Breathlessness ","CKD ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34910,"Ballari","2864739",46,"Male","SARI ","Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34911,"Dakshina Kannada","2864799",39,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34912,"Gadag","2864955",68,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34913,"Chamarajanagara","2865055",60,"Female","SARI ","Fever, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34914,"Dakshina Kannada","2865346",52,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34915,"Haveri","2865862",35,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34916,"Dakshina Kannada","2866298",44,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34917,"Hassan","2869221",85,"Female","ILI ","Fever ","HTN ",NA,NA,NA,NA,NA,NA
+34918,"Bengaluru Urban","2869558",21,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34919,"Mysuru","2870215",67,"Female","SARI ","Fever, Cough, Breathlessness ","Hypo thyroidism ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34920,"Dakshina Kannada","2871187",64,"Male","SARI ","Breathlessness ","CA ",NA,NA,NA,NA,NA,NA
+34921,"Mysuru","2875060",75,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34922,"Dakshina Kannada","2875882",40,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34923,"Chikkamagaluru","2876085",70,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34924,"Haveri","2876241",54,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"25+AC0-06+AC0-2021",NA,NA
+34925,"Dakshina Kannada","2876279",39,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34926,"Gadag","2881185",70,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021",NA,NA
+34927,"Shivamogga","100001177",65,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021",NA,NA
+34928,"Dakshina Kannada","100001206",73,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"17+AC0-06+AC0-2021",NA,NA
+34929,"Mandya","100001266",56,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34930,"Chikkamagaluru","100001411",48,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+34931,"Ramanagara","100002113",36,"Male","SARI ","Fever, Breathlessness ","CLD ",NA,NA,NA,"29+AC0-06+AC0-2021",NA,NA
+37074,"Tumakuru","2525308",57,"Male","ILI","Fever","-",NA,"2021-05-26",NA,"Brought dead",NA,NA
+37075,"Dharwad","2924889",38,"Male","SARI","Fever, Cough, Breathlessness","-","2021-08-17","2021-08-18",NA,NA,1,NA
+37076,"Dakshina Kannada","2945198",34,"Female","SARI","Fever, Cough, Breathlessness","DM","2021-07-30","2021-08-14",NA,NA,15,NA
+37077,"Bengaluru Urban","2955737",80,"Female","SARI","Fever, Cough, Breathlessness","DM","2021-08-14","2021-08-18",NA,NA,4,NA
+37078,"Dakshina Kannada","2956032",61,"Male","ILI","Fever","DM, HTN, CKD","2021-07-21","2021-08-12",NA,NA,22,NA
+37079,"Uttara Kannada","2956418",65,"Female","SARI","Fever, Cough, Breathlessness","-","2021-08-09","2021-08-20",NA,NA,11,NA
+37080,"Davanagere","2962941",58,"Female","SARI","Fever, Cough, Breathlessness","-","2021-08-15","2021-08-20",NA,NA,5,NA
+37081,"Dakshina Kannada","2963293",70,"Male","SARI","Breathlessness","HTN","2021-08-14","2021-08-20",NA,NA,6,NA
+37082,"Mysuru","2972457",80,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD","2021-08-15","2021-08-19",NA,NA,4,NA
+37083,"Dakshina Kannada","2973283",72,"Female","SARI","Breathlessness","DM, HTN","2021-08-16","2021-08-18",NA,NA,2,NA
+37084,"Mysuru","2975192",55,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD","2021-08-16","2021-08-20",NA,NA,4,NA
+37085,"Haveri","2975390",58,"Female","ILI","Fever, Cough","-",NA,"2021-08-18",NA,NA,NA,NA
+37086,"Dakshina Kannada","2975626",40,"Male","SARI","Fever, Breathlessness","DM","2021-08-19","2021-08-18",NA,NA,-1,NA
+37087,"Uttara Kannada","2976518",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CPOD","2021-08-19","2021-08-20",NA,NA,1,NA
+37088,"Dakshina Kannada","100003552",59,"Male","SARI","Fever, Breathlessness","HTN, CKD","2021-08-04","2021-08-19",NA,NA,15,NA
+37089,"Kolar","100003602",85,"Male","SARI","Cough, Breathlessness","DM","2021-08-09","2021-08-10",NA,NA,1,NA
+37090,"Mandya","100003710",43,"Female","SARI","Fever, Cough, Breathlessness","-","2021-08-18","2021-08-19",NA,NA,1,NA
+37226,"Bengaluru Urban","2977194",55,"Male","ILI","Fever","DM",NA,NA,"2021-08-29",NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38144,"Chitradurga","3019956",58,"Male","ILI","Fever","-","2021-10-04",NA,"2021-11-27","Died at residence on",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38784,"Hassan","3669075",85,"Male","ILI","Fever, cough","-",NA,NA,"2022-01-28","Died at his residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38792,"Tumakuru","3714028",51,"Female","ILI","Fever, Cough,","HTN",NA,NA,"2022-01-28","Died at her residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38801,"Mysuru","3746059",63,"Male","SARI","Fever,
+Breathlessness","DM,
+HTN,
+IHD",NA,NA,"2022-01-28","Brought Dead",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38991,"Belagavi","3824577",50,"Male","ILI","Fever","-",NA,NA,"2022-01-31","Died at his Residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+38995,"Uttara Kannada","3828974",80,"Male","SARI","Breathlessness","DM,
+CLD",NA,NA,"2022-01-31","Died at his Residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39034,"Koppal","3764161",45,"Male","ILI","Fever, Cough","-",NA,NA,"2022-02-01","Died at his residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39703,"Bengaluru Urban","3184961",84,"Male","ILI","Fever, Cough","DM,HTN, IHD","2022-01-22",NA,"2022-02-20",NA,NA,NA
+39740,"Bengaluru Urban","3053413",72,"Female","SARI","Fever, Breathlessness","DM, HTN","2022-01-02","2022-01-04",NA,NA,2,NA
+39741,"Bengaluru Urban","3266346",52,"Male","ILI","Fever, Cough","DM","2022-01-13","2022-01-19",NA,NA,6,NA
+39742,"Bengaluru Urban","3605108",65,"Female","ILI","Fever","IHD",NA,"2022-01-22",NA,NA,NA,NA
+39743,"Udupi","3652015",70,"Male","ILI","Fever, Cough","-","2022-01-21","2022-01-31",NA,NA,10,NA
+39744,"Bengaluru Urban","3653126",72,"Male","SARI","Fever","CKD","2022-01-24","2022-01-29",NA,NA,5,NA
+39745,"Bengaluru Urban","3851091",84,"Male","ILI","Fever","HTN","2022-01-31","2022-02-05",NA,NA,5,NA
+39746,"Bengaluru Urban","3919886",50,"Male","ILI","Fever","IHD","2022-02-02","2022-02-17",NA,NA,15,NA
+39747,"Bengaluru Urban","3931043",58,"Female","ILI","Cough","HTN","2022-01-31","2022-02-09",NA,NA,9,NA
+39748,"Vijayapura","3936060",54,"Male","ILI","Cough","-","2022-02-05","2022-02-20",NA,NA,15,NA
+39749,"Bengaluru Urban","3938662",74,"Male","SARI","Breathlessness","DM, HTN","2022-01-26","2022-02-05",NA,NA,10,NA
+39750,"Dakshina Kannada","3940432",65,"Male","SARI","Fever, Breathlessness","-","2022-02-05","2022-02-21",NA,NA,16,NA
+39751,"Ballari","3953011",73,"Male","ILI","Fever","CKD","2022-02-05","2022-02-19",NA,NA,14,NA
+39752,"Shivamogga","3956015",75,"Male","ILI","Cough","-","2022-02-08","2022-02-22",NA,NA,14,NA
+39753,"Bengaluru Urban","3959328",50,"Female","SARI","Cough, Breathlessness","-","2022-02-08","2022-02-11",NA,NA,3,NA
+39754,"Bengaluru Urban","3960661",67,"Male","SARI","Breathlessness","IHD, DM","2022-02-08","2022-02-10",NA,NA,2,NA
+39755,"Dharwad","3961281",48,"Female","SARI","Fever, Breathlessness","-","2022-02-07","2022-02-16",NA,NA,9,NA
+39756,"Dharwad","3966497",50,"Female","SARI","Fever, Cough, Breathlessness","HTN","2022-02-08","2022-02-09",NA,NA,1,NA
+39757,"Bagalakote","3966726",70,"Female","ILI","Fever","HTN",NA,"2022-02-12",NA,NA,NA,NA
+39758,"Bengaluru Urban","3974511",63,"Male","ILI","Fever","IHD, CA","2022-02-11","2022-02-16",NA,NA,5,NA
+39759,"Tumakuru","3976525",70,"Male","SARI","Cough, Breathlessness","-","2022-02-11","2022-02-11",NA,NA,0,NA
+39760,"Tumakuru","3978241",23,"Female","SARI","Cough, Breathlessness","ARDS","2022-02-13","2022-02-15",NA,NA,2,NA
+39761,"Kalaburagi","3979010",48,"Female","SARI","Cough, Breathlessness","DM, HTN","2022-02-13","2022-02-22",NA,NA,9,NA
+39762,"Dakshina Kannada","3979132",42,"Female","SARI","Breathlessness","-","2022-02-14","2022-02-20",NA,NA,6,NA
+39763,"Bengaluru Urban","3979231",88,"Male","ILI","Fever","DM, HTN",NA,"2022-02-13",NA,NA,NA,NA
+39764,"Bengaluru Urban","3980155",73,"Female","ILI","Fever","HTN","2022-02-14","2022-02-21",NA,NA,7,NA
+39765,"Uttara Kannada","3983454",80,"Female","ILI","Fever, Breathlessness","-",NA,"2022-02-19",NA,NA,NA,NA
+39766,"Dakshina Kannada","3984126",89,"Male","ILI","Cough","DM","2022-02-16","2022-02-20",NA,NA,4,NA
+39767,"Bengaluru Urban","3986413",80,"Male","SARI","Fever, Breathlessness","DM, HTN","2022-02-19","2022-02-20",NA,NA,1,NA
+39768,"Udupi","3986730",86,"Male","ILI","Fever, Cough","-","2022-02-19","2022-02-20",NA,NA,1,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+39930,"Bengaluru Urban","3980006",80,"Female","SARI","Fever, Cough ,Breathlessness","DM,COPD","2022-02-13",NA,"2022-03-25",NA,NA,NA
+39931,"Bengaluru Urban","3985271",76,"Female","ILI","Cough","HTN,CA","2022-02-17",NA,"2022-03-25","Brought dead on",NA,NA
+39959,"Kalaburagi","4020423",33,"Male","ILI","Fever","CKD",NA,NA,"2022-07-05","Died at Residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40032,"Haveri","4076497",54,"MALE","SARI","Fever, Cough,
+Breathlessness","DM, CKD",NA,NA,"2022-08-17","Died at his residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40039,"Chamarajanagara","4081072",64,"Male","SARI","Fever,
+Breathlessness","CA",NA,NA,"2022-08-19","Died at his residence",NA,NA
+40040,"Chamarajanagara","4082864",72,"Female","ILI","Fever","HTN",NA,NA,"2022-08-19","Died at her residence",NA,NA
+40042,"Dharwad","4082263",64,"MALE","SARI","Fever,
+Breathlessness","DM, HTN,","2022-08-12","2022-08-18",NA,NA,6,NA
+40043,"Dharwad","4088753",59,"MALE","SARI","Fever, Cough,
+Breathlessness","DM, HTN,","2022-08-14","2022-08-17",NA,NA,3,NA
+40044,"Mysuru","4093388",79,"MALE","SARI","Fever,
+Breathlessness","-","2022-08-18","2022-08-18",NA,NA,0,NA
+40045,"Bengaluru Rural","4092711",75,"FEMALE","SARI","Breathlessness","DM,HTN","2022-08-18","2022-08-19",NA,NA,1,NA
+40050,"Chamarajanagara","4085435",55,"MALE","ILI","Fever, Cough","CLD",NA,NA,"2022-08-22","Died at his residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40076,"Ramanagara","4082698",52,"Female","SARI","Cough,
+Breathlessness","HTN, IHD",NA,NA,"2022-08-30",NA,NA,NA
+40077,"Ballari","4090609",57,"Male","ILI","Fever, Cough","DM, HTN,
+CKD",NA,NA,"2022-08-30",NA,NA,NA
+40091,"Shivamogga","4089468",85,"Male","SARI","Fever, Breathlessness","DM, HTN, AKI","2022-08-19",NA,"2022-09-07","Died at his residence",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+40132,"Ramanagara","4124921",68,"Female","ILI","Fever,
+Cough","DM, HTN",NA,NA,"2022-10-29","Died at  his residence.",NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

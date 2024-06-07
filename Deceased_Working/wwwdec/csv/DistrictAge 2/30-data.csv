@@ -1,0 +1,207 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+44,"Yadgiri",2301,69,"Female","Returned from Maharashtra",NA,NA,NA,2020-05-20,2020-05-27,"Brought dead"
+1782,"Yadgiri",95103,55,"Female","Contact under tracing","-","-",2020-07-24,2020-07-25,2020-07-25,NA
+2171,"Yadgiri",104678,62,"Male","ILI","Fever","-",2020-07-27,2020-07-29,2020-07-30,NA
+2298,"Yadgiri",128553,82,"Male","Contact under tracing","-","DM, HTN",NA,2020-07-31,2020-07-31,"Died at his residence"
+2334,"Yadgiri",104865,65,"Female","SARI","-","-",2020-07-26,2020-08-01,2020-08-01,NA
+2396,"Yadgiri",131360,32,"Male","-","-","-",2020-07-31,2020-07-31,2020-08-01,NA
+2398,"Yadgiri",132347,40,"Female","-","-","-",2020-07-28,2020-07-28,2020-08-01,NA
+2562,"Yadgiri",136698,70,"Male","Contact under tracing","-","-",2020-07-31,2020-08-01,2020-08-03,NA
+2650,"Yadgiri",132450,65,"Male","ILI","-","-",2020-07-31,2020-08-03,2020-08-04,NA
+2689,"Yadgiri",151599,52,"Female","Contact under tracing","-","-",2020-08-02,2020-08-02,2020-08-04,NA
+2784,"Yadgiri",152717,65,"Female","Contact under tracing","-","-",NA,2020-08-03,2020-08-05,"Brought dead"
+2790,"Yadgiri",157879,70,"Female","Contact under tracing","-","-",NA,2020-08-05,2020-08-05,"Brought dead"
+2807,"Yadgiri",98746,82,"Male","Contact under tracing","-","-",2020-07-25,2020-08-05,2020-08-06,NA
+2938,"Yadgiri",143562,69,"Male","Conta ct under tracin g","-","-",2020-08-04,2020-08-05,2020-08-07,NA
+3059,"Yadgiri",163486,65,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-05,2020-08-07,2020-08-08,NA
+3076,"Yadgiri",177499,70,"Male","Contact under tracing","Cough, Breathlessness","-",2020-08-07,2020-08-07,2020-08-08,NA
+3120,"Yadgiri",136374,35,"Male","Contact under tracing","-","-",2020-08-01,2020-08-08,2020-08-09,NA
+3422,"Yadgiri",136411,65,"Male","Contact under tracing","-","COPD",2020-07-31,2020-08-11,2020-08-12,NA
+3460,"Yadgiri",177977,65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-07,2020-08-10,2020-08-12,NA
+3816,"Yadgiri",226550,70,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-14,2020-08-15,NA
+3938,"Yadgiri",230070,68,"Male","SARI","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3939,"Yadgiri",230071,68,"Male","SARI","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3941,"Yadgiri",232197,58,"Male","ILI","Fever","-",NA,2020-08-16,2020-08-16,NA
+4123,"Yadgiri",185696,75,"Female","SARI","Cough, Breathlessness","-",2020-08-09,2020-08-09,2020-08-18,NA
+4160,"Yadgiri",223237,80,"Male","Contact under tracing","-","-",2020-08-15,2020-08-18,2020-08-18,NA
+4190,"Yadgiri",244097,80,"Male","SARI","Breathlessness","COPD",2020-08-17,2020-08-17,2020-08-18,NA
+4357,"Yadgiri",197418,40,"Male","Contact under tracing","-","-",2020-08-07,2020-08-20,2020-08-20,NA
+4372,"Yadgiri",226551,62,"Male","Contact under tracing","-","-",2020-08-14,2020-08-20,2020-08-20,NA
+4377,"Yadgiri",232887,55,"Female","Contact under tracing","-","DM, HTN",2020-08-16,2020-08-19,2020-08-20,NA
+4394,"Yadgiri",240761,42,"Male","Contact under tracing","-","-",2020-08-17,2020-08-20,2020-08-20,NA
+4557,"Yadgiri",232857,43,"Male","Contact under tracing","-","-",2020-08-16,2020-08-21,2020-08-22,NA
+4623,"Yadgiri",209847,72,"Male","SARI","Breathlessness","-",2020-08-12,2020-08-13,2020-08-23,NA
+4807,"Yadgiri",290319,75,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-23,2020-08-24,2020-08-24,NA
+5041,"Yadgiri",278484,24,"Male","SARI","Breathlessness","-",2020-08-20,2020-08-25,2020-08-26,NA
+5085,"Yadgiri",301686,52,"Female","SARI","Breathlessness","IHD",2020-08-25,2020-08-25,2020-08-26,NA
+5309,"Yadgiri",278489,85,"Male","SARI","Breathlessness","-",2020-08-20,2020-08-27,2020-08-28,NA
+5310,"Yadgiri",279232,70,"Male","SARI","Breathlessness","-",2020-08-22,2020-08-27,2020-08-28,NA
+5357,"Yadgiri",317883,58,"Male","SARI","Breathlessness","-",2020-08-26,2020-08-27,2020-08-28,NA
+5476,"Yadgiri",330776,66,"Male","Contact under tracing","-","-",2020-08-28,2020-08-28,2020-08-29,NA
+5514,"Yadgiri",248033,65,"Male","SARI","Breathlessness","-",2020-08-18,2020-08-29,2020-08-30,NA
+5751,"Yadgiri",280340,70,"Female","ILI","Fever","-",2020-08-21,2020-08-31,2020-09-01,NA
+6318,"Yadgiri",297920,50,"Male","SARI","Fever, Breathlessness","-",2020-08-24,2020-09-05,2020-09-06,NA
+6374,"Yadgiri",383125,65,"Male","SARI","Fever, Breathlessness","-",2020-09-03,2020-09-05,2020-09-06,NA
+6586,"Yadgiri",341420,65,"Male","Contact under tracing","-","-",2020-08-29,2020-09-05,2020-09-08,NA
+6637,"Yadgiri",389909,55,"Male","Contact under tracing","-","-",2020-09-04,2020-09-04,2020-09-08,NA
+6908,"Yadgiri",419012,45,"Male","Contact under tracing","-","-",2020-09-07,2020-09-08,2020-09-10,NA
+7461,"Yadgiri",467892,32,"Male","Contact under tracing","-","-",2020-09-12,2020-09-14,2020-09-15,NA
+7474,"Yadgiri",479542,65,"Female","Contact under tracing","-","-",2020-09-13,2020-09-13,2020-09-15,NA
+7516,"Yadgiri",444564,51,"Male","Contact under tracing","-","-",NA,2020-09-15,2020-09-16,"Brought dead"
+8589,"Yadgiri",584379,55,"Male","Contact under tracing","-","-",2020-09-25,2020-09-26,2020-09-27,NA
+8642,"Yadgiri",578152,80,"Male","Contact under tracing","-","-",2020-09-26,2020-09-27,2020-09-28,NA
+8996,"Yadgiri",603205,61,"Male","Contact under tracing","-","-",2020-09-28,2020-10-01,2020-10-01,NA
+8997,"Yadgiri",603225,55,"Male","Contact under tracing","-","-",2020-09-28,2020-10-01,2020-10-01,NA
+9222,"Yadgiri",629858,70,"Male","Contact under tracing","-","-",2020-09-30,2020-10-03,2020-10-03,NA
+9649,"Yadgiri",629121,70,"Female","Contact under tracing","-","-",2020-09-30,2020-10-07,2020-10-08,NA
+9653,"Yadgiri",637135,45,"Male","Contact under tracing","-","-",2020-10-01,2020-10-07,2020-10-08,NA
+9826,"Yadgiri",581632,65,"Male","Contact under tracing","-","-",2020-10-07,2020-10-09,2020-10-10,NA
+9975,"Yadgiri",719430,56,"Male","Contact under tracing","-","-",2020-10-09,2020-10-10,2020-10-11,NA
+10017,"Yadgiri",683033,69,"Female","Contact under tracing","-","-",2020-10-06,2020-10-12,2020-10-12,NA
+10069,"Yadgiri",647936,45,"Female","Contact under tracing","-","-",2020-09-17,2020-10-02,2020-10-13,NA
+10957,"Yadgiri",818305,78,"Male","Contac t under tracing","-","-",2020-10-25,2020-10-25,2020-10-26,NA
+12646,"Yadgiri",1018377,70,"Male","SARI","Cough, breathlessness","HTN",2021-03-31,2021-04-05,2021-04-05,NA
+13149,"Yadgiri",1079311,58,"Male",NA,"Breathlessness","-",2021-04-09,2021-04-09,2021-04-16,NA
+13276,"Yadgiri",1036668,85,"Female","ILI","Fever","-",2021-04-12,2021-04-17,2021-04-18,NA
+13323,"Yadgiri",1122252,47,"Female","SARI","Breathlessness","-",2021-04-13,2021-04-17,2021-04-18,NA
+13478,"Yadgiri",1158791,55,"Male","SARI","Breathlessness","HTN",2021-04-16,2021-04-18,2021-04-19,NA
+13491,"Yadgiri",1184831,30,"Male","ILI","Fever","-",2021-04-17,2021-04-17,2021-04-19,NA
+13634,"Yadgiri",1188513,76,"Male","SARI","Breathlessness","-",2021-04-18,2021-04-19,2021-04-20,NA
+13715,"Yadgiri",1161264,55,"Female","SARI","Breathlessness","-",2021-04-16,2021-04-20,2021-04-21,NA
+14017,"Yadgiri",1193287,60,"Female","SARI","Cough, Breathlessness","-",2021-04-18,2021-04-22,2021-04-23,NA
+14458,"Yadgiri",1140379,55,"Female","SARI","Breathlessness","-",2021-04-14,2021-04-23,2021-04-26,NA
+14499,"Yadgiri",1219343,95,"Female","SARI","Breathlessness","-",2021-04-19,2021-04-25,2021-04-26,NA
+14588,"Yadgiri",1342932,71,"Male","SARI","Breathlessness","-",2021-04-23,2021-04-24,2021-04-26,NA
+14606,"Yadgiri",1354980,64,"Male","ILI","Fever","DM,  HTN, IHD",2021-04-20,2021-04-24,2021-04-26,NA
+14871,"Yadgiri",1221854,73,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-19,2021-04-21,2021-04-28,NA
+14887,"Yadgiri",1236411,50,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-20,2021-04-22,2021-04-28,NA
+14937,"Yadgiri",1318390,78,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-20,2021-04-27,2021-04-28,NA
+14980,"Yadgiri",1374149,50,"Female","SARI","Fever, cough, breathlessness","HTN",2021-04-24,2021-04-27,2021-04-28,NA
+14981,"Yadgiri",1374151,80,"Male","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-27,2021-04-28,NA
+15130,"Yadgiri",1252147,76,"Male","ILI","Fever, cough","DM, HTN",2021-04-20,2021-04-27,2021-04-29,NA
+15167,"Yadgiri",1318395,75,"Female","SARI","Fever, cough, breathlessness","-",2021-04-22,2021-04-27,2021-04-29,NA
+15199,"Yadgiri",1374139,42,"Male","ILI","Fever","DM,  HTN, GTCS",2021-04-24,2021-04-28,2021-04-29,NA
+15200,"Yadgiri",1374154,68,"Male","ILI","Fever, cough","DM, HTN",2021-04-23,2021-04-27,2021-04-29,NA
+15207,"Yadgiri",1380791,35,"Male","ILI","Fever, cough","-",2021-04-22,2021-04-27,2021-04-29,NA
+15216,"Yadgiri",1393634,55,"Female","ILI","Fever, cough","DM, HTN",2021-04-24,2021-04-27,2021-04-29,NA
+15241,"Yadgiri",1428723,42,"Male","ILI","Fever, cough","-",2021-04-26,2021-04-27,2021-04-29,NA
+15259,"Yadgiri",1444317,87,"Male","ILI","Fever","HTN",2021-04-24,2021-04-28,2021-04-29,NA
+15589,"Yadgiri",1242737,85,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-29,2021-05-01,NA
+15598,"Yadgiri",1257606,68,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-30,2021-05-01,NA
+15682,"Yadgiri",1393633,62,"Female","SARI","Breathlessness","COPD",2021-04-24,2021-04-28,2021-05-01,NA
+15689,"Yadgiri",1404666,50,"Male","SARI","Breathlessness","HTN, COPD",2021-04-25,2021-04-27,2021-05-01,NA
+15733,"Yadgiri",1478912,35,"Male","SARI","Breathlessness","-",2021-04-22,2021-04-29,2021-05-01,NA
+15936,"Yadgiri",1489240,65,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-01,2021-05-02,NA
+16186,"Yadgiri",1527550,52,"Male","ILI","Fever","-",2021-04-28,2021-05-02,2021-05-03,NA
+16479,"Yadgiri",1619047,40,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16524,"Yadgiri",1694422,50,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-04,NA
+17184,"Yadgiri",1750421,40,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-06,NA
+17194,"Yadgiri",1766267,42,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-06,2021-05-06,NA
+17767,"Yadgiri",1800731,25,"Female","SARI","Breathlessness","-",2021-04-04,2021-04-04,2021-05-07,NA
+18189,"Yadgiri",1744285,40,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-07,2021-05-08,NA
+18239,"Yadgiri",1842718,48,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-07,2021-05-08,NA
+18240,"Yadgiri",1842720,51,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-08,NA
+18436,"Yadgiri",1430738,45,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-08,2021-05-09,NA
+18595,"Yadgiri",1686921,53,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-08,2021-05-09,NA
+18608,"Yadgiri",1712231,70,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-07,2021-05-09,NA
+18699,"Yadgiri",1858662,62,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-06,2021-05-09,NA
+18728,"Yadgiri",1903245,45,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18747,"Yadgiri",1927799,66,"Female","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-09,NA
+19207,"Yadgiri",1750413,41,"Male","ILI","Fever, cough","-",2021-05-03,2021-05-09,2021-05-10,NA
+19244,"Yadgiri",1808928,50,"Male","ILI","Fever, cough","-",2021-05-04,2021-05-05,2021-05-10,NA
+19249,"Yadgiri",1812529,69,"Female","ILI","Fever, cough","-",2021-05-05,2021-05-08,2021-05-10,NA
+19443,"Yadgiri",1200500,83,"Male","SARI","Breathlessness","-",2021-04-28,2021-05-05,2021-05-11,NA
+19592,"Yadgiri",1662706,60,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-09,2021-05-11,NA
+19618,"Yadgiri",1720127,62,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-11,NA
+19715,"Yadgiri",1830812,70,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-05,2021-05-11,NA
+19722,"Yadgiri",1838114,57,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-10,2021-05-11,NA
+19776,"Yadgiri",1903247,30,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-10,2021-05-11,NA
+19801,"Yadgiri",1944469,50,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-08,2021-05-11,NA
+19934,"Yadgiri",1597882,31,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-10,2021-05-12,NA
+19957,"Yadgiri",1641971,64,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-11,2021-05-12,NA
+20189,"Yadgiri",1866263,65,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-10,2021-05-12,NA
+20354,"Yadgiri",2044604,55,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-11,2021-05-12,NA
+20548,"Yadgiri",1800736,57,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-11,2021-05-13,NA
+20551,"Yadgiri",1805421,40,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-12,2021-05-13,NA
+20587,"Yadgiri",1906268,65,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-11,2021-05-13,NA
+20610,"Yadgiri",1954883,65,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-11,2021-05-13,NA
+20685,"Yadgiri",2066278,55,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-12,2021-05-13,NA
+20884,"Yadgiri",1862432,65,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-13,2021-05-14,NA
+20966,"Yadgiri",2023041,35,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-12,2021-05-14,NA
+21018,"Yadgiri",2081713,75,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-14,NA
+21039,"Yadgiri",2119369,40,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21040,"Yadgiri",2119371,45,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-12,2021-05-14,NA
+21065,"Yadgiri",2144952,46,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-14,NA
+21245,"Yadgiri",1894495,45,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-14,2021-05-15,NA
+21272,"Yadgiri",1960843,60,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-15,NA
+21295,"Yadgiri",2006052,55,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-15,NA
+21319,"Yadgiri",2050213,70,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-15,2021-05-15,NA
+21348,"Yadgiri",2081711,48,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-13,2021-05-15,NA
+21401,"Yadgiri",2159074,45,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-15,NA
+21403,"Yadgiri",2161536,67,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21426,"Yadgiri",2192629,45,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-15,NA
+21620,"Yadgiri",1894507,60,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-14,2021-05-16,NA
+21668,"Yadgiri",1991952,80,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-14,2021-05-16,NA
+21675,"Yadgiri",1999608,65,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-14,2021-05-16,NA
+21767,"Yadgiri",2125071,70,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+22046,"Yadgiri",1885366,65,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-16,2021-05-17,NA
+22185,"Yadgiri",2122394,75,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-16,2021-05-17,NA
+22187,"Yadgiri",2125082,60,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-17,NA
+22214,"Yadgiri",2167198,35,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-16,2021-05-17,NA
+22259,"Yadgiri",2218841,65,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22279,"Yadgiri",2243379,62,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-17,NA
+22499,"Yadgiri",1662701,60,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-17,2021-05-18,NA
+22747,"Yadgiri",2178091,45,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-18,NA
+22816,"Yadgiri",2269173,65,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-16,2021-05-18,NA
+23141,"Yadgiri",2106373,65,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-18,2021-05-19,NA
+23672,"Yadgiri",2119372,65,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-19,2021-05-20,NA
+23676,"Yadgiri",2125105,45,"Female","SARI","Breathlessness","-",2021-05-19,2021-05-19,2021-05-20,NA
+23723,"Yadgiri",2192625,78,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-19,2021-05-20,NA
+23841,"Yadgiri",2338801,50,"Female","SARI","Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23842,"Yadgiri",2338806,70,"Female","SARI","Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+24022,"Yadgiri",2125074,58,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-20,2021-05-21,NA
+24595,"Yadgiri",2338822,42,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24598,"Yadgiri",2342695,65,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24633,"Yadgiri",2394464,60,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-22,2021-05-22,NA
+25026,"Yadgiri",2122379,67,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-21,2021-05-23,NA
+25243,"Yadgiri",2399674,58,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-20,2021-05-23,NA
+25273,"Yadgiri",2437555,60,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25678,"Yadgiri",2331829,60,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-23,2021-05-24,NA
+25688,"Yadgiri",2345519,57,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-23,2021-05-24,NA
+25698,"Yadgiri",2352700,45,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-24,2021-05-24,NA
+25773,"Yadgiri",2437572,40,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+25786,"Yadgiri",2448308,60,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-24,2021-05-24,NA
+26292,"Yadgiri",2373401,65,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-24,2021-05-25,NA
+26375,"Yadgiri",2476388,40,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-23,2021-05-25,NA
+26774,"Yadgiri",2292065,53,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-25,2021-05-26,NA
+26788,"Yadgiri",2314272,57,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-25,2021-05-26,NA
+26808,"Yadgiri",2354348,34,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-25,2021-05-26,NA
+26852,"Yadgiri",2427578,45,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-26,2021-05-26,NA
+26861,"Yadgiri",2439879,30,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+27202,"Yadgiri",2266670,55,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-23,2021-05-27,NA
+27223,"Yadgiri",2294163,72,"Female","SARI","Breathlessness","-",2021-05-16,2021-05-16,2021-05-27,NA
+27278,"Yadgiri",2363599,52,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-27,2021-05-27,NA
+27351,"Yadgiri",2465548,60,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-26,2021-05-27,NA
+27403,"Yadgiri",2538951,57,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-26,2021-05-27,NA
+27568,"Yadgiri",2214057,65,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-25,2021-05-28,NA
+27597,"Yadgiri",2259693,58,"Female","SARI","Breathlessness","-",2021-05-21,2021-05-23,2021-05-28,NA
+27636,"Yadgiri",2321101,67,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-28,2021-05-28,NA
+27684,"Yadgiri",2418828,68,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-26,2021-05-28,NA
+27700,"Yadgiri",2437531,50,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-27,2021-05-28,NA
+27709,"Yadgiri",2448309,65,"Female","SARI","Breathlessness","-",2021-05-21,2021-05-21,2021-05-28,NA
+27713,"Yadgiri",2452234,45,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-25,2021-05-28,NA
+27785,"Yadgiri",2558170,25,"Male","SARI","Breathlessness","-",2021-05-26,2021-05-28,2021-05-28,NA
+28169,"Yadgiri",2467357,52,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-29,2021-05-29,NA
+28201,"Yadgiri",2493434,70,"Female","SARI","Breathlessness","-",2021-05-23,2021-05-27,2021-05-29,NA
+28289,"Yadgiri",2594811,55,"Female","SARI","Breathlessness","-",2021-05-27,2021-05-29,2021-05-29,NA
+28534,"Yadgiri",2394466,48,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-29,2021-05-30,NA
+28576,"Yadgiri",2437573,48,"Female","SARI","Breathlessness","-",2021-05-26,2021-05-28,2021-05-30,NA
+28610,"Yadgiri",2499151,48,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-29,2021-05-30,NA
+28667,"Yadgiri",2594812,47,"Female","SARI","Breathlessness","-",2021-05-27,2021-05-30,2021-05-30,NA
+28984,"Yadgiri",2484330,65,"Female","SARI","Breathlessness","-",2021-05-22,2021-05-30,2021-05-31,NA
+28994,"Yadgiri",2505709,50,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-30,2021-05-31,NA
+30865,"Yadgiri",2665520,60,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-03,2021-06-04,NA
+32049,"Yadgiri",2694876,56,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-13,2021-06-08,NA
+32097,"Yadgiri",2748274,55,"Male","SARI","Breathlessness","-",2021-06-06,2021-06-06,2021-06-08,NA
+33028,"Yadgiri",2800874,36,"Male","ILI","Fever, Cough","-",NA,2021-06-11,2021-06-14,"Died at his residence"
+33268,"Yadgiri",2786366,75,"Male","SARI","Breathlessness","-",2021-06-10,2021-06-13,2021-06-16,NA

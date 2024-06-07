@@ -1,0 +1,13 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+9147,"Tumakuru","539908",75,"Male","Contact under tracing","Breathlessness","-","2020-09-19","2020-10-09","2020-10-03",NA,20,-6
+18890,"Bengaluru Rural","1397885",50,"Female","SARI","Breathlessness","-","2021-04-25","2021-05-28","2021-05-10",NA,33,-18
+20178,"Bengaluru Urban","1860155",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-05-15","2021-05-16","2021-05-12",NA,1,-4
+34286,"Chitradurga","100001557",60,"Male","ILI","Fever",NA,"2021-06-21","2021-06-26","2021-06-23",NA,5,-3
+38200,"Bengaluru Urban","3035540",79,"Male","ILI","Fever","DM,HTN, IHD","2021-11-19","2021-11-20","2001-12-10",NA,1,-7285
+38201,"Bengaluru Urban","3035966",76,"Male","SARI","Fever, Cough, Breathlessness","DM,HTN","2021-12-01","2021-12-02","2001-12-10",NA,1,-7297
+38308,"Bengaluru Urban","2743792",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-06-06","2021-06-10","2021-01-06",NA,4,-155
+38309,"Bengaluru Urban","3045177",96,"Female","SARI","Fever, Cough, Breathlessness","-","2021-12-14","2021-12-19","2021-01-06",NA,5,-347
+38310,"Bengaluru Urban","3047545",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-04-18","2021-04-19","2021-01-06",NA,1,-103
+39896,"Mandya","3607997",51,"Female","ILI","Fever","CKD","2022-01-28","2022-02-07","2021-03-09",NA,10,-335
+39897,"Dharwad","3868739",90,"Female","SARI","Breathlessness","HTN",NA,"2022-01-31","2021-03-09","Died at her residence",NA,-328
+39920,"Ballari","2844899",47,"Male","ILI","Fever","HTN","2021-06-16","2021-06-20","2021-03-19",NA,4,-93

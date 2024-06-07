@@ -1,0 +1,824 @@
+"0","District","State P No","Age In Years","Sex","Description","Symptoms","Co-Morbidities","DOA","DOD","MB Date","Notes"
+33546,"Ballari",1216064,"56","Male","SARI","Cough, Breathlessness","-","17-04-2021","23-04-2021","19-06-2021",NA
+33547,"Ballari",1251493,"70","Male","SARI","Breathlessness","-","21-04-2021","25-04-2021","19-06-2021",NA
+33548,"Ballari",1591321,"59","Male","SARI","Cough, Breathlessness","HTN","30-04-2021","17-05-2021","19-06-2021",NA
+33549,"Ballari",1636139,"75","Male","SARI","Breathlessness","DM, HTN","02-05-2021","03-05-2021","19-06-2021",NA
+33550,"Ballari",1786766,"60","Male","SARI","Cough, Breathlessness","DM, HTN, CKD","07-05-2021","11-05-2021","19-06-2021",NA
+33551,"Ballari",1950197,"68","Male","SARI","Cough, Breathlessness","-","08-05-2021","11-05-2021","19-06-2021",NA
+33552,"Ballari",2218998,"56","Male","SARI","Breathlessness","CKD","19-05-2021","23-05-2021","19-06-2021",NA
+33553,NA,2346616,"58","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","19-05-2021","31-05-2021","19-06-2021",NA
+33554,"Vijayapura",2354328,"53","Female","SARI","Fever, Cough, Breathlessness","-","16-05-2021","24-05-2021","19-06-2021",NA
+33555,NA,2447649,"80","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD","21-05-2021","31-05-2021","19-06-2021",NA
+33556,NA,2447652,"41","Male","SARI","Fever, Cough, Breathlessness","-","21-05-2021","29-05-2021","19-06-2021",NA
+33557,NA,2460442,"57","Female","SARI","Fever, Cough, Breathlessness","HTN","28-05-2021","29-05-2021","19-06-2021",NA
+33558,NA,2468180,"80","Female","ILI","Fever, Cough","DM, HTN","22-05-2021","29-05-2021","19-06-2021",NA
+33559,"Uttara Kannada",2531475,"65","Male","ILI","Fever, Cough","-","02-06-2021","10-06-2021","19-06-2021",NA
+33560,NA,2534523,"75","Male","SARI","Fever, Cough, Breathlessness","HTN","28-05-2021","29-05-2021","19-06-2021",NA
+33561,"Kolar",2534728,"33","Male","SARI","Fever, Cough, Breathlessness","-","25-05-2021","30-05-2021","19-06-2021",NA
+33562,"Mysuru",2564814,"62","Male","SARI","Fever, Breathlessness","-","27-05-2021","18-06-2021","19-06-2021",NA
+33563,"Dakshina Kannada",2571827,"68","Female","SARI","Fever, Cough, Breathlessness","DM","26-05-2021","11-06-2021","19-06-2021",NA
+33564,"Dakshina Kannada",2573372,"55","Male","SARI","Breathlessness","HTN","27-05-2021","08-06-2021","19-06-2021",NA
+33565,"Kolar",2573924,"60","Female","SARI","Fever, Cough, Breathlessness","-","27-05-2021","04-06-2021","19-06-2021",NA
+33566,"Udupi",2574243,"61","Female","SARI","Fever, Breathlessness","DM","29-05-2021","13-06-2021","19-06-2021",NA
+33567,"Ballari",2574271,"65","Female","SARI","Fever, Breathlessness","DM","27-05-2021","03-06-2021","19-06-2021",NA
+33568,"Bengaluru Urban",2593438,"52","Female","ILI","Cough","DM, HTN","30-05-2021","19-06-2021","19-06-2021",NA
+33569,NA,2605753,"66","Male","SARI","Fever, Cough, Breathlessness","HTN","26-05-2021","30-05-2021","19-06-2021",NA
+33570,NA,2618691,"28","Male","SARI","Fever, Cough, Breathlessness","DM","28-05-2021","30-05-2021","19-06-2021",NA
+33571,"Chitradurga",2620131,"60","Female","SARI","Fever, Breathlessness","-","01-06-2021","06-06-2021","19-06-2021",NA
+33572,"Chitradurga",2620157,"38","Male","SARI","Fever, Breathlessness","-","27-05-2021","05-06-2021","19-06-2021",NA
+33573,"Shivamogga",2628557,"63","Female","SARI","Fever, Breathlessness","DM, HTN","29-05-2021","18-06-2021","19-06-2021",NA
+33574,"Chikkamagaluru",2643416,"28","Male","SARI","Fever, Breathlessness","-","30-05-2021","18-06-2021","19-06-2021",NA
+33575,"Dakshina Kannada",2650597,"70","Female","ILI","Fever, Cough","HTN","31-05-2021","04-06-2021","19-06-2021",NA
+33576,"Kolar",2651619,"48","Male","SARI","Fever, Cough, Breathlessness","-","20-05-2021","31-05-2021","19-06-2021",NA
+33577,"Kolar",2654441,"60","Female","SARI","Fever, Cough, Breathlessness","-","31-05-2021","03-06-2021","19-06-2021",NA
+33578,"Chikkamagaluru",2661947,"62","Female","ILI","Fever, Cough","-","09-06-2021","12-06-2021","19-06-2021",NA
+33579,NA,2672778,"60","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","01-06-2021","02-06-2021","19-06-2021",NA
+33580,"Bengaluru Urban",2692252,"62","Female","SARI","Breathlessness","DM","02-06-2021","19-06-2021","19-06-2021",NA
+33581,"Dakshina Kannada",2694171,"67","Male","SARI","Fever, Breathlessness","HTN","03-06-2021","07-06-2021","19-06-2021",NA
+33582,NA,2699805,"50","Female","SARI","Fever, Cough, Breathlessness","-","02-06-2021","03-06-2021","19-06-2021",NA
+33583,NA,2699806,"52","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","02-06-2021","08-06-2021","19-06-2021",NA
+33584,"Chikkamagaluru",2701912,"70","Female","SARI","Breathlessness","DM, HTN","02-06-2021","16-06-2021","19-06-2021",NA
+33585,"Chitradurga",2704418,"31","Male","SARI","Fever, Breathlessness","-","02-06-2021","07-06-2021","19-06-2021",NA
+33586,"Shivamogga",2706590,"58","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","05-06-2021","18-06-2021","19-06-2021",NA
+33587,"Bengaluru Urban",2709603,"75","Male","ILI","Fever, Cough","DM, HTN, CKD","04-06-2021","19-06-2021","19-06-2021",NA
+33588,"Mysuru",2714099,"63","Male","SARI","Fever, Breathlessness","HTN","16-06-2021","17-06-2021","19-06-2021",NA
+33589,"Bengaluru Rural",2733241,"33","Male","SARI","Fever, Breathlessness","-","04-06-2021","15-06-2021","19-06-2021",NA
+33590,"Chikkamagaluru",2736520,"72","Male","ILI","Fever, Cough","DM, HTN","12-06-2021","13-06-2021","19-06-2021",NA
+33591,"Udupi",2745303,"63","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","06-06-2021","07-06-2021","19-06-2021",NA
+33592,"Uttara Kannada",2745354,"65","Female","SARI","Fever, Cough, Breathlessness","HTN","08-06-2021","18-06-2021","19-06-2021",NA
+33593,"Bengaluru Urban",2746451,"45","Male","SARI","Breathlessness","-","06-06-2021","18-06-2021","19-06-2021",NA
+33594,"Bengaluru Urban",2749296,"52","Male","ILI","-","DM, CLD","12-06-2021","16-06-2021","19-06-2021",NA
+33595,"Mysuru",2752816,"45","Male","SARI","Fever, Cough, Breathlessness","-","07-06-2021","18-06-2021","19-06-2021",NA
+33596,"Bengaluru Urban",2753117,"43","Male","SARI","Breathlessness","DM","08-06-2021","18-06-2021","19-06-2021",NA
+33597,"Haveri",2756439,"60","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","07-06-2021","19-06-2021","19-06-2021",NA
+33598,"Dakshina Kannada",2757087,"59","Female","SARI","Breathlessness","-","08-06-2021","13-06-2021","19-06-2021",NA
+33599,"Koppal",2758009,"55","Male","SARI","Breathlessness","-","07-06-2021","08-06-2021","19-06-2021",NA
+33600,"Koppal",2758593,"68","Male","SARI","Breathlessness","-","06-06-2021","15-06-2021","19-06-2021",NA
+33601,"Mysuru",2758667,"55","Female","SARI","Fever, Breathlessness","HTN","11-06-2021","18-06-2021","19-06-2021",NA
+33602,"Bengaluru Urban",2759271,"64","Male","SARI","Breathlessness","DM, HTN","09-06-2021","18-06-2021","19-06-2021",NA
+33603,NA,2760188,"65","Female","SARI","Fever, Cough, Breathlessness","-","07-06-2021","08-06-2021","19-06-2021",NA
+33604,"Mysuru",2760221,"63","Male","SARI","Fever, Cough, Breathlessness","IHD","07-06-2021","09-06-2021","19-06-2021",NA
+33605,"Uttara Kannada",2761609,"60","Female","SARI","Fever, Cough, Breathlessness","-","08-06-2021","19-06-2021","19-06-2021",NA
+33606,"Bengaluru Urban",2763075,"85","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD","15-06-2021","16-06-2021","19-06-2021",NA
+33607,"Dakshina Kannada",2763419,"56","Female","SARI","Fever, Cough, Breathlessness","DM","09-06-2021","13-06-2021","19-06-2021",NA
+33608,"Chikkamagaluru",2764447,"56","Female","SARI","Breathlessness","DM, HTN","08-06-2021","19-06-2021","19-06-2021",NA
+33609,"Hassan",2764694,"44","Male","ILI","Fever, Cough","-","17-06-2021","18-06-2021","19-06-2021",NA
+33610,"Mandya",2768733,"67","Female","SARI","Fever, Cough, Breathlessness","HTN","07-06-2021","09-06-2021","19-06-2021",NA
+33611,"Bengaluru Urban",2769295,"75","Male","ILI","Cough","DM, HTN, IHD","12-06-2021","17-06-2021","19-06-2021",NA
+33612,"Belagavi",2770471,"58","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","04-06-2021","18-06-2021","19-06-2021",NA
+33613,"Dakshina Kannada",2770652,"73","Male","SARI","Fever, Cough, Breathlessness","HTN","08-06-2021","14-06-2021","19-06-2021",NA
+33614,"Tumakuru",2770885,"75","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","16-06-2021","19-06-2021",NA
+33615,"Mysuru",2772462,"80","Female","SARI","Fever, Cough, Breathlessness","-","09-06-2021","18-06-2021","19-06-2021",NA
+33616,"Bengaluru Urban",2772544,"53","Female","SARI","Fever, Cough, Breathlessness","DM","09-06-2021","18-06-2021","19-06-2021",NA
+33617,"Haveri",2773777,"72","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","09-06-2021","18-06-2021","19-06-2021",NA
+33618,"Chikkaballapura",2778309,"39","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","18-06-2021","19-06-2021",NA
+33619,"Haveri",2778472,"72","Male","SARI","Fever, Cough, Breathlessness","DM","09-06-2021","17-06-2021","19-06-2021",NA
+33620,"Mandya",2779504,"73","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","09-06-2021","11-06-2021","19-06-2021",NA
+33621,"Mysuru",2779626,"50","Male","SARI","Fever, Breathlessness","HTN","07-06-2021","18-06-2021","19-06-2021",NA
+33622,"Belagavi",2780509,"53","Male","SARI","Fever, Cough, Breathlessness","-","07-06-2021","18-06-2021","19-06-2021",NA
+33623,"Shivamogga",2781536,"62","Male","SARI","Fever, Cough, Breathlessness","DM","09-06-2021","19-06-2021","19-06-2021",NA
+33624,"Kolar",2782167,"60","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","19-06-2021","19-06-2021",NA
+33625,"Bengaluru Urban",2782851,"33","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","17-06-2021","19-06-2021",NA
+33626,"Chikkamagaluru",2785762,"65","Male","SARI","Breathlessness","DM, HTN","10-06-2021","19-06-2021","19-06-2021",NA
+33627,"Dakshina Kannada",2785775,"68","Female","SARI","Fever, Breathlessness","DM, HTN","10-06-2021","18-06-2021","19-06-2021",NA
+33628,"Bengaluru Urban",2788947,"85","Female","ILI","Fever","DM","12-06-2021","18-06-2021","19-06-2021",NA
+33629,"Chitradurga",2791800,"50","Female","SARI","Fever, Breathlessness","-","06-06-2021","13-06-2021","19-06-2021",NA
+33630,"Shivamogga",2792273,"82","Female","SARI","Fever, Cough, Breathlessness","DM","10-06-2021","18-06-2021","19-06-2021",NA
+33631,"Shivamogga",2793713,"58","Male","SARI","Fever, Breathlessness","DM, HTN, CKD","14-06-2021","19-06-2021","19-06-2021",NA
+33632,"Bengaluru Urban",2794233,"85","Female","SARI","Fever, Cough, Breathlessness","HTN, IHD","11-06-2021","17-06-2021","19-06-2021",NA
+33633,"Belagavi",2797548,"46","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","18-06-2021","19-06-2021",NA
+33634,"Uttara Kannada",2799123,"50","Male","ILI","Fever, Cough","-","11-06-2021","18-06-2021","19-06-2021",NA
+33635,"Vijayapura",2800470,"55","Female","SARI","Fever, Cough, Breathlessness","-","11-06-2021","19-06-2021","19-06-2021",NA
+33636,"Dakshina Kannada",2800637,"54","Female","SARI","Fever, Breathlessness","DM","11-06-2021","18-06-2021","19-06-2021",NA
+33637,"Ballari",2800876,"65","Male","SARI","Breathlessness","DM,  HTN, CKD","12-06-2021","18-06-2021","19-06-2021",NA
+33638,"Davanagere",2800923,"55","Male","SARI","Fever, Breathlessness","-","10-06-2021","19-06-2021","19-06-2021",NA
+33639,"Mysuru",2802009,"71","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","24-05-2021","10-06-2021","19-06-2021",NA
+33640,"Gadag",2802745,"85","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","10-06-2021","19-06-2021","19-06-2021",NA
+33641,"Koppal",2805236,"65","Female","SARI","Breathlessness","-","11-06-2021","17-06-2021","19-06-2021",NA
+33642,"Bengaluru Urban",2805596,"37","Male","ILI","Fever, Cough","IHD","12-06-2021","17-06-2021","19-06-2021",NA
+33643,"Bengaluru Urban",2806215,"70","Male","SARI","Breathlessness","DM","13-06-2021","18-06-2021","19-06-2021",NA
+33644,"Bengaluru Urban",2806902,"56","Female","SARI","Breathlessness","-","13-06-2021","17-06-2021","19-06-2021",NA
+33645,"Mysuru",2807010,"110","Male","SARI","Fever, Cough, Breathlessness","-","12-06-2021","17-06-2021","19-06-2021",NA
+33646,"Dakshina Kannada",2808455,"50","Male","ILI","Fever, Cough","-","13-06-2021","18-06-2021","19-06-2021",NA
+33647,"Belagavi",2808737,"60","Female","SARI","Fever, Cough, Breathlessness","-","13-06-2021","19-06-2021","19-06-2021",NA
+33648,"Hassan",2809115,"42","Female","ILI","Fever","-","16-06-2021","18-06-2021","19-06-2021",NA
+33649,"Udupi",2809168,"57","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","18-06-2021","19-06-2021",NA
+33650,"Dakshina Kannada",2811138,"80","Male","SARI","Fever, Breathlessness","DM, HTN, COPD","13-06-2021","18-06-2021","19-06-2021",NA
+33651,"Hassan",2811279,"48","Female","ILI","Fever, Cough","-","17-06-2021","17-06-2021","19-06-2021",NA
+33652,"Shivamogga",2811521,"72","Female","SARI","Fever, Cough, Breathlessness","-","13-06-2021","17-06-2021","19-06-2021",NA
+33653,"Mandya",2814424,"55","Female","SARI","Fever, Cough, Breathlessness","-","14-06-2021","19-06-2021","19-06-2021",NA
+33654,"Bengaluru Rural",2815329,"66","Female","SARI","Fever, Breathlessness","-","16-06-2021","19-06-2021","19-06-2021",NA
+33655,"Dakshina Kannada",2816023,"55","Male","SARI","Fever, Breathlessness","HTN","14-06-2021","18-06-2021","19-06-2021",NA
+33656,"Mysuru",2816262,"65","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","15-06-2021","19-06-2021","19-06-2021",NA
+33657,"Dakshina Kannada",2817757,"64","Male","SARI","Fever, Breathlessness","DM, HTN","12-06-2021","18-06-2021","19-06-2021",NA
+33658,"Bengaluru Rural",2818740,"50","Male","SARI","Fever, Breathlessness","-","14-06-2021","17-06-2021","19-06-2021",NA
+33659,"Dakshina Kannada",2819144,"78","Female","SARI","Cough, Breathlessness","HTN, IHD","05-06-2021","14-06-2021","19-06-2021",NA
+33660,"Bengaluru Urban",2819509,"35","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","18-06-2021","19-06-2021",NA
+33661,"Mysuru",2819588,"73","Male","SARI","Fever, Cough, Breathlessness","-","15-06-2021","18-06-2021","19-06-2021",NA
+33662,"Bengaluru Urban",2820342,"70","Male","SARI","Fever, Cough, Breathlessness","-","13-06-2021","18-06-2021","19-06-2021",NA
+33663,"Chikkamagaluru",2821090,"70","Male","SARI","Breathlessness","DM, HTN","15-06-2021","19-06-2021","19-06-2021",NA
+33664,"Bengaluru Urban",2822141,"79","Female","SARI","Fever, Cough, Breathlessness","CVA","15-06-2021","18-06-2021","19-06-2021",NA
+33665,"Belagavi",2822508,"26","Female","ILI","Fever, Cough","-","14-06-2021","15-06-2021","19-06-2021",NA
+33666,"Raichur",2823051,"60","Male","ILI","Fever, Cough","-","13-06-2021","16-06-2021","19-06-2021",NA
+33667,"Mysuru",2824047,"70","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","17-06-2021","18-06-2021","19-06-2021",NA
+33668,"Bengaluru Urban",2824297,"60","Female","SARI","Cough, breathlessness","HTN","16-06-2021","18-06-2021","19-06-2021",NA
+33669,"Dakshina Kannada",2824429,"60","Male","ILI","Fever, Cough","HTN, IHD, CKD","16-06-2021","17-06-2021","19-06-2021",NA
+33670,"Dakshina Kannada",2825088,"21","Male","SARI","Fever, Breathlessness","-","15-06-2021","18-06-2021","19-06-2021",NA
+33671,"Uttara Kannada",2825362,"80","Male","ILI","Fever, Cough","HTN","15-06-2021","18-06-2021","19-06-2021",NA
+33672,"Kodagu",2825600,"28","Male","ILI","Fever","-",NA,"15-06-2021","19-06-2021","Died at his residence"
+33673,"Ballari",2826021,"43","Male","SARI","Breathlessness","-","18-06-2021","18-06-2021","19-06-2021",NA
+33674,"Haveri",2828682,"72","Male","SARI","Fever, Cough, Breathlessness","HTN",NA,"17-06-2021","19-06-2021","Brought dead"
+33675,"Haveri",2828689,"65","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","16-06-2021","19-06-2021","19-06-2021",NA
+33676,"Shivamogga",2828900,"61","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","17-06-2021","17-06-2021","19-06-2021",NA
+33677,"Haveri",2830321,"55","Male","SARI","Fever, Cough, Breathlessness","DM","15-06-2021","19-06-2021","19-06-2021",NA
+33678,"Mysuru",2831705,"37","Male","SARI","Fever, Cough, Breathlessness","DM","09-06-2021","17-06-2021","19-06-2021",NA
+33679,"Raichur",2832475,"35","Female","ILI","Fever, Cough","-","14-06-2021","17-06-2021","19-06-2021",NA
+33680,"Bengaluru Urban",2832746,"78","Female","ILI","Cough","DM","17-06-2021","18-06-2021","19-06-2021",NA
+33681,"Bengaluru Urban",2834389,"42","Female","ILI","-","-",NA,"17-06-2021","19-06-2021","Died at her residence"
+33682,"Bengaluru Rural",2834907,"17","Male","SARI","Fever, Breathlessness","-","14-06-2021","17-06-2021","19-06-2021",NA
+33683,"Chikkaballapura",2837872,"75","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","17-06-2021","18-06-2021","19-06-2021",NA
+33684,"Kolar",2837941,"52","Male","SARI","Fever, Cough, Breathlessness","-","14-06-2021","15-06-2021","19-06-2021",NA
+33685,"Bengaluru Urban",2839164,"42","Male","SARI","Breathlessness","DM","12-06-2021","17-06-2021","19-06-2021",NA
+33686,"Chamarajanagara",2840977,"55","Female","SARI","Fever, Breathlessness","DM",NA,"23-05-2021","19-06-2021","Brought dead"
+33687,"Ramanagara",2842243,"60","Female","SARI","Breathlessness","-","18-06-2021","18-06-2021","19-06-2021",NA
+33688,"Mysuru",2842591,"48","Female","SARI","Fever, Cough, Breathlessness","DM","18-06-2021","18-06-2021","19-06-2021",NA
+33689,"Tumakuru",100000376,"35","Male","SARI","Fever, Cough, Breathlessness","-","11-06-2021","17-06-2021","19-06-2021",NA
+33690,"Davanagere",100000396,"30","Male","ILI","Fever, Cough","-","13-06-2021","19-06-2021","19-06-2021",NA
+33691,"Davanagere",100000484,"58","Male","SARI","Fever, Breathlessness","-","13-06-2021","19-06-2021","19-06-2021",NA
+33692,"Belagavi",100000537,"70","Male","SARI","Fever, Cough, Breathlessness","-","15-06-2021","18-06-2021","19-06-2021",NA
+33693,"Davanagere",100000579,"65","Female","SARI","Fever, Breathlessness","DM","13-06-2021","19-06-2021","19-06-2021",NA
+33694,"Belagavi",100000746,"53","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","19-06-2021","19-06-2021",NA
+33695,"Davanagere",100000758,"62","Male","SARI","Fever, Breathlessness","IHD","13-06-2021","19-06-2021","19-06-2021",NA
+33696,"Davanagere",100000762,"49","Male","SARI","Fever, Breathlessness","-","13-06-2021","19-06-2021","19-06-2021",NA
+33697,"Mandya",100000816,"70","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","19-06-2021","19-06-2021",NA
+33698,"Davanagere",100000905,"60","Female","SARI","Fever, Breathlessness","HTN","13-06-2021","19-06-2021","19-06-2021",NA
+33699,"Davanagere",100000921,"58","Female","SARI","Fever, Breathlessness","DM, HTN","13-06-2021","19-06-2021","19-06-2021",NA
+33700,"Davanagere",100000984,"47","Male","SARI","Fever, Breathlessness","-","13-06-2021","19-06-2021","19-06-2021",NA
+33701,"Davanagere",100001124,"55","Female","SARI","Fever, Breathlessness","DM, HTN","13-06-2021","18-06-2021","19-06-2021",NA
+33702,"Davanagere",100001149,"43","Male","ILI","Fever, Cough","-","13-06-2021","18-06-2021","19-06-2021",NA
+33703,"Belagavi",100001159,"70","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","18-06-2021","19-06-2021",NA
+33704,"Mysuru",2706496,"55","Male","SARI","Fever, Cough, Breathlessness","DM, CLD","03-06-2021","17-06-2021","19-06-2021",NA
+33705,"Mysuru",2805966,"75","Male","SARI","Fever, Breathlessness","HTN","12-06-2021","18-06-2021","19-06-2021",NA
+33706,"Mysuru",2811457,"71","Male","SARI","Fever, Breathlessness","-","31-05-2021","13-06-2021","19-06-2021",NA
+33707,"Ballari",1355047,"55","Male","SARI","Fever, Breathlessness","-","26-05-2021","28-05-2021","20-06-2021",NA
+33708,"Ballari",1502788,"53","Male","SARI","Fever, Breathlessness","DM, HTN","06-05-2021","11-05-2021","20-06-2021",NA
+33709,"Ballari",2003693,"65","Male","SARI","Breathlessness","-","05-05-2021","15-05-2021","20-06-2021",NA
+33710,"Dakshina Kannada",2176180,"65","Male","SARI","Cough, Breathlessness","-","21-05-2021","03-06-2021","20-06-2021",NA
+33711,"Ballari",2327488,"54","Female","SARI","Cough, Breathlessness","-","15-05-2021","18-05-2021","20-06-2021",NA
+33712,"Ballari",2331950,"83","Male","ILI","Cough","-","29-05-2021","30-05-2021","20-06-2021",NA
+33713,"Ballari",2352739,"52","Male","ILI","Cough","-","16-05-2021","22-05-2021","20-06-2021",NA
+33714,"Dharwad",2377610,"50","Male","SARI","Fever, Cough, Breathlessness","-","19-05-2021","31-05-2021","20-06-2021",NA
+33715,"Dharwad",2379361,"45","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","18-05-2021","31-05-2021","20-06-2021",NA
+33716,"Dakshina Kannada",2473701,"46","Male","SARI","Fever, Cough, Breathlessness","-","22-05-2021","31-05-2021","20-06-2021",NA
+33717,"Dakshina Kannada",2479870,"54","Female","SARI","Breathlessness","-","22-05-2021","31-05-2021","20-06-2021",NA
+33718,"Ballari",2484407,"57","Female","SARI","Breathlessness","HTN","14-05-2021","26-05-2021","20-06-2021",NA
+33719,"Dharwad",2491089,"94","Male","SARI","Fever, Cough, Breathlessness","-","23-05-2021","01-06-2021","20-06-2021",NA
+33720,"Dakshina Kannada",2513591,"74","Male","ILI","Fever, Cough","DM, HTN, IHD","25-05-2021","30-05-2021","20-06-2021",NA
+33721,"Dharwad",2513662,"46","Female","SARI","Fever, Cough, Breathlessness","HTN","24-05-2021","31-05-2021","20-06-2021",NA
+33722,"Dharwad",2513669,"48","Male","SARI","Fever, Cough, Breathlessness","DM","16-06-2021","20-06-2021","20-06-2021",NA
+33723,"Ballari",2558346,"63","Male","SARI","Cough, Breathlessness","-","25-05-2021","31-05-2021","20-06-2021",NA
+33724,"Dakshina Kannada",2583965,"52","Male","SARI","Breathlessness","DM, HTN, CHD","27-05-2021","01-06-2021","20-06-2021",NA
+33725,"Dharwad",2599916,"82","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","27-05-2021","31-05-2021","20-06-2021",NA
+33726,"Ballari",2602869,"56","Male","SARI","Cough, Breathlessness","DM","28-05-2021","08-06-2021","20-06-2021",NA
+33727,"Dharwad",2621938,"50","Male","SARI","Fever, Cough, Breathlessness","DM","28-05-2021","31-05-2021","20-06-2021",NA
+33728,"Dharwad",2631439,"66","Male","SARI","Fever, Cough, Breathlessness","HTN","24-05-2021","29-05-2021","20-06-2021",NA
+33729,"Dharwad",2631460,"84","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","29-05-2021","29-05-2021","20-06-2021",NA
+33730,"Bagalakote",2644968,"66","Male","SARI","Fever, Cough, Breathlessness","-","30-05-2021","20-06-2021","20-06-2021",NA
+33731,"Dharwad",2654273,"60","Female","SARI","Fever, Cough, Breathlessness","DM","30-05-2021","31-05-2021","20-06-2021",NA
+33732,"Ballari",2655052,"44","Female","SARI","Fever, Cough, Breathlessness","-","16-05-2021","18-05-2021","20-06-2021",NA
+33733,"Ballari",2660079,"60","Male","SARI","Fever, Breathlessness","-","10-06-2021","20-06-2021","20-06-2021",NA
+33734,"Uttara Kannada",2666545,"59","Male","SARI","Fever, Cough, Breathlessness","HTN, IHD","01-06-2021","20-06-2021","20-06-2021",NA
+33735,"Chamarajanagara",2671134,"40","Male","SARI","Fever, Cough, Breathlessness","-","04-06-2021","19-06-2021","20-06-2021",NA
+33736,"Raichur",2680810,"48","Female","ILI","Fever, Cough","-","01-06-2021","12-06-2021","20-06-2021",NA
+33737,"Dakshina Kannada",2691170,"77","Female","SARI","Fever, Cough, Breathlessness","DM","02-06-2021","03-06-2021","20-06-2021",NA
+33738,"Mandya",2693010,"65","Male","SARI","Fever, Cough, Breathlessness","-","02-06-2021","15-06-2021","20-06-2021",NA
+33739,"Mysuru",2694423,"60","Female","SARI","Fever, Breathlessness","DM, HTN","02-06-2021","16-06-2021","20-06-2021",NA
+33740,"Dakshina Kannada",2700578,"66","Male","SARI","Fever, Breathlessness","HTN","01-06-2021","04-06-2021","20-06-2021",NA
+33741,NA,2704982,"54","Male","SARI","Fever, Cough, Breathlessness","-","03-06-2021","06-06-2021","20-06-2021",NA
+33742,"Mysuru",2715359,"74","Male","SARI","Fever, Breathlessness","DM","03-06-2021","10-06-2021","20-06-2021",NA
+33743,"Shivamogga",2721472,"46","Female","SARI","Fever, Cough, Breathlessness","Hyper thyroidism","12-06-2021","19-06-2021","20-06-2021",NA
+33744,"Mysuru",2728475,"63","Female","SARI","Breathlessness","DM, HTN","04-06-2021","14-06-2021","20-06-2021",NA
+33745,"Bengaluru Urban",2729505,"63","Male","SARI","Breathlessness","DM","05-06-2021","18-06-2021","20-06-2021",NA
+33746,"Kodagu",2730318,"65","Female","SARI","Fever, Breathlessness","-","07-06-2021","19-06-2021","20-06-2021",NA
+33747,"Koppal",2730336,"38","Female","SARI","Fever, Breathlessness","-","05-06-2021","19-06-2021","20-06-2021",NA
+33748,"Chikkamagaluru",2732472,"75","Female","SARI","Breathlessness","DM, HTN","05-06-2021","16-06-2021","20-06-2021",NA
+33749,"Mandya",2732708,"80","Female","SARI","Fever, Cough, Breathlessness","-","05-06-2021","11-06-2021","20-06-2021",NA
+33750,NA,2734922,"80","Female","SARI","Fever, Cough, Breathlessness","DM","04-06-2021","09-06-2021","20-06-2021",NA
+33751,"Chikkamagaluru",2738538,"68","Male","SARI","Breathlessness","DM, HTN","05-06-2021","16-06-2021","20-06-2021",NA
+33752,"Bengaluru Urban",2740386,"70","Female","ILI","Cough","HTN","06-06-2021","19-06-2021","20-06-2021",NA
+33753,NA,2740589,"70","Female","SARI","Fever, Cough, Breathlessness","DM","05-06-2021","06-06-2021","20-06-2021",NA
+33754,"Vijayapura",2740735,"55","Male","SARI","Fever, Cough, Breathlessness","-","05-06-2021","05-06-2021","20-06-2021",NA
+33755,NA,2741557,"65","Male","SARI","Fever, Cough, Breathlessness","DM","06-06-2021","06-06-2021","20-06-2021",NA
+33756,"Bengaluru Urban",2744658,"85","Male","SARI","Fever, Cough, Breathlessness","DM","10-06-2021","19-06-2021","20-06-2021",NA
+33757,NA,2755564,"60","Male","SARI","Fever, Cough, Breathlessness","DM","07-06-2021","09-06-2021","20-06-2021",NA
+33758,"Haveri",2758472,"60","Female","SARI","Fever, Cough, Breathlessness","HTN","15-06-2021","16-06-2021","20-06-2021",NA
+33759,"Haveri",2761529,"71","Female","SARI","Fever, Cough, Breathlessness","DM","08-06-2021","17-06-2021","20-06-2021",NA
+33760,"Bengaluru Urban",2762190,"37","Female","SARI","Fever, Cough, Breathlessness","-","08-06-2021","18-06-2021","20-06-2021",NA
+33761,"Ballari",2764017,"70","Female","SARI","Breathlessness","-","19-06-2021","20-06-2021","20-06-2021",NA
+33762,"Haveri",2764865,"65","Male","ILI","Fever, Cough","DM, HTN","08-06-2021","10-06-2021","20-06-2021",NA
+33763,"Mysuru",2766129,"65","Male","SARI","Fever, Cough, Breathlessness","-","17-06-2021","18-06-2021","20-06-2021",NA
+33764,"Shivamogga",2768086,"74","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","08-06-2021","18-06-2021","20-06-2021",NA
+33765,"Mysuru",2768870,"83","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",NA,"16-06-2021","20-06-2021","Died at his residence"
+33766,"Uttara Kannada",2769782,"75","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","08-06-2021","19-06-2021","20-06-2021",NA
+33767,"Uttara Kannada",2770373,"78","Male","SARI","Fever, Cough, Breathlessness","HTN","14-06-2021","19-06-2021","20-06-2021",NA
+33768,"Mysuru",2772469,"56","Female","SARI","Fever, Breathlessness","DM, HTN","08-06-2021","14-06-2021","20-06-2021",NA
+33769,"Davanagere",2772945,"66","Female","SARI","Fever, Breathlessness","HTN","08-06-2021","20-06-2021","20-06-2021",NA
+33770,"Chitradurga",2774076,"50","Male","SARI","Fever, Breathlessness","-","12-06-2021","19-06-2021","20-06-2021",NA
+33771,"Gadag",2775890,"82","Male","SARI","Fever, Cough, Breathlessness","DM","13-06-2021","17-06-2021","20-06-2021",NA
+33772,"Chitradurga",2776583,"80","Male","ILI","Fever","-","16-06-2021","19-06-2021","20-06-2021",NA
+33773,"Dharwad",2776712,"70","Male","SARI","Fever, Cough, Breathlessness","-","07-06-2021","18-06-2021","20-06-2021",NA
+33774,"Kolar",2782172,"55","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","20-06-2021","20-06-2021",NA
+33775,"Bengaluru Urban",2785580,"70","Female","ILI","Fever","-","10-05-2021","18-06-2021","20-06-2021",NA
+33776,"Hassan",2785965,"65","Male","ILI","Fever","HTN","10-06-2021","19-06-2021","20-06-2021",NA
+33777,"Dakshina Kannada",2798197,"71","Female","SARI","Fever, Breathlessness","CKD","11-06-2021","19-06-2021","20-06-2021",NA
+33778,"Mysuru",2800039,"90","Male","SARI","Fever, Cough, Breathlessness","-","12-06-2021","19-06-2021","20-06-2021",NA
+33779,"Shivamogga",2800120,"77","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","11-06-2021","18-06-2021","20-06-2021",NA
+33780,"Mysuru",2802007,"36","Male","SARI","Breathlessness","-","12-06-2021","19-06-2021","20-06-2021",NA
+33781,"Hassan",2802839,"74","Male","ILI","Fever","-","15-06-2021","19-06-2021","20-06-2021",NA
+33782,"Mysuru",2805931,"95","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","18-06-2021","19-06-2021","20-06-2021",NA
+33783,"Bengaluru Urban",2808097,"91","Male","SARI","Cough, breathlessness","DM, HTN, CKD","13-06-2021","19-06-2021","20-06-2021",NA
+33784,"Tumakuru",2808292,"47","Male","SARI","Fever, Breathlessness","DM","15-06-2021","17-06-2021","20-06-2021",NA
+33785,"Hassan",2809446,"45","Male","ILI","Fever, Cough","-","17-06-2021","19-06-2021","20-06-2021",NA
+33786,"Kolar",2809626,"39","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","13-06-2021","16-06-2021","20-06-2021",NA
+33787,"Tumakuru",2810167,"48","Female","SARI","Fever, Breathlessness","DM","13-06-2021","15-06-2021","20-06-2021",NA
+33788,"Bidar",2810205,"60","Female","SARI","Cough, Breathlessness","-","12-06-2021","19-06-2021","20-06-2021",NA
+33789,"Mysuru",2811451,"50","Male","SARI","Breathlessness","DM, HTN","18-06-2021","18-06-2021","20-06-2021",NA
+33790,"Mandya",2812740,"38","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","07-06-2021","19-06-2021","20-06-2021",NA
+33791,"Uttara Kannada",2812959,"39","Male","SARI","Fever, Cough, Breathlessness","-","07-06-2021","19-06-2021","20-06-2021",NA
+33792,"Bengaluru Urban",2814951,"73","Female","SARI","Breathlessness","HTN","14-06-2021","19-06-2021","20-06-2021",NA
+33793,"Chikkamagaluru",2817733,"45","Female","SARI","Breathlessness","DM, HTN","13-06-2021","20-06-2021","20-06-2021",NA
+33794,"Shivamogga",2818596,"73","Female","SARI","Fever, Cough, Breathlessness","DM","14-06-2021","19-06-2021","20-06-2021",NA
+33795,"Bengaluru Urban",2820272,"38","Female","ILI","Fever, Cough","-","15-06-2021","19-06-2021","20-06-2021",NA
+33796,"Shivamogga",2820821,"33","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","19-06-2021","20-06-2021",NA
+33797,"Mysuru",2821423,"57","Female","SARI","Fever, Breathlessness","DM, HTN","05-06-2021","17-06-2021","20-06-2021",NA
+33798,"Mysuru",2821425,"87","Female","SARI","Fever, Cough, Breathlessness","-","15-06-2021","19-06-2021","20-06-2021",NA
+33799,"Hassan",2821835,"80","Male","ILI","Fever, Cough","DM","15-06-2021","19-06-2021","20-06-2021",NA
+33800,"Mysuru",2823575,"80","Male","SARI","Fever, Breathlessness","HTN","15-06-2021","19-06-2021","20-06-2021",NA
+33801,"Mysuru",2826118,"62","Male","SARI","Breathlessness","DM, HTN","15-06-2021","20-06-2021","20-06-2021",NA
+33802,"Uttara Kannada",2826669,"75","Female","ILI","Fever, Cough","HTN","16-06-2021","19-06-2021","20-06-2021",NA
+33803,"Haveri",2832464,"70","Female","SARI","Fever, Cough, Breathlessness","-","16-06-2021","19-06-2021","20-06-2021",NA
+33804,"Bengaluru Urban",2832489,"60","Female","ILI","Fever","HTN","17-06-2021","20-06-2021","20-06-2021",NA
+33805,"Dakshina Kannada",2836195,"54","Female","SARI","Breathlessness","CLD","16-06-2021","17-06-2021","20-06-2021",NA
+33806,"Belagavi",2837783,"29","Male","SARI","Fever, Cough, Breathlessness","-","17-06-2021","17-06-2021","20-06-2021",NA
+33807,"Bengaluru Urban",2838423,"53","Female","ILI","Fever","Hypo thyroidism","01-06-2021","18-06-2021","20-06-2021",NA
+33808,"Mysuru",2838572,"46","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","18-06-2021","20-06-2021","20-06-2021",NA
+33809,"Mysuru",2838758,"20","Male","SARI","Cough, Breathlessness","-","15-06-2021","16-06-2021","20-06-2021",NA
+33810,"Haveri",2841478,"55","Female","SARI","Fever, Cough, Breathlessness","-","18-06-2021","20-06-2021","20-06-2021",NA
+33811,"Mysuru",2841518,"69","Male","SARI","Breathlessness","HTN","17-06-2021","18-06-2021","20-06-2021",NA
+33812,"Udupi",2842329,"35","Female","SARI","Fever, Cough, Breathlessness","DM","17-06-2021","19-06-2021","20-06-2021",NA
+33813,"Bengaluru Urban",2845637,"36","Male","ILI","Fever, Cough","DM, HTN","15-06-2021","18-06-2021","20-06-2021",NA
+33814,"Bengaluru Urban",2847342,"72","Male","ILI","Fever, Cough","DM",NA,"19-06-2021","20-06-2021","Died at his residence"
+33815,"Hassan",2847558,"60","Male","ILI","Fever, Cough","-","16-06-2021","20-06-2021","20-06-2021",NA
+33816,"Dakshina Kannada",100000117,"65","Male","SARI","Breathlessness","HTN","28-05-2021","03-06-2021","20-06-2021",NA
+33817,"Davanagere",100000399,"43","Male","SARI","Fever, Breathlessness","-","13-06-2021","20-06-2021","20-06-2021",NA
+33818,"Dakshina Kannada",100000400,"53","Male","SARI","Fever, Breathlessness","-","09-06-2021","19-06-2021","20-06-2021",NA
+33819,"Davanagere",100000407,"60","Female","SARI","Fever, Breathlessness","IHD","13-06-2021","20-06-2021","20-06-2021",NA
+33820,"Davanagere",100000503,"50","Female","SARI","Fever, Breathlessness","CHD","13-06-2021","20-06-2021","20-06-2021",NA
+33821,"Davanagere",100000821,"90","Female","SARI","Fever, Breathlessness","CKD","13-06-2021","20-06-2021","20-06-2021",NA
+33822,"Kolar",100001060,"82","Male","SARI","Fever, Cough, Breathlessness","-","13-06-2021","20-06-2021","20-06-2021",NA
+33823,"Kolar",100001072,"32","Female","SARI","Fever, Cough, Breathlessness","-","16-06-2021","18-06-2021","20-06-2021",NA
+33824,"Chikkaballapura",100001144,"48","Male","SARI","Fever, Cough, Breathlessness","-","17-06-2021","20-06-2021","20-06-2021",NA
+33825,"Davanagere",100001210,"68","Male","SARI","Fever, Breathlessness","DM","13-06-2021","20-06-2021","20-06-2021",NA
+33826,"Davanagere",100001265,"53","Female","SARI","Fever, Breathlessness","DM","13-06-2021","20-06-2021","20-06-2021",NA
+33827,"Ballari",1300316,"52","Male","SARI","Breathlessness","DM","21-04-2021","22-04-2021","21-06-2021",NA
+33828,"Ballari",1696040,"67","Male","SARI","Breathlessness","-","02-05-2021","08-05-2021","21-06-2021",NA
+33829,"Ballari",1812737,"60","Female","SARI","Breathlessness","DM, HTN","03-05-2021","03-05-2021","21-06-2021",NA
+33830,"Ballari",2237029,"60","Female","SARI","Breathlessness","-","13-05-2021","15-05-2021","21-06-2021",NA
+33831,"Bengaluru Urban",2288159,"60","Male","SARI","Cough, Breathlessness","-","16-05-2021","19-06-2021","21-06-2021",NA
+33832,"Ballari",2324374,"62","Male","SARI","Cough, Breathlessness","-","18-05-2021","27-05-2021","21-06-2021",NA
+33833,"Ballari",2329686,"65","Female","SARI","Cough, Breathlessness","-","19-05-2021","26-05-2021","21-06-2021",NA
+33834,"Mysuru",2356888,"51","Male","SARI","Fever, Cough, Breathlessness","-","24-05-2021","27-05-2021","21-06-2021",NA
+33835,"Ramanagara",2358853,"56","Male","SARI","Breathlessness","DM","19-05-2021","29-05-2021","21-06-2021",NA
+33836,"Ballari",2378250,"75","Female","SARI","Cough, Breathlessness","Hypo thyroidism","20-05-2021","24-05-2021","21-06-2021",NA
+33837,"Dharwad",2379360,"50","Female","SARI","Fever, Cough, Breathlessness","-","19-05-2021","01-06-2021","21-06-2021",NA
+33838,"Mysuru",2420362,"75","Female","SARI","Fever, Cough, Breathlessness","-","19-05-2021","21-05-2021","21-06-2021",NA
+33839,"Bengaluru Urban",2424627,"70","Male","SARI","Cough, Breathlessness","HTN, IHD","07-06-2021","08-06-2021","21-06-2021",NA
+33840,"Mysuru",2427062,"74","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","30-05-2021","03-06-2021","21-06-2021",NA
+33841,"Bengaluru Urban",2440645,"65","Male","SARI","Breathlessness","-","20-05-2021","24-05-2021","21-06-2021",NA
+33842,"Mysuru",2447015,"66","Male","SARI","Fever, Cough, Breathlessness","DM","28-05-2021","11-06-2021","21-06-2021",NA
+33843,"Dakshina Kannada",2464723,"58","Male","SARI","Cough, Breathlessness","HTN","23-05-2021","04-06-2021","21-06-2021",NA
+33844,"Mysuru",2477707,"65","Female","SARI","Fever, Cough, Breathlessness","DM","22-05-2021","24-05-2021","21-06-2021",NA
+33845,"Bengaluru Urban",2495317,"73","Female","SARI","Fever, Breathlesness","-","28-05-2021","19-06-2021","21-06-2021",NA
+33846,"Ballari",2507386,"55","Male","SARI","Fever, Breathlesness","DM, HTN","24-05-2021","24-05-2021","21-06-2021",NA
+33847,"Mysuru",2508630,"60","Male","SARI","Fever, Cough, Breathlessness","DM","24-05-2021","25-05-2021","21-06-2021",NA
+33848,"Mysuru",2516401,"72","Female","SARI","Fever, Cough, Breathlessness","-","24-05-2021","12-06-2021","21-06-2021",NA
+33849,"Davanagere",2547966,"40","Female","SARI","Breathlessness","HTN","30-05-2021","06-06-2021","21-06-2021",NA
+33850,"Bengaluru Urban",2551596,"87","Male","SARI","Cough, Breathlessness","HTN","26-05-2021","19-06-2021","21-06-2021",NA
+33851,"Bengaluru Urban",2576215,"67","Female","SARI","Fever, Breathlesness","DM, HTN","29-05-2021","20-06-2021","21-06-2021",NA
+33852,"Ballari",2579714,"54","Female","SARI","Cough, Breathlessness","DM","28-05-2021","29-05-2021","21-06-2021",NA
+33853,"Dharwad",2587369,"50","Male","SARI","Fever, Cough, Breathlessness","DM","25-05-2021","01-06-2021","21-06-2021",NA
+33854,"Bengaluru Urban",2588107,"35","Male","ILI","Fever","-","24-05-2021","07-06-2021","21-06-2021",NA
+33855,"Bengaluru Urban",2599243,"33","Male","SARI","Cough, Breathlessness","-","28-05-2021","01-06-2021","21-06-2021",NA
+33856,"Bengaluru Urban",2601191,"43","Male","SARI","Fever, Cough, Breathlessness","-","02-06-2021","20-06-2021","21-06-2021",NA
+33857,"Ballari",2604454,"40","Male","SARI","Cough, Breathlessness","DM","26-05-2021","31-05-2021","21-06-2021",NA
+33858,"Dharwad",2605723,"52","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","28-05-2021","01-06-2021","21-06-2021",NA
+33859,"Udupi",2607859,"63","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","04-06-2021","20-06-2021","21-06-2021",NA
+33860,"Dharwad",2608740,"58","Male","SARI","Fever, Cough, Breathlessness","HTN","27-05-2021","01-06-2021","21-06-2021",NA
+33861,"Bengaluru Urban",2611296,"43","Male","SARI","Cough, Breathlessness","-","27-05-2021","06-06-2021","21-06-2021",NA
+33862,"Bengaluru Urban",2617171,"43","Male","SARI","Breathlessness","DM","29-05-2021","19-06-2021","21-06-2021",NA
+33863,"Bengaluru Urban",2625122,"70","Male","SARI","Fever, Breathlesness","DM","28-05-2021","29-05-2021","21-06-2021",NA
+33864,"Uttara Kannada",2625966,"47","Male","SARI","Fever, Cough, Breathlessness","-","31-05-2021","03-06-2021","21-06-2021",NA
+33865,"Dharwad",2626904,"80","Female","SARI","Fever, Cough, Breathlessness","DM, IHD","29-05-2021","30-05-2021","21-06-2021",NA
+33866,"Tumakuru",2631136,"74","Female","SARI","Breathlessness","-","29-05-2021","30-05-2021","21-06-2021",NA
+33867,"Hassan",2632924,"65","Female","SARI","Fever, Cough, Breathlessness","DM","28-05-2021","02-06-2021","21-06-2021",NA
+33868,"Bengaluru Urban",2636010,"53","Female","SARI","Fever, Cough, Breathlessness","CA","12-06-2021","20-06-2021","21-06-2021",NA
+33869,"Bengaluru Urban",2643261,"60","Female","ILI","Fever, Cough","DM, HTN","30-05-2021","19-06-2021","21-06-2021",NA
+33870,"Mysuru",2643843,"67","Male","SARI","Fever, Cough, Breathlessness","HTN","02-06-2021","13-06-2021","21-06-2021",NA
+33871,"Koppal",2645540,"50","Female","SARI","Fever, Breathlesness","-","29-05-2021","13-06-2021","21-06-2021",NA
+33872,"Haveri",2647269,"48","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","20-05-2021","20-06-2021","21-06-2021",NA
+33873,"Uttara Kannada",2647550,"60","Male","SARI","Fever, Cough, Breathlessness","-","29-05-2021","02-06-2021","21-06-2021",NA
+33874,"Mysuru",2650312,"86","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","01-06-2021","09-06-2021","21-06-2021",NA
+33875,"Dakshina Kannada",2658433,"60","Female","ILI","Fever, Cough","DM, HTN","01-06-2021","04-06-2021","21-06-2021",NA
+33876,"Dharwad",2660456,"60","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","30-05-2021","01-06-2021","21-06-2021",NA
+33877,"Bengaluru Urban",2662939,"71","Male","SARI","Fever, Breathlesness","-","10-06-2021","10-06-2021","21-06-2021",NA
+33878,"Dharwad",2667252,"58","Male","SARI","Fever, Cough, Breathlessness","-","01-06-2021","01-06-2021","21-06-2021",NA
+33879,"Mysuru",2672801,"67","Female","SARI","Fever, Cough, Breathlessness","-","31-05-2021","03-06-2021","21-06-2021",NA
+33880,"Dharwad",2674096,"59","Male","SARI","Fever, Cough, Breathlessness","-","31-05-2021","01-06-2021","21-06-2021",NA
+33881,"Raichur",2675900,"57","Male","ILI","Fever, Cough","-","01-06-2021","11-06-2021","21-06-2021",NA
+33882,"Koppal",2678081,"57","Male","SARI","Fever, Breathlesness","DM, HTN","31-05-2021","07-06-2021","21-06-2021",NA
+33883,"Vijayapura",2679661,"56","Male","SARI","Fever, Cough, Breathlessness","DM","30-05-2021","08-06-2021","21-06-2021",NA
+33884,"Koppal",2680757,"50","Female","SARI","Fever, Breathlesness","HTN","30-05-2021","08-06-2021","21-06-2021",NA
+33885,"Bengaluru Urban",2680973,"62","Male","SARI","Fever, Breathlesness","-","01-06-2021","12-06-2021","21-06-2021",NA
+33886,"Dakshina Kannada",2687936,"90","Male","SARI","Fever, Cough, Breathlessness","HTN","02-06-2021","05-06-2021","21-06-2021",NA
+33887,"Dakshina Kannada",2704521,"85","Male","SARI","Breathlessness","HTN","03-06-2021","19-06-2021","21-06-2021",NA
+33888,"Uttara Kannada",2706721,"53","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","09-06-2021","20-06-2021","21-06-2021",NA
+33889,NA,2708018,"26","Female","SARI","Breathlessness","-","02-06-2021","03-06-2021","21-06-2021",NA
+33890,"Bengaluru Urban",2712268,"53","Male","SARI","Breathlessness","DM, HTN","16-06-2021","20-06-2021","21-06-2021",NA
+33891,"Dakshina Kannada",2713391,"53","Male","SARI","Fever, Breathlesness","HTN","03-06-2021","05-06-2021","21-06-2021",NA
+33892,"Bengaluru Urban",2723170,"69","Female","SARI","Fever, Breathlesness","-","05-06-2021","19-06-2021","21-06-2021",NA
+33893,"Raichur",2724604,"62","Male","ILI","Fever, Cough","-","03-06-2021","14-06-2021","21-06-2021",NA
+33894,"Ballari",2727272,"35","Female","SARI","Breathlessness","-","04-06-2021","09-06-2021","21-06-2021",NA
+33895,NA,2729258,"49","Male","SARI","Fever, Breathlesness","-","01-06-2021","07-06-2021","21-06-2021",NA
+33896,"Dakshina Kannada",2735714,"75","Male","SARI","Breathlessness","DM, HTN","05-06-2021","15-06-2021","21-06-2021",NA
+33897,"Mysuru",2744190,"41","Male","SARI","Cough, Breathlessness","DM","06-06-2021","09-06-2021","21-06-2021",NA
+33898,"Uttara Kannada",2745362,"45","Female","SARI","Fever, Cough, Breathlessness","-","07-06-2021","20-06-2021","21-06-2021",NA
+33899,"Haveri",2749470,"41","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","04-06-2021","17-06-2021","21-06-2021",NA
+33900,"Mysuru",2754851,"75","Female","SARI","Cough, Breathlessness","-",NA,"13-06-2021","21-06-2021","Brought dead"
+33901,"Mysuru",2758633,"63","Male","SARI","Cough, Breathlessness","DM, HTN, CKD","07-06-2021","20-06-2021","21-06-2021",NA
+33902,"Bengaluru Urban",2761767,"81","Female","ILI","Fever","HTN","02-06-2021","20-06-2021","21-06-2021",NA
+33903,"Bengaluru Rural",2764077,"87","Male","SARI","Breathlessness","DM, COPD","08-06-2021","17-06-2021","21-06-2021",NA
+33904,"Bidar",2765353,"80","Male","SARI","Breathlessness","DM, HTN","09-06-2021","21-06-2021","21-06-2021",NA
+33905,"Mysuru",2766107,"62","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","03-06-2021","08-06-2021","21-06-2021",NA
+33906,"Kolar",2767045,"55","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","12-06-2021","16-06-2021","21-06-2021",NA
+33907,"Davanagere",2769411,"70","Male","SARI","Fever, Breathlesness","HTN","08-06-2021","21-06-2021","21-06-2021",NA
+33908,"Mysuru",2769541,"66","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","08-06-2021","20-06-2021","21-06-2021",NA
+33909,"Uttara Kannada",2770409,"65","Male","SARI","Fever, Cough, Breathlessness","-","12-06-2021","20-06-2021","21-06-2021",NA
+33910,"Mysuru",2772005,"65","Male","SARI","Fever, Breathlesness","DM","10-06-2021","20-06-2021","21-06-2021",NA
+33911,"Mysuru",2777068,"40","Male","SARI","Fever, Cough, Breathlessness","-","10-06-2021","16-06-2021","21-06-2021",NA
+33912,"Bengaluru Rural",2778108,"32","Male","SARI","Breathlessness","-","09-06-2021","21-06-2021","21-06-2021",NA
+33913,"Dakshina Kannada",2778355,"68","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","20-06-2021","21-06-2021",NA
+33914,"Shivamogga",2778750,"55","Male","SARI","Breathlessness","-","12-06-2021","20-06-2021","21-06-2021",NA
+33915,"Dakshina Kannada",2787282,"79","Female","SARI","Breathlessness","DM, CKD","11-06-2021","19-06-2021","21-06-2021",NA
+33916,"Dakshina Kannada",2789574,"32","Female","SARI","Breathlessness","-","26-05-2021","20-06-2021","21-06-2021",NA
+33917,"Mysuru",2792043,"53","Male","SARI","Fever, Breathlesness","DM, HTN","10-06-2021","20-06-2021","21-06-2021",NA
+33918,"Mysuru",2795299,"80","Female","SARI","Fever, Breathlesness","DM, HTN","11-06-2021","17-06-2021","21-06-2021",NA
+33919,"Bengaluru Urban",2797802,"73","Female","SARI","Breathlessness","HTN, IHD, CVA","11-06-2021","20-06-2021","21-06-2021",NA
+33920,"Chamarajanagara",2798032,"60","Female","SARI","Fever, Breathlesness","DM","25-05-2021","17-06-2021","21-06-2021",NA
+33921,"Shivamogga",2798979,"47","Male","SARI","Fever, Cough, Breathlessness","DM","15-06-2021","19-06-2021","21-06-2021",NA
+33922,"Ballari",2799250,"48","Male","ILI","Cough","HTN, CKD",NA,"17-06-2021","21-06-2021","Died at his residence"
+33923,"Dakshina Kannada",2800635,"50","Male","SARI","Breathlessness","HTN","11-06-2021","20-06-2021","21-06-2021",NA
+33924,"Haveri",2801079,"64","Male","SARI","Fever, Cough, Breathlessness","DM","12-06-2021","20-06-2021","21-06-2021",NA
+33925,"Tumakuru",2802091,"60","Female","SARI","Breathlessness","DM","11-06-2021","18-06-2021","21-06-2021",NA
+33926,"Davanagere",2803720,"59","Male","ILI","Fever, Cough","-","12-06-2021","21-06-2021","21-06-2021",NA
+33927,"Mysuru",2804724,"59","Male","SARI","Fever, Breathlesness","HTN, CKD, CLD","12-06-2021","21-06-2021","21-06-2021",NA
+33928,"Bengaluru Urban",2805693,"46","Female","SARI","Cough, Breathlessness","DM","16-06-2021","20-06-2021","21-06-2021",NA
+33929,"Dakshina Kannada",2805786,"64","Male","SARI","Fever, Breathlesness","-","12-06-2021","19-06-2021","21-06-2021",NA
+33930,"Mysuru",2805958,"92","Male","SARI","Cough, Breathlessness","HTN","12-06-2021","21-06-2021","21-06-2021",NA
+33931,"Mandya",2806701,"65","Male","SARI","Fever, Cough, Breathlessness","-","12-06-2021","21-06-2021","21-06-2021",NA
+33932,"Ramanagara",2809711,"21","Male","ILI","Fever","IHD","12-06-2021","15-6-2021","21-06-2021",NA
+33933,"Bengaluru Urban",2814971,"93","Female","SARI","Fever, Breathlesness","DM","14-06-2021","20-06-2021","21-06-2021",NA
+33934,"Kolar",2816830,"55","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","19-06-2021","21-06-2021",NA
+33935,"Dakshina Kannada",2817283,"58","Male","SARI","Fever, Cough, Breathlessness","CA","15-06-2021","20-06-2021","21-06-2021",NA
+33936,"Ramanagara",2817993,"52","Female","SARI","Fever, Breathlesness","-","09-06-2021","19-6-2021","21-06-2021",NA
+33937,"Dakshina Kannada",2819870,"54","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","15-06-2021","19-06-2021","21-06-2021",NA
+33938,"Gadag",2821271,"70","Male","ILI","Fever, Cough","-","17-06-2021","19-06-2021","21-06-2021",NA
+33939,"Davanagere",2822901,"84","Male","SARI","Fever, Breathlesness","DM","15-06-2021","21-06-2021","21-06-2021",NA
+33940,"Hassan",2824509,"80","Male","ILI","Fever, Cough","HTN","10-06-2021","21-06-2021","21-06-2021",NA
+33941,"Hassan",2828322,"50","Male","ILI","Fever","DM","17-06-2021","20-06-2021","21-06-2021",NA
+33942,"Kolar",2828728,"75","Female","SARI","Fever, Cough, Breathlessness","-","16-06-2021","18-06-2021","21-06-2021",NA
+33943,"Shivamogga",2829964,"65","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","15-06-2021","17-06-2021","21-06-2021",NA
+33944,"Bengaluru Urban",2831416,"65","Female","SARI","Cough, Breathlessness","-","16-06-2021","20-06-2021","21-06-2021",NA
+33945,"Kodagu",2831634,"68","Female","SARI","Cough, Breathlessness","HTN","16-06-2021","20-06-2021","21-06-2021",NA
+33946,"Bengaluru Urban",2835528,"47","Male","SARI","Cough, Breathlessness","DM","17-06-2021","20-06-2021","21-06-2021",NA
+33947,"Kodagu",2838554,"45","Male","SARI","Cough, Breathlessness","DM, HTN","28-05-2021","20-06-2021","21-06-2021",NA
+33948,"Shivamogga",2841901,"70","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","18-06-2021","19-06-2021","21-06-2021",NA
+33949,"Tumakuru",2841918,"60","Male","SARI","Breathlessness","DM, HTN","18-06-2021","19-06-2021","21-06-2021",NA
+33950,"Chikkamagaluru",2843050,"58","Female","SARI","Breathlessness","DM, HTN","18-06-2021","21-06-2021","21-06-2021",NA
+33951,"Mysuru",2843469,"81","Female","SARI","Fever, Cough, Breathlessness","HTN","05-06-2021","20-06-2021","21-06-2021",NA
+33952,"Shivamogga",2843548,"68","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","19-06-2021","21-06-2021","21-06-2021",NA
+33953,"Dakshina Kannada",2846208,"85","Female","SARI","Breathlessness","HTN","19-06-2021","21-06-2021","21-06-2021",NA
+33954,"Haveri",2846312,"60","Male","SARI","Fever, Cough, Breathlessness","HTN","19-06-2021","19-06-2021","21-06-2021",NA
+33955,"Haveri",2847133,"48","Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CVD","19-06-2021","20-06-2021","21-06-2021",NA
+33956,"Bengaluru Urban",2849779,"40","Male","ILI","Fever","DM, HTN, CLD","19-06-2021","19-06-2021","21-06-2021",NA
+33957,"Bengaluru Urban",2849875,"50","Male","SARI","Breathlessness","HTN",NA,"20-06-2021","21-06-2021","Died at his residence"
+33958,"Bengaluru Urban",2850208,"75","Male","ILI","Cough","DM, HTN",NA,"19-06-2021","21-06-2021","Died at his residence"
+33959,"Bengaluru Urban",2851224,"45","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","18-06-2021","20-06-2021","21-06-2021",NA
+33960,"Chikkaballapura",2851272,"60","Male","SARI","Fever, Cough, Breathlessness","-","20-06-2021","20-06-2021","21-06-2021",NA
+33961,"Mandya",2852193,"70","Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD","20-06-2021","21-06-2021","21-06-2021",NA
+33962,"Davanagere",100000899,"45","Male","ILI","Fever, Cough","-","15-06-2021","21-06-2021","21-06-2021",NA
+33963,"Chikkamagaluru",100000901,"61","Female","SARI","Breathlessness","DM, HTN","17-06-2021","21-06-2021","21-06-2021",NA
+33964,"Davanagere",100000902,"58","Male","SARI","Fever, Breathlesness","IHD","15-06-2021","21-06-2021","21-06-2021",NA
+33965,"Davanagere",100000959,"65","Male","SARI","Fever, Breathlesness","HTN","15-06-2021","21-06-2021","21-06-2021",NA
+33966,"Belagavi",100001408,"71","Male","SARI","Fever, Cough, Breathlessness","DM","16-06-2021","20-06-2021","21-06-2021",NA
+33967,"Chikkamagaluru",100001471,"2","Male","SARI","Fever, Cough, Breathlessness","-","17-06-2021","20-06-2021","21-06-2021",NA
+33968,"Kolar",100001518,"65","Female","SARI","Fever, Cough, Breathlessness","-","20-06-2021","21-06-2021","21-06-2021",NA
+33969,"Bengaluru Urban",1651690,"66","Female","SARI","Fever, Breathlessness","DM","30-05-2021","22-06-2021","22-06-2021",NA
+33970,"Bengaluru Urban",1707528,"46","Male","SARI","Fever, Breathlessness","-","03-05-2021","14-05-2021","22-06-2021",NA
+33971,"Bengaluru Urban",2079120,"48","Male","SARI","Fever, Cough, Breathlessness","-","27-05-2021","21-06-2021","22-06-2021",NA
+33972,"Bengaluru Urban",2378762,"64","Female","SARI","Breathlessness","-","19-05-2021","21-06-2021","22-06-2021",NA
+33973,"Bengaluru Urban",2396992,"32","Male","SARI","Fever, Breathlessness","-","19-05-2021","01-06-2021","22-06-2021",NA
+33974,"Davanagere",2426832,"52","Male","SARI","Fever, Cough, Breathlessness","HTN","21-05-2021","24-05-2021","22-06-2021",NA
+33975,"Ballari",2461605,"85","Male","SARI","Fever, Breathlessness","-",NA,"22-05-2021","22-06-2021","Died at her residence"
+33976,"Bengaluru Urban",2470915,"73","Male","ILI","Fever, Cough","-","24-05-2021","19-06-2021","22-06-2021",NA
+33977,"Raichur",2515523,"72","Female","SARI","Fever, Cough, Breathlessness","HTN","22-05-2021","14-06-2021","22-06-2021",NA
+33978,"Vijayapura",2535512,"55","Male","SARI","Fever, Cough, Breathlessness","-","23-05-2021","10-06-2021","22-06-2021",NA
+33979,"Dharwad",2538075,"42","Male","ILI","Fever, Cough","HTN","24-05-2021","01-06-2021","22-06-2021",NA
+33980,"Ballari",2558236,"65","Male","ILI","Fever","DM, HTN",NA,"29-05-2021","22-06-2021","Died at his residence"
+33981,"Ballari",2558272,"71","Male","ILI","Fever, Cough","DM, HTN",NA,"25-05-2021","22-06-2021","Died at her residence"
+33982,"Bengaluru Urban",2574989,"72","Male","SARI","Breathlessness","DM, HTN","27-05-2021","19-06-2021","22-06-2021",NA
+33983,"Dharwad",2580538,"61","Male","SARI","Fever, Cough, Breathlessness","COPD","27-05-2021","03-06-2021","22-06-2021",NA
+33984,"Uttara Kannada",2586638,"55","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","28-05-2021","07-06-2021","22-06-2021",NA
+33985,"Dharwad",2590268,"39","Male","SARI","Fever, Cough, Breathlessness","-","28-05-2021","02-06-2021","22-06-2021",NA
+33986,"Uttara Kannada",2596050,"65","Male","SARI","Fever, Cough, Breathlessness","DM, CVA","29-05-2021","20-06-2021","22-06-2021",NA
+33987,"Dharwad",2612017,"42","Male","SARI","Fever, Cough, Breathlessness","HTN","28-05-2021","02-06-2021","22-06-2021",NA
+33988,"Dakshina Kannada",2612633,"77","Female","SARI","Fever, Breathlessness","DM","28-05-2021","05-06-2021","22-06-2021",NA
+33989,"Dharwad",2620394,"58","Female","SARI","Fever, Cough, Breathlessness","-","27-05-2021","02-06-2021","22-06-2021",NA
+33990,"Bengaluru Urban",2636799,"62","Male","SARI","Fever, Cough, Breathlessness","HTN","30-05-2021","19-06-2021","22-06-2021",NA
+33991,"Dharwad",2639681,"41","Male","SARI","Fever, Cough, Breathlessness","-","29-05-2021","02-06-2021","22-06-2021",NA
+33992,"Dakshina Kannada",2652014,"58","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","31-05-2021","05-06-2021","22-06-2021",NA
+33993,"Ballari",2657922,"40","Female","ILI","Fever","DM, HTN",NA,"05-06-2021","22-06-2021","Died at her residence"
+33994,"Dakshina Kannada",2672574,"47","Male","SARI","Fever, Breathlessness","HTN","31-05-2021","06-06-2021","22-06-2021",NA
+33995,"Dharwad",2677138,"42","Male","SARI","Fever, Cough, Breathlessness","DM","31-05-2021","03-06-2021","22-06-2021",NA
+33996,"Uttara Kannada",2680825,"72","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","01-06-2021","11-06-2021","22-06-2021",NA
+33997,"Bengaluru Urban",2692192,"75","Male","SARI","Breathlessness","-","02-06-2021","21-06-2021","22-06-2021",NA
+33998,"Kolar",2695403,"45","Female","SARI","Fever, Cough, Breathlessness","-","02-06-2021","12-06-2021","22-06-2021",NA
+33999,NA,2703579,"37","Male","SARI","Fever, Cough, Breathlessness","-","04-06-2021","06-06-2021","22-06-2021",NA
+34000,NA,2703662,"49","Male","SARI","Fever, Cough, Breathlessness","-","03-06-2021","05-06-2021","22-06-2021",NA
+34001,"Dakshina Kannada",2707115,"40","Female","SARI","Breathlessness","-","02-06-2021","05-06-2021","22-06-2021",NA
+34002,NA,2718753,"55","Male","SARI","Fever, Cough, Breathlessness","-","05-06-2021","05-06-2021","22-06-2021",NA
+34003,"Mysuru",2724554,"55","Female","SARI","Fever, Cough, Breathlessness","-","05-06-2021","12-06-2021","22-06-2021",NA
+34004,"Kodagu",2726431,"63","Female","SARI","Fever, Cough, Breathlessness","-","11-06-2021","22-06-2021","22-06-2021",NA
+34005,"Bengaluru Urban",2728680,"63","Male","SARI","Fever, Cough, Breathlessness","HTN","04-06-2021","19-06-2021","22-06-2021",NA
+34006,"Kolar",2729879,"52","Male","SARI","Fever, Cough, Breathlessness","-","10-06-2021","13-06-2021","22-06-2021",NA
+34007,"Bengaluru Rural",2735451,"53","Male","SARI","Fever, Breathlessness","-","05-06-2021","20-06-2021","22-06-2021",NA
+34008,"Bengaluru Urban",2735486,"44","Female","SARI","Cough, Breathlessness","DM, HTN","12-06-2021","21-06-2021","22-06-2021",NA
+34009,"Bengaluru Urban",2736324,"75","Male","SARI","Breathlessness","DM, HTN","09-06-2021","19-06-2021","22-06-2021",NA
+34010,NA,2739157,"80","Male","SARI","Fever, Cough, Breathlessness","-","05-06-2021","10-06-2021","22-06-2021",NA
+34011,"Udupi",2743573,"67","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","13-06-2021","21-06-2021","22-06-2021",NA
+34012,"Davanagere",2751773,"34","Male","SARI","Fever, Breathlessness","-","06-06-2021","22-06-2021","22-06-2021",NA
+34013,"Kolar",2757159,"45","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","12-06-2021","22-06-2021",NA
+34014,NA,2757222,"58","Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CA","07-06-2021","08-06-2021","22-06-2021",NA
+34015,"Davanagere",2757929,"34","Male","SARI","Fever, Breathlessness","-","12-06-2021","21-06-2021","22-06-2021",NA
+34016,"Bengaluru Urban",2758287,"75","Female","ILI","Fever","DM, HTN","07-06-2021","21-06-2021","22-06-2021",NA
+34017,NA,2759792,"37","Male","SARI","Fever, Cough, Breathlessness","-","06-06-2021","08-06-2021","22-06-2021",NA
+34018,"Bengaluru Urban",2762554,"47","Female","SARI","Breathlessness","-","11-06-2021","22-06-2021","22-06-2021",NA
+34019,"Tumakuru",2762960,"75","Male","ILI","Fever, Cough","DM, HTN","08-06-2021","15-06-2021","22-06-2021",NA
+34020,"Hassan",2763614,"78","Female","ILI","Fever","HTN","08-06-2021","20-06-2021","22-06-2021",NA
+34021,"Hassan",2763643,"70","Male","ILI","Fever","-","13-06-2021","21-06-2021","22-06-2021",NA
+34022,"Dakshina Kannada",2767711,"50","Female","ILI","Fever, Cough","-","15-06-2021","18-06-2021","22-06-2021",NA
+34023,"Mysuru",2770796,"66","Male","SARI","Breathlessness","HTN, CKD","08-06-2021","20-06-2021","22-06-2021",NA
+34024,"Bengaluru Urban",2771107,"68","Female","SARI","Breathlessness","DM","09-06-2021","22-06-2021","22-06-2021",NA
+34025,"Davanagere",2775003,"60","Male","SARI","Fever, Breathlessness","DM","09-06-2021","22-06-2021","22-06-2021",NA
+34026,"Bengaluru Rural",2778109,"67","Male","SARI","Fever, Breathlessness","-","09-06-2021","21-06-2021","22-06-2021",NA
+34027,"Ballari",2778938,"97","Male","SARI","Breathlessness","-","20-06-2021","21-06-2021","22-06-2021",NA
+34028,NA,2779505,"47","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","08-06-2021","22-06-2021",NA
+34029,"Shivamogga",2779664,"80","Male","ILI","Fever","-","11-06-2021","21-06-2021","22-06-2021",NA
+34030,"Bengaluru Urban",2780670,"61","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","08-06-2021","19-06-2021","22-06-2021",NA
+34031,"Dakshina Kannada",2784438,"59","Male","ILI","Fever, Cough","DM, HTN","10-06-2021","21-06-2021","22-06-2021",NA
+34032,"Kolar",2784589,"53","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","11-06-2021","22-06-2021",NA
+34033,"Bengaluru Urban",2784906,"43","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","21-06-2021","22-06-2021",NA
+34034,"Bengaluru Rural",2785478,"55","Female","SARI","Fever, Breathlessness","-","10-06-2021","22-06-2021","22-06-2021",NA
+34035,"Chikkaballapura",2787094,"65","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","10-06-2021","21-06-2021","22-06-2021",NA
+34036,"Belagavi",2788699,"78","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","10-06-2021","21-06-2021","22-06-2021",NA
+34037,"Bengaluru Urban",2788939,"63","Male","ILI","Cough","HTN","10-06-2021","21-06-2021","22-06-2021",NA
+34038,"Mandya",2790162,"85","Male","SARI","Fever, Cough, Breathlessness","DM, IHD","10-06-2021","21-06-2021","22-06-2021",NA
+34039,"Chikkamagaluru",2791559,"70","Male","SARI","Breathlessness","DM, HTN","10-06-2021","22-06-2021","22-06-2021",NA
+34040,"Udupi",2794178,"75","Male","SARI","Fever, Cough, Breathlessness","HTN","10-06-2021","21-06-2021","22-06-2021",NA
+34041,"Belagavi",2797631,"80","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","11-06-2021","21-06-2021","22-06-2021",NA
+34042,"Dakshina Kannada",2799726,"63","Female","SARI","Fever, Breathlessness","DM, HTN","11-06-2021","22-06-2021","22-06-2021",NA
+34043,"Mysuru",2800020,"52","Female","SARI","Fever, Breathlessness","DM, HTN","11-06-2021","21-06-2021","22-06-2021",NA
+34044,"Bengaluru Urban",2802465,"67","Female","SARI","Breathlessness","-",NA,"19-06-2021","22-06-2021","Died at her residence"
+34045,"Dakshina Kannada",2803692,"55","Female","SARI","Fever, Breathlessness","HTN","13-06-2021","20-06-2021","22-06-2021",NA
+34046,"Bengaluru Urban",2804945,"78","Male","ILI","Fever, Cough","DM","09-06-2021","20-06-2021","22-06-2021",NA
+34047,"Shivamogga",2805319,"62","Female","SARI","Fever, Cough, Breathlessness","HTN","12-06-2021","19-06-2021","22-06-2021",NA
+34048,"Bengaluru Urban",2805582,"58","Male","ILI","Cough","CLD","12-06-2021","15-06-2021","22-06-2021",NA
+34049,"Dakshina Kannada",2805778,"38","Female","SARI","Fever, Breathlessness","-","13-06-2021","18-06-2021","22-06-2021",NA
+34050,"Mysuru",2806390,"45","Female","SARI","Fever, Breathlessness","-","12-06-2021","14-06-2021","22-06-2021",NA
+34051,"Mysuru",2806398,"78","Female","SARI","Fever, Breathlessness","HTN",NA,"15-06-2021","22-06-2021","Died at her residence"
+34052,"Hassan",2807204,"65","Female","ILI","Fever","HTN","11-06-2021","21-06-2021","22-06-2021",NA
+34053,"Mysuru",2807258,"76","Female","SARI","Fever, Cough, Breathlessness","-","15-06-2021","15-06-2021","22-06-2021",NA
+34054,"Mysuru",2807259,"51","Female","SARI","Cough, Breathlessness","-","08-06-2021","13-06-2021","22-06-2021",NA
+34055,"Tumakuru",2807330,"42","Male","SARI","Fever, Cough, Breathlessness","DM","12-06-2021","14-06-2021","22-06-2021",NA
+34056,"Haveri",2808458,"56","Female","SARI","Fever, Cough, Breathlessness","-","14-06-2021","15-06-2021","22-06-2021",NA
+34057,"Tumakuru",2810165,"68","Male","SARI","Fever, Breathlessness","DM","13-06-2021","17-06-2021","22-06-2021",NA
+34058,"Mysuru",2812769,"41","Male","SARI","Cough, Breathlessness","-","12-06-2021","22-06-2021","22-06-2021",NA
+34059,"Tumakuru",2816399,"68","Male","ILI","Cough","-","15-06-2021","15-06-2021","22-06-2021",NA
+34060,"Vijayapura",2818054,"22","Female","SARI","Fever, Cough, Breathlessness","CKD","12-06-2021","13-06-2021","22-06-2021",NA
+34061,"Mysuru",2818925,"60","Male","SARI","Breathlessness","DM,  HTN, CKD","11-06-2021","16-06-2021","22-06-2021",NA
+34062,"Hassan",2819380,"80","Male","ILI","Fever","HTN","14-06-2021","21-06-2021","22-06-2021",NA
+34063,"Chikkaballapura",2819533,"90","Male","SARI","Fever, Cough, Breathlessness","-","14-06-2021","22-06-2021","22-06-2021",NA
+34064,"Chikkamagaluru",2822178,"74","Male","SARI","Breathlessness","DM, HTN","15-06-2021","22-06-2021","22-06-2021",NA
+34065,"Bengaluru Urban",2827090,"43","Male","SARI","Breathlessness","-","17-06-2021","21-06-2021","22-06-2021",NA
+34066,"Davanagere",2827609,"84","Female","SARI","Fever, Breathlessness","DM","15-06-2021","22-06-2021","22-06-2021",NA
+34067,"Ballari",2828365,"68","Male","SARI","Breathlessness","-","16-06-2021","19-06-2021","22-06-2021",NA
+34068,"Dakshina Kannada",2829866,"47","Female","SARI","Fever, Breathlessness","-","16-06-2021","22-06-2021","22-06-2021",NA
+34069,"Bengaluru Urban",2830750,"56","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","21-06-2021","22-06-2021",NA
+34070,"Mysuru",2832107,"55","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD","21-06-2021","21-06-2021","22-06-2021",NA
+34071,"Belagavi",2834348,"75","Female","ILI","Fever, Cough","-","14-06-2021","21-06-2021","22-06-2021",NA
+34072,"Davanagere",2834600,"72","Male","SARI","Fever, Breathlessness","DM","17-06-2021","22-06-2021","22-06-2021",NA
+34073,"Hassan",2835188,"50","Female","ILI","Fever, Cough","-","20-06-2021","21-06-2021","22-06-2021",NA
+34074,"Uttara Kannada",2837999,"73","Male","ILI","Fever, Cough","HTN","16-06-2021","19-06-2021","22-06-2021",NA
+34075,"Ballari",2839272,"69","Male","ILI","Fever","DM, HTN","20-06-2021","21-06-2021","22-06-2021",NA
+34076,"Chikkamagaluru",2841017,"62","Male","SARI","Breathlessness","DM, HTN","18-06-2021","22-06-2021","22-06-2021",NA
+34077,"Davanagere",2842794,"50","Male","SARI","Fever, Breathlessness","-","18-06-2021","22-06-2021","22-06-2021",NA
+34078,"Dakshina Kannada",2843807,"66","Male","SARI","Fever, Breathlessness","DM, HTN, IHD","19-06-2021","22-06-2021","22-06-2021",NA
+34079,"Dakshina Kannada",2844705,"67","Male","SARI","Breathlessness","DM, HTN","18-06-2021","20-06-2021","22-06-2021",NA
+34080,"Dakshina Kannada",2844727,"56","Female","SARI","Fever, Breathlessness","DM, HTN","19-06-2021","21-06-2021","22-06-2021",NA
+34081,"Uttara Kannada",2846072,"67","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD","21-06-2021","21-06-2021","22-06-2021",NA
+34082,"Bengaluru Urban",2847000,"65","Male","ILI","Fever","DM, HTN",NA,"19-06-2021","22-06-2021","Died at her residence"
+34083,"Bengaluru Urban",2847005,"90","Male","ILI","Fever","-","19-06-2021","21-06-2021","22-06-2021",NA
+34084,"Mysuru",2847625,"85","Male","SARI","Fever, Breathlessness","DM, HTN","19-06-2021","21-06-2021","22-06-2021",NA
+34085,"Bagalakote",2848399,"85","Female","SARI","Fever, Cough, Breathlessness","-","19-06-2021","20-06-2021","22-06-2021",NA
+34086,"Kodagu",2849006,"85","Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA","21-06-2021","22-06-2021","22-06-2021",NA
+34087,"Haveri",2849724,"65","Male","SARI","Fever, Cough, Breathlessness","CVD",NA,"18-06-2021","22-06-2021","Brought dead"
+34088,"Bengaluru Urban",2852734,"55","Male","SARI","Fever, Cough, Breathlessness","DM","20-06-2021","21-06-2021","22-06-2021",NA
+34089,"Hassan",2853147,"58","Male","ILI","Fever, Cough","-","20-06-2021","21-06-2021","22-06-2021",NA
+34090,"Hassan",2856609,"75","Female","ILI","Fever","HTN",NA,"21-06-2021","22-06-2021","Died at her residence"
+34091,"Dakshina Kannada",100000121,"63","Female","SARI","Fever, Breathlessness","DM, HTN","01-06-2021","21-06-2021","22-06-2021",NA
+34092,"Dakshina Kannada",100000181,"90","Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD","01-06-2021","05-06-2021","22-06-2021",NA
+34093,"Chitradurga",100000345,"52","Male","SARI","Fever, Cough, Breathlessness","-","09-06-2021","10-06-2021","22-06-2021",NA
+34094,"Chitradurga",100000382,"60","Male","SARI","Fever, Cough, Breathlessness","-","11-06-2021","14-06-2021","22-06-2021",NA
+34095,"Davanagere",100000408,"65","Female","ILI","Fever, Cough","-","15-06-2021","22-06-2021","22-06-2021",NA
+34096,"Belagavi",100000614,"60","Male","ILI","Fever, Cough","DM","01-06-2021","21-06-2021","22-06-2021",NA
+34097,"Shivamogga",100000630,"83","Male","SARI","Fever, Cough, Breathlessness","-","12-06-2021","21-06-2021","22-06-2021",NA
+34098,"Belagavi",100000682,"65","Female","ILI","Fever, Cough","DM, HTN","06-06-2021","21-06-2021","22-06-2021",NA
+34099,"Kolar",100000733,"21","Female","SARI","Fever, Cough, Breathlessness","-","10-06-2021","13-06-2021","22-06-2021",NA
+34100,"Shivamogga",100000744,"55","Male","SARI","Breathlessness","-","12-06-2021","21-06-2021","22-06-2021",NA
+34101,"Tumakuru",100000863,"75","Male","ILI","Fever, Cough","DM","11-06-2021","18-06-2021","22-06-2021",NA
+34102,"Kolar",100000896,"90","Male","SARI","Fever, Cough, Breathlessness","-","10-06-2021","14-06-2021","22-06-2021",NA
+34103,"Davanagere",100001230,"53","Female","SARI","Fever, Breathlessness","-","18-06-2021","22-06-2021","22-06-2021",NA
+34104,"Kolar",100001301,"42","Female","SARI","Fever, Cough, Breathlessness","-","16-06-2021","21-06-2021","22-06-2021",NA
+34105,"Kolar",100001386,"70","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","21-06-2021","22-06-2021",NA
+34106,"Chikkaballapura",100001434,"41","Male","SARI","Fever, Cough,Breathlessness","-","18-06-2021","21-06-2021","22-06-2021",NA
+34107,"Kolar",100001519,"45","Female","SARI","Fever, Cough, Breathlessness","DM","20-06-2021","22-06-2021","22-06-2021",NA
+34108,"Bengaluru Urban",1154384,"78","Male","SARI","Breathlessness","DM","16-04-2021","03-05-2021","23-06-2021",NA
+34109,"Ballari",1878362,"91","Male","ILI","Fever","DM",NA,"06-05-2021","23-06-2021","Died at his residence"
+34110,"Ballari",1937994,"69","Male","SARI","Cough, Breathlessness","DM","05-05-2021","09-05-2021","23-06-2021",NA
+34111,"Ballari",1993045,"45","Female","SARI","Cough, Breathlessness","-",NA,"10-05-2021","23-06-2021","Died at her residence"
+34112,"Ballari",2161688,"65","Male","ILI","Fever","-",NA,"12-05-2021","23-06-2021","Died at his residence"
+34113,"Vijayapura",2183146,"40","Male","SARI","Fever, Cough, Breathlessness","-","11-05-2021","19-05-2021","23-06-2021",NA
+34114,"Mysuru",2247274,"60","Female","SARI","Fever, Breathlessness","-","15-05-2021","17-05-2021","23-06-2021",NA
+34115,"Mysuru",2257385,"44","Male","SARI","Fever, Cough, Breathlessness","-","15-05-2021","16-05-2021","23-06-2021",NA
+34116,"Mysuru",2297578,"51","Female","SARI","Fever, Cough, Breathlessness","HTN","12-06-2021","20-06-2021","23-06-2021",NA
+34117,"Ballari",2366165,"34","Male","ILI","Fever, Cough","-",NA,"25-05-2021","23-06-2021","Died at his residence"
+34118,"Vijayapura",2373325,"57","Female","SARI","Fever, Cough, Breathlessness","DM","17-05-2021","18-05-2021","23-06-2021",NA
+34119,"Bengaluru Urban",2392162,"60","Female","SARI","Breathlessness","DM, HTN","19-05-2021","09-06-2021","23-06-2021",NA
+34120,"Mysuru",2415518,"65","Male","SARI","Fever, Breathlessness","HTN","20-05-2021","24-05-2021","23-06-2021",NA
+34121,"Mysuru",2428932,"96","Female","SARI","Fever, Breathlessness","-","20-05-2021","21-05-2021","23-06-2021",NA
+34122,"Mysuru",2445904,"72","Male","SARI","Fever, Breathlessness","DM, HTN","23-05-2021","23-05-2021","23-06-2021",NA
+34123,"Mysuru",2451005,"96","Male","SARI","Fever, Breathlessness","-","20-05-2021","22-05-2021","23-06-2021",NA
+34124,"Mysuru",2494471,"63","Male","SARI","Fever, Cough, Breathlessness","-","23-05-2021","24-05-2021","23-06-2021",NA
+34125,"Mysuru",2496040,"38","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","22-05-2021","23-05-2021","23-06-2021",NA
+34126,"Dakshina Kannada",2530051,"57","Male","SARI","Fever, Cough, Breathlessness","DM","28-05-2021","08-06-2021","23-06-2021",NA
+34127,"Mysuru",2532917,"49","Male","SARI","Fever, Breathlessness","DM","14-06-2021","20-06-2021","23-06-2021",NA
+34128,"Dharwad",2538102,"64","Male","SARI","Fever, Cough, Breathlessness","-","25-05-2021","04-06-2021","23-06-2021",NA
+34129,"Bengaluru Urban",2560970,"64","Male","SARI","Breathlessness","-","26-05-2021","01-06-2021","23-06-2021",NA
+34130,"Dharwad",2578712,"90","Male","SARI","Fever, Cough, Breathlessness","-","29-05-2021","03-06-2021","23-06-2021",NA
+34131,NA,2590169,"55","Male","ILI","Fever, Cough","DM, HTN","27-05-2021","11-06-2021","23-06-2021",NA
+34132,"Dakshina Kannada",2612347,"54","Male","SARI","Fever, Cough, Breathlessness","HTN","28-05-2021","15-06-2021","23-06-2021",NA
+34133,"Dharwad",2639682,"38","Male","SARI","Fever, Cough, Breathlessness","-","29-05-2021","02-06-2021","23-06-2021",NA
+34134,"Dakshina Kannada",2650923,"68","Male","SARI","Fever, Cough, Breathlessness","HTN","31-05-2021","06-06-2021","23-06-2021",NA
+34135,"Dharwad",2653175,"54","Male","SARI","Fever, Cough, Breathlessness","-","30-05-2021","02-06-2021","23-06-2021",NA
+34136,"Ballari",2656679,"57","Female","SARI","Cough, Breathlessness","-","08-06-2021","23-06-2021","23-06-2021",NA
+34137,"Dakshina Kannada",2658464,"62","Male","ILI","Fever, Cough","-","31-05-2021","14-06-2021","23-06-2021",NA
+34138,"Dharwad",2659721,"55","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","31-05-2021","04-06-2021","23-06-2021",NA
+34139,"Bengaluru Urban",2660373,"63","Female","SARI","Breathlessness","HTN","05-06-2021","07-06-2021","23-06-2021",NA
+34140,"Dakshina Kannada",2661199,"81","Male","SARI","Fever, Cough, Breathlessness","-","31-05-2021","11-06-2021","23-06-2021",NA
+34141,"Dakshina Kannada",2664957,"51","Female","SARI","Breathlessness","DM, HTN","01-06-2021","10-06-2021","23-06-2021",NA
+34142,"Mandya",2677228,"40","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","23-06-2021","23-06-2021",NA
+34143,"Dharwad",2677980,"63","Male","SARI","Fever, Cough, Breathlessness","DM","31-05-2021","04-06-2021","23-06-2021",NA
+34144,"Bengaluru Urban",2683223,"64","Male","SARI","Fever, Breathlessness","HTN","01-06-2021","22-06-2021","23-06-2021",NA
+34145,NA,2684262,"0.5","Female","SARI","Fever, Cough, Breathlessness","-","22-05-2021","11-06-2021","23-06-2021",NA
+34146,"Mysuru",2684281,"74","Female","SARI","Cough, Breathlessness","DM, HTN","08-06-2021","21-06-2021","23-06-2021",NA
+34147,"Dakshina Kannada",2686375,"56","Male","SARI","Fever, Breathlessness","HTN","02-06-2021","06-06-2021","23-06-2021",NA
+34148,"Bengaluru Urban",2687688,"62","Male","SARI","Breathlessness","DM","01-06-2021","22-06-2021","23-06-2021",NA
+34149,"Bengaluru Urban",2689246,"42","Male","SARI","Fever, Breathlessness","-","02-06-2021","21-06-2021","23-06-2021",NA
+34150,"Dakshina Kannada",2692561,"40","Female","SARI","Breathlessness","HTN","02-06-2021","05-06-2021","23-06-2021",NA
+34151,"Dakshina Kannada",2694174,"60","Male","SARI","Fever, Cough, Breathlessness","HTN","02-06-2021","03-06-2021","23-06-2021",NA
+34152,"Bengaluru Urban",2698370,"53","Female","SARI","Breathlessness","HTN","01-06-2021","17-06-2021","23-06-2021",NA
+34153,"Dharwad",2701400,"54","Male","SARI","Fever, Cough, Breathlessness","-","02-06-2021","04-06-2021","23-06-2021",NA
+34154,"Dharwad",2704735,"90","Female","SARI","Fever, Cough, Breathlessness","-","02-06-2021","03-06-2021","23-06-2021",NA
+34155,"Ballari",2706745,"40","Male","SARI","Cough, Breathlessness","-",NA,"04-06-2021","23-06-2021","Died at his residence"
+34156,"Dakshina Kannada",2714026,"65","Male","ILI","Fever, Cough","-","03-06-2021","14-06-2021","23-06-2021",NA
+34157,"Mysuru",2715380,"80","Male","SARI","Fever, Cough, Breathlessness","-","05-06-2021","19-06-2021","23-06-2021",NA
+34158,"Bengaluru Urban",2717468,"75","Male","SARI","Breathlessness","DM, HTN","04-06-2021","17-06-2021","23-06-2021",NA
+34159,"Mysuru",2724464,"75","Female","SARI","Fever, Breathlessness","DM","11-06-2021","22-06-2021","23-06-2021",NA
+34160,"Dharwad",2731307,"49","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","04-06-2021","04-06-2021","23-06-2021",NA
+34161,"Mysuru",2731759,"68","Female","SARI","Cough, Breathlessness","-","12-06-2021","17-06-2021","23-06-2021",NA
+34162,"Udupi",2736613,"59","Female","SARI","Cough, Breathlessness","-","05-06-2021","23-06-2021","23-06-2021",NA
+34163,"Dakshina Kannada",2737543,"56","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","05-06-2021","07-06-2021","23-06-2021",NA
+34164,"Bengaluru Urban",2758362,"53","Female","SARI","Breathlessness","DM, HTN","07-06-2021","23-06-2021","23-06-2021",NA
+34165,"Bengaluru Rural",2762466,"51","Male","SARI","Fever, Breathlessness","-","12-06-2021","21-06-2021","23-06-2021",NA
+34166,"Bengaluru Urban",2763217,"52","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","22-06-2021","23-06-2021",NA
+34167,"Kodagu",2767037,"36","Male","SARI","Fever, Cough, Breathlessness","-","02-06-2021","23-06-2021","23-06-2021",NA
+34168,"Bengaluru Urban",2767496,"39","Male","SARI","Fever, Cough, Breathlessness","-","08-06-2021","22-06-2021","23-06-2021",NA
+34169,"Bengaluru Urban",2784884,"62","Female","SARI","Breathlessness","-","09-06-2021","17-06-2021","23-06-2021",NA
+34170,"Kolar",2790114,"32","Male","SARI","Fever, Cough, Breathlessness","DM","10-06-2021","22-06-2021","23-06-2021",NA
+34171,"Bengaluru Urban",2792648,"63","Female","SARI","Fever, Breathlessness","DM","11-06-2021","22-06-2021","23-06-2021",NA
+34172,"Mysuru",2797182,"75","Female","SARI","Cough, Breathlessness","DM, HTN","11-06-2021","11-06-2021","23-06-2021",NA
+34173,"Dakshina Kannada",2801340,"48","Female","SARI","Fever, Cough, Breathlessness","DM","12-06-2021","14-06-2021","23-06-2021",NA
+34174,"Ballari",2804343,"65","Female","SARI","Cough, Breathlessness","DM","12-06-2021","22-06-2021","23-06-2021",NA
+34175,"Bengaluru Urban",2804998,"71","Male","SARI","Fever, Breathlessness","HTN, IHD","13-06-2021","22-06-2021","23-06-2021",NA
+34176,"Bengaluru Urban",2809287,"55","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","14-06-2021","22-06-2021","23-06-2021",NA
+34177,"Mysuru",2812195,"82","Female","SARI","Fever, Breathlessness","DM","13-06-2021","14-06-2021","23-06-2021",NA
+34178,"Bengaluru Urban",2812518,"45","Female","SARI","Fever, Breathlessness","-","15-06-2021","21-06-2021","23-06-2021",NA
+34179,"Hassan",2814237,"63","Female","ILI","Fever","DM","15-06-2021","22-06-2021","23-06-2021",NA
+34180,"Uttara Kannada",2818690,"59","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","14-06-2021","23-06-2021","23-06-2021",NA
+34181,"Bengaluru Urban",2822105,"83","Male","SARI","Fever, Breathlessness","DM, HTN","19-06-2021","22-06-2021","23-06-2021",NA
+34182,"Mysuru",2822359,"50","Female","SARI","Fever, Breathlessness","-","15-06-2021","23-06-2021","23-06-2021",NA
+34183,"Shivamogga",2824098,"58","Male","SARI","Fever, Cough, Breathlessness","HTN","19-06-2021","21-06-2021","23-06-2021",NA
+34184,"Shivamogga",2824103,"70","Male","SARI","Fever, Cough, Breathlessness","DM","21-06-2021","21-06-2021","23-06-2021",NA
+34185,"Bengaluru Urban",2825048,"79","Male","SARI","Breathlessness","IHD","15-06-2021","20-06-2021","23-06-2021",NA
+34186,"Hassan",2827972,"67","Male","ILI","Fever, Cough","HTN","17-06-2021","22-06-2021","23-06-2021",NA
+34187,"Chikkaballapura",2828205,"40","Female","SARI","Fever, Cough, Breathlessness","-","16-06-2021","22-06-2021","23-06-2021",NA
+34188,"Belagavi",2828379,"75","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","16-06-2021","22-06-2021","23-06-2021",NA
+34189,"Bengaluru Urban",2828418,"68","Male","SARI","Fever, Cough, Breathlessness","DM","16-06-2021","21-06-2021","23-06-2021",NA
+34190,"Chitradurga",2831138,"56","Female","SARI","Fever, Cough, Breathlessness","DM","18-06-2021","21-06-2021","23-06-2021",NA
+34191,"Mandya",2831650,"46","Male","SARI","Fever, Cough, Breathlessness","-","17-06-2021","22-06-2021","23-06-2021",NA
+34192,"Belagavi",2832192,"53","Male","SARI","Fever, Cough, Breathlessness","-","16-06-2021","22-06-2021","23-06-2021",NA
+34193,"Uttara Kannada",2832734,"80","Male","SARI","Fever, Cough, Breathlessness","HTN, COPD","18-06-2021","22-06-2021","23-06-2021",NA
+34194,"Davanagere",2834044,"36","Male","ILI","Fever, Cough","-","17-06-2021","23-06-2021","23-06-2021",NA
+34195,"Shivamogga",2835420,"45","Female","SARI","Fever, Cough, Breathlessness","HTN","17-06-2021","21-06-2021","23-06-2021",NA
+34196,"Bengaluru Urban",2838451,"31","Female","ILI","Cough","-","18-06-2021","22-06-2021","23-06-2021",NA
+34197,"Bengaluru Rural",2840282,"73","Female","SARI","Breathlessness","-","18-06-2021","21-06-2021","23-06-2021",NA
+34198,"Udupi",2840781,"80","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","06-06-2021","22-06-2021","23-06-2021",NA
+34199,"Ballari",2841280,"75","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","18-06-2021","22-06-2021","23-06-2021",NA
+34200,"Tumakuru",2841908,"25","Female","SARI","Fever, Breathlessness","Epilepsy","18-06-2021","20-06-2021","23-06-2021",NA
+34201,"Bengaluru Urban",2842388,"44","Female","SARI","Fever, Breathlessness","Hypo thyroidism","16-06-2021","20-06-2021","23-06-2021",NA
+34202,"Kolar",2842562,"75","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","22-06-2021","23-06-2021",NA
+34203,"Mysuru",2845387,"70","Female","SARI","Cough, Breathlessness","-","19-06-2021","22-06-2021","23-06-2021",NA
+34204,"Hassan",2845807,"65","Male","ILI","Fever","IHD","22-06-2021","22-06-2021","23-06-2021",NA
+34205,"Bengaluru Rural",2846618,"48","Male","SARI","Breathlessness","-","19-06-2021","21-06-2021","23-06-2021",NA
+34206,"Udupi",2848017,"67","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","04-06-2021","23-06-2021","23-06-2021",NA
+34207,"Shivamogga",2848381,"41","Male","SARI","Fever, Cough, Breathlessness","-","10-06-2021","22-06-2021","23-06-2021",NA
+34208,"Ballari",2849961,"68","Male","SARI","Cough, Breathlessness","-","19-06-2021","21-06-2021","23-06-2021",NA
+34209,"Tumakuru",2850860,"80","Male","SARI","Fever, Cough, Breathlessness","HTN","21-06-2021","23-06-2021","23-06-2021",NA
+34210,"Hassan",2854040,"46","Male","ILI","Fever, Cough","DM,  HTN, CKD","21-06-2021","22-06-2021","23-06-2021",NA
+34211,"Bengaluru Urban",2856304,"70","Female","ILI","Fever","DM, IHD",NA,"21-06-2021","23-06-2021","Died at her residence"
+34212,"Bengaluru Urban",2856556,"73","Female","SARI","Fever, Breathlessness","HTN","20-06-2021","21-06-2021","23-06-2021",NA
+34213,"Chikkamagaluru",2856731,"71","Male","SARI","Breathlessness","DM, HTN","21-06-2021","23-06-2021","23-06-2021",NA
+34214,"Chikkaballapura",2857015,"67","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","22-06-2021","23-06-2021","23-06-2021",NA
+34215,"Hassan",2857780,"65","Female","ILI","Fever, Cough","-","21-06-2021","22-06-2021","23-06-2021",NA
+34216,"Dakshina Kannada",100000487,"58","Female","ILI","Fever, Cough","-","07-06-2021","12-06-2021","23-06-2021",NA
+34217,"Davanagere",100000504,"65","Female","SARI","Fever, Breathlessness","DM","17-06-2021","23-06-2021","23-06-2021",NA
+34218,"Davanagere",100000534,"48","Male","SARI","Fever, Breathlessness","-","17-06-2021","23-06-2021","23-06-2021",NA
+34219,"Davanagere",100000667,"60","Male","SARI","Fever, Breathlessness","HTN","17-06-2021","23-06-2021","23-06-2021",NA
+34220,"Davanagere",100000795,"65","Male","SARI","Fever, Breathlessness","DM","17-06-2021","23-06-2021","23-06-2021",NA
+34221,"Davanagere",100000922,"45","Female","SARI","Fever, Breathlessness","HTN","17-06-2021","23-06-2021","23-06-2021",NA
+34222,"Davanagere",100000951,"36","Male","ILI","Fever, Cough","-","17-06-2021","23-06-2021","23-06-2021",NA
+34223,"Belagavi",100001046,"44","Male","SARI","Fever, Cough, Breathlessness","-","18-06-2021","23-06-2021","23-06-2021",NA
+34224,"Davanagere",100001208,"55","Female","SARI","Fever, Breathlessness","IHD","17-06-2021","23-06-2021","23-06-2021",NA
+34225,"Belagavi",100001304,"60","Male","SARI","Fever, Cough, Breathlessness","HTN","05-06-2021","22-06-2021","23-06-2021",NA
+34226,"Belagavi",100001470,"73","Male","SARI","Fever, Cough, Breathlessness","DM","19-06-2021","22-06-2021","23-06-2021",NA
+34227,"Chitradurga",100001557,"60","Male","ILI","Fever",NA,"21-06-2021","26-06-2021","23-06-2021",NA
+34228,"Chikkaballapura",100001588,"85","Female","SARI","Fever, Cough, Breathlessness","DM, HTN","20-06-2021","23-06-2021","23-06-2021",NA
+34229,"Udupi",100001650,"64","Female","SARI","Fever, Cough, Breathlessness","-","21-06-2021","23-06-2021","23-06-2021",NA
+34230,"Hassan",100001729,"36","Male","ILI","Fever","-","22-06-2021","23-06-2021","23-06-2021",NA
+34231,"Ballari",1216089,"55","Female","SARI","Fever, Cough, Breathlesness","DM","19-04-2021","23-04-2021","24-06-2021",NA
+34232,"Ballari",1426387,"55","Male","SARI","Breathlessness","-",NA,"26-04-2021","24-06-2021","Died at his residence"
+34233,"Ballari",1802512,"86","Male","SARI","Breathlessness","DM",NA,"11-05-2021","24-06-2021","Died at his residence"
+34234,"Mysuru",2342023,"85","Male","SARI","Breathlessness","-","18-05-2021","30-05-2021","24-06-2021",NA
+34235,"Vijayapura",2449973,"62","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","20-05-2021","21-05-2021","24-06-2021",NA
+34236,"Ballari",2476413,"59","Female","SARI","Breathlessness","-","23-05-2021","25-05-2021","24-06-2021",NA
+34237,"Vijayapura",2491949,"56","Female","SARI","Fever, Cough, Breathlesness","HTN","20-05-2021","25-05-2021","24-06-2021",NA
+34238,"Mysuru",2494590,"75","Female","SARI","Cough, Breathlessness","-","22-05-2021","22-05-2021","24-06-2021",NA
+34239,"Mysuru",2510584,"65","Male","SARI","Fever, Cough, Breathlesness","-","23-05-2021","30-05-2021","24-06-2021",NA
+34240,"Mysuru",2513829,"58","Female","ILI","Fever, Cough","-",NA,"24-05-2021","24-06-2021","Died at her residence"
+34241,"Dharwad",2576871,"50","Female","SARI","Fever, Cough, Breathlesness","IHD","28-05-2021","05-06-2021","24-06-2021",NA
+34242,"Hassan",2578838,"35","Male","ILI","Fever","-","27-05-2021","23-06-2021","24-06-2021",NA
+34243,"Dharwad",2586013,"62","Female","SARI","Fever, Cough, Breathlesness","DM, HTN, COPD","27-05-2021","06-06-2021","24-06-2021",NA
+34244,"Dharwad",2626864,"60","Male","SARI","Fever, Cough, Breathlesness","-","28-05-2021","04-06-2021","24-06-2021",NA
+34245,"Mysuru",2629425,"65","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","29-05-2021","31-05-2021","24-06-2021",NA
+34246,"Dharwad",2639762,"55","Male","SARI","Fever, Cough, Breathlesness","DM","04-06-2021","04-06-2021","24-06-2021",NA
+34247,"Dharwad",2669171,"54","Male","SARI","Fever, Cough, Breathlesness","DM","04-06-2021","05-06-2021","24-06-2021",NA
+34248,"Dharwad",2691217,"84","Female","SARI","Fever, Cough, Breathlesness","-","02-06-2021","06-06-2021","24-06-2021",NA
+34249,"Ballari",2693569,"70","Female","SARI","Fever, Breathlessness","-",NA,"02-06-2021","24-06-2021","Died at his residence"
+34250,"Ballari",2694907,"63","Female","SARI","Fever, Breathlessness","DM, HTN","15-06-2021","24-06-2021","24-06-2021",NA
+34251,"Dharwad",2709971,"54","Female","SARI","Fever, Cough, Breathlesness","DM","02-06-2021","05-06-2021","24-06-2021",NA
+34252,"Mysuru",2718886,"66","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","13-06-2021","23-06-2021","24-06-2021",NA
+34253,"Dharwad",2719775,"52","Male","SARI","Fever, Cough, Breathlesness","DM, HTN","03-06-2021","05-06-2021","24-06-2021",NA
+34254,"Dharwad",2722373,"75","Male","SARI","Fever, Cough, Breathlesness","CVA","04-06-2021","05-06-2021","24-06-2021",NA
+34255,"Ballari",2724170,"56","Male","ILI","Cough","CLD","31-05-2021","06-06-2021","24-06-2021",NA
+34256,"Mysuru",2725921,"82","Male","SARI","Breathlessness","COPD","04-06-2021","05-06-2021","24-06-2021",NA
+34257,"Dakshina Kannada",2729540,"51","Male","SARI","Breathlessness","-","09-06-2021","23-06-2021","24-06-2021",NA
+34258,"Dakshina Kannada",2731162,"52","Male","SARI","Fever, Cough, Breathlesness","COPD","05-06-2021","09-06-2021","24-06-2021",NA
+34259,"Dakshina Kannada",2735732,"64","Male","SARI","Fever, Breathlessness","DM, HTN","08-06-2021","24-06-2021","24-06-2021",NA
+34260,"Bidar",2745374,"45","Male","SARI","Breathlessness","-","07-06-2021","23-06-2021","24-06-2021",NA
+34261,"Mysuru",2748901,"86","Male","SARI","Fever, Cough, Breathlesness","HTN, IHD, COPD","06-06-2021","19-06-2021","24-06-2021",NA
+34262,"Mysuru",2748967,"68","Male","SARI","Fever, Cough, Breathlesness","-","06-06-2021","23-06-2021","24-06-2021",NA
+34263,"Ballari",2751578,"58","Female","SARI","Fever, Breathlessness","DM, HTN","07-06-2021","08-06-2021","24-06-2021",NA
+34264,"Dakshina Kannada",2751631,"47","Female","SARI","Fever, Cough, Breathlesness","-","06-06-2021","12-06-2021","24-06-2021",NA
+34265,"Koppal",2756456,"76","Male","SARI","Cough, Breathlessness","DM","07-06-2021","07-06-2021","24-06-2021",NA
+34266,"Koppal",2762803,"40","Male","SARI","Fever, Cough, Breathlesness","DM","11-06-2021","12-06-2021","24-06-2021",NA
+34267,"Dharwad",2763521,"60","Female","SARI","Fever, Cough, Breathlesness","DM, HTN, COPD","06-06-2021","09-06-2021","24-06-2021",NA
+34268,"Bengaluru Urban",2767578,"55","Male","SARI","Fever, Cough, Breathlesness","-","15-06-2021","22-06-2021","24-06-2021",NA
+34269,"Bengaluru Urban",2771111,"60","Female","ILI","Fever","-","08-06-2021","23-06-2021","24-06-2021",NA
+34270,NA,2772646,"80","Male","SARI","Fever, Cough, Breathlesness","HTN","09-06-2021","09-06-2021","24-06-2021",NA
+34271,"Kolar",2775979,"56","Male","SARI","Fever, Cough, Breathlesness","-","10-06-2021","20-06-2021","24-06-2021",NA
+34272,"Shivamogga",2777926,"70","Female","SARI","Fever, Breathlessness","DM","11-06-2021","23-06-2021","24-06-2021",NA
+34273,"Mandya",2778582,"46","Female","SARI","Fever, Cough, Breathlesness","-","09-06-2021","14-06-2021","24-06-2021",NA
+34274,"Davanagere",2780055,"70","Female","SARI","Fever, Breathlessness","IHD","08-06-2021","24-06-2021","24-06-2021",NA
+34275,"Davanagere",2780056,"51","Female","SARI","Fever, Breathlessness","DM","08-06-2021","24-06-2021","24-06-2021",NA
+34276,"Mysuru",2781491,"61","Male","SARI","Breathlessness","HTN","15-06-2021","20-06-2021","24-06-2021",NA
+34277,"Kolar",2782174,"55","Male","SARI","Fever, Cough, Breathlesness","-","10-06-2021","19-06-2021","24-06-2021",NA
+34278,"Bengaluru Rural",2785475,"54","Male","SARI","Breathlessness","-","09-06-2021","10-06-2021","24-06-2021",NA
+34279,"Dakshina Kannada",2785797,"70","Female","SARI","Fever, Cough, Breathlesness","DM","11-06-2021","22-06-2021","24-06-2021",NA
+34280,"Bengaluru Rural",2786681,"65","Male","SARI","Fever, Breathlessness","DM, HTN",NA,"10-06-2021","24-06-2021","Brought dead"
+34281,"Chitradurga",2787043,"40","Male","SARI","Fever, Cough, Breathlesness","-","16-06-2021","18-06-2021","24-06-2021",NA
+34282,"Kodagu",2787633,"58","Female","SARI","Fever, Breathlessness","DM, HTN","10-06-2021","24-06-2021","24-06-2021",NA
+34283,"Hassan",2787880,"36","Male","ILI","Fever, Cough","DM, HTN","23-06-2021","24-06-2021","24-06-2021",NA
+34284,"Mysuru",2790642,"65","Male","SARI","Cough, Breathlessness","DM","21-06-2021","24-06-2021","24-06-2021",NA
+34285,"Tumakuru",2790889,"48","Male","SARI","Fever, Breathlessness","DM","18-06-2021","20-06-2021","24-06-2021",NA
+34286,"Bengaluru Urban",2795577,"86","Male","SARI","Breathlessness","-","18-06-2021","23-06-2021","24-06-2021",NA
+34287,"Dakshina Kannada",2800634,"60","Male","SARI","Breathlessness","-","11-06-2021","22-06-2021","24-06-2021",NA
+34288,"Kodagu",2802878,"73","Female","SARI","Fever, Breathlessness","DM, HTN, IHD","13-06-2021","24-06-2021","24-06-2021",NA
+34289,"Bengaluru Rural",2805592,"80","Female","SARI","Fever, Breathlessness","-","14-06-2021","23-06-2021","24-06-2021",NA
+34290,"Bengaluru Urban",2808865,"76","Male","ILI","Cough","DM","12-06-2021","21-06-2021","24-06-2021",NA
+34291,"Chamarajanagara",2808974,"45","Male","ILI","Fever, Cough","DM","13-06-2021","23-06-2021","24-06-2021",NA
+34292,"Bengaluru Urban",2810889,"77","Female","SARI","Fever, Breathlessness","HTN","13-06-2021","24-06-2021","24-06-2021",NA
+34293,"Udupi",2811564,"70","Male","SARI","Fever, Cough, Breathlesness","DM","16-06-2021","24-06-2021","24-06-2021",NA
+34294,"Hassan",2814015,"65","Male","ILI","Fever, Cough","DM, HTN","16-06-2021","22-06-2021","24-06-2021",NA
+34295,"Mysuru",2814067,"80","Female","SARI","Fever, Cough, Breathlesness","-","13-06-2021","24-06-2021","24-06-2021",NA
+34296,"Mysuru",2814715,"70","Female","SARI","Cough, Breathlessness","DM","18-06-2021","20-06-2021","24-06-2021",NA
+34297,"Dakshina Kannada",2817271,"57","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","15-06-2021","23-06-2021","24-06-2021",NA
+34298,"Mysuru",2817950,"70","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","14-06-2021","21-06-2021","24-06-2021",NA
+34299,"Mysuru",2817975,"74","Male","SARI","Fever, Cough, Breathlesness","DM","14-06-2021","18-06-2021","24-06-2021",NA
+34300,"Mysuru",2818454,"54","Male","SARI","Fever, Cough, Breathlesness","DM","14-06-2021","15-06-2021","24-06-2021",NA
+34301,"Bengaluru Urban",2818798,"54","Female","ILI","Fever, Cough","DM","14-06-2021","23-06-2021","24-06-2021",NA
+34302,"Bengaluru Urban",2818848,"67","Female","ILI","Fever","DM, HTN","18-06-2021","23-06-2021","24-06-2021",NA
+34303,"Bengaluru Urban",2819060,"49","Female","SARI","Breathlessness","HTN","16-06-2021","22-06-2021","24-06-2021",NA
+34304,"Dakshina Kannada",2819355,"53","Male","SARI","Fever, Cough, Breathlesness","DM, CA","19-06-2021","23-06-2021","24-06-2021",NA
+34305,"Mysuru",2819595,"54","Female","SARI","Breathlessness","-","15-06-2021","23-06-2021","24-06-2021",NA
+34306,"Udupi",2821988,"69","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","15-06-2021","24-06-2021","24-06-2021",NA
+34307,"Bagalakote",2823107,"20","Female","SARI","Fever, Cough, Breathlesness","-","13-06-2021","21-06-2021","24-06-2021",NA
+34308,"Chikkamagaluru",2823338,"40","Male","SARI","Breathlessness","DM, HTN","15-06-2021","24-06-2021","24-06-2021",NA
+34309,"Mysuru",2824046,"68","Female","SARI","Breathlessness","HTN","15-06-2021","23-06-2021","24-06-2021",NA
+34310,"Hassan",2825192,"75","Male","ILI","Fever, Cough","HTN","23-06-2021","24-06-2021","24-06-2021",NA
+34311,"Haveri",2825199,"68","Male","SARI","Fever, Cough, Breathlesness","-","15-06-2021","23-06-2021","24-06-2021",NA
+34312,"Kolar",2827659,"32","Female","SARI","Fever, Cough, Breathlesness","-","16-06-2021","18-06-2021","24-06-2021",NA
+34313,"Udupi",2827737,"57","Male","SARI","Fever, Cough, Breathlesness","DM, HTN","19-06-2021","23-06-2021","24-06-2021",NA
+34314,"Dakshina Kannada",2827905,"67","Male","SARI","Breathlessness","DM, HTN, IHD","16-06-2021","23-06-2021","24-06-2021",NA
+34315,"Udupi",2828104,"67","Female","SARI","Fever, Cough, Breathlesness","IHD","16-06-2021","23-06-2021","24-06-2021",NA
+34316,"Hassan",2828324,"54","Female","ILI","Fever","-","22-06-2021","23-06-2021","24-06-2021",NA
+34317,"Bengaluru Rural",2831888,"87","Female","SARI","Fever, Breathlessness","-","16-06-2021","22-06-2021","24-06-2021",NA
+34318,"Dakshina Kannada",2833228,"50","Female","SARI","Fever, Breathlessness","DM, HTN","17-06-2021","23-06-2021","24-06-2021",NA
+34319,"Ballari",2833735,"70","Male","SARI","Fever, Breathlessness","-","17-06-2021","23-06-2021","24-06-2021",NA
+34320,"Mysuru",2836365,"70","Female","SARI","Cough, Breathlessness","DM","17-06-2021","22-06-2021","24-06-2021",NA
+34321,"Dakshina Kannada",2836625,"35","Female","SARI","Fever, Cough, Breathlesness","-","16-06-2021","22-06-2021","24-06-2021",NA
+34322,"Dakshina Kannada",2839461,"42","Male","SARI","Fever, Cough, Breathlesness","DM","23-06-2021","23-06-2021","24-06-2021",NA
+34323,"Bengaluru Urban",2840876,"60","Male","SARI","Cough, Breathlessness","HTN, CVA","23-06-2021","24-06-2021","24-06-2021",NA
+34324,"Bengaluru Rural",2841617,"28","Female","SARI","Fever, Cough, Breathlesness","-","18-06-2021","19-06-2021","24-06-2021",NA
+34325,"Davanagere",2842062,"71","Male","SARI","Fever, Breathlessness","HTN","18-06-2021","24-06-2021","24-06-2021",NA
+34326,"Mysuru",2842209,"70","Female","SARI","Fever, Cough, Breathlesness","-","18-06-2021","19-06-2021","24-06-2021",NA
+34327,"Dakshina Kannada",2844198,"73","Male","SARI","Fever, Breathlessness","HTN, COPD , CKD","19-06-2021","23-06-2021","24-06-2021",NA
+34328,"Tumakuru",2844338,"45","Male","SARI","Fever, Breathlessness","DM","19-06-2021","23-06-2021","24-06-2021",NA
+34329,"Kolar",2844538,"60","Male","SARI","Fever, Cough, Breathlesness","-","19-06-2021","19-06-2021","24-06-2021",NA
+34330,"Bengaluru Urban",2844549,"56","Female","SARI","Fever, Cough, Breathlesness","-","19-06-2021","20-06-2021","24-06-2021",NA
+34331,"Bengaluru Rural",2845561,"29","Female","SARI","Fever, Breathlessness","-","19-06-2021","23-06-2021","24-06-2021",NA
+34332,"Kolar",2847973,"42","Female","SARI","Fever, Cough, Breathlesness","-","18-06-2021","21-06-2021","24-06-2021",NA
+34333,"Bengaluru Urban",2848192,"51","Female","SARI","Fever, Cough, Breathlesness","-","19-06-2021","22-06-2021","24-06-2021",NA
+34334,"Chikkamagaluru",2848268,"51","Female","SARI","Breathlessness","DM, HTN","19-06-2021","24-06-2021","24-06-2021",NA
+34335,"Shivamogga",2848382,"56","Male","SARI","Fever, Cough, Breathlesness","-","18-06-2021","19-06-2021","24-06-2021",NA
+34336,"Ballari",2848442,"47","Male","SARI","Breathlessness","-","19-06-2021","23-06-2021","24-06-2021",NA
+34337,"Haveri",2849004,"50","Female","SARI","Fever, Cough, Breathlesness","HTN","19-06-2021","24-06-2021","24-06-2021",NA
+34338,"Chikkamagaluru",2849425,"62","Male","SARI","Breathlessness","DM, HTN","20-06-2021","24-06-2021","24-06-2021",NA
+34339,"Dakshina Kannada",2850256,"61","Male","SARI","Fever, Breathlessness","DM, HTN, IHD","20-06-2021","23-06-2021","24-06-2021",NA
+34340,"Haveri",2850299,"48","Female","SARI","Fever, Cough, Breathlesness","-","19-06-2021","23-06-2021","24-06-2021",NA
+34341,"Kalaburagi",2850758,"60","Male","SARI","Cough, Breathlessness","DM","19-06-2021","24-06-2021","24-06-2021",NA
+34342,"Haveri",2851336,"32","Male","SARI","Fever, Cough, Breathlesness","-","20-06-2021","23-06-2021","24-06-2021",NA
+34343,"Shivamogga",2851854,"80","Female","SARI","Fever, Cough, Breathlesness","-","20-06-2021","23-06-2021","24-06-2021",NA
+34344,"Dakshina Kannada",2852159,"61","Female","SARI","Fever, Cough, Breathlesness","-","20-06-2021","24-06-2021","24-06-2021",NA
+34345,"Kolar",2852182,"35","Male","SARI","Fever, Cough, Breathlesness","-","17-06-2021","21-06-2021","24-06-2021",NA
+34346,"Mysuru",2852449,"39","Male","SARI","Cough, Breathlessness","-","18-06-2021","23-06-2021","24-06-2021",NA
+34347,"Udupi",2852695,"77","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","05-06-2021","24-06-2021","24-06-2021",NA
+34348,"Shivamogga",2853863,"67","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","08-06-2021","20-06-2021","24-06-2021",NA
+34349,"Shivamogga",2854190,"80","Female","SARI","Fever, Cough, Breathlesness","DM","21-06-2021","21-06-2021","24-06-2021",NA
+34350,"Bengaluru Urban",2855661,"60","Female","SARI","Fever, Cough, Breathlesness","-","21-06-2021","22-06-2021","24-06-2021",NA
+34351,"Bengaluru Urban",2857914,"72","Male","SARI","Cough, Breathlessness","CVA","20-06-2021","23-06-2021","24-06-2021",NA
+34352,"Bengaluru Urban",2860011,"43","Male","SARI","Cough, Breathlessness","-",NA,"22-06-2021","24-06-2021","Died at his residence"
+34353,"Mysuru",2860319,"87","Male","SARI","Fever, Cough, Breathlesness","HTN, COPD","21-06-2021","23-06-2021","24-06-2021",NA
+34354,"Udupi",2860602,"75","Female","SARI","Fever, Cough, Breathlesness","-","23-06-2021","23-06-2021","24-06-2021",NA
+34355,"Chikkamagaluru",2860896,"68","Female","SARI","Breathlessness","DM, HTN","22-06-2021","24-06-2021","24-06-2021",NA
+34356,"Hassan",2860946,"44","Female","ILI","Fever","-","24-06-2021","24-06-2021","24-06-2021",NA
+34357,"Haveri",2860969,"70","Male","SARI","Fever, Cough, Breathlesness","HTN","22-06-2021","24-06-2021","24-06-2021",NA
+34358,"Hassan",2861204,"72","Male","ILI","Fever, Cough","-","20-06-2021","24-06-2021","24-06-2021",NA
+34359,"Hassan",2861270,"55","Male","ILI","Fever","DM","22-06-2021","23-06-2021","24-06-2021",NA
+34360,"Uttara Kannada",2862379,"48","Female","SARI","Fever, Cough, Breathlesness","DM, HTN","22-06-2021","23-06-2021","24-06-2021",NA
+34361,"Belagavi",2862427,"50","Female","SARI","Fever, Cough, Breathlesness","-","02-05-2021","03-05-2021","24-06-2021",NA
+34362,"Chikkamagaluru",2862582,"62","Female","SARI","Breathlessness","DM, HTN","23-06-2021","24-06-2021","24-06-2021",NA
+34363,"Hassan",2862965,"33","Male","ILI","Fever, Cough","-","23-06-2021","24-06-2021","24-06-2021",NA
+34364,"Uttara Kannada",2864031,"65","Female","SARI","Fever, Cough, Breathlesness","HTN","01-06-2021","23-06-2021","24-06-2021",NA
+34365,"Chikkamagaluru",2865081,"88","Female","SARI","Breathlessness","DM, HTN","23-06-2021","24-06-2021","24-06-2021",NA
+34366,"Udupi",100000525,"52","Female","SARI","Fever, Cough, Breathlesness","-","11-06-2021","24-06-2021","24-06-2021",NA
+34367,"Kolar",100000651,"58","Male","SARI","Fever, Cough, Breathlesness","-","14-06-2021","19-06-2021","24-06-2021",NA
+34368,"Chitradurga",100001164,"38","Female","SARI","Fever, Cough, Breathlesness","-","31-05-2021","18-06-2021","24-06-2021",NA

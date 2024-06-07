@@ -1,0 +1,1001 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+12,"Belagavi","279",80,"Female",NA,NA,NA,NA,NA,2020-04-15,NA
+239,"Belagavi","14579",32,"Male","SARI","Breathlessness","-",NA,2020-06-29,2020-06-30,"Brought dead"
+247,"Belagavi","15272",72,"Male","SARI","Cold & Cough","-",2020-07-01,2020-07-01,2020-07-01,NA
+267,"Belagavi","16964",45,"Male","SARI","Fever &  Breathlessness","DM, HTN",2020-06-30,2020-07-01,2020-07-02,NA
+354,"Belagavi","23128",48,"Male","SARI","Breathlessness","-",2020-07-04,2020-07-04,2020-07-05,NA
+355,"Belagavi","23133",78,"Male","SARI","Breathlessness","-",2020-07-04,2020-07-04,2020-07-05,NA
+406,"Belagavi","25567",55,"Female","SARI","Cough & Fever & Breathlessness","-",2020-07-06,2020-07-06,2020-07-07,NA
+580,"Belagavi","28987",67,"Male","SARI","Breathlessness & Cough","HTN, DM",2020-07-10,2020-07-10,2020-07-11,NA
+584,"Belagavi","31553",58,"Female","SARI","Breathlessness & Cough","DM",2020-07-10,2020-07-10,2020-07-11,NA
+650,"Belagavi","25558",62,"Male","SARI","Breathlessness & Cough","DM",2020-07-05,2020-07-12,2020-07-12,NA
+678,"Belagavi","37222",80,"Female","Contact under tracing","-","-",NA,2020-07-11,2020-07-12,"Brought dead"
+679,"Belagavi","37223",57,"Male","SARI","Breathlessness & Cough","HTN",2020-07-10,2020-07-12,2020-07-12,NA
+720,"Belagavi","34989",45,"Male","SARI","Fever","HTN",2020-07-09,2020-07-13,2020-07-13,NA
+731,"Belagavi","39425",72,"Male","SARI","Cough","-",NA,2020-07-13,2020-07-13,"Died at his residence"
+994,"Belagavi","42140",48,"Female","SARI","Fever & Breathlessness","HTN",2020-07-09,2020-07-12,2020-07-16,NA
+996,"Belagavi","42334",28,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-11,2020-07-13,2020-07-16,NA
+997,"Belagavi","42518",56,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-12,2020-07-13,2020-07-16,NA
+1065,"Belagavi","39266",62,"Male","ILI","Fever & Cough","DM",2020-07-10,2020-07-15,2020-07-17,NA
+1076,"Belagavi","44965",48,"Male","SARI","Breathlessness","-",2020-07-11,2020-07-11,2020-07-17,NA
+1077,"Belagavi","44975",24,"Male","SARI","Breathlessness","-",2020-07-12,2020-07-13,2020-07-17,NA
+1098,"Belagavi","47449",68,"Male","SARI","Breathlessness","-",2020-07-13,2020-07-13,2020-07-17,NA
+1164,"Belagavi","42134",62,"Female","SARI","Fever & Cough","-",2020-07-11,2020-07-16,2020-07-18,NA
+1178,"Belagavi","47453",53,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-13,2020-07-16,2020-07-18,NA
+1180,"Belagavi","48990",70,"Male","SARI","Fever & Cough","-",2020-07-13,2020-07-16,2020-07-18,NA
+1252,"Belagavi","42457",57,"Female","SARI","Breathlessness","DM",2020-07-11,2020-07-18,2020-07-19,NA
+1260,"Belagavi","48985",56,"Female","SARI","Breathlessness","-",2020-07-14,2020-07-18,2020-07-19,NA
+1399,"Belagavi","52187",38,"Female","SARI","Fever","-",2020-07-15,2020-07-18,2020-07-21,NA
+1408,"Belagavi","59631",60,"Male","SARI","-","-",2020-07-17,2020-07-18,2020-07-21,NA
+1410,"Belagavi","60638",55,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-18,2020-07-21,NA
+1411,"Belagavi","60773",30,"Female","SARI","Breathlessness","DM",2020-07-16,2020-07-18,2020-07-21,NA
+1525,"Belagavi","42121",62,"Male","SARI","Cough & Breathlessness","-",2020-07-12,2020-07-19,2020-07-23,NA
+1534,"Belagavi","47463",68,"Male","SARI","Fever & Cough","-",2020-07-13,2020-07-19,2020-07-23,NA
+1536,"Belagavi","48157",58,"Female","SARI","Breathlessness","-",2020-07-14,2020-07-19,2020-07-23,NA
+1549,"Belagavi","52136",48,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-14,2020-07-19,2020-07-23,NA
+1617,"Belagavi","48135",47,"Male","SARI","Breathlessness","-",2020-07-14,2020-07-20,2020-07-24,NA
+1730,"Belagavi","60632",64,"Female","Contact under tracing","-","-",2020-07-14,2020-07-19,2020-07-25,NA
+1731,"Belagavi","60871",66,"Female","Contact under tracing","-","-",2020-07-18,2020-07-20,2020-07-25,NA
+1732,"Belagavi","60956",40,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-17,2020-07-25,NA
+1733,"Belagavi","61023",48,"Male","ILI","-","-",2020-07-17,2020-07-19,2020-07-25,NA
+1736,"Belagavi","64740",41,"Male","ILI","Fever & Cough","HTN",2020-07-10,2020-07-20,2020-07-25,NA
+1789,"Belagavi","49009",60,"Male","ILI","Fever","-",2020-07-14,2020-07-21,2020-07-26,NA
+1801,"Belagavi","64257",78,"Male","SARI","Breathlessness","-",NA,2020-07-18,2020-07-26,"Brought dead"
+1803,"Belagavi","65053",44,"Male","ILI","Fever","-",2020-07-18,2020-07-19,2020-07-26,NA
+1804,"Belagavi","65456",60,"Male","ILI","Fever & Cough","-",2020-07-16,2020-07-20,2020-07-26,NA
+1808,"Belagavi","72429",55,"Male","SARI","Fever & Breathlessness","-",2020-07-18,2020-07-21,2020-07-26,NA
+1809,"Belagavi","72773",50,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-07-19,2020-07-20,2020-07-26,NA
+1876,"Belagavi","52180",73,"Male","SARI","Breathlessness","-",2020-07-15,2020-07-22,2020-07-27,NA
+1885,"Belagavi","60184",70,"Male","SARI","Breathlessness","-",2020-07-18,2020-07-22,2020-07-27,NA
+1888,"Belagavi","64812",70,"Female","SARI","Breathlessness","-",2020-07-16,2020-07-22,2020-07-27,NA
+1893,"Belagavi","72871",55,"Male","SARI","Breathlessness","-",2020-07-19,2020-07-22,2020-07-27,NA
+1895,"Belagavi","76246",75,"Female","SARI","Breathlessness","-",2020-07-21,2020-07-21,2020-07-27,NA
+1902,"Belagavi","78454",63,"Female","SARI","Breathlessness","-",2020-07-21,2020-07-22,2020-07-27,NA
+1944,"Belagavi","47450",58,"Male","Contact under tracing","-","-",2020-07-13,2020-07-23,2020-07-28,NA
+1970,"Belagavi","72989",65,"Female","Contact under tracing","-","-",2020-07-19,2020-07-26,2020-07-28,NA
+1974,"Belagavi","76953",46,"Male","Contact under tracing","-","-",2020-07-21,2020-07-27,2020-07-28,NA
+1977,"Belagavi","78835",44,"Male","Contact under tracing","-","-",2020-07-22,2020-07-25,2020-07-28,NA
+2030,"Belagavi","105146",50,"Female","Contact under tracing","-","-",2020-07-26,2020-07-26,2020-07-28,NA
+2039,"Belagavi","109694",54,"Male","Contact under tracing","-","DM, CKD",2020-07-25,2020-07-27,2020-07-28,NA
+2052,"Belagavi","64478",59,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-21,2020-07-29,NA
+2068,"Belagavi","82470",55,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-20,2020-07-28,2020-07-29,NA
+2083,"Belagavi","94560",52,"Male","Contact under tracing","-","DM",2020-07-25,2020-07-27,2020-07-29,NA
+2147,"Belagavi","72667",46,"Female","SARI","Breathlessness","DM",2020-07-19,2020-07-29,2020-07-30,NA
+2176,"Belagavi","109638",54,"Male","SARI","Breathlessness","HTN",2020-07-25,2020-07-29,2020-07-30,NA
+2177,"Belagavi","111704",50,"Male","SARI","Breathlessness","-",2020-07-27,2020-07-29,2020-07-30,NA
+2196,"Belagavi","115679",66,"Female","SARI","Breathlessness","-",2020-07-28,2020-07-30,2020-07-30,NA
+2263,"Belagavi","111600",92,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-27,2020-07-30,2020-07-31,NA
+2264,"Belagavi","111678",46,"Male","SARI","Breathlessness","-",2020-07-30,2020-07-31,2020-07-31,NA
+2270,"Belagavi","114886",65,"Female","SARI","Breathlessness","HTN",2020-07-28,2020-07-30,2020-07-31,NA
+2279,"Belagavi","119646",49,"Male","SARI","Breathlessness","-",2020-07-27,2020-07-31,2020-07-31,NA
+2297,"Belagavi","128627",58,"Male","SARI","Breathlessness","HTN",2020-07-30,2020-07-30,2020-07-31,NA
+2311,"Belagavi","82802",60,"Male","SARI","Breathlessness","DM, HTN",2020-07-22,2020-07-24,2020-08-01,NA
+2349,"Belagavi","114560",50,"Male","SARI","Breathlessness","DM, HTN",2020-07-26,2020-07-27,2020-08-01,NA
+2350,"Belagavi","114786",60,"Male","SARI","Breathlessness","-",2020-07-28,2020-07-29,2020-08-01,NA
+2377,"Belagavi","124784",51,"Male","SARI","Breathlessness","-",2020-07-25,2020-07-29,2020-08-01,NA
+2450,"Belagavi","126499",54,"Male","Contact under tracing","Cough & Breathlessness","-",2020-07-30,2020-07-31,2020-08-02,NA
+2500,"Belagavi","94282",70,"Male","SARI","Cough & Breathlessness","HTN",2020-07-26,2020-08-02,2020-08-03,NA
+2509,"Belagavi","103335",54,"Male","ILI","Cough & Breathlessness","-",2020-07-26,2020-08-01,2020-08-03,NA
+2527,"Belagavi","114997",47,"Female","SARI","Cough & Breathlessness","-",2020-07-27,2020-08-02,2020-08-03,NA
+2534,"Belagavi","120136",70,"Male","SARI","Cough & Breathlessness","-",2020-07-26,2020-07-31,2020-08-03,NA
+2539,"Belagavi","122317",56,"Male","SARI","Cough & Breathlessness","-",2020-07-28,2020-08-03,2020-08-03,NA
+2554,"Belagavi","134414",68,"Male","ILI","Cough & Breathlessness","ARD",2020-07-31,2020-08-02,2020-08-03,NA
+2562,"Belagavi","137321",75,"Male","SARI","Cough","HTN",2020-07-31,2020-08-02,2020-08-03,NA
+2564,"Belagavi","138026",50,"Male","ILI","Cough","-",2020-07-30,2020-08-02,2020-08-03,NA
+2576,"Belagavi","143551",56,"Male","SARI","Cough & Breathlessness","HTN",2020-08-01,2020-08-01,2020-08-03,NA
+2577,"Belagavi","143683",51,"Male","SARI","Cough & Breathlessness","-",2020-07-31,2020-08-02,2020-08-03,NA
+2643,"Belagavi","128267",41,"Male","SARI","Breathlessness","-",2020-07-29,2020-08-04,2020-08-04,NA
+2719,"Belagavi","110624",30,"Male","SARI","Breathlessness","-",2020-07-26,2020-08-05,2020-08-05,NA
+2726,"Belagavi","119191",65,"Male","SARI","Breathlessness","-",2020-07-25,2020-08-04,2020-08-05,NA
+2748,"Belagavi","138288",70,"Male","SARI","Breathlessness","DM",2020-08-01,2020-08-04,2020-08-05,NA
+2779,"Belagavi","151195",70,"Female","SARI","Breathlessness","-",2020-08-03,2020-08-04,2020-08-05,NA
+2880,"Belagavi","162537",52,"Male","SARI","Breathlessness","-",2020-08-04,2020-08-05,2020-08-06,NA
+2930,"Belagavi","138689",74,"Male","SARI","Cough, Breathlessness","HTN",2020-08-01,2020-08-06,2020-08-07,NA
+2977,"Belagavi","166531",44,"Male","SARI","Breathlessness","-",2020-08-05,2020-08-07,2020-08-07,NA
+3050,"Belagavi","157344",60,"Female","SARI","Breathlessness","-",2020-08-03,2020-08-07,2020-08-08,NA
+3263,"Belagavi","174761",57,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-08-07,2020-08-09,2020-08-10,NA
+3264,"Belagavi","175578",51,"Male","SARI","Breathlessness","-",2020-08-08,2020-08-09,2020-08-10,NA
+3284,"Belagavi","183728",41,"Male","SARI","Breathlessness","-",2020-08-08,2020-08-08,2020-08-10,NA
+3349,"Belagavi","163531",38,"Male","SARI","Cough, Breathlessness","HTN",2020-08-05,2020-08-09,2020-08-11,NA
+3350,"Belagavi","166517",72,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-10,2020-08-11,NA
+3367,"Belagavi","185238",57,"Female","SARI","Breathlessness","-",2020-08-09,2020-08-09,2020-08-11,NA
+3381,"Belagavi","194413",65,"Male","SARI","Breathlessness","-",2020-08-10,2020-08-10,2020-08-11,NA
+3428,"Belagavi","148733",55,"Male","SARI","Breathlessness","DM",2020-08-05,2020-08-10,2020-08-12,NA
+3463,"Belagavi","184087",57,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-10,2020-08-12,NA
+3465,"Belagavi","187631",74,"Male","SARI","Breathlessness","HTN",2020-08-09,2020-08-11,2020-08-12,NA
+3469,"Belagavi","188283",63,"Male","SARI","Breathlessness","DM, HTN",2020-08-09,2020-08-11,2020-08-12,NA
+3474,"Belagavi","190916",43,"Female","SARI","Breathlessness","-",2020-08-10,2020-08-11,2020-08-12,NA
+3480,"Belagavi","193956",63,"Male","SARI","Breathlessness","DM, HTN",2020-08-10,2020-08-11,2020-08-12,NA
+3550,"Belagavi","166532",56,"Male","SARI","Breathlessness","-",2020-08-05,2020-08-12,2020-08-13,NA
+3555,"Belagavi","173931",50,"Male","SARI","Cough, Breathlessness","-",2020-08-07,2020-08-11,2020-08-13,NA
+3571,"Belagavi","187630",35,"Female","SARI","Breathlessness","-",2020-08-09,2020-08-13,2020-08-13,NA
+3586,"Belagavi","200193",58,"Female","SARI","Breathlessness","DM",2020-08-10,2020-08-13,2020-08-13,NA
+3587,"Belagavi","201136",70,"Male","SARI","Breathlessness","-",2020-08-11,2020-08-12,2020-08-13,NA
+3595,"Belagavi","205559",62,"Male","SARI","Breathlessness","HTN, COPD",2020-08-12,2020-08-13,2020-08-13,NA
+3730,"Belagavi","130672",32,"Male","SARI","Breathlessness","-",2020-07-29,2020-08-14,2020-08-15,NA
+3742,"Belagavi","156943",48,"Male","SARI","Breathlessness","-",2020-08-06,2020-08-13,2020-08-15,NA
+3749,"Belagavi","166524",92,"Male","SARI","Breathlessness","-",2020-08-08,2020-08-08,2020-08-15,NA
+3768,"Belagavi","183731",72,"Male","SARI","Breathlessness","CKD",2020-08-08,2020-08-13,2020-08-15,NA
+3786,"Belagavi","201851",73,"Male","SARI","Breathlessness","DM",2020-08-12,2020-08-14,2020-08-15,NA
+3884,"Belagavi","184091",48,"Male","SARI","Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3888,"Belagavi","190179",63,"Male","SARI","Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3934,"Belagavi","229726",67,"Female","SARI","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3973,"Belagavi","151404",60,"Female","Contact under tracing","Fever","HTN, IHD",2020-08-05,2020-08-15,2020-08-17,NA
+3982,"Belagavi","163966",58,"Male","Contact under tracing","Breathlessness","HTN",2020-07-30,2020-08-16,2020-08-17,NA
+3988,"Belagavi","173915",41,"Male","Contact under tracing","Breathlessness","HTN",2020-08-07,2020-08-15,2020-08-17,NA
+4002,"Belagavi","194925",55,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-10,2020-08-16,2020-08-17,NA
+4014,"Belagavi","206661",72,"Male","Contact under tracing","Fever","DM, HTN",2020-08-11,2020-08-17,2020-08-17,NA
+4025,"Belagavi","223320",72,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-15,2020-08-16,2020-08-17,NA
+4029,"Belagavi","226701",60,"Female","Contact under tracing","Breathlessness","DM",2020-08-14,2020-08-14,2020-08-17,NA
+4037,"Belagavi","229722",42,"Male","Contact under tracing","Fever","DM",2020-08-14,2020-08-17,2020-08-17,NA
+4041,"Belagavi","233675",50,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-08-15,2020-08-15,2020-08-17,NA
+4115,"Belagavi","180304",75,"Male","SARI","Breathlessness","DM",2020-08-07,2020-08-17,2020-08-18,NA
+4131,"Belagavi","193952",60,"Male","SARI","Fever","DM",2020-08-10,2020-08-16,2020-08-18,NA
+4160,"Belagavi","226705",55,"Male","SARI","Cough, Breathlessness","HTN",2020-08-14,2020-08-16,2020-08-18,NA
+4161,"Belagavi","226744",78,"Male","SARI","Breathlessness","-",2020-08-16,2020-08-16,2020-08-18,NA
+4182,"Belagavi","239975",65,"Female","SARI","Breathlessness","-",2020-08-16,2020-08-17,2020-08-18,NA
+4183,"Belagavi","242104",56,"Male","SARI","Breathlessness","DM, HTN",2020-08-17,2020-08-17,2020-08-18,NA
+4193,"Belagavi","247547",59,"Female","SARI","Breathlessness","-",2020-08-17,2020-08-17,2020-08-18,NA
+4245,"Belagavi","193301",55,"Female","SARI","Breathlessness","-",2020-08-10,2020-08-17,2020-08-19,NA
+4266,"Belagavi","223348",52,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-19,2020-08-19,NA
+4310,"Belagavi","247558",75,"Male","SARI","Cough, Breathlessness","DM",2020-08-17,2020-08-18,2020-08-19,NA
+4344,"Belagavi","184530",68,"Female","SARI","Cough, Breathlessness","-",2020-08-08,2020-08-19,2020-08-20,NA
+4379,"Belagavi","234706",60,"Male","SARI","Cough, Breathlessness","HTN",2020-08-15,2020-08-19,2020-08-20,NA
+4405,"Belagavi","252379",51,"Male","SARI","Cough, Breathlessness","-",2020-08-15,2020-08-19,2020-08-20,NA
+4412,"Belagavi","255779",57,"Male","SARI","Breathlessness","-",2020-08-20,2020-08-20,2020-08-20,NA
+4455,"Belagavi","217019",53,"Male","SARI","Breathlessness","-",2020-08-17,2020-08-19,2020-08-21,NA
+4456,"Belagavi","217899",65,"Female","SARI","Breathlessness","-",2020-08-13,2020-08-13,2020-08-21,NA
+4468,"Belagavi","231515",60,"Female","SARI","Breathlessness","DM",2020-08-16,2020-08-20,2020-08-21,NA
+4482,"Belagavi","247548",65,"Female","SARI","Cough, Breathlessness","DM",2020-08-17,2020-08-20,2020-08-21,NA
+4483,"Belagavi","247554",73,"Male","SARI","Cough, Breathlessness","-",2020-08-17,2020-08-18,2020-08-21,NA
+4497,"Belagavi","258980",60,"Male","Contact under tracing","-","DM",2020-08-19,2020-08-19,2020-08-21,NA
+4508,"Belagavi","263795",74,"Female","SARI","Cough, Breathlessness","-",2020-08-19,2020-08-20,2020-08-21,NA
+4524,"Belagavi","176932",68,"Female","SARI","Breathlessness","-",2020-08-07,2020-08-08,2020-08-22,NA
+4535,"Belagavi","203329",52,"Male","SARI","Cough, Breathlessness","HTN",2020-08-12,2020-08-18,2020-08-22,NA
+4567,"Belagavi","247556",42,"Male","SARI","Breathlessness","-",2020-08-18,2020-08-18,2020-08-22,NA
+4661,"Belagavi","269579",70,"Male","SARI","Breathlessness","_",2020-08-20,2020-08-21,2020-08-23,NA
+4667,"Belagavi","281324",74,"Male","SARI","Breathlessness","_",2020-08-21,2020-08-21,2020-08-23,NA
+4738,"Belagavi","248114",40,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-24,2020-08-24,NA
+4760,"Belagavi","263790",65,"Female","Contact under tracing","Cough, Breathlessness","-",2020-08-19,2020-08-23,2020-08-24,NA
+4771,"Belagavi","271256",58,"Female","Contact under tracing","Breathlessness","HTN",2020-08-20,2020-08-23,2020-08-24,NA
+4780,"Belagavi","276136",65,"Male","Contact under tracing","Breathlessness","DM",2020-08-19,2020-08-21,2020-08-24,NA
+4798,"Belagavi","288142",72,"Female","Contact under tracing","Breathlessness","DM",2020-08-22,2020-08-23,2020-08-24,NA
+4858,"Belagavi","234716",50,"Female","SARI","Cough, Breathlessness","DM",2020-08-16,2020-08-24,2020-08-25,NA
+4951,"Belagavi","298577",56,"Male","SARI","Breathlessness","HTN, DM",2020-08-24,2020-08-25,2020-08-25,NA
+5003,"Belagavi","249838",66,"Male","SARI","Cough, Breathlessness","HTN",2020-08-16,2020-08-22,2020-08-26,NA
+5028,"Belagavi","271240",58,"Male","SARI","Cough, Breathlessness","HTN",2020-08-20,2020-08-26,2020-08-26,NA
+5058,"Belagavi","288993",58,"Male","SARI","Breathlessness","DM",2020-08-25,2020-08-26,2020-08-26,NA
+5060,"Belagavi","289420",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-17,2020-08-23,2020-08-26,NA
+5077,"Belagavi","297133",68,"Male","SARI","Breathlessness","-",2020-08-24,2020-08-26,2020-08-26,NA
+5175,"Belagavi","272905",57,"Male","SARI","Breathlessness","HTN",2020-08-20,2020-08-26,2020-08-27,NA
+5179,"Belagavi","276131",32,"Male","SARI","Breathlessness","DM",2020-08-18,2020-08-26,2020-08-27,NA
+5183,"Belagavi","281843",57,"Male","SARI","Breathlessness","-",2020-08-19,2020-08-19,2020-08-27,NA
+5196,"Belagavi","290919",72,"Male","SARI","Breathlessness","-",2020-08-19,2020-08-20,2020-08-27,NA
+5212,"Belagavi","306037",52,"Male","SARI","Breathlessness","-",2020-08-25,2020-08-26,2020-08-27,NA
+5255,"Belagavi","222633",63,"Male","SARI","Cough, Breathlessness","DM",2020-08-19,2020-08-28,2020-08-28,NA
+5293,"Belagavi","266869",55,"Male","SARI","Breathlessness","DM",2020-08-25,2020-08-28,2020-08-28,NA
+5295,"Belagavi","267382",46,"Male","SARI","Cough, Breathlessness","-",2020-08-20,2020-08-27,2020-08-28,NA
+5323,"Belagavi","294934",62,"Male","SARI","Cough, Breathlessness","HTN",2020-08-24,2020-08-27,2020-08-28,NA
+5380,"Belagavi","234653",47,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-14,2020-08-29,2020-08-29,NA
+5418,"Belagavi","288134",36,"Male","SARI","Cough, Breathlessness","DM",2020-08-22,2020-08-28,2020-08-29,NA
+5443,"Belagavi","306662",72,"Female","SARI","Cough, Breathlessness","DM",2020-08-25,2020-08-29,2020-08-29,NA
+5545,"Belagavi","305154",62,"Female","SARI","Breathlessness","DM",2020-08-26,2020-08-28,2020-08-30,NA
+5547,"Belagavi","308086",70,"Female","SARI","Cough, Breathlessness","HTN",2020-08-24,2020-08-28,2020-08-30,NA
+5561,"Belagavi","323977",58,"Male","SARI","Cough, Breathlessness","HTN",2020-08-25,2020-08-27,2020-08-30,NA
+5579,"Belagavi","337959",50,"Female","SARI","Cough, Breathlessness","DM",2020-08-27,2020-08-28,2020-08-30,NA
+5612,"Belagavi","276980",72,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-21,2020-08-29,2020-08-31,NA
+5639,"Belagavi","306027",25,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-08-19,2020-08-30,2020-08-31,NA
+5655,"Belagavi","321838",47,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-27,2020-08-29,2020-08-31,NA
+5685,"Belagavi","341564",65,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-28,2020-08-29,2020-08-31,NA
+5686,"Belagavi","341590",67,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-27,2020-08-29,2020-08-31,NA
+5750,"Belagavi","280441",60,"Female","SARI","Cough, Breathlessness","DM",2020-08-26,2020-08-31,2020-09-01,NA
+5761,"Belagavi","291469",48,"Male","SARI","Cough, Breathlessness","HTN",2020-08-17,2020-08-31,2020-09-01,NA
+5796,"Belagavi","336360",86,"Male","SARI","Cough, Breathlessness","DM",2020-08-28,2020-08-30,2020-09-01,NA
+5802,"Belagavi","341582",35,"Male","SARI","Cough, Breathlessness","DM",2020-08-30,2020-09-01,2020-09-01,NA
+5806,"Belagavi","343750",72,"Male","SARI","Cough, Breathlessness","HTN",2020-08-29,2020-09-01,2020-09-01,NA
+5824,"Belagavi","352992",68,"Male","SARI","Cough, Breathlessness","-",2020-08-29,2020-08-30,2020-09-01,NA
+5826,"Belagavi","353347",70,"Male","SARI","Cough, Breathlessness","DM",2020-08-28,2020-08-29,2020-09-01,NA
+5850,"Belagavi","258532",58,"Male","Contact under tracing","Fever","HTN",NA,2020-08-21,2020-09-02,"Died at his residence"
+6069,"Belagavi","267937",68,"Female","SARI","Cough, Breathlessness","HTN",2020-08-21,2020-09-03,2020-09-04,NA
+6072,"Belagavi","276192",65,"Male","SARI","Cough, Breathlessness","DM",2020-08-21,2020-09-02,2020-09-04,NA
+6075,"Belagavi","288141",62,"Male","SARI","Breathlessness","DM",2020-08-22,2020-08-30,2020-09-04,NA
+6095,"Belagavi","318356",68,"Male","SARI","Cough, Breathlessness","HTN",2020-08-26,2020-09-02,2020-09-04,NA
+6128,"Belagavi","353334",73,"Male","SARI","Cough, Breathlessness","-",2020-08-30,2020-09-02,2020-09-04,NA
+6136,"Belagavi","365476",29,"Male","SARI","Cough, Breathlessness","-",2020-08-30,2020-08-31,2020-09-04,NA
+6311,"Belagavi","288997",65,"Female","SARI","Fever, Breathlessness","HTN",2020-08-22,2020-09-06,2020-09-06,NA
+6339,"Belagavi","344323",79,"Male","SARI","Fever, Breathlessness","HTN",2020-08-29,2020-09-05,2020-09-06,NA
+6348,"Belagavi","356731",52,"Male","SARI","Fever, Breathlessness","DM",2020-09-05,2020-09-05,2020-09-06,NA
+6359,"Belagavi","369525",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-01,2020-09-06,2020-09-06,NA
+6380,"Belagavi","398306",75,"Female","SARI","Fever, Breathlessness","HTN",2020-08-30,2020-09-01,2020-09-06,NA
+6381,"Belagavi","399973",32,"Male","SARI","Fever, Breathlessness","COPD",2020-09-04,2020-09-05,2020-09-06,NA
+6382,"Belagavi","399983",66,"Male","SARI","Fever, Breathlessness","DM",2020-09-02,2020-09-03,2020-09-06,NA
+6386,"Belagavi","403313",78,"Female","SARI","Fever, Breathlessness","HTN",2020-09-05,2020-09-06,2020-09-06,NA
+6482,"Belagavi","351764",58,"Male","SARI","Fever, Breathlessness","COPD",2020-08-30,2020-09-06,2020-09-07,NA
+6489,"Belagavi","365475",55,"Male","SARI","Fever, Breathlessness","DM",2020-08-25,2020-09-06,2020-09-07,NA
+6515,"Belagavi","399967",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-01,2020-09-06,2020-09-07,NA
+6524,"Belagavi","408182",66,"Female","SARI","Fever, Breathlessness","COPD",2020-09-05,2020-09-06,2020-09-07,NA
+6526,"Belagavi","411721",62,"Male","SARI","Cough, Breathlessness","HTN",2020-08-25,2020-08-30,2020-09-07,NA
+6527,"Belagavi","411723",45,"Female","SARI","Cough, Breathlessness","HTN",2020-08-25,2020-08-28,2020-09-07,NA
+6528,"Belagavi","411725",56,"Male","SARI","Fever, Breathlessness","COPD",2020-09-04,2020-09-06,2020-09-07,NA
+6529,"Belagavi","411728",75,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-04,2020-09-04,2020-09-07,NA
+6731,"Belagavi","359850",53,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-31,2020-09-07,2020-09-09,NA
+6734,"Belagavi","365485",54,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-28,2020-09-07,2020-09-09,NA
+6746,"Belagavi","373230",32,"Male","SARI","Cough, Breathlessness","DM",2020-09-08,2020-09-08,2020-09-09,NA
+6774,"Belagavi","403236",70,"Female","SARI","Cough, Breathlessness","DM",2020-09-05,2020-09-07,2020-09-09,NA
+6780,"Belagavi","408475",73,"Male","SARI","Cough, Breathlessness","DM",2020-08-05,2020-09-07,2020-09-09,NA
+6880,"Belagavi","403096",76,"Male","SARI","Cough, Breathlessness","DM",2020-09-04,2020-09-09,2020-09-10,NA
+6907,"Belagavi","421319",60,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-10,2020-09-10,NA
+6957,"Belagavi","329579",80,"Male","SARI","Breathlessness","DM, HTN",2020-08-28,2020-08-28,2020-09-11,NA
+7019,"Belagavi","408470",70,"Male","SARI","Cough, Breathlessness","HTN",2020-09-05,2020-09-11,2020-09-11,NA
+7020,"Belagavi","408817",58,"Male","SARI","Cough, Breathlessness","HTN",2020-09-05,2020-09-10,2020-09-11,NA
+7035,"Belagavi","422810",66,"Female","SARI","Cough, Breathlessness","-",2020-08-31,2020-08-31,2020-09-11,NA
+7036,"Belagavi","423757",38,"Male","SARI","Cough, Breathlessness","DM",2020-08-21,2020-08-27,2020-09-11,NA
+7047,"Belagavi","435586",60,"Female","SARI","Cough, Breathlessness","HTN",2020-09-09,2020-09-11,2020-09-11,NA
+7048,"Belagavi","435587",75,"Male","SARI","Cough, Breathlessness","DM",2020-09-09,2020-09-11,2020-09-11,NA
+7061,"Belagavi","445986",50,"Male","SARI","Cough, Breathlessness","DM",2020-09-10,2020-09-10,2020-09-11,NA
+7062,"Belagavi","449090",52,"Female","SARI","Cough, Breathlessness","HTN",2020-09-10,2020-09-11,2020-09-11,NA
+7122,"Belagavi","403333",65,"Male","SARI","Breathlessness, Cough","DM",2020-09-01,2020-09-12,2020-09-12,NA
+7154,"Belagavi","457884",73,"Male","SARI","Breathlessness, Cough","HTN",2020-09-11,2020-09-12,2020-09-12,NA
+7311,"Belagavi","408337",72,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-09-05,2020-09-13,2020-09-14,NA
+7328,"Belagavi","429913",75,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-04,2020-09-09,2020-09-14,NA
+7359,"Belagavi","461789",60,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-09-12,2020-09-14,2020-09-14,NA
+7377,"Belagavi","476182",35,"Male","SARI","Cough, Breathlessness","-",2020-09-13,2020-09-14,2020-09-14,NA
+7475,"Belagavi","485174",40,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-14,2020-09-14,2020-09-15,NA
+7569,"Belagavi","403086",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-02,2020-09-17,2020-09-17,NA
+7581,"Belagavi","422768",42,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-06,2020-09-16,2020-09-17,NA
+7604,"Belagavi","451842",66,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-10,2020-09-16,2020-09-17,NA
+7613,"Belagavi","462891",64,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-02,2020-09-17,2020-09-17,NA
+7650,"Belagavi","343019",58,"Female","SARI","Cough, Breathlessness","HTN",2020-08-27,2020-09-15,2020-09-18,NA
+7689,"Belagavi","410635",74,"Male","SARI","Cough, Breathlessness","DM",2020-09-06,2020-09-18,2020-09-18,NA
+7748,"Belagavi","450882",68,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-15,2020-09-15,2020-09-18,NA
+7763,"Belagavi","461365",65,"Female","SARI","Cough, Breathlessness","HTN",2020-09-11,2020-09-16,2020-09-18,NA
+7792,"Belagavi","487577",67,"Male","SARI","Fever, Breathlessness","HTN",2020-09-14,2020-09-15,2020-09-18,NA
+7803,"Belagavi","495616",84,"Male","SARI","Cough, Breathlessness","DM",2020-09-15,2020-09-16,2020-09-18,NA
+7804,"Belagavi","495618",75,"Male","SARI","Cough, Breathlessness","DM",2020-09-15,2020-09-16,2020-09-18,NA
+7809,"Belagavi","500989",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-17,2020-09-18,NA
+7841,"Belagavi","427048",60,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-19,2020-09-19,NA
+7882,"Belagavi","468037",51,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-09-12,2020-09-18,2020-09-19,NA
+7893,"Belagavi","483393",62,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-09-14,2020-09-19,2020-09-19,NA
+7925,"Belagavi","517570",69,"Male","Contact under tracing","-","-",NA,2020-09-17,2020-09-19,"Brought dead"
+7926,"Belagavi","517740",65,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-09-18,2020-09-19,2020-09-19,NA
+7928,"Belagavi","519892",55,"Female","SARI","Cough, Breathlessness","HTN",2020-09-18,2020-09-19,2020-09-19,NA
+7990,"Belagavi","485830",85,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-09-14,2020-09-20,2020-09-20,NA
+8010,"Belagavi","510216",75,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-15,2020-09-17,2020-09-20,NA
+8018,"Belagavi","517571",65,"Female","Contact under tracing","Breathlessness","HTN",2020-09-18,2020-09-20,2020-09-20,NA
+8021,"Belagavi","518795",85,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-09-18,2020-09-20,2020-09-20,NA
+8024,"Belagavi","525181",48,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-09-16,2020-09-20,2020-09-20,NA
+8027,"Belagavi","527045",85,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-18,2020-09-18,2020-09-20,NA
+8077,"Belagavi","473902",80,"Male","SARI","Breathlessness","HTN",2020-09-17,2020-09-20,2020-09-21,NA
+8093,"Belagavi","492308",65,"Male","SARI","Breathlessness","HTN",2020-09-20,2020-09-20,2020-09-21,NA
+8142,"Belagavi","527725",25,"Male","SARI","Breathlessness","DM",2020-09-19,2020-09-20,2020-09-21,NA
+8366,"Belagavi","475505",45,"Male","SARI","Breathlessness","HTN",2020-09-12,2020-09-22,2020-09-25,NA
+8369,"Belagavi","481153",45,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-09-21,2020-09-25,NA
+8402,"Belagavi","528686",76,"Male","SARI","Breathlessness","DM, HTN",2020-09-19,2020-09-21,2020-09-25,NA
+8410,"Belagavi","540163",85,"Male","SARI","Breathlessness","HTN",2020-09-21,2020-09-21,2020-09-25,NA
+8411,"Belagavi","543011",60,"Male","SARI","Breathlessness","DM, HTN",2020-09-20,2020-09-21,2020-09-25,NA
+8412,"Belagavi","543012",80,"Male","SARI","Breathlessness","DM, HTN",2020-09-21,2020-09-21,2020-09-25,NA
+8526,"Belagavi","493065",70,"Male","SARI","Breathlessness","DM, HTN",2020-09-14,2020-09-24,2020-09-27,NA
+8543,"Belagavi","528676",67,"Female","Contact under tracing","-","-",NA,2020-09-21,2020-09-27,"Brought dead"
+8560,"Belagavi","545993",65,"Male","SARI","Breathlessness","DM, HTN",2020-09-21,2020-09-22,2020-09-27,NA
+8570,"Belagavi","554284",65,"Male","SARI","Breathlessness","DM, HTN",2020-09-22,2020-09-23,2020-09-27,NA
+8574,"Belagavi","564263",61,"Male","SARI","Breathlessness","DM, HTN",2020-09-23,2020-09-24,2020-09-27,NA
+8599,"Belagavi","485837",72,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-14,2020-09-24,2020-09-28,NA
+8603,"Belagavi","500999",63,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-15,2020-09-25,2020-09-28,NA
+8608,"Belagavi","522787",70,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-24,2020-09-24,2020-09-28,NA
+8611,"Belagavi","529631",65,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-22,2020-09-23,2020-09-28,NA
+8737,"Belagavi","531366",65,"Female","SARI","Breathlessness","DM, HTN",2020-09-12,2020-09-24,2020-09-29,NA
+8741,"Belagavi","538013",53,"Female","SARI","Breathlessness","DM, HTN",2020-09-10,2020-09-25,2020-09-29,NA
+8757,"Belagavi","562861",67,"Male","SARI","Breathlessness","HTN",2020-09-23,2020-09-27,2020-09-29,NA
+9025,"Belagavi","506624",72,"Male","SARI","Breathlessness","HTN",2020-09-17,2020-09-28,2020-10-02,NA
+9048,"Belagavi","554637",49,"Male","SARI","Breathlessness","HTN",2020-09-27,2020-09-28,2020-10-02,NA
+9062,"Belagavi","572312",72,"Male","SARI","Breathlessness","HTN",2020-09-24,2020-09-27,2020-10-02,NA
+9068,"Belagavi","574683",70,"Male","SARI","Breathlessness","HTN",2020-09-29,2020-09-29,2020-10-02,NA
+9092,"Belagavi","592502",78,"Male","SARI","Breathlessness","HTN",2020-09-24,2020-09-27,2020-10-02,NA
+9107,"Belagavi","604449",55,"Male","SARI","Breathlessness","HTN",2020-09-29,2020-09-30,2020-10-02,NA
+9119,"Belagavi","618246",33,"Male","SARI","Breathlessness","HTN",2020-09-29,2020-09-30,2020-10-02,NA
+9131,"Belagavi","468005",75,"Male","SARI","Breathlessness","HTN",2020-09-11,2020-09-29,2020-10-03,NA
+9168,"Belagavi","569081",91,"Male","Contact under tracing","Breathlessness","HTN",2020-09-24,2020-09-29,2020-10-03,NA
+9191,"Belagavi","597922",65,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-27,2020-09-30,2020-10-03,NA
+9304,"Belagavi","545528",65,"Male","SARI","Breathlessness","HTN",2020-10-01,2020-10-02,2020-10-05,NA
+9340,"Belagavi","607868",54,"Male","SARI","Breathlessness","HTN",2020-09-26,2020-10-02,2020-10-05,NA
+9386,"Belagavi","525157",62,"Female","Contact under tracing","-","HTN",2020-09-27,2020-10-04,2020-10-06,NA
+9394,"Belagavi","559846",77,"Female","SARI","Breathlessness","HTN",2020-09-24,2020-10-04,2020-10-06,NA
+9395,"Belagavi","561461",75,"Male","SARI","Breathlessness","HTN",2020-09-23,2020-10-05,2020-10-06,NA
+9419,"Belagavi","593775",51,"Male","SARI","Breathlessness","DM, HTN",2020-10-01,2020-10-04,2020-10-06,NA
+9439,"Belagavi","621046",70,"Male","SARI","Breathlessness","HTN",2020-09-30,2020-10-03,2020-10-06,NA
+9458,"Belagavi","648011",62,"Male","SARI","Breathlessness","HTN",2020-10-02,2020-10-04,2020-10-06,NA
+9464,"Belagavi","655969",29,"Male","SARI","Breathlessness","HTN",2020-09-30,2020-10-03,2020-10-06,NA
+9553,"Belagavi","647184",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-02,2020-10-06,2020-10-07,NA
+9688,"Belagavi","493064",60,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-09-14,2020-10-09,NA
+9714,"Belagavi","585021",65,"Male","SARI","Breathlessness","HTN",2020-09-26,2020-10-04,2020-10-09,NA
+9734,"Belagavi","612663",60,"Female","SARI","Breathlessness","HTN",2020-09-30,2020-10-02,2020-10-09,NA
+9766,"Belagavi","665361",80,"Female","SARI","Breathlessness","HTN",2020-09-30,2020-10-04,2020-10-09,NA
+9796,"Belagavi","705569",63,"Male","SARI","Breathlessness","DM, HTN",2020-10-08,2020-10-08,2020-10-09,NA
+9891,"Belagavi","696101",34,"Male","SARI","Breathlessness","DM, HTN",2020-10-08,2020-10-09,2020-10-10,NA
+10016,"Belagavi","684479",61,"Female","SARI","Cough, Breathlessness","DM",2020-09-30,2020-10-12,2020-10-12,NA
+10034,"Belagavi","715737",80,"Male","SARI","Breathlessness","HTN",2020-10-10,2020-10-10,2020-10-12,NA
+10087,"Belagavi","678111",81,"Male","Contact under tracing","Breathlessness","HTN",2020-10-06,2020-10-09,2020-10-13,NA
+10187,"Belagavi","713736",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-13,2020-10-14,NA
+10235,"Belagavi","677379",77,"Male","SARI","Cough, Breathlessness","HTN",2020-10-05,2020-10-15,2020-10-15,NA
+10253,"Belagavi","702238",59,"Male","SARI","Cough, Breathlessness","HTN",2020-10-10,2020-10-15,2020-10-15,NA
+10285,"Belagavi","738570",52,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-10-11,2020-10-14,2020-10-15,NA
+10315,"Belagavi","668101",58,"Male","SARI","Breathlessness","CKD",2020-10-10,2020-10-15,2020-10-16,NA
+10415,"Belagavi","725334",49,"Male","SARI","Breathlessness","DM",2020-10-08,2020-10-16,2020-10-17,NA
+10420,"Belagavi","738568",68,"Male","SARI","Breathlessness","HTN",2020-10-11,2020-10-16,2020-10-17,NA
+10642,"Belagavi","715728",79,"Male","SARI","Breathlessness","HTN",2020-10-12,2020-10-20,2020-10-21,NA
+10768,"Belagavi","783638",68,"Male","SARI","Breathlessness","DM, HTN",2020-10-16,2020-10-18,2020-10-22,NA
+10993,"Belagavi","810099",57,"Male","SARI","Breathlessness","DM, HTN",2020-10-25,2020-10-27,2020-10-27,NA
+11051,"Belagavi","816168",74,"Male","SARI","Breathlessness","DM, HTN",2020-10-24,2020-10-27,2020-10-28,NA
+11098,"Belagavi","823382",68,"Female","SARI","Breathlessness","DM, HTN, COPD",NA,2020-10-27,2020-10-29,"Brought dead"
+11129,"Belagavi","810090",46,"Male","SARI","Breathlessness","DM, HTN",2020-10-27,2020-10-29,2020-10-30,NA
+11135,"Belagavi","815782",64,"Male","SARI","Breathlessness","DM, HTN",2020-10-27,2020-10-29,2020-10-30,NA
+11199,"Belagavi","835525",64,"Male","SARI","Breathlessness","DM, HTN",2020-10-30,2020-10-31,2020-11-01,NA
+11246,"Belagavi","830107",58,"Male","SARI","Breathlessness","DM, HTN",2020-10-29,2020-11-02,2020-11-03,NA
+11363,"Belagavi","809669",20,"Female","SARI","Breathlessness","-",2020-10-23,2020-11-06,2020-11-07,NA
+11394,"Belagavi","852248",65,"Female","SARI","Breathlessness","DM, HTN",2020-11-07,2020-11-07,2020-11-08,NA
+11399,"Belagavi","854394",49,"Female","ILI","Fever, Cough","DM, HTN, COPD",2020-11-04,2020-11-07,2020-11-08,NA
+11486,"Belagavi","796930",53,"Female","SARI","Fever, Cough, Breathlessness","HTN, CVA",NA,2020-10-24,2020-11-13,"Died at his residence"
+11487,"Belagavi","799432",66,"Male","SARI","Breathlessness","DM, HTN, CVA",2020-10-17,2020-10-20,2020-11-13,NA
+11683,"Belagavi","880500",59,"Male","SARI","Breathlessness","DM, HTN",2020-11-21,2020-11-22,2020-11-23,NA
+11917,"Belagavi","892613",55,"Male","Contact under tracing","-","-",NA,2020-11-25,2020-12-11,"Brought dead"
+12465,"Belagavi","982212",62,"Female","SARI","Breathlessness","DM, HTN",2021-03-17,2021-03-19,2021-03-25,NA
+12473,"Belagavi","975625",61,"Female","SARI","Breathlessness","HTN",2021-03-13,2021-03-21,2021-03-26,NA
+12765,"Belagavi","1045917",45,"Female","SARI","Breathlessness","HTN, RVD",2021-03-31,2021-04-07,2021-04-08,NA
+12790,"Belagavi","1032371",28,"Male","SARI","Fever, Breathlessness","-",2021-04-01,2021-04-02,2021-04-09,NA
+12792,"Belagavi","1034194",65,"Male","SARI","Breathlessness","HTN",2021-04-04,2021-04-04,2021-04-09,NA
+12851,"Belagavi","1005605",64,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-03-28,2021-03-29,2021-04-11,NA
+12878,"Belagavi","1060033",35,"Male","SARI","Breathlessness","-",2021-04-08,2021-04-09,2021-04-11,NA
+12883,"Belagavi","1064538",40,"Female","SARI","Breathlessness","-",2021-04-08,2021-04-09,2021-04-11,NA
+12918,"Belagavi","1050089",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-06,2021-04-09,2021-04-12,NA
+12981,"Belagavi","1045915",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-05,2021-04-11,2021-04-13,NA
+13085,"Belagavi","1042356",89,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-10,2021-04-14,2021-04-15,NA
+13331,"Belagavi","1135456",43,"Male","SARI","Breathlessness","-",2021-04-14,2021-04-17,2021-04-18,NA
+13493,"Belagavi","1189688",75,"Female","SARI","Breathlessness","DM, HTN",2021-04-14,2021-04-18,2021-04-19,NA
+13793,"Belagavi","1102077",70,"Male","SARI","Breathlessness","DM, HTN",2021-04-10,2021-04-20,2021-04-22,NA
+13998,"Belagavi","1174546",50,"Female","SARI","Breathlessness","DM",2021-04-14,2021-04-21,2021-04-23,NA
+14033,"Belagavi","1219444",36,"Male","SARI","Breathlessness","-",2021-04-17,2021-04-21,2021-04-23,NA
+14149,"Belagavi","1138204",67,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-04-19,2021-04-22,2021-04-24,NA
+14744,"Belagavi","1330435",79,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-26,2021-04-27,NA
+15919,"Belagavi","1446336",83,"Male","SARI","Breathlessness","DM",2021-04-27,2021-05-01,2021-05-02,NA
+15941,"Belagavi","1502871",68,"Female","SARI","Fever, Breathlessness","HTN",2021-04-25,2021-04-30,2021-05-02,NA
+16381,"Belagavi","1428964",55,"Female","SARI","Fever, Breathlessness","-",2021-04-26,2021-05-01,2021-05-04,NA
+16429,"Belagavi","1528227",45,"Male","SARI","Fever, Breathlessness","-",2021-04-27,2021-05-02,2021-05-04,NA
+16431,"Belagavi","1541859",86,"Male","SARI","Breathlessness","DM",2021-04-28,2021-05-01,2021-05-04,NA
+16786,"Belagavi","1584517",58,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-02,2021-05-05,NA
+16799,"Belagavi","1607623",50,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-05,NA
+17097,"Belagavi","1605965",66,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-05,2021-05-06,NA
+18155,"Belagavi","1680041",75,"Female","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-06,2021-05-08,NA
+18184,"Belagavi","1738511",54,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-06,2021-05-08,NA
+18656,"Belagavi","1799262",58,"Male","SARI","Fever & Breathlessness","DM, HTN",2021-05-04,2021-05-07,2021-05-09,NA
+18719,"Belagavi","1893044",53,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-07,2021-05-09,NA
+19300,"Belagavi","1891833",38,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-10,NA
+19301,"Belagavi","1893057",70,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-05,2021-05-07,2021-05-10,NA
+19586,"Belagavi","1645224",47,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-28,2021-05-09,2021-05-11,NA
+19627,"Belagavi","1730135",47,"Female","SARI","Fever, cough, Breathlessness","-",2021-04-30,2021-05-10,2021-05-11,NA
+20101,"Belagavi","1789815",67,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-08,2021-05-08,2021-05-12,NA
+20361,"Belagavi","2059415",54,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-12,NA
+20795,"Belagavi","1605968",50,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-28,2021-05-03,2021-05-14,NA
+20853,"Belagavi","1791665",57,"Female","SARI","Fever, cough, Breathlessness","-",2021-04-30,2021-05-09,2021-05-14,NA
+20859,"Belagavi","1799263",34,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-14,NA
+20872,"Belagavi","1838487",49,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-14,NA
+21208,"Belagavi","1809217",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-14,2021-05-15,NA
+21230,"Belagavi","1858934",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-13,2021-05-15,NA
+21272,"Belagavi","1964984",38,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-14,2021-05-15,NA
+21320,"Belagavi","2050567",23,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-05-14,2021-05-15,NA
+21337,"Belagavi","2075560",34,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-13,2021-05-15,NA
+21391,"Belagavi","2151606",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-14,2021-05-15,NA
+21400,"Belagavi","2160032",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-15,NA
+21677,"Belagavi","2006296",38,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-16,NA
+21683,"Belagavi","2015272",32,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-13,2021-05-16,NA
+21686,"Belagavi","2020982",80,"Female","ILI","Fever, Cough","HTN",2021-05-09,2021-05-11,2021-05-16,NA
+21691,"Belagavi","2031177",50,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-04,2021-05-15,2021-05-16,NA
+22083,"Belagavi","1964985",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-15,2021-05-17,NA
+22141,"Belagavi","2069649",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-16,2021-05-17,NA
+22145,"Belagavi","2076938",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-15,2021-05-17,NA
+22186,"Belagavi","2125259",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-17,2021-05-17,NA
+22241,"Belagavi","2201098",57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-11,2021-05-17,2021-05-17,NA
+22315,"Belagavi","2293138",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22431,"Belagavi","1541856",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-05-15,2021-05-18,NA
+22611,"Belagavi","1964998",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-11,2021-05-18,NA
+22699,"Belagavi","2122524",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-15,2021-05-18,NA
+22758,"Belagavi","2199437",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-17,2021-05-18,NA
+22784,"Belagavi","2229382",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-18,NA
+23056,"Belagavi","1961262",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-18,2021-05-19,NA
+23085,"Belagavi","2029910",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-19,NA
+23132,"Belagavi","2095493",61,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-15,2021-05-19,NA
+23150,"Belagavi","2125274",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-17,2021-05-19,NA
+23189,"Belagavi","2164703",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-19,NA
+23218,"Belagavi","2199420",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-17,2021-05-19,NA
+23236,"Belagavi","2231532",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-19,NA
+23260,"Belagavi","2260388",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-19,NA
+23261,"Belagavi","2260616",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-19,NA
+23282,"Belagavi","2290947",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-19,NA
+23289,"Belagavi","2301994",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-19,NA
+24336,"Belagavi","1622709",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-08,2021-05-22,NA
+24469,"Belagavi","2006352",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-18,2021-05-22,NA
+24473,"Belagavi","2029899",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-17,2021-05-22,NA
+24495,"Belagavi","2125288",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-18,2021-05-22,NA
+24509,"Belagavi","2160061",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-18,2021-05-22,NA
+24518,"Belagavi","2181069",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-22,NA
+24526,"Belagavi","2199428",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-18,2021-05-22,NA
+24540,"Belagavi","2236373",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-19,2021-05-22,NA
+24541,"Belagavi","2237080",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-22,NA
+24548,"Belagavi","2249550",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-19,2021-05-22,NA
+24573,"Belagavi","2313148",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-17,2021-05-22,NA
+24578,"Belagavi","2318361",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-20,2021-05-22,NA
+24600,"Belagavi","2345780",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-22,NA
+24617,"Belagavi","2363741",59,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-19,2021-05-22,NA
+24742,"Belagavi","1626247",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-23,NA
+24743,"Belagavi","1626250",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-04-30,2021-05-23,NA
+24991,"Belagavi","2078800",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-20,2021-05-23,NA
+24992,"Belagavi","2078830",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-20,2021-05-23,NA
+25046,"Belagavi","2160016",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-20,2021-05-23,NA
+25128,"Belagavi","2273694",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-20,2021-05-23,NA
+25142,"Belagavi","2290953",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-20,2021-05-23,NA
+25160,"Belagavi","2314580",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-19,2021-05-23,NA
+25164,"Belagavi","2318354",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-20,2021-05-23,NA
+25165,"Belagavi","2319510",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-20,2021-05-23,NA
+25223,"Belagavi","2383861",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-20,2021-05-23,NA
+25243,"Belagavi","2402747",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-23,NA
+25250,"Belagavi","2409859",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-23,NA
+25393,"Belagavi","1649695",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-26,2021-05-24,NA
+25394,"Belagavi","1651031",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-01,2021-05-24,NA
+25395,"Belagavi","1651066",69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-01,2021-05-12,2021-05-24,NA
+25399,"Belagavi","1659282",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-02,2021-05-24,NA
+25401,"Belagavi","1666869",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-07,2021-05-24,NA
+25404,"Belagavi","1676285",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-06,2021-05-24,NA
+25408,"Belagavi","1684062",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-04,2021-05-24,NA
+25412,"Belagavi","1692777",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-24,NA
+25513,"Belagavi","1985913",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-21,2021-05-24,NA
+25615,"Belagavi","2249548",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-21,2021-05-24,NA
+25678,"Belagavi","2334660",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-19,2021-05-24,NA
+25718,"Belagavi","2382459",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-24,NA
+25719,"Belagavi","2382462",27,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-21,2021-05-24,NA
+25720,"Belagavi","2382468",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-24,NA
+25721,"Belagavi","2383848",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-24,NA
+25749,"Belagavi","2417809",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-21,2021-05-24,NA
+25762,"Belagavi","2429611",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-24,NA
+25924,"Belagavi","1703143",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-05-25,NA
+25927,"Belagavi","1709212",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-05,2021-05-25,NA
+25936,"Belagavi","1726944",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-25,NA
+25942,"Belagavi","1730198",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-15,2021-04-22,2021-05-25,NA
+25948,"Belagavi","1738500",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-05-25,NA
+25950,"Belagavi","1741957",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-07,2021-05-25,NA
+25958,"Belagavi","1751666",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-25,NA
+25961,"Belagavi","1754163",67,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-04,2021-05-25,NA
+25964,"Belagavi","1758273",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-04,2021-05-25,NA
+25966,"Belagavi","1762660",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-10,2021-05-25,NA
+25967,"Belagavi","1766477",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-07,2021-05-25,NA
+25971,"Belagavi","1769844",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-25,NA
+25977,"Belagavi","1777482",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-06,2021-05-25,NA
+25984,"Belagavi","1786739",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-06,2021-05-25,NA
+25985,"Belagavi","1792983",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-04,2021-05-25,NA
+25986,"Belagavi","1792985",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-03,2021-05-25,NA
+25987,"Belagavi","1792987",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-25,NA
+25989,"Belagavi","1799214",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-25,NA
+25990,"Belagavi","1799222",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-04,2021-05-25,NA
+25991,"Belagavi","1799235",42,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-06,2021-05-25,NA
+25992,"Belagavi","1799260",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-04,2021-05-25,NA
+25993,"Belagavi","1799268",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-07,2021-05-25,NA
+26202,"Belagavi","2239071",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-21,2021-05-25,NA
+26294,"Belagavi","2382469",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-25,NA
+26585,"Belagavi","1824503",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-09,2021-05-26,NA
+26588,"Belagavi","1831242",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-26,NA
+26591,"Belagavi","1834916",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-26,NA
+26595,"Belagavi","1841035",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-26,NA
+26597,"Belagavi","1844234",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-05,2021-05-26,NA
+26598,"Belagavi","1844252",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-08,2021-05-26,NA
+26610,"Belagavi","1870047",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-08,2021-05-26,NA
+26614,"Belagavi","1874697",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-26,NA
+26623,"Belagavi","1894526",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-14,2021-05-26,NA
+26790,"Belagavi","2319498",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-21,2021-05-26,NA
+26823,"Belagavi","2382513",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-20,2021-05-26,NA
+26824,"Belagavi","2385343",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-22,2021-05-26,NA
+26844,"Belagavi","2417818",79,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-22,2021-05-26,NA
+26874,"Belagavi","2467487",24,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-26,NA
+27061,"Belagavi","1952178",36,"Female","SARI","Fever, cough, breathlessness","-",2021-05-08,2021-05-22,2021-05-27,NA
+27113,"Belagavi","2076940",71,"Male","ILI","Fever, cough","DM",2021-05-07,2021-05-23,2021-05-27,NA
+27146,"Belagavi","2160006",63,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-12,2021-05-23,2021-05-27,NA
+27182,"Belagavi","2229367",65,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-15,2021-05-23,2021-05-27,NA
+27186,"Belagavi","2237047",34,"Male","SARI","Fever, cough, breathlessness","-",2021-05-12,2021-05-23,2021-05-27,NA
+27204,"Belagavi","2271669",54,"Male","ILI","Fever, cough","-",2021-05-14,2021-05-24,2021-05-27,NA
+27220,"Belagavi","2290945",43,"Female","SARI","Fever, cough, breathlessness","-",2021-05-13,2021-05-22,2021-05-27,NA
+27268,"Belagavi","2350722",49,"Male","ILI","Fever, cough","HTN",2021-05-14,2021-05-23,2021-05-27,NA
+27302,"Belagavi","2409931",40,"Male","ILI","Fever, cough","-",2021-05-18,2021-05-24,2021-05-27,NA
+27315,"Belagavi","2429569",74,"Female","ILI","Fever, cough","DM, HTN",2021-05-21,2021-05-23,2021-05-27,NA
+27316,"Belagavi","2429587",43,"Male","SARI","Fever, cough, breathlessness","-",2021-05-20,2021-05-21,2021-05-27,NA
+27334,"Belagavi","2447427",48,"Male","SARI","Fever, cough, breathlessness","-",2021-05-21,2021-05-24,2021-05-27,NA
+27351,"Belagavi","2470593",73,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-20,2021-05-22,2021-05-27,NA
+27373,"Belagavi","2496538",72,"Male","ILI","Fever, cough","DM",2021-05-21,2021-05-23,2021-05-27,NA
+27374,"Belagavi","2496550",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-22,2021-05-23,2021-05-27,NA
+27424,"Belagavi","1897021",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-28,NA
+27425,"Belagavi","1897022",61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-09,2021-05-28,NA
+27426,"Belagavi","1900022",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-06,2021-05-28,NA
+27428,"Belagavi","1912889",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-12,2021-05-28,NA
+27439,"Belagavi","1952206",21,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-28,NA
+27440,"Belagavi","1958417",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-08,2021-05-28,NA
+27445,"Belagavi","1975149",37,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-28,NA
+27560,"Belagavi","2181071",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-27,2021-05-28,NA
+27593,"Belagavi","2249546",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-24,2021-05-28,NA
+27795,"Belagavi","2568390",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-28,2021-05-28,NA
+28031,"Belagavi","2294192",76,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-19,2021-05-27,2021-05-29,NA
+28118,"Belagavi","2409857",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-29,2021-05-29,NA
+28125,"Belagavi","2414626",50,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-28,2021-05-29,NA
+28132,"Belagavi","2423944",65,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-29,2021-05-29,NA
+28137,"Belagavi","2429593",53,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-28,2021-05-29,NA
+28168,"Belagavi","2467495",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-29,2021-05-29,NA
+28219,"Belagavi","2512752",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-28,2021-05-29,NA
+28236,"Belagavi","2525472",55,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-27,2021-05-29,NA
+28242,"Belagavi","2531746",52,"Male","ILI","Fever, Cough","-",2021-05-23,2021-05-27,2021-05-29,NA
+28579,"Belagavi","2452755",43,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-28,2021-05-30,NA
+28589,"Belagavi","2467498",69,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-28,2021-05-30,NA
+28662,"Belagavi","2591497",74,"Female","ILI","Fever, Cough","-",2021-05-23,2021-05-28,2021-05-30,NA
+28673,"Belagavi","2609200",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-29,2021-05-30,NA
+28677,"Belagavi","2612915",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-05-28,2021-05-30,NA
+28696,"Belagavi","1636206",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-04,2021-05-31,NA
+28697,"Belagavi","1639571",45,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-03,2021-05-31,NA
+28708,"Belagavi","1684034",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-03,2021-05-31,NA
+28749,"Belagavi","1799271",43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-10,2021-05-31,NA
+28775,"Belagavi","1838492",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-31,NA
+28872,"Belagavi","2006316",87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-09,2021-05-31,NA
+28892,"Belagavi","2029850",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-31,NA
+28896,"Belagavi","2078782",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-31,NA
+28942,"Belagavi","2402759",65,"Male","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-31,2021-05-31,NA
+28949,"Belagavi","2416233",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-31,2021-05-31,NA
+29030,"Belagavi","2563637",52,"Female","ILI","Fever, Cough","DM, HTN",2021-05-25,2021-05-30,2021-05-31,NA
+29047,"Belagavi","2585140",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-31,2021-05-31,NA
+29060,"Belagavi","2603014",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-05-31,NA
+29061,"Belagavi","2603022",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-05-31,NA
+29078,"Belagavi","2626270",74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-31,2021-05-31,NA
+29379,"Belagavi","2334676",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-24,2021-06-01,NA
+29388,"Belagavi","2373900",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-24,2021-06-01,NA
+29395,"Belagavi","2382466",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-25,2021-06-01,NA
+29396,"Belagavi","2382484",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-24,2021-06-01,NA
+29398,"Belagavi","2383838",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-06-01,NA
+29403,"Belagavi","2402733",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-23,2021-06-01,NA
+29411,"Belagavi","2417721",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-24,2021-06-01,NA
+29434,"Belagavi","2472946",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-06-01,NA
+29450,"Belagavi","2498387",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-06-01,NA
+29454,"Belagavi","2507510",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-06-01,NA
+29455,"Belagavi","2507520",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-27,2021-06-01,NA
+29464,"Belagavi","2519199",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-24,2021-06-01,NA
+29477,"Belagavi","2533521",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-06-01,NA
+29478,"Belagavi","2533546",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-26,2021-06-01,NA
+29479,"Belagavi","2533548",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-25,2021-06-01,NA
+29482,"Belagavi","2535782",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-06-01,NA
+29483,"Belagavi","2535785",77,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-24,2021-06-01,NA
+29485,"Belagavi","2539081",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-06-01,NA
+29488,"Belagavi","2540449",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-26,2021-06-01,NA
+29874,"Belagavi","2477328",28,"Male","ILI","Fever","-",2021-05-22,2021-05-24,2021-06-02,NA
+29888,"Belagavi","2493599",62,"Male","SARI","Cough, Breathlessness","HTN",2021-05-20,2021-05-22,2021-06-02,NA
+29892,"Belagavi","2500550",56,"Male","SARI","Breathlessness","DM",2021-05-25,2021-05-26,2021-06-02,NA
+29894,"Belagavi","2504332",45,"Male","ILI","Cough","-",2021-05-23,2021-05-26,2021-06-02,NA
+29903,"Belagavi","2519825",50,"Female","SARI","Cough, Breathlessness","DM",2021-05-25,2021-06-01,2021-06-02,NA
+29927,"Belagavi","2560797",64,"Male","ILI","Fever, Cough","-",2021-05-24,2021-05-25,2021-06-02,NA
+29939,"Belagavi","2575863",29,"Female","ILI","Fever, Cough","-",2021-05-27,2021-05-31,2021-06-02,NA
+29940,"Belagavi","2575866",60,"Female","SARI","Fever, Breathlessness","-",2021-05-23,2021-06-01,2021-06-02,NA
+29975,"Belagavi","2631297",88,"Male","ILI","Cough","-",2021-05-29,2021-05-30,2021-06-02,NA
+30001,"Belagavi","2659179",93,"Male","SARI","Breathlessness","DM, HTN",2021-05-29,2021-05-31,2021-06-02,NA
+30003,"Belagavi","2660125",61,"Male","ILI","Fever","-",2021-05-31,2021-06-02,2021-06-02,NA
+30016,"Belagavi","2677632",40,"Male","SARI","Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-02,NA
+30017,"Belagavi","2677644",58,"Male","ILI","Fever","-",2021-05-31,2021-06-01,2021-06-02,NA
+30018,"Belagavi","2679769",63,"Female","ILI","Fever, Cough","-",2021-06-01,2021-06-01,2021-06-02,NA
+30019,"Belagavi","2679775",81,"Male","ILI","Fever","-",2021-06-01,2021-06-02,2021-06-02,NA
+30020,"Belagavi","2679784",81,"Male","SARI","Breathlessness","-",2021-06-01,2021-06-02,2021-06-02,NA
+30021,"Belagavi","2680869",75,"Female","ILI","Cough","-",2021-06-01,2021-06-01,2021-06-02,NA
+30298,"Belagavi","2339042",77,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-17,2021-06-03,NA
+30368,"Belagavi","2504344",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-25,2021-06-03,NA
+30426,"Belagavi","2574294",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-06-01,2021-06-03,NA
+30453,"Belagavi","2608096",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-01,2021-06-03,NA
+30461,"Belagavi","2621182",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-03,2021-06-03,NA
+30496,"Belagavi","2659161",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-03,NA
+30521,"Belagavi","2679770",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-03,NA
+30530,"Belagavi","2690564",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-02,2021-06-03,NA
+30531,"Belagavi","2690578",79,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-06-03,NA
+30532,"Belagavi","2690586",71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-01,2021-06-03,NA
+30774,"Belagavi","2531744",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-29,2021-06-04,NA
+30780,"Belagavi","2543040",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-29,2021-06-04,NA
+30781,"Belagavi","2544122",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-29,2021-06-04,NA
+30802,"Belagavi","2575847",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-06-02,2021-06-04,NA
+30820,"Belagavi","2602993",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-06-02,2021-06-04,NA
+30880,"Belagavi","2687342",52,"Female","ILI","Fever, cough","-",2021-05-28,2021-06-03,2021-06-04,NA
+30955,"Belagavi","1726973",57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-31,2021-06-05,NA
+31094,"Belagavi","2429583",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-06-05,NA
+31103,"Belagavi","2444326",83,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-21,2021-06-05,NA
+31106,"Belagavi","2459871",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-06-05,NA
+31109,"Belagavi","2470640",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-21,2021-06-05,NA
+31115,"Belagavi","2484463",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-23,2021-06-05,NA
+31125,"Belagavi","2504276",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-23,2021-06-05,NA
+31126,"Belagavi","2504334",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-06-05,NA
+31127,"Belagavi","2504368",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-27,2021-06-05,NA
+31139,"Belagavi","2527017",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-06-05,NA
+31143,"Belagavi","2544086",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-31,2021-06-05,NA
+31156,"Belagavi","2566557",62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-01,2021-06-05,NA
+31157,"Belagavi","2574295",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-06-05,NA
+31189,"Belagavi","2630691",64,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-01,2021-06-05,NA
+31190,"Belagavi","2630747",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-31,2021-06-05,NA
+31202,"Belagavi","2651465",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-01,2021-06-05,NA
+31237,"Belagavi","2687341",53,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-29,2021-06-02,2021-06-05,NA
+31247,"Belagavi","2700849",75,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-06-02,2021-06-04,2021-06-05,NA
+31440,"Belagavi","2440264",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-18,2021-06-06,NA
+31443,"Belagavi","2442246",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-22,2021-06-06,NA
+31465,"Belagavi","2507518",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-24,2021-06-06,NA
+31540,"Belagavi","2690508",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-01,2021-06-06,NA
+31548,"Belagavi","2695992",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-04,2021-06-06,NA
+31549,"Belagavi","2695999",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-04,2021-06-06,NA
+31553,"Belagavi","2698279",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-03,2021-06-04,2021-06-06,NA
+31554,"Belagavi","2698283",77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-03,2021-06-06,NA
+31558,"Belagavi","2700848",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-02,2021-06-06,NA
+31560,"Belagavi","2701558",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-02,2021-06-06,NA
+31562,"Belagavi","2706829",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-06,NA
+31563,"Belagavi","2706830",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-06,NA
+31567,"Belagavi","2713774",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-06,NA
+31568,"Belagavi","2713804",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-05,2021-06-06,NA
+31574,"Belagavi","2721877",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-05,2021-06-06,NA
+31807,"Belagavi","2603015",47,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-07,2021-06-07,NA
+31818,"Belagavi","2621142",54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-05,2021-06-07,NA
+31820,"Belagavi","2627605",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-06,2021-06-07,NA
+31836,"Belagavi","2645018",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-07,2021-06-07,NA
+31843,"Belagavi","2657983",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-05,2021-06-07,NA
+31855,"Belagavi","2667608",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-02,2021-06-07,NA
+31862,"Belagavi","2675023",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-28,2021-06-07,NA
+31867,"Belagavi","2678493",76,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-06,2021-06-07,NA
+31870,"Belagavi","2679777",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-06-04,2021-06-07,NA
+31879,"Belagavi","2695980",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-07,NA
+31880,"Belagavi","2695994",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-07,NA
+31885,"Belagavi","2701553",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-07,NA
+31904,"Belagavi","2725543",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-07,NA
+31908,"Belagavi","2729941",60,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-05,2021-06-07,"Died at her residence"
+31911,"Belagavi","2731994",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-04,2021-06-07,NA
+32014,"Belagavi","2645020",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-07,2021-06-08,NA
+32021,"Belagavi","2652358",91,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-07,2021-06-08,NA
+32051,"Belagavi","2701560",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-07,2021-06-08,NA
+32100,"Belagavi","2752212",85,"Female","ILI","Fever, Cough","HTN",2021-06-07,2021-06-07,2021-06-08,NA
+32129,"Belagavi","2425960",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-06-09,NA
+32228,"Belagavi","2704020",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-09,2021-06-09,NA
+32242,"Belagavi","2721950",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-04,2021-06-09,NA
+32259,"Belagavi","2735388",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-06,2021-06-09,NA
+32263,"Belagavi","2739495",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-05,2021-06-09,NA
+32282,"Belagavi","2758795",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-08,2021-06-09,NA
+32283,"Belagavi","2759211",30,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-07,2021-06-09,NA
+32290,"Belagavi","2767443",61,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-05,2021-06-09,NA
+32321,"Belagavi","2484462",64,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-06-09,2021-06-10,NA
+32325,"Belagavi","2505949",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-09,2021-06-10,NA
+32371,"Belagavi","2637335",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-09,2021-06-10,NA
+32403,"Belagavi","2684098",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-09,2021-06-10,NA
+32420,"Belagavi","2701562",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-09,2021-06-10,NA
+32423,"Belagavi","2712073",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-05,2021-06-10,NA
+32440,"Belagavi","2726129",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-03,2021-06-05,2021-06-10,NA
+32451,"Belagavi","2744454",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-08,2021-06-10,NA
+32459,"Belagavi","2752213",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-09,2021-06-10,NA
+32476,"Belagavi","2767388",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-05,2021-06-10,NA
+32477,"Belagavi","2767417",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-09,2021-06-10,NA
+32483,"Belagavi","2770451",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-06,2021-06-10,NA
+32573,"Belagavi","2676520",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-10,2021-06-11,NA
+32629,"Belagavi","2767437",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-05,2021-06-11,NA
+32633,"Belagavi","2771864",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-11,2021-06-11,NA
+32638,"Belagavi","2776352",46,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-10,2021-06-11,NA
+32648,"Belagavi","2788574",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-10,2021-06-11,NA
+32678,"Belagavi","2587812",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-30,2021-06-12,NA
+32685,"Belagavi","2610419",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-05-31,2021-06-12,NA
+32689,"Belagavi","2619608",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-29,2021-06-12,NA
+32694,"Belagavi","2627613",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-05-31,2021-06-12,NA
+32695,"Belagavi","2635692",71,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-29,2021-06-12,NA
+32699,"Belagavi","2642838",59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-03,2021-06-12,NA
+32704,"Belagavi","2659181",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-05-31,2021-06-12,NA
+32713,"Belagavi","2675025",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-01,2021-06-12,NA
+32720,"Belagavi","2680872",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-01,2021-06-12,NA
+32722,"Belagavi","2683915",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-02,2021-06-12,NA
+32834,"Belagavi","2661701",76,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-05-31,2021-06-13,NA
+32837,"Belagavi","2667629",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-02,2021-06-13,NA
+32840,"Belagavi","2678486",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-05-31,2021-06-13,NA
+32855,"Belagavi","2722880",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-06,2021-06-13,NA
+32857,"Belagavi","2727340",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-12,2021-06-13,NA
+32858,"Belagavi","2727348",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-12,2021-06-13,NA
+32885,"Belagavi","2759207",22,"Male","SARI","Fever, Cough, Breathlessness","TB",2021-06-06,2021-06-11,2021-06-13,NA
+32889,"Belagavi","2759611",26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-12,2021-06-13,NA
+32901,"Belagavi","2782458",94,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-06-09,2021-06-12,2021-06-13,NA
+32979,"Belagavi","2716291",78,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-14,2021-06-14,NA
+33007,"Belagavi","2769826",40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-14,2021-06-14,NA
+33019,"Belagavi","2788618",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-14,2021-06-14,NA
+33021,"Belagavi","2792611",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-12,2021-06-14,NA
+33025,"Belagavi","2799317",80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-11,2021-06-13,2021-06-14,NA
+33126,"Belagavi","2782004",68,"Female","SARI","Fever, cough, Breathlessness","DM",2021-06-13,2021-06-14,2021-06-15,NA
+33135,"Belagavi","2799296",80,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-06-10,2021-06-13,2021-06-15,NA
+33148,"Belagavi","2814935",59,"Male","SARI","Fever, cough, Breathlessness","-",2021-06-14,2021-06-14,2021-06-15,NA
+33206,"Belagavi","2715419",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-16,2021-06-16,NA
+33211,"Belagavi","2719095",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-10,2021-06-16,NA
+33229,"Belagavi","2747522",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-15,2021-06-16,NA
+33232,"Belagavi","2751795",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-12,2021-06-16,NA
+33234,"Belagavi","2752308",76,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-12,2021-06-16,NA
+33235,"Belagavi","2752960",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-11,2021-06-16,NA
+33245,"Belagavi","2763023",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-13,2021-06-16,NA
+33247,"Belagavi","2764038",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-11,2021-06-14,2021-06-16,NA
+33263,"Belagavi","2782454",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-11,2021-06-13,2021-06-16,NA
+33272,"Belagavi","2794630",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-10,2021-06-14,2021-06-16,NA
+33295,"Belagavi","100000358",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-12,2021-06-16,NA
+33296,"Belagavi","100000419",26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-06-12,2021-06-16,NA
+33299,"Belagavi","100000729",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-14,2021-06-16,NA
+33300,"Belagavi","100000782",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-11,2021-06-13,2021-06-16,NA
+33377,"Belagavi","2755995",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-16,2021-06-17,NA
+33378,"Belagavi","2756770",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-16,2021-06-17,NA
+33382,"Belagavi","2766555",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-16,2021-06-17,NA
+33396,"Belagavi","2782460",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-15,2021-06-17,NA
+33401,"Belagavi","2792614",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-16,2021-06-17,NA
+33434,"Belagavi","100000495",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-16,2021-06-17,NA
+33531,"Belagavi","2769829",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-17,2021-06-18,NA
+33536,"Belagavi","2780511",69,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-16,2021-06-17,2021-06-18,NA
+33558,"Belagavi","2805544",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-11,2021-06-17,2021-06-18,NA
+33570,"Belagavi","2815316",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-14,2021-06-18,NA
+33594,"Belagavi","100000349",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-15,2021-06-17,2021-06-18,NA
+33671,"Belagavi","2770471",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-18,2021-06-19,NA
+33681,"Belagavi","2780509",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-18,2021-06-19,NA
+33692,"Belagavi","2797548",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-18,2021-06-19,NA
+33706,"Belagavi","2808737",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-19,2021-06-19,NA
+33724,"Belagavi","2822508",26,"Female","ILI","Fever, Cough","-",2021-06-14,2021-06-15,2021-06-19,NA
+33751,"Belagavi","100000537",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-18,2021-06-19,NA
+33753,"Belagavi","100000746",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-19,2021-06-19,NA
+33762,"Belagavi","100001159",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-18,2021-06-19,NA
+33865,"Belagavi","2837783",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-17,2021-06-20,NA
+34025,"Belagavi","100001408",71,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-16,2021-06-20,2021-06-21,NA
+34095,"Belagavi","2788699",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-10,2021-06-21,2021-06-22,NA
+34100,"Belagavi","2797631",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-11,2021-06-21,2021-06-22,NA
+34130,"Belagavi","2834348",75,"Female","ILI","Fever, Cough","-",2021-06-14,2021-06-21,2021-06-22,NA
+34155,"Belagavi","100000614",60,"Male","ILI","Fever, Cough","DM",2021-06-01,2021-06-21,2021-06-22,NA
+34157,"Belagavi","100000682",65,"Female","ILI","Fever, Cough","DM, HTN",2021-06-06,2021-06-21,2021-06-22,NA
+34247,"Belagavi","2828379",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-16,2021-06-22,2021-06-23,NA
+34251,"Belagavi","2832192",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-22,2021-06-23,NA
+34282,"Belagavi","100001046",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-23,2021-06-23,NA
+34284,"Belagavi","100001304",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-05,2021-06-22,2021-06-23,NA
+34285,"Belagavi","100001470",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-19,2021-06-22,2021-06-23,NA
+34420,"Belagavi","2862427",50,"Female","SARI","Fever, Cough, Breathlesness","-",2021-05-02,2021-05-03,2021-06-24,NA
+34520,"Belagavi","2849964",43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-20,2021-06-25,2021-06-25,NA
+34540,"Belagavi","100001288",18,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-24,2021-06-25,NA
+34583,"Belagavi","2769063",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-25,2021-06-26,NA
+34605,"Belagavi","2820852",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-22,2021-06-26,NA
+34610,"Belagavi","2826338",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-25,2021-06-26,NA
+34618,"Belagavi","2838419",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-24,2021-06-26,NA
+34623,"Belagavi","2843571",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-17,2021-06-25,2021-06-26,NA
+34631,"Belagavi","2856822",74,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-21,2021-06-22,2021-06-26,NA
+34632,"Belagavi","2857072",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-22,2021-06-26,NA
+34635,"Belagavi","2857458",73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-26,2021-06-26,NA
+34644,"Belagavi","2865669",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-24,2021-06-25,2021-06-26,NA
+34655,"Belagavi","100001418",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-26,2021-06-26,NA
+34723,"Belagavi","2854246",65,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-20,2021-06-26,2021-06-27,NA
+34730,"Belagavi","2864055",70,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-23,2021-06-26,2021-06-27,NA
+34734,"Belagavi","2868091",83,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-25,2021-06-25,2021-06-27,NA
+34736,"Belagavi","2871134",35,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-25,2021-06-26,2021-06-27,NA
+34741,"Belagavi","100000516",56,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-11,2021-06-26,2021-06-27,NA
+34744,"Belagavi","100001438",44,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-01,2021-06-26,2021-06-27,NA
+34797,"Belagavi","2851857",72,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-25,2021-06-26,2021-06-28,NA
+34820,"Belagavi","2876043",64,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-25,2021-06-27,2021-06-28,NA
+34825,"Belagavi","2878332",72,"Female","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-25,2021-06-26,2021-06-28,NA
+34827,"Belagavi","2878486",53,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-27,2021-06-27,2021-06-28,NA
+34881,"Belagavi","2834892",58,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"17+AC0-06+AC0-2021"
+34889,"Belagavi","2843570",60,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021"
+34993,"Belagavi","2842359",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-30,2021-06-30,NA
+35019,"Belagavi","2873203",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-25,2021-06-27,2021-06-30,NA
+35093,"Belagavi","2844301",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-30,2021-07-01,NA
+35094,"Belagavi","2845530",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-19,2021-06-30,2021-07-01,NA
+35099,"Belagavi","2853171",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-30,2021-07-01,NA
+35103,"Belagavi","2864515",65,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2021-06-23,2021-07-01,2021-07-01,NA
+35110,"Belagavi","2874651",70,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2021-06-25,2021-07-01,2021-07-01,NA
+35123,"Belagavi","2883579",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-20,2021-07-01,2021-07-01,NA
+35184,"Belagavi","2856645",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-07-01,2021-07-02,NA
+35268,"Belagavi","2862820",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-23,2021-06-23,2021-07-03,NA
+35280,"Belagavi","2869752",80,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-25,2021-06-25,2021-07-03,NA
+35283,"Belagavi","2872155",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-24,2021-07-03,2021-07-03,NA
+35285,"Belagavi","2873439",78,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-29,2021-07-03,NA
+35286,"Belagavi","2874650",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-25,2021-07-02,2021-07-03,NA
+35302,"Belagavi","2892943",71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-30,2021-07-02,2021-07-03,NA
+35307,"Belagavi","100002203",85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-29,2021-07-02,2021-07-03,NA
+35339,"Belagavi","2866788",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-03,2021-07-04,NA
+35420,"Belagavi","2887674",86,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-04,2021-07-05,NA
+35422,"Belagavi","2889787",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-05,2021-07-05,NA
+35423,"Belagavi","2890204",77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-01,2021-07-05,2021-07-05,NA
+35459,"Belagavi","2830629",65,"Male","ILI","Fever, Cough","-",2021-06-16,2021-06-23,2021-07-06,NA
+35465,"Belagavi","2853518",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-07-05,2021-07-06,NA
+35470,"Belagavi","2863717",72,"Male","ILI","Fever, Cough","-",2021-06-24,2021-07-05,2021-07-06,NA
+35508,"Belagavi","2894663",78,"Male","ILI","Fever, Cough","-",2021-07-01,2021-07-04,2021-07-06,NA
+35521,"Belagavi","100001878",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-07-06,2021-07-06,NA
+35578,"Belagavi","2884224",67,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-06,2021-07-07,NA
+35593,"Belagavi","2902197",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-05,2021-07-06,2021-07-07,NA
+35594,"Belagavi","100000374",29,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-04,2021-07-06,2021-07-07,NA
+35597,"Belagavi","100001605",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-07-07,2021-07-07,NA
+35598,"Belagavi","100002034",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-07,2021-07-07,NA
+35644,"Belagavi","2887675",51,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-06-29,2021-07-07,2021-07-08,NA
+35662,"Belagavi","2905373",59,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-03,2021-07-06,2021-07-08,NA
+35693,"Belagavi","2877557",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-06-27,2021-07-09,NA
+35716,"Belagavi","2900136",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-03,2021-07-06,2021-07-09,NA
+35719,"Belagavi","2902202",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-08,2021-07-08,2021-07-09,NA
+35721,"Belagavi","2902398",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-05,2021-07-05,2021-07-09,NA
+35748,"Belagavi","2881556",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-25,2021-06-27,2021-07-10,NA
+35754,"Belagavi","2893616",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-02,2021-07-10,2021-07-10,NA
+35763,"Belagavi","2902607",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-07,2021-07-09,2021-07-10,NA
+35768,"Belagavi","2905109",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-06,2021-07-08,2021-07-10,NA
+35773,"Belagavi","2908672",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-08,2021-07-09,2021-07-10,NA
+35778,"Belagavi","100002455",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-09,2021-07-10,NA
+35794,"Belagavi","2856644",51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-07-11,2021-07-11,NA
+35802,"Belagavi","2883023",23,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-30,2021-07-11,"Died at his residence"
+35803,"Belagavi","2884721",23,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-06-26,2021-07-11,NA
+35817,"Belagavi","2897509",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-06,2021-07-10,2021-07-11,NA
+35831,"Belagavi","100001823",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-24,2021-07-11,NA
+35832,"Belagavi","100001859",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-21,2021-07-11,NA
+35867,"Belagavi","2887354",81,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-03,2021-07-11,2021-07-12,NA
+35882,"Belagavi","2904871",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-09,2021-07-11,2021-07-12,NA
+35918,"Belagavi","2890513",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-06-30,2021-07-13,NA
+35920,"Belagavi","2892948",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-12,2021-07-13,NA
+35958,"Belagavi","2887672",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-13,2021-07-14,NA
+35970,"Belagavi","2903494",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-07,2021-07-14,2021-07-14,NA
+35981,"Belagavi","2913467",49,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-11,2021-07-14,2021-07-14,NA
+35983,"Belagavi","2915040",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-07,2021-07-09,2021-07-14,NA
+35997,"Belagavi","2799319",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-07-14,2021-07-15,NA
+36003,"Belagavi","2871570",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-06-27,2021-07-15,NA
+36009,"Belagavi","2881304",32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-14,2021-07-15,NA
+36024,"Belagavi","2909358",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-09,2021-07-14,2021-07-15,NA
+36059,"Belagavi","2903126",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-10,2021-07-15,2021-07-16,NA
+36079,"Belagavi","100002213",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-16,2021-07-16,NA
+36086,"Belagavi","2848452",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-02,2021-07-17,NA
+36087,"Belagavi","2849968",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-19,2021-06-22,2021-07-17,NA
+36088,"Belagavi","2859935",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-30,2021-07-16,2021-07-17,NA
+36089,"Belagavi","2869250",43,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-06-25,2021-07-17,"Died at his residence"
+36113,"Belagavi","2916498",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-12,2021-07-13,2021-07-17,NA
+36118,"Belagavi","2920473",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-11,2021-07-14,2021-07-17,NA
+36187,"Belagavi","2920083",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-16,2021-07-19,2021-07-19,NA
+36190,"Belagavi","2921138",74,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-07-17,2021-07-19,"Died at his residence"
+36193,"Belagavi","2923414",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-17,2021-07-18,2021-07-19,NA
+36223,"Belagavi","2925860",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-17,2021-07-19,2021-07-20,NA
+36251,"Belagavi","2921930",41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-16,2021-07-20,2021-07-21,NA
+36287,"Belagavi","2921930",41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-16,2021-07-20,2021-07-21,NA
+36317,"Belagavi","2919345",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-15,2021-07-22,2021-07-23,NA
+36331,"Belagavi","2446399",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-07-24,NA
+36361,"Belagavi","1805721",27,"Female","ILI","Fever, Cough","DM",2021-05-03,2021-05-05,2021-07-26,NA
+36379,"Belagavi","2926993",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-17,2021-07-24,2021-07-26,NA
+36392,"Belagavi","2472995",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-27,2021-07-27,NA
+36416,"Belagavi","2932358",22,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-23,2021-07-26,2021-07-27,NA
+36417,"Belagavi","2932399",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-24,2021-07-25,2021-07-27,NA
+36458,"Belagavi","2928610",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-27,2021-07-28,2021-07-29,NA
+36499,"Belagavi","2935890",70,"Female","ILI","Fever, Cough","-",2021-07-24,2021-07-26,2021-07-30,NA
+36627,"Belagavi","2947311",35,"Male","ILI","Fever, Cough","-",NA,2021-07-31,2021-08-03,"Died at his residence"
+36649,"Belagavi","2934915",82,"Female","ILI","Fever, Cough","-",2021-07-26,2021-08-03,2021-08-04,NA
+36677,"Belagavi","2941325",75,"Female","ILI","Fever, Cough","-",2021-07-27,2021-08-04,2021-08-05,NA
+36678,"Belagavi","2942350",32,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-24,2021-08-05,NA
+36685,"Belagavi","2951246",46,"Male","ILI","Fever, Cough","-",2021-08-03,2021-08-04,2021-08-05,NA
+36744,"Belagavi","2948130",70,"Male","ILI","Fever, Cough","-",2021-08-01,2021-08-06,2021-08-07,NA
+36772,"Belagavi","2956998",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-06,2021-08-07,2021-08-08,NA
+36830,"Belagavi","2960173",56,"Male","ILI","Fever, Cough","-",2021-08-08,2021-08-10,2021-08-10,NA
+36847,"Belagavi","2940554",65,"Male","ILI","Fever, cough","-",2021-05-03,2021-05-17,2021-08-11,NA
+36848,"Belagavi","2940939",65,"Female","SARI","Fever, cough, Breathlessness","-",2021-08-04,2021-08-04,2021-08-11,NA
+36853,"Belagavi","2945882",75,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-07-27,2021-08-07,2021-08-11,NA
+36879,"Belagavi","2941305",78,"Male","ILI","Fever, Cough","-",2021-07-25,2021-07-26,2021-08-12,NA
+36888,"Belagavi","2955507",65,"Female","ILI","Fever, Cough","DM, HTN",2021-08-05,2021-08-10,2021-08-12,NA
+36910,"Belagavi","2949694",63,"Male","SARI","Fever, cough, breathlessness","-",2021-07-31,2021-08-01,2021-08-13,NA
+36915,"Belagavi","2964376",75,"Female","ILI","Fever, cough","-",2021-08-10,2021-08-11,2021-08-13,NA
+36946,"Belagavi","2928387",75,"Male","ILI","Fever, Cough","-",2021-07-23,2021-08-14,2021-08-15,NA
+37022,"Belagavi","100003334",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-24,2021-08-16,2021-08-17,NA
+37043,"Belagavi","100003541",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-05,2021-08-17,2021-08-18,NA
+37044,"Belagavi","100003551",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-07,2021-08-17,2021-08-18,NA
+37069,"Belagavi","2973589",76,"Male","ILI","Fever, cough","-",2021-08-17,2021-08-18,2021-08-19,NA
+37101,"Belagavi","2973446",84,"Male","ILI","Fever, Cough","-",2021-08-15,2021-08-19,2021-08-21,NA
+37135,"Belagavi","2966932",80,"Female","ILI","Fever, cough","-",2021-08-13,2021-08-15,2021-08-23,NA
+37239,"Belagavi","2975871",82,"Female","ILI","Fever, Cough","-",NA,2021-08-16,2021-08-30,"Died at her residence"
+37240,"Belagavi","2975874",49,"Male","ILI","Fever, Cough","-",2021-08-16,2021-08-26,2021-08-30,NA
+37241,"Belagavi","2976344",65,"Male","ILI","Fever, Cough","DM",NA,2021-08-29,2021-08-30,"Died at his residence"
+37258,"Belagavi","2977726",62,"Male","ILI","Fever, cough","DM",2021-08-28,2021-08-31,2021-08-31,NA
+37296,"Belagavi","2928449",50,"Female","ILI","Fever, cough","-",2021-08-28,2021-09-01,2021-09-02,NA
+37306,"Belagavi","2978950",63,"Male","ILI","Fever, cough","HTN",2021-08-20,2021-09-01,2021-09-02,NA
+37317,"Belagavi","2991524",60,"Male","ILI","Fever, cough","DM, HTN",2021-08-30,2021-08-31,2021-09-02,NA
+37415,"Belagavi","2992825",72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-31,2021-09-07,2021-09-10,NA
+37419,"Belagavi","2997362",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-04,2021-09-07,2021-09-10,NA
+37438,"Belagavi","2992826",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-31,2021-09-01,2021-09-12,NA
+37448,"Belagavi","3000085",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-08,2021-09-09,2021-09-12,NA
+37455,"Belagavi","2993640",75,"Male","ILI","Fever, cough, breathlessness","-",2021-09-02,2021-09-05,2021-09-13,NA
+37494,"Belagavi","2994642",67,"Male","ILI","Fever, Cough","-",2021-09-02,2021-09-10,2021-09-16,NA
+37496,"Belagavi","2997361",59,"Female","ILI","Fever, Cough","-",2021-09-04,2021-09-13,2021-09-16,NA
+37497,"Belagavi","2997389",60,"Female","ILI","Fever, Cough","-",2021-09-05,2021-09-14,2021-09-16,NA
+37499,"Belagavi","2998699",87,"Male","ILI","Fever, Cough","-",2021-09-06,2021-09-14,2021-09-16,NA
+37516,"Belagavi","3000767",36,"Male","ILI","Fever, cough","-",2021-09-06,2021-09-16,2021-09-17,NA
+37519,"Belagavi","3005043",60,"Male","ILI","Fever, cough","-",NA,2021-09-10,2021-09-17,"Died at his residence"
+37520,"Belagavi","3005435",67,"Male","ILI","Fever, cough","-",2021-09-14,2021-09-16,2021-09-17,NA
+37536,"Belagavi","2515835",76,"Male","ILI","Fever, cough","-",2021-05-21,2021-05-25,2021-09-19,NA
+37537,"Belagavi","2537262",56,"Female","ILI","Fever, cough","DM",2021-05-21,2021-05-22,2021-09-19,NA
+37547,"Belagavi","3005434",65,"Male","ILI","Fever, cough","-",2021-09-13,2021-09-19,2021-09-19,NA
+37551,"Belagavi","3007737",83,"Male","ILI","Fever, cough","-",2021-09-18,2021-09-19,2021-09-19,NA
+37552,"Belagavi","2544113",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-09-20,NA
+37559,"Belagavi","2975080",74,"Male","ILI","Fever, Cough","DM, HTN",2021-08-14,2021-09-08,2021-09-20,NA
+37562,"Belagavi","2987202",71,"Female","ILI","Fever, Cough","-",NA,2021-08-29,2021-09-20,"Died at her residence"
+37568,"Belagavi","3002876",59,"Male","ILI","Fever, Cough","-",2021-09-10,2021-09-20,2021-09-20,NA
+37576,"Belagavi","2552910",68,"Male","ILI","Fever, cough","-",2021-05-21,2021-05-23,2021-09-21,NA
+37588,"Belagavi","3001161",74,"Female","ILI","Fever, cough","-",2021-09-07,2021-09-13,2021-09-21,NA
+37589,"Belagavi","3001533",62,"Male","ILI","Fever, cough","-",2021-09-17,2021-09-19,2021-09-21,NA
+37597,"Belagavi","2537384",34,"Male","ILI","Fever, cough","-",2021-05-17,2021-05-22,2021-09-22,NA
+37632,"Belagavi","2502514",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-05-24,2021-09-24,NA
+37633,"Belagavi","2504321",61,"Male","ILI","Fever, Cough","HTN",NA,2021-05-25,2021-09-24,"Died at his residence"
+37639,"Belagavi","2941879",55,"Male","ILI","Fever, Cough","-",2021-07-27,2021-07-30,2021-09-24,NA
+37640,"Belagavi","2945155",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-22,2021-08-10,2021-09-24,NA
+37651,"Belagavi","3009778",68,"Female","ILI","Fever, Cough","HTN",2021-09-17,2021-09-21,2021-09-24,NA
+37660,"Belagavi","3005596",53,"Female","ILI","Fever, Cough","HTN",2021-09-11,2021-09-25,2021-09-25,NA
+37661,"Belagavi","3006311",65,"Female","ILI","Fever, Cough","DM, HTN",2021-09-21,2021-09-25,2021-09-25,NA
+37670,"Belagavi","3006226",65,"Male","ILI","Fever, Cough","-",2021-09-07,2021-09-22,2021-09-26,NA
+37695,"Belagavi","2537367",72,"Female","ILI","Fever, cough","DM, HTN",2021-05-18,2021-05-22,2021-09-28,NA
+37697,"Belagavi","2980397",64,"Male","ILI","Fever, cough","-",2021-08-23,2021-08-23,2021-09-28,NA
+37705,"Belagavi","3008185",34,"Female","ILI","Fever, cough","-",NA,2021-09-19,2021-09-28,"Died at her residence"
+37730,"Belagavi","3005433",40,"Male","ILI","Fever, Cough","-",2021-09-09,2021-09-13,2021-09-30,NA
+37743,"Belagavi","3004214",73,"Female","ILI","Fever, cough","-",NA,2021-09-20,2021-10-01,"Died at her residence"
+37789,"Belagavi","3016429",55,"M ","ILI ","Fever, cough ","- ",2021-09-27,2021-10-04,2021-10-05,NA
+37806,"Belagavi","3015314",65,"M ","ILI ","Fever, Cough ","DM, HTN ",2021-09-25,2021-09-26,2021-10-07,NA
+37807,"Belagavi","3015345",62,"F ","ILI ","Fever, Cough ","- ",2021-09-15,2021-09-28,2021-10-07,NA
+37830,"Belagavi","3017006",73,"M ","ILI ","Fever, cough ","- ",2021-09-29,2021-09-29,2021-10-10,NA
+37859,"Belagavi","3019224",55,"Male","ILI","Fever, Cough","-",NA,2021-10-02,2021-10-13,"Died at his residence"
+37963,"Belagavi","3024106",65,"Male","ILI","Fever, Cough","HTN",NA,2021-10-19,2021-10-25,"Died at his residence"
+38054,"Belagavi","2945512",72,"Male","ILI","Fever, Cough","HTN",2021-07-28,2021-08-02,2021-11-06,NA
+38062,"Belagavi","3030523",56,"Female","ILI","Fever, cough","DM, HTN",2021-11-02,2021-11-04,2021-11-07,NA
+38070,"Belagavi","3031775",48,"Male","ILI","Fever, Cough","HTN",2021-11-02,2021-11-04,2021-11-09,NA
+38098,"Belagavi","3027389",38,"Male","ILI","Fever, cough","-",2021-10-22,2021-10-23,2021-11-16,NA
+38130,"Belagavi","3032823",75,"Male","ILI","Cough","-",2021-11-12,2021-11-22,2021-11-23,NA
+38159,"Belagavi","3035476",32,"Female","ILI","Cough","-",2021-11-19,2021-11-21,2021-12-01,NA
+38161,"Belagavi","3035476",32,"Female","ILI","Cough","-",2021-11-19,2021-11-21,2021-12-01,NA
+38208,"Belagavi","3039436",73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-12-03,2021-12-07,2021-12-13,NA
+38216,"Belagavi","3039739",73,"Female","ILI","Fever","DM,HTN",2021-12-02,2021-12-07,2021-12-14,NA
+38250,"Belagavi","3041906",11,"Female","ILI","Fever, Cough","-",2021-12-09,2021-12-10,2021-12-24,NA
+38342,"Belagavi","3050078",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2022-01-02,2022-01-13,"Died at his residence"
+38455,"Belagavi","3134802",52,"Male","ILI","Fever","DM, HTN",2022-01-13,2022-01-19,2022-01-19,NA
+38518,"Belagavi","3419256",73,"Male","ILI","Cough","-",NA,2022-01-19,2022-01-21,"Died at his residence"
+38527,"Belagavi","3118752",85,"Male","ILI","Fever, Cough","DM, HTN, CHD",NA,2022-01-19,2022-01-22,"Died at his residence"
+38544,"Belagavi","3490810",71,"Female","ILI","Fever, Cough","-",2022-01-20,2022-01-22,2022-01-22,NA
+38545,"Belagavi","3490863",30,"Male","ILI","Fever","-",NA,2022-01-20,2022-01-22,"Died at his residence"
+38553,"Belagavi","3118752",85,"Male","ILI","Fever, Cough","DM, HTN, CHD",NA,2022-01-19,2022-01-22,"Died at his residence"
+38570,"Belagavi","3490810",71,"Female","ILI","Fever, Cough","-",2022-01-20,2022-01-22,2022-01-22,NA
+38571,"Belagavi","3490863",30,"Male","ILI","Fever","-",NA,2022-01-20,2022-01-22,"Died at his residence"
+38591,"Belagavi","3410111",49,"Male","ILI","Fever","-",NA,2022-01-24,2022-01-24,"Died at his residence"
+38638,"Belagavi","3540498",73,"Female","ILI","Fever","-",2022-01-22,2022-01-22,2022-01-25,NA
+38651,"Belagavi","3614562",66,"Male","ILI","Fever","-",NA,2022-01-21,2022-01-25,"Died at his residence"
+38658,"Belagavi","3659713",64,"Male","ILI","Fever","-",2022-01-23,2022-01-23,2022-01-25,NA
+38659,"Belagavi","3661477",36,"Male","ILI","Fever","-",2022-01-24,2022-01-24,2022-01-25,NA
+38690,"Belagavi","3540498",73,"Female","ILI","Fever","-",2022-01-22,2022-01-22,2022-01-25,NA
+38703,"Belagavi","3614562",66,"Male","ILI","Fever","-",NA,2022-01-21,2022-01-25,"Died at his residence"
+38710,"Belagavi","3659713",64,"Male","ILI","Fever","-",2022-01-23,2022-01-23,2022-01-25,NA
+38711,"Belagavi","3661477",36,"Male","ILI","Fever","-",2022-01-24,2022-01-24,2022-01-25,NA
+38720,"Belagavi","3467675",54,"Male","ILI","Fever","-",2022-01-15,2022-01-23,2022-01-27,NA
+38762,"Belagavi","3140174",32,"Female","ILI","Fever","DM",2022-01-09,2022-01-11,2022-01-28,NA
+38764,"Belagavi","3197437",50,"Female","ILI","Fever","-",2022-01-12,2022-01-13,2022-01-28,NA
+38809,"Belagavi","3772410",50,"Male","ILI","Fever","-",2022-01-27,2022-01-27,2022-01-28,NA
+38821,"Belagavi","3525947",36,"Male","ILI","Fever, cough","-",NA,2022-01-20,2022-01-29,"Died at his residence"
+38834,"Belagavi","3621423",60,"Male","ILI","Fever, cough","HTN",2022-01-23,2022-01-25,2022-01-29,NA
+38856,"Belagavi","3736613",58,"Female","ILI","Fever, cough","-",2022-01-26,2022-01-26,2022-01-29,NA
+38929,"Belagavi","3803540",65,"Male","SARI","Fever, Breathlessness","-",2022-01-24,2022-01-28,2022-01-30,NA
+38936,"Belagavi","3813509",53,"Female","SARI","Fever, Breathlessness","-",2022-01-28,2022-01-29,2022-01-30,NA
+38952,"Belagavi","3394865",78,"Male","ILI","Fever, Cough","DM,HTN",NA,2022-01-17,2022-01-31,"Died at his Residence"
+38953,"Belagavi","3480447",79,"Male","SARI","Fever, Cough,Breathlessness","-",2022-01-19,2022-01-24,2022-01-31,NA
+38954,"Belagavi","3490862",45,"Female","SARI","Fever, Cough,Breathlessness","HTN",2022-01-19,2022-01-24,2022-01-31,NA
+38957,"Belagavi","3589707",38,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-25,2022-01-28,2022-01-31,NA
+38961,"Belagavi","3638440",85,"Male","SARI","Fever, Cough,Breathlessness","-",2022-01-23,2022-01-24,2022-01-31,NA
+38991,"Belagavi","3824577",50,"Male","ILI","Fever","-",NA,NA,2022-01-31,"Died at his Residence"
+39061,"Belagavi","3873228",59,"Male","ILI","Fever, Cough","-",2022-01-28,2022-01-31,2022-02-01,NA
+39143,"Belagavi","3803539",65,"Female","ILI","Fever, Cough","DM, HTN",2022-01-27,2022-01-28,2022-02-04,NA
+39145,"Belagavi","3811639",85,"Female","ILI","Fever, Cough","-",NA,2022-01-01,2022-02-04,"Died at her residence"
+39172,"Belagavi","3924769",56,"Male","ILI","Fever, Cough","-",2022-02-02,2022-02-03,2022-02-04,NA
+39195,"Belagavi","3762405",70,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-29,2022-02-04,2022-02-05,NA
+39224,"Belagavi","3931322",54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-01-31,2022-02-05,2022-02-05,NA
+39269,"Belagavi","3944750",70,"Male","ILI","Fever, Cough","-",2022-02-06,2022-02-06,2022-02-06,NA
+39272,"Belagavi","3946037",81,"Male","ILI","Fever, Cough","-",NA,2022-02-06,2022-02-06,"Died at his residence"
+39318,"Belagavi","3944754",65,"Male","ILI","Fever","DM",2022-02-05,2022-02-05,2022-02-07,NA
+39319,"Belagavi","3944755",35,"Male","ILI","Fever","HTN",2022-02-04,2022-02-04,2022-02-07,NA
+39367,"Belagavi","3944754",65,"Male","ILI","Fever","DM",2022-02-05,2022-02-05,2022-02-07,NA
+39368,"Belagavi","3944755",35,"Male","ILI","Fever","HTN",2022-02-04,2022-02-04,2022-02-07,NA
+39446,"Belagavi","3936110",70,"Female","ILI","Fever","-",2022-02-01,2022-02-03,2022-02-10,NA
+39495,"Belagavi","3969862",77,"Male","SARI","Fever, cough, breathlessness","-",2022-01-28,2022-02-11,2022-02-11,NA
+39534,"Belagavi","3973670",86,"Female","ILI","Fever, Cough","-",2022-01-29,2022-02-12,2022-02-12,NA
+39566,"Belagavi","3826916",2,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-29,2022-02-04,2022-02-14,NA
+39573,"Belagavi","3944748",73,"Male","ILI","Fever","-",2022-02-05,2022-02-05,2022-02-14,NA
+39658,"Belagavi","3973998",70,"Male","ILI","Fever, Cough","-",2022-02-15,2022-02-17,2022-02-17,NA
+39680,"Belagavi","3984284",61,"Male","SARI","Fever, Cough,  Breathlessness","-",2022-02-12,2022-02-18,2022-02-18,NA
+39718,"Belagavi","3986614",65,"Male","ILI","Fever, Cough","-",2022-02-18,2022-02-18,2022-02-20,NA
+39822,"Belagavi","3987955",45,"Male","ILI","Fever, Cough","DM, HTN",2022-02-22,2022-02-25,2022-02-25,NA
+39895,"Belagavi","3993261",50,"M ","ILI ","Fever, Cough ","- ",2022-03-04,2022-03-06,2022-03-08,NA
+39908,"Belagavi","3993863",79,"Male","ILI","Fever","DM",2022-03-09,2022-03-10,2022-03-12,NA
+39948,"Belagavi","4004186",35,"Female","ILI","Cough","TB",2022-06-01,2022-06-12,2022-06-16,NA
+39951,"Belagavi","4011108",78,"Male","SARI","Cough,  Breathlessness","HTN",2022-06-17,2022-06-17,2022-06-19,NA
+39976,"Belagavi","4054212",89,"Male","SARI","Breathlessness","DM, HTN
+IHD CKD",2022-07-25,2022-07-27,2022-07-28,NA
+40012,"Belagavi","4076671",70,"Male","ILI","Fever","HTN",NA,2022-08-09,2022-08-11,"Died at his residence"

@@ -1,0 +1,927 @@
+###############################################################################
+## Title: Age Distribution of Deceased                                       ##
+## Input: mediadata/Master.csv                                               ##
+## Output: csv/DistrictAge/[i]-data.csv, Plots                               ##
+## Date Modified: 21st May 2024                                              ##
+###############################################################################
+
+# Set current working directory
+setwd("/opt/lampp/htdocs/covid19-data-portal/Deceased_Working/wwwdec/")
+
+#Libraries required
+library(readxl)
+library(plotly)
+library(ggplot2)
+library(ggrepel)
+library(ggpubr)
+library(viridis)
+library(htmlwidgets)
+library(plyr)
+
+#Reading data
+#data <- read.csv("C:/Users/srini/Dropbox/summertime/Files/FinalMASTERfileclean.csv", header = TRUE)
+data <- read.csv("mediadata/Master.csv")
+
+#Selecting and Formatting
+data <- data[data$District != "Others",]
+data <- data[data$District != "NA",]
+data <- data[!is.na(data$Sex),]
+data <- data[data$Sex != "NA",]
+data <- data[data$Sex != "TG",]
+data <- data[data$Sex != "O",]
+data <- data[data$Sex != "N",]
+
+names(data)[3] = "State P No"
+names(data)[4] = "Age In Years"
+names(data)[11] = "MB Date"
+
+data$`Age In Years` <- as.numeric(data$`Age In Years`)
+data$`Age In Years` <- round(data$`Age In Years`,2)
+data$`MB Date` <- as.Date(data$`MB Date`, format = "%Y-%m-%d")
+data$DOA <- as.Date(data$DOA, format = "%Y-%m-%d")
+data$DOD <- as.Date(data$DOD, format = "%Y-%m-%d")
+
+##################
+
+#Dataframes required
+wave_1 <- data[(data$`MB Date` <= "2020-11-01"),]
+wave_1 <- wave_1[!is.na(wave_1$`MB Date`),]
+wave_2 <- data[(data$`MB Date` > "2020-11-01") & (data$`MB Date` < "2021-08-01"),]
+wave_2 <- wave_2[!is.na(wave_2$`MB Date`),]
+wave_3 <- data[(data$`MB Date` >= "2021-08-01"),]
+wave_3 <- wave_3[!is.na(wave_3$`MB Date`),]
+
+#wave_1 <- subset(data,data$`MB Date` <= "2020-10-31")
+#middle_wave <- data[(data$`MB Date` > "2020-10-31") & (data$`MB Date` < "2021-02-01"),]
+#middle_wave <- middle_wave[!is.na(middle_wave$`MB Date`),]
+#wave_2 <- subset(data,data$`MB Date` >= "2021-02-01")
+wave_1_no_na <- wave_1[!is.na(wave_1$`Age In Years`),]
+wave_2_no_na <- wave_2[!is.na(wave_2$`Age In Years`),]
+wave_3_no_na <- wave_3[!is.na(wave_3$`Age In Years`),]
+conf_df <- data.frame(District = character(), mean = double(), variance = double(), sd = double())
+death_cnt_df <- data.frame(District = character(), wave_1 = integer(), middle_wave = integer(), wave_2 = integer())
+wave_conf_df <- data.frame(District = character(), w1_cnt = integer(), w3_cnt = integer(), w2_cnt = integer(), t_w1 = double(), t_w3 = double(), t_w2 = double(), mean_w1 = double(), variance_w1 = double(), sd_w1 = double(), mean_w3 = double(), variance_w3 = double(), sd_w3 = double(), mean_w2 = double(), variance_w2 = double(), sd_w2 = double())
+age_not_na_data <- data[!is.na(data$`Age In Years`),]
+ka_age_distr <- data.frame(age = integer(), fromData = integer(), actual = integer())
+
+#Lists required
+death_500 = c()
+death_1000 = c()
+death_more_than_1000 = c()
+cen = c(8.26,8.58,9.39,9.54,9.91,9.45,7.69,7.69,6.26,5.76,4.42,3.51,3.37,2.49,1.74,0.86,1.02)
+cen <- floor(100*cen/sum(cen))
+age_cnt = c()
+
+#Creating category column
+categ <- rep('Wave 1',length(wave_1$District))
+wave_1$categ <- categ
+categ <- rep('Wave 2',length(wave_2$District))
+wave_2$categ <- categ
+categ <- rep('Wave 3',length(wave_3$District))
+wave_3$categ <- categ
+
+#Creating combined dataframe
+df = rbind(wave_1,wave_2,wave_3)
+
+#For creating total population statistic
+cen = replace(cen,cen==0,1)
+
+Pop = c()
+for (i in 1:17){
+  A = rep(i*5-3.5,cen[i])
+  Pop <- c(Pop,A)
+}
+Cen = data.frame(`Age In Years` = Pop)
+
+#t-test
+sub_test_data <- df[df$categ == 'Wave 1' | df$categ == 'Wave 2',]
+sub_test_data <- sub_test_data[!is.na(sub_test_data$`Age In Years`),]
+#t.test(`Age In Years`~ categ,data=sub_test_data, mu=0, conf=.95, paired = FALSE)
+t.test(wave_1$`Age In Years`, wave_2$`Age In Years`)
+
+################
+
+##PLOTS
+#KARNATAKA AGE DISTRIBUTION PLOT
+Age = na.omit(as.numeric(as.character(subset(data,`Age In Years`!="")$`Age In Years`)))
+Age_df = data.frame(Age)
+names(Age_df) = c("Age In Years")
+names(Cen) = c("Age In Years")
+
+mean_val <- round(mean(data$`Age In Years`,na.rm = TRUE),2)
+
+for(i in seq(length(data$Sex)))
+{
+  if(data$Sex[i] == "M? " || data$Sex[i] == "M? E23")
+  {
+    data$Sex[i] = "Male"
+  }
+  
+  if(data$Sex[i] == "F? ")
+  {
+    data$Sex[i] = "Female"
+  }
+}
+
+g_0_1_p <- ggplot(data) + geom_histogram(aes(x=`Age In Years`, fill=Sex),binwidth = 5, position = "dodge") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Count") + geom_vline(xintercept = mean_val, color = "red") + ggtitle("Stacked age gender plot") + scale_fill_viridis_d(option = "plasma") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_0_1_h <- ggplot(data) + geom_histogram(aes(x=`Age In Years`, fill=Sex),binwidth = 5, position = "dodge") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Count") + geom_vline(xintercept = mean_val, color = "red") + ggtitle("Stacked age gender plot") + scale_fill_viridis_d(option = "plasma") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_0_p <- ggplot(Age_df, aes(x=`Age In Years`))+ geom_histogram(data = Age_df,aes(y=stat(count)/sum(count),fill="#37ffd9"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val, color = "yellow") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Karnataka age distribution of deceased") + scale_fill_viridis_d(option = "plasma") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28))
+g_0_h <- ggplot(Age_df, aes(x=`Age In Years`))+ geom_histogram(data = Age_df,aes(y=stat(count)/sum(count),fill="#37ffd9"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val, color = "yellow") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Karnataka age distribution of deceased") + scale_fill_viridis_d(option = "plasma") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+#g_0 <- ggplot(data, aes(x=`Age In Years`))+ geom_histogram(aes(y = ..count.., fill = as.factor(`Age In Years`)), bins = 20) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Number of deceased") + ggtitle("Karnataka age distribution of covid patients") + scale_fill_viridis_d(option = "plasma") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp_0 <- ggplotly(g_0_1_h, tooltip = c("x","y","xintercept"))
+name = paste("kaAge","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_0, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("kaAge","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_0_1_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+gp_0 <- ggplotly(g_0_h,tooltip = c("x","y","xintercept"))
+name = paste("kaAgePop","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_0, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("kaAgePop","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_0_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_0_p
+g_0_1_p
+
+####################
+
+##WAVE WISE ANALYSIS
+
+##Wave 1 age distribution and total population
+Age_w1 = na.omit(as.numeric(as.character(subset(wave_1,`Age In Years`!="")$`Age In Years`)))
+Age_df_w1 = data.frame(Age_w1)
+names(Age_df_w1) = c("Age In Years")
+
+mean_val_1 <- round(mean(wave_1$`Age In Years`,na.rm = TRUE),2)
+
+g_p <- ggplot(Age_df_w1, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w1,aes(y=stat(count)/sum(count),fill="#37ffd9"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_1, color = "yellow") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 1- age distribution of deceased") + scale_fill_viridis_d(option = "plasma") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28))
+g_h <- ggplot(Age_df_w1, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w1,aes(y=stat(count)/sum(count),fill="#37ffd9"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_1, color = "yellow") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 1- age distribution of deceased") + scale_fill_viridis_d(option = "plasma") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","xintercept"))
+name = paste("wave1AgePop","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("wave1AgePop","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_p
+
+##Wave 2 age distribution and total population
+Age_w2 = na.omit(as.numeric(as.character(subset(wave_2,`Age In Years`!="")$`Age In Years`)))
+Age_df_w2 = data.frame(Age_w2)
+names(Age_df_w2) = c("Age In Years")
+
+mean_val_2 <- round(mean(wave_2$`Age In Years`,na.rm = TRUE),2)
+
+g_p <- ggplot(Age_df_w2, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w2,aes(y=stat(count)/sum(count),fill="#f0e442"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_2, color = "blue") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 2- age distribution of deceased") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28))
+g_h <- ggplot(Age_df_w2, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w2,aes(y=stat(count)/sum(count),fill="#f0e442"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_2, color = "blue") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 2- age distribution of deceased") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp <- ggplotly(g_h,tooltip = c("x","y","xintercept"))
+name = paste("wave2AgePop","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("wave2AgePop","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_p
+
+##Wave 3 age distribution and total population
+Age_w3 = na.omit(as.numeric(as.character(subset(wave_3,`Age In Years`!="")$`Age In Years`)))
+Age_df_w3 = data.frame(Age_w3)
+names(Age_df_w3) = c("Age In Years")
+
+mean_val_3 <- round(mean(wave_3$`Age In Years`,na.rm = TRUE),2)
+
+g_p <- ggplot(Age_df_w3, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w3,aes(y=stat(count)/sum(count),fill="#f0e442"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_3, color = "blue") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 3- age distribution of deceased") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28))
+g_h <- ggplot(Age_df_w3, aes(x=`Age In Years`))+ geom_histogram(data = Age_df_w3,aes(y=stat(count)/sum(count),fill="#f0e442"), binwidth = 5) + geom_histogram(data = Cen,aes(y=stat(count)/sum(count)),binwidth = 5,fill="white",col="red",alpha=0.15) + geom_vline(xintercept = mean_val_3, color = "blue") + scale_x_continuous(name = "Age",breaks = seq(0,120,10),limits = c(0,120))+ scale_y_continuous(name ="Relative Frequency") + ggtitle("Wave 3- age distribution of deceased") + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp <- ggplotly(g_h,tooltip = c("x","y","xintercept"))
+name = paste("wave3AgePop","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("wave3AgePop","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_p
+
+################
+
+##Stacked age and gender distribution across waves
+
+#Wave 1
+start_age <- 0
+end_age <- 120
+increment <- 10
+
+wave_1_age_df <- data.frame(age_categ = character(), cnt = integer(), male_to_female_ratio = double())
+wave_1_gen_df <- data.frame(age_categ = character(), cnt = integer(), sex = character())
+age_categories <- c("0-10", "10-20", "20-30", "30-40", "40-50", "50-60", "60-70", "70-80", "80-90", "90-100", "100-110", "110-120")
+i <- 1
+
+while(start_age < end_age)
+{
+  subdata <- subset(wave_1, wave_1$`Age In Years` >= start_age & wave_1$`Age In Years` <= start_age+increment)
+  cnt <- as.numeric(nrow(subdata))
+  male <- as.numeric(nrow(subset(subdata, subdata$Sex == "Male")))
+  female <- as.numeric(nrow(subset(subdata, subdata$Sex == "Female")))
+  ratio <- round((male/female),3)
+  if(is.infinite(ratio))
+  {
+    ratio = "-"
+  }
+  if(is.nan(ratio))
+  {
+    ratio = "-"
+  }
+  new_row <- c(age_categories[i], cnt, ratio)
+  wave_1_age_df <- rbind(wave_1_age_df, new_row)
+  new_row <- c(age_categories[i], male, "Male")
+  wave_1_gen_df <- rbind(wave_1_gen_df, new_row)
+  new_row <- c(age_categories[i], female, "Female")
+  wave_1_gen_df <- rbind(wave_1_gen_df, new_row)
+  start_age <- start_age + increment
+  i <- i + 1
+}
+
+names(wave_1_age_df) <- c("age_categ", "count", "male_to_female_ratio")
+names(wave_1_gen_df) <- c("age_categ", "count", "sex")
+wave_1_gen_df$count <- as.numeric(wave_1_gen_df$count)
+max_limit <- as.numeric(max(wave_1_gen_df$count))
+t1 <- floor(max_limit / 1000) + 1
+new_max_limit <- t1 * 1000
+
+g_1_p <- ggplot(wave_1_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,1000), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 1") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28, angle = 45, hjust = 1),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_1_h <- ggplot(wave_1_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,1000), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 1") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18, angle = 45, hjust = 1))
+gp_1 <- ggplotly(g_1_h, tooltip = c("x","y"))
+name = paste("wave1AgeDistr","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_1, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("wave1AgeDistr","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_1_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_1_p
+
+#Wave 2
+start_age <- 0
+end_age <- 120
+increment <- 10
+
+wave_2_age_df <- data.frame(age_categ = character(), cnt = integer(), male_to_female_ratio = double())
+wave_2_gen_df <- data.frame(age_categ = character(), cnt = integer(), sex = character())
+i <- 1
+
+while(start_age < end_age)
+{
+  subdata <- subset(wave_2, wave_2$`Age In Years` >= start_age & wave_2$`Age In Years` <= start_age+increment)
+  cnt <- as.numeric(nrow(subdata))
+  male <- as.numeric(nrow(subset(subdata, subdata$Sex == "Male")))
+  female <- as.numeric(nrow(subset(subdata, subdata$Sex == "Female")))
+  ratio <- round((male/female),3)
+  if(is.infinite(ratio))
+  {
+    ratio = "-"
+  }
+  if(is.nan(ratio))
+  {
+    ratio = "-"
+  }
+  new_row <- c(age_categories[i], cnt, ratio)
+  wave_2_age_df <- rbind(wave_2_age_df, new_row)
+  new_row <- c(age_categories[i], male, "Male")
+  wave_2_gen_df <- rbind(wave_2_gen_df, new_row)
+  new_row <- c(age_categories[i], female, "Female")
+  wave_2_gen_df <- rbind(wave_2_gen_df, new_row)
+  start_age <- start_age + increment
+  i <- i + 1
+}
+
+names(wave_2_age_df) <- c("age_categ", "count", "male_to_female_ratio")
+names(wave_2_gen_df) <- c("age_categ", "count", "sex")
+wave_2_gen_df$count <- as.numeric(wave_2_gen_df$count)
+max_limit <- as.numeric(max(wave_2_gen_df$count))
+t1 <- floor(max_limit / 1000) + 1
+new_max_limit <- t1 * 1000
+
+g_2_p <- ggplot(wave_2_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,1000), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 2") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28, angle = 45, hjust = 1),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_2_h <- ggplot(wave_2_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,1000), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 2") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18, angle = 45, hjust = 1))
+gp_1 <- ggplotly(g_2_h, tooltip = c("x","y"))
+name = paste("wave2AgeDistr","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_1, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("wave2AgeDistr","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_2_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_2_p
+
+#Wave 3
+start_age <- 0
+end_age <- 120
+increment <- 10
+
+wave_3_age_df <- data.frame(age_categ = character(), cnt = integer(), male_to_female_ratio = double())
+wave_3_gen_df <- data.frame(age_categ = character(), cnt = integer(), sex = character())
+age_categories <- c("0-10", "10-20", "20-30", "30-40", "40-50", "50-60", "60-70", "70-80", "80-90", "90-100", "100-110", "110-120")
+i <- 1
+
+while(start_age < end_age)
+{
+  subdata <- subset(wave_3, wave_3$`Age In Years` >= start_age & wave_3$`Age In Years` <= start_age+increment)
+  cnt <- as.numeric(nrow(subdata))
+  male <- as.numeric(nrow(subset(subdata, subdata$Sex == "Male")))
+  female <- as.numeric(nrow(subset(subdata, subdata$Sex == "Female")))
+  ratio <- round((male/female),3)
+  if(is.infinite(ratio))
+  {
+    ratio = "-"
+  }
+  if(is.nan(ratio))
+  {
+    ratio = "-"
+  }
+  new_row <- c(age_categories[i], cnt, ratio)
+  wave_3_age_df <- rbind(wave_3_age_df, new_row)
+  new_row <- c(age_categories[i], male, "Male")
+  wave_3_gen_df <- rbind(wave_3_gen_df, new_row)
+  new_row <- c(age_categories[i], female, "Female")
+  wave_3_gen_df <- rbind(wave_3_gen_df, new_row)
+  start_age <- start_age + increment
+  i <- i + 1
+}
+
+names(wave_3_age_df) <- c("age_categ", "count", "male_to_female_ratio")
+names(wave_3_gen_df) <- c("age_categ", "count", "sex")
+wave_3_gen_df$count <- as.numeric(wave_3_gen_df$count)
+max_limit <- as.numeric(max(wave_3_gen_df$count))
+t1 <- floor(max_limit / 1000) + 1
+new_max_limit <- t1 * 1000
+
+g_3_p <- ggplot(wave_3_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,200), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 3") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28, angle = 45, hjust = 1),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_3_h <- ggplot(wave_3_gen_df, aes(x = factor(age_categ, levels = age_categories), y = count, fill = sex)) + geom_histogram(stat = "identity", position = "dodge") + scale_fill_viridis_d(option = "plasma") + scale_y_continuous(breaks = seq(0,new_max_limit,200), limits = c(0, new_max_limit)) + labs(x = "Age", y = "Number of deceased", title = "Wave 3") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18, angle = 45, hjust = 1))
+gp_1 <- ggplotly(g_3_h, tooltip = c("x","y"))
+name = paste("Wave3AgeDistr","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_1, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("Wave3AgeDistr","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_3_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_3_p
+#Combined dataframe for different age categories, across different waves with ratio of male to female
+final_ratio_df <- data.frame(age_categ = character(), w1_cnt = integer(), w1_male_to_female_ratio = double(), w1_male = integer(), w1_female = integer(), mw_cnt = integer(), mw_male_to_female_ratio = double(), mw_male = integer(), mw_female = integer(), w2_cnt = integer(), w2_male_to_female_ratio = double(), w2_male = integer(), w2_female = integer())
+
+male_w1 <- subset(wave_1_gen_df, wave_1_gen_df$sex == "Male")
+male_w2 <- subset(wave_2_gen_df, wave_2_gen_df$sex == "Male")
+male_w3 <- subset(wave_3_gen_df, wave_3_gen_df$sex == "Male")
+
+female_w1 <- subset(wave_1_gen_df, wave_1_gen_df$sex == "Female")
+female_w2 <- subset(wave_2_gen_df, wave_2_gen_df$sex == "Female")
+female_w3 <- subset(wave_3_gen_df, wave_3_gen_df$sex == "Female")
+
+for(i in seq(length(wave_1_age_df$age_categ)))
+{
+  new_entry <- c(wave_1_age_df$age_categ[i],wave_1_age_df$count[i],wave_1_age_df$male_to_female_ratio[i], male_w1$count[i], female_w1$count[i], wave_2_age_df$count[i],wave_2_age_df$male_to_female_ratio[i], male_w2$count[i], female_w2$count[i], wave_3_age_df$count[i],wave_3_age_df$male_to_female_ratio[i], male_w3$count[i], female_w3$count[i])
+  final_ratio_df <- rbind(final_ratio_df, new_entry)
+}
+
+names(final_ratio_df) <- c("age_categ", "w1_total_cnt", "w1_ratio", "w1_male_cnt", "w1_female_cnt", "w2_total_cnt", "w2_ratio", "w2_male_cnt", "w2_female_cnt", "w3_total_cnt", "w3_ratio", "w3_male_cnt", "w3_female_cnt")
+final_ratio_df_for_file <- final_ratio_df[,c(1,2,3,6,7,10,11)]
+
+############################
+
+##Stacked age and gender district wise
+
+unique_district_names <- unique(data$District)
+unique_district_names <- sort(unique_district_names)
+
+for(i in seq(length(unique_district_names)))
+{
+  sub_data <- subset(data, data$District == unique_district_names[i])
+  sub_data1 <- subset(age_not_na_data, age_not_na_data$District == unique_district_names[i])
+  temp_cnt <- length(sub_data1$`Age In Years`)
+  
+  #Writing district data
+  my_name_1 <- paste(i,"data",sep="-")
+  my_name_2 <- paste(my_name_1,"csv",sep=".")
+  my_name <- paste0("csv/DistrictAge/", my_name_2)
+  #write.csv(sub_data, file = my_name, row.names=FALSE)
+  
+  #Calculating death count in the district for further classification
+  if(temp_cnt <= 500)
+  {
+    death_500 <- append(death_500,unique_district_names[i])
+  }
+  else if(temp_cnt <= 1000)
+  {
+    death_1000 <- append(death_1000,unique_district_names[i])
+  }
+  else
+  {
+    death_more_than_1000 <- append(death_more_than_1000,unique_district_names[i])
+  }
+  
+  t1 <- round(mean(sub_data1$`Age In Years`),2)
+  t2 <- round(var(sub_data1$`Age In Years`),2)
+  t3 <- round(sqrt(t2),2)
+  temp <- data.frame(unique_district_names[i],t1,t2,t3)
+  conf_df <- rbind(conf_df,temp)
+  
+  #print(ggplot(sub_data, aes(x = `Age In Years`, fill = Sex)) + geom_histogram(bins = 10, position = "dodge") + ggtitle(title) + scale_fill_viridis_d(option = "plasma") + xlab("Age") + ylab("Count"))
+  g_p <- ggplot(sub_data, aes(x = `Age In Years`, fill = Sex)) + geom_histogram(bins = 10, position = "dodge") + scale_fill_viridis_d(option = "plasma") + labs(x = "Age", y = "Number of deceased", title = unique_district_names[i]) + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+  g_h <- ggplot(sub_data, aes(x = `Age In Years`, fill = Sex)) + geom_histogram(bins = 10, position = "dodge") + scale_fill_viridis_d(option = "plasma") + labs(x = "Age", y = "Number of deceased", title = unique_district_names[i]) + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+  gp <- ggplotly(g_h)
+  n1 <- paste(i,"age",sep="-")
+  name = paste(n1,"html", sep=".")
+  path <- file.path(getwd(), "graphs/newWaves/", name)
+  #htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+  name1 <- paste(n1,"png",sep=".")
+  name2 <- paste0("graphs/newWaves/", name1)
+  #ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+  g_p
+}
+
+################
+
+##Wave wise age distribution
+
+g_4_p <- ggplot(df, aes(x = `Age In Years`, fill = categ)) + geom_histogram(bins = 10, position = "dodge") + scale_fill_viridis_d(option = "plasma") + labs(x = "Age", y = "Number of deceased", title = "Age distribution across waves", fill = "Waves") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28),legend.justification = c("right", "top"),legend.position = c(.95, .95))
+g_4_h <- ggplot(df, aes(x = `Age In Years`, fill = categ)) + geom_histogram(bins = 10, position = "dodge") + scale_fill_viridis_d(option = "plasma") + labs(x = "Age", y = "Number of deceased", title = "Age distribution across waves", fill = "Waves") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp_2 <- ggplotly(g_4_h)
+name = paste("ageAcrossWaves","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_2, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageAcrossWaves","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_4_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_4_p
+
+##Total deaths across waves
+
+names <- c("Wave 1", "Wave 2", "Wave 3")
+deaths <- c(length(wave_1_no_na$District),length(wave_2_no_na$District),length(wave_3_no_na$District))
+df1 <- data.frame(names,deaths)
+
+g_5_p <- ggplot(df1) + geom_bar(aes(x = names,y = deaths, fill = as.factor(names)), stat = "identity", width = 0.5) + scale_fill_viridis_d(option = "plasma") + labs(x = "Wave", y = "Number of deceased", title = "Death count across waves", fill = "Waves") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28),legend.justification = c("right", "top"),legend.position = c(.99, .95))
+g_5_h <- ggplot(df1) + geom_bar(aes(x = names,y = deaths, fill = as.factor(names)), stat = "identity", width = 0.5) + scale_fill_viridis_d(option = "plasma") + labs(x = "Wave", y = "Number of deceased", title = "Death count across waves", fill = "Waves") + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18))
+gp_3 <- ggplotly(g_5_h, tooltip = c("x","y"))
+name = paste("totalDeathsAcrossWaves","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_3, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("totalDeathsAcrossWaves","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_5_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_5_p
+
+#######################
+
+##Confidence interval of age - district wise
+
+names(conf_df) <- c("District", "mean", "variance", "sd")
+
+for(i in seq(length(unique_district_names)))
+{
+  sub_data_w1 <- subset(wave_1_no_na, wave_1_no_na$District == unique_district_names[i])
+  sub_data_w2 <- subset(wave_2_no_na, wave_2_no_na$District == unique_district_names[i])
+  sub_data_w3 <- subset(wave_3_no_na, wave_3_no_na$District == unique_district_names[i])
+  
+  w1_n <- nrow(sub_data_w1)
+  w2_n <- nrow(sub_data_w2)
+  w3_n <- nrow(sub_data_w3)
+  t_w1 <- round(qt(0.05/2, w1_n-1, lower.tail = FALSE),2)
+  t_w2 <- round(qt(0.05/2, w2_n-1, lower.tail = FALSE),2)
+  t_w3 <- round(qt(0.05/2, w3_n-1, lower.tail = FALSE),2)
+  w1_t1 <- round(mean(sub_data_w1$`Age In Years`),2)
+  w1_t2 <- round(var(sub_data_w1$`Age In Years`),2)
+  w1_t3 <- round(sqrt(w1_t2),2)
+  w2_t1 <- round(mean(sub_data_w2$`Age In Years`),2)
+  w2_t2 <- round(var(sub_data_w2$`Age In Years`),2)
+  w2_t3 <- round(sqrt(w2_t2),2)
+  w3_t1 <- round(mean(sub_data_w3$`Age In Years`),2)
+  w3_t2 <- round(var(sub_data_w3$`Age In Years`),2)
+  w3_t3 <- round(sqrt(w3_t2),2)
+  
+  
+  temp <- data.frame(unique_district_names[i],w1_n,w2_n,w3_n,t_w1,t_w2,t_w3,w1_t1,w1_t2,w1_t3,w2_t1,w2_t2,w2_t3,w3_t1,w3_t2,w3_t3)
+  wave_conf_df <- rbind(wave_conf_df,temp)
+}
+
+names(wave_conf_df) <- c("District","w1_cnt","w2_cnt","w3_cnt","t_w1","t_w2","t_w3","mean_w1","var_w1","sd_w1","mean_w2","var_w2","sd_w2","mean_w3","var_w3","sd_w3")
+temp <- rep('h',length(wave_conf_df$w1_cnt))
+
+for(i in seq(length(wave_conf_df$w1_cnt)))
+{
+  if(wave_conf_df$mean_w1[i] >= wave_conf_df$mean_w2[i])
+  {
+    temp[i] <- 'h'
+  }
+  else
+  {
+    temp[i] <- 'l'
+  }
+}
+
+wave_conf_df$diff_mean <- temp
+
+g1 <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w1)) + geom_pointrange(aes(x = District, ymin = mean_w1 - sd_w1, ymax = mean_w1 + sd_w1, col=diff_mean)) + xlab("Districts") + ylab("Mean age of deceased - Wave 1") + ggtitle("Age of deceased WAVE 1") + theme_minimal() + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w1)) + coord_flip()
+g2 <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w2)) + geom_pointrange(aes(x = District, ymin = mean_w2 - sd_w2, ymax = mean_w2 + sd_w2, col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 2") + ggtitle("Age of deceased WAVE 2") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w2)) + coord_flip()
+g3 <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w3)) + geom_pointrange(aes(x = District, ymin = mean_w3 - sd_w3, ymax = mean_w3 + sd_w3, col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 3") + ggtitle("Age of deceased WAVE 3") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w3)) + coord_flip()
+
+##t-interval
+g1_t <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w1)) + geom_pointrange(aes(x = District, ymin = mean_w1 - ((t_w1*sd_w1)/round(sqrt(w1_cnt))), ymax = mean_w1 + ((t_w1*sd_w1)/round(sqrt(w1_cnt))), col=diff_mean)) + xlab("Districts") + ylab("Mean age of deceased - Wave 1") + ggtitle("Age of deceased WAVE 1") + theme_minimal() + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w1)) + coord_flip()
+g2_t <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w2)) + geom_pointrange(aes(x = District, ymin = mean_w2 - ((t_w2*sd_w2)/round(sqrt(w2_cnt))), ymax = mean_w2 + ((t_w2*sd_w2)/round(sqrt(w2_cnt))), col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 2") + ggtitle("Age of deceased WAVE 2") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w2)) + coord_flip()
+g3_t <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w3)) + geom_pointrange(aes(x = District, ymin = mean_w3 - ((t_w3*sd_w3)/round(sqrt(w3_cnt))), ymax = mean_w3 + ((t_w3*sd_w3)/round(sqrt(w3_cnt))), col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 3") + ggtitle("Age of deceased WAVE 3") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w3)) + coord_flip()
+
+g1_t_sub <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w1)) + geom_pointrange(aes(x = District, ymin = mean_w1 - ((t_w1*sd_w1)/round(sqrt(w1_cnt))), ymax = mean_w1 + ((t_w1*sd_w1)/round(sqrt(w1_cnt))), col=diff_mean)) + xlab("Districts") + ylab("Mean age of deceased - Wave 1") + ggtitle("Age of deceased WAVE 1 vs WAVE 2") + theme_minimal() + theme(legend.position = "none",plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w1)) + coord_flip()
+g2_t_sub <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w2)) + geom_pointrange(aes(x = District, ymin = mean_w2 - ((t_w2*sd_w2)/round(sqrt(w2_cnt))), ymax = mean_w2 + ((t_w2*sd_w2)/round(sqrt(w2_cnt))), col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 2") + ggtitle("Age of deceased WAVE 1 vs WAVE 2") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w2)) + coord_flip()
+g3_t_sub <- wave_conf_df %>% arrange(mean_w1) %>% mutate(District=factor(District, levels=District)) %>% ggplot(aes(x = District, y = mean_w3)) + geom_pointrange(aes(x = District, ymin = mean_w3 - ((t_w3*sd_w3)/round(sqrt(w3_cnt))), ymax = mean_w3 + ((t_w3*sd_w3)/round(sqrt(w3_cnt))), col=diff_mean)) + xlab("") + ylab("Mean age of deceased - Wave 3") + ggtitle("Age of deceased WAVE 1 vs WAVE 3") + theme_minimal() + theme(legend.position = "none", axis.text.y = element_blank(), axis.ticks.y = element_blank(),axis.text.x = element_text(size = 18),axis.title.x = element_text(color = "#D55E00", size=20),plot.title = element_text(color = "#D55E00", face="bold",size=24)) + geom_point(show.legend = FALSE) + ggrepel::geom_text_repel(data = wave_conf_df, aes(label = mean_w3)) + coord_flip()
+
+grp_g1 <- subplot(g1, g2, g3, nrows = 1)
+grp_g <- ggarrange(g1, g2, g3, ncol = 3, nrow = 1)
+gp_5 <- ggplotly(grp_g1)
+name <- paste("waveCI","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_5, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveCI","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=grp_g ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+grp_g1
+
+grp_g1_t <- subplot(g1_t_sub, g2_t_sub, g3_t_sub, nrows = 1)
+grp_g_t <- ggarrange(g1_t, g2_t, g3_t, ncol = 3, nrow = 1)
+gp_5_t <- ggplotly(grp_g1_t)
+name <- paste("waveCI-T","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_5_t, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveCI-T","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=grp_g_t ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+grp_g1_t
+##Saving the cI graphs separately
+
+gp_5 <- ggplotly(g1)
+name <- paste("waveCI-1","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_5, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveCI-1","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g1 ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+gp_5
+
+gp_5 <- ggplotly(g2)
+name <- paste("waveCI-2","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves", name)
+#htmlwidgets::saveWidget(gp_5, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveCI-2","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g2 ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+gp_5
+
+gp_5 <- ggplotly(g3)
+name <- paste("waveCI-3","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_5, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveCI-3","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g2 ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+gp_5
+
+##################
+
+##Box plot for age
+
+g_7_p <- ggplot(data,aes(x=reorder(District,`Age In Years`,na.rm = TRUE),y=`Age In Years`,col=District)) + geom_boxplot(outlier.colour = NULL) + scale_fill_viridis(discrete = TRUE) + ggtitle("District wise age box plot") + xlab("Age") + theme(legend.position = "none",axis.title = element_text(color = "#D55E00", size = 34),plot.title = element_text(color = "#D55E00",face = "bold", size = 40),axis.text.y = element_text(hjust = 1, size=28), axis.text.x = element_text(hjust = 1, angle = 45, size = 28)) + scale_y_continuous(name = "Districts",breaks = seq(0,120,10),limits = c(0,120))
+g_7_h <- ggplot(data,aes(x=reorder(District,`Age In Years`,na.rm = TRUE),y=`Age In Years`,col=District)) + geom_boxplot(outlier.colour = NULL) + scale_fill_viridis(discrete = TRUE) + ggtitle("District wise age box plot") + xlab("Age") + theme(legend.position = "none",axis.title = element_text(color = "#D55E00", size = 20),plot.title = element_text(color = "#D55E00",face = "bold", size = 24),axis.text.y = element_text(hjust = 1, size=18), axis.text.x = element_text(hjust = 1, angle = 45, size = 18)) + scale_y_continuous(name = "Districts",breaks = seq(0,120,10),limits = c(0,120))
+#ggsave(g_7,file="C:/Users/srini/Dropbox/summertime/Srinidi/samp_Graph.png",width = 20, height = 10.7, dpi = 300, units = "in")
+gp_6 <- ggplotly(g_7_h)
+name <- paste("ageBoxPlot","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_6, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageBoxPlot","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_7_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_7_p
+
+#######################
+
+##Box plot for wave and district wise deaths
+
+##Wave 1 district wise deaths
+wave_1_death = list()
+for(i in seq(length(unique_district_names)))
+{
+  temp <- subset(wave_1,wave_1$District == unique_district_names[i])
+  n <- nrow(temp)
+  wave_1_death <- append(wave_1_death,n)
+}
+
+##Wave 3 district wise deaths
+wave_3_death = list()
+for(i in seq(length(unique_district_names)))
+{
+  temp <- subset(wave_3,wave_3$District == unique_district_names[i])
+  n <- nrow(temp)
+  wave_3_death <- append(wave_3_death,n)
+}
+
+##Wave 2 district wise deaths
+wave_2_death = list()
+for(i in seq(length(unique_district_names)))
+{
+  temp <- subset(wave_2,wave_2$District == unique_district_names[i])
+  n <- nrow(temp)
+  wave_2_death <- append(wave_2_death,n)
+}
+
+##Populating dataframe
+for(i in seq(length(unique_district_names)))
+{
+  temp = c(unique_district_names[i],wave_1_death[i],wave_2_death[i],wave_3_death[i])
+  death_cnt_df <- rbind(death_cnt_df,temp)
+}
+
+names(death_cnt_df) <- c("District","wave1","wave2","wave3")
+
+##Scatter plot
+scatter_death_cnt <- death_cnt_df[death_cnt_df$District != "Bengaluru Urban",]
+g_8_p <- ggplot(scatter_death_cnt,aes(x=wave1,y=wave2,color=wave1 + wave2,size = wave1 + wave2,label = District)) + geom_point() + geom_abline(slope = 1, intercept = 0, color = "red") + scale_fill_viridis_d(option = "plasma") + labs(x = "Number of deceased in Wave 1", y = "Number of deceased in Wave 2", title = "Comparing number of deceased across waves district wise") + theme(legend.position = "none", plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28)) + geom_text_repel(aes(label = District),size=3.5)
+g_8_h <- ggplot(scatter_death_cnt,aes(x=wave1,y=wave2,color=wave1 + wave2,size = wave1 + wave2,label = District)) + geom_point() + geom_abline(slope = 1, intercept = 0, color = "red") + scale_fill_viridis_d(option = "plasma") + labs(x = "Number of deceased in Wave 1", y = "Number of deceased in Wave 2", title = "Comparing number of deceased across waves district wise") + theme(legend.position = "none", plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18)) + geom_text_repel(aes(label = District),size=3.5)
+gp_7 <- ggplotly(g_8_h, tooltip = c("x","y","size","label"))
+name <- paste("waveScatter12","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_7, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveScatter12","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_8_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_8_p
+
+g_8_p_2 <- ggplot(scatter_death_cnt,aes(x=wave1,y=wave3,color=wave1 + wave3,size = wave1 + wave3,label = District)) + geom_point() + geom_abline(slope = 1, intercept = 0, color = "red") + scale_fill_viridis_d(option = "plasma") + labs(x = "Number of deceased in Wave 1", y = "Number of deceased in Wave 3", title = "Comparing number of deceased across waves district wise") + theme(legend.position = "none", plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28), axis.text.x = element_text(size = 28)) + geom_text_repel(aes(label = District),size=3.5)
+g_8_h_2 <- ggplot(scatter_death_cnt,aes(x=wave1,y=wave3,color=wave1 + wave3,size = wave1 + wave3,label = District)) + geom_point() + geom_abline(slope = 1, intercept = 0, color = "red") + scale_fill_viridis_d(option = "plasma") + labs(x = "Number of deceased in Wave 1", y = "Number of deceased in Wave 3", title = "Comparing number of deceased across waves district wise") + theme(legend.position = "none", plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18), axis.text.x = element_text(size = 18)) + geom_text_repel(aes(label = District),size=3.5)
+gp_7_ <- ggplotly(g_8_h_2, tooltip = c("x","y","size","label"))
+name <- paste("waveScatter13","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_7_, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("waveScatter13","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_8_p_2 ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+g_8_p_2
+
+###############
+
+##Dataframes required
+
+death_500_df <- age_not_na_data[age_not_na_data$District %in% death_500,]
+death_1000_df <- age_not_na_data[age_not_na_data$District %in% death_1000,]
+death_more_than_1000_df <- age_not_na_data[age_not_na_data$District %in% death_more_than_1000,]
+
+##Scatterplot of Age distribution
+
+g_9_p <- ggplot(data,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_fill_viridis(discrete = TRUE) + ggtitle("Age Distribution District wise") + xlab("Age") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=28), axis.text.x = element_text(hjust = 1, angle = 45, size = 28), plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34)) + scale_y_continuous(name = "Number of deceased",breaks = seq(0,120,10),limits = c(0,120))
+g_9_h <- ggplot(data,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_fill_viridis(discrete = TRUE) + ggtitle("Age Distribution District wise") + xlab("Age") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=18), axis.text.x = element_text(hjust = 1, angle = 45, size = 18), plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20)) + scale_y_continuous(name = "Number of deceased",breaks = seq(0,120,10),limits = c(0,120))
+#legend.position = "none",
+gp_8 <- ggplotly(g_9_h)
+name <- paste("ageScatter","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_8, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageScatter","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_9_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_9_p
+
+##Scatterplot of Age distribution over districts with death count within 500
+
+g_10_p <- ggplot(death_500_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + ggtitle("Death count within 500") + xlab("Age") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=28), axis.text.x = element_text(hjust = 1, size = 28), plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34))
+g_10_h <- ggplot(death_500_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + ggtitle("Death count within 500") + xlab("Age") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=18), axis.text.x = element_text(hjust = 1, size = 18), plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20))
+gp_9 <- ggplotly(g_10_h)
+name <- paste("ageScatterCntLessThan500","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_9, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageScatterCntLessThan500","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_10_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_10_p
+
+##Scatterplot of Age distribution over districts with death count within 500 and 1000
+
+g_11_p <- ggplot(death_1000_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + theme_minimal() + ggtitle("Death count within 500 and 1000") + xlab("Age") + ylab("Number of deceased") + theme(axis.text.y = element_text(hjust = 1, size=28), axis.text.x = element_text(hjust = 1, size = 28), plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34))
+g_11_h <- ggplot(death_1000_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + theme_minimal() + ggtitle("Death count within 500 and 1000") + xlab("Age") + ylab("Number of deceased") + theme(axis.text.y = element_text(hjust = 1, size=18), axis.text.x = element_text(hjust = 1, size = 18), plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20))
+gp_10 <- ggplotly(g_11_h)
+name <- paste("ageScatterCnt500And1000","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_10, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageScatterCnt500And1000","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_11_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_11_p
+
+##Scatterplot of Age distribution over districts with death count above 1000
+
+g_12_p <- ggplot(death_more_than_1000_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + ggtitle("Death count above 1000") + xlab("Age") + ylab("Number of deceased") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=28), axis.text.x = element_text(hjust = 1, size = 28), plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34))
+g_12_h <- ggplot(death_more_than_1000_df,aes(x=`Age In Years`,color=District)) + geom_point(stat="count") + scale_color_viridis_d(option = "plasma") + ggtitle("Death count above 1000") + xlab("Age") + ylab("Number of deceased") + theme_minimal() + theme(axis.text.y = element_text(hjust = 1, size=18), axis.text.x = element_text(hjust = 1, size = 18), plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20))
+gp_11 <- ggplotly(g_12_h)
+name <- paste("ageScatterCntAbove1000","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp_11, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("ageScatterCntAbove1000","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_12_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_12_p
+
+#############
+
+##Creating dataframes
+
+df_less_than_45 <- data[data$`Age In Years` < 45,]
+df_45_to_60 <- data[data$`Age In Years` >= 45 & data$`Age In Years` < 60,]
+df_60_above <- data[data$`Age In Years` >= 60,]
+
+month_wise_1 <- as.data.frame(table(format(df_less_than_45$DOD,"%Y-%m")))
+month_wise_2 <- as.data.frame(table(format(df_45_to_60$DOD,"%Y-%m")))
+month_wise_3 <- as.data.frame(table(format(df_60_above$DOD,"%Y-%m")))
+
+##Renaming the column names
+
+names(month_wise_1) <- c("Month","Count")
+names(month_wise_2) <- c("Month","Count")
+names(month_wise_3) <- c("Month","Count")
+
+##Calculating percentage contribution
+
+month_wise_1$Percentage <- round(((month_wise_1$Count/sum(month_wise_1$Count))*100),2)
+month_wise_2$Percentage <- round(((month_wise_2$Count/sum(month_wise_2$Count))*100),2)
+month_wise_3$Percentage <- round(((month_wise_3$Count/sum(month_wise_3$Count))*100),2)
+
+##Creating new columns to add category feature
+
+categ <- rep("0 - 45",length(month_wise_1$Month))
+month_wise_1$categ <- categ
+categ <- rep("45 - 60",length(month_wise_2$Month))
+month_wise_2$categ <- categ
+categ <- rep("above 60",length(month_wise_3$Month))
+month_wise_3$categ <- categ
+
+##Combining the three dataframes
+
+df_new = rbind(month_wise_1, month_wise_2, month_wise_3)
+
+##Line Plots
+
+##All three count based plots together
+
+g_p <- ggplot(df_new,aes(x=Month,y=Count,group=categ,color=categ)) + geom_line(size=3) + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Number of deceased") + ggtitle("Deceased patients monthwise distribution") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(df_new,aes(x=Month,y=Count,group=categ,color=categ)) + geom_line(size=3) + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Number of deceased") + ggtitle("Deceased patients monthwise distribution") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("linePlotAgeDistr","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("linePlotAgeDistr","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+##All three percentage based plots together
+
+g_p <- ggplot(df_new,aes(x=Month,y=Percentage,group=categ,color=categ)) + geom_line(size=2) + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Percentage of deceased") + ggtitle("Deceased patients monthwise distribution") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(df_new,aes(x=Month,y=Percentage,group=categ,color=categ)) + geom_line(size=2) + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Percentage of deceased") + ggtitle("Deceased patients monthwise distribution") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("linePlotAgeDistrPercent","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("linePlotAgeDistrPercent","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+#######################
+
+##Monthly deceased percentage across Districts
+
+monthly_distr_perc_df <- data.frame(month = integer(), count = integer(), perc = double(), district = character())
+months_df <- as.data.frame(table(format(data$DOD, format = "%Y-%m")))
+months_df <- months_df[,-c(2)]
+months_df <- as.data.frame(months_df)
+names(months_df)[1] <- c("month")
+
+for(i in seq(length(unique_district_names)))
+{
+  subdata <- subset(data, data$District == unique_district_names[i])
+  temp_df <- as.data.frame(table(format(subdata$DOD, format = "%Y-%m")))
+  names(temp_df) <- c("month","count")
+  temp_df$perc <- round(((temp_df$count/sum(temp_df$count))*100),3)
+  temp_df <- as.data.frame(temp_df)
+  temp_df <- join(months_df, temp_df, by = "month")
+  temp_df$count[is.na(temp_df$count)] <- 0
+  temp_df$perc[is.na(temp_df$perc)] <- 0
+  temp_df$district <- unique_district_names[i]
+  monthly_distr_perc_df <- rbind(monthly_distr_perc_df, temp_df)
+}
+
+g_p <- ggplot(monthly_distr_perc_df,aes(x=month,y=perc,group=district,color=district)) + geom_line() + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Percentage of deceased") + ggtitle("Deceased patients monthwise distribution across districts") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(monthly_distr_perc_df,aes(x=month,y=perc,group=district,color=district)) + geom_line() + scale_color_viridis(discrete = TRUE) + geom_vline(xintercept = "2020-11") + geom_vline(xintercept = "2021-08") + xlab("Months") + ylab("Percentage of deceased") + ggtitle("Deceased patients monthwise distribution across districts") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("linePlotDistr","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("linePlotDistr","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+##District wise wave-1 and wave-2 plot peaks
+
+peaks_w1_df <- data.frame(month = character(), count = integer(), percentage = double(), district = character())
+wave_1_pop <- nrow(wave_1_no_na)
+
+for(i in seq(length(unique_district_names)))
+{
+  sub <- subset(wave_1_no_na, wave_1_no_na$District == unique_district_names[i])
+  temp_df <- as.data.frame(table(format(sub$DOD, format = "%Y-%m")))
+  names(temp_df) <- c("month","count")
+  temp_df$perc <- round(((temp_df$count/wave_1_pop)*100),3)
+  temp_df$district <- unique_district_names[i]
+  temp_df <- as.data.frame(temp_df)
+  t <- which(temp_df == max(temp_df[, 3]), arr.ind = T)
+  t_row <- temp_df[t[1],]
+  peaks_w1_df <- rbind(peaks_w1_df, t_row)
+}
+
+g_p <- ggplot(peaks_w1_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 1") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(peaks_w1_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 1") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("maxDeathPercDistrWave1","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("maxDeathPercDistrWave1","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+peaks_w2_df <- data.frame(month = character(), count = integer(), percentage = double(), district = character())
+wave_2_pop <- nrow(wave_2_no_na)
+
+for(i in seq(length(unique_district_names)))
+{
+  sub <- subset(wave_2_no_na, wave_2_no_na$District == unique_district_names[i])
+  temp_df <- as.data.frame(table(format(sub$DOD, format = "%Y-%m")))
+  names(temp_df) <- c("month","count")
+  temp_df$perc <- round(((temp_df$count/wave_2_pop)*100),3)
+  temp_df$district <- unique_district_names[i]
+  temp_df <- as.data.frame(temp_df)
+  t <- which(temp_df == max(temp_df[, 3]), arr.ind = T)
+  t_row <- temp_df[t[1],]
+  peaks_w2_df <- rbind(peaks_w2_df, t_row)
+}
+
+g_p <- ggplot(peaks_w2_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 2") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(peaks_w2_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 2") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("maxDeathPercDistrWave2","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("maxDeathPercDistrWave2","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+peaks_w3_df <- data.frame(month = character(), count = integer(), percentage = double(), district = character())
+wave_3_pop <- nrow(wave_3_no_na)
+
+for(i in seq(length(unique_district_names)))
+{
+  sub <- subset(wave_3_no_na, wave_3_no_na$District == unique_district_names[i])
+  temp_df <- as.data.frame(table(format(sub$DOD, format = "%Y-%m")))
+  names(temp_df) <- c("month","count")
+  temp_df$perc <- round(((temp_df$count/wave_3_pop)*100),3)
+  temp_df$district <- unique_district_names[i]
+  temp_df <- as.data.frame(temp_df)
+  t <- which(temp_df == max(temp_df[, 3]), arr.ind = T)
+  t_row <- temp_df[t[1],]
+  peaks_w3_df <- rbind(peaks_w3_df, t_row)
+}
+
+g_p <- ggplot(peaks_w3_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 3") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))
+g_h <- ggplot(peaks_w3_df,aes(x=month,y=perc,group=district,color=district)) + geom_point() + scale_color_viridis(discrete = TRUE) + xlab("Months") + ylab("Maximum percentage of deceased") + ggtitle("Deceased patients maximum percentage districtwise - Wave 3") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 24), axis.title = element_text(color = "#D55E00", size = 20), axis.text.y = element_text(size = 18),axis.text.x = element_text(angle=45,hjust = 1,size = 18))
+gp <- ggplotly(g_h, tooltip = c("x","y","group"))
+name = paste("maxDeathPercDistrWave3","html", sep=".")
+path <- file.path(getwd(), "graphs/newWaves/", name)
+#htmlwidgets::saveWidget(gp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste("maxDeathPercDistrWave3","png",sep=".")
+name2 <- paste0("graphs/newWaves/", name1)
+#ggsave(name2, plot=g_p ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+g_p
+
+####HAVE NOT DONE WRITING DATA INTO CSV FILES HERE
+####HAVE NOT DONE SAVING IMAGES HERE - ONLY VIEWING THEM

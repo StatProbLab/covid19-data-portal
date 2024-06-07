@@ -1,0 +1,519 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+10,"Vijayapura","257",69,"Male",NA,NA,NA,NA,NA,2020-04-14,NA
+14,"Vijayapura","374",42,"Male",NA,NA,NA,2020-04-10,2020-04-15,2020-04-18,NA
+28,"Vijayapura","640",62,"Female",NA,"Breathlessness","COPD & Bronchial Asthama",2020-05-03,2020-05-05,2020-05-05,NA
+37,"Vijayapura","1291",65,"Male",NA,NA,"DM, IHD & HTN",NA,2020-05-18,2020-05-19,"Brought dead"
+46,"Vijayapura","2011",82,"Male","Contact of P-1661","Fever & Cough & Breathlessness & Chest pain",NA,NA,2020-05-26,2020-05-27,NA
+56,"Vijayapura","5010",82,"Female",NA,"DM & HTN & IHD",NA,NA,NA,2020-06-06,"Died at residence"
+111,"Vijayapura","7835",66,"Female","SARI","Fever","DM & HTN & IHD",2020-06-15,2020-06-17,2020-06-18,NA
+226,"Vijayapura","10320",85,"Female","Under Investigation","Mild Distension Of Abd & Altered Sensorium","-",2020-06-22,2020-06-29,2020-06-30,NA
+237,"Vijayapura","14497",52,"Male","SARI","Breathlessness & Fever & Chills & Fatigue","DM, HTN, IHD",2020-06-22,2020-06-26,2020-06-30,NA
+273,"Vijayapura","12139",56,"Male","Contact under tracing","Breathlessness & Chest Pain","HTN, IHD",NA,2020-06-27,2020-07-03,"Brought dead"
+281,"Vijayapura","15571",65,"Female","ILI","Fever & Cough","-",2020-06-30,2020-07-02,2020-07-03,NA
+442,"Vijayapura","16985",35,"Male","ILI","Fever & Cough & Breathlessness","DM, HTN",2020-06-23,2020-07-06,2020-07-08,NA
+454,"Vijayapura","24790",80,"Male","ILI","Cough & Breathlessness","HTN",2020-07-04,2020-07-07,2020-07-08,NA
+586,"Vijayapura","31920",72,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-05,2020-07-09,2020-07-11,NA
+592,"Vijayapura","35195",65,"Male","ILI","Breathlessness & Cough","COPD",NA,2020-07-07,2020-07-11,"Brought dead"
+648,"Vijayapura","25349",26,"Male","Contact of P-14518","Fever & Cough & Breathlessness","-",2020-07-06,2020-07-09,2020-07-12,NA
+756,"Vijayapura","24773",55,"Male","SARI","Fever & Breathlessness",NA,2020-07-05,2020-07-11,2020-07-14,NA
+787,"Vijayapura","31880",50,"Male","SARI","Fever & Breathlessness","DM, HTN, IHD",2020-07-10,2020-07-10,2020-07-14,NA
+803,"Vijayapura","35216",68,"Male","SARI","Dry Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-13,2020-07-14,NA
+1060,"Vijayapura","35217",85,"Male","SARI","Fever & Cough & Breathlessness","COPD",2020-07-12,2020-07-17,2020-07-17,NA
+1285,"Vijayapura","57254",43,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-12,2020-07-12,2020-07-19,NA
+1328,"Vijayapura","51949",50,"Female","ILI","Cough","COPD",2020-07-14,2020-07-17,2020-07-20,NA
+1398,"Vijayapura","47258",70,"Female","SARI","Breathlessness","HTN, COPD",2020-07-14,2020-07-16,2020-07-21,NA
+1528,"Vijayapura","44809",45,"Male","Contact under tracing","-","HTN, CVA",2020-07-20,2020-07-22,2020-07-23,NA
+1826,"Vijayapura","86003",76,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-18,2020-07-22,2020-07-26,NA
+1911,"Vijayapura","94732",61,"Female","ILI","Breathlessness","HTN",2020-07-23,2020-07-25,2020-07-27,NA
+1912,"Vijayapura","94796",64,"Male","ILI","Breathlessness","-",2020-07-21,2020-07-24,2020-07-27,NA
+1987,"Vijayapura","89343",62,"Female","SARI","Breathlessness","-",2020-07-25,2020-07-26,2020-07-28,NA
+2090,"Vijayapura","100978",75,"Male","SARI","Cough & Breathlessness","DM, HTN, COPD",2020-07-25,2020-07-27,2020-07-29,NA
+2239,"Vijayapura","78796",64,"Female","SARI","Breathlessness","DM, HTN",2020-07-17,2020-07-20,2020-07-31,NA
+2240,"Vijayapura","81475",86,"Female","SARI","Cough & Breathlessness","HTN",2020-07-15,2020-07-20,2020-07-31,NA
+2241,"Vijayapura","82514",86,"Male","SARI","Cough & Breathlessness","HTN",2020-07-16,2020-07-20,2020-07-31,NA
+2267,"Vijayapura","113184",55,"Female","SARI","Cough & Breathlessness","DM, COPD",2020-07-25,2020-07-27,2020-07-31,NA
+2274,"Vijayapura","117287",65,"Female","SARI","Breathlessness","HTN, IHD",2020-07-23,2020-07-24,2020-07-31,NA
+2361,"Vijayapura","120201",90,"Male","SARI","Breathlessness","-",2020-07-28,2020-07-31,2020-08-01,NA
+2409,"Vijayapura","82513",61,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-14,2020-07-16,2020-08-02,NA
+2517,"Vijayapura","105949",74,"Female","SARI","Fever & Breathlessness","COPD",2020-07-27,2020-08-02,2020-08-03,NA
+2532,"Vijayapura","119371",70,"Male","Contact under","Fever & Breathlessness","HTN",2020-07-28,2020-07-31,2020-08-03,NA
+2654,"Vijayapura","133807",70,"Male","SARI","Breathlessness","-",2020-07-31,2020-08-03,2020-08-04,NA
+2838,"Vijayapura","140195",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-01,2020-08-05,2020-08-06,NA
+3063,"Vijayapura","167277",55,"Male","SARI","Breathlessness","DM, HTN",2020-08-06,2020-08-07,2020-08-08,NA
+3352,"Vijayapura","170277",82,"Male","SARI","Breathlessness","DM",2020-08-05,2020-08-09,2020-08-11,NA
+3368,"Vijayapura","186331",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-04,2020-08-09,2020-08-11,NA
+3405,"Vijayapura","109936",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-29,2020-08-09,2020-08-12,NA
+3417,"Vijayapura","134577",71,"Male","SARI","Fever, Breathlessness","-",2020-07-30,2020-08-06,2020-08-12,NA
+3516,"Vijayapura","102837",76,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-07-23,2020-07-29,2020-08-13,NA
+3533,"Vijayapura","149248",71,"Male","SARI","Breathlessness","DM, CVA",2020-08-06,2020-08-11,2020-08-13,NA
+3620,"Vijayapura","101156",65,"Male","SARI","Fever, Cough","HTN",2020-07-24,2020-07-27,2020-08-14,NA
+3674,"Vijayapura","188675",33,"Male","SARI","Breathlessness","-",2020-08-02,2020-08-10,2020-08-14,NA
+3723,"Vijayapura","100916",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, AKI",2020-07-22,2020-08-01,2020-08-15,NA
+3731,"Vijayapura","135717",66,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-23,2020-08-03,2020-08-15,NA
+3864,"Vijayapura","128462",68,"Female","ILI","Fever, Cough, Breathlessness","COPD",NA,2020-08-16,2020-08-16,NA
+3889,"Vijayapura","190480",65,"Female","SARI","Cough, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3908,"Vijayapura","209836",62,"Male","SARI","Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+3997,"Vijayapura","186329",59,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-08-07,2020-08-12,2020-08-17,NA
+4010,"Vijayapura","203861",65,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-12,2020-08-17,NA
+4017,"Vijayapura","209828",63,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-11,2020-08-12,2020-08-17,NA
+4123,"Vijayapura","186323",65,"Female","Contact under tracing","Cough, Breathlessness","-",2020-08-06,2020-08-09,2020-08-18,NA
+4142,"Vijayapura","209831",53,"Male","SARI","Cough, Breathlessness","-",2020-08-11,2020-08-15,2020-08-18,NA
+4151,"Vijayapura","216876",45,"Male","ILI","Cough","DM",2020-08-10,2020-08-15,2020-08-18,NA
+4196,"Vijayapura","35214",63,"Male","SARI","Breathlessness","-",2020-07-08,2020-07-28,2020-08-19,NA
+4290,"Vijayapura","239908",20,"Male","ILI","Fever, Cough","-",2020-08-17,2020-08-18,2020-08-19,NA
+4341,"Vijayapura","180159",62,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-05,2020-08-20,NA
+4356,"Vijayapura","203175",70,"Male","ILI","Fever, Breathlessness","DM",2020-08-10,2020-08-18,2020-08-20,NA
+4364,"Vijayapura","216851",64,"Male","ILI","Cough","HTN, COPD",2020-08-08,2020-08-11,2020-08-20,NA
+4365,"Vijayapura","216860",63,"Male","ILI","Cough, Breathlessness","HTN",2020-08-08,2020-08-12,2020-08-20,NA
+4423,"Vijayapura","88536",52,"Female","ILI","Cough, Breathlessness","-",2020-07-23,2020-07-24,2020-08-21,NA
+4425,"Vijayapura","122036",38,"Male","Contact under tracing","Breathlessness","HTN",2020-08-06,2020-08-12,2020-08-21,NA
+4426,"Vijayapura","128489",55,"Female","ILI","Cough, Breathlessness","-",2020-07-29,2020-08-02,2020-08-21,NA
+4471,"Vijayapura","233537",64,"Male","Contact under tracing","Fever","HTN",2020-08-13,2020-08-19,2020-08-21,NA
+4516,"Vijayapura","99305",62,"Male","SARI","Breathlessness","DM",2020-08-06,2020-08-06,2020-08-22,NA
+4517,"Vijayapura","100438",86,"Male","SARI","Breathlessness","COPD",2020-07-23,2020-07-24,2020-08-22,NA
+4559,"Vijayapura","239919",82,"Male","SARI","Cough, Breathlessness","DM",2020-08-19,2020-08-21,2020-08-22,NA
+4622,"Vijayapura","210579",49,"Male","SARI","Cough, Breathlessness","IHD",2020-08-11,2020-08-16,2020-08-23,NA
+4623,"Vijayapura","210587",56,"Male","ILI","Fever, Breathlessness","DM",2020-08-05,2020-08-18,2020-08-23,NA
+4637,"Vijayapura","239905",55,"Male","SARI","Breathlessness","DM",2020-08-14,2020-08-15,2020-08-23,NA
+4650,"Vijayapura","256390",60,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-08-18,2020-08-21,2020-08-23,NA
+4677,"Vijayapura","160043",77,"Female","ILI","Cough, Breathlessness","HTN",2020-08-01,2020-08-04,2020-08-24,NA
+4678,"Vijayapura","160048",35,"Male","Contact under tracing","Breathlessness","-",2020-08-01,2020-08-12,2020-08-24,NA
+4686,"Vijayapura","186322",82,"Male","ILI","Breathlessness","DM, COPD",2020-08-05,2020-08-18,2020-08-24,NA
+4691,"Vijayapura","203863",76,"Male","SARI","Breathlessness","DM",2020-08-10,2020-08-18,2020-08-24,NA
+4807,"Vijayapura","128864",54,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-24,2020-08-07,2020-08-25,NA
+4808,"Vijayapura","138864",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-15,2020-08-01,2020-08-25,NA
+4826,"Vijayapura","200041",70,"Male","SARI","Breathlessness","DM, IHD",2020-08-04,2020-08-24,2020-08-25,NA
+4913,"Vijayapura","265151",70,"Male","ILI","Breathlessness","-",2020-08-18,2020-08-23,2020-08-25,NA
+4961,"Vijayapura","173246",55,"Male","SARI","Breathlessness","-",2020-08-04,2020-08-24,2020-08-26,NA
+4980,"Vijayapura","227544",88,"Male","ILI","Cough","-",2020-08-11,2020-08-24,2020-08-26,NA
+4992,"Vijayapura","239907",72,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-25,2020-08-26,NA
+5088,"Vijayapura","126675",59,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-06,2020-08-14,2020-08-27,NA
+5089,"Vijayapura","135649",77,"Male","ILI","-","HTN",NA,2020-08-08,2020-08-27,"Died at his residence"
+5122,"Vijayapura","163940",48,"Male","Contact under tracing","-","DM, HTN, IHD",NA,2020-08-07,2020-08-27,"Brought dead"
+5228,"Vijayapura","99228",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-23,2020-07-23,2020-08-28,NA
+5250,"Vijayapura","218413",40,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-17,2020-08-28,NA
+5259,"Vijayapura","234085",35,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-05,2020-08-15,2020-08-28,NA
+5260,"Vijayapura","234087",55,"Male","ILI","Fever, Cough, Breathlessness","DM, COPD",2020-08-06,2020-08-14,2020-08-28,NA
+5364,"Vijayapura","80099",54,"Male","SARI","Cough, Breathlessness","DM",2020-07-23,2020-07-25,2020-08-29,NA
+5365,"Vijayapura","97464",70,"Female","SARI","Breathlessness","COPD",2020-07-29,2020-07-29,2020-08-29,NA
+5367,"Vijayapura","156880",57,"Male","ILI","Fever, Cough","-",2020-07-31,2020-08-04,2020-08-29,NA
+5374,"Vijayapura","211695",80,"Male","ILI","Breathlessness","DM",2020-08-11,2020-08-16,2020-08-29,NA
+5497,"Vijayapura","190473",84,"Male","ILI","Cough, Breathlessness","DM",2020-08-08,2020-08-26,2020-08-30,NA
+5498,"Vijayapura","190825",54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-03,2020-08-06,2020-08-30,NA
+5511,"Vijayapura","247427",60,"Male","SARI","Cough, Breathlessness","-",2020-08-14,2020-08-18,2020-08-30,NA
+5531,"Vijayapura","286468",65,"Male","SARI","Cough, Breathlessness","-",NA,2020-08-24,2020-08-30,"Died at his residence"
+5585,"Vijayapura","160051",48,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-28,2020-08-31,NA
+5588,"Vijayapura","188674",62,"Male","ILI","Breathlessness","DM, HTN",2020-08-09,2020-08-19,2020-08-31,NA
+5603,"Vijayapura","257161",67,"Male","ILI","Cough, Breathlessness","HTN, CVA",2020-08-12,2020-08-24,2020-08-31,NA
+5711,"Vijayapura","176806",70,"Male","ILI","Fever, Breathlessness","DM",2020-08-03,2020-08-07,2020-09-01,NA
+5732,"Vijayapura","227536",68,"Male","SARI","Fever, Cough","COPD",2020-08-05,2020-08-22,2020-09-01,NA
+5739,"Vijayapura","257831",46,"Female","ILI","-","HTN, CKD",2020-07-26,2020-08-25,2020-09-01,NA
+5767,"Vijayapura","296111",60,"Male","ILI","Fever, Cough","HTN",2020-08-18,2020-08-20,2020-09-01,NA
+5855,"Vijayapura","265468",78,"Male","Contact under tracing","Cough, Breathlessness","COPD",2020-08-19,2020-08-21,2020-09-02,NA
+5858,"Vijayapura","270342",42,"Female","ILI","Breathlessness","-",2020-08-20,2020-08-22,2020-09-02,NA
+5878,"Vijayapura","296106",70,"Male","ILI","Cough, Breathlessness","HTN",2020-08-26,2020-08-27,2020-09-02,NA
+5957,"Vijayapura","254901",60,"Male","ILI","Cough, Breathlessness","DM, HTN",2020-08-19,2020-08-21,2020-09-03,NA
+5985,"Vijayapura","308905",59,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-13,2020-08-23,2020-09-03,NA
+6057,"Vijayapura","225032",62,"Male","SARI","Cough, Breathlessness","COPD",2020-08-13,2020-08-29,2020-09-04,NA
+6074,"Vijayapura","286943",59,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-17,2020-08-30,2020-09-04,NA
+6228,"Vijayapura","345044",70,"Male","Contact under tracing","Cough","-",2020-08-28,2020-09-03,2020-09-05,NA
+6257,"Vijayapura","367395",67,"Male","SARI","Cough, Breathlessness","HTN",2020-08-28,2020-09-02,2020-09-05,NA
+6299,"Vijayapura","239414",50,"Female","ILI","Breathlessness","DVT",2020-08-15,2020-08-25,2020-09-06,NA
+6368,"Vijayapura","378518",68,"Male","ILI","Fever, Cough","-",2020-08-31,2020-09-03,2020-09-06,NA
+6442,"Vijayapura","271164",65,"Male","ILI","Cough, Breathlessness","-",2020-08-20,2020-08-21,2020-09-07,NA
+6475,"Vijayapura","335274",72,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, COPD",2020-08-31,2020-09-06,2020-09-07,NA
+6563,"Vijayapura","308595",65,"Male","ILI","Breathlessness","-",2020-08-22,2020-08-27,2020-09-08,NA
+6598,"Vijayapura","360693",67,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-08-22,2020-08-24,2020-09-08,NA
+6732,"Vijayapura","362261",84,"Male","ILI","Breathlessness","HTN",2020-09-01,2020-09-06,2020-09-09,NA
+6751,"Vijayapura","378925",61,"Male","ILI","Cough, Breathlessness","DM, HTN",2020-08-30,2020-08-31,2020-09-09,NA
+6805,"Vijayapura","219310",50,"Male","ILI","Cough, Breathlessness","-",2020-08-10,2020-08-14,2020-09-10,NA
+6810,"Vijayapura","255683",55,"Male","ILI","Cough, Breathlessness","DM, HTN",2020-08-14,2020-09-06,2020-09-10,NA
+6812,"Vijayapura","271733",65,"Male","ILI","Breathlessness","DM, HTN",2020-08-18,2020-08-26,2020-09-10,NA
+6941,"Vijayapura","309302",48,"Female","SARI","Breathlessness","HTN",2020-08-18,2020-08-29,2020-09-11,NA
+6942,"Vijayapura","309303",68,"Male","SARI","Cough, Breathlessness","-",2020-08-15,2020-08-21,2020-09-11,NA
+7083,"Vijayapura","309311",84,"Male","ILI","Breathlessness","HTN",2020-08-21,2020-08-26,2020-09-12,NA
+7173,"Vijayapura","315651",48,"Male","SARI","Cough, Breathlessness","-",2020-08-09,2020-08-24,2020-09-13,NA
+7272,"Vijayapura","333813",71,"Male","ILI","Fever, Cough","DM, HTN",2020-08-25,2020-08-31,2020-09-14,NA
+7276,"Vijayapura","359804",42,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-29,2020-09-01,2020-09-14,NA
+7405,"Vijayapura","360301",60,"Male","SARI","Fever, Breathlessness","-",2020-08-30,2020-09-04,2020-09-15,NA
+7406,"Vijayapura","360308",45,"Male","SARI","Fever, Breathlessness","COPD",2020-08-31,2020-09-01,2020-09-15,NA
+7507,"Vijayapura","429183",79,"Female","Contact under tracing","Breathlessness","-",2020-09-02,2020-09-07,2020-09-16,NA
+7511,"Vijayapura","433029",65,"Male","Contact under tracing","Breathlessness","-",2020-09-06,2020-09-08,2020-09-16,NA
+7550,"Vijayapura","326177",62,"Male","SARI","Cough, Breathlessness","-",2020-08-24,2020-09-08,2020-09-17,NA
+7573,"Vijayapura","407968",62,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-04,2020-09-08,2020-09-17,NA
+7735,"Vijayapura","438755",42,"Male","ILI","Cough, Breathlessness","DM",2020-09-08,2020-09-08,2020-09-18,NA
+7825,"Vijayapura","387352",60,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-01,2020-09-04,2020-09-19,NA
+7846,"Vijayapura","428177",36,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-04,2020-09-06,2020-09-19,NA
+7933,"Vijayapura","343677",64,"Male","SARI","Breathlessness","-",2020-09-09,2020-09-09,2020-09-20,NA
+8038,"Vijayapura","384030",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-09,2020-09-21,NA
+8067,"Vijayapura","467848",85,"Male","SARI","Cough, Breathlessness","HTN",2020-09-08,2020-09-09,2020-09-21,NA
+8154,"Vijayapura","291882",65,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-22,2020-09-10,2020-09-22,NA
+8155,"Vijayapura","296905",65,"Male","SARI","Breathlessness","-",2020-08-19,2020-09-10,2020-09-22,NA
+8238,"Vijayapura","343686",76,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-08-21,2020-09-05,2020-09-23,NA
+8239,"Vijayapura","422738",58,"Male","SARI","Breathlessness","DM, HTN",2020-09-10,2020-09-10,2020-09-23,NA
+8275,"Vijayapura","190475",72,"Male","SARI","Breathlessness","DM, HTN",2020-08-07,2020-09-10,2020-09-24,NA
+8287,"Vijayapura","442948",62,"Female","SARI","Breathlessness","-",2020-09-09,2020-09-09,2020-09-24,NA
+8348,"Vijayapura","351731",65,"Male","ILI","Fever, Cough","-",2020-09-01,2020-09-13,2020-09-25,NA
+8357,"Vijayapura","414781",46,"Female","SARI","Breathlessness","DM",2020-09-06,2020-09-14,2020-09-25,NA
+8427,"Vijayapura","378556",45,"Male","SARI","Breathlessness","-",2020-08-29,2020-09-16,2020-09-26,NA
+8494,"Vijayapura","545939",34,"Male","Contact under tracing","-","-",NA,2020-08-17,2020-09-26,"Brought dead"
+8532,"Vijayapura","508225",78,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-10,2020-09-23,2020-09-27,NA
+8556,"Vijayapura","542591",70,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-20,2020-09-27,"Died at his residence"
+8561,"Vijayapura","546222",40,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-24,2020-09-27,"Died at his residence"
+8594,"Vijayapura","438764",36,"Male","Contact under tracing","Cough, Breathlessness","DM, COPD",2020-09-05,2020-09-18,2020-09-28,NA
+8709,"Vijayapura","467851",55,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-20,2020-09-29,"Brought dead"
+8847,"Vijayapura","575316",63,"Male","SARI","Cough, Breathlessness","-",2020-09-11,2020-09-11,2020-09-30,NA
+8900,"Vijayapura","432302",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-17,2020-09-25,2020-10-01,NA
+9060,"Vijayapura","565385",87,"Female","ILI","Breathlessness","DM, HTN",2020-09-23,2020-09-26,2020-10-02,NA
+9135,"Vijayapura","492203",65,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-09-20,2020-09-28,2020-10-03,NA
+9279,"Vijayapura","617146",77,"Female","Contact under tracing","Fever","DM",2020-09-23,2020-09-28,2020-10-04,NA
+9298,"Vijayapura","494834",53,"Male","SARI","Breathlessness","DM",2020-09-14,2020-09-29,2020-10-05,NA
+9383,"Vijayapura","504164",75,"Male","ILI","Fever, Cough","HTN",2020-09-25,2020-10-01,2020-10-06,NA
+9503,"Vijayapura","564169",75,"Male","ILI","Cough, Breathlessness","HTN",2020-09-26,2020-09-28,2020-10-07,NA
+9614,"Vijayapura","562783",59,"Male","SARI","Breathlessness","DM, HTN",2020-09-23,2020-10-02,2020-10-08,NA
+9738,"Vijayapura","615956",75,"Male","ILI","Breathlessness","DM",2020-09-22,2020-10-02,2020-10-09,NA
+9803,"Vijayapura","485076",53,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-10-02,2020-10-10,NA
+9902,"Vijayapura","561374",70,"Male","ILI","Breathlessness","DM",2020-09-30,2020-10-04,2020-10-11,NA
+10000,"Vijayapura","640648",46,"Female","ILI","Cough, Breathlessness","-",2020-09-28,2020-10-05,2020-10-12,NA
+10061,"Vijayapura","615952",65,"Male","SARI","Breathlessness","DM",2020-09-27,2020-10-05,2020-10-13,NA
+10137,"Vijayapura","547268",65,"Male","ILI","Cough, Breathlessness","-",2020-09-20,2020-10-06,2020-10-14,NA
+10156,"Vijayapura","660389",58,"Male","ILI","Fever, Cough, Breathlessness","HTN",2020-10-03,2020-10-03,2020-10-14,NA
+10210,"Vijayapura","565382",80,"Male","ILI","Breathlessness","DM",2020-09-22,2020-10-07,2020-10-15,NA
+10261,"Vijayapura","706133",32,"Female","ILI","Breathlessness","DM",2020-10-08,2020-10-11,2020-10-15,NA
+10295,"Vijayapura","575324",76,"Male","ILI","Fever, Cough","DM, HTN",2020-09-19,2020-10-12,2020-10-16,NA
+10338,"Vijayapura","714479",75,"Female","Contact under tracing","Breathlessness","-",2020-10-09,2020-10-12,2020-10-16,NA
+10413,"Vijayapura","721493",65,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-10-05,2020-10-06,2020-10-17,NA
+10448,"Vijayapura","683028",49,"Female","ILI","Fever, Cough","-",2020-10-06,2020-10-08,2020-10-18,NA
+10513,"Vijayapura","721492",60,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-10-05,2020-10-08,2020-10-19,NA
+10569,"Vijayapura","711991",65,"Female","ILI","Fever, Breathlessness","-",2020-10-04,2020-10-12,2020-10-20,NA
+10629,"Vijayapura","684445",65,"Female","SARI","Breathlessness","DM",2020-10-05,2020-10-11,2020-10-21,NA
+10725,"Vijayapura","711990",51,"Male","ILI","Breathlessness","DM",2020-10-04,2020-10-15,2020-10-22,NA
+10779,"Vijayapura","615961",81,"Male","ILI","Cough, Breathlessness","HTN",2020-09-29,2020-10-17,2020-10-23,NA
+10862,"Vijayapura","773344",73,"Male","ILI","Breathlessness","COPD",2020-10-15,2020-10-20,2020-10-24,NA
+10984,"Vijayapura","794480",65,"Male","ILI","Breathlessness","HTN",2020-10-17,2020-10-21,2020-10-27,NA
+11003,"Vijayapura","658968",57,"Male","ILI","Breathlessness","-",2020-10-01,2020-10-23,2020-10-28,NA
+11065,"Vijayapura","761308",42,"Male","SARI","Cough, Breathlessness","DM, TB",2020-09-25,2020-09-29,2020-10-29,NA
+11151,"Vijayapura","764708",60,"Male","ILI","Breathlessness","HTN",2020-10-13,2020-10-24,2020-10-31,NA
+11177,"Vijayapura","502511",60,"Male","SARI","Cough, Breathlessness","DM",2020-09-15,2020-10-28,2020-11-01,NA
+11322,"Vijayapura","751820",56,"Male","ILI","Cough, Breathlessness","HTN",2020-10-13,2020-10-30,2020-11-06,NA
+11445,"Vijayapura","821913",51,"Male","SARI","Cough, Breathlessness","DM",2020-10-24,2020-11-01,2020-11-11,NA
+11520,"Vijayapura","835535",52,"Male","ILI","Cough","DM",2020-10-29,2020-11-03,2020-11-15,NA
+11591,"Vijayapura","829680",50,"Male","ILI","Cough, Breathlessness","-",2020-10-24,2020-11-06,2020-11-19,NA
+11665,"Vijayapura","839589",67,"Male","SARI","Cough, Breathlessness","DM",2020-11-08,2020-11-09,2020-11-23,NA
+11801,"Vijayapura","860367",80,"Male","SARI","Breathlessness","DM, HTN",2020-11-05,2020-11-12,2020-12-02,NA
+11911,"Vijayapura","875807",52,"Male","SARI","Cough, Breathlessness","DM",2020-11-13,2020-11-17,2020-12-11,NA
+12003,"Vijayapura","911969",58,"Male","SARI","Breathlessness","-",2020-12-05,2020-12-20,2020-12-20,NA
+12081,"Vijayapura","902124",40,"Male","-","Breathlessness","DM",2020-11-28,2020-12-01,2020-12-31,NA
+12107,"Vijayapura","927107",55,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-12-22,2021-01-02,2021-01-04,NA
+12427,"Vijayapura","972912",80,"Female","SARI","Cough, Breathlessness","HTN",2021-03-09,2021-03-18,2021-03-20,NA
+12627,"Vijayapura","985393",70,"Female","SARI","Cough, breathlessness","HTN",2021-03-19,2021-03-26,2021-04-05,NA
+12730,"Vijayapura","1047808",38,"Male","ILI","Fever","-",2021-04-05,2021-04-06,2021-04-07,NA
+12738,"Vijayapura","999272",45,"Female","SARI","Cough, Breathlessness","HTN",2021-03-25,2021-03-25,2021-04-08,NA
+12850,"Vijayapura","993956",80,"Male","SARI","Breathlessness","CAD",2021-03-21,2021-03-30,2021-04-11,NA
+12942,"Vijayapura","986033",80,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-03-19,2021-03-31,2021-04-13,NA
+13048,"Vijayapura","993142",57,"Male","ILI","Fever","DM",2021-03-23,2021-04-03,2021-04-15,NA
+13271,"Vijayapura","1022788",40,"Female","SARI","Breathlessness","-",2021-03-31,2021-04-04,2021-04-18,NA
+13273,"Vijayapura","1035837",52,"Male","ILI","Fever, Cough","-",2021-04-03,2021-04-05,2021-04-18,NA
+13355,"Vijayapura","1012328",68,"Male","SARI","Breathlessness","-",2021-03-29,2021-04-08,2021-04-19,NA
+13660,"Vijayapura","1071927",72,"Female","SARI","Breathlessness","DM, HTN",2021-04-07,2021-04-12,2021-04-21,NA
+13683,"Vijayapura","1109896",62,"Female","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-16,2021-04-21,NA
+13769,"Vijayapura","1055587",40,"Female","SARI","Breathlessness","DM, HTN",2021-04-06,2021-04-15,2021-04-22,NA
+13916,"Vijayapura","1072422",66,"Male","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-15,2021-04-23,NA
+13974,"Vijayapura","1143931",57,"Male","SARI","Cough, Breathlessness","DM",2021-04-12,2021-04-13,2021-04-23,NA
+14129,"Vijayapura","1116515",85,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-17,2021-04-24,NA
+14159,"Vijayapura","1145497",65,"Female","SARI","Breathlessness","DM",2021-04-16,2021-04-17,2021-04-24,NA
+14330,"Vijayapura","1162359",54,"Female","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-25,NA
+14331,"Vijayapura","1163915",35,"Male","SARI","Cough, Breathlessness","-",2021-04-15,2021-04-19,2021-04-25,NA
+14631,"Vijayapura","1018048",58,"Male","SARI","Cough, Breathlessness","-",2021-03-30,2021-04-20,2021-04-27,NA
+14644,"Vijayapura","1130845",71,"Male","ILI","Cough","DM, HTN",2021-04-14,2021-04-20,2021-04-27,NA
+14658,"Vijayapura","1161240",54,"Female","ILI","Fever","HTN",2021-04-13,2021-04-20,2021-04-27,NA
+14676,"Vijayapura","1198740",73,"Male","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-18,2021-04-27,NA
+14832,"Vijayapura","1143930",49,"Male","SARI","Breathlessness","-",2021-04-12,2021-04-21,2021-04-28,NA
+14859,"Vijayapura","1198775",55,"Female","SARI","Cough, Breathlessness","DM",2021-04-14,2021-04-22,2021-04-28,NA
+15073,"Vijayapura","1146379",68,"Male","SARI","Cough, Breathlessness","-",2021-04-14,2021-04-17,2021-04-29,NA
+15116,"Vijayapura","1218060",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-29,NA
+15127,"Vijayapura","1250624",47,"Female","SARI","Breathlessness","-",2021-04-20,2021-04-22,2021-04-29,NA
+15146,"Vijayapura","1277963",50,"Male","SARI","Breathlessness","-",2021-04-19,2021-04-23,2021-04-29,NA
+15310,"Vijayapura","1072418",60,"Female","SARI","Breathlessness","-",2021-04-05,2021-04-26,2021-04-30,NA
+15362,"Vijayapura","1278226",66,"Male","SARI","Cough, Breathlessness","HTN",2021-04-21,2021-04-25,2021-04-30,NA
+15402,"Vijayapura","1338521",66,"Male","SARI","Breathlessness","HTN",2021-04-22,2021-04-26,2021-04-30,NA
+15594,"Vijayapura","1250629",20,"Male","SARI","Cough, Breathlessness","-",2021-04-19,2021-04-28,2021-05-01,NA
+15603,"Vijayapura","1277962",35,"Male","SARI","Breathlessness","-",2021-04-18,2021-04-28,2021-05-01,NA
+15618,"Vijayapura","1303623",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-26,2021-05-01,NA
+15724,"Vijayapura","1466636",46,"Female","SARI","Cough, Breathlessness","HTN",2021-04-25,2021-04-28,2021-05-01,NA
+15877,"Vijayapura","1371058",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-24,2021-05-02,NA
+15917,"Vijayapura","1437001",32,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-30,2021-05-02,NA
+15928,"Vijayapura","1473962",82,"Female","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-30,2021-05-02,NA
+16095,"Vijayapura","1371056",55,"Female","SARI","Cough, breathlessness","DM, HTN",2021-04-18,2021-04-26,2021-05-03,NA
+16098,"Vijayapura","1373053",80,"Male","SARI","Cough, breathlessness","DM, HTN",2021-04-20,2021-04-29,2021-05-03,NA
+16130,"Vijayapura","1426254",58,"Female","SARI","Cough, breathlessness","DM, HTN",2021-04-24,2021-04-29,2021-05-03,NA
+16155,"Vijayapura","1475855",50,"Male","SARI","Breathlessness","HTN",2021-04-27,2021-04-30,2021-05-03,NA
+16254,"Vijayapura","1130818",73,"Male","ILI","Breathlessness","DM, HTN",2021-04-12,2021-04-23,2021-05-04,NA
+16274,"Vijayapura","1163939",58,"Female","ILI","Breathlessness","HTN",2021-04-14,2021-04-29,2021-05-04,NA
+16354,"Vijayapura","1373037",65,"Male","ILI","Cough, Breathlessness","DM, HTN",2021-04-17,2021-04-29,2021-05-04,NA
+16355,"Vijayapura","1374082",60,"Male","ILI","Cough, Breathlessness","DM, HTN",2021-04-20,2021-05-01,2021-05-04,NA
+16639,"Vijayapura","1255519",83,"Male","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-20,2021-05-05,NA
+16641,"Vijayapura","1257591",74,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-22,2021-05-05,NA
+16669,"Vijayapura","1328541",74,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-27,2021-05-05,NA
+16672,"Vijayapura","1344522",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-25,2021-05-05,NA
+16895,"Vijayapura","1130820",60,"Female","ILI","Cough, breathlessness","-",2021-04-11,2021-04-17,2021-05-06,NA
+16900,"Vijayapura","1160147",68,"Male","ILI","Breathlessness","HTN",2021-04-12,2021-04-21,2021-05-06,NA
+16912,"Vijayapura","1255530",87,"Male","ILI","Cough, breathlessness","-",2021-04-18,2021-04-24,2021-05-06,NA
+16947,"Vijayapura","1326035",55,"Male","SARI","Breathlessness","DM",2021-04-22,2021-05-02,2021-05-06,NA
+16951,"Vijayapura","1346856",60,"Female","ILI","Cough, breathlessness","HTN",2021-04-20,2021-04-28,2021-05-06,NA
+17042,"Vijayapura","1517215",50,"Male","ILI","Cough, breathlessness","HTN",2021-04-28,2021-05-04,2021-05-06,NA
+17248,"Vijayapura","1161236",56,"Male","SARI","Breathlessness","HTN",2021-04-15,2021-05-04,2021-05-07,NA
+17349,"Vijayapura","1325956",66,"Male","SARI","Breathlessness","CAD",2021-04-17,2021-04-25,2021-05-07,NA
+17385,"Vijayapura","1374072",55,"Male","SARI","Cough, breathlessness","DM, HTN",2021-04-18,2021-05-02,2021-05-07,NA
+17434,"Vijayapura","1448324",58,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-25,2021-05-05,2021-05-07,NA
+17582,"Vijayapura","1600737",40,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-07,NA
+17739,"Vijayapura","1762360",55,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-04,2021-05-07,NA
+17852,"Vijayapura","1160120",39,"Female","ILI","Cough, Breathlessness","-",2021-04-13,2021-04-27,2021-05-08,NA
+18181,"Vijayapura","1735800",70,"Male","ILI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-05,2021-05-08,NA
+18201,"Vijayapura","1773551",38,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-08,NA
+18299,"Vijayapura","1120934",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-12,2021-05-02,2021-05-09,NA
+18388,"Vijayapura","1363591",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-21,2021-05-04,2021-05-09,NA
+18389,"Vijayapura","1363592",28,"Male","ILI","Fever, Cough, Breathlessness","-",2021-04-21,2021-04-24,2021-05-09,NA
+18390,"Vijayapura","1363599",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-22,2021-04-22,2021-05-09,NA
+18446,"Vijayapura","1469370",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-05-04,2021-05-09,NA
+18541,"Vijayapura","1600753",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-05-03,2021-05-09,NA
+18779,"Vijayapura","1065035",60,"Female","ILI","Fever, Cough","HTN",2021-04-07,2021-04-20,2021-05-10,NA
+18785,"Vijayapura","1163934",30,"Male","SARI","Fever, Breathlessness","-",2021-04-14,2021-04-21,2021-05-10,NA
+18815,"Vijayapura","1314085",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-23,2021-05-10,NA
+18817,"Vijayapura","1326044",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-23,2021-05-10,NA
+18825,"Vijayapura","1352883",76,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-21,2021-04-24,2021-05-10,NA
+18876,"Vijayapura","1387853",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-24,2021-05-10,NA
+19522,"Vijayapura","1312723",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-25,2021-05-11,NA
+19527,"Vijayapura","1350181",81,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-19,2021-04-26,2021-05-11,NA
+19530,"Vijayapura","1380770",64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-04-26,2021-05-11,NA
+19546,"Vijayapura","1432562",25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-25,2021-05-11,NA
+19547,"Vijayapura","1432563",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-25,2021-04-26,2021-05-11,NA
+19548,"Vijayapura","1432579",78,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-22,2021-04-27,2021-05-11,NA
+19553,"Vijayapura","1469390",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-04-27,2021-05-11,NA
+19554,"Vijayapura","1480142",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-25,2021-05-11,NA
+19868,"Vijayapura","1281914",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-29,2021-05-12,NA
+19876,"Vijayapura","1361336",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-29,2021-05-12,NA
+19878,"Vijayapura","1382582",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-22,2021-04-30,2021-05-12,NA
+19889,"Vijayapura","1423760",45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-05-01,2021-05-12,NA
+19896,"Vijayapura","1432541",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-22,2021-04-28,2021-05-12,NA
+19904,"Vijayapura","1480077",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-25,2021-04-30,2021-05-12,NA
+19905,"Vijayapura","1480152",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-28,2021-05-12,NA
+19946,"Vijayapura","1622483",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-04-30,2021-05-12,NA
+20373,"Vijayapura","1050002",50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-06,2021-05-03,2021-05-13,NA
+20412,"Vijayapura","1448322",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-05-02,2021-05-13,NA
+20423,"Vijayapura","1478904",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-05-02,2021-05-13,NA
+20424,"Vijayapura","1478905",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-25,2021-05-01,2021-05-13,NA
+20452,"Vijayapura","1567151",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-13,NA
+20484,"Vijayapura","1639177",21,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-13,NA
+20517,"Vijayapura","1732710",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-04,2021-05-13,NA
+20537,"Vijayapura","1784464",82,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-13,NA
+20733,"Vijayapura","1326048",62,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-04,2021-05-07,2021-05-14,NA
+20743,"Vijayapura","1373046",72,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-16,2021-05-08,2021-05-14,NA
+20781,"Vijayapura","1548868",45,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-26,2021-05-05,2021-05-14,NA
+20826,"Vijayapura","1716070",78,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-02,2021-05-05,2021-05-14,NA
+20831,"Vijayapura","1732639",38,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-01,2021-05-05,2021-05-14,NA
+20832,"Vijayapura","1735822",60,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-04-30,2021-05-01,2021-05-14,NA
+20854,"Vijayapura","1794131",59,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-03,2021-05-05,2021-05-14,NA
+20866,"Vijayapura","1820193",60,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-02,2021-05-05,2021-05-14,NA
+20870,"Vijayapura","1834418",63,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-03,2021-05-05,2021-05-14,NA
+21097,"Vijayapura","1255518",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-22,2021-05-15,NA
+21112,"Vijayapura","1469368",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-05-11,2021-05-15,NA
+21179,"Vijayapura","1732691",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-05-07,2021-05-15,NA
+21180,"Vijayapura","1732709",45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-29,2021-05-08,2021-05-15,NA
+21205,"Vijayapura","1792920",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-08,2021-05-15,NA
+21206,"Vijayapura","1794143",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-09,2021-05-15,NA
+21240,"Vijayapura","1891700",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-08,2021-05-15,NA
+21306,"Vijayapura","2028569",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-11,2021-05-15,NA
+21333,"Vijayapura","2071192",38,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-13,2021-05-15,NA
+21480,"Vijayapura","1436999",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-24,2021-05-01,2021-05-16,NA
+21481,"Vijayapura","1437020",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-26,2021-05-16,NA
+21491,"Vijayapura","1469374",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-27,2021-05-16,NA
+21501,"Vijayapura","1517191",40,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-21,2021-04-28,2021-05-16,NA
+21552,"Vijayapura","1639228",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-05-02,2021-05-16,NA
+21575,"Vijayapura","1735821",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-06,2021-05-16,NA
+21603,"Vijayapura","1840945",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-12,2021-05-16,NA
+21659,"Vijayapura","1967376",19,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-16,NA
+21664,"Vijayapura","1978483",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-13,2021-05-16,NA
+21911,"Vijayapura","1517183",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-05-04,2021-05-17,NA
+21912,"Vijayapura","1517223",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-13,2021-05-17,NA
+21982,"Vijayapura","1698979",71,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-02,2021-05-17,NA
+21992,"Vijayapura","1723392",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-17,NA
+22018,"Vijayapura","1794140",71,"Male","SARI","Fever, Cough, Breathlessness","CHD",2021-05-04,2021-05-07,2021-05-17,NA
+22034,"Vijayapura","1845093",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-17,NA
+22046,"Vijayapura","1896157",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-06,2021-05-17,NA
+22047,"Vijayapura","1896158",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-06,2021-05-17,NA
+22071,"Vijayapura","1944420",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-17,NA
+22568,"Vijayapura","1869747",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-15,2021-05-18,NA
+22598,"Vijayapura","1945946",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-18,NA
+22667,"Vijayapura","2071195",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-12,2021-05-18,NA
+22690,"Vijayapura","2109440",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-12,2021-05-18,NA
+22724,"Vijayapura","2153927",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-14,2021-05-18,NA
+22757,"Vijayapura","2192620",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-12,2021-05-18,NA
+22777,"Vijayapura","2218803",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-05-18,NA
+22785,"Vijayapura","2230578",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-18,NA
+22924,"Vijayapura","1608842",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-04,2021-05-19,NA
+22996,"Vijayapura","1789536",61,"Female","ILI","Fever, Cough","HTN",2021-05-04,2021-05-07,2021-05-19,NA
+23009,"Vijayapura","1830766",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-14,2021-05-19,NA
+23025,"Vijayapura","1874098",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-05-19,NA
+23035,"Vijayapura","1894473",20,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-19,NA
+23514,"Vijayapura","1773566",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-05-16,2021-05-20,NA
+23655,"Vijayapura","2101713",25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-20,NA
+23661,"Vijayapura","2106345",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-15,2021-05-20,NA
+23801,"Vijayapura","2287615",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-20,NA
+23926,"Vijayapura","1820126",76,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-12,2021-05-21,NA
+23927,"Vijayapura","1820143",56,"Female","ILI","Fever, Cough","-",2021-05-01,2021-05-09,2021-05-21,NA
+23935,"Vijayapura","1891692",36,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-09,2021-05-21,NA
+23990,"Vijayapura","2064265",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-21,NA
+24481,"Vijayapura","2069546",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-18,2021-05-22,NA
+24503,"Vijayapura","2153907",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-16,2021-05-22,NA
+24519,"Vijayapura","2184872",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-19,2021-05-22,NA
+24699,"Vijayapura","1432553",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-05-05,2021-05-23,NA
+24754,"Vijayapura","1641958",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-01,2021-05-23,NA
+24790,"Vijayapura","1732642",57,"Male","ILI","Fever, Cough","DM, HTN",2021-04-29,2021-05-02,2021-05-23,NA
+24893,"Vijayapura","1894481",80,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-08,2021-05-23,"Died at his residence"
+24916,"Vijayapura","1944431",26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-10,2021-05-23,NA
+25422,"Vijayapura","1732689",75,"Male","ILI","Fever, Cough","HTN",2021-04-27,2021-05-22,2021-05-24,NA
+25424,"Vijayapura","1744251",59,"Male","ILI","Fever, Cough","DM, HTN",2021-04-30,2021-05-20,2021-05-24,NA
+25613,"Vijayapura","2248072",29,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-19,2021-05-24,NA
+25666,"Vijayapura","2318286",67,"Female","ILI","Fever, Cough","-",2021-05-16,2021-05-20,2021-05-24,NA
+25695,"Vijayapura","2352661",69,"Female","ILI","Fever, Cough","-",2021-05-17,2021-05-22,2021-05-24,NA
+25845,"Vijayapura","1432574",32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-26,2021-05-25,NA
+25889,"Vijayapura","1639213",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-04-30,2021-05-25,NA
+26148,"Vijayapura","2109434",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-25,NA
+26149,"Vijayapura","2109442",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-15,2021-05-25,NA
+26196,"Vijayapura","2230582",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-16,2021-05-25,NA
+26197,"Vijayapura","2230583",81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-25,NA
+26493,"Vijayapura","1480127",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-25,2021-05-26,NA
+26521,"Vijayapura","1600765",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-03,2021-05-26,NA
+26568,"Vijayapura","1769672",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-09,2021-05-26,NA
+26607,"Vijayapura","1862382",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-05,2021-05-26,NA
+26608,"Vijayapura","1862406",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-07,2021-05-26,NA
+26682,"Vijayapura","2029711",49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-26,NA
+27101,"Vijayapura","2053087",50,"Male","SARI","Fever, cough, breathlessness","-",2021-05-07,2021-05-12,2021-05-27,NA
+27112,"Vijayapura","2076734",65,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-11,2021-05-12,2021-05-27,NA
+27116,"Vijayapura","2078477",60,"Female","SARI","Fever, cough, breathlessness","-",2021-05-10,2021-05-13,2021-05-27,NA
+27159,"Vijayapura","2196769",47,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-13,2021-05-14,2021-05-27,NA
+27421,"Vijayapura","1869685",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-15,2021-05-28,NA
+27493,"Vijayapura","2081698",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-17,2021-05-28,NA
+27621,"Vijayapura","2301829",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-28,NA
+27629,"Vijayapura","2312975",80,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-05-10,2021-05-19,2021-05-28,NA
+27822,"Vijayapura","1514945",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-03,2021-05-29,NA
+27825,"Vijayapura","1545167",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-29,2021-05-29,NA
+27839,"Vijayapura","1732706",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-29,2021-05-04,2021-05-29,NA
+27840,"Vijayapura","1732708",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-03,2021-05-29,NA
+28417,"Vijayapura","1732640",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-06,2021-05-30,NA
+28433,"Vijayapura","1757968",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-06,2021-05-30,NA
+28480,"Vijayapura","1858648",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-07,2021-05-30,NA
+28482,"Vijayapura","1940802",45,"Male","ILI","Fever, Cough","HTN, CKD",2021-05-04,2021-05-06,2021-05-30,NA
+28895,"Vijayapura","2076729",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-13,2021-05-31,NA
+28915,"Vijayapura","2259620",86,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-20,2021-05-31,NA
+28925,"Vijayapura","2316811",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-31,NA
+28933,"Vijayapura","2368665",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-05-31,NA
+29270,"Vijayapura","1967348",70,"Male","ILI","Fever, Cough","DM, HTN",2021-04-30,2021-05-15,2021-06-01,NA
+29351,"Vijayapura","2104296",66,"Male","ILI","Fever, Cough","HTN",2021-05-09,2021-05-14,2021-06-01,NA
+29352,"Vijayapura","2109470",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-06-01,NA
+29372,"Vijayapura","2312985",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-21,2021-06-01,NA
+29373,"Vijayapura","2314203",50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-17,2021-06-01,NA
+29392,"Vijayapura","2378219",22,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-21,2021-06-01,NA
+29615,"Vijayapura","1410295",75,"Male","ILI","Fever","-",2021-05-26,2021-05-26,2021-06-02,NA
+29646,"Vijayapura","1732703",45,"Male","ILI","Cough","-",2021-04-22,2021-05-04,2021-06-02,NA
+29740,"Vijayapura","2078463",52,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-21,2021-06-02,NA
+29773,"Vijayapura","2192619",60,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-06-02,NA
+30072,"Vijayapura","1545165",41,"Male","ILI","Breathlessness","-",2021-05-29,2021-05-29,2021-06-03,NA
+30259,"Vijayapura","2266620",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-28,2021-06-03,NA
+30338,"Vijayapura","2434089",52,"Male","ILI","Fever, Cough","-",2021-05-25,2021-05-26,2021-06-03,NA
+30406,"Vijayapura","2544718",58,"Male","SARI","Cough, Breathlessness","COPD",2021-05-23,2021-05-29,2021-06-03,NA
+30718,"Vijayapura","2382241",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-23,2021-06-04,NA
+30757,"Vijayapura","2498317",81,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-26,2021-06-04,NA
+30915,"Vijayapura","1374071",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-12,2021-06-05,NA
+30957,"Vijayapura","1735813",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-11,2021-06-05,NA
+30958,"Vijayapura","1735814",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-17,2021-06-05,NA
+30960,"Vijayapura","1769677",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-08,2021-06-05,NA
+31279,"Vijayapura","1374083",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-21,2021-05-17,2021-06-06,NA
+31360,"Vijayapura","2184871",46,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-10,2021-05-22,2021-06-06,NA
+31382,"Vijayapura","2287614",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-06-06,NA
+31448,"Vijayapura","2449971",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-06-06,NA
+31732,"Vijayapura","2417632",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-26,2021-06-07,NA
+31762,"Vijayapura","2491954",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-23,2021-06-07,NA
+31764,"Vijayapura","2498298",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-29,2021-06-07,NA
+31785,"Vijayapura","2563474",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-28,2021-06-07,NA
+31936,"Vijayapura","2230589",66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-30,2021-06-08,NA
+32008,"Vijayapura","2629600",36,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-30,2021-06-08,"Died at her residence"
+32119,"Vijayapura","2338655",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-29,2021-06-09,NA
+32152,"Vijayapura","2558150",64,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-05-31,2021-06-09,NA
+32194,"Vijayapura","2649593",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-30,2021-06-09,NA
+32315,"Vijayapura","2449974",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-26,2021-06-10,NA
+32329,"Vijayapura","2533316",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-06-02,2021-06-10,NA
+32455,"Vijayapura","2751204",50,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-07,2021-06-10,NA
+32504,"Vijayapura","2386296",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-28,2021-06-11,NA
+32513,"Vijayapura","2476267",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-06-04,2021-06-11,NA
+32549,"Vijayapura","2638761",25,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-05-24,2021-06-04,2021-06-11,NA
+32665,"Vijayapura","2476268",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-30,2021-06-12,NA
+32719,"Vijayapura","2679612",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-07,2021-06-12,NA
+32727,"Vijayapura","2691810",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-09,2021-06-12,NA
+32793,"Vijayapura","1683707",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-11,2021-06-13,NA
+32794,"Vijayapura","1686859",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-02,2021-06-13,NA
+32925,"Vijayapura","2354337",90,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-26,2021-06-14,NA
+33070,"Vijayapura","2680849",55,"Female","SARI","Fever, cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-15,NA
+33185,"Vijayapura","2680851",99,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-03,2021-06-16,NA
+33424,"Vijayapura","2825388",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-02,2021-06-17,NA
+33438,"Vijayapura","1689633",66,"Male","ILI","Fever, Cough","DM",2021-05-02,2021-05-07,2021-06-18,NA
+33613,"Vijayapura","2354328",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-24,2021-06-19,NA
+33694,"Vijayapura","2800470",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-19,2021-06-19,NA
+33813,"Vijayapura","2740735",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-05,2021-06-20,NA
+33942,"Vijayapura","2679661",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-08,2021-06-21,NA
+34037,"Vijayapura","2535512",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-06-10,2021-06-22,NA
+34119,"Vijayapura","2818054",22,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-06-12,2021-06-13,2021-06-22,NA
+34172,"Vijayapura","2183146",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-06-23,NA
+34177,"Vijayapura","2373325",57,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-18,2021-06-23,NA
+34294,"Vijayapura","2449973",62,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-05-20,2021-05-21,2021-06-24,NA
+34296,"Vijayapura","2491949",56,"Female","SARI","Fever, Cough, Breathlesness","HTN",2021-05-20,2021-05-25,2021-06-24,NA
+34482,"Vijayapura","2788418",50,"Female","ILI","Fever, Cough","HTN",NA,2021-06-22,2021-06-25,"Brought dead"
+34549,"Vijayapura","2316813",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-17,2021-06-26,NA
+34572,"Vijayapura","2659080",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-29,2021-06-26,NA
+35037,"Vijayapura","100001730",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-22,2021-06-26,2021-06-30,NA
+35100,"Vijayapura","2856008",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-19,2021-06-23,2021-07-01,NA
+35237,"Vijayapura","2544716",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-27,2021-07-03,NA
+35357,"Vijayapura","2887162",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-06-29,2021-07-04,NA
+35708,"Vijayapura","2890697",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-07-06,2021-07-09,NA
+35872,"Vijayapura","2893023",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-06,2021-07-12,NA
+35980,"Vijayapura","2913403",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-10,2021-07-12,2021-07-14,NA
+36236,"Vijayapura","2905097",65,"Male","ILI","Fever, Cough","-",2021-07-15,2021-07-20,2021-07-21,NA
+36272,"Vijayapura","2905097",65,"Male","ILI","Fever, Cough","-",2021-07-15,2021-07-20,2021-07-21,NA
+36356,"Vijayapura","2930433",65,"Male","ILI","Fever, Cough","-",2021-07-20,2021-07-22,2021-07-24,NA
+36360,"Vijayapura","1163258",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-16,2021-04-23,2021-07-26,NA
+36362,"Vijayapura","1942738",36,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-22,2021-07-26,NA
+36494,"Vijayapura","2931711",49,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-21,2021-07-29,2021-07-30,NA
+36540,"Vijayapura","2941742",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-27,2021-07-30,2021-07-31,NA
+36637,"Vijayapura","2324367",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-26,2021-08-04,NA
+36663,"Vijayapura","2950435",30,"Female","ILI","Fever, Cough","-",2021-04-09,2021-05-12,2021-08-04,NA
+36728,"Vijayapura","2929783",38,"Female","ILI","Fever, Cough","-",2021-07-20,2021-07-31,2021-08-07,NA
+36973,"Vijayapura","2951658",70,"Male","ILI","Fever, cough","-",2021-08-02,2021-08-14,2021-08-16,NA
+37111,"Vijayapura","2928901",40,"Male","ILI","Fever, cough","-",2021-07-17,2021-08-15,2021-08-22,NA
+37263,"Vijayapura","2980119",70,"Male","ILI","Fever, cough","-",2021-08-21,2021-08-25,2021-08-31,NA
+37329,"Vijayapura","2985641",28,"Female","ILI","Fever, cough","-",NA,2021-09-02,2021-09-03,"Brought dead"
+37609,"Vijayapura","3004212",55,"Male","ILI","Fever, cough","-",2021-09-16,2021-09-21,2021-09-22,NA
+38349,"Vijayapura","3140105",21,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-10,2022-01-11,2022-01-13,NA
+38462,"Vijayapura","3265588",75,"Male","SARI","Fever, breathlessness","-",2022-01-16,2022-01-17,2022-01-19,NA
+38541,"Vijayapura","3448344",70,"Female","ILI","Fever, Cough","-",2022-01-17,2022-01-17,2022-01-22,NA
+38567,"Vijayapura","3448344",70,"Female","ILI","Fever, Cough","-",2022-01-17,2022-01-17,2022-01-22,NA
+38850,"Vijayapura","3704237",0.75,"Male","SARI","Breathlessness","-",2022-01-18,2022-01-25,2022-01-29,NA
+39037,"Vijayapura","3774848",7,"Male","SARI","Breathlessness","-",2022-01-20,2022-01-26,2022-02-01,NA
+39088,"Vijayapura","3778626",65,"Female","ILI","Fever, Cough","-",2022-01-26,2022-02-02,2022-02-03,NA
+39150,"Vijayapura","3861624",55,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-29,2022-02-02,2022-02-04,NA
+39197,"Vijayapura","3774817",52,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-27,2022-02-02,2022-02-05,NA
+39490,"Vijayapura","3956079",83,"Male","SARI","Fever, cough, breathlessness","-",2022-02-04,2022-02-11,2022-02-11,NA
+39507,"Vijayapura","3910428",66,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-31,2022-02-09,2022-02-12,NA
+39542,"Vijayapura","3927458",75,"Male","ILI","Cough","-",NA,2022-02-05,2022-02-13,"Died at his residence"
+39604,"Vijayapura","3962362",24,"Male","SARI","Breathlessness","-",2022-02-09,2022-02-14,2022-02-15,NA
+39624,"Vijayapura","3928031",80,"Female","ILI","Fever, Cough","-",NA,2022-02-10,2022-02-16,"Died at her Residence"
+39650,"Vijayapura","3954894",68,"Male","ILI","Fever, Cough","-",2022-02-08,2022-02-16,2022-02-17,NA
+39678,"Vijayapura","3983290",35,"Female","SARI","Fever, Breathlessness","-",2022-02-14,2022-02-16,2022-02-18,NA
+39690,"Vijayapura","3950836",80,"Male","ILI","Fever","-",NA,2022-02-11,2022-02-19,"Died at his residence"
+39737,"Vijayapura","3984834",61,"Male","SARI","Fever, Breathlessness","-",2022-02-15,2022-02-18,2022-02-21,NA
+39748,"Vijayapura","3936060",54,"Male","ILI","Cough","-",2022-02-05,2022-02-20,NA,NA
+39879,"Vijayapura","3990395",35,"Male","SARI","Cough, Breathlessness","-",2022-02-23,2022-02-25,2022-03-04,NA
+39910,"Vijayapura","3981517",87,"Male","ILI","Fever, Cough","-",2022-02-15,2022-03-13,3022-03-14,NA
+39918,"Vijayapura","3989189",70,"Male","SARI","Cough, Breathlessness","-",NA,2022-03-16,2022-03-18,"Died at his residence"
+39944,"Vijayapura","3997212",50,"Female","SARI","Fever,Breathlessness","TB",2022-04-05,2022-05-02,2022-05-06,NA
+40009,"Vijayapura","4066216",45,"Female","ILI","Fever and Cough","-",2022-08-02,2022-08-09,2022-08-11,NA

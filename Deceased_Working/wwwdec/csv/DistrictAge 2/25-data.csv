@@ -1,0 +1,1039 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+98,"Shivamogga",7573,56,"Female","SARI",NA,"HTN & CKD",2020-06-13,2020-06-17,2020-06-17,NA
+172,"Shivamogga",9546,75,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN & COPD",2020-06-20,2020-06-22,2020-06-26,NA
+278,"Shivamogga",14399,52,"Male","Travel History To Bangalore","Cold & Cough","DM",2020-06-26,2020-07-02,2020-07-03,NA
+289,"Shivamogga",18073,70,"Female","ILI","Fever, Cough","DM",2020-07-01,2020-07-02,2020-07-03,NA
+551,"Shivamogga",16647,62,"Male","ILI","Fever","-",2020-07-03,2020-07-08,2020-07-11,NA
+572,"Shivamogga",23617,55,"Female","ILI","Fever","DM",2020-07-03,2020-07-04,2020-07-11,NA
+707,"Shivamogga",23613,90,"Female","ILI","Cough","-",2020-07-05,2020-07-11,2020-07-13,NA
+711,"Shivamogga",29135,62,"Male","Contact under tracing","-","DM, HTN",2020-07-08,2020-07-10,2020-07-13,NA
+739,"Shivamogga",40069,68,"Male","ILI","Fever","DM,  HTN, CKD",2020-07-10,2020-07-12,2020-07-13,NA
+908,"Shivamogga",45197,55,"Female","ILI","Fever","-",2020-07-14,2020-07-14,2020-07-15,NA
+1204,"Shivamogga",55433,45,"Female","ILI","Fever & Cough","-",2020-07-16,2020-07-17,2020-07-18,NA
+1361,"Shivamogga",63604,55,"Female","ILI","Fever","CLD",2020-07-15,2020-07-15,2020-07-20,NA
+1519,"Shivamogga",37096,54,"Male","ILI","Fever & Cough","DM, HTN",2020-07-09,2020-07-15,2020-07-23,NA
+1520,"Shivamogga",37169,47,"Male","ILI","Fever & Cough","-",2020-07-08,2020-07-09,2020-07-23,NA
+1607,"Shivamogga",36205,59,"Male","SARI","Breathlessness","-",2020-07-08,2020-07-08,2020-07-24,NA
+1673,"Shivamogga",77489,55,"Male","Contact under tracing","-","-",2020-07-20,2020-07-20,2020-07-24,NA
+1674,"Shivamogga",77585,59,"Female","Contact under tracing","-","-",2020-07-18,2020-07-18,2020-07-24,NA
+1724,"Shivamogga",55320,65,"Male","ILI","Fever & Cough","-",2020-07-13,2020-07-20,2020-07-25,NA
+1743,"Shivamogga",72492,60,"Male","ILI","Fever & Cough","_",2020-07-17,2020-07-17,2020-07-25,NA
+1816,"Shivamogga",77046,48,"Female","ILI","Fever","-",2020-07-19,2020-07-20,2020-07-26,NA
+1916,"Shivamogga",97395,65,"Male","Contact under tracing","-","-",2020-07-24,2020-07-24,2020-07-27,NA
+2170,"Shivamogga",103026,65,"Female","Contact under tracing","-","-",2020-07-26,2020-07-26,2020-07-30,NA
+2228,"Shivamogga",59532,65,"Male","SARI","Breathlessness","-",2020-07-14,2020-07-22,2020-07-31,NA
+2244,"Shivamogga",83307,65,"Female","SARI","Breathlessness","-",2020-07-22,2020-07-22,2020-07-31,NA
+2256,"Shivamogga",97388,60,"Female","SARI","Breathlessness","-",2020-07-21,2020-07-22,2020-07-31,NA
+2264,"Shivamogga",108400,60,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-27,2020-07-31,NA
+2314,"Shivamogga",83424,55,"Male","Contact under tracing","-","-",2020-07-25,2020-07-28,2020-08-01,NA
+2331,"Shivamogga",103119,39,"Male","Contact under tracing","-","-",2020-07-23,2020-07-29,2020-08-01,NA
+2333,"Shivamogga",103861,96,"Male","Contact under tracing","-","-",2020-07-25,2020-07-26,2020-08-01,NA
+2367,"Shivamogga",121872,60,"Male","Contact under tracing","-","DM, HTN",2020-07-25,2020-07-29,2020-08-01,NA
+2416,"Shivamogga",92276,57,"Male","Contact under tracing","-","-",2020-07-24,2020-07-30,2020-08-02,NA
+2430,"Shivamogga",108310,85,"Female","SARI","Breathlessness","DM, HTN",2020-07-26,2020-07-30,2020-08-02,NA
+2432,"Shivamogga",112297,69,"Male","SARI","Breathlessness","DM",2020-07-27,2020-07-29,2020-08-02,NA
+2434,"Shivamogga",114274,47,"Male","SARI","Breathlessness","DM",2020-07-22,2020-07-29,2020-08-02,NA
+2602,"Shivamogga",87204,60,"Male","ILI","Fever & Cough","HTN",2020-07-23,2020-07-31,2020-08-04,NA
+2630,"Shivamogga",120089,55,"Female","Contact under tracing","-","-",2020-07-28,2020-07-31,2020-08-04,NA
+2634,"Shivamogga",123710,74,"Male","ILI","-","DM, HTN",2020-07-29,2020-07-31,2020-08-04,NA
+2642,"Shivamogga",126891,45,"Male","SARI","Breathlessness","-",2020-07-30,2020-07-31,2020-08-04,NA
+2712,"Shivamogga",103935,65,"Male","ILI","Fever","HTN",2020-07-26,2020-08-02,2020-08-05,NA
+2713,"Shivamogga",104239,58,"Male","Contact under tracing","-","-",2020-08-01,2020-08-02,2020-08-05,NA
+2717,"Shivamogga",108405,80,"Female","ILI","Fever","-",2020-08-02,2020-08-03,2020-08-05,NA
+2746,"Shivamogga",134579,43,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-02,2020-08-05,NA
+2748,"Shivamogga",137300,38,"Female","Contact under tracing","-","-",2020-08-01,2020-08-01,2020-08-05,NA
+2770,"Shivamogga",148112,44,"Male","ILI","Fever","HTN",2020-08-01,2020-08-03,2020-08-05,NA
+2831,"Shivamogga",130870,62,"Male","Contact under tracing","-","-",2020-07-28,2020-08-05,2020-08-06,NA
+2868,"Shivamogga",152709,60,"Male","SARI","Breathlessness","HTN",2020-08-03,2020-08-04,2020-08-06,NA
+2872,"Shivamogga",156815,48,"Female","SARI","Breathlessness","IHD",2020-08-03,2020-08-04,2020-08-06,NA
+2918,"Shivamogga",118366,67,"Male","Conta ct under tracin g","-","-",2020-07-28,2020-08-07,2020-08-07,NA
+3061,"Shivamogga",165913,48,"Male","ILI","Fever","-",2020-08-04,2020-08-06,2020-08-08,NA
+3132,"Shivamogga",147504,77,"Male","Contact under tracing","-","DM, HTN",2020-08-02,2020-08-07,2020-08-09,NA
+3152,"Shivamogga",171373,66,"Male","SARI","Breathlessness","DM, HTN",2020-08-04,2020-08-09,2020-08-09,NA
+3228,"Shivamogga",139152,70,"Male","ILI","Fever","DM, HTN",2020-08-01,2020-08-05,2020-08-10,NA
+3252,"Shivamogga",162933,68,"Male","SARI","Breathlessness","-",2020-08-02,2020-08-08,2020-08-10,NA
+3280,"Shivamogga",181266,65,"Female","ILI","Fever","DM, HTN",2020-08-07,2020-08-08,2020-08-10,NA
+3416,"Shivamogga",131661,77,"Female","SARI","Breathlessness","-",2020-07-31,2020-08-08,2020-08-12,NA
+3443,"Shivamogga",155979,78,"Male","ILI","Fever","-",2020-08-04,2020-08-08,2020-08-12,NA
+3448,"Shivamogga",159597,75,"Male","ILI","Fever","DM, HTN",2020-08-02,2020-08-08,2020-08-12,NA
+3450,"Shivamogga",161500,82,"Male","SARI","Breathlessness","-",2020-08-03,2020-08-07,2020-08-12,NA
+3657,"Shivamogga",166774,65,"Male","ILI","Fever, Cough","-",2020-08-06,2020-08-09,2020-08-14,NA
+3661,"Shivamogga",168624,75,"Male","ILI","Fever, Cough","-",NA,2020-08-06,2020-08-14,"Died at his residence"
+3675,"Shivamogga",186739,67,"Male","ILI","Fever, Cough","DM, HTN",2020-08-09,2020-08-09,2020-08-14,NA
+3728,"Shivamogga",123702,55,"Male","Contact under tracing","-","DM, HTN",2020-07-29,2020-08-07,2020-08-15,NA
+3739,"Shivamogga",147040,55,"Male","ILI","Fever, Cough","HTN",2020-08-03,2020-08-09,2020-08-15,NA
+3757,"Shivamogga",171372,67,"Male","SARI","Breathlessness","-",2020-08-04,2020-08-10,2020-08-15,NA
+3758,"Shivamogga",172780,68,"Male","ILI","Fever, Cough","-",2020-07-08,2020-08-10,2020-08-15,NA
+3772,"Shivamogga",185556,74,"Male","ILI","Fever, Cough","DM",2020-08-09,2020-08-09,2020-08-15,NA
+3899,"Shivamogga",198570,77,"Female","SARI","Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3905,"Shivamogga",202456,65,"Female","ILI","Fever","DM",NA,2020-08-16,2020-08-16,NA
+4001,"Shivamogga",189395,42,"Male","Contact under tracing","-","-",2020-08-09,2020-08-10,2020-08-17,NA
+4018,"Shivamogga",208907,60,"Male","Contact under tracing","Fever","-",2020-08-11,2020-08-12,2020-08-17,NA
+4023,"Shivamogga",215776,75,"Male","Contact under tracing","-","-",2020-08-12,2020-08-13,2020-08-17,NA
+4038,"Shivamogga",229573,74,"Male","Contact under tracing","Fever","-",2020-08-12,2020-08-12,2020-08-17,NA
+4101,"Shivamogga",152706,35,"Female","SARI","Breathlessness","-",2020-08-04,2020-08-14,2020-08-18,NA
+4109,"Shivamogga",168616,77,"Male","ILI","Fever","DM, HTN",2020-08-07,2020-08-15,2020-08-18,NA
+4152,"Shivamogga",215782,63,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-13,2020-08-18,NA
+4271,"Shivamogga",224950,50,"Male","ILI","Fever","-",2020-08-14,2020-08-17,2020-08-19,NA
+4289,"Shivamogga",235866,56,"Male","ILI","-","-",2020-08-15,2020-08-15,2020-08-19,NA
+4371,"Shivamogga",224927,50,"Male","ILI","Breathlessness","-",2020-08-12,2020-08-14,2020-08-20,NA
+4391,"Shivamogga",239338,58,"Female","ILI","Breathlessness","-",2020-08-14,2020-08-15,2020-08-20,NA
+4396,"Shivamogga",241957,65,"Female","ILI","Breathlessness","DM, HTN",NA,2020-08-16,2020-08-20,"Brought dead"
+4400,"Shivamogga",245834,65,"Male","ILI","Breathlessness","-",2020-08-17,2020-08-17,2020-08-20,NA
+4548,"Shivamogga",218312,65,"Male","ILI","Fever","-",2020-08-14,2020-08-18,2020-08-22,NA
+4551,"Shivamogga",225837,56,"Male","ILI","Fever","-",2020-08-14,2020-08-18,2020-08-22,NA
+4567,"Shivamogga",244854,78,"Male","SARI","Breathlessness","DM, HTN",2020-08-15,2020-08-18,2020-08-22,NA
+4573,"Shivamogga",249535,55,"Female","ILI","Fever","-",2020-08-18,2020-08-18,2020-08-22,NA
+4653,"Shivamogga",258854,66,"Male","ILI","Fever","DM",2020-08-18,2020-08-21,2020-08-23,NA
+4655,"Shivamogga",262415,86,"Female","ILI","Fever","-",2020-08-19,2020-08-20,2020-08-23,NA
+4664,"Shivamogga",270253,55,"Male","ILI","Fever","HTN",2020-08-20,2020-08-20,2020-08-23,NA
+4677,"Shivamogga",286072,89,"Female","ILI","Fever","-",2020-08-19,2020-08-20,2020-08-23,NA
+4824,"Shivamogga",188224,60,"Male","ILI","Fever","DM, HTN",2020-08-09,2020-08-21,2020-08-25,NA
+4853,"Shivamogga",229574,45,"Male","ILI","Fever","-",2020-08-14,2020-08-21,2020-08-25,NA
+4873,"Shivamogga",241962,42,"Male","ILI","Fever","DM",2020-08-14,2020-08-22,2020-08-25,NA
+4898,"Shivamogga",252177,52,"Male","ILI","Fever","-",2020-08-18,2020-08-22,2020-08-25,NA
+4910,"Shivamogga",259495,75,"Female","ILI","Fever","-",2020-08-16,2020-08-21,2020-08-25,NA
+5055,"Shivamogga",284719,55,"Male","ILI","Fever","-",2020-08-22,2020-08-23,2020-08-26,NA
+5256,"Shivamogga",222457,81,"Male","Contact under tracing","-","-",NA,2020-08-26,2020-08-28,"Brought dead"
+5289,"Shivamogga",265443,59,"Male","ILI","Fever","HTN",2020-08-22,2020-08-23,2020-08-28,NA
+5312,"Shivamogga",284280,37,"Male","ILI","Fever","-",2020-08-22,2020-08-23,2020-08-28,NA
+5316,"Shivamogga",286081,55,"Female","ILI","Fever","-",2020-08-22,2020-08-23,2020-08-28,NA
+5322,"Shivamogga",290281,62,"Male","Contact under tracing","-","DM",2020-08-23,2020-08-23,2020-08-28,NA
+5323,"Shivamogga",290812,64,"Female","Contact under tracing","-","-",2020-08-23,2020-08-23,2020-08-28,NA
+5324,"Shivamogga",294827,74,"Male","Contact under tracing","-","-",2020-08-24,2020-08-24,2020-08-28,NA
+5406,"Shivamogga",260054,70,"Male","ILI","Fever","-",2020-08-20,2020-08-26,2020-08-29,NA
+5408,"Shivamogga",261492,64,"Female","SARI","Breathlessness","-",2020-08-19,2020-08-26,2020-08-29,NA
+5410,"Shivamogga",270256,72,"Male","ILI","Fever","-",2020-08-21,2020-08-26,2020-08-29,NA
+5435,"Shivamogga",296805,75,"Male","ILI","Fever","-",2020-08-24,2020-08-26,2020-08-29,NA
+5442,"Shivamogga",303185,45,"Male","Contact under tracing","-","-",2020-08-25,2020-08-25,2020-08-29,NA
+5516,"Shivamogga",251510,62,"Male","ILI","Fever","DM, HTN",2020-08-16,2020-08-27,2020-08-30,NA
+5517,"Shivamogga",254135,65,"Female","ILI","Fever","-",2020-08-17,2020-08-19,2020-08-30,NA
+5518,"Shivamogga",256290,69,"Male","ILI","Fever","-",2020-08-18,2020-08-18,2020-08-30,NA
+5530,"Shivamogga",284275,52,"Female","ILI","Fever","DM, HTN",2020-08-22,2020-08-27,2020-08-30,NA
+5532,"Shivamogga",284720,59,"Female","ILI","Fever","-",2020-08-21,2020-08-27,2020-08-30,NA
+5603,"Shivamogga",249534,65,"Male","ILI","-","-",2020-08-18,2020-08-18,2020-08-31,NA
+5633,"Shivamogga",298450,58,"Female","ILI","Fever","-",2020-08-24,2020-08-27,2020-08-31,NA
+5636,"Shivamogga",300176,60,"Male","ILI","-","-",2020-08-24,2020-08-28,2020-08-31,NA
+5644,"Shivamogga",311355,70,"Female","ILI","-","DM, HTN",2020-08-26,2020-08-28,2020-08-31,NA
+5744,"Shivamogga",270257,62,"Female","ILI","Fever","-",2020-08-20,2020-08-26,2020-09-01,NA
+5745,"Shivamogga",270288,52,"Female","ILI","Fever","DM, HTN",2020-08-20,2020-08-20,2020-09-01,NA
+5746,"Shivamogga",270308,65,"Male","ILI","Fever","-",2020-08-20,2020-08-20,2020-09-01,NA
+5747,"Shivamogga",270312,75,"Male","ILI","Breathlessness","-",2020-08-20,2020-08-20,2020-09-01,NA
+5765,"Shivamogga",291817,42,"Male","ILI","Fever","-",2020-08-21,2020-08-21,2020-09-01,NA
+5767,"Shivamogga",294289,55,"Male","ILI","Breathlessness","-",2020-08-19,2020-08-19,2020-09-01,NA
+5768,"Shivamogga",294810,28,"Female","Contact under tracing","-","-",2020-08-23,2020-08-24,2020-09-01,NA
+5779,"Shivamogga",310738,67,"Male","ILI","Fever","-",2020-08-22,2020-08-25,2020-09-01,NA
+5780,"Shivamogga",310750,65,"Male","ILI","Breathlessness","-",2020-08-26,2020-08-27,2020-09-01,NA
+5793,"Shivamogga",324813,40,"Female","ILI","Fever","-",2020-08-27,2020-08-28,2020-09-01,NA
+5866,"Shivamogga",279128,85,"Male","Contact under tracing","-","-",2020-08-21,2020-08-22,2020-09-02,NA
+5883,"Shivamogga",297790,29,"Male","ILI","Fever","-",2020-08-24,2020-08-28,2020-09-02,NA
+5886,"Shivamogga",300187,70,"Female","ILI","Fever","DM, HTN",2020-08-24,2020-08-29,2020-09-02,NA
+5901,"Shivamogga",319832,45,"Female","ILI","Fever","DM, HTN",2020-08-25,2020-08-30,2020-09-02,NA
+5911,"Shivamogga",325441,55,"Male","Contact under tracing","Breathlessness","-",2020-08-27,2020-08-30,2020-09-02,NA
+5919,"Shivamogga",333763,60,"Female","Contact under tracing","-","-",2020-08-27,2020-08-28,2020-09-02,NA
+5921,"Shivamogga",336854,59,"Male","ILI","Breathlessness","DM",2020-08-28,2020-08-30,2020-09-02,NA
+5970,"Shivamogga",279748,70,"Male","ILI","Fever, Breathlessness","-",2020-08-21,2020-08-24,2020-09-03,NA
+6023,"Shivamogga",346132,65,"Male","ILI","Breathlessness","-",2020-08-29,2020-09-01,2020-09-03,NA
+6025,"Shivamogga",347770,50,"Female","ILI","Breathlessness","DM, HTN",2020-08-30,2020-08-31,2020-09-03,NA
+6026,"Shivamogga",347772,63,"Female","Under Investig ation","Fever","DM, HTN",2020-08-30,2020-08-31,2020-09-03,NA
+6028,"Shivamogga",348846,63,"Female","Under Investig ation","-","DM, HTN",2020-08-17,2020-08-30,2020-09-03,NA
+6031,"Shivamogga",349732,78,"Male","Under Investig ation","Fever, Breathlessness","-",2020-08-30,2020-08-30,2020-09-03,NA
+6036,"Shivamogga",352968,75,"Female","Under Investig ation","-","HTN",2020-08-31,2020-08-31,2020-09-03,NA
+6049,"Shivamogga",372002,90,"Male","Under Investig ation","-","-",2020-09-01,2020-09-01,2020-09-03,NA
+6080,"Shivamogga",291297,29,"Female","ILI","Fever","-",2020-08-23,2020-08-26,2020-09-04,NA
+6092,"Shivamogga",311353,69,"Male","ILI","Cough","-",2020-09-02,2020-09-02,2020-09-04,NA
+6093,"Shivamogga",313476,84,"Male","SARI","Breathlessness","HTN",2020-08-26,2020-09-02,2020-09-04,NA
+6098,"Shivamogga",319532,66,"Male","ILI","Fever","-",2020-09-02,2020-09-02,2020-09-04,NA
+6113,"Shivamogga",339675,75,"Female","SARI","Breathlessness","HTN",2020-08-29,2020-08-31,2020-09-04,NA
+6143,"Shivamogga",369019,60,"Male","ILI","Fever","-",2020-09-02,2020-09-02,2020-09-04,NA
+6175,"Shivamogga",252175,70,"Male","ILI","Fever","-",2020-08-18,2020-08-19,2020-09-05,NA
+6187,"Shivamogga",298452,50,"Female","ILI","Fever","-",2020-08-24,2020-08-24,2020-09-05,NA
+6188,"Shivamogga",299157,60,"Male","SARI","Fever, Breathlessness","-",2020-08-24,2020-08-24,2020-09-05,NA
+6227,"Shivamogga",342292,52,"Female","SARI","Breathlessness","-",2020-08-27,2020-08-31,2020-09-05,NA
+6232,"Shivamogga",349738,75,"Female","ILI","Fever","-",2020-08-30,2020-08-30,2020-09-05,NA
+6260,"Shivamogga",369897,40,"Male","Contact under tracing","-","-",2020-09-01,2020-09-01,2020-09-05,NA
+6278,"Shivamogga",378486,58,"Male","Contact under tracing","-","-",2020-09-02,2020-09-02,2020-09-05,NA
+6286,"Shivamogga",380434,52,"Male","Contact under tracing","-","-",2020-09-02,2020-09-03,2020-09-05,NA
+6320,"Shivamogga",302071,70,"Male","Contact under tracing","-","-",2020-08-25,2020-08-25,2020-09-06,NA
+6323,"Shivamogga",304955,55,"Female","Contact under tracing","-","-",2020-08-25,2020-08-25,2020-09-06,NA
+6325,"Shivamogga",308543,45,"Male","ILI","Fever","-",2020-08-22,2020-08-25,2020-09-06,NA
+6472,"Shivamogga",331101,65,"Male","ILI","Breathlessness","-",2020-08-27,2020-08-30,2020-09-07,NA
+6487,"Shivamogga",359199,77,"Female","ILI","Fever","-",2020-08-31,2020-09-03,2020-09-07,NA
+6489,"Shivamogga",361947,57,"Male","ILI","Fever","-",2020-09-01,2020-09-03,2020-09-07,NA
+6497,"Shivamogga",377938,70,"Male","ILI","Fever","DM, HTN",2020-09-02,2020-09-03,2020-09-07,NA
+6502,"Shivamogga",380445,80,"Male","ILI","Fever","-",2020-09-03,2020-09-03,2020-09-07,NA
+6506,"Shivamogga",383966,52,"Female","ILI","Fever","DM, HTN",2020-09-03,2020-09-03,2020-09-07,NA
+6507,"Shivamogga",386896,86,"Male","ILI","Fever","-",2020-09-03,2020-09-04,2020-09-07,NA
+6511,"Shivamogga",395601,67,"Male","SARI","Breathlessness","-",2020-09-02,2020-09-04,2020-09-07,NA
+6555,"Shivamogga",301638,56,"Male","ILI","Fever","-",2020-08-25,2020-09-04,2020-09-08,NA
+6556,"Shivamogga",302075,76,"Female","ILI","-","-",2020-08-25,2020-09-05,2020-09-08,NA
+6564,"Shivamogga",308544,81,"Female","Contact under tracing","-","-",2020-08-25,2020-09-04,2020-09-08,NA
+6582,"Shivamogga",337072,54,"Male","ILI","Fever, Breathlessness","-",2020-08-28,2020-09-04,2020-09-08,NA
+6603,"Shivamogga",361955,64,"Male","Contact under tracing","-","-",2020-08-30,2020-08-30,2020-09-08,NA
+6636,"Shivamogga",389109,87,"Female","SARI","Breathlessness","-",2020-09-04,2020-09-04,2020-09-08,NA
+6702,"Shivamogga",323779,68,"Female","Contact under tracing","-","-",2020-08-27,2020-08-27,2020-09-09,NA
+6705,"Shivamogga",331329,52,"Female","ILI","Fever","-",2020-08-28,2020-08-29,2020-09-09,NA
+6706,"Shivamogga",331343,45,"Female","ILI","Fever","-",2020-08-28,2020-08-28,2020-09-09,NA
+6707,"Shivamogga",332237,85,"Male","ILI","Fever, Cough","-",2020-08-28,2020-09-01,2020-09-09,NA
+6708,"Shivamogga",332265,80,"Female","ILI","Fever","-",2020-08-28,2020-08-31,2020-09-09,NA
+6768,"Shivamogga",397156,68,"Female","Contact under tracing","-","-",2020-09-04,2020-09-04,2020-09-09,NA
+6829,"Shivamogga",336856,70,"Male","Contact under tracing","-","-",2020-08-27,2020-09-01,2020-09-10,NA
+6831,"Shivamogga",342944,67,"Male","ILI","-","-",2020-08-29,2020-08-29,2020-09-10,NA
+6832,"Shivamogga",342958,61,"Female","Contact under tracing","-","DM, HTN",2020-08-29,2020-09-03,2020-09-10,NA
+6845,"Shivamogga",361927,69,"Male","SARI","Breathlessness","-",2020-09-01,2020-09-04,2020-09-10,NA
+6857,"Shivamogga",375076,55,"Female","ILI","Fever, Cough","-",2020-09-01,2020-09-03,2020-09-10,NA
+6965,"Shivamogga",346122,74,"Male","SARI","Breathlessness","-",2020-08-27,2020-08-31,2020-09-11,NA
+6973,"Shivamogga",353772,55,"Male","ILI","Fever, Cough","-",2020-08-30,2020-08-31,2020-09-11,NA
+6980,"Shivamogga",357513,72,"Male","ILI","Fever, Cough","-",2020-08-31,2020-09-03,2020-09-11,NA
+6985,"Shivamogga",360658,54,"Male","Contac t under tracing","-","-",2020-08-31,2020-09-01,2020-09-11,NA
+6991,"Shivamogga",366390,43,"Female","SARI","Fever, Breathlessness","-",2020-08-31,2020-09-03,2020-09-11,NA
+7018,"Shivamogga",406401,55,"Female","Contac t under tracing","-","-",2020-09-04,2020-09-04,2020-09-11,NA
+7019,"Shivamogga",407687,54,"Female","ILI","Fever, Cough","-",2020-09-05,2020-09-06,2020-09-11,NA
+7030,"Shivamogga",413506,52,"Male","Contac t under tracing","Fever, Cough","-",2020-09-05,2020-09-06,2020-09-11,NA
+7093,"Shivamogga",361932,78,"Male","Contact under tracing","-","-",2020-09-02,2020-09-06,2020-09-12,NA
+7101,"Shivamogga",371990,65,"Female","SARI","Breathlessness","HTN",2020-08-30,2020-09-07,2020-09-12,NA
+7108,"Shivamogga",380870,58,"Male","SARI","Breathlessness","-",2020-09-06,2020-09-06,2020-09-12,NA
+7135,"Shivamogga",414760,65,"Male","Contact under tracing","-","-",2020-09-06,2020-09-07,2020-09-12,NA
+7141,"Shivamogga",422643,66,"Male","SARI","Breathlessness","DM, HTN",2020-09-06,2020-09-07,2020-09-12,NA
+7199,"Shivamogga",369902,70,"Male","SARI","Breathlessness","HTN",2020-09-01,2020-09-08,2020-09-13,NA
+7207,"Shivamogga",382931,61,"Male","SARI","Breathlessness","HTN",2020-09-07,2020-09-08,2020-09-13,NA
+7218,"Shivamogga",399072,70,"Female","SARI","Breathlessness","DM, HTN",2020-09-05,2020-09-06,2020-09-13,NA
+7235,"Shivamogga",424796,59,"Male","SARI","Breathlessness","-",2020-09-07,2020-09-08,2020-09-13,NA
+7242,"Shivamogga",433417,40,"Female","SARI","Breathlessness","-",2020-08-09,2020-08-09,2020-09-13,NA
+7303,"Shivamogga",399243,38,"Male","Contact under tracing","Fever, Cough","DM",2020-09-05,2020-09-07,2020-09-14,NA
+7311,"Shivamogga",407324,70,"Male","Contact under tracing","Breathlessness","DM",2020-09-05,2020-09-07,2020-09-14,NA
+7325,"Shivamogga",424789,80,"Male","Contact under tracing","Breathlessness","-",2020-09-06,2020-09-08,2020-09-14,NA
+7336,"Shivamogga",433375,46,"Female","Contact under tracing","-","-",2020-09-07,2020-09-08,2020-09-14,NA
+7337,"Shivamogga",434353,69,"Male","Contact under tracing","-","-",2020-08-09,2020-08-09,2020-09-14,NA
+7653,"Shivamogga",361807,68,"Female","Contact under tracing","-","-",2020-09-01,2020-09-17,2020-09-18,NA
+7654,"Shivamogga",361937,51,"Male","Contact under tracing","-","-",2020-09-02,2020-09-15,2020-09-18,NA
+7666,"Shivamogga",383956,67,"Female","Contact under tracing","-","CKD",2020-09-03,2020-09-09,2020-09-18,NA
+7672,"Shivamogga",392464,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-04,2020-09-16,2020-09-18,NA
+7688,"Shivamogga",406337,65,"Male","ILI","Fever, Cough","DM, HTN",2020-09-06,2020-09-11,2020-09-18,NA
+7693,"Shivamogga",411549,36,"Male","ILI","Fever, Cough","-",2020-09-06,2020-09-12,2020-09-18,NA
+7700,"Shivamogga",414762,54,"Male","SARI","Breathlessness","DM, HTN",2020-09-06,2020-09-11,2020-09-18,NA
+7703,"Shivamogga",415312,65,"Male","ILI","Fever, Cough","-",2020-09-07,2020-09-11,2020-09-18,NA
+7709,"Shivamogga",421093,72,"Male","ILI","Fever, Cough","DM, HTN",2020-09-07,2020-09-11,2020-09-18,NA
+7715,"Shivamogga",426853,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-06,2020-09-16,2020-09-18,NA
+7730,"Shivamogga",433829,70,"Female","ILI","Fever, Cough","-",2020-09-05,2020-09-09,2020-09-18,NA
+7735,"Shivamogga",437720,57,"Male","ILI","Fever, Cough","-",2020-09-07,2020-09-12,2020-09-18,NA
+7773,"Shivamogga",471527,70,"Male","SARI","Breathlessness","-",2020-09-11,2020-09-11,2020-09-18,NA
+7774,"Shivamogga",471530,60,"Female","ILI","Fever, Cough","-",2020-09-11,2020-09-11,2020-09-18,NA
+7778,"Shivamogga",473558,60,"Male","Contact under tracing","-","-",2020-09-13,2020-09-13,2020-09-18,NA
+7783,"Shivamogga",477740,52,"Female","Contact under tracing","-","IHD",2020-09-13,2020-09-13,2020-09-18,NA
+7792,"Shivamogga",486436,86,"Female","SARI","Breathlessness","-",2020-09-13,2020-09-14,2020-09-18,NA
+7813,"Shivamogga",502432,62,"Male","SARI","Breathlessness","HTN, CLD",2020-09-15,2020-09-16,2020-09-18,NA
+7835,"Shivamogga",424082,65,"Male","Contact under tracing","-","-",2020-09-07,2020-09-13,2020-09-19,NA
+7944,"Shivamogga",408421,57,"Male","ILI","Fever, Cough","-",2020-09-04,2020-09-06,2020-09-20,NA
+7945,"Shivamogga",408440,50,"Female","Contact under tracing","-","-",2020-09-05,2020-09-06,2020-09-20,NA
+7946,"Shivamogga",411542,60,"Male","Contact under tracing","Fever, Cough","-",2020-09-06,2020-09-12,2020-09-20,NA
+7947,"Shivamogga",412179,62,"Male","Contact under tracing","Fever, Cough","-",2020-09-06,2020-09-16,2020-09-20,NA
+7948,"Shivamogga",412199,59,"Female","Contact under tracing","Fever, Cough","-",2020-09-06,2020-09-06,2020-09-20,NA
+8021,"Shivamogga",517727,59,"Male","Contact under tracing","-","-",2020-09-19,2020-09-19,2020-09-20,NA
+8052,"Shivamogga",433426,65,"Female","SARI","Breathlessness","-",2020-09-05,2020-09-09,2020-09-21,NA
+8053,"Shivamogga",433459,62,"Female","ILI","Fever, Cough","-",2020-09-09,2020-09-10,2020-09-21,NA
+8054,"Shivamogga",434348,72,"Male","ILI","Fever, Cough","-",2020-09-09,2020-09-09,2020-09-21,NA
+8056,"Shivamogga",440210,75,"Female","SARI","Breathlessness","DM, HTN",2020-09-09,2020-09-15,2020-09-21,NA
+8109,"Shivamogga",502421,62,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-06,2020-09-16,2020-09-21,NA
+8110,"Shivamogga",502430,63,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-09-14,2020-09-16,2020-09-21,NA
+8127,"Shivamogga",515282,60,"Male","SARI","Breathlessness","-",2020-09-17,2020-09-17,2020-09-21,NA
+8171,"Shivamogga",439495,75,"Female","ILI","Fever, Cough","-",2020-09-16,2020-09-17,2020-09-22,NA
+8172,"Shivamogga",442353,60,"Male","ILI","Fever, Cough","-",2020-09-10,2020-09-10,2020-09-22,NA
+8173,"Shivamogga",443821,58,"Male","Contact under tracing","-","-",2020-09-09,2020-09-10,2020-09-22,NA
+8174,"Shivamogga",445174,72,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-09-12,2020-09-17,2020-09-22,NA
+8229,"Shivamogga",524618,84,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-16,2020-09-16,2020-09-22,NA
+8242,"Shivamogga",445179,67,"Male","ILI","Fever, Cough","-",2020-09-10,2020-09-18,2020-09-23,NA
+8246,"Shivamogga",454756,64,"Male","ILI","Fever, Cough","-",2020-09-09,2020-09-11,2020-09-23,NA
+8247,"Shivamogga",456878,67,"Female","SARI","Breathlessness","-",2020-09-11,2020-09-17,2020-09-23,NA
+8248,"Shivamogga",459497,58,"Female","ILI","Fever, Cough","-",2020-09-12,2020-09-19,2020-09-23,NA
+8249,"Shivamogga",459508,70,"Female","SARI","Breathlessness","-",2020-09-11,2020-09-18,2020-09-23,NA
+8250,"Shivamogga",460312,50,"Male","ILI","Fever, Breathlessness","-",2020-09-12,2020-09-18,2020-09-23,NA
+8251,"Shivamogga",460547,56,"Male","ILI","Fever, Cough","-",2020-09-11,2020-09-16,2020-09-23,NA
+8293,"Shivamogga",466357,56,"Female","ILI","Breathlessness","-",2020-09-12,2020-09-15,2020-09-24,NA
+8298,"Shivamogga",478740,74,"Male","SARI","Breathlessness","-",2020-09-13,2020-09-16,2020-09-24,NA
+8302,"Shivamogga",486427,54,"Male","Contac t under tracing","Breathlessness","-",2020-09-13,2020-09-13,2020-09-24,NA
+8304,"Shivamogga",488527,32,"Male","Contac t under tracing","Breathlessness","-",2020-09-16,2020-09-16,2020-09-24,NA
+8308,"Shivamogga",502411,50,"Male","SARI","Breathlessness","-",2020-09-16,2020-09-16,2020-09-24,NA
+8309,"Shivamogga",502428,80,"Male","SARI","Breathlessness","HTN, CVA",2020-09-15,2020-09-15,2020-09-24,NA
+8353,"Shivamogga",388021,84,"Male","ILI","Fever, Cough","-",2020-09-03,2020-09-20,2020-09-25,NA
+8361,"Shivamogga",443791,56,"Male","ILI","Fever, Cough","-",2020-09-11,2020-09-20,2020-09-25,NA
+8365,"Shivamogga",460987,76,"Male","ILI","Fever, Cough","-",2020-09-12,2020-09-20,2020-09-25,NA
+8372,"Shivamogga",481968,61,"Male","SARI","Fever, Breathlessness","-",2020-09-15,2020-09-20,2020-09-25,NA
+8388,"Shivamogga",502415,55,"Male","SARI","Breathlessness","-",2020-09-14,2020-09-17,2020-09-25,NA
+8400,"Shivamogga",524620,64,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-17,2020-09-18,2020-09-25,NA
+8407,"Shivamogga",535289,70,"Female","ILI","Fever, Cough","-",2020-09-19,2020-09-20,2020-09-25,NA
+8408,"Shivamogga",535463,31,"Male","SARI","Fever, Breathlessness","-",2020-09-20,2020-09-20,2020-09-25,NA
+8441,"Shivamogga",466377,83,"Male","Contact under tracing","-","-",2020-09-12,2020-09-17,2020-09-26,NA
+8442,"Shivamogga",469763,75,"Male","ILI","Fever, Cough","-",2020-09-12,2020-09-13,2020-09-26,NA
+8446,"Shivamogga",483159,60,"Male","ILI","Fever, Cough","-",2020-09-14,2020-09-23,2020-09-26,NA
+8454,"Shivamogga",490576,62,"Female","Contact under tracing","-","-",2020-09-17,2020-09-20,2020-09-26,NA
+8480,"Shivamogga",528476,60,"Male","ILI","Fever, Cough","-",2020-09-18,2020-09-20,2020-09-26,NA
+8489,"Shivamogga",533560,62,"Male","ILI","Fever, Cough","-",2020-09-19,2020-09-20,2020-09-26,NA
+8494,"Shivamogga",545408,55,"Female","SARI","Breathlessness","-",2020-09-20,2020-09-21,2020-09-26,NA
+8506,"Shivamogga",558819,70,"Female","Contact under tracing","-","-",2020-09-20,2020-09-20,2020-09-26,NA
+8529,"Shivamogga",495437,48,"Male","Contact under tracing","-","-",2020-09-13,2020-09-23,2020-09-27,NA
+8530,"Shivamogga",495438,65,"Male","SARI","Breathlessness","-",2020-09-13,2020-09-21,2020-09-27,NA
+8532,"Shivamogga",496077,60,"Female","ILI","Fever, Cough","DM, HTN",2020-09-16,2020-09-21,2020-09-27,NA
+8540,"Shivamogga",518042,60,"Female","ILI","Fever, Cough","-",2020-09-18,2020-09-20,2020-09-27,NA
+8542,"Shivamogga",523546,62,"Male","ILI","Fever, Cough","-",2020-09-19,2020-09-23,2020-09-27,NA
+8620,"Shivamogga",542124,57,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-20,2020-09-24,2020-09-28,NA
+8621,"Shivamogga",542562,70,"Male","Contact under tracing","Fever, Cough","-",2020-09-21,2020-09-21,2020-09-28,NA
+8622,"Shivamogga",542960,57,"Female","Contact under tracing","Fever, Breathlessness","-",2020-09-22,2020-09-22,2020-09-28,NA
+8626,"Shivamogga",545419,70,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-23,2020-09-23,2020-09-28,NA
+8631,"Shivamogga",555629,55,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-23,2020-09-24,2020-09-28,NA
+8635,"Shivamogga",563602,52,"Female","Contact under tracing","Breathlessness","-",2020-09-21,2020-09-25,2020-09-28,NA
+8728,"Shivamogga",511505,69,"Male","ILI","Fever, Cough","-",2020-09-16,2020-09-25,2020-09-29,NA
+8760,"Shivamogga",564139,78,"Male","SARI","Fever, Cough","DM, IHD",2020-09-23,2020-09-24,2020-09-29,NA
+8765,"Shivamogga",572218,60,"Male","SARI","Breathlessness","-",2020-09-22,2020-09-24,2020-09-29,NA
+8772,"Shivamogga",579952,72,"Male","ILI","Fever, Cough","-",2020-09-24,2020-09-25,2020-09-29,NA
+8774,"Shivamogga",585845,60,"Male","Contact under tracing","-","-",2020-09-26,2020-09-27,2020-09-29,NA
+8775,"Shivamogga",585850,82,"Female","SARI","Breathlessness","-",2020-09-24,2020-09-25,2020-09-29,NA
+8800,"Shivamogga",483187,65,"Male","ILI","Fever","DM, HTN, IHD",2020-09-12,2020-09-23,2020-09-30,NA
+8835,"Shivamogga",564131,65,"Female","SARI","Breathlessness","DM, HTN",2020-09-21,2020-09-24,2020-09-30,NA
+8836,"Shivamogga",564140,82,"Female","ILI","Fever","DM, HTN",2020-09-21,2020-09-23,2020-09-30,NA
+8837,"Shivamogga",564141,72,"Male","ILI","Fever","-",2020-09-21,2020-09-23,2020-09-30,NA
+8965,"Shivamogga",563612,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-29,2020-10-01,NA
+8970,"Shivamogga",566801,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-24,2020-09-29,2020-10-01,NA
+8973,"Shivamogga",569987,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-24,2020-09-29,2020-10-01,NA
+8981,"Shivamogga",580807,48,"Male","ILI","Fever, Cough","-",2020-09-25,2020-09-29,2020-10-01,NA
+9024,"Shivamogga",489329,76,"Female","SARI","Fever, Cough","DM, HTN",2020-09-19,2020-09-28,2020-10-02,NA
+9030,"Shivamogga",517097,75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-19,2020-09-28,2020-10-02,NA
+9036,"Shivamogga",525529,66,"Male","SARI","Fever, Cough","HTN",2020-09-15,2020-09-25,2020-10-02,NA
+9142,"Shivamogga",515264,82,"Male","Contact under tracing","Fever","-",2020-09-17,2020-09-22,2020-10-03,NA
+9143,"Shivamogga",519663,72,"Male","Contact under tracing","Fever",NA,2020-09-19,2020-09-26,2020-10-03,NA
+9174,"Shivamogga",572222,55,"Female","Contact under tracing","Breathlessness","DM, COPD",2020-09-24,2020-10-01,2020-10-03,NA
+9241,"Shivamogga",521584,60,"Male","Contact under tracing","Fever","-",2020-09-21,2020-09-24,2020-10-04,NA
+9242,"Shivamogga",521594,73,"Female","Contact under tracing","-","-",2020-09-17,2020-09-21,2020-10-04,NA
+9255,"Shivamogga",550274,62,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-09-20,2020-09-28,2020-10-04,NA
+9258,"Shivamogga",553620,70,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-22,2020-09-29,2020-10-04,NA
+9299,"Shivamogga",491054,54,"Female","SARI","Breathlessness","HTN",2020-09-24,2020-09-28,2020-10-05,NA
+9375,"Shivamogga",658947,56,"Female","SARI","Breathlessness","-",2020-10-03,2020-10-04,2020-10-05,NA
+9449,"Shivamogga",634977,78,"Male","SARI","Breathlessness",NA,2020-09-30,2020-10-01,2020-10-06,NA
+9676,"Shivamogga",677210,60,"Female","SARI","Breathlessness","DM",2020-10-04,2020-10-07,2020-10-08,NA
+9684,"Shivamogga",690519,55,"Female","SARI","Breathlessness","-",2020-10-07,2020-10-07,2020-10-08,NA
+9709,"Shivamogga",570824,67,"Male","SARI","Cough, Breathlessness","-",2020-09-29,2020-10-06,2020-10-09,NA
+9751,"Shivamogga",641906,72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-02,2020-10-04,2020-10-09,NA
+9773,"Shivamogga",669557,40,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-04,2020-10-05,2020-10-09,NA
+9800,"Shivamogga",95957,74,"Male","ILI","Fever, Cough","DM, HTN",2020-07-24,2020-07-24,2020-10-10,NA
+9801,"Shivamogga",112422,27,"Male","ILI","Fever, Cough","-",2020-07-27,2020-07-28,2020-10-10,NA
+9921,"Shivamogga",621565,59,"Male","ILI","Fever, Cough","-",2020-10-03,2020-10-04,2020-10-11,NA
+9936,"Shivamogga",649234,55,"Female","ILI","Fever, Cough","-",2020-10-03,2020-10-03,2020-10-11,NA
+9978,"Shivamogga",354561,65,"Male","ILI","Fever, Cough","-",2020-08-31,2020-09-05,2020-10-12,NA
+9979,"Shivamogga",359192,70,"Male","ILI","Fever, Cough","-",2020-08-30,2020-08-31,2020-10-12,NA
+10075,"Shivamogga",660117,73,"Male","Contact under tracing","Breathlessness","-",2020-10-01,2020-10-04,2020-10-13,NA
+10079,"Shivamogga",666584,58,"Male","Contact under tracing","Fever, Cough","-",2020-10-03,2020-10-05,2020-10-13,NA
+10214,"Shivamogga",584105,60,"Female","SARI","Breathlessness","-",2020-10-06,2020-10-07,2020-10-15,NA
+10224,"Shivamogga",656619,82,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-10-03,2020-10-11,2020-10-15,NA
+10231,"Shivamogga",667097,60,"Female","SARI","Breathlessness","-",2020-10-03,2020-10-06,2020-10-15,NA
+10296,"Shivamogga",574740,86,"Male","ILI","Fever, Cough","-",2020-09-25,2020-10-10,2020-10-16,NA
+10305,"Shivamogga",632582,87,"Female","SARI","Breathlessness","-",2020-09-30,2020-10-15,2020-10-16,NA
+10348,"Shivamogga",725811,62,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-10-10,2020-10-15,2020-10-16,NA
+10392,"Shivamogga",677217,61,"Male","SARI","Breathlessness","-",2020-10-06,2020-10-08,2020-10-17,NA
+10438,"Shivamogga",369896,55,"Female","ILI","Fever, Cough","-",2020-09-01,2020-09-03,2020-10-18,NA
+10439,"Shivamogga",381393,24,"Female","ILI","Fever, Cough","-",2020-09-03,2020-09-03,2020-10-18,NA
+10489,"Shivamogga",386898,56,"Female","SARI","Fever, Cough","-",2020-09-03,2020-09-04,2020-10-19,NA
+10490,"Shivamogga",388009,65,"Male","ILI","Fever, Cough","-",2020-09-03,2020-09-08,2020-10-19,NA
+10553,"Shivamogga",388670,52,"Male","ILI","Fever, Cough","-",2020-09-03,2020-09-11,2020-10-20,NA
+10554,"Shivamogga",389105,73,"Male","Contact under tracing","-","-",2020-09-04,2020-09-04,2020-10-20,NA
+10639,"Shivamogga",700102,62,"Male","SARI","Breathlessness","DM, HTN",2020-10-07,2020-10-08,2020-10-21,NA
+10794,"Shivamogga",716106,55,"Male","ILI","Breathlessness","-",2020-10-06,2020-10-10,2020-10-23,NA
+10795,"Shivamogga",716108,81,"Male","ILI","Fever, Cough","-",2020-10-09,2020-10-10,2020-10-23,NA
+10847,"Shivamogga",725804,41,"Female","ILI","Fever, Cough","-",2020-10-11,2020-10-12,2020-10-24,NA
+10919,"Shivamogga",642517,65,"Female","ILI","Fever, Cough, Breathlessness","DM, HTN",2020-10-04,2020-10-13,2020-10-26,NA
+11052,"Shivamogga",815766,80,"Female","ILI","Fever, Cough","DM, HTN",2020-10-24,2020-10-26,2020-10-28,NA
+11082,"Shivamogga",790458,25,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-21,2020-10-21,2020-10-29,NA
+11109,"Shivamogga",748758,31,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-13,2020-10-14,2020-10-30,NA
+11167,"Shivamogga",807913,72,"Male","ILI","Fever, Cough","HTN",2020-10-26,2020-10-30,2020-10-31,NA
+11205,"Shivamogga",779439,64,"Male","Contact under tracing","Fever, Cough","-",2020-10-19,2020-10-31,2020-11-02,NA
+11296,"Shivamogga",765586,56,"Male","SARI","Fever, Cough","-",2020-10-14,2020-10-17,2020-11-05,NA
+11621,"Shivamogga",862723,74,"Male","SARI","Breathlessness","DM, HTN",2020-11-09,2020-11-14,2020-11-20,NA
+12134,"Shivamogga",929968,81,"Male","ILI","Fever, Cough","-",2020-12-25,2021-01-04,2021-01-08,NA
+12630,"Shivamogga",989388,69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-21,2021-04-04,2021-04-05,NA
+12890,"Shivamogga",1074685,72,"Male","ILI","Fever, cough","-",2021-04-09,2021-04-10,2021-04-11,NA
+13083,"Shivamogga",1037615,53,"Male","-","Fever, Cough, Breathlessness","CLD",2021-04-04,2021-04-13,2021-04-15,NA
+13133,"Shivamogga",1052774,68,"Female","ILI","Fever, cough","HTN",2021-04-06,2021-04-14,2021-04-16,NA
+13246,"Shivamogga",1122145,59,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-14,2021-04-14,2021-04-17,NA
+13641,"Shivamogga",1204949,70,"Male","SARI","Breathlessness","-",2021-04-17,2021-04-18,2021-04-20,NA
+13647,"Shivamogga",1227902,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-19,2021-04-19,2021-04-20,NA
+13689,"Shivamogga",1113005,62,"Male","ILI","Fever","-",2021-04-13,2021-04-19,2021-04-21,NA
+13804,"Shivamogga",1127518,56,"Male","ILI","Fever, cough","-",2021-04-14,2021-04-22,2021-04-22,NA
+13970,"Shivamogga",1131545,67,"Male","ILI","Fever","DM, HTN",2021-04-15,2021-04-23,2021-04-23,NA
+14124,"Shivamogga",1111365,55,"Male","SARI","Breathlessness","IHD",2021-04-16,2021-04-24,2021-04-24,NA
+14194,"Shivamogga",1182506,58,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-24,2021-04-24,NA
+14274,"Shivamogga",1290572,35,"Male","SARI","Breathlessness","COPD",2021-04-22,2021-04-23,2021-04-24,NA
+14363,"Shivamogga",1231261,70,"Female","ILI","Fever","Hypothyroidism",2021-04-16,2021-04-25,2021-04-25,NA
+14456,"Shivamogga",1137981,72,"Male","ILI","Fever","DM",2021-04-15,2021-04-24,2021-04-26,NA
+14664,"Shivamogga",1170291,37,"Male","ILI","Fever","-",2021-04-13,2021-04-25,2021-04-27,NA
+14796,"Shivamogga",1399209,43,"Male","ILI","Fever","-",2021-04-19,2021-04-19,2021-04-27,NA
+14907,"Shivamogga",1267458,62,"Male","ILI","Fever, cough","DM",2021-04-20,2021-04-28,2021-04-28,NA
+14917,"Shivamogga",1292920,71,"Male","ILI","Fever, cough","DM",2021-04-22,2021-04-27,2021-04-28,NA
+15016,"Shivamogga",1410100,51,"Female","SARI","Fever, breathlessness","HTN",2021-04-22,2021-04-27,2021-04-28,NA
+15020,"Shivamogga",1412264,60,"Female","SARI","Breathlessness","DM",2021-04-25,2021-04-26,2021-04-28,NA
+15031,"Shivamogga",1423521,75,"Male","SARI","Fever, breathlessness","HTN",2021-04-26,2021-04-26,2021-04-28,NA
+15047,"Shivamogga",1066342,65,"Male","ILI","Fever","HTN",2021-04-08,2021-04-26,2021-04-29,NA
+15048,"Shivamogga",1073282,77,"Male","ILI","Fever","HTN",2021-04-17,2021-04-29,2021-04-29,NA
+15155,"Shivamogga",1292925,60,"Male","ILI","Fever, cough","DM, HTN",2021-04-25,2021-04-29,2021-04-29,NA
+15356,"Shivamogga",1265224,39,"Female","SARI","Breathlessness","HTN",2021-04-20,2021-04-30,2021-04-30,NA
+15357,"Shivamogga",1265231,78,"Female","SARI","Breathlessness","DM",2021-04-08,2021-04-30,2021-04-30,NA
+15397,"Shivamogga",1330206,72,"Female","SARI","Breathlessness","DM,  HTN, COPD",2021-04-23,2021-04-24,2021-04-30,NA
+15480,"Shivamogga",1471781,83,"Male","ILI","Fever, cough","DM, HTN",2021-04-26,2021-04-27,2021-04-30,NA
+15505,"Shivamogga",1512416,49,"Male","SARI","Breathlessness","DM",2021-04-23,2021-04-29,2021-04-30,NA
+15514,"Shivamogga",1531787,51,"Male","SARI","Breathlessness","DM",2021-04-28,2021-04-29,2021-04-30,NA
+15635,"Shivamogga",1325571,45,"Male","SARI","Breathlessness","-",2021-04-20,2021-05-01,2021-05-01,NA
+15665,"Shivamogga",1363442,47,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-30,2021-05-01,NA
+15707,"Shivamogga",1428474,62,"Male","SARI","Breathlessness","HTN",2021-04-26,2021-05-01,2021-05-01,NA
+15738,"Shivamogga",1491496,60,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-04-29,2021-05-01,NA
+15739,"Shivamogga",1497233,60,"Female","ILI","Fever","DM, HTN",2021-04-28,2021-04-29,2021-05-01,NA
+15775,"Shivamogga",1544903,39,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-04-30,2021-05-01,NA
+15853,"Shivamogga",1312686,80,"Female","SARI","Fever, Breathlessness","-",2021-04-24,2021-05-01,2021-05-02,NA
+15938,"Shivamogga",1494151,35,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-01,2021-05-02,NA
+15946,"Shivamogga",1514480,42,"Male","SARI","Breathlessness","DM",2021-04-29,2021-05-01,2021-05-02,NA
+15954,"Shivamogga",1534909,59,"Female","SARI","Fever, Breathlessness","HTN",2021-04-28,2021-05-01,2021-05-02,NA
+15963,"Shivamogga",1544885,62,"Male","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-01,2021-05-02,NA
+15964,"Shivamogga",1548555,65,"Female","SARI","Breathlessness","HTN",2021-04-29,2021-04-29,2021-05-02,NA
+15983,"Shivamogga",1594151,65,"Female","SARI","Breathlessness","-",2021-04-29,2021-05-01,2021-05-02,NA
+15999,"Shivamogga",1612719,66,"Male","ILI","Cough","DM",2021-04-30,2021-04-30,2021-05-02,NA
+16001,"Shivamogga",1613827,36,"Male","SARI","Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-02,NA
+16003,"Shivamogga",1616633,50,"Female","SARI","Breathlessness","-",2021-04-30,2021-04-30,2021-05-02,NA
+16004,"Shivamogga",1618856,70,"Female","SARI","Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-02,NA
+16010,"Shivamogga",1635399,75,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-02,NA
+16112,"Shivamogga",1395422,66,"Male","ILI","Fever, cough","HTN",2021-04-25,2021-05-02,2021-05-03,NA
+16141,"Shivamogga",1448154,74,"Male","ILI","Fever","DM, HTN",2021-04-27,2021-05-02,2021-05-03,NA
+16146,"Shivamogga",1454415,78,"Female","ILI","Fever, cough","DM, HTN",2021-04-26,2021-05-03,2021-05-03,NA
+16214,"Shivamogga",1580213,68,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-29,2021-05-02,2021-05-03,NA
+16217,"Shivamogga",1583983,62,"Male","ILI","Fever, cough","DM, HTN",2021-04-28,2021-05-02,2021-05-03,NA
+16219,"Shivamogga",1587711,86,"Male","ILI","Fever, cough","HTN",2021-05-01,2021-05-02,2021-05-03,NA
+16244,"Shivamogga",1647346,38,"Female","ILI","Fever, cough","DM",2021-05-01,2021-05-02,2021-05-03,NA
+16358,"Shivamogga",1374842,47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-05-03,2021-05-04,NA
+16366,"Shivamogga",1395421,46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-03,2021-05-04,NA
+16385,"Shivamogga",1433659,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-05-03,2021-05-04,NA
+16395,"Shivamogga",1460828,46,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-05-02,2021-05-04,NA
+16402,"Shivamogga",1480015,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-03,2021-05-04,NA
+16405,"Shivamogga",1486907,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-03,2021-05-04,NA
+16464,"Shivamogga",1603113,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-03,2021-05-04,NA
+16476,"Shivamogga",1613825,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-04,2021-05-04,NA
+16480,"Shivamogga",1622159,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-03,2021-05-04,NA
+16485,"Shivamogga",1629070,48,"Male","ILI","Cough","HTN",2021-04-29,2021-05-03,2021-05-04,NA
+16507,"Shivamogga",1662167,38,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-02,2021-05-04,NA
+16509,"Shivamogga",1666028,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-02,2021-05-04,NA
+16510,"Shivamogga",1666113,67,"Female","ILI","Fever","-",2021-04-30,2021-05-02,2021-05-04,NA
+16528,"Shivamogga",1698855,58,"Male","SARI","Breathlessness","-",2021-04-28,2021-05-03,2021-05-04,NA
+16534,"Shivamogga",1708775,32,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-03,2021-05-04,NA
+16724,"Shivamogga",1481664,60,"Female","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-04,2021-05-05,NA
+16750,"Shivamogga",1502452,60,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-05-05,2021-05-05,NA
+16758,"Shivamogga",1520654,57,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-04,2021-05-05,NA
+16786,"Shivamogga",1576408,65,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-04,2021-05-05,NA
+16812,"Shivamogga",1632307,67,"Female","SARI","Breathlessness","HTN",2021-05-01,2021-05-05,2021-05-05,NA
+16814,"Shivamogga",1635393,60,"Female","SARI","Breathlessness","HTN",2021-05-04,2021-05-04,2021-05-05,NA
+16816,"Shivamogga",1638634,72,"Male","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16824,"Shivamogga",1649412,65,"Male","ILI","Fever, Cough","HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16830,"Shivamogga",1666155,70,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-04,2021-05-05,NA
+16843,"Shivamogga",1697812,72,"Female","SARI","Breathlessness","HTN",2021-05-02,2021-05-04,2021-05-05,NA
+16847,"Shivamogga",1703952,51,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-04,2021-05-05,NA
+16856,"Shivamogga",1715815,65,"Male","SARI","Breathlessness","HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16868,"Shivamogga",1745380,60,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16870,"Shivamogga",1748838,58,"Male","SARI","Breathlessness","HTN",2021-05-03,2021-05-03,2021-05-05,NA
+16878,"Shivamogga",1761986,45,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-05,NA
+16965,"Shivamogga",1379692,77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-22,2021-05-05,2021-05-06,NA
+16975,"Shivamogga",1404590,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-05-05,2021-05-06,NA
+17002,"Shivamogga",1448133,42,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-04,2021-05-06,NA
+17034,"Shivamogga",1505493,61,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-05,2021-05-06,NA
+17124,"Shivamogga",1625729,41,"Male","ILI","Fever, Cough","-",2021-05-02,2021-05-05,2021-05-06,NA
+17128,"Shivamogga",1629021,51,"Male","ILI","Fever","-",2021-04-30,2021-05-05,2021-05-06,NA
+17180,"Shivamogga",1744201,65,"Female","ILI","Fever, Cough","HTN",2021-03-05,2021-05-05,2021-05-06,NA
+17186,"Shivamogga",1751440,63,"Male","SARI","Fever, Cough","HTN",2021-05-05,2021-05-05,2021-05-06,NA
+17205,"Shivamogga",1800621,32,"Female","ILI","Fever, Cough","-",2021-04-05,2021-05-05,2021-05-06,NA
+17206,"Shivamogga",1800623,55,"Male","ILI","Fever, Cough","HTN",2021-04-05,2021-04-05,2021-05-06,NA
+17207,"Shivamogga",1800636,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-05,2021-04-05,2021-05-06,NA
+17208,"Shivamogga",1800639,75,"Female","ILI","Fever, Cough","DM",2021-05-05,2021-05-05,2021-05-06,NA
+17209,"Shivamogga",1800642,65,"Female","ILI","Fever, Cough","HTN",2021-04-05,2021-05-05,2021-05-06,NA
+17210,"Shivamogga",1800643,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17211,"Shivamogga",1800644,45,"Female","SARI","Breathlessness","-",2021-04-05,2021-05-05,2021-05-06,NA
+17212,"Shivamogga",1800648,43,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17381,"Shivamogga",1361116,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-05-07,2021-05-07,NA
+17440,"Shivamogga",1450990,60,"Female","SARI","Breathlessness","DM",2021-04-26,2021-05-05,2021-05-07,NA
+17469,"Shivamogga",1481179,58,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-05-06,2021-05-07,NA
+17581,"Shivamogga",1597362,73,"Male","ILI","Fever","HTN",2021-04-30,2021-05-07,2021-05-07,NA
+17603,"Shivamogga",1622166,77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-07,2021-05-07,NA
+17650,"Shivamogga",1672670,64,"Male","ILI","Fever, Cough","HTN",2021-05-02,2021-05-07,2021-05-07,NA
+17682,"Shivamogga",1708822,60,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-07,2021-05-07,NA
+17707,"Shivamogga",1732486,80,"Female","ILI","Fever","HTN",2021-05-03,2021-05-07,2021-05-07,NA
+17713,"Shivamogga",1735170,68,"Male","ILI","Fever, Cough","HTN",2021-05-03,2021-05-07,2021-05-07,NA
+17748,"Shivamogga",1773282,58,"Male","SARI","Breathlessness","HTN",2021-04-05,2021-05-07,2021-05-07,NA
+17766,"Shivamogga",1800646,55,"Female","ILI","Fever","DM",2021-05-05,2021-05-07,2021-05-07,NA
+17796,"Shivamogga",1849741,74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-06,2021-05-07,NA
+17797,"Shivamogga",1849744,83,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-06,2021-05-07,NA
+17802,"Shivamogga",1855398,42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-06,2021-05-07,NA
+17934,"Shivamogga",1292902,59,"Female","SARI","Fever, Breathlessness","-",2021-04-23,2021-05-07,2021-05-08,NA
+18044,"Shivamogga",1499778,63,"Female","ILI","Fever, Cough","DM, HTN",2021-04-26,2021-05-06,2021-05-08,NA
+18071,"Shivamogga",1544905,50,"Male","ILI","Fever, Cough","HTN",2021-04-28,2021-05-08,2021-05-08,NA
+18081,"Shivamogga",1561389,52,"Male","ILI","Fever, Cough","DM",2021-05-03,2021-05-07,2021-05-08,NA
+18118,"Shivamogga",1618874,70,"Female","ILI","Fever, Cough","HTN",2021-04-29,2021-05-07,2021-05-08,NA
+18130,"Shivamogga",1649393,59,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-06,2021-05-08,NA
+18153,"Shivamogga",1675976,50,"Male","SARI","Fever, Breathlessness","HTN",2021-05-02,2021-05-06,2021-05-08,NA
+18171,"Shivamogga",1719748,66,"Female","ILI","Fever, Cough","HTN",2021-05-01,2021-05-07,2021-05-08,NA
+18208,"Shivamogga",1786327,79,"Female","ILI","Fever, Cough","HTN",2021-05-05,2021-05-07,2021-05-08,NA
+18216,"Shivamogga",1802256,50,"Male","SARI","Fever, Breathlessness","DM",2021-04-22,2021-05-07,2021-05-08,NA
+18231,"Shivamogga",1823876,58,"Male","ILI","Fever, Cough","HTN",2021-04-30,2021-05-08,2021-05-08,NA
+18263,"Shivamogga",1869519,24,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-06,2021-05-08,NA
+18279,"Shivamogga",1903059,53,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-07,2021-05-08,NA
+18482,"Shivamogga",1514439,60,"Male","SARI","Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-09,NA
+18517,"Shivamogga",1580108,38,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-09,2021-05-09,NA
+18518,"Shivamogga",1580244,45,"Female","SARI","Breathlessness","-",2021-04-01,2021-05-08,2021-05-09,NA
+18547,"Shivamogga",1603125,60,"Female","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-08,2021-05-09,NA
+18571,"Shivamogga",1638575,83,"Female","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18607,"Shivamogga",1711917,36,"Male","ILI","Fever","-",2021-05-02,2021-05-08,2021-05-09,NA
+18629,"Shivamogga",1748145,67,"Female","SARI","Fever, Breathlessness","HTN",2021-04-05,2021-04-05,2021-05-09,NA
+18630,"Shivamogga",1749275,55,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-04,2021-05-09,NA
+18642,"Shivamogga",1761943,46,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-08,2021-05-09,NA
+18666,"Shivamogga",1808695,52,"Male","SARI","Fever, Breathlessness","HTN",2021-05-04,2021-05-09,2021-05-09,NA
+18696,"Shivamogga",1852906,64,"Female","SARI","Breathlessness","DM",2021-05-05,2021-05-09,2021-05-09,NA
+18723,"Shivamogga",1896835,70,"Female","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-09,2021-05-09,NA
+18743,"Shivamogga",1922730,74,"Female","SARI","Fever, Breathlessness","HTN",2021-05-03,2021-05-07,2021-05-09,NA
+18751,"Shivamogga",1934761,55,"Female","SARI","Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18755,"Shivamogga",1940397,60,"Male","SARI","Fever, Breathlessness","COPD",2021-05-07,2021-05-08,2021-05-09,NA
+18767,"Shivamogga",1949298,62,"Female","ILI","Fever","HTN",2021-05-04,2021-05-08,2021-05-09,NA
+18772,"Shivamogga",1954552,75,"Male","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-09,NA
+19044,"Shivamogga",1522631,38,"Male","SARI","Breathlessness","-",2021-04-27,2021-05-08,2021-05-10,NA
+19201,"Shivamogga",1740013,53,"Male","SARI","Fever, Breathlessness","HTN",2021-05-06,2021-05-09,2021-05-10,NA
+19271,"Shivamogga",1842652,75,"Female","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-08,2021-05-10,NA
+19315,"Shivamogga",1912354,60,"Female","ILI","Fever","HTN",2021-05-06,2021-05-08,2021-05-10,NA
+19341,"Shivamogga",1951995,75,"Male","SARI","Breathlessness","HTN",2021-05-06,2021-05-08,2021-05-10,NA
+19342,"Shivamogga",1951998,34,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19356,"Shivamogga",1984764,31,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19363,"Shivamogga",1993803,50,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-08,2021-05-10,NA
+19365,"Shivamogga",1996477,46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-10,NA
+19367,"Shivamogga",1999594,85,"Male","ILI","Fever","HTN",2021-05-09,2021-05-09,2021-05-10,NA
+19373,"Shivamogga",2019864,52,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-09,2021-05-10,NA
+19539,"Shivamogga",1423522,74,"Female","SARI","Fever, breathlessness","HTN",2021-04-26,2021-05-10,2021-05-11,NA
+19569,"Shivamogga",1552650,69,"Male","ILI","Fever, cough","HTN",2021-05-07,2021-05-09,2021-05-11,NA
+19570,"Shivamogga",1555776,65,"Male","ILI","Fever, cough","DM",2021-05-07,2021-05-09,2021-05-11,NA
+19576,"Shivamogga",1590948,62,"Female","ILI","Fever, cough","HTN",2021-05-02,2021-05-08,2021-05-11,NA
+19578,"Shivamogga",1600559,64,"Male","ILI","Fever, cough","HTN",2021-05-02,2021-05-06,2021-05-11,NA
+19636,"Shivamogga",1744198,44,"Male","ILI","Fever, cough","-",2021-05-03,2021-05-10,2021-05-11,NA
+19661,"Shivamogga",1765859,66,"Male","ILI","Fever, cough","HTN",2021-05-03,2021-05-09,2021-05-11,NA
+19769,"Shivamogga",1897907,54,"Female","ILI","Fever, cough","DM",2021-05-06,2021-05-10,2021-05-11,NA
+19794,"Shivamogga",1927448,26,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-11,NA
+19837,"Shivamogga",2003332,45,"Female","ILI","Fever, cough","-",2021-05-09,2021-05-09,2021-05-11,NA
+19941,"Shivamogga",1607410,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-12,NA
+19954,"Shivamogga",1638586,55,"Female","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-11,2021-05-12,NA
+20023,"Shivamogga",1711916,61,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-11,2021-05-12,NA
+20036,"Shivamogga",1723079,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-12,NA
+20059,"Shivamogga",1741697,50,"Male","SARI","Fever, Breathlessness","HTN",2021-05-03,2021-05-11,2021-05-12,NA
+20130,"Shivamogga",1805052,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-12,NA
+20143,"Shivamogga",1812147,76,"Male","SARI","Fever, Breathlessness","DM",2021-05-08,2021-05-11,2021-05-12,NA
+20146,"Shivamogga",1816311,61,"Female","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-10,2021-05-12,NA
+20169,"Shivamogga",1842651,57,"Male","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-11,2021-05-12,NA
+20200,"Shivamogga",1882094,59,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-11,2021-05-12,NA
+20265,"Shivamogga",1937679,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-11,2021-05-12,NA
+20267,"Shivamogga",1940390,75,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-12,NA
+20321,"Shivamogga",2008500,90,"Female","SARI","Fever, Breathlessness","HTN",2021-05-06,2021-05-11,2021-05-12,NA
+20330,"Shivamogga",2019804,58,"Male","SARI","Fever, Breathlessness","HTN",2021-05-09,2021-05-11,2021-05-12,NA
+20335,"Shivamogga",2028407,57,"Male","SARI","Fever, Breathlessness","HTN",2021-05-11,2021-05-11,2021-05-12,NA
+20339,"Shivamogga",2032225,60,"Female","SARI","Fever, Breathlessness","HTN",2021-05-09,2021-05-09,2021-05-12,NA
+20347,"Shivamogga",2039922,68,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-10,2021-05-12,NA
+20348,"Shivamogga",2039925,40,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-10,2021-05-12,NA
+20349,"Shivamogga",2041653,34,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-10,2021-05-12,NA
+20352,"Shivamogga",2044147,73,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-12,NA
+20353,"Shivamogga",2044225,40,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-10,2021-05-12,NA
+20358,"Shivamogga",2049748,40,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-10,2021-05-12,NA
+20361,"Shivamogga",2058399,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-10,2021-05-12,NA
+20362,"Shivamogga",2058446,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-10,2021-05-12,NA
+20364,"Shivamogga",2066040,29,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-10,2021-05-12,NA
+20366,"Shivamogga",2072311,80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-11,2021-05-12,NA
+20511,"Shivamogga",1715811,60,"Female","ILI","Fever, Cough","HTN",2021-05-01,2021-05-11,2021-05-13,NA
+20523,"Shivamogga",1738086,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-12,2021-05-13,NA
+20559,"Shivamogga",1830454,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-12,2021-05-13,NA
+20584,"Shivamogga",1897911,40,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-12,2021-05-13,NA
+20637,"Shivamogga",2005726,44,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-11,2021-05-13,NA
+20661,"Shivamogga",2039167,62,"Male","ILI","Fever","HTN",2021-05-10,2021-05-11,2021-05-13,NA
+20668,"Shivamogga",2044150,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-12,2021-05-13,NA
+20700,"Shivamogga",2093939,40,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20701,"Shivamogga",2101291,28,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-11,2021-05-13,NA
+20706,"Shivamogga",2115450,62,"Male","SARI","Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-13,NA
+20822,"Shivamogga",1699626,30,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-10,2021-05-14,NA
+20980,"Shivamogga",2041640,66,"Male","ILI","Fever","DM, HTN",2021-05-10,2021-05-10,2021-05-14,NA
+21000,"Shivamogga",2055700,45,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-12,2021-05-14,NA
+21047,"Shivamogga",2128105,45,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21048,"Shivamogga",2128112,65,"Female","SARI","Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-14,NA
+21204,"Shivamogga",1786335,52,"Male","ILI","Fever","HTN",2021-05-11,2021-05-13,2021-05-15,NA
+21252,"Shivamogga",1909225,83,"Female","ILI","Fever","DM, HTN",2021-05-07,2021-05-14,2021-05-15,NA
+21255,"Shivamogga",1912353,27,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-12,2021-05-15,NA
+21268,"Shivamogga",1951106,60,"Male","SARI","Breathlessness","HTN",2021-05-08,2021-05-12,2021-05-15,NA
+21299,"Shivamogga",2008462,17,"Male","ILI","Fever, Cough","-",2021-05-08,2021-05-13,2021-05-15,NA
+21300,"Shivamogga",2011550,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-14,2021-05-15,NA
+21315,"Shivamogga",2044200,75,"Female","SARI","Breathlessness","HTN",2021-05-08,2021-05-14,2021-05-15,NA
+21334,"Shivamogga",2070399,45,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-13,2021-05-15,NA
+21336,"Shivamogga",2071695,65,"Female","SARI","Fever, Breathlessness","HTN",2021-05-10,2021-05-14,2021-05-15,NA
+21365,"Shivamogga",2104083,60,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-13,2021-05-15,NA
+21377,"Shivamogga",2127871,38,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-13,2021-05-15,NA
+21380,"Shivamogga",2142264,55,"Female","SARI","Breathlessness","HTN",2021-05-11,2021-05-12,2021-05-15,NA
+21387,"Shivamogga",2149117,65,"Female","ILI","Fever","HTN",2021-05-12,2021-05-14,2021-05-15,NA
+21399,"Shivamogga",2157258,55,"Male","SARI","Breathlessness","DM",2021-05-13,2021-05-13,2021-05-15,NA
+21400,"Shivamogga",2158217,45,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21593,"Shivamogga",1800631,68,"Female","SARI","Fever, Breathlessness","HTN",2021-05-09,2021-05-15,2021-05-16,NA
+21595,"Shivamogga",1808693,29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-05,2021-05-15,2021-05-16,NA
+21654,"Shivamogga",1957805,52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-14,2021-05-16,NA
+21657,"Shivamogga",1964047,56,"Male","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-15,2021-05-16,NA
+21663,"Shivamogga",1970513,68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-15,2021-05-16,NA
+21710,"Shivamogga",2046995,60,"Male","SARI","Breathlessness","DM",2021-05-15,2021-05-15,2021-05-16,NA
+21733,"Shivamogga",2072316,63,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-15,2021-05-16,NA
+21784,"Shivamogga",2153902,49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21789,"Shivamogga",2157741,45,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-16,NA
+21795,"Shivamogga",2161336,48,"Male","ILI","Fever","-",2021-05-12,2021-05-14,2021-05-16,NA
+21803,"Shivamogga",2173262,25,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-16,NA
+21806,"Shivamogga",2184653,64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-13,2021-05-14,2021-05-16,NA
+21807,"Shivamogga",2184654,47,"Male","SARI","Breathlessness","HTN",2021-05-13,2021-05-14,2021-05-16,NA
+21815,"Shivamogga",2192301,67,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-14,2021-05-16,NA
+21993,"Shivamogga",1723121,57,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-15,2021-05-17,NA
+22067,"Shivamogga",1927455,62,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-16,2021-05-17,NA
+22102,"Shivamogga",2001304,78,"Male","ILI","Fever","HTN",2021-05-08,2021-05-16,2021-05-17,NA
+22145,"Shivamogga",2073254,53,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-15,2021-05-17,NA
+22163,"Shivamogga",2104109,65,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-17,NA
+22170,"Shivamogga",2109366,67,"Male","SARI","Breathlessness","HTN",2021-05-11,2021-05-15,2021-05-17,NA
+22178,"Shivamogga",2115996,84,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-15,2021-05-17,NA
+22199,"Shivamogga",2142230,78,"Female","ILI","Fever","DM, HTN",2021-05-13,2021-05-16,2021-05-17,NA
+22223,"Shivamogga",2180273,39,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-14,2021-05-17,NA
+22230,"Shivamogga",2184650,65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-16,2021-05-17,NA
+22240,"Shivamogga",2196964,43,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-15,2021-05-17,NA
+22253,"Shivamogga",2212686,42,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-17,NA
+22276,"Shivamogga",2242989,60,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-15,2021-05-17,NA
+22281,"Shivamogga",2245191,45,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22296,"Shivamogga",2257995,59,"Female","SARI","Breathlessness","DM",2021-05-11,2021-05-15,2021-05-17,NA
+22490,"Shivamogga",1644312,35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-16,2021-05-18,NA
+22581,"Shivamogga",1898667,53,"Female","SARI","Breathlessness","HTN",2021-05-09,2021-05-17,2021-05-18,NA
+22608,"Shivamogga",1964117,50,"Male","ILI","Fever, Cough","DM, HTN",2021-05-08,2021-05-17,2021-05-18,NA
+22619,"Shivamogga",1997081,75,"Female","SARI","Breathlessness","DM",2021-05-06,2021-05-09,2021-05-18,NA
+22621,"Shivamogga",1998644,37,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-08,2021-05-18,NA
+22622,"Shivamogga",2003263,61,"Male","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-17,2021-05-18,NA
+22647,"Shivamogga",2044182,46,"Male","ILI","Fever","-",2021-05-05,2021-05-17,2021-05-18,NA
+22667,"Shivamogga",2067832,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-14,2021-05-18,NA
+22668,"Shivamogga",2070401,49,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-16,2021-05-18,NA
+22724,"Shivamogga",2149114,52,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-12,2021-05-17,2021-05-18,NA
+22777,"Shivamogga",2216334,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-18,NA
+22781,"Shivamogga",2223121,60,"Male","SARI","Breathlessness","HTN",2021-05-16,2021-05-16,2021-05-18,NA
+22794,"Shivamogga",2240370,41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-17,2021-05-18,NA
+22802,"Shivamogga",2247346,54,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-14,2021-05-18,NA
+22815,"Shivamogga",2268424,41,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-17,2021-05-18,NA
+22953,"Shivamogga",1666143,80,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-13,2021-05-19,NA
+22980,"Shivamogga",1745374,66,"Male","ILI","Fever","-",2021-05-10,2021-05-19,2021-05-19,NA
+22999,"Shivamogga",1792837,51,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-19,2021-05-19,NA
+23062,"Shivamogga",1967052,75,"Female","SARI","Cough, Breathlessness","HTN",2021-05-16,2021-05-18,2021-05-19,NA
+23079,"Shivamogga",2005700,85,"Male","ILI","Fever, Cough","DM",2021-05-05,2021-05-16,2021-05-19,NA
+23090,"Shivamogga",2032227,85,"Female","ILI","Fever","DM, HTN",2021-05-09,2021-05-17,2021-05-19,NA
+23093,"Shivamogga",2035626,68,"Male","SARI","Breathlessness","HTN",2021-05-10,2021-05-17,2021-05-19,NA
+23099,"Shivamogga",2046999,44,"Male","ILI","Fever","-",2021-05-10,2021-05-18,2021-05-19,NA
+23108,"Shivamogga",2058461,54,"Male","ILI","Fever, Cough","-",2021-04-29,2021-05-16,2021-05-19,NA
+23119,"Shivamogga",2076553,50,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-16,2021-05-19,NA
+23140,"Shivamogga",2106167,40,"Male","ILI","Fever","-",2021-05-14,2021-05-18,2021-05-19,NA
+23169,"Shivamogga",2149153,45,"Male","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-18,2021-05-19,NA
+23170,"Shivamogga",2149215,72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-17,2021-05-19,NA
+23231,"Shivamogga",2218635,55,"Female","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-18,2021-05-19,NA
+23249,"Shivamogga",2242993,16,"Male","ILI","Fever, Cough","-",2021-05-14,2021-05-15,2021-05-19,NA
+23254,"Shivamogga",2247353,48,"Female","ILI","Fever, Cough","-",2021-05-15,2021-05-17,2021-05-19,NA
+23281,"Shivamogga",2282706,60,"Male","SARI","Cough, Breathlessness","HTN",2021-05-16,2021-05-17,2021-05-19,NA
+23283,"Shivamogga",2287227,60,"Male","ILI","Fever, Cough","DM, HTN",2021-05-16,2021-05-16,2021-05-19,NA
+23285,"Shivamogga",2291776,56,"Male","ILI","Fever","HTN",2021-05-16,2021-05-17,2021-05-19,NA
+23580,"Shivamogga",1964070,62,"Female","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-18,2021-05-20,NA
+23631,"Shivamogga",2064024,37,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-18,2021-05-20,NA
+23633,"Shivamogga",2067821,63,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-19,2021-05-20,NA
+23635,"Shivamogga",2073195,74,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-14,2021-05-19,2021-05-20,NA
+23645,"Shivamogga",2084577,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-18,2021-05-20,NA
+23666,"Shivamogga",2109319,65,"Female","ILI","Fever","-",2021-05-11,2021-05-18,2021-05-20,NA
+23675,"Shivamogga",2124644,60,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-18,2021-05-20,NA
+23687,"Shivamogga",2138490,34,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-17,2021-05-20,NA
+23688,"Shivamogga",2138544,43,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-18,2021-05-20,NA
+23691,"Shivamogga",2142263,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-18,2021-05-20,NA
+23727,"Shivamogga",2200772,50,"Male","ILI","Fever, Cough","DM",2021-05-09,2021-05-18,2021-05-20,NA
+23745,"Shivamogga",2223065,72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-18,2021-05-20,NA
+23820,"Shivamogga",2314082,28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-20,NA
+23825,"Shivamogga",2321667,62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-18,2021-05-20,NA
+23826,"Shivamogga",2321670,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-19,2021-05-20,NA
+23829,"Shivamogga",2325380,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-20,NA
+23840,"Shivamogga",2338345,40,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-18,2021-05-20,NA
+23988,"Shivamogga",2055645,77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-21,2021-05-21,NA
+24011,"Shivamogga",2104150,55,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-19,2021-05-21,NA
+24012,"Shivamogga",2106164,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-21,NA
+24020,"Shivamogga",2121991,54,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-19,2021-05-21,NA
+24037,"Shivamogga",2149216,53,"Female","ILI","Fever, Cough","DM",2021-05-18,2021-05-20,2021-05-21,NA
+24057,"Shivamogga",2176980,46,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-20,2021-05-21,NA
+24063,"Shivamogga",2187513,69,"Male","ILI","Fever","HTN",2021-05-19,2021-05-19,2021-05-21,NA
+24086,"Shivamogga",2229200,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-05-21,NA
+24088,"Shivamogga",2232909,58,"Male","ILI","Fever, Cough","HTN",2021-05-14,2021-05-20,2021-05-21,NA
+24104,"Shivamogga",2247348,80,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-19,2021-05-21,NA
+24128,"Shivamogga",2282702,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-21,NA
+24131,"Shivamogga",2287220,84,"Female","ILI","Fever","DM",2021-05-16,2021-05-19,2021-05-21,NA
+24137,"Shivamogga",2296587,45,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-20,2021-05-21,NA
+24148,"Shivamogga",2308270,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-05-21,NA
+24160,"Shivamogga",2319084,65,"Male","ILI","Cough","-",2021-05-17,2021-05-19,2021-05-21,NA
+24165,"Shivamogga",2325421,84,"Male","ILI","Fever","DM, HTN",2021-05-20,2021-05-20,2021-05-21,NA
+24176,"Shivamogga",2345047,85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-21,2021-05-21,NA
+24177,"Shivamogga",2345090,66,"Male","ILI","Fever","DM",2021-05-18,2021-05-19,2021-05-21,NA
+24186,"Shivamogga",2354094,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-19,2021-05-21,NA
+24204,"Shivamogga",2386278,73,"Male","ILI","Fever","HTN",2021-05-20,2021-05-20,2021-05-21,NA
+24428,"Shivamogga",1800626,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-22,NA
+24495,"Shivamogga",2118379,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-22,NA
+24516,"Shivamogga",2173348,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-22,NA
+24533,"Shivamogga",2212659,65,"Male","ILI","Fever","DM, HTN",2021-05-09,2021-05-14,2021-05-22,NA
+24534,"Shivamogga",2212707,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-19,2021-05-22,NA
+24541,"Shivamogga",2229148,64,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-14,2021-05-22,NA
+24563,"Shivamogga",2282707,53,"Female","ILI","Fever","-",2021-05-16,2021-05-16,2021-05-22,NA
+24581,"Shivamogga",2319062,48,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-19,2021-05-22,NA
+24594,"Shivamogga",2338191,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-05-22,NA
+24603,"Shivamogga",2347348,52,"Male","ILI","Fever","-",2021-05-18,2021-05-18,2021-05-22,NA
+24649,"Shivamogga",2415700,58,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-20,2021-05-22,NA
+24659,"Shivamogga",2437127,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-22,NA
+24660,"Shivamogga",2437133,75,"Male","ILI","Fever","DM, HTN",2021-05-21,2021-05-21,2021-05-22,NA
+24662,"Shivamogga",2443962,60,"Male","ILI","Fever","HTN",2021-05-21,2021-05-21,2021-05-22,NA
+24916,"Shivamogga",1937672,59,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-21,2021-05-23,NA
+25041,"Shivamogga",2149126,30,"Male","ILI","Cough","-",2021-05-11,2021-05-21,2021-05-23,NA
+25151,"Shivamogga",2300346,60,"Male","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-05-23,NA
+25155,"Shivamogga",2303713,46,"Male","SARI","Cough, Breathlessness","DM",2021-05-14,2021-05-22,2021-05-23,NA
+25169,"Shivamogga",2324875,33,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25170,"Shivamogga",2327133,77,"Male","ILI","Fever, Cough","DM, HTN",2021-05-17,2021-05-22,2021-05-23,NA
+25188,"Shivamogga",2355777,60,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-22,2021-05-23,NA
+25199,"Shivamogga",2363339,70,"Male","ILI","Fever","-",2021-05-19,2021-05-22,2021-05-23,NA
+25209,"Shivamogga",2368077,47,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25236,"Shivamogga",2394317,87,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25239,"Shivamogga",2396087,66,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25242,"Shivamogga",2398850,54,"Female","ILI","Fever, Cough","HTN",2021-05-20,2021-05-22,2021-05-23,NA
+25268,"Shivamogga",2431507,65,"Female","ILI","Fever, Cough","DM",2021-05-21,2021-05-22,2021-05-23,NA
+25631,"Shivamogga",2266069,61,"Male","ILI","Fever, Cough","HTN",2021-05-20,2021-05-22,2021-05-24,NA
+25652,"Shivamogga",2300324,32,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-23,2021-05-24,NA
+25667,"Shivamogga",2318016,60,"Female","SARI","Cough, Breathlessness","HTN",2021-05-17,2021-05-23,2021-05-24,NA
+25671,"Shivamogga",2325406,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-22,2021-05-24,NA
+25674,"Shivamogga",2329341,65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-21,2021-05-23,2021-05-24,NA
+25687,"Shivamogga",2345013,72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-23,2021-05-24,NA
+25696,"Shivamogga",2352445,82,"Female","SARI","Breathlessness","-",2021-05-19,2021-05-22,2021-05-24,NA
+25739,"Shivamogga",2404299,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-22,2021-05-24,NA
+25747,"Shivamogga",2411600,50,"Male","ILI","Fever, Cough","-",2021-03-21,2021-05-23,2021-05-24,NA
+25748,"Shivamogga",2411610,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-23,2021-05-24,NA
+25756,"Shivamogga",2423755,60,"Female","SARI","Breathlessness","-",2021-05-21,2021-05-22,2021-05-24,NA
+25768,"Shivamogga",2431536,65,"Female","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25769,"Shivamogga",2433512,58,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-24,NA
+25771,"Shivamogga",2437150,50,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-22,2021-05-24,NA
+25772,"Shivamogga",2437172,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-24,NA
+25785,"Shivamogga",2447101,53,"Female","ILI","Fever, Cough","-",2021-05-23,2021-05-23,2021-05-24,NA
+26179,"Shivamogga",2187481,66,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-25,NA
+26183,"Shivamogga",2196963,85,"Male","ILI","Fever","-",2021-05-14,2021-05-24,2021-05-25,NA
+26195,"Shivamogga",2216333,59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-24,2021-05-25,NA
+26196,"Shivamogga",2218645,70,"Male","ILI","Fever, Cough","DM",2021-05-14,2021-05-24,2021-05-25,NA
+26227,"Shivamogga",2282699,48,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-24,2021-05-25,NA
+26250,"Shivamogga",2301627,52,"Male","ILI","Fever, Cough","DM, HTN",2021-05-18,2021-05-24,2021-05-25,NA
+26257,"Shivamogga",2312785,65,"Female","SARI","Fever","DM",2021-05-17,2021-05-24,2021-05-25,NA
+26297,"Shivamogga",2384772,60,"Female","ILI","Fever, Cough","HTN",2021-05-19,2021-05-23,2021-05-25,NA
+26307,"Shivamogga",2392681,84,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-23,2021-05-25,NA
+26314,"Shivamogga",2398797,85,"Female","ILI","Fever, Cough","HTN",2021-05-20,2021-05-24,2021-05-25,NA
+26329,"Shivamogga",2411678,35,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-23,2021-05-25,NA
+26338,"Shivamogga",2417484,47,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-24,2021-05-25,NA
+26347,"Shivamogga",2433534,55,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-24,2021-05-25,NA
+26358,"Shivamogga",2455950,73,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-24,2021-05-25,NA
+26371,"Shivamogga",2475729,53,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-23,2021-05-25,NA
+26372,"Shivamogga",2475793,56,"Female","SARI","Breathlessness","-",2021-05-22,2021-05-24,2021-05-25,NA
+26373,"Shivamogga",2475801,75,"Male","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-05-25,NA
+26383,"Shivamogga",2482301,57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-25,NA
+26398,"Shivamogga",2500852,45,"Female","SARI","Breathlessness","DM",2021-05-23,2021-05-24,2021-05-25,NA
+26754,"Shivamogga",2242994,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-25,2021-05-26,NA
+26784,"Shivamogga",2310753,47,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-25,2021-05-26,NA
+26827,"Shivamogga",2386276,38,"Female","SARI","Cough, Breathlessness","-",2021-05-19,2021-05-24,2021-05-26,NA
+26850,"Shivamogga",2421371,57,"Female","ILI","Fever, Cough","-",2021-05-21,2021-05-23,2021-05-26,NA
+26851,"Shivamogga",2423800,52,"Female","ILI","Fever, Cough","DM",2021-05-21,2021-05-25,2021-05-26,NA
+26858,"Shivamogga",2433569,55,"Male","ILI","Fever, Cough","HTN",2021-05-21,2021-05-24,2021-05-26,NA
+26862,"Shivamogga",2441678,70,"Female","ILI","Fever, Cough","-",2021-05-21,2021-05-25,2021-05-26,NA
+26866,"Shivamogga",2449460,45,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-25,2021-05-26,NA
+26869,"Shivamogga",2452197,43,"Female","ILI","Fever, Cough","DM",2021-05-22,2021-05-24,2021-05-26,NA
+26882,"Shivamogga",2475761,80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-26,NA
+26883,"Shivamogga",2475819,65,"Female","ILI","Fever, Cough","-",2021-05-22,2021-05-25,2021-05-26,NA
+26896,"Shivamogga",2486011,75,"Female","ILI","Fever, Cough","-",2021-05-23,2021-05-24,2021-05-26,NA
+26906,"Shivamogga",2502507,73,"Male","ILI","Fever, Cough","DM, HTN",2021-05-24,2021-05-24,2021-05-26,NA
+26917,"Shivamogga",2512462,70,"Male","ILI","Fever, Cough","-",2021-05-23,2021-05-25,2021-05-26,NA
+27212,"Shivamogga",2275339,68,"Female","ILI","Fever","DM, HTN",2021-05-14,2021-05-27,2021-05-27,NA
+27219,"Shivamogga",2287151,54,"Male","ILI","Fever","-",2021-05-16,2021-05-23,2021-05-27,NA
+27246,"Shivamogga",2319068,60,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-26,2021-05-27,NA
+27247,"Shivamogga",2319071,61,"Female","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-25,2021-05-27,NA
+27315,"Shivamogga",2427262,46,"Female","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-26,2021-05-27,NA
+27360,"Shivamogga",2475809,70,"Male","SARI","Fever, Breathlessness","HTN",2021-05-22,2021-05-26,2021-05-27,NA
+27390,"Shivamogga",2518778,59,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-24,2021-05-27,2021-05-27,NA
+27446,"Shivamogga",1970516,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-27,2021-05-28,NA
+27655,"Shivamogga",2338307,58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-27,2021-05-28,NA
+27665,"Shivamogga",2363316,39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-26,2021-05-28,NA
+27688,"Shivamogga",2423796,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-26,2021-05-28,NA
+27694,"Shivamogga",2428982,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-25,2021-05-28,NA
+27696,"Shivamogga",2431515,71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-26,2021-05-28,NA
+27697,"Shivamogga",2431567,36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-28,2021-05-28,NA
+27724,"Shivamogga",2475818,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-27,2021-05-28,NA
+27762,"Shivamogga",2526748,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-28,NA
+27800,"Shivamogga",2569773,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-26,2021-05-28,NA
+27803,"Shivamogga",2577311,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-27,2021-05-28,NA
+27809,"Shivamogga",2584732,79,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-28,2021-05-28,NA
+27810,"Shivamogga",2584768,27,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-27,2021-05-28,NA
+28064,"Shivamogga",2333686,62,"Female","ILI","Fever, Cough","HTN",2021-05-16,2021-05-21,2021-05-29,NA
+28066,"Shivamogga",2338385,45,"Female","ILI","Fever","-",2021-05-18,2021-05-22,2021-05-29,NA
+28067,"Shivamogga",2345058,51,"Male","ILI","Fever, Cough","-",2021-05-17,2021-05-22,2021-05-29,NA
+28077,"Shivamogga",2358083,31,"Male","ILI","Fever, Cough","DM",2021-05-18,2021-05-28,2021-05-29,NA
+28090,"Shivamogga",2365734,58,"Male","ILI","Fever","HTN",2021-05-21,2021-05-27,2021-05-29,NA
+28112,"Shivamogga",2398777,57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-28,2021-05-29,NA
+28113,"Shivamogga",2398807,64,"Male","ILI","Fever","-",2021-05-20,2021-05-27,2021-05-29,NA
+28114,"Shivamogga",2398825,42,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-26,2021-05-29,NA
+28128,"Shivamogga",2417511,82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-29,2021-05-29,NA
+28133,"Shivamogga",2423761,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-28,2021-05-29,NA
+28217,"Shivamogga",2507063,80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-28,2021-05-29,NA
+28233,"Shivamogga",2520313,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-27,2021-05-29,NA
+28235,"Shivamogga",2523782,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-27,2021-05-29,NA
+28261,"Shivamogga",2547334,68,"Male","ILI","Fever, Cough","HTN",2021-05-25,2021-05-27,2021-05-29,NA
+28517,"Shivamogga",2358877,80,"Female","ILI","Fever, Cough","DM",2021-05-17,2021-05-27,2021-05-30,NA
+28521,"Shivamogga",2373123,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-30,2021-05-30,NA
+28527,"Shivamogga",2384767,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-27,2021-05-30,NA
+28585,"Shivamogga",2460861,49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-29,2021-05-30,NA
+28592,"Shivamogga",2468699,42,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-29,2021-05-30,NA
+28597,"Shivamogga",2475820,51,"Female","ILI","Fever, Cough","-",2021-05-24,2021-05-28,2021-05-30,NA
+28621,"Shivamogga",2518780,73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-29,2021-05-30,NA
+28642,"Shivamogga",2556501,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-29,2021-05-30,NA
+28643,"Shivamogga",2556524,57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28648,"Shivamogga",2569847,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-29,2021-05-30,NA
+28666,"Shivamogga",2593368,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28681,"Shivamogga",2616761,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-30,2021-05-30,NA
+28905,"Shivamogga",2187520,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-31,2021-05-31,NA
+28971,"Shivamogga",2467063,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-30,2021-05-31,NA
+28995,"Shivamogga",2507048,52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-05-31,NA
+28997,"Shivamogga",2512410,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-05-31,NA
+28998,"Shivamogga",2512515,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-05-31,NA
+29002,"Shivamogga",2518725,23,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-05-31,NA
+29005,"Shivamogga",2520319,57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-05-31,NA
+29048,"Shivamogga",2584798,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-30,2021-05-31,NA
+29054,"Shivamogga",2588590,69,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-29,2021-05-31,NA
+29061,"Shivamogga",2602256,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-30,2021-05-31,NA
+29074,"Shivamogga",2616166,45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-05-29,2021-05-31,NA
+29081,"Shivamogga",2627343,54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-30,2021-05-31,NA
+29087,"Shivamogga",2636448,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-30,2021-05-31,NA
+29365,"Shivamogga",2279958,82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-05-31,2021-06-01,NA
+29408,"Shivamogga",2409410,35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-27,2021-06-01,NA
+29411,"Shivamogga",2411586,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-27,2021-06-01,NA
+29447,"Shivamogga",2487629,67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-31,2021-06-01,NA
+29460,"Shivamogga",2512484,72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-31,2021-06-01,NA
+29483,"Shivamogga",2535428,63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-28,2021-06-01,NA
+29488,"Shivamogga",2540093,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-31,2021-06-01,NA
+29513,"Shivamogga",2577289,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-06-01,NA
+29518,"Shivamogga",2586469,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-01,NA
+29523,"Shivamogga",2602222,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-31,2021-06-01,NA
+29528,"Shivamogga",2606296,83,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-05-30,2021-06-01,NA
+29541,"Shivamogga",2634996,44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-01,NA
+29555,"Shivamogga",2647990,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-05-31,2021-06-01,NA
+29852,"Shivamogga",2431512,60,"Female","SARI","Breathlessness","-",2021-05-26,2021-05-31,2021-06-02,NA
+29854,"Shivamogga",2437210,65,"Male","ILI","Fever","-",2021-05-26,2021-05-31,2021-06-02,NA
+29859,"Shivamogga",2450569,32,"Male","SARI","Breathlessness","-",2021-05-30,2021-06-01,2021-06-02,NA
+29875,"Shivamogga",2477207,55,"Female","ILI","Cough","-",2021-06-01,2021-06-01,2021-06-02,NA
+29885,"Shivamogga",2489443,60,"Male","ILI","Cough","-",2021-05-25,2021-06-01,2021-06-02,NA
+29937,"Shivamogga",2569817,60,"Female","ILI","Cough","-",2021-05-27,2021-06-01,2021-06-02,NA
+29948,"Shivamogga",2584662,55,"Male","ILI","Fever, Cough","-",2021-06-01,2021-06-01,2021-06-02,NA
+29975,"Shivamogga",2625835,28,"Male","SARI","Breathlessness","-",2021-05-29,2021-06-01,2021-06-02,NA
+29981,"Shivamogga",2635075,50,"Female","ILI","Fever, Cough","-",2021-05-30,2021-06-02,2021-06-02,NA
+30000,"Shivamogga",2656385,54,"Female","SARI","Breathlessness","-",2021-05-23,2021-06-01,2021-06-02,NA
+30420,"Shivamogga",2569797,47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-03,NA
+30421,"Shivamogga",2569850,40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-06-02,2021-06-03,NA
+30441,"Shivamogga",2595317,62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-06-02,2021-06-03,NA
+30443,"Shivamogga",2597219,51,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-02,2021-06-03,NA
+30469,"Shivamogga",2630531,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-02,2021-06-03,NA
+30475,"Shivamogga",2636314,66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-29,2021-06-02,2021-06-03,NA
+30509,"Shivamogga",2664738,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-02,2021-06-03,NA
+30745,"Shivamogga",2477224,55,"Male","ILI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-03,2021-06-04,NA
+30797,"Shivamogga",2560445,49,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-31,2021-06-04,2021-06-04,NA
+30807,"Shivamogga",2579234,39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-04,NA
+30833,"Shivamogga",2622468,42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-03,2021-06-04,NA
+30863,"Shivamogga",2662683,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-02,2021-06-04,NA
+30864,"Shivamogga",2663924,68,"Male","ILI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-04,2021-06-04,NA
+30869,"Shivamogga",2671969,49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-04,NA
+30872,"Shivamogga",2674592,42,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-01,2021-06-04,NA
+31172,"Shivamogga",2604147,74,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-03,2021-06-05,NA
+31176,"Shivamogga",2607812,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-04,2021-06-05,NA
+31177,"Shivamogga",2608998,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-04,2021-06-05,NA
+31205,"Shivamogga",2652245,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-05,2021-06-05,NA
+31219,"Shivamogga",2663838,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-04,2021-06-05,NA
+31237,"Shivamogga",2685555,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-30,2021-06-02,2021-06-05,NA
+31238,"Shivamogga",2686986,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-04,2021-06-05,NA
+31242,"Shivamogga",2688598,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-04,2021-06-05,NA
+31251,"Shivamogga",2703796,78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-05,2021-06-05,NA
+31481,"Shivamogga",2569807,52,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-06,2021-06-06,NA
+31497,"Shivamogga",2595330,41,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-06,2021-05-06,2021-06-06,NA
+31554,"Shivamogga",2698068,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-05,2021-06-06,NA
+31558,"Shivamogga",2699945,83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-05,2021-06-06,NA
+31575,"Shivamogga",2721446,51,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-06,2021-05-06,2021-06-06,NA
+31578,"Shivamogga",2722717,71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-06,2021-05-06,2021-06-06,NA
+31779,"Shivamogga",2547336,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-01,2021-06-07,NA
+31784,"Shivamogga",2556521,55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-27,2021-06-07,NA
+31790,"Shivamogga",2569001,52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-06-05,2021-06-07,NA
+31791,"Shivamogga",2571091,54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-06-06,2021-06-07,NA
+31796,"Shivamogga",2581056,69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-27,2021-06-07,NA
+31799,"Shivamogga",2584657,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-31,2021-06-07,NA
+31810,"Shivamogga",2606283,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-06,2021-06-07,NA
+31823,"Shivamogga",2628554,48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-06,2021-06-07,NA
+31924,"Shivamogga",2747352,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-07,2021-06-07,NA
+31984,"Shivamogga",2569799,85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-06,2021-06-08,NA
+31998,"Shivamogga",2609010,54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-01,2021-06-08,NA
+32012,"Shivamogga",2638597,63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-08,2021-06-08,NA
+32035,"Shivamogga",2671972,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-05,2021-06-08,NA
+32040,"Shivamogga",2677376,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-07,2021-06-08,NA
+32047,"Shivamogga",2691489,47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-01,2021-06-08,NA
+32061,"Shivamogga",2713548,55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-04,2021-06-07,2021-06-08,NA
+32069,"Shivamogga",2720464,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-05,2021-06-07,2021-06-08,NA
+32099,"Shivamogga",2751140,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-07,2021-06-08,NA
+32105,"Shivamogga",2755792,68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-07,2021-06-08,NA
+32203,"Shivamogga",2659974,34,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-08,2021-06-09,NA
+32204,"Shivamogga",2663242,57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-08,2021-06-09,NA
+32249,"Shivamogga",2728873,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-06-08,2021-06-09,NA
+32252,"Shivamogga",2731833,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-06-08,2021-06-09,NA
+32259,"Shivamogga",2735141,53,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-08,2021-06-09,NA
+32263,"Shivamogga",2739239,50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-08,2021-06-09,NA
+32264,"Shivamogga",2739252,37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-09,NA
+32281,"Shivamogga",2758120,36,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-07,2021-06-09,NA
+32289,"Shivamogga",2760244,55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-07,2021-06-09,NA
+32351,"Shivamogga",2595296,43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-07,2021-06-10,NA
+32353,"Shivamogga",2598845,45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-07,2021-06-10,NA
+32362,"Shivamogga",2616762,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-08,2021-06-10,NA
+32451,"Shivamogga",2744323,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-08,2021-06-10,NA
+32458,"Shivamogga",2751675,39,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-08,2021-06-10,NA
+32459,"Shivamogga",2751790,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-08,2021-06-10,NA
+32468,"Shivamogga",2759103,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-08,2021-06-10,NA
+32471,"Shivamogga",2762862,82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-08,2021-06-10,NA
+32541,"Shivamogga",2612327,48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-08,2021-06-11,NA
+32561,"Shivamogga",2652236,40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-09,2021-06-11,NA
+32578,"Shivamogga",2685565,41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-09,2021-06-11,NA
+32594,"Shivamogga",2720493,74,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-09,2021-06-11,NA
+32597,"Shivamogga",2729257,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-09,2021-06-11,NA
+32608,"Shivamogga",2741996,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-09,2021-06-11,NA
+32639,"Shivamogga",2773588,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-09,2021-06-11,NA
+32734,"Shivamogga",2709057,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-11,2021-06-12,NA
+32741,"Shivamogga",2718928,86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-05,2021-06-12,NA
+32751,"Shivamogga",2734197,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-12,2021-06-12,NA
+32752,"Shivamogga",2736007,56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-09,2021-06-10,2021-06-12,NA
+32756,"Shivamogga",2743404,57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-11,2021-06-12,NA
+32779,"Shivamogga",2784039,63,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-06-07,2021-06-10,2021-06-12,NA
+32854,"Shivamogga",2716599,49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-11,2021-06-13,NA
+32882,"Shivamogga",2755771,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-11,2021-06-13,NA
+32908,"Shivamogga",2784032,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-11,2021-06-13,NA
+32999,"Shivamogga",2754062,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-13,2021-06-14,NA
+33001,"Shivamogga",2756679,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-12,2021-06-14,NA
+33016,"Shivamogga",2782335,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-12,2021-06-14,NA
+33024,"Shivamogga",2796361,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-09,2021-06-11,2021-06-14,NA
+33026,"Shivamogga",2798918,85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-13,2021-06-14,NA
+33035,"Shivamogga",2808194,63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-13,2021-06-13,2021-06-14,NA
+33078,"Shivamogga",2702196,32,"Male","SARI","Fever, cough, Breathlessness","-",2021-06-04,2021-06-11,2021-06-15,NA
+33079,"Shivamogga",2703805,58,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-06-03,2021-06-11,2021-06-15,NA
+33096,"Shivamogga",2730482,59,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-06-06,2021-06-13,2021-06-15,NA
+33097,"Shivamogga",2730507,46,"Female","SARI","Fever, cough, Breathlessness","DM",2021-06-05,2021-06-14,2021-06-15,NA
+33101,"Shivamogga",2737920,38,"Male","SARI","Fever, cough, Breathlessness","-",2021-06-05,2021-06-14,2021-06-15,NA
+33233,"Shivamogga",2751133,80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-11,2021-06-16,NA
+33235,"Shivamogga",2752169,30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-15,2021-06-16,NA
+33257,"Shivamogga",2772491,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-15,2021-06-16,NA
+33259,"Shivamogga",2773834,36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-15,2021-06-16,NA
+33357,"Shivamogga",2703802,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-16,2021-06-17,NA
+33370,"Shivamogga",2737925,79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-16,2021-06-17,NA
+33397,"Shivamogga",2782341,80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-05,2021-06-16,2021-06-17,NA
+33412,"Shivamogga",2801628,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-15,2021-06-17,NA
+33422,"Shivamogga",2821439,45,"Female","ILI","Fever","-",NA,2021-06-15,2021-06-17,"Brought dead"
+33487,"Shivamogga",2677416,55,"Male","ILI","Fever","-",2021-06-01,2021-06-01,2021-06-18,NA
+33540,"Shivamogga",2784090,67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-14,2021-06-18,NA
+33546,"Shivamogga",2790695,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-14,2021-06-17,2021-06-18,NA
+33553,"Shivamogga",2798938,69,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2021-06-11,2021-06-17,2021-06-18,NA
+33559,"Shivamogga",2805398,73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-17,2021-06-18,NA
+33583,"Shivamogga",2825321,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-17,2021-06-18,NA
+33634,"Shivamogga",2628557,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-29,2021-06-18,2021-06-19,NA
+33647,"Shivamogga",2706590,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-18,2021-06-19,NA
+33684,"Shivamogga",2781536,62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-09,2021-06-19,2021-06-19,NA
+33691,"Shivamogga",2792273,82,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-18,2021-06-19,NA
+33692,"Shivamogga",2793713,58,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-06-14,2021-06-19,2021-06-19,NA
+33713,"Shivamogga",2811521,72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-17,2021-06-19,NA
+33737,"Shivamogga",2828900,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-17,2021-06-17,2021-06-19,NA
+33804,"Shivamogga",2721472,46,"Female","SARI","Fever, Cough, Breathlessness","Hyper thyroidism",2021-06-12,2021-06-19,2021-06-20,NA
+33825,"Shivamogga",2768086,74,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-18,2021-06-20,NA
+33840,"Shivamogga",2800120,77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-11,2021-06-18,2021-06-20,NA
+33855,"Shivamogga",2818596,73,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-14,2021-06-19,2021-06-20,NA
+33857,"Shivamogga",2820821,33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-19,2021-06-20,NA
+33975,"Shivamogga",2778750,55,"Male","SARI","Breathlessness","-",2021-06-12,2021-06-20,2021-06-21,NA
+33982,"Shivamogga",2798979,47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-15,2021-06-19,2021-06-21,NA
+34004,"Shivamogga",2829964,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-15,2021-06-17,2021-06-21,NA
+34009,"Shivamogga",2841901,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-19,2021-06-21,NA
+34013,"Shivamogga",2843548,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-19,2021-06-21,2021-06-21,NA
+34090,"Shivamogga",2779664,80,"Male","ILI","Fever","-",2021-06-11,2021-06-21,2021-06-22,NA
+34108,"Shivamogga",2805319,62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-12,2021-06-19,2021-06-22,NA
+34158,"Shivamogga",100000630,83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-21,2021-06-22,NA
+34161,"Shivamogga",100000744,55,"Male","SARI","Breathlessness","-",2021-06-12,2021-06-21,2021-06-22,NA
+34244,"Shivamogga",2824098,58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-19,2021-06-21,2021-06-23,NA
+34245,"Shivamogga",2824103,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-21,2021-06-21,2021-06-23,NA
+34256,"Shivamogga",2835420,45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-17,2021-06-21,2021-06-23,NA
+34268,"Shivamogga",2848381,41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-22,2021-06-23,NA
+34333,"Shivamogga",2777926,70,"Female","SARI","Fever, Breathlessness","DM",2021-06-11,2021-06-23,2021-06-24,NA
+34396,"Shivamogga",2848382,56,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-18,2021-06-19,2021-06-24,NA
+34404,"Shivamogga",2851854,80,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-20,2021-06-23,2021-06-24,NA
+34409,"Shivamogga",2853863,67,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-08,2021-06-20,2021-06-24,NA
+34410,"Shivamogga",2854190,80,"Female","SARI","Fever, Cough, Breathlesness","DM",2021-06-21,2021-06-21,2021-06-24,NA
+34509,"Shivamogga",2838855,67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-24,2021-06-25,NA
+34516,"Shivamogga",2844782,61,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-17,2021-06-22,2021-06-25,NA
+34520,"Shivamogga",2848364,64,"Male","ILI","Cough","DM",2021-06-21,2021-06-24,2021-06-25,NA
+34528,"Shivamogga",2855521,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-20,2021-06-22,2021-06-25,NA
+34623,"Shivamogga",2838855,67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-24,2021-06-25,NA
+34630,"Shivamogga",2844782,61,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-17,2021-06-22,2021-06-25,NA
+34634,"Shivamogga",2848364,64,"Male","ILI","Cough","DM",2021-06-21,2021-06-24,2021-06-25,NA
+34642,"Shivamogga",2855521,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-20,2021-06-22,2021-06-25,NA
+34728,"Shivamogga",2831782,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-16,2021-06-25,2021-06-26,NA
+34737,"Shivamogga",2842251,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-21,2021-06-24,2021-06-26,NA
+34746,"Shivamogga",2856256,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-22,2021-06-26,NA
+34761,"Shivamogga",2867394,75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-21,2021-06-24,2021-06-26,NA
+34797,"Shivamogga",2756638,80,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-08,2021-06-26,2021-06-27,NA
+34825,"Shivamogga",2827388,47,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-11,2021-06-25,2021-06-27,NA
+34830,"Shivamogga",2830475,61,"Female","SARI ","Fever, Cough, Breathlessness ","Hypo thyroidism ",2021-06-16,2021-06-26,2021-06-27,NA
+34842,"Shivamogga",2856257,70,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-18,2021-06-23,2021-06-27,NA
+34845,"Shivamogga",2861143,65,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-22,2021-06-25,2021-06-27,NA
+34918,"Shivamogga",2854897,46,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-21,2021-06-26,2021-06-28,NA
+34927,"Shivamogga",2863399,61,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-22,2021-06-24,2021-06-28,NA
+34931,"Shivamogga",2870904,75,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-25,2021-06-26,2021-06-28,NA
+35010,"Shivamogga",2850833,85,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021"
+35019,"Shivamogga",2858713,65,"Male","SARI ","Fever, Cough, Breathlessness ","HTN ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35043,"Shivamogga",100001177,65,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"28+AC0-06+AC0-2021"
+35053,"Shivamogga",2081057,59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-15,2021-06-24,2021-06-30,NA
+35060,"Shivamogga",2674612,55,"Male","SARI","Fever, Breathlessness","-",2021-06-08,2021-06-30,2021-06-30,NA
+35063,"Shivamogga",2721459,60,"Female","SARI","Fever, Breathlessness","HTN",2021-06-04,2021-06-30,2021-06-30,NA
+35064,"Shivamogga",2727214,62,"Male","SARI","Fever, Breathlessness","IHD",2021-06-03,2021-06-30,2021-06-30,NA
+35066,"Shivamogga",2730649,60,"Male","SARI","Fever, Breathlessness","DM",2021-06-04,2021-06-30,2021-06-30,NA
+35082,"Shivamogga",2769611,60,"Male","SARI","Fever, Breathlessness","-",2021-06-24,2021-06-26,2021-06-30,NA
+35212,"Shivamogga",2847229,82,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-06-30,2021-07-01,NA
+35230,"Shivamogga",2877102,76,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-27,2021-06-27,2021-07-01,NA
+35232,"Shivamogga",2880113,41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-28,2021-07-01,NA
+35235,"Shivamogga",2880790,73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-28,2021-06-29,2021-07-01,NA
+35329,"Shivamogga",2879763,85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-27,2021-07-01,2021-07-02,NA
+35332,"Shivamogga",2883488,26,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-29,2021-07-01,2021-07-02,NA
+35335,"Shivamogga",2885718,54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-01,2021-07-02,NA
+35393,"Shivamogga",2868336,86,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-27,2021-07-01,2021-07-03,NA
+35403,"Shivamogga",2876247,36,"Female","SARI","Fever, Cough, Breathlessness","Hypo thyroidism",2021-07-02,2021-07-02,2021-07-03,NA
+35404,"Shivamogga",2877346,78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-27,2021-07-01,2021-07-03,NA
+35443,"Shivamogga",2805316,60,"Male","ILI","Fever, Cough","DM, HTN",2021-06-12,2021-06-25,2021-07-04,NA
+35475,"Shivamogga",2887311,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-03,2021-07-04,NA
+35476,"Shivamogga",2888087,30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-03,2021-07-04,NA
+35534,"Shivamogga",2884916,30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-27,2021-07-04,2021-07-05,NA
+35543,"Shivamogga",2894472,28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-03,2021-07-04,2021-07-05,NA
+35604,"Shivamogga",2884109,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-02,2021-07-06,NA
+35620,"Shivamogga",2893113,76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-05,2021-07-06,NA
+35625,"Shivamogga",2895585,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-04,2021-07-05,2021-07-06,NA
+35688,"Shivamogga",2878981,80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-26,2021-07-06,2021-07-07,NA
+35693,"Shivamogga",2882939,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-29,2021-07-06,2021-07-07,NA
+35699,"Shivamogga",2889941,48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-30,2021-07-02,2021-07-07,NA
+35745,"Shivamogga",2859332,44,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-07-05,2021-07-08,NA
+35754,"Shivamogga",2874841,58,"Male","SARI","Fever, Breathlessness","-",2021-06-26,2021-07-08,2021-07-08,NA
+35757,"Shivamogga",2883501,58,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-29,2021-07-07,2021-07-08,NA
+35764,"Shivamogga",2891740,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-02,2021-07-06,2021-07-08,NA
+35775,"Shivamogga",2903069,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-07,2021-07-08,NA
+35803,"Shivamogga",2871079,66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-24,2021-07-05,2021-07-09,NA
+35819,"Shivamogga",2888160,62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-05,2021-07-09,NA
+35820,"Shivamogga",2888223,79,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-04,2021-07-09,NA
+35869,"Shivamogga",2893291,55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-05,2021-07-09,2021-07-10,NA
+35882,"Shivamogga",2902954,82,"Male","ILI","Fever, Cough, Breathlessness","HTN",2021-07-06,2021-07-07,2021-07-10,NA
+35927,"Shivamogga",2892214,44,"Male","SARI","Fever, Breathlessness","HTN",2021-07-02,2021-07-10,2021-07-11,NA
+35929,"Shivamogga",2894092,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-07-03,2021-07-10,2021-07-11,NA
+35931,"Shivamogga",2895263,48,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-07,2021-07-09,2021-07-11,NA
+35978,"Shivamogga",2880942,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-28,2021-07-10,2021-07-12,NA
+35989,"Shivamogga",2894463,48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-30,2021-07-11,2021-07-12,NA
+35994,"Shivamogga",2899909,30,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-09,2021-07-11,2021-07-12,NA
+36039,"Shivamogga",2900629,44,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-04,2021-07-10,2021-07-13,NA
+36041,"Shivamogga",2901940,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-06,2021-07-12,2021-07-13,NA
+36048,"Shivamogga",2909722,61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-09,2021-07-12,2021-07-13,NA
+36091,"Shivamogga",2906965,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-11,2021-07-13,2021-07-14,NA

@@ -1,0 +1,663 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+168,"Kolar","8495",43,"Female","Returnee from Delhi","Fever & Breathlessness","-",2020-06-19,2020-06-26,2020-06-26,NA
+228,"Kolar","10840",44,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-06-23,2020-06-29,2020-06-30,NA
+914,"Kolar","14432",59,"Male","SARI","Breathlessness, Cough","DM",2020-06-29,2020-06-29,2020-07-16,NA
+915,"Kolar","14433",41,"Male","Interstate Travel","Fever & Breathlessness","-",2020-06-29,2020-06-29,2020-07-16,NA
+981,"Kolar","27032",48,"Male","Inter district travel","Fever & Breathlessness","-",2020-07-06,2020-07-06,2020-07-16,NA
+982,"Kolar","27037",63,"Male","ILI","Fever & Breathlessness","-",2020-07-07,2020-07-07,2020-07-16,NA
+986,"Kolar","35897",35,"Male","ILI","Fever & Breathlessness","-",2020-07-10,2020-07-10,2020-07-16,NA
+1010,"Kolar","47667",60,"Male","ILI","Fever & Breathlessness","-",2020-07-14,2020-07-15,2020-07-16,NA
+1066,"Kolar","39805",75,"Male","ILI","Fever","-",2020-07-11,2020-07-17,2020-07-17,NA
+1261,"Kolar","51570",61,"Male","ILI","Fever & Cough","-",2020-07-06,2020-07-18,2020-07-19,NA
+1265,"Kolar","51927",39,"Male","ILI","Fever & Cough","-",2020-07-09,2020-07-10,2020-07-19,NA
+1306,"Kolar","64648",40,"Male","ILI","Fever & Cough","-",2020-07-08,2020-07-10,2020-07-19,NA
+1309,"Kolar","64897",65,"Female","ILI","Fever & Cough","-",2020-07-08,2020-07-14,2020-07-19,NA
+1310,"Kolar","65141",52,"Male","SARI","Fever & Cough & Breathlessness","CKD",2020-07-12,2020-07-18,2020-07-19,NA
+1419,"Kolar","65417",42,"Female","SARI","Cough & Breathlessness","CKD",NA,2020-07-19,2020-07-21,"Died at her residence"
+1427,"Kolar","69004",68,"Male","ILI","Fever","DM",NA,2020-07-19,2020-07-21,"Died at his residence"
+1430,"Kolar","69787",68,"Male","ILI","Fever","DM",2020-07-16,2020-07-19,2020-07-21,NA
+1442,"Kolar","71864",70,"Female","ILI","Fever","-",NA,2020-07-17,2020-07-21,"Died at her residence"
+1448,"Kolar","31595",70,"Male","SARI","Breathlessness","DM",2020-07-09,2020-07-20,2020-07-22,NA
+1708,"Kolar","90683",52,"Female","SARI","Breathlessness","DM",2020-07-12,2020-07-16,2020-07-24,NA
+1913,"Kolar","96726",60,"Female","SARI","Breathlessness","DM",2020-07-14,2020-07-15,2020-07-27,NA
+1934,"Kolar","102353",65,"Male","SARI","Breathlessness","DM",2020-07-14,2020-07-17,2020-07-27,NA
+2036,"Kolar","106129",50,"Male","ILI","-","-",2020-07-20,2020-07-27,2020-07-28,NA
+2166,"Kolar","102207",66,"Male","SARI","-","DM",2020-07-25,2020-07-30,2020-07-30,NA
+2186,"Kolar","113096",55,"Male","ILI","-","-",2020-07-28,2020-07-29,2020-07-30,NA
+2706,"Kolar","102266",77,"Male","SARI","Breathlessness","DM",2020-07-25,2020-08-03,2020-08-05,NA
+2720,"Kolar","111613",73,"Female","SARI","Breathlessness","DM, HTN",2020-07-27,2020-08-04,2020-08-05,NA
+2767,"Kolar","147563",64,"Female","SARI","Breathlessness","DM, HTN",2020-08-03,2020-08-04,2020-08-05,NA
+2774,"Kolar","148953",90,"Male","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-05,NA
+2794,"Kolar","65517",70,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-15,2020-07-27,2020-08-06,NA
+2799,"Kolar","80307",59,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-17,2020-07-27,2020-08-06,NA
+2810,"Kolar","109606",41,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-26,2020-07-27,2020-08-06,NA
+2857,"Kolar","148690",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-20,2020-07-28,2020-08-06,NA
+2895,"Kolar","98677",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-21,2020-08-04,2020-08-07,NA
+2899,"Kolar","102552",69,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-24,2020-08-03,2020-08-07,NA
+2901,"Kolar","106600",40,"Male","ILI","Fever, Cough","DM",2020-07-22,2020-08-05,2020-08-07,NA
+3093,"Kolar","102289",65,"Male","SARI","Fever, Cough, Breathlessness","ARDS",2020-07-24,2020-08-06,2020-08-09,NA
+3100,"Kolar","115354",50,"Female","SARI","Fever, Cough, Breathlessness","ARDS",2020-07-29,2020-08-06,2020-08-09,NA
+3105,"Kolar","122173",72,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-07-29,2020-08-05,2020-08-09,NA
+3115,"Kolar","129351",67,"Female","SARI","Fever, Cough, Breathlessness","ARDS",2020-07-29,2020-08-07,2020-08-09,NA
+3120,"Kolar","138510",71,"Female","SARI","Fever, Cough, Breathlessness","ARDS",2020-08-03,2020-08-03,2020-08-09,NA
+3160,"Kolar","172281",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-07,2020-08-07,2020-08-09,NA
+3171,"Kolar","176583",38,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-05,2020-08-07,2020-08-09,NA
+3173,"Kolar","178213",49,"Male","Contact under tracing","-","-",NA,2020-08-07,2020-08-09,"Brought dead"
+3431,"Kolar","150931",37,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-08-03,2020-08-10,2020-08-12,NA
+3462,"Kolar","181783",65,"Female","SARI","Breathlessness","-",2020-07-26,2020-08-09,2020-08-12,NA
+4321,"Kolar","106105",75,"Male","SARI","Breathlessness","DM, TB",2020-07-29,2020-08-14,2020-08-20,NA
+4475,"Kolar","238229",50,"Male","SARI","Breathlessness","DM",2020-08-16,2020-08-18,2020-08-21,NA
+4485,"Kolar","248442",59,"Male","SARI","-","DM",2020-08-15,2020-08-17,2020-08-21,NA
+4619,"Kolar","200774",60,"Male","SARI","Breathlessness","DM",2020-08-09,2020-08-11,2020-08-23,NA
+4631,"Kolar","228885",32,"Male","SARI","Breathlessness","-",2020-08-04,2020-08-14,2020-08-23,NA
+4815,"Kolar","173126",63,"Female","SARI","Breathlessness","-",2020-08-10,2020-08-12,2020-08-25,NA
+4924,"Kolar","272463",52,"Male","SARI","Breathlessness","-",2020-08-19,2020-08-21,2020-08-25,NA
+4968,"Kolar","203610",58,"Female","SARI","Breathlessness","-",2020-08-12,2020-08-23,2020-08-26,NA
+4970,"Kolar","209623",78,"Male","SARI","Breathlessness","-",2020-08-10,2020-08-21,2020-08-26,NA
+5065,"Kolar","292088",50,"Male","SARI","Breathlessness","DM, HTN",2020-08-23,2020-08-23,2020-08-26,NA
+5271,"Kolar","248446",73,"Male","SARI","Breathlessness","-",2020-08-15,2020-08-22,2020-08-28,NA
+5276,"Kolar","252886",35,"Male","SARI","Breathlessness","-",2020-08-16,2020-08-22,2020-08-28,NA
+5344,"Kolar","306399",68,"Female","SARI","Breathlessness","-",2020-08-23,2020-08-25,2020-08-28,NA
+5395,"Kolar","254772",68,"Female","SARI","Breathlessness","-",2020-08-16,2020-08-22,2020-08-29,NA
+5421,"Kolar","290676",63,"Male","SARI","Breathlessness","HTN",2020-08-22,2020-08-22,2020-08-29,NA
+5434,"Kolar","298365",39,"Female","SARI","Breathlessness","-",2020-08-22,2020-08-25,2020-08-29,NA
+5609,"Kolar","273508",40,"Female","SARI","-","-",2020-08-17,2020-08-27,2020-08-31,NA
+5770,"Kolar","297569",73,"Female","SARI","Fever, Breathlessness","DM",2020-08-24,2020-08-29,2020-09-01,NA
+6065,"Kolar","259959",74,"Male","SARI","Breathlessness","DM",2020-08-26,2020-08-30,2020-09-04,NA
+6218,"Kolar","335615",57,"Female","SARI","Breathlessness","DM, HTN",2020-08-20,2020-08-27,2020-09-05,NA
+6569,"Kolar","318786",53,"Male","SARI","Breathlessness","HTN",2020-08-23,2020-08-29,2020-09-08,NA
+6572,"Kolar","324610",50,"Female","SARI","Breathlessness","CKD",2020-08-26,2020-08-29,2020-09-08,NA
+6739,"Kolar","368213",27,"Male","SARI","Breathlessness","CKD",2020-08-31,2020-09-01,2020-09-09,NA
+6813,"Kolar","281626",22,"Female","SARI","-","-",2020-08-15,2020-08-29,2020-09-10,NA
+6853,"Kolar","374184",38,"Female","SARI","-","DM",2020-09-02,2020-09-02,2020-09-10,NA
+7102,"Kolar","376836",65,"Male","SARI","Breathlessness","DM, CKD",2020-08-31,2020-08-31,2020-09-12,NA
+7136,"Kolar","419785",83,"Female","SARI","Breathlessness","DM, HTN",2020-09-08,2020-09-08,2020-09-12,NA
+7201,"Kolar","376839",44,"Female","SARI","Breathlessness","DM, HTN",2020-08-31,2020-09-10,2020-09-13,NA
+7220,"Kolar","405543",50,"Female","SARI","Breathlessness","-",2020-09-04,2020-09-10,2020-09-13,NA
+7484,"Kolar","324606",65,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-08-26,2020-09-11,2020-09-16,NA
+8349,"Kolar","363406",50,"Male","SARI","Breathlessness","DM",2020-09-06,2020-09-23,2020-09-25,NA
+8446,"Kolar","483853",85,"Male","SARI","Breathlessness","DM",2020-09-12,2020-09-14,2020-09-26,NA
+8519,"Kolar","450087",80,"Female","SARI","Breathlessness","DM",2020-09-09,2020-09-16,2020-09-27,NA
+8521,"Kolar","471393",52,"Male","SARI","Breathlessness","DM",2020-09-08,2020-09-21,2020-09-27,NA
+8524,"Kolar","486350",68,"Female","SARI","Breathlessness","HTN",2020-09-14,2020-09-22,2020-09-27,NA
+8788,"Kolar","376837",73,"Male","SARI","Breathlessness","DM, CKD",2020-08-29,2020-09-20,2020-09-30,NA
+8844,"Kolar","572021",42,"Male","SARI","Breathlessness","DM",2020-09-23,2020-09-25,2020-09-30,NA
+8890,"Kolar","389513",64,"Male","SARI","Breathlessness","-",2020-09-04,2020-09-28,2020-10-01,NA
+8910,"Kolar","465265",62,"Male","SARI","Breathlessness","DM, HTN",2020-08-31,2020-09-14,2020-10-01,NA
+8933,"Kolar","533164",78,"Male","SARI","Breathlessness","-",2020-09-18,2020-09-28,2020-10-01,NA
+8950,"Kolar","546431",71,"Female","SARI","Breathlessness","-",2020-09-20,2020-09-27,2020-10-01,NA
+8977,"Kolar","578722",25,"Female","SARI","Breathlessness","-",2020-09-25,2020-09-26,2020-10-01,NA
+9379,"Kolar","365149",65,"Male","SARI","Breathlessness","HTN, CKD",2020-09-01,2020-09-03,2020-10-06,NA
+9380,"Kolar","381327",54,"Female","SARI","Breathlessness","-",2020-09-03,2020-09-03,2020-10-06,NA
+9417,"Kolar","589848",68,"Female","SARI","Breathlessness","HTN, CKD",2020-09-25,2020-10-03,2020-10-06,NA
+9425,"Kolar","599336",98,"Male","SARI","Breathlessness","-",2020-09-20,2020-10-04,2020-10-06,NA
+9478,"Kolar","386799",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-04,2020-09-04,2020-10-07,NA
+9479,"Kolar","405504",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-05,2020-09-09,2020-10-07,NA
+9484,"Kolar","514868",68,"Male","SARI","Breathlessness","-",2020-09-16,2020-10-06,2020-10-07,NA
+9546,"Kolar","639740",58,"Male","SARI","Breathlessness","-",2020-09-29,2020-10-06,2020-10-07,NA
+9607,"Kolar","523343",60,"Male","SARI","Breathlessness","-",2020-09-16,2020-10-06,2020-10-08,NA
+9608,"Kolar","524061",65,"Male","SARI","Breathlessness","DM",2020-09-17,2020-09-19,2020-10-08,NA
+9623,"Kolar","581468",64,"Male","SARI","Breathlessness","DM",2020-09-22,2020-09-29,2020-10-08,NA
+9645,"Kolar","623338",42,"Male","SARI","Breathlessness","-",2020-10-03,2020-10-07,2020-10-08,NA
+9657,"Kolar","645151",61,"Male","SARI","Breathlessness","DM",2020-09-22,2020-09-30,2020-10-08,NA
+9759,"Kolar","655582",44,"Male","SARI","Breathlessness","DM",2020-10-04,2020-10-06,2020-10-09,NA
+9760,"Kolar","656474",44,"Male","SARI","Breathlessness","DM",2020-10-03,2020-10-07,2020-10-09,NA
+9761,"Kolar","659360",45,"Female","SARI","Breathlessness","DM",2020-10-02,2020-10-07,2020-10-09,NA
+9792,"Kolar","696606",64,"Male","SARI","Breathlessness","HTN",2020-10-06,2020-10-07,2020-10-09,NA
+9800,"Kolar","131352",43,"Male","SARI","Breathlessness","-",2020-07-17,2020-08-06,2020-10-10,NA
+9801,"Kolar","162857",43,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-15,2020-08-06,2020-10-10,NA
+9854,"Kolar","633391",75,"Female","SARI","Breathlessness","DM, HTN",2020-10-01,2020-10-07,2020-10-10,NA
+9906,"Kolar","583175",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-25,2020-10-08,2020-10-11,NA
+9909,"Kolar","598925",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-10-08,2020-10-11,NA
+9913,"Kolar","610359",53,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-29,2020-10-10,2020-10-11,NA
+9941,"Kolar","670406",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-05,2020-10-08,2020-10-11,NA
+9947,"Kolar","682800",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-01,2020-10-07,2020-10-11,NA
+9954,"Kolar","692328",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-01,2020-10-08,2020-10-11,NA
+9956,"Kolar","695325",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-05,2020-10-08,2020-10-11,NA
+10022,"Kolar","692651",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-23,2020-09-29,2020-10-12,NA
+10035,"Kolar","716058",32,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-29,2020-10-09,2020-10-12,NA
+10049,"Kolar","354462",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-11,2020-10-06,2020-10-13,NA
+10084,"Kolar","673558",36,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-05,2020-10-11,2020-10-13,NA
+10090,"Kolar","684100",70,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-10,2020-10-13,NA
+10188,"Kolar","714388",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-10,2020-10-14,NA
+10203,"Kolar","744153",32,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-12,2020-10-13,2020-10-14,NA
+10232,"Kolar","671503",46,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-13,2020-10-15,NA
+10249,"Kolar","695320",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-05,2020-10-14,2020-10-15,NA
+10339,"Kolar","715000",70,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-13,2020-10-15,2020-10-16,NA
+10353,"Kolar","732035",68,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-10,2020-10-15,2020-10-16,NA
+10368,"Kolar","581467",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-10-08,2020-10-17,NA
+10387,"Kolar","674405",40,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-04,2020-10-06,2020-10-17,NA
+10391,"Kolar","681805",62,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-07,2020-10-12,2020-10-17,NA
+10400,"Kolar","700040",64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-08,2020-10-15,2020-10-17,NA
+10406,"Kolar","709768",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-10,2020-10-15,2020-10-17,NA
+10464,"Kolar","737450",57,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-11,2020-10-13,2020-10-18,NA
+10465,"Kolar","737451",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-12,2020-10-16,2020-10-18,NA
+10508,"Kolar","711717",71,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-11,2020-10-11,2020-10-19,NA
+10528,"Kolar","745020",58,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-13,2020-10-16,2020-10-19,NA
+10567,"Kolar","706026",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-07,2020-10-17,2020-10-20,NA
+10568,"Kolar","709762",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-16,2020-10-20,NA
+10573,"Kolar","715018",80,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-18,2020-10-20,NA
+10588,"Kolar","739705",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-12,2020-10-17,2020-10-20,NA
+10737,"Kolar","737448",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-21,2020-10-22,NA
+10747,"Kolar","748675",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-13,2020-10-20,2020-10-22,NA
+10819,"Kolar","779419",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-22,2020-10-23,NA
+10827,"Kolar","802390",52,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-17,2020-10-18,2020-10-23,NA
+10843,"Kolar","722859",75,"Male","SARI","Fever, Cough, Breathlessness","DM, AKD",2020-10-12,2020-10-21,2020-10-24,NA
+10874,"Kolar","792469",55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-20,2020-10-23,2020-10-24,NA
+10896,"Kolar","762486",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-15,2020-10-23,2020-10-25,NA
+10905,"Kolar","787079",75,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-10-16,2020-10-23,2020-10-25,NA
+10930,"Kolar","764197",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-13,2020-10-24,2020-10-26,NA
+10989,"Kolar","802391",90,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-19,2020-10-25,2020-10-27,NA
+11007,"Kolar","695967",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-10,2020-10-18,2020-10-28,NA
+11008,"Kolar","698899",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-08,2020-10-10,2020-10-28,NA
+11164,"Kolar","807846",70,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-18,2020-10-22,2020-10-31,NA
+11266,"Kolar","810901",57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-21,2020-11-01,2020-11-04,NA
+11283,"Kolar","836841",90,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-29,2020-11-03,2020-11-04,NA
+11292,"Kolar","726349",7,"Male","SARI","Cough, Breathlessness","-",2020-10-11,2020-11-03,2020-11-05,NA
+11317,"Kolar","845007",50,"Male","SARI","Cough, Fever, Breathlessness","-",2020-11-01,2020-11-03,2020-11-05,NA
+11324,"Kolar","786076",88,"Male","SARI","Cough, Breathlessness","-",2020-10-18,2020-11-04,2020-11-06,NA
+11345,"Kolar","845983",71,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-02,2020-11-03,2020-11-06,NA
+11360,"Kolar","797451",59,"Male","SARI","Cough, Breathlessness","-",2020-10-19,2020-11-05,2020-11-07,NA
+11364,"Kolar","830354",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-29,2020-11-02,2020-11-07,NA
+11402,"Kolar","739699",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-14,2020-11-06,2020-11-09,NA
+11443,"Kolar","815486",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-23,2020-11-09,2020-11-11,NA
+11470,"Kolar","835468",27,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-24,2020-11-11,2020-11-12,NA
+11489,"Kolar","838467",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-30,2020-11-11,2020-11-13,NA
+11490,"Kolar","839514",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-31,2020-11-11,2020-11-13,NA
+11630,"Kolar","739708",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-21,2020-11-21,NA
+11730,"Kolar","877786",51,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-14,2020-11-18,2020-11-26,NA
+11808,"Kolar","891555",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-26,2020-11-29,2020-12-02,NA
+11818,"Kolar","866738",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-10,2020-11-15,2020-12-03,NA
+11834,"Kolar","875670",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-13,2020-11-18,2020-12-04,NA
+11852,"Kolar","901967",54,"Female","SARI","Cough, Breathlessness","-",2020-12-01,2020-12-04,2020-12-05,NA
+11928,"Kolar","890448",55,"Male","SARI","Cough, Breathlessness","DM",2020-11-24,2020-12-07,2020-12-12,NA
+12016,"Kolar","887297",64,"Male","SARI","Cough, Breathlessness","-",2020-11-22,2020-12-08,2020-12-22,NA
+12052,"Kolar","908388",65,"Female","SARI","Cough, Breathlessness","HTN, AKI",2020-11-26,2020-12-11,2020-12-27,NA
+12124,"Kolar","897785",62,"Male","SARI","Breathlessness","-",2020-11-22,2020-12-14,2021-01-07,NA
+12481,"Kolar","991300",50,"Male","SARI","Cough, Breathlessness","-",2021-03-22,2021-03-23,2021-03-26,NA
+12560,"Kolar","994166",53,"Male","SARI","Cough, Breathlessness","DM",2021-03-23,2021-03-27,2021-03-31,NA
+12625,"Kolar","981588",65,"Female","SARI","Cough, breathlessness","DM",2021-03-20,2021-03-26,2021-04-05,NA
+12684,"Kolar","1020852",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-31,2021-04-01,2021-04-06,NA
+12746,"Kolar","1021519",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-30,2021-03-31,2021-04-08,NA
+13090,"Kolar","1057045",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-08,2021-04-10,2021-04-15,NA
+13209,"Kolar","1062035",29,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-04-04,2021-04-11,2021-04-17,NA
+13436,"Kolar","1112954",31,"Female","SARI","Fever, Cough, Breathlessness","HTN, CHD",2021-04-13,2021-04-14,2021-04-19,NA
+13517,"Kolar","1066771",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-12,2021-04-17,2021-04-20,NA
+13655,"Kolar","1063289",54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-11,2021-04-18,2021-04-21,NA
+13951,"Kolar","1112958",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-12,2021-04-20,2021-04-23,NA
+13991,"Kolar","1167929",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-15,2021-04-18,2021-04-23,NA
+13992,"Kolar","1167936",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-14,2021-04-23,NA
+14035,"Kolar","1221562",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-21,2021-04-23,NA
+14047,"Kolar","1239201",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-20,2021-04-23,"44044"
+14080,"Kolar","1044980",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-05,2021-04-10,2021-04-24,NA
+14127,"Kolar","1113841",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-12,2021-04-18,2021-04-24,NA
+14148,"Kolar","1136705",63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-22,2021-04-24,NA
+14207,"Kolar","1194226",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-23,2021-04-24,NA
+14232,"Kolar","1228483",44,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-20,2021-04-24,NA
+14252,"Kolar","1259346",77,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-15,2021-04-21,2021-04-24,NA
+14315,"Kolar","1127446",56,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-13,2021-04-24,2021-04-25,NA
+14356,"Kolar","1221583",67,"Male","SARI","Fever, cough, breathlessness","-",2021-04-18,2021-04-24,2021-04-25,NA
+14455,"Kolar","1139011",82,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-13,2021-04-24,2021-04-26,NA
+14468,"Kolar","1158680",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-15,2021-04-24,2021-04-26,NA
+14481,"Kolar","1180019",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-23,2021-04-26,NA
+14487,"Kolar","1194228",49,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-04-15,2021-04-25,2021-04-26,NA
+14527,"Kolar","1292511",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-24,2021-04-26,NA
+14720,"Kolar","1274826",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-25,2021-04-27,NA
+14795,"Kolar","1400440",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-25,2021-04-27,NA
+14890,"Kolar","1241023",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-19,2021-04-28,2021-04-28,NA
+14896,"Kolar","1257067",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-26,2021-04-28,NA
+14972,"Kolar","1366870",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-25,2021-04-26,2021-04-28,NA
+14973,"Kolar","1366876",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-23,2021-04-28,2021-04-28,NA
+15210,"Kolar","1386494",48,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-24,2021-04-25,2021-04-29,NA
+15340,"Kolar","1229342",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-26,2021-04-30,NA
+15376,"Kolar","1295056",85,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-04-30,2021-04-30,NA
+15431,"Kolar","1398962",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-22,2021-04-25,2021-04-30,NA
+15617,"Kolar","1301926",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-29,2021-05-01,NA
+15898,"Kolar","1405167",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-28,2021-05-02,NA
+15904,"Kolar","1414431",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-28,2021-05-02,NA
+15918,"Kolar","1438398",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-04-29,2021-05-02,NA
+15925,"Kolar","1468844",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-28,2021-05-02,NA
+15967,"Kolar","1560868",39,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-30,2021-05-02,NA
+16127,"Kolar","1417491",45,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-24,2021-04-30,2021-05-03,NA
+16132,"Kolar","1432325",56,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-25,2021-04-30,2021-05-03,NA
+16204,"Kolar","1560879",60,"Female","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-04-29,2021-05-03,NA
+16723,"Kolar","1481920",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-05,NA
+16747,"Kolar","1502004",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-05,NA
+16763,"Kolar","1534539",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-05,NA
+16790,"Kolar","1593644",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-05,NA
+16835,"Kolar","1678870",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-05,NA
+17559,"Kolar","1579476",61,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-03,2021-05-07,NA
+17699,"Kolar","1722613",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-06,2021-05-07,NA
+18161,"Kolar","1698699",35,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-06,2021-05-08,NA
+18194,"Kolar","1757221",85,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-06,2021-05-08,NA
+18200,"Kolar","1772745",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-08,NA
+18220,"Kolar","1808253",83,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-06,2021-05-08,NA
+18224,"Kolar","1815848",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-08,NA
+18544,"Kolar","1602851",69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-04,2021-05-09,NA
+18618,"Kolar","1732167",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-06,2021-05-09,NA
+18668,"Kolar","1811760",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-07,2021-05-09,NA
+19226,"Kolar","1795631",21,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-09,2021-05-10,NA
+19240,"Kolar","1804690",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-05-10,NA
+19245,"Kolar","1811768",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-10,NA
+19263,"Kolar","1833766",45,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-08,2021-05-09,2021-05-10,NA
+19310,"Kolar","1908838",51,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-08,2021-05-09,2021-05-10,NA
+19328,"Kolar","1930439",84,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-17,2021-05-09,2021-05-10,NA
+19330,"Kolar","1934354",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-09,2021-05-10,NA
+19345,"Kolar","1970091",43,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-08,2021-05-09,2021-05-10,NA
+19811,"Kolar","1957386",60,"Female","SARI","Fever, cough, breathlessness","-",2021-05-08,2021-05-08,2021-05-11,NA
+19815,"Kolar","1963583",56,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-06,2021-05-10,2021-05-11,NA
+19817,"Kolar","1966769",85,"Male","SARI","Fever, cough, breathlessness","-",2021-05-08,2021-05-08,2021-05-11,NA
+20257,"Kolar","1930454",76,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-12,2021-05-12,NA
+20330,"Kolar","2022402",33,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-11,2021-05-12,NA
+20645,"Kolar","2022404",27,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-12,2021-05-13,NA
+20696,"Kolar","2092278",48,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-12,2021-05-13,NA
+20697,"Kolar","2092290",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-13,2021-05-13,NA
+20815,"Kolar","1678812",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-14,NA
+21195,"Kolar","1765405",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-04,2021-05-08,2021-05-15,NA
+21226,"Kolar","1852579",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-15,2021-05-15,NA
+21242,"Kolar","1892749",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-15,NA
+21280,"Kolar","1977916",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-15,NA
+21284,"Kolar","1990152",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-15,NA
+21500,"Kolar","1516915",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-05-05,2021-05-16,NA
+21617,"Kolar","1890667",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-06,2021-05-16,NA
+21625,"Kolar","1911864",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-16,NA
+21679,"Kolar","2011026",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-11,2021-05-16,NA
+21689,"Kolar","2029493",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-16,NA
+21811,"Kolar","2192073",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-15,2021-05-16,NA
+22013,"Kolar","1780009",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-15,2021-05-17,NA
+22032,"Kolar","1836719",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-17,NA
+22066,"Kolar","1930455",55,"Male","SARI","Cough, Breathlessness","DM",2021-05-05,2021-05-14,2021-05-17,NA
+22073,"Kolar","1947668",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-11,2021-05-17,NA
+22104,"Kolar","2002816",66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-09,2021-05-17,NA
+22122,"Kolar","2030618",72,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-11,2021-05-17,NA
+22154,"Kolar","2098079",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-17,NA
+22268,"Kolar","2235871",69,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-15,2021-05-17,NA
+22400,"Kolar","1414503",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-12,2021-05-18,NA
+22835,"Kolar","2308102",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-17,2021-05-18,NA
+22975,"Kolar","1732176",25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-18,2021-05-19,NA
+23069,"Kolar","1990151",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-12,2021-05-19,NA
+23078,"Kolar","2008133",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-19,NA
+23141,"Kolar","2109047",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-18,2021-05-19,NA
+23146,"Kolar","2121612",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-19,NA
+23152,"Kolar","2127480",85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-19,NA
+23539,"Kolar","1855016",57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-20,NA
+23645,"Kolar","2092265",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-20,NA
+23702,"Kolar","2161069",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-20,NA
+23746,"Kolar","2227177",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23747,"Kolar","2227243",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23748,"Kolar","2227259",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-20,NA
+23758,"Kolar","2242640",68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-20,NA
+23782,"Kolar","2264691",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-20,NA
+23855,"Kolar","2367735",59,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-19,2021-05-20,NA
+24090,"Kolar","2240182",81,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-15,2021-05-21,NA
+24142,"Kolar","2303506",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-20,2021-05-21,NA
+24154,"Kolar","2317675",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-21,NA
+24155,"Kolar","2317685",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-19,2021-05-21,NA
+24162,"Kolar","2324788",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24177,"Kolar","2346928",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-20,2021-05-21,NA
+24200,"Kolar","2385821",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24448,"Kolar","1915136",61,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-20,2021-05-22,NA
+24458,"Kolar","1963479",76,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-22,NA
+24488,"Kolar","2098078",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-21,2021-05-22,NA
+24588,"Kolar","2333505",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-22,NA
+24605,"Kolar","2349437",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-05-22,NA
+24650,"Kolar","2421905",56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-21,2021-05-22,NA
+25147,"Kolar","2295948",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-21,2021-05-23,NA
+25181,"Kolar","2349446",46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25182,"Kolar","2349460",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-05-23,NA
+25228,"Kolar","2387773",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-21,2021-05-23,NA
+25264,"Kolar","2427011",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25269,"Kolar","2436740",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-22,2021-05-23,NA
+25551,"Kolar","2092187",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-21,2021-05-24,NA
+25583,"Kolar","2172877",23,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-20,2021-05-24,NA
+25649,"Kolar","2300041",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25664,"Kolar","2317708",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-23,2021-05-24,NA
+25681,"Kolar","2337690",84,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-21,2021-05-24,NA
+25690,"Kolar","2349581",22,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25727,"Kolar","2387765",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-20,2021-05-24,NA
+25787,"Kolar","2451600",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25788,"Kolar","2451613",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-05-24,NA
+26195,"Kolar","2227187",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-23,2021-05-25,NA
+26228,"Kolar","2284248",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-25,NA
+26249,"Kolar","2308079",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-25,NA
+26289,"Kolar","2372845",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-21,2021-05-25,NA
+26322,"Kolar","2409155",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-25,NA
+26325,"Kolar","2411137",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-24,2021-05-25,NA
+26351,"Kolar","2443372",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-25,NA
+26354,"Kolar","2454293",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-05-25,NA
+26376,"Kolar","2479879",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-25,NA
+26377,"Kolar","2480057",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-05-25,NA
+26385,"Kolar","2489090",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-25,2021-05-25,NA
+26780,"Kolar","2308083",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-21,2021-05-26,NA
+26812,"Kolar","2367711",89,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-25,2021-05-26,NA
+26813,"Kolar","2367732",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-26,NA
+26834,"Kolar","2398608",41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-24,2021-05-26,NA
+27227,"Kolar","2299987",65,"Female","SARI","Fever, cough, breathlessness","-",2021-05-18,2021-05-25,2021-05-27,NA
+27242,"Kolar","2317680",62,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-17,2021-05-18,2021-05-27,NA
+27382,"Kolar","2510378",56,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-22,2021-05-25,2021-05-27,NA
+27887,"Kolar","2049457",76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-28,2021-05-29,NA
+28024,"Kolar","2275154",52,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-15,2021-05-29,NA
+28063,"Kolar","2337684",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-28,2021-05-29,NA
+28247,"Kolar","2534724",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-28,2021-05-29,NA
+28603,"Kolar","2491297",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-28,2021-05-30,NA
+28613,"Kolar","2505334",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-23,2021-05-30,NA
+28614,"Kolar","2506887",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-22,2021-05-25,2021-05-30,NA
+28902,"Kolar","2172878",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-28,2021-05-31,NA
+28918,"Kolar","2268405",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-17,2021-05-31,NA
+29346,"Kolar","2063679",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-30,2021-06-01,NA
+29451,"Kolar","2501694",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-30,2021-06-01,NA
+29475,"Kolar","2532804",37,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-28,2021-06-01,NA
+29837,"Kolar","2401589",65,"Male","ILI","Cough","-",2021-05-21,2021-05-30,2021-06-02,NA
+29950,"Kolar","2586222",76,"Male","SARI","Cough, Breathlessness","DM",2021-05-25,2021-05-30,2021-06-02,NA
+30486,"Kolar","2651232",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-05-31,2021-06-03,NA
+30511,"Kolar","2669536",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-03,NA
+30749,"Kolar","2483645",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-06-04,NA
+30760,"Kolar","2501816",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-06-01,2021-06-04,NA
+30783,"Kolar","2548479",23,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-04,NA
+30798,"Kolar","2566885",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-03,2021-06-04,NA
+30808,"Kolar","2584413",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-02,2021-06-04,NA
+30811,"Kolar","2594738",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-04,NA
+30823,"Kolar","2609861",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-04,NA
+30826,"Kolar","2617727",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-02,2021-06-04,NA
+30832,"Kolar","2624218",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-31,2021-06-04,NA
+30872,"Kolar","2678056",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-04,NA
+31098,"Kolar","2436737",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-01,2021-06-05,NA
+31119,"Kolar","2491262",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-05,2021-06-05,NA
+31121,"Kolar","2501731",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-06-02,2021-06-05,NA
+31151,"Kolar","2559722",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-04,2021-06-05,NA
+31169,"Kolar","2601727",39,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-31,2021-06-05,NA
+31207,"Kolar","2657476",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-04,2021-06-05,NA
+31221,"Kolar","2666135",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-04,2021-06-05,NA
+31222,"Kolar","2666142",76,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-02,2021-06-05,NA
+31227,"Kolar","2674246",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-01,2021-06-05,NA
+31243,"Kolar","2695372",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-05,2021-06-05,NA
+31445,"Kolar","2445824",57,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-06-02,2021-06-04,2021-06-06,NA
+31484,"Kolar","2576985",32,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-05-28,2021-06-05,2021-06-06,NA
+31493,"Kolar","2593184",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-04,2021-06-06,NA
+31509,"Kolar","2624207",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-18,2021-05-20,2021-06-06,NA
+31522,"Kolar","2657479",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-06,NA
+31547,"Kolar","2695434",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-04,2021-06-06,NA
+31564,"Kolar","2708848",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-06,NA
+31572,"Kolar","2717923",28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-06,NA
+31689,"Kolar","2282170",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-31,2021-06-07,NA
+31690,"Kolar","2289753",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-06-07,2021-06-07,NA
+31792,"Kolar","2576986",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-05,2021-06-07,NA
+31853,"Kolar","2666123",28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-07,2021-06-07,NA
+31898,"Kolar","2717975",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-07,NA
+31913,"Kolar","2733834",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-06,2021-06-07,NA
+31977,"Kolar","2556268",59,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-08,2021-06-08,NA
+31995,"Kolar","2605992",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-03,2021-06-06,2021-06-08,NA
+31998,"Kolar","2615803",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-06-08,NA
+32069,"Kolar","2723476",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-08,2021-06-08,NA
+32133,"Kolar","2460643",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-09,NA
+32182,"Kolar","2624173",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-08,2021-06-09,NA
+32238,"Kolar","2717950",65,"Female","ILI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-09,2021-06-09,NA
+32241,"Kolar","2721306",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-08,2021-06-09,NA
+32256,"Kolar","2734872",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-09,NA
+32270,"Kolar","2743059",40,"Female","SARI","Cough, Breathlessness","-",2021-06-02,2021-06-04,2021-06-09,NA
+32272,"Kolar","2745015",75,"Female","SARI","Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-09,NA
+32369,"Kolar","2636272",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-10,NA
+32386,"Kolar","2663192",27,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-08,2021-06-10,NA
+32387,"Kolar","2665234",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-09,2021-06-10,NA
+32413,"Kolar","2688338",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-09,2021-06-10,NA
+32429,"Kolar","2716282",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-08,2021-06-10,NA
+32446,"Kolar","2737658",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-10,2021-06-10,NA
+32485,"Kolar","2773781",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-10,NA
+32594,"Kolar","2724409",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-10,2021-06-11,NA
+32602,"Kolar","2735921",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-10,2021-06-11,NA
+32617,"Kolar","2752776",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-10,2021-06-11,NA
+32728,"Kolar","2697086",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-10,2021-06-12,NA
+32779,"Kolar","2786190",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-11,2021-06-12,NA
+32859,"Kolar","2727550",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-13,NA
+32863,"Kolar","2733824",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-12,2021-06-13,NA
+32927,"Kolar","2401607",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-14,NA
+32928,"Kolar","2401608",21,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-10,2021-06-14,NA
+32931,"Kolar","2462736",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-11,2021-06-14,NA
+33085,"Kolar","2717940",50,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-06-02,2021-06-13,2021-06-15,NA
+33131,"Kolar","2790111",55,"Female","SARI","Fever, cough, Breathlessness","-",2021-06-10,2021-06-13,2021-06-15,NA
+33145,"Kolar","2814328",35,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-28,2021-05-01,2021-06-15,NA
+33151,"Kolar","2818463",90,"Male","SARI","Fever, cough, Breathlessness","-",2021-06-02,2021-06-14,2021-06-15,NA
+33158,"Kolar","2422562",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-06-07,2021-06-16,NA
+33205,"Kolar","2714871",66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-07,2021-06-16,NA
+33208,"Kolar","2717024",95,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-05,2021-06-16,NA
+33301,"Kolar","1457431",58,"Male","SARI","Breathlessness","-",2021-04-27,2021-05-02,2021-06-17,NA
+33302,"Kolar","1669094",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-06,2021-06-17,NA
+33303,"Kolar","1908804",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-30,2021-06-17,NA
+33389,"Kolar","2776836",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-17,2021-06-17,NA
+33435,"Kolar","100001092",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-17,2021-06-17,NA
+33470,"Kolar","2628253",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-05,2021-06-18,NA
+33471,"Kolar","2638154",58,"Male","ILI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-11,2021-06-18,NA
+33475,"Kolar","2643673",55,"Female","ILI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-12,2021-06-18,NA
+33487,"Kolar","2684471",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-10,2021-06-18,NA
+33492,"Kolar","2695438",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-15,2021-06-18,NA
+33533,"Kolar","2774313",83,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-11,2021-06-17,2021-06-18,NA
+33583,"Kolar","2829918",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-17,2021-06-18,NA
+33620,"Kolar","2534728",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-30,2021-06-19,NA
+33624,"Kolar","2573924",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-04,2021-06-19,NA
+33635,"Kolar","2651619",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-31,2021-06-19,NA
+33636,"Kolar","2654441",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-19,NA
+33683,"Kolar","2782167",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-19,2021-06-19,NA
+33743,"Kolar","2837941",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-15,2021-06-19,NA
+33833,"Kolar","2782172",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-20,2021-06-20,NA
+33845,"Kolar","2809626",39,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-13,2021-06-16,2021-06-20,NA
+33881,"Kolar","100001060",82,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-20,2021-06-20,NA
+33882,"Kolar","100001072",32,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-18,2021-06-20,NA
+33965,"Kolar","2767045",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-12,2021-06-16,2021-06-21,NA
+33993,"Kolar","2816830",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-19,2021-06-21,NA
+34001,"Kolar","2828728",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-18,2021-06-21,NA
+34027,"Kolar","100001518",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-21,2021-06-21,NA
+34057,"Kolar","2695403",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-12,2021-06-22,NA
+34065,"Kolar","2729879",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-13,2021-06-22,NA
+34072,"Kolar","2757159",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-12,2021-06-22,NA
+34091,"Kolar","2784589",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-22,NA
+34158,"Kolar","100000733",21,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-13,2021-06-22,NA
+34161,"Kolar","100000896",90,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-10,2021-06-14,2021-06-22,NA
+34163,"Kolar","100001301",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-21,2021-06-22,NA
+34164,"Kolar","100001386",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-21,2021-06-22,NA
+34166,"Kolar","100001519",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-20,2021-06-22,2021-06-22,NA
+34229,"Kolar","2790114",32,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-10,2021-06-22,2021-06-23,NA
+34261,"Kolar","2842562",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-22,2021-06-23,NA
+34330,"Kolar","2775979",56,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-10,2021-06-20,2021-06-24,NA
+34336,"Kolar","2782174",55,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-10,2021-06-19,2021-06-24,NA
+34371,"Kolar","2827659",32,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-16,2021-06-18,2021-06-24,NA
+34388,"Kolar","2844538",60,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-19,2021-06-19,2021-06-24,NA
+34391,"Kolar","2847973",42,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-18,2021-06-21,2021-06-24,NA
+34404,"Kolar","2852182",35,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-17,2021-06-21,2021-06-24,NA
+34426,"Kolar","100000651",58,"Male","SARI","Fever, Cough, Breathlesness","-",2021-06-14,2021-06-19,2021-06-24,NA
+34565,"Kolar","2595989",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-16,2021-06-26,NA
+34694,"Kolar","2798530",42,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-11,2021-06-23,2021-06-27,NA
+34705,"Kolar","2821345",72,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-10,2021-06-15,2021-06-27,NA
+34721,"Kolar","2846829",55,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-20,2021-06-26,2021-06-27,NA
+34745,"Kolar","100002013",33,"Male","SARI ","Breathlessness ","- ",2021-06-26,2021-06-27,2021-06-27,NA
+34768,"Kolar","2752737",60,"Female","SARI ","Breathlessness ","DM, HTN ",2021-06-10,2021-06-27,2021-06-28,NA
+34843,"Kolar","2624189",59,"Female","ILI ","Fever ","- ",NA,NA,NA,NA
+34969,"Kolar","2782173",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-15,2021-06-30,NA
+34981,"Kolar","2825208",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-27,2021-06-30,NA
+35011,"Kolar","2863569",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-27,2021-06-30,NA
+35051,"Kolar","2506890",58,"Male","ILI","Fever, Cough","-",2021-06-01,2021-06-27,2021-07-01,NA
+35077,"Kolar","2816836",103,"Male","ILI","Fever, Cough","-",2021-06-14,2021-06-30,2021-07-01,NA
+35128,"Kolar","2887007",65,"Male","ILI","Fever, Cough","-",2021-06-29,2021-07-01,2021-07-01,NA
+35135,"Kolar","100002137",60,"Male","SARI","Breathlessness","-",2021-06-28,2021-07-01,2021-07-01,NA
+35136,"Kolar","100002155",60,"Male","SARI","Cough, Breathlessness","-",2021-06-28,2021-06-30,2021-07-01,NA
+35145,"Kolar","2019477",39,"Male","SARI","Cough, Breathlessness","-",2021-06-10,2021-06-23,2021-07-02,NA
+35146,"Kolar","2138111",57,"Male","SARI","Cough, Breathlessness","-",2021-06-16,2021-06-25,2021-07-02,NA
+35223,"Kolar","100002086",35,"Male","SARI","Breathlessness","-",2021-06-28,2021-07-02,2021-07-02,NA
+35233,"Kolar","2403968",47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-25,2021-07-03,NA
+35316,"Kolar","2443324",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-25,2021-07-04,NA
+35318,"Kolar","2469814",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-27,2021-07-04,NA
+35368,"Kolar","100002268",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-04,2021-07-04,NA
+35385,"Kolar","2523752",46,"Male","SARI","Fever, Breathlessness","-",2021-06-25,2021-06-26,2021-07-05,NA
+35434,"Kolar","100002120",28,"Male","SARI","Fever, Breathlessness","-",2021-06-28,2021-07-05,2021-07-05,NA
+35435,"Kolar","100002262",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-04,2021-07-05,NA
+35447,"Kolar","2620573",46,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-03,2021-07-04,2021-07-06,NA
+35483,"Kolar","2879697",55,"Male","ILI","Fever","DM",2021-07-01,2021-07-06,2021-07-06,NA
+35497,"Kolar","2889401",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-02,2021-07-05,2021-07-06,NA
+35498,"Kolar","2890405",65,"Male","SARI","Fever, Breathlessness","-",2021-07-04,2021-07-06,2021-07-06,NA
+35520,"Kolar","100001816",63,"Male","SARI","Breathlessness","-",2021-07-03,2021-07-05,2021-07-06,NA
+35524,"Kolar","100002512",65,"Male","SARI","Breathlessness","DM, HTN",2021-07-03,2021-07-06,2021-07-06,NA
+35527,"Kolar","100002629",43,"Male","SARI","Breathlessness","-",2021-07-05,2021-07-06,2021-07-06,NA
+35574,"Kolar","2880030",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-28,2021-06-30,2021-07-07,NA
+35575,"Kolar","2880918",71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-29,2021-07-07,2021-07-07,NA
+35580,"Kolar","2885389",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-07,2021-07-07,NA
+35599,"Kolar","100002318",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-05,2021-07-07,NA
+35640,"Kolar","2879430",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-07,2021-07-08,NA
+35717,"Kolar","2900478",82,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-07-06,2021-07-09,NA
+35732,"Kolar","100002546",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-03,2021-07-05,2021-07-09,NA
+35755,"Kolar","2896413",83,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-04,2021-07-08,2021-07-10,NA
+35758,"Kolar","2898057",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-07,2021-07-08,2021-07-10,NA
+35779,"Kolar","100002591",84,"Male","SARI","Breathlessness","-",2021-07-04,2021-07-09,2021-07-10,NA
+35780,"Kolar","100002608",78,"Male","SARI","Breathlessness","DM",2021-07-04,2021-07-09,2021-07-10,NA
+35828,"Kolar","2911326",76,"Male","SARI","Fever, Breathlessness","-",NA,2021-07-10,2021-07-11,"Died at his residence"
+35833,"Kolar","100002036",75,"Male","ILI","Fever, Cough","HTN",2021-07-01,2021-07-09,2021-07-11,NA
+35834,"Kolar","100002040",24,"Male","SARI","Cough, Breathlessness","-",2021-06-26,2021-07-10,2021-07-11,NA
+35835,"Kolar","100002067",52,"Female","SARI","Cough, Breathlessness","-",2021-06-27,2021-07-09,2021-07-11,NA
+35837,"Kolar","100002376",18,"Female","SARI","Cough, Breathlessness","-",2021-07-01,2021-07-10,2021-07-11,NA
+35840,"Kolar","2600120",53,"Female","SARI","Fever, Breathlessness","HTN",2021-07-08,2021-07-10,2021-07-12,NA
+35876,"Kolar","2898986",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-09,2021-07-12,2021-07-12,NA
+35895,"Kolar","100001968",40,"Female","ILI","Fever","-",2021-06-25,2021-07-11,2021-07-12,NA
+35899,"Kolar","1544415",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-23,2021-06-26,2021-07-13,NA
+35900,"Kolar","2008164",52,"Female","SARI","Cough, Breathlessness","-",2021-07-01,2021-07-09,2021-07-13,NA
+35901,"Kolar","2427021",80,"Male","SARI","Cough, Breathlessness","-",2021-06-21,2021-07-08,2021-07-13,NA
+35906,"Kolar","2786184",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-07-12,2021-07-13,NA
+35941,"Kolar","100002209",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-29,2021-07-12,2021-07-13,NA
+35942,"Kolar","100002321",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-12,2021-07-13,NA
+35944,"Kolar","100002624",57,"Male","SARI","Breathlessness","-",2021-07-05,2021-07-13,2021-07-13,NA
+35987,"Kolar","100002545",66,"Male","SARI","Cough, Breathlessness","-",2021-07-03,2021-07-13,2021-07-14,NA
+35990,"Kolar","100002881",95,"Female","SARI","Cough, Breathlessness","HTN",2021-07-10,2021-07-13,2021-07-14,NA
+36005,"Kolar","2874554",35,"Male","ILI","Cough","-",2021-06-26,2021-07-12,2021-07-15,NA
+36012,"Kolar","2885221",44,"Male","SARI","Breathlessness","DM, HTN",2021-06-30,2021-07-12,2021-07-15,NA
+36074,"Kolar","2918098",48,"Male","SARI","Cough, Breathlessness","-",2021-07-14,2021-07-15,2021-07-16,NA
+36078,"Kolar","100001845",62,"Male","SARI","Cough, Breathlessness","-",2021-06-23,2021-07-06,2021-07-16,NA
+36081,"Kolar","100003066",85,"Male","SARI","Cough, Breathlessness","-",2021-07-15,2021-07-16,2021-07-16,NA
+36082,"Kolar","1749239",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-13,2021-07-16,2021-07-17,NA
+36108,"Kolar","2913417",61,"Male","SARI","Cough, Breathlessness","DM",2021-07-09,2021-07-15,2021-07-17,NA
+36115,"Kolar","2918097",60,"Female","SARI","Cough, Breathlessness","-",2021-07-14,2021-07-16,2021-07-17,NA
+36122,"Kolar","100002477",65,"Female","SARI","Cough, Breathlessness","HTN",2021-07-04,2021-07-16,2021-07-17,NA
+36157,"Kolar","100002026",56,"Female","SARI","Cough, Breathlessness","-",2021-06-23,2021-07-14,2021-07-18,NA
+36158,"Kolar","100002836",65,"Male","SARI","Cough, Breathlessness","-",2021-07-14,2021-07-16,2021-07-18,NA
+36159,"Kolar","100002982",55,"Male","SARI","Cough, Breathlessness","HTN",2021-07-04,2021-07-16,2021-07-18,NA
+36177,"Kolar","2908812",87,"Male","SARI","Cough, Breathlessness","DM",2021-07-10,2021-07-15,2021-07-19,NA
+36198,"Kolar","2924835",45,"Female","ILI","Fever","-",2021-07-18,2021-07-18,2021-07-19,NA
+36212,"Kolar","2914696",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-13,2021-07-13,2021-07-20,NA
+36228,"Kolar","100003083",85,"Male","SARI","Breathlessness","-",2021-07-15,2021-07-19,2021-07-20,NA
+36244,"Kolar","2917883",55,"Male","SARI","Cough, Breathlessness","DM",2021-07-15,2021-07-20,2021-07-21,NA
+36252,"Kolar","2922491",80,"Male","SARI","Cough, Breathlessness","DM",2021-07-14,2021-07-17,2021-07-21,NA
+36263,"Kolar","100003123",45,"Female","SARI","Breathlessness","HTN",2021-07-16,2021-07-17,2021-07-21,NA
+36280,"Kolar","2917883",55,"Male","SARI","Cough, Breathlessness","DM",2021-07-15,2021-07-20,2021-07-21,NA
+36288,"Kolar","2922491",80,"Male","SARI","Cough, Breathlessness","DM",2021-07-14,2021-07-17,2021-07-21,NA
+36299,"Kolar","100003123",45,"Female","SARI","Breathlessness","HTN",2021-07-16,2021-07-17,2021-07-21,NA
+36302,"Kolar","2859298",48,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-26,2021-07-22,2021-07-23,NA
+36304,"Kolar","2892395",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-03,2021-07-22,2021-07-23,NA
+36325,"Kolar","2927136",25,"Male","ILI","Fever","-",2021-07-20,2021-07-22,2021-07-23,NA
+36328,"Kolar","2930771",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-21,2021-07-22,2021-07-23,NA
+36340,"Kolar","2910729",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-16,2021-07-20,2021-07-24,NA
+36363,"Kolar","2282224",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-20,2021-07-22,2021-07-26,NA
+36364,"Kolar","2497922",95,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-20,2021-07-23,2021-07-26,NA
+36391,"Kolar","2422609",50,"Male","SARI","Cough, Breathlessness","-",2021-07-20,2021-07-23,2021-07-27,NA
+36410,"Kolar","2923365",66,"Female","SARI","Cough, Breathlessness","HTN",2021-07-17,2021-07-27,2021-07-27,NA
+36421,"Kolar","100002273",50,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-30,2021-07-27,2021-07-27,NA
+36442,"Kolar","2681284",35,"Female","SARI","Cough, Breathlessness","-",2021-07-10,2021-07-24,2021-07-29,NA
+36476,"Kolar","100002051",78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-26,2021-07-26,2021-07-29,NA
+36509,"Kolar","100002126",73,"Male","SARI","Cough, Breathlessness","DM, COPD",2021-07-20,2021-07-28,2021-07-30,NA
+36510,"Kolar","100002253",45,"Male","SARI","Cough, Breathlessness","DM",2021-06-30,2021-07-25,2021-07-30,NA
+36538,"Kolar","2941254",55,"Female","SARI","Cough, Breathlessness","-",2021-07-26,2021-07-29,2021-07-31,NA
+36545,"Kolar","100003139",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-17,2021-07-28,2021-07-31,NA
+36555,"Kolar","2909493",25,"Male","SARI","Fever, Breathlessness","-",2021-07-22,2021-07-27,2021-08-01,NA
+36571,"Kolar","100002768",55,"Female","SARI","Breathlessness","DM",2021-07-08,2021-07-26,2021-08-01,NA
+36573,"Kolar","2818913",50,"Male","SARI","Cough, Breathlessness","-",2021-07-15,2021-07-28,2021-08-02,NA
+36575,"Kolar","2882532",65,"Female","SARI","Fever, Cough","DM",2021-07-05,2021-07-27,2021-08-02,NA
+36598,"Kolar","2754726",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-24,2021-07-28,2021-08-03,NA
+36631,"Kolar","2950198",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-02,2021-08-02,2021-08-03,NA
+36656,"Kolar","2940144",55,"Female","ILI","Fever, Cough","DM",2021-07-29,2021-07-29,2021-08-04,NA
+36665,"Kolar","100002023",55,"Male","SARI","Breathlessness","-",2021-06-26,2021-07-30,2021-08-04,NA
+36672,"Kolar","2934131",63,"Female","SARI","Cough, Breathlessness","HTN",2021-07-26,2021-08-03,2021-08-05,NA
+36679,"Kolar","2942459",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-02,2021-08-04,2021-08-05,NA
+36690,"Kolar","100002322",78,"Male","SARI","Cough, Breathlessness","DM",2021-07-01,2021-07-30,2021-08-05,NA
+36717,"Kolar","2951605",98,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-04,2021-08-05,2021-08-06,NA
+36722,"Kolar","100000875",43,"Male","ILI","Fever","-",2021-05-29,2021-06-22,2021-08-06,NA
+36724,"Kolar","100002328",45,"Female","SARI","Breathlessness","-",2021-07-20,2021-07-27,2021-08-06,NA
+36725,"Kolar","100002424",51,"Male","ILI","Fever, Cough","-",2021-05-30,2021-07-06,2021-08-06,NA
+36726,"Kolar","100003411",59,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-31,2021-08-04,2021-08-06,NA
+36743,"Kolar","2947716",56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-13,2021-08-04,2021-08-07,NA
+36754,"Kolar","100002835",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-09,2021-08-06,2021-08-07,NA
+36755,"Kolar","100003002",54,"Male","ILI","Fever","DM, HTN",2021-07-13,2021-08-06,2021-08-07,NA
+36757,"Kolar","100003292",26,"Female","SARI","Breathlessness","DM, HTN",2021-07-23,2021-08-06,2021-08-07,NA
+36758,"Kolar","100003311",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-24,2021-08-06,2021-08-07,NA
+36774,"Kolar","100002334",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-01,2021-07-26,2021-08-08,NA
+36775,"Kolar","100002372",52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-01,2021-07-25,2021-08-08,NA
+36777,"Kolar","100003470",65,"Female","SARI","Breathlessness","-",2021-08-01,2021-08-07,2021-08-08,NA
+36780,"Kolar","2152320",48,"Male","SARI","Fever, Breathlessness","-",2021-06-15,2021-06-20,2021-08-09,NA
+36781,"Kolar","2172870",55,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-25,2021-08-09,NA
+36802,"Kolar","100003341",75,"Male","ILI","Fever, Cough","DM",2021-07-24,2021-08-07,2021-08-09,NA
+36832,"Kolar","100002442",55,"Female","SARI","Cough, Breathlessness","-",2021-07-02,2021-07-26,2021-08-10,NA
+36833,"Kolar","100002521",45,"Male","SARI","Cough, Breathlessness","-",2021-07-03,2021-07-28,2021-08-10,NA
+36838,"Kolar","2908440",70,"Male","SARI","Breathlessness","IHD",2021-07-10,2021-07-23,2021-08-11,NA
+36864,"Kolar","100002841",65,"Male","SARI","Cough, Breathlessness","-",2021-07-09,2021-07-25,2021-08-11,NA
+36866,"Kolar","100003556",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-08-07,2021-08-10,2021-08-11,NA
+36869,"Kolar","2182511",55,"Male","SARI","Breathlessness","-",2021-07-04,2021-07-29,2021-08-12,NA
+36870,"Kolar","2186495",82,"Male","SARI","Breathlessness","DM",2021-07-06,2021-07-28,2021-08-12,NA
+36895,"Kolar","100002986",67,"Male","SARI","Cough, Breathlessness","HTN",2021-07-13,2021-07-29,2021-08-12,NA
+36916,"Kolar","100002985",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-13,2021-08-04,2021-08-13,NA
+36917,"Kolar","100003148",25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-19,2021-08-05,2021-08-13,NA
+36918,"Kolar","100003297",42,"Male","SARI","Fever, Breathlessness","-",2021-07-23,2021-08-08,2021-08-13,NA
+36929,"Kolar","2955284",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-05,2021-08-09,2021-08-14,NA
+36941,"Kolar","100003161",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-18,2021-08-02,2021-08-14,NA
+36943,"Kolar","100003464",60,"Female","SARI","Breathlessness","DM",2021-08-01,2021-08-10,2021-08-14,NA
+36953,"Kolar","2947998",67,"Male","SARI","Fever, Cough,  Breathlessness","HTN",2021-08-02,2021-08-08,2021-08-15,NA
+36957,"Kolar","2956825",42,"Male","SARI","Fever, Cough,  Breathlessness","-",2021-08-02,2021-08-06,2021-08-15,NA
+36990,"Kolar","100003483",72,"Female","SARI","Breathlessness","HTN",2021-08-02,2021-08-15,2021-08-16,NA
+36992,"Kolar","100003547",76,"Male","SARI","Cough, Breathlessness","-",2021-08-07,2021-08-13,2021-08-16,NA
+36993,"Kolar","2240183",60,"Male","ILI","Cough","DM",2021-07-15,2021-07-30,2021-08-17,NA
+37023,"Kolar","100003467",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-01,2021-08-15,2021-08-17,NA
+37045,"Kolar","100003584",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-10,2021-08-11,2021-08-18,NA
+37089,"Kolar","100003602",85,"Male","SARI","Cough, Breathlessness","DM",2021-08-09,2021-08-10,NA,NA
+37105,"Kolar","100003595",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-10,2021-08-20,2021-08-21,NA
+37106,"Kolar","100003599",51,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-10,2021-08-12,2021-08-21,NA
+37121,"Kolar","2967465",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-08-13,2021-08-18,2021-08-22,NA
+37207,"Kolar","2973419",59,"Female","SARI","Fever, Breathlessness","HTN",2021-08-18,2021-08-23,2021-08-28,NA
+37225,"Kolar","2976092",81,"Male","SARI","Breathlessness","DM",2021-08-19,2021-08-22,2021-08-29,NA
+37268,"Kolar","2982631",75,"Female","SARI","Fever, Breathlessness","DM",2021-08-24,2021-08-28,2021-08-31,NA
+37308,"Kolar","2984221",63,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-08-28,2021-09-01,2021-09-02,NA
+37328,"Kolar","2984934",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-26,2021-08-26,2021-09-03,NA
+37348,"Kolar","2981690",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-24,2021-08-31,2021-09-04,NA
+37503,"Kolar","100003781",74,"Male","ILI","Fever, Cough","HTN",2021-08-22,2021-09-14,2021-09-16,NA
+37533,"Kolar","3007791",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-17,2021-09-17,2021-09-18,NA
+37564,"Kolar","2998031",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-09,2021-09-19,2021-09-20,NA
+37595,"Kolar","3010108",71,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-06,2021-09-20,2021-09-21,NA
+37605,"Kolar","2984220",76,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-26,2021-09-22,2021-09-22,NA
+37693,"Kolar","3014982",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-23,2021-09-27,2021-09-27,NA
+37707,"Kolar","3012056",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-24,2021-09-27,2021-09-28,NA
+37938,"Kolar","3019503",65,"Male","ILI","Fever","DM",2021-10-01,2021-10-02,2021-10-22,NA
+37945,"Kolar","3019480",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-10-03,2021-10-05,2021-10-23,NA
+37969,"Kolar","3021726",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-10-07,2021-10-07,2021-10-26,NA
+37994,"Kolar","3025195",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-10-17,2021-10-27,2021-10-28,NA
+38002,"Kolar","100003947",56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-10-01,2021-10-27,2021-10-28,NA
+38056,"Kolar","100003953",71,"Female","ILI","Fever, Cough","HTN",2021-10-03,2021-11-05,2021-11-06,NA
+38105,"Kolar","3021296",76,"Male","ILI","Fever","DM",2021-10-07,2021-10-24,2021-11-17,NA
+38120,"Kolar","3019481",70,"Female","SARI","Fever, Breathlessness","-",2021-10-03,2021-11-19,2021-11-20,NA
+38124,"Kolar","100004015",47,"Male","SARI","Fever, Breathlessness","DM",2021-10-30,2021-11-19,2021-11-20,NA
+38136,"Kolar","3033061",57,"Male","ILI","Fever","CLD",2021-11-10,2021-11-17,2021-11-25,NA
+38153,"Kolar","100004033",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-11-14,2021-11-18,2021-11-29,NA
+38158,"Kolar","100004033",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-11-14,2021-11-18,2021-11-29,NA
+38166,"Kolar","100004045",43,"Male","ILI","Fever, Cough","HTN",2021-12-01,2021-12-02,2021-12-03,NA
+38214,"Kolar","100004043",78,"Female","ILI","Fever, Cough","DM",2021-11-29,2021-12-09,2021-12-13,NA
+38243,"Kolar","3043235",72,"Male","ILI","Fever, Cough","-",2021-12-14,2021-12-19,2021-12-22,NA
+38331,"Kolar","3112594",86,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-12-25,2022-01-10,2022-01-11,NA
+38790,"Kolar","3706483",73,"Male","SARI","Cough,
+Breathlessness","DM",2022-01-24,2022-01-27,2022-01-28,NA
+38843,"Kolar","3677023",62,"Female","SARI","Fever, Cough, Breathlessness","DM,H TN",2022-01-25,2022-01-26,2022-01-29,NA
+38970,"Kolar","3706475",65,"Male","SARI","Cough, Breathlessness","CKD",2022-01-23,2022-01-29,2022-01-31,NA
+39025,"Kolar","3726841",87,"Male","SARI","Fever, Cough,Breathlessness","HTN,COPD",2022-01-25,2022-01-30,2022-02-01,NA
+39051,"Kolar","3836614",85,"Male","SARI","Fever,
+Breathlessness","CKD",2022-01-30,2022-01-31,2022-02-01,NA
+39173,"Kolar","3926168",50,"Male","SARI","Breathlessness","-",2022-02-02,2022-02-03,2022-02-04,NA
+39381,"Kolar","3818498",65,"Female","ILI","Cough","DM, COPD, CKD",2022-01-29,2022-02-03,2022-02-09,NA
+39394,"Kolar","3913909",60,"Female","SARI","Cough, Breathlessness","-",2022-02-03,2022-02-06,2022-02-09,NA
+39599,"Kolar","3936729",71,"Male","SARI","Breathlessness","COPD",2022-02-04,2022-02-14,2022-02-15,NA
+39641,"Kolar","3845628",53,"Male","SARI","Breathlessness","HTN",2022-02-01,2022-02-14,2022-02-17,NA
+39698,"Kolar","3978816",80,"Male","SARI","Fever, Cough, Breathlessness","COPD",2022-02-13,2022-02-15,2022-02-19,NA
+39781,"Kolar","3596839",60,"Female","SARI","Fever, Cough, Breathlessness","IHD",2022-01-23,2022-02-22,2022-02-23,NA
+39960,"Kolar","4024750",85,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-07-03,2022-07-03,2022-07-05,NA
+39992,"Kolar","4068611",80,"Male","ILI","Cough","DM, HTN",2022-08-03,2022-08-05,2022-08-05,NA
+40029,"Kolar","4080455",0.75,"FEMALE","SARI","Fever,
+Breathlessness","-",2022-08-11,2022-08-12,2022-08-16,NA

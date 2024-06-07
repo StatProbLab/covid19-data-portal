@@ -1,0 +1,554 @@
+##Required Libraries
+library(readxl)
+library(ggplot2)
+library(plotly)
+library(viridis)
+
+#Read data
+data<- read_excel("~/Dropbox/summertime/wwwdec/KA.xlsx")
+
+#Format date correctly
+data$Date<- as.Date(data$Date, format = "%d-%m-%Y")
+
+#mapping to district names
+df_1=subset(data,data$DISTRICTCODE=="1")
+df_2=subset(data,data$DISTRICTCODE=="2")
+df_3=subset(data,data$DISTRICTCODE=="3")
+df_4=subset(data,data$DISTRICTCODE=="4")
+df_5=subset(data,data$DISTRICTCODE=="5")
+df_6=subset(data,data$DISTRICTCODE=="6")
+df_7=subset(data,data$DISTRICTCODE=="7")
+df_8=subset(data,data$DISTRICTCODE=="8")
+df_9=subset(data,data$DISTRICTCODE=="9")
+df_10=subset(data,data$DISTRICTCODE=="10")
+df_11=subset(data,data$DISTRICTCODE=="11")
+df_12=subset(data,data$DISTRICTCODE=="12")
+df_13=subset(data,data$DISTRICTCODE=="13")
+df_14=subset(data,data$DISTRICTCODE=="14")
+df_15=subset(data,data$DISTRICTCODE=="15")
+df_16=subset(data,data$DISTRICTCODE=="16")
+df_17=subset(data,data$DISTRICTCODE=="17")
+df_18=subset(data,data$DISTRICTCODE=="18")
+df_19=subset(data,data$DISTRICTCODE=="19")
+df_20=subset(data,data$DISTRICTCODE=="20")
+df_21=subset(data,data$DISTRICTCODE=="21")
+df_22=subset(data,data$DISTRICTCODE=="22")
+df_23=subset(data,data$DISTRICTCODE=="23")
+df_24=subset(data,data$DISTRICTCODE=="24")
+df_25=subset(data,data$DISTRICTCODE=="25")
+df_26=subset(data,data$DISTRICTCODE=="26")
+df_27=subset(data,data$DISTRICTCODE=="27")
+df_28=subset(data,data$DISTRICTCODE=="28")
+df_29=subset(data,data$DISTRICTCODE=="29")
+df_30=subset(data,data$DISTRICTCODE=="30")
+
+#naming districts
+
+District<- rep("Bagalakote",length(nrow(df_1)))
+df_1$District <-District 
+District<- rep("Ballari",length(nrow(df_2)))
+df_2$District <-District
+District<- rep("Belagavi",length(nrow(df_3)))
+df_3$District <-District
+District<- rep("Bengaluru Rural",length(nrow(df_4)))
+df_4$District <-District
+District<- rep("Bengaluru Urban",length(nrow(df_5)))
+df_5$District <-District
+District<- rep("Bidar",length(nrow(df_6)))
+df_6$District <-District
+District<- rep("Chamarajanagara",length(nrow(df_7)))
+df_7$District <-District
+District<- rep("Chikkaballapura",length(nrow(df_8)))
+df_8$District <-District
+District<- rep("Chikkamagaluru",length(nrow(df_9)))
+df_9$District <-District
+District<- rep("Chitradurga",length(nrow(df_10)))
+df_10$District <-District
+District<- rep("Dakshina Kannada",length(nrow(df_11)))
+df_11$District <-District
+District<- rep("Davanagere",length(nrow(df_12)))
+df_12$District <-District
+District<- rep("Dharawada",length(nrow(df_13)))
+df_13$District <-District
+District<- rep("Gadag",length(nrow(df_14)))
+df_14$District <-District
+District<- rep("Hassana",length(nrow(df_15)))
+df_15$District <-District
+District<- rep("Haveri",length(nrow(df_16)))
+df_16$District <-District
+District<- rep("Kalaburagi",length(nrow(df_17)))
+df_17$District <-District
+District<- rep("Kodagu",length(nrow(df_18)))
+df_18$District <-District
+District<- rep("Kolara",length(nrow(df_19)))
+df_19$District <-District
+District<- rep("Kopppala",length(nrow(df_20)))
+df_20$District <-District
+District<- rep("Mandya",length(nrow(df_21)))
+df_21$District <-District
+District<- rep("Mysuru",length(nrow(df_22)))
+df_22$District <-District
+District<- rep("Raichuru",length(nrow(df_23)))
+df_23$District <-District
+District<- rep("Ramanagara",length(nrow(df_24)))
+df_24$District <-District
+District<- rep("shivamogga",length(nrow(df_25)))
+df_25$District <-District
+District<- rep("Tumakuru",length(nrow(df_26)))
+df_26$District <-District
+District<- rep("Udipi",length(nrow(df_27)))
+df_27$District <-District
+District<- rep("Uttara Kannada",length(nrow(df_28)))
+df_28$District <-District
+District<- rep("Vijayapura",length(nrow(df_29)))
+df_29$District <-District
+District<- rep("Yadagiri",length(nrow(df_30)))
+df_30$District <-District
+
+
+df=rbind(df_1,df_2,df_3,df_4,df_5,df_6,df_7,df_8,df_9,df_10,df_11,df_12,df_13,df_14,df_15,df_16,df_17,df_18,df_19,df_20,df_21,df_22,df_23,df_24,df_25,df_26,df_27,df_28,df_29,df_30)
+df=df[,c(6,2,3,4,5)]
+
+
+
+
+#subsetting district wise
+unique_district<- unique(df$District)
+unique_district<- sort(unique_district)
+
+for(j in seq(length(unique_district)))
+{
+#j=9
+df_new<- data.frame(District=character(),Date=character(),Total_Active = double(),Rate=double())
+
+  sub_data <- subset(df,df$District==unique_district[j])
+  sub_data$Active_cases=sub_data$TINF-sub_data$TREC-sub_data$TDEC
+  
+ {  for (i in seq(unique(nrow(sub_data)))) 
+  {
+    m1 <-sub_data$Active_cases[i+7]
+    m2=(1/10+((sub_data$Active_cases[i+7]-sub_data$Active_cases[i])/(7*(sub_data$Active_cases[i+7]))))
+    m3=((sub_data$Active_cases[i+7]-sub_data$Active_cases[i])/(7*(sub_data$Active_cases[i+7])))
+    m4=sub_data$Date[i+7]
+    temp<- data.frame(j,i,m4,m1,m2,m3)
+    df_new<- rbind(df_new,temp)
+  }
+}
+names(df_new) <- c("District","No.","Date","Total Active","Rate","Rate-mu")
+  
+month_wise<-data.frame((format(df_new$Date,"%Y-%m")),df_new)
+names(month_wise) <- c("Month","District","No.","Date","Total Active","Rate","Rate-mu")
+month_wise=na.omit(month_wise)
+month_wise$Rate[!is.finite(month_wise$Rate)]=0
+month_wise$`Rate-mu`[!is.finite(month_wise$`Rate-mu`)]=0
+
+
+#prediction date=1
+df_h=subset(month_wise,month_wise$Date>="2020-06-20"&month_wise$Date<"2020-07-10")
+#estimate lamda(t)
+df_f<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h)))) 
+{ 
+  m1=df_h$Date[i+4] 
+  m2=df_h$`Total Active`[i+4]
+  m3=df_h$Rate[i+4]
+  m4=df_h$`Rate-mu`[i+4]
+  m5=(df_h$Rate[i]+df_h$Rate[i+1]+df_h$Rate[i+2]+df_h$Rate[i+3])/4
+  m6=df_h$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f<- rbind(df_f,temp)
+}
+names(df_f) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f=na.omit(df_f)
+
+df_f_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f)))) 
+{ 
+  m1=df_f$Date[i+1] 
+  m2=df_f$`Total Active`[i+1]
+  m3=df_f$Rate[i+1]
+  m4=df_f$`Rate-mu`[i+1]
+  m5=df_f$categ[i+1]
+  m6=(df_f$`Total Active`[i])*(1+(df_f$categ[i]-0.1))
+  m7=df_f$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f_new<- rbind(df_f_new,temp)
+}
+
+names(df_f_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f_new=na.omit(df_f_new)
+
+for(i in seq(unique(nrow(df_f_new))))
+{
+  if (i == 1)
+    df_f_new$model[i]=df_f_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f_new$model[i]<-df_f_new$model[i-1]*(1+(df_f_new$categ[2]-0.1))
+}
+
+df_f_new$model=floor(df_f_new$model)
+
+df_f_month<-data.frame((format(df_f_new$Date,"%Y-%m")),df_f_new)
+names(df_f_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+
+#prediction date=2
+df_h1=subset(month_wise,month_wise$Date>="2020-07-20"&month_wise$Date<"2020-08-30")
+#estimate lamda(t)
+df_f1<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h1)))) 
+{ 
+  m1=df_h1$Date[i+4] 
+  m2=df_h1$`Total Active`[i+4]
+  m3=df_h1$Rate[i+4]
+  m4=df_h1$`Rate-mu`[i+4]
+  m5=(df_h1$Rate[i]+df_h1$Rate[i+1]+df_h1$Rate[i+2]+df_h1$Rate[i+3])/4
+  m6=df_h1$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f1<- rbind(df_f1,temp)
+}
+
+names(df_f1) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f1=na.omit(df_f1)
+
+df_f1_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f1)))) 
+{ 
+  m1=df_f1$Date[i+1] 
+  m2=df_f1$`Total Active`[i+1]
+  m3=df_f1$Rate[i+1]
+  m4=df_f1$`Rate-mu`[i+1]
+  m5=df_f1$categ[i+1]
+  m6=(df_f1$`Total Active`[i])*(1+(df_f1$categ[i]-0.1))
+  m7=df_f1$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f1_new<- rbind(df_f1_new,temp)
+}
+
+names(df_f1_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f1_new=na.omit(df_f1_new)
+
+for(i in seq(unique(nrow(df_f1_new))))
+{
+  if (i == 1)
+    df_f1_new$model[i]=df_f1_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f1_new$model[i]<-df_f1_new$model[i-1]*(1+(df_f1_new$categ[2]-0.1))
+}
+
+df_f1_new$model=floor(df_f1_new$model)
+
+
+df_f1_month<-data.frame((format(df_f1_new$Date,"%Y-%m")),df_f1_new)
+names(df_f1_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+#prediction date=3
+df_h2=subset(month_wise,month_wise$Date>="2020-09-10"&month_wise$Date<"2020-10-10")
+#estimate lamda(t)
+df_f2<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h2)))) 
+{ 
+  m1=df_h2$Date[i+4] 
+  m2=df_h2$`Total Active`[i+4]
+  m3=df_h2$Rate[i+4]
+  m4=df_h2$`Rate-mu`[i+4]
+  m5=(df_h2$Rate[i]+df_h2$Rate[i+1]+df_h2$Rate[i+2]+df_h2$Rate[i+3])/4
+  m6=df_h1$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f2<- rbind(df_f2,temp)
+}
+
+names(df_f2) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f2=na.omit(df_f2)
+
+df_f2_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f2)))) 
+{ 
+  m1=df_f2$Date[i+1] 
+  m2=df_f2$`Total Active`[i+1]
+  m3=df_f2$Rate[i+1]
+  m4=df_f2$`Rate-mu`[i+1]
+  m5=df_f2$categ[i+1]
+  m6=(df_f2$`Total Active`[i])*(1+(df_f2$categ[i]-0.1))
+  m7=df_f2$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f2_new<- rbind(df_f2_new,temp)
+}
+
+names(df_f2_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f2_new=na.omit(df_f2_new)
+for(i in seq(unique(nrow(df_f2_new))))
+{
+  if (i == 1)
+    df_f2_new$model[i]=df_f2_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f2_new$model[i]<-df_f2_new$model[i-1]*(1+(df_f2_new$categ[2]-0.1))
+}
+
+df_f2_new$model=floor(df_f2_new$model)
+
+
+df_f2_month<-data.frame((format(df_f2_new$Date,"%Y-%m")),df_f2_new)
+names(df_f2_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+#prediction date=4
+df_h3=subset(month_wise,month_wise$Date>="2021-03-10"&month_wise$Date<"2021-04-20")
+#estimate lamda(t)
+df_f3<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h3)))) 
+{ 
+  m1=df_h3$Date[i+4] 
+  m2=df_h3$`Total Active`[i+4]
+  m3=df_h3$Rate[i+4]
+  m4=df_h3$`Rate-mu`[i+4]
+  m5=(df_h3$Rate[i]+df_h3$Rate[i+1]+df_h3$Rate[i+2]+df_h3$Rate[i+3])/4
+  m6=df_h$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f3<- rbind(df_f3,temp)
+}
+
+names(df_f3) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f3=na.omit(df_f3)
+
+df_f3_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f3)))) 
+{ 
+  m1=df_f3$Date[i+1] 
+  m2=df_f3$`Total Active`[i+1]
+  m3=df_f3$Rate[i+1]
+  m4=df_f3$`Rate-mu`[i+1]
+  m5=df_f3$categ[i+1]
+  m6=(df_f3$`Total Active`[i])*(1+(df_f3$categ[i]-0.1))
+  m7=df_f3$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f3_new<- rbind(df_f3_new,temp)
+}
+
+names(df_f3_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f3_new=na.omit(df_f3_new)
+
+for(i in seq(unique(nrow(df_f3_new))))
+{
+  if (i == 1)
+    df_f3_new$model[i]=df_f3_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f3_new$model[i]<-df_f3_new$model[i-1]*(1+(df_f3_new$categ[2]-0.1))
+}
+
+df_f3_new$model=floor(df_f3_new$model)
+
+
+df_f3_month<-data.frame((format(df_f3_new$Date,"%Y-%m")),df_f3_new)
+names(df_f3_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+
+#prediction date=5
+df_h4=subset(month_wise,month_wise$Date>="2021-04-10"&month_wise$Date<"2021-05-20")
+#estimate lamda(t)
+df_f4<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h4)))) 
+{ 
+  m1=df_h4$Date[i+4] 
+  m2=df_h4$`Total Active`[i+4]
+  m3=df_h4$Rate[i+4]
+  m4=df_h4$`Rate-mu`[i+4]
+  m5=(df_h4$Rate[i]+df_h4$Rate[i+1]+df_h4$Rate[i+2]+df_h4$Rate[i+3])/4
+  m6=df_h4$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f4<- rbind(df_f4,temp)
+}
+
+names(df_f4) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f4=na.omit(df_f4)
+
+df_f4_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f4)))) 
+{ 
+  m1=df_f4$Date[i+1] 
+  m2=df_f4$`Total Active`[i+1]
+  m3=df_f4$Rate[i+1]
+  m4=df_f4$`Rate-mu`[i+1]
+  m5=df_f4$categ[i+1]
+  m6=(df_f4$`Total Active`[i])*(1+(df_f4$categ[i]-0.1))
+  m7=df_f4$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f4_new<- rbind(df_f4_new,temp)
+}
+
+names(df_f4_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f4_new=na.omit(df_f4_new)
+
+for(i in seq(unique(nrow(df_f4_new))))
+{
+  if (i == 1)
+    df_f4_new$model[i]=df_f4_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f4_new$model[i]<-df_f4_new$model[i-1]*(1+(df_f4_new$categ[2]-0.1))
+}
+
+df_f4_new$model=floor(df_f4_new$model)
+
+
+df_f4_month<-data.frame((format(df_f4_new$Date,"%Y-%m")),df_f4_new)
+names(df_f4_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+#prediction date=6
+df_h5=subset(month_wise,month_wise$Date>="2021-04-30"&month_wise$Date<"2021-05-20")
+#estimate lamda(t)
+df_f5<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+for (i in seq(unique(nrow(df_h5)))) 
+{ 
+  m1=df_h5$Date[i+4] 
+  m2=df_h5$`Total Active`[i+4]
+  m3=df_h5$Rate[i+4]
+  m4=df_h5$`Rate-mu`[i+4]
+  m5=(df_h5$Rate[i]+df_h5$Rate[i+1]+df_h5$Rate[i+2]+df_h5$Rate[i+3])/4
+  m6=df_h5$District[i+4]
+  temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+  df_f5<- rbind(df_f5,temp)
+}
+
+names(df_f5) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+df_f5=na.omit(df_f5)
+
+df_f5_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+for (i in seq(unique(nrow(df_f5)))) 
+{ 
+  m1=df_f5$Date[i+1] 
+  m2=df_f5$`Total Active`[i+1]
+  m3=df_f5$Rate[i+1]
+  m4=df_f5$`Rate-mu`[i+1]
+  m5=df_f5$categ[i+1]
+  m6=(df_f5$`Total Active`[i])*(1+(df_f5$categ[i]-0.1))
+  m7=df_f5$District[i+1]
+  temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+  df_f5_new<- rbind(df_f5_new,temp)
+}
+
+names(df_f5_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+df_f5_new=na.omit(df_f5_new)
+
+for(i in seq(unique(nrow(df_f5_new))))
+{
+  if (i == 1)
+    df_f5_new$model[i]=df_f5_new$Predicted_Active_Cases[1]
+  if(i>1)
+    df_f5_new$model[i]<-df_f5_new$model[i-1]*(1+(df_f5_new$categ[2]-0.1))
+}
+
+df_f5_new$model=floor(df_f5_new$model)
+
+
+df_f5_month<-data.frame((format(df_f5_new$Date,"%Y-%m")),df_f5_new)
+names(df_f5_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+total_test=ggplot(month_wise,aes(x=Date,y=Rate))+geom_point(col="blue",size=.5)+geom_line(col="#D55E00")+scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Days") + ylab("lamda(t)") + ggtitle("Rate") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+geom_abline(intercept =1/10,slope=0,size=1)     
+total_testgp=ggplotly(total_test)
+
+total_active=ggplot(month_wise,aes(x=Date,y=`Total Active`))+geom_point(col="blue",size=.5)+geom_line(col="#D55E00")+scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Days") + ylab("count") + ggtitle("Total Active Cases") + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))  
+total_activegp=ggplotly(total_active)
+
+head1<- paste("",unique_district[j], sep = " ")
+
+
+total_predict=ggplot()+
+  geom_line(data=month_wise,aes(x=Date,y=`Total Active`),color="blue",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+  
+  geom_line(data = df_f_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+
+  geom_line(data = df_f1_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+
+  geom_line(data = df_f2_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+
+  geom_line(data = df_f3_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+
+  geom_line(data = df_f4_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))+
+  geom_line(data = df_f5_month, aes(x =Date,y=model_generated), color = "red",size=1)+
+  scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))  
+
+total_predictgp=ggplotly(total_predict)
+
+####now we predict for future times
+#k=1 
+  #future prediction
+df_a=subset(month_wise,month_wise$Date>as.Date.character(month_wise[nrow(month_wise),4]-7)&month_wise$Date<as.Date.character(month_wise[nrow(month_wise),4]+20))
+#estimate lamda(t)
+  df_l<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double())
+  for (i in seq(unique(nrow(df_a)))) 
+  { 
+    m1=df_a$Date[i+4] 
+    m2=df_a$`Total Active`[i+4]
+    m3=df_a$Rate[i+4]
+    m4=df_a$`Rate-mu`[i+4]
+    m5=(df_a$Rate[i]+df_a$Rate[i+1]+df_a$Rate[i+2]+df_a$Rate[i+3])/4
+    m6=df_a$District[i+4]
+    temp<- data.frame(i,m1,m6,m2,m3,m4,m5)
+    df_l<- rbind(df_l,temp)
+  }
+  names(df_l) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ")
+  df_l=na.omit(df_l)
+  
+  df_l_new<- data.frame(Date=character(),District=character(),Total_Active = double(),Rate=double(),Rate_mu=double(),categ=double(),predicted_active=double())
+  for (i in seq(unique(nrow(df_l)))) 
+  { 
+    m1=df_l$Date[i+1] 
+    m2=df_l$`Total Active`[i+1]
+    m3=df_l$Rate[i+1]
+    m4=df_l$`Rate-mu`[i+1]
+    m5=df_l$categ[i+1]
+    m6=(df_l$`Total Active`[i])*(1+(df_l$categ[1]-0.1))
+    m7=df_l$District[i+1]
+    temp<- data.frame(i,m1,m7,m2,m3,m4,m5,m6)
+    df_l_new<- rbind(df_l_new,temp)
+  }
+  
+  names(df_l_new) <- c("No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases")
+  df_l_new=na.omit(df_l_new)
+  
+  df_l_new[nrow(df_l_new)+20,] <- NA
+  
+  
+  for(i in seq(unique(nrow(df_l_new))))
+  {
+    if (i == 1)
+      df_l_new$model[i]=df_l_new$Predicted_Active_Cases[1]
+    if(i>1)
+      df_l_new$model[i]<-df_l_new$model[i-1]*(1+(df_l_new$categ[2]-0.1))
+  }
+  
+  for(t in seq(unique(nrow(df_l_new))))
+  {
+    if (t == 1)
+      df_l_new$Date[t]=as.Date.character(df_l_new$Date[1])
+    if(t>1)
+      df_l_new$Date[t]=as.Date.character(df_l_new$Date[t-1])+1
+  } 
+  
+  df_l_new$model=floor(df_l_new$model)
+  
+  df_l_month<-data.frame((format(df_l_new$Date,"%Y-%m")),df_l_new)
+  names(df_l_month) <- c("Month","No.","Date","District","Total Active","Rate","Rate-mu","categ","Predicted_Active_Cases_by_data","model_generated")
+
+  future=total_predict+
+    geom_line(data=df_l_month,aes(x =Date,y=model_generated), color = "green",size=1)+
+    scale_x_date(date_breaks = "1 month",date_labels = "%Y-%m")+scale_color_viridis(discrete = TRUE) + xlab("Date") + ylab("count") + ggtitle(head1) + theme_minimal() + theme(plot.title = element_text(color = "#D55E00",face = "bold", size = 40), axis.title = element_text(color = "#D55E00", size = 34), axis.text.y = element_text(size = 28),axis.text.x = element_text(angle=45,hjust = 1,size = 28))  
+
+
+
+
+
+futuregp=ggplotly(future)
+
+
+
+
+#save plots
+n1 <- paste(j,"lamda_t_plots",sep="-")
+name = paste(n1,"html", sep=".")
+path <- file.path(getwd(),"../graphs/", name)
+htmlwidgets::saveWidget(futuregp, file=path, selfcontained = FALSE, libdir = "plotly.html")
+name1 <- paste(n1,"png",sep=".")
+name2 <- paste0("../graphs/", name1)
+ggsave(name2, plot=future ,width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+}

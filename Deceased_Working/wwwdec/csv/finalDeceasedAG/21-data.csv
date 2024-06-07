@@ -1,0 +1,703 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+859,"Mandya","35148",60,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-08,2020-07-09,2020-07-15,NA
+1014,"Mandya","48046",49,"Male","SARI","Fever & Cough & Breathlessness","CKD, HTN, DM",2020-07-13,2020-07-16,2020-07-16,NA
+1041,"Mandya","28896",70,"Female","SARI","Fever & Breathlessness","HTN",2020-07-06,2020-07-17,2020-07-17,NA
+1059,"Mandya","35153",60,"Male","SARI","Fever & Breathlessness","DM",2020-07-08,2020-07-17,2020-07-17,NA
+1220,"Mandya","59868",70,"Female","SARI","Cough & Breathlessness","HTN",2020-07-16,2020-07-17,2020-07-18,NA
+1258,"Mandya","48070",75,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-07-13,2020-07-18,2020-07-19,NA
+1300,"Mandya","59840",60,"Male","SARI","Cough & Breathlessness","DM",2020-07-14,2020-07-18,2020-07-19,NA
+1550,"Mandya","52204",55,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-14,2020-07-22,2020-07-23,NA
+1554,"Mandya","60379",55,"Male","SARI","Cough & Breathlessness","-",2020-07-17,2020-07-23,2020-07-23,NA
+1813,"Mandya","76814",25,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-22,2020-07-25,2020-07-26,NA
+2367,"Mandya","122755",72,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-30,2020-07-30,2020-08-01,NA
+2437,"Mandya","118365",56,"Male","ILI","-","DM",2020-07-30,2020-07-31,2020-08-02,NA
+2452,"Mandya","126835",66,"Male","SARI","Fever & Breathlessness","-",2020-07-30,2020-08-01,2020-08-02,NA
+2477,"Mandya","138126",40,"Male","SARI","Fever & Breathlessness","-",2020-08-01,2020-08-01,2020-08-02,NA
+2617,"Mandya","114530",19,"Female","ILI","Fever","HTN",2020-07-27,2020-08-03,2020-08-04,NA
+2621,"Mandya","115471",58,"Male","SARI","Fever & Cough & Breathlessness",NA,2020-07-25,2020-08-04,2020-08-04,NA
+2724,"Mandya","115987",74,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-07-26,2020-08-03,2020-08-05,NA
+2773,"Mandya","148862",60,"Male","SARI","Fever, Breathlessness","-",2020-08-02,2020-08-02,2020-08-05,NA
+2775,"Mandya","149455",72,"Female","SARI","Fever, Breathlessness","-",2020-08-01,2020-08-02,2020-08-05,NA
+2813,"Mandya","115822",70,"Female","SARI","Fever & Breathlessness","-",2020-07-28,2020-08-05,2020-08-06,NA
+3015,"Mandya","121896",80,"Female","SARI","Fever, Breathlessness","-",2020-07-29,2020-08-07,2020-08-08,NA
+3097,"Mandya","113380",80,"Male","SARI","Fever, Breathlessness","-",2020-07-28,2020-08-08,2020-08-09,NA
+3210,"Mandya","109653",53,"Male","ILI","Fever","--",2020-07-25,2020-08-09,2020-08-10,NA
+3215,"Mandya","122071",70,"Male","ILI","Fever",NA,2020-07-28,2020-07-29,2020-08-10,NA
+3324,"Mandya","130050",70,"Male","SARI","Fever, Breathlessness","-",2020-07-31,2020-08-10,2020-08-11,NA
+3369,"Mandya","186686",56,"Male","Contact under","Fever","-",2020-08-07,2020-08-07,2020-08-11,NA
+3449,"Mandya","163324",68,"Female","ILI","Fever","-",2020-07-24,2020-08-10,2020-08-12,NA
+3475,"Mandya","192886",75,"Male","SARI","Fever, Breathlessness","-",2020-08-10,2020-08-12,2020-08-12,NA
+3483,"Mandya","196073",85,"Female","SARI","Fever, Breathlessness","HTN",2020-08-10,2020-08-12,2020-08-12,NA
+3547,"Mandya","164454",34,"Male","ILI","Fever","CLD",2020-08-06,2020-08-08,2020-08-13,NA
+3561,"Mandya","179167",78,"Female","ILI","Fever","DM, HTN, CA",2020-08-08,2020-08-08,2020-08-13,NA
+3605,"Mandya","77089",58,"Male","Contact under tracing","Fever","DM, HTN, AKI",2020-07-18,2020-07-20,2020-08-14,NA
+3739,"Mandya","148014",72,"Female","ILI","Fever, Cough","-",2020-08-03,2020-08-15,2020-08-15,NA
+3867,"Mandya","137303",62,"Male","ILI","Fever","-",NA,2020-08-16,2020-08-16,NA
+3887,"Mandya","186158",75,"Male","ILI","Fever","IHD",NA,2020-08-16,2020-08-16,NA
+3907,"Mandya","209672",65,"Male","ILI","Fever","-",NA,2020-08-16,2020-08-16,NA
+3987,"Mandya","173680",50,"Male","Contact under tracing","Fever","-",2020-07-30,2020-08-15,2020-08-17,NA
+4092,"Mandya","144176",41,"Male","ILI","Fever","-",2020-08-02,2020-08-18,2020-08-18,NA
+4129,"Mandya","192898",58,"Male","ILI","Fever","-",2020-08-10,2020-08-17,2020-08-18,NA
+4442,"Mandya","192916",70,"Male","SARI","Breathlessness","-",2020-08-09,2020-08-10,2020-08-21,NA
+4538,"Mandya","209675",63,"Male","SARI","Fever, Breathlessness","AKI",2020-08-11,2020-08-21,2020-08-22,NA
+4587,"Mandya","261378",55,"Female","SARI","Fever, Breathlessness","DM",2020-08-19,2020-08-21,2020-08-22,NA
+4620,"Mandya","208721",96,"Male","SARI","Fever, Breathlessness","_",2020-08-12,2020-08-22,2020-08-23,NA
+4670,"Mandya","282608",70,"Male","SARI","Fever, Breathlessness","_",2020-08-22,2020-08-22,2020-08-23,NA
+4735,"Mandya","246509",40,"Female","Contact under tracing","Fever","-",2020-08-17,2020-08-24,2020-08-24,NA
+4811,"Mandya","156430",38,"Female","SARI","Fever, Breathlessness","-",2020-08-05,2020-08-24,2020-08-25,NA
+4920,"Mandya","270955",78,"Female","SARI","Fever, Breathlessness","-",2020-08-16,2020-08-25,2020-08-25,NA
+5061,"Mandya","289662",75,"Female","SARI","Fever, Breathlessness","-",2020-08-23,2020-08-25,2020-08-26,NA
+5073,"Mandya","294222",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-21,2020-08-22,2020-08-26,NA
+5181,"Mandya","281038",28,"Female","ILI","Fever","-",2020-08-22,2020-08-26,2020-08-27,NA
+5208,"Mandya","303125",80,"Female","SARI","Fever, Breathlessness","-",2020-08-25,2020-08-27,2020-08-27,NA
+5269,"Mandya","246561",60,"Female","SARI","Fever, Breathlessness","DM",2020-08-17,2020-08-27,2020-08-28,NA
+5351,"Mandya","312574",65,"Female","ILI","Fever","HTN",2020-08-26,2020-08-27,2020-08-28,NA
+5371,"Mandya","202324",70,"Male","ILI","Fever, Cough","-",2020-08-13,2020-08-28,2020-08-29,NA
+5394,"Mandya","253956",68,"Female","ILI","Fever, Cough","-",2020-08-18,2020-08-29,2020-08-29,NA
+5411,"Mandya","276722",50,"Male","SARI","Fever, Breathlessness","DM",2020-08-18,2020-08-28,2020-08-29,NA
+5513,"Mandya","249523",50,"Female","SARI","Fever","DM, HTN",2020-08-17,2020-08-17,2020-08-30,NA
+5582,"Mandya","341154",35,"Male","ILI","Fever","DM, HTN, CKD",2020-08-29,2020-08-30,2020-08-30,NA
+5602,"Mandya","253984",80,"Male","Contact under tracing","Fever","-",2020-08-19,2020-08-30,2020-08-31,NA
+5646,"Mandya","312588",68,"Female","Contact under tracing","Fever","-",2020-08-28,2020-08-30,2020-08-31,NA
+5666,"Mandya","332076",58,"Male","Contact under tracing","Fever","DM, HTN, IHD",2020-08-27,2020-08-28,2020-08-31,NA
+5667,"Mandya","332080",67,"Female","Contact under tracing","Fever","-",2020-08-29,2020-08-30,2020-08-31,NA
+5775,"Mandya","305682",82,"Female","ILI","Fever","DM, HTN, IHD",2020-08-25,2020-09-01,2020-09-01,NA
+5862,"Mandya","276735",60,"Male","ILI","Fever","DM",2020-08-09,2020-09-02,2020-09-02,NA
+5883,"Mandya","299987",48,"Male","ILI","Fever","DM, HTN",2020-08-24,2020-09-01,2020-09-02,NA
+6156,"Mandya","377581",85,"Male","ILI","Fever","DM",2020-09-02,2020-09-04,2020-09-04,NA
+6202,"Mandya","320683",58,"Male","ILI","Fever, Cough","DM",2020-08-26,2020-09-04,2020-09-05,NA
+6273,"Mandya","377568",80,"Female","ILI","Fever, Cough","DM, HTN",2020-09-02,2020-09-04,2020-09-05,NA
+6274,"Mandya","377579",65,"Female","ILI","Fever, Cough","DM",2020-09-02,2020-09-04,2020-09-05,NA
+6275,"Mandya","377600",70,"Male","ILI","Fever, Cough","DM, CVA",2020-09-02,2020-09-05,2020-09-05,NA
+6379,"Mandya","396488",65,"Female","ILI","Fever, Cough","DM, HTN",2020-09-04,2020-09-05,2020-09-06,NA
+6497,"Mandya","380049",42,"Female","ILI","Fever, Cough","-",2020-09-02,2020-09-06,2020-09-07,NA
+6558,"Mandya","305681",65,"Female","SARI","Fever, Cough","HTN",2020-08-24,2020-09-08,2020-09-08,NA
+6648,"Mandya","398122",75,"Male","ILI","Fever, Cough","-",2020-09-02,2020-09-05,2020-09-08,NA
+6656,"Mandya","401112",42,"Male","ILI","Fever, Cough","-",2020-09-05,2020-09-07,2020-09-08,NA
+6663,"Mandya","409205",55,"Female","ILI","Fever, Cough","-",2020-09-06,2020-09-06,2020-09-08,NA
+6729,"Mandya","359055",47,"Female","ILI","Fever, Cough","-",2020-08-31,2020-09-09,2020-09-09,NA
+6778,"Mandya","405726",44,"Female","ILI","Fever, Cough","HTN",2020-09-05,2020-09-07,2020-09-09,NA
+6779,"Mandya","408133",40,"Male","ILI","Fever, Cough","-",2020-09-05,2020-09-06,2020-09-09,NA
+6836,"Mandya","354481",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-31,2020-09-09,2020-09-10,NA
+6848,"Mandya","368235",75,"Female","ILI","Fever, Cough","HTN",2020-09-01,2020-09-06,2020-09-10,NA
+6861,"Mandya","379605",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-09,2020-09-10,NA
+6960,"Mandya","342134",65,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-28,2020-09-09,2020-09-11,NA
+7002,"Mandya","389086",48,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-04,2020-09-09,2020-09-11,NA
+7004,"Mandya","395094",73,"Male","SARI","Cough, Breathlessness","DM",2020-09-03,2020-09-09,2020-09-11,NA
+7060,"Mandya","445125",53,"Male","SARI","Cough, Breathlessness","DM",2020-08-08,2020-09-11,2020-09-11,NA
+7303,"Mandya","399737",70,"Female","Contact under tracing","Fever, Cough","DM",2020-09-05,2020-09-14,2020-09-14,NA
+7780,"Mandya","474957",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-13,2020-09-18,2020-09-18,NA
+7808,"Mandya","498842",80,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-15,2020-09-18,2020-09-18,NA
+7853,"Mandya","430550",60,"Male","Contact under tracing","Fever, Cough","DM",2020-09-05,2020-09-18,2020-09-19,NA
+7904,"Mandya","500831",65,"Male","Contact under tracing","Fever, Cough, Breathlessness","CLD",2020-09-16,2020-09-18,2020-09-19,NA
+7979,"Mandya","474964",50,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-19,2020-09-20,NA
+8100,"Mandya","498846",75,"Male","ILI","Fever, Cough","-",2020-09-15,2020-09-21,2020-09-21,NA
+8134,"Mandya","520561",70,"Male","ILI","Fever, Cough","DM, HTN",2020-09-18,2020-09-20,2020-09-21,NA
+8224,"Mandya","519501",74,"Male","ILI","Fever, Cough","-",2020-09-18,2020-09-21,2020-09-22,NA
+8303,"Mandya","489052",63,"Male","SARI","Breathlessness","DM",2020-09-14,2020-09-23,2020-09-24,NA
+8416,"Mandya","548857",64,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-09-21,2020-09-25,2020-09-25,NA
+8462,"Mandya","507980",42,"Male","ILI","Fever, Cough","DM",2020-09-16,2020-09-26,2020-09-26,NA
+8586,"Mandya","583367",80,"Male","ILI","Fever, Cough","DM",2020-09-25,2020-09-27,2020-09-27,NA
+8759,"Mandya","565932",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-23,2020-09-29,2020-09-29,NA
+8777,"Mandya","588856",75,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-26,2020-09-27,2020-09-29,NA
+8828,"Mandya","557015",35,"Male","SARI","Fever, Cough, Breathlessness","TB",2020-09-22,2020-09-29,2020-09-30,NA
+8836,"Mandya","564738",76,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-09-25,2020-09-29,2020-09-30,NA
+8956,"Mandya","557004",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-22,2020-09-29,2020-10-01,NA
+8964,"Mandya","565335",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-29,2020-10-01,NA
+9073,"Mandya","579782",24,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-29,2020-10-01,2020-10-02,NA
+9082,"Mandya","584086",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-26,2020-10-01,2020-10-02,NA
+9211,"Mandya","615656",85,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-29,2020-10-02,2020-10-03,NA
+9227,"Mandya","641192",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-01,2020-10-01,2020-10-03,NA
+9271,"Mandya","608215",70,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-01,2020-10-02,2020-10-04,NA
+9287,"Mandya","628894",75,"Female","Contact under tracing","Cough, Breathlessness","-",2020-09-30,2020-10-04,2020-10-04,NA
+9353,"Mandya","627824",57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-02,2020-10-02,2020-10-05,NA
+9375,"Mandya","659365",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-03,2020-10-04,2020-10-05,NA
+9468,"Mandya","669489",55,"Female","Contact under tracing","Fever, Cough","DM",2020-09-05,2020-10-06,2020-10-06,NA
+9643,"Mandya","617982",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-29,2020-10-08,2020-10-08,NA
+9667,"Mandya","662654",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-04,2020-10-08,2020-10-08,NA
+9782,"Mandya","685385",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-07,2020-10-08,2020-10-09,NA
+9839,"Mandya","607601",80,"Male","SARI","Fever, Cough, Breathlessness","CA",2020-09-29,2020-10-09,2020-10-10,NA
+9930,"Mandya","646176",70,"Female","ILI","Fever, Cough","DM, HTN",2020-10-03,2020-10-11,2020-10-11,NA
+9996,"Mandya","631042",80,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-09-30,2020-10-12,2020-10-12,NA
+10007,"Mandya","653510",87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2020-09-03,2020-10-12,2020-10-12,NA
+10129,"Mandya","739737",60,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-10-12,2020-10-12,2020-10-13,NA
+10131,"Mandya","742107",24,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-13,2020-10-13,NA
+10168,"Mandya","677202",80,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-06,2020-10-13,2020-10-14,NA
+10186,"Mandya","713479",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-09,2020-10-13,2020-10-14,NA
+10260,"Mandya","705428",90,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-10-01,2020-10-13,2020-10-15,NA
+10263,"Mandya","707709",85,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-10-09,2020-10-14,2020-10-15,NA
+10304,"Mandya","636052",70,"Female","SARI","Fever, Cough, Breathlessness","CKD",2020-10-01,2020-10-13,2020-10-16,NA
+10348,"Mandya","726844",45,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-07,2020-10-15,2020-10-16,NA
+10394,"Mandya","692401",26,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-07,2020-10-16,2020-10-17,NA
+10407,"Mandya","709796",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-09,2020-10-15,2020-10-17,NA
+10433,"Mandya","762505",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-15,2020-10-16,2020-10-17,NA
+10470,"Mandya","745056",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-13,2020-10-18,2020-10-18,NA
+10509,"Mandya","712595",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-18,2020-10-19,NA
+10541,"Mandya","769963",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-16,2020-10-17,2020-10-19,NA
+10746,"Mandya","746801",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-13,2020-10-21,2020-10-22,NA
+10814,"Mandya","768727",51,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-16,2020-10-22,2020-10-23,NA
+10908,"Mandya","797931",67,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-19,2020-10-24,2020-10-25,NA
+10919,"Mandya","690452",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-08,2020-10-25,2020-10-26,NA
+11132,"Mandya","815044",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-24,2020-10-30,2020-10-30,NA
+11208,"Mandya","807379",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-23,2020-11-01,2020-11-02,NA
+11233,"Mandya","793051",92,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD, CKD",2020-10-20,2020-11-03,2020-11-03,NA
+11332,"Mandya","822999",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-27,2020-11-05,2020-11-06,NA
+11408,"Mandya","833907",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-30,2020-11-09,2020-11-09,NA
+11516,"Mandya","870300",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-12,2020-11-14,2020-11-14,NA
+11853,"Mandya","902066",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-02,2020-12-04,2020-12-05,NA
+12161,"Mandya","944995",42,"Female","SARI","Breathlessness","DM",2021-01-13,2021-01-15,2021-01-16,NA
+12180,"Mandya","946343",62,"Male","SARI","Cough, Breathlessness","-",2021-01-16,2021-01-17,2021-01-19,NA
+12184,"Mandya","944914",73,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-01-15,2021-01-19,2021-01-20,NA
+12209,"Mandya","947788",84,"Male","SARI","Breathlessness","DM, CVA, AKI",2021-01-19,2021-01-27,2021-01-29,NA
+12312,"Mandya","960087",70,"Male","ILI","Fever, Cough","DM, HTN",2021-02-16,2021-02-24,2021-02-25,NA
+12478,"Mandya","987892",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-23,2021-03-25,2021-03-26,NA
+12504,"Mandya","1006157",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-28,2021-03-28,2021-03-29,NA
+12537,"Mandya","1005982",67,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-03-28,2021-03-29,2021-03-30,NA
+12578,"Mandya","1004480",93,"Male","SARI","Fever, cough, breathlessness","-",2021-03-28,2021-03-31,2021-04-01,NA
+12602,"Mandya","1010374",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-30,2021-04-01,2021-04-03,NA
+12604,"Mandya","1015947",73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-31,2021-04-02,2021-04-03,NA
+12639,"Mandya","1012049",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-30,2021-04-04,2021-04-05,NA
+12693,"Mandya","1033618",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-01,2021-04-05,2021-04-06,NA
+12756,"Mandya","1033613",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-03,2021-04-06,2021-04-08,NA
+12757,"Mandya","1033619",95,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-03,2021-04-07,2021-04-08,NA
+12791,"Mandya","1033612",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-03,2021-04-07,2021-04-09,NA
+13152,"Mandya","1087704",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-10,2021-04-14,2021-04-16,NA
+13228,"Mandya","1087705",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-04-10,2021-04-15,2021-04-17,NA
+13343,"Mandya","1161112",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-15,2021-04-16,2021-04-18,NA
+13518,"Mandya","1068189",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-08,2021-04-09,2021-04-20,NA
+13603,"Mandya","1155854",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-17,2021-04-20,NA
+13731,"Mandya","1183201",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-17,2021-04-18,2021-04-21,NA
+13738,"Mandya","1194241",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-19,2021-04-21,NA
+13786,"Mandya","1088690",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-10,2021-04-20,2021-04-22,NA
+13796,"Mandya","1109758",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-13,2021-04-20,2021-04-22,NA
+13872,"Mandya","1229375",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-14,2021-04-20,2021-04-22,NA
+13875,"Mandya","1234423",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-20,2021-04-22,NA
+13952,"Mandya","1112965",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-17,2021-04-21,2021-04-23,NA
+14006,"Mandya","1186826",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-17,2021-04-22,2021-04-23,NA
+14053,"Mandya","1245694",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-21,2021-04-23,NA
+14072,"Mandya","1283561",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-18,2021-04-19,2021-04-23,NA
+14222,"Mandya","1208436",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-19,2021-04-22,2021-04-24,NA
+14236,"Mandya","1232841",37,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-23,2021-04-24,NA
+14248,"Mandya","1253591",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-21,2021-04-23,2021-04-24,NA
+14343,"Mandya","1193090",56,"Male","SARI","Fever, cough, breathlessness","-",2021-04-20,2021-04-24,2021-04-25,NA
+14397,"Mandya","1279147",68,"Female","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-04-24,2021-04-25,NA
+14423,"Mandya","1330068",68,"Female","SARI","Fever, cough, breathlessness","-",2021-04-23,2021-04-24,2021-04-25,NA
+14474,"Mandya","1171462",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-25,2021-04-26,NA
+14484,"Mandya","1190822",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-24,2021-04-26,NA
+14494,"Mandya","1208388",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-21,2021-04-25,2021-04-26,NA
+14514,"Mandya","1264839",57,"Male","SARI","Fever, cough, breathlessness",NA,2021-04-22,2021-04-22,2021-04-26,NA
+14531,"Mandya","1297532",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-24,2021-04-26,NA
+14544,"Mandya","1315438",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-25,2021-04-26,NA
+14563,"Mandya","1328206",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-24,2021-04-26,NA
+14572,"Mandya","1334748",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-24,2021-04-26,NA
+14591,"Mandya","1346448",45,"Male","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-24,2021-04-26,NA
+14861,"Mandya","1203472",78,"Male","SARI","Fever, cough, breathlessness","-",2021-04-19,2021-04-27,2021-04-28,NA
+14928,"Mandya","1310672",70,"Female","ILI","Fever","-",2021-04-16,2021-04-23,2021-04-28,NA
+14942,"Mandya","1339653",42,"Male","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-27,2021-04-28,NA
+14945,"Mandya","1344295",55,"Female","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-25,2021-04-28,NA
+14947,"Mandya","1346470",55,"Female","SARI","Fever, cough, breathlessness","HTN",2021-04-26,2021-04-26,2021-04-28,NA
+14970,"Mandya","1363148",70,"Male","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-04-21,2021-04-28,NA
+14977,"Mandya","1370866",43,"Male","SARI","Fever, cough, breathlessness","-",2021-04-24,2021-04-25,2021-04-28,NA
+14984,"Mandya","1378557",70,"Male","SARI","Fever, cough, breathlessness","-",2021-04-25,2021-04-25,2021-04-28,NA
+15010,"Mandya","1408254",35,"Female","SARI","Fever, cough, breathlessness","-",2021-04-26,2021-04-26,2021-04-28,NA
+15118,"Mandya","1228504",66,"Male","SARI","Fever, cough, breathlessness","-",2021-04-20,2021-04-28,2021-04-29,NA
+15181,"Mandya","1342785",68,"Male","SARI","Fever, cough, breathlessness","IHD, DM",2021-04-24,2021-04-27,2021-04-29,NA
+15188,"Mandya","1354628",70,"Female","ILI","Cough",NA,2021-04-26,2021-04-27,2021-04-29,NA
+15190,"Mandya","1360937",70,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-23,2021-04-27,2021-04-29,NA
+15226,"Mandya","1408255",82,"Male","SARI","Fever, cough, breathlessness","DM, HTN, DCM",2021-04-26,2021-04-27,2021-04-29,NA
+15234,"Mandya","1420425",46,"Female","SARI","Fever, cough, breathlessness","-",2021-04-26,2021-04-27,2021-04-29,NA
+15267,"Mandya","1450847",85,"Female","SARI","Fever, cough, breathlessness","DM",2021-04-24,2021-04-28,2021-04-29,NA
+15290,"Mandya","1473624",65,"Male","SARI","Fever, cough, breathlessness","-",2021-04-27,2021-04-27,2021-04-29,NA
+15298,"Mandya","1486741",55,"Female","SARI","Fever, cough, breathlessness",NA,2021-04-28,2021-04-28,2021-04-29,NA
+15341,"Mandya","1229369",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-26,2021-04-30,NA
+15371,"Mandya","1292744",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-19,2021-04-30,2021-04-30,NA
+15412,"Mandya","1352503",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-29,2021-04-30,NA
+15415,"Mandya","1363170",31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-20,2021-04-30,2021-04-30,NA
+15515,"Mandya","1537414",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-04-30,2021-04-30,NA
+15826,"Mandya","1250023",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-04-20,2021-04-25,2021-05-02,NA
+15885,"Mandya","1382196",51,"Female","SARI","Fever, Cough, Breathlessness","DM, ILD",2021-04-26,2021-04-30,2021-05-02,NA
+15900,"Mandya","1409951",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-26,2021-05-02,NA
+15905,"Mandya","1414615",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-05-01,2021-05-02,NA
+15907,"Mandya","1417719",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-04-27,2021-05-02,NA
+16370,"Mandya","1409929",33,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-27,2021-05-01,2021-05-04,NA
+16430,"Mandya","1531619",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-04,NA
+16444,"Mandya","1571709",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-04,NA
+16445,"Mandya","1571712",19,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-04,NA
+16473,"Mandya","1613819",43,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16499,"Mandya","1653547",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-01,2021-05-04,NA
+16681,"Mandya","1379074",75,"Male","SARI","Breathlessness","IHD",2021-04-25,2021-04-26,2021-05-05,NA
+16684,"Mandya","1386601",85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-05,2021-05-05,NA
+16697,"Mandya","1412097",70,"Female","SARI","Breathlessness","-",2021-04-26,2021-05-04,2021-05-05,NA
+16700,"Mandya","1420422",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-28,2021-05-05,NA
+16704,"Mandya","1423237",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-03,2021-05-05,NA
+16707,"Mandya","1425845",55,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-30,2021-05-05,NA
+16718,"Mandya","1466350",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-29,2021-05-05,NA
+16725,"Mandya","1485397",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-28,2021-05-05,NA
+16732,"Mandya","1491168",56,"Female","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-01,2021-05-05,NA
+16733,"Mandya","1491178",58,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-30,2021-05-05,NA
+16735,"Mandya","1493899",71,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-05,2021-05-05,NA
+16739,"Mandya","1496977",83,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-05,NA
+16767,"Mandya","1540940",58,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-04,2021-05-05,NA
+16769,"Mandya","1544609",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-02,2021-05-05,NA
+16773,"Mandya","1548147",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-05,2021-05-05,NA
+16826,"Mandya","1661880",75,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-05-02,2021-05-02,2021-05-05,NA
+16836,"Mandya","1678911",36,"Male","SARI","Breathlessness","HTN",2021-05-03,2021-05-03,2021-05-05,NA
+16844,"Mandya","1701998",66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-05,2021-05-05,NA
+16880,"Mandya","1776686",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-05,NA
+17086,"Mandya","1583516",49,"Male","SARI","BREATHLESSNESS","DM",2021-05-02,2021-05-06,2021-05-06,NA
+17181,"Mandya","1750355",63,"Female","SARI","BREATHLESSNESS","HTN",2021-05-04,2021-05-04,2021-05-06,NA
+17442,"Mandya","1454187",68,"Female","SARI","Breathlessness","DM",2021-04-27,2021-05-07,2021-05-07,NA
+17479,"Mandya","1497004",55,"Female","SARI","Breathlessness","-",2021-04-28,2021-05-06,2021-05-07,NA
+17599,"Mandya","1621654",28,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-07,NA
+17642,"Mandya","1665578",70,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-05,2021-05-07,NA
+17656,"Mandya","1682896",65,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-06,2021-05-07,NA
+17674,"Mandya","1701999",61,"Female","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-06,2021-05-07,NA
+17688,"Mandya","1715309",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-03,2021-05-06,2021-05-07,NA
+17726,"Mandya","1749095",80,"Female","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-04,2021-05-07,NA
+17734,"Mandya","1753458",75,"Female","SARI","Breathlessness","DM",2021-05-03,2021-05-06,2021-05-07,NA
+17736,"Mandya","1757250",43,"Male","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-04,2021-05-07,NA
+17777,"Mandya","1827253",65,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+18103,"Mandya","1600176",52,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-07,2021-05-08,NA
+18115,"Mandya","1618580",60,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-08,2021-05-08,NA
+18124,"Mandya","1635213",32,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-08,NA
+18145,"Mandya","1669177",65,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18174,"Mandya","1725799",70,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18249,"Mandya","1855078",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-06,2021-05-07,2021-05-08,NA
+18260,"Mandya","1869201",50,"Male","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-05,2021-05-08,NA
+18490,"Mandya","1534674",50,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-08,2021-05-09,NA
+18534,"Mandya","1593898",62,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-08,2021-05-09,NA
+18540,"Mandya","1600275",53,"Female","SARI","Breathlessness","DM",2021-04-30,2021-05-09,2021-05-09,NA
+18556,"Mandya","1621621",62,"Female","SARI","Breathlessness","DM, CKD",2021-05-01,2021-05-09,2021-05-09,NA
+18624,"Mandya","1743853",65,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-08,2021-05-09,NA
+18677,"Mandya","1827205",55,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-09,2021-05-09,NA
+18710,"Mandya","1873575",70,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18729,"Mandya","1908961",70,"Male","SARI","Breathlessness","HTN",2021-05-07,2021-05-09,2021-05-09,NA
+18768,"Mandya","1951897",65,"Male","SARI","Breathlessness","DM, IHD",2021-05-07,2021-05-08,2021-05-09,NA
+19093,"Mandya","1583465",60,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-09,2021-05-10,NA
+19113,"Mandya","1610572",68,"Female","SARI","Breathlessness","-",2021-04-03,2021-05-06,2021-05-10,NA
+19122,"Mandya","1625108",36,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-09,2021-05-10,NA
+19124,"Mandya","1628690",60,"Male","SARI","Breathlessness","HTN",2021-05-01,2021-05-07,2021-05-10,NA
+19162,"Mandya","1672466",54,"Female","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-06,2021-05-10,NA
+19209,"Mandya","1757299",54,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-10,NA
+19255,"Mandya","1823475",65,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-07,2021-05-10,NA
+19256,"Mandya","1823663",65,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-05-05,2021-05-08,2021-05-10,NA
+19277,"Mandya","1861718",47,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-09,2021-05-10,NA
+19288,"Mandya","1869192",55,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-07,2021-05-10,NA
+19333,"Mandya","1945714",58,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-09,2021-05-10,NA
+19370,"Mandya","2019541",28,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-10,NA
+19570,"Mandya","1575741",80,"Female","SARI","Breathlessness","DM",2021-04-30,2021-05-10,2021-05-11,NA
+19728,"Mandya","1847655",65,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-09,2021-05-11,NA
+19779,"Mandya","1908887",47,"Male","SARI","Breathlessness","DM",2021-05-07,2021-05-10,2021-05-11,NA
+20026,"Mandya","1715193",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-12,2021-05-12,NA
+20061,"Mandya","1749723",42,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-10,2021-05-12,NA
+20069,"Mandya","1757262",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-11,2021-05-12,NA
+20086,"Mandya","1776584",27,"Male","ILI","Fever","DM",2021-05-06,2021-05-11,2021-05-12,NA
+20186,"Mandya","1865272",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-10,2021-05-12,NA
+20190,"Mandya","1869207",58,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-11,2021-05-12,NA
+20191,"Mandya","1869210",42,"Female","ILI","Fever","DM, HTN",2021-05-07,2021-05-09,2021-05-12,NA
+20287,"Mandya","1963702",78,"Female","ILI","Fever","-",2021-05-09,2021-05-10,2021-05-12,NA
+20299,"Mandya","1973987",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-12,NA
+20336,"Mandya","2032105",46,"Female","ILI","Fever","-",2021-05-09,2021-05-11,2021-05-12,NA
+20441,"Mandya","1531606",50,"Female","SARI","Breathlessness","-",2021-04-29,2021-04-29,2021-05-13,NA
+20442,"Mandya","1531608",45,"Female","SARI","Breathlessness","-",2021-04-29,2021-04-29,2021-05-13,NA
+20453,"Mandya","1571713",33,"Male","SARI","Breathlessness","-",2021-04-30,2021-04-30,2021-05-13,NA
+20461,"Mandya","1593824",70,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-05,2021-05-13,NA
+20476,"Mandya","1621764",60,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-03,2021-05-13,NA
+20477,"Mandya","1621778",68,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-13,NA
+20478,"Mandya","1628751",65,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-06,2021-05-13,NA
+20481,"Mandya","1635203",55,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-13,NA
+20488,"Mandya","1644122",66,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-13,NA
+20544,"Mandya","1800529",48,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-13,NA
+20545,"Mandya","1800531",75,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-13,NA
+20814,"Mandya","1672485",66,"Female","SARI","Breathlessness","HTN",2021-05-02,2021-05-02,2021-05-14,NA
+20962,"Mandya","2017233",32,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-13,2021-05-14,NA
+20982,"Mandya","2043922",82,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+21027,"Mandya","2105806",42,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-13,2021-05-14,NA
+21028,"Mandya","2105812",75,"Female","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-14,NA
+21032,"Mandya","2114701",45,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21042,"Mandya","2124440",51,"Female","SARI","Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-14,NA
+21059,"Mandya","2141864",58,"Female","SARI","Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-14,NA
+21066,"Mandya","2148441",60,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21078,"Mandya","2161217",58,"Male","SARI","Breathlessness","DM",2021-05-12,2021-05-13,2021-05-14,NA
+21079,"Mandya","2163493",42,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-14,NA
+21083,"Mandya","2176675",75,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-14,NA
+21085,"Mandya","2186679",56,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-14,NA
+21220,"Mandya","1836777",75,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-11,2021-05-15,NA
+21289,"Mandya","2002983",45,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-05-15,NA
+21331,"Mandya","2070295",50,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-05-15,NA
+21350,"Mandya","2084185",47,"Female","SARI","Breathlessness","DM",2021-05-11,2021-05-15,2021-05-15,NA
+21353,"Mandya","2092425",60,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-15,NA
+21364,"Mandya","2105805",75,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-05-15,NA
+21369,"Mandya","2114738",70,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-15,NA
+21415,"Mandya","2184375",70,"Male","SARI","Breathlessness",NA,2021-05-13,2021-05-15,2021-05-15,NA
+21422,"Mandya","2190809",47,"Female","SARI","Breathlessness","HTN",2021-05-14,2021-05-14,2021-05-15,NA
+21431,"Mandya","2206302",52,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-14,2021-05-15,NA
+21599,"Mandya","1819585",80,"Female","SARI","Breathlessness","-",NA,2021-05-14,2021-05-16,"Died at her residence"
+21668,"Mandya","1992863",40,"Female","SARI","Breathlessness","-",NA,2021-05-10,2021-05-16,"Died at her residence"
+21680,"Mandya","2011178",52,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-12,2021-05-16,NA
+21723,"Mandya","2063713",43,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-16,NA
+21730,"Mandya","2071667",65,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21743,"Mandya","2092587",44,"Male","SARI","Breathlessness","HTN",2021-05-11,2021-05-16,2021-05-16,NA
+21750,"Mandya","2103723",75,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-12,2021-05-16,NA
+21759,"Mandya","2113546",42,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-16,NA
+21783,"Mandya","2154965",48,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-15,2021-05-16,NA
+21799,"Mandya","2172907",60,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-16,NA
+21802,"Mandya","2176652",62,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-16,NA
+21809,"Mandya","2190810",39,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21822,"Mandya","2211967",68,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-16,NA
+21827,"Mandya","2222257",48,"Female","SARI","Breathlessness","DM",2021-05-15,2021-05-16,2021-05-16,NA
+21839,"Mandya","2256736",50,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-16,NA
+22110,"Mandya","2011070",65,"Male","ILI","Fever","-",NA,2021-05-16,2021-05-17,"Brought dead"
+22115,"Mandya","2022429",67,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-12,2021-05-17,NA
+22196,"Mandya","2141868",46,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-17,2021-05-17,NA
+22207,"Mandya","2163517",33,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-17,NA
+22211,"Mandya","2166421",60,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-17,NA
+22226,"Mandya","2182587",50,"Female","ILI","Fever","-",2021-05-14,2021-05-17,2021-05-17,NA
+22259,"Mandya","2222444",60,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22301,"Mandya","2267740",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-16,2021-05-17,NA
+22305,"Mandya","2275214",75,"Female","ILI","Fever","HTN",2021-05-16,2021-05-17,2021-05-17,NA
+22314,"Mandya","2292800",43,"Male","ILI","Fever","-",2021-05-16,2021-05-17,2021-05-17,NA
+22649,"Mandya","2046780",52,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-18,2021-05-18,NA
+22650,"Mandya","2046792",62,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-17,2021-05-18,NA
+22807,"Mandya","2256709",62,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-18,2021-05-18,NA
+22822,"Mandya","2284399",55,"Male","SARI","Breathlessness","DM",2021-05-17,2021-05-17,2021-05-18,NA
+23064,"Mandya","1970209",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-19,2021-05-19,NA
+23128,"Mandya","2092678",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-19,NA
+23176,"Mandya","2154971",61,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-19,2021-05-19,NA
+23203,"Mandya","2182609",65,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-18,2021-05-19,NA
+23231,"Mandya","2222424",48,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-19,2021-05-19,NA
+23265,"Mandya","2267184",60,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-18,2021-05-19,NA
+23272,"Mandya","2275212",80,"Female","SARI","Breathlessness","-",2021-05-16,2021-05-18,2021-05-19,NA
+23290,"Mandya","2303554",70,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-18,2021-05-19,NA
+23303,"Mandya","2337782",65,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-19,2021-05-19,NA
+23614,"Mandya","2038474",40,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-20,2021-05-20,NA
+23646,"Mandya","2092468",75,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-19,2021-05-20,NA
+23663,"Mandya","2109070",70,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-16,2021-05-20,NA
+23671,"Mandya","2121728",42,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-19,2021-05-20,NA
+23749,"Mandya","2230164",34,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-20,2021-05-20,NA
+23775,"Mandya","2256719",72,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23813,"Mandya","2308119",70,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-18,2021-05-20,NA
+23830,"Mandya","2329188",45,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-18,2021-05-20,NA
+23831,"Mandya","2329249",90,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-19,2021-05-20,NA
+23850,"Mandya","2358058",27,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-19,2021-05-20,NA
+24038,"Mandya","2151107",55,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-20,2021-05-21,NA
+24049,"Mandya","2166526",50,"Male","SARI","Breathlessness","HTN",2021-05-14,2021-05-21,2021-05-21,NA
+24077,"Mandya","2211931",65,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-21,NA
+24116,"Mandya","2264884",65,"Male","SARI","Breathlessness","DM,  HTN, CVA",2021-05-16,2021-05-21,2021-05-21,NA
+24128,"Mandya","2284520",60,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24133,"Mandya","2296019",75,"Male","SARI","Breathlessness","IHD",2021-05-18,2021-05-20,2021-05-21,NA
+24157,"Mandya","2318985",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-05-21,NA
+24166,"Mandya","2329204",47,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-20,2021-05-21,NA
+24186,"Mandya","2356293",45,"Female","SARI","Breathlessness","HTN",2021-05-20,2021-05-21,2021-05-21,NA
+24543,"Mandya","2240215",98,"Male","SARI","Breathlessness","DM",2021-05-17,2021-05-22,2021-05-22,NA
+24575,"Mandya","2316329",65,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24608,"Mandya","2355623",58,"Female","SARI","Breathlessness","HTN",2021-05-18,2021-05-21,2021-05-22,NA
+24614,"Mandya","2362986",72,"Female","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-21,2021-05-22,NA
+24615,"Mandya","2362995",68,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-21,2021-05-22,NA
+24618,"Mandya","2365500",68,"Male","SARI","Breathlessness","COPD",2021-05-19,2021-05-21,2021-05-22,NA
+24622,"Mandya","2367748",45,"Male","SARI","Breathlessness","DM,  HTN, CKD",2021-05-19,2021-05-21,2021-05-22,NA
+25111,"Mandya","2256697",42,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-23,2021-05-23,NA
+25112,"Mandya","2256773",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-23,2021-05-23,NA
+25117,"Mandya","2264896",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-22,2021-05-23,NA
+25163,"Mandya","2317716",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-22,2021-05-23,NA
+25196,"Mandya","2363118",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-22,2021-05-23,NA
+25201,"Mandya","2365448",73,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-22,2021-05-23,NA
+25205,"Mandya","2367760",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-21,2021-05-23,NA
+25210,"Mandya","2370435",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-22,2021-05-23,NA
+25246,"Mandya","2403980",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-05-23,NA
+25257,"Mandya","2417044",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-05-23,NA
+25261,"Mandya","2421646",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25265,"Mandya","2427076",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-22,2021-05-23,NA
+25284,"Mandya","2475125",92,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-23,2021-05-23,"Brought dead"
+25602,"Mandya","2211909",50,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-24,2021-05-24,NA
+25628,"Mandya","2265069",96,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-23,2021-05-24,NA
+25765,"Mandya","2431306",65,"Female","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-23,2021-05-24,NA
+25806,"Mandya","2475085",76,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-23,2021-05-24,NA
+26235,"Mandya","2291585",34,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-24,2021-05-25,NA
+26276,"Mandya","2356268",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-24,2021-05-25,NA
+26340,"Mandya","2423676",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-23,2021-05-25,NA
+26341,"Mandya","2427039",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-25,NA
+26399,"Mandya","2503820",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-25,NA
+26400,"Mandya","2503870",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-24,2021-05-25,NA
+26773,"Mandya","2292797",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-18,2021-05-26,NA
+26816,"Mandya","2370527",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-25,2021-05-26,NA
+26891,"Mandya","2483757",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-26,2021-05-26,NA
+26914,"Mandya","2510404",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-25,2021-05-26,NA
+26929,"Mandya","2530356",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+27213,"Mandya","2279722",75,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-18,2021-05-23,2021-05-27,NA
+27323,"Mandya","2433336",45,"Male","SARI","Fever, cough, breathlessness","-",2021-05-22,2021-05-27,2021-05-27,NA
+27377,"Mandya","2499587",68,"Female","SARI","Fever, cough, breathlessness","-",2021-05-23,2021-05-26,2021-05-27,NA
+27409,"Mandya","2562821",80,"Female","SARI","Fever, cough, breathlessness","-",2021-05-26,2021-05-26,2021-05-27,NA
+27614,"Mandya","2296159",45,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-25,2021-05-28,NA
+27632,"Mandya","2319938",59,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-25,2021-05-28,NA
+27640,"Mandya","2326976",60,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-19,2021-05-28,NA
+27656,"Mandya","2341850",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-28,NA
+27708,"Mandya","2448945",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-27,2021-05-28,NA
+27759,"Mandya","2526622",40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-27,2021-05-28,NA
+27769,"Mandya","2536805",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-05-28,NA
+28091,"Mandya","2370581",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-24,2021-05-29,NA
+28178,"Mandya","2475105",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-28,2021-05-29,NA
+28235,"Mandya","2525214",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-28,2021-05-29,NA
+28241,"Mandya","2530334",51,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-29,2021-05-29,NA
+28512,"Mandya","2346931",50,"Male","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-30,2021-05-30,NA
+28636,"Mandya","2547204",34,"Male","SARI","Cough, Breathlessness","-",2021-05-26,2021-05-29,2021-05-30,NA
+28647,"Mandya","2570360",76,"Male","SARI","Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28659,"Mandya","2584443",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-29,2021-05-30,NA
+28983,"Mandya","2487495",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-29,2021-05-31,NA
+29007,"Mandya","2528351",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-05-31,NA
+29033,"Mandya","2568935",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-31,2021-05-31,NA
+29466,"Mandya","2521562",69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-06-01,2021-06-01,NA
+29497,"Mandya","2559991",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-31,2021-06-01,NA
+29557,"Mandya","2662618",43,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-01,2021-06-01,NA
+29926,"Mandya","2559993",83,"Female","SARI","Breathlessness","-",2021-05-28,2021-06-01,2021-06-02,NA
+29942,"Mandya","2577017",42,"Male","ILI","Fever, Cough","-",2021-05-29,2021-06-02,2021-06-02,NA
+30352,"Mandya","2475117",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-30,2021-06-03,2021-06-03,NA
+30366,"Mandya","2503824",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-06-02,2021-06-03,NA
+30414,"Mandya","2556335",28,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-06-01,2021-06-03,NA
+30422,"Mandya","2572415",21,"Female","SARI","Fever, Breathlessness","-",2021-05-26,2021-06-02,2021-06-03,NA
+30435,"Mandya","2591228",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-06-01,2021-06-03,NA
+30450,"Mandya","2606042",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-02,2021-06-03,NA
+30452,"Mandya","2607605",40,"Male","SARI","Fever, Breathlessness","DM",2021-05-28,2021-06-02,2021-06-03,NA
+30464,"Mandya","2627069",50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-01,2021-06-03,NA
+30480,"Mandya","2647962",35,"Male","SARI","Fever, Breathlessness","DM",2021-05-29,2021-06-01,2021-06-03,NA
+30509,"Mandya","2667409",58,"Female","SARI","Fever, Breathlessness","DM",2021-06-02,2021-06-03,2021-06-03,NA
+30512,"Mandya","2669799",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-03,NA
+30514,"Mandya","2674371",63,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-01,2021-06-03,NA
+30515,"Mandya","2675653",55,"Female","SARI","Fever, Breathlessness","-",2021-06-01,2021-06-03,2021-06-03,NA
+30528,"Mandya","2688373",60,"Male","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-02,2021-06-03,NA
+30747,"Mandya","2482228",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-06-03,2021-06-04,NA
+30896,"Mandya","2706357",0.21,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-04,NA
+31129,"Mandya","2505402",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-04,2021-06-05,NA
+31161,"Mandya","2577034",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-06-03,2021-06-05,NA
+31171,"Mandya","2606038",83,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-05,2021-06-05,NA
+31173,"Mandya","2607634",82,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-04,2021-06-05,NA
+31179,"Mandya","2615995",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-05,2021-06-05,NA
+31819,"Mandya","2627127",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-07,2021-06-07,NA
+31869,"Mandya","2679288",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-07,2021-06-07,NA
+31914,"Mandya","2734938",73,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-05,2021-06-06,2021-06-07,NA
+32055,"Mandya","2708863",46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-08,2021-06-08,NA
+32083,"Mandya","2731685",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-08,2021-06-08,NA
+32091,"Mandya","2742328",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-07,2021-06-08,NA
+32414,"Mandya","2690005",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-09,2021-06-10,NA
+32436,"Mandya","2722538",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-10,2021-06-10,NA
+32468,"Mandya","2761779",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-09,2021-06-10,NA
+32489,"Mandya","100000211",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-10,NA
+32574,"Mandya","2679289",46,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-11,2021-06-11,NA
+32578,"Mandya","2688355",67,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-11,2021-06-11,NA
+32762,"Mandya","2753960",74,"Male","ILI","Fever","-",2021-06-07,2021-06-10,2021-06-12,NA
+32977,"Mandya","2710137",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-14,NA
+33010,"Mandya","2776847",49,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-13,2021-06-14,NA
+33011,"Mandya","2776894",63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-12,2021-06-14,NA
+33086,"Mandya","2720163",32,"Female","SARI","Fever, cough, Breathlessness","-",2021-06-04,2021-06-14,2021-06-15,NA
+33129,"Mandya","2786198",56,"Male","SARI","Fever, cough, Breathlessness","-",2021-06-10,2021-06-14,2021-06-15,NA
+33238,"Mandya","2756430",65,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-12,2021-06-16,NA
+33242,"Mandya","2759463",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-16,2021-06-16,NA
+33249,"Mandya","2765979",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-15,2021-06-16,NA
+33283,"Mandya","2817391",80,"Female","SARI","Breathlessness","-",2021-06-14,2021-06-15,2021-06-16,NA
+33286,"Mandya","2819239",45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-14,2021-06-16,2021-06-16,NA
+33293,"Mandya","100000335",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-16,NA
+33297,"Mandya","100000453",65,"Female","SARI","Breathlessness","-",2021-06-08,2021-06-13,2021-06-16,NA
+33358,"Mandya","2709126",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-16,2021-06-17,NA
+33381,"Mandya","2764968",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-17,2021-06-17,NA
+33390,"Mandya","2776848",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-15,2021-06-17,NA
+33499,"Mandya","2713511",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-03,2021-06-17,2021-06-18,NA
+33541,"Mandya","2785192",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-18,2021-06-18,NA
+33556,"Mandya","2804086",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-17,2021-06-18,NA
+33638,"Mandya","2672778",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-02,2021-06-19,NA
+33641,"Mandya","2699805",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-03,2021-06-19,NA
+33642,"Mandya","2699806",52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-08,2021-06-19,NA
+33662,"Mandya","2760188",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-08,2021-06-19,NA
+33669,"Mandya","2768733",67,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-07,2021-06-09,2021-06-19,NA
+33679,"Mandya","2779504",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-11,2021-06-19,NA
+33712,"Mandya","2814424",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-19,2021-06-19,NA
+33756,"Mandya","100000816",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-19,2021-06-19,NA
+33797,"Mandya","2693010",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-15,2021-06-20,NA
+33800,"Mandya","2704982",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-06,2021-06-20,NA
+33808,"Mandya","2732708",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-11,2021-06-20,NA
+33809,"Mandya","2734922",80,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-09,2021-06-20,NA
+33812,"Mandya","2740589",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-05,2021-06-06,2021-06-20,NA
+33814,"Mandya","2741557",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-06,2021-06-20,NA
+33816,"Mandya","2755564",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-09,2021-06-20,NA
+33849,"Mandya","2812740",38,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-19,2021-06-20,NA
+33990,"Mandya","2806701",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-21,2021-06-21,NA
+34020,"Mandya","2852193",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-20,2021-06-21,2021-06-21,NA
+34058,"Mandya","2703579",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-06,2021-06-22,NA
+34059,"Mandya","2703662",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-05,2021-06-22,NA
+34061,"Mandya","2718753",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-05,2021-06-22,NA
+34069,"Mandya","2739157",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-10,2021-06-22,NA
+34073,"Mandya","2757222",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CA",2021-06-07,2021-06-08,2021-06-22,NA
+34076,"Mandya","2759792",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-08,2021-06-22,NA
+34087,"Mandya","2779505",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-08,2021-06-22,NA
+34097,"Mandya","2790162",85,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-06-10,2021-06-21,2021-06-22,NA
+34201,"Mandya","2677228",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-23,2021-06-23,NA
+34204,"Mandya","2684262",0.5,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-06-11,2021-06-23,NA
+34250,"Mandya","2831650",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-22,2021-06-23,NA
+34332,"Mandya","2778582",46,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-09,2021-06-14,2021-06-24,NA
+34466,"Mandya","2714891",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-22,2021-06-25,NA
+34472,"Mandya","2753965",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-24,2021-06-25,NA
+34511,"Mandya","2841147",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-18,2021-06-25,2021-06-25,NA
+34593,"Mandya","2800676",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-11,2021-06-26,NA
+34671,"Mandya","2671578",63,"Male","SARI ","Breathlessness ","DM ",2021-06-01,2021-06-26,2021-06-27,NA
+34738,"Mandya","2872237",47,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-25,2021-06-26,2021-06-27,NA
+34758,"Mandya","2520914",54,"Male","SARI ","Fever, Breathlessness ","- ",2021-06-24,2021-06-28,2021-06-28,NA
+34783,"Mandya","2821411",60,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-16,2021-06-28,2021-06-28,NA
+34837,"Mandya","100001499",56,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-19,2021-06-26,2021-06-28,NA
+34871,"Mandya","2811429",60,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN, COPD ",NA,NA,NA,"COPD +ACI-"
+34902,"Mandya","2858203",62,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",NA,NA,NA,"28+AC0-06+AC0-2021"
+34929,"Mandya","100001266",56,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34991,"Mandya","2840639",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-30,2021-06-30,NA
+35007,"Mandya","2860140",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-30,2021-06-30,NA
+35036,"Mandya","100001530",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-21,2021-06-30,NA
+35060,"Mandya","2708858",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-30,2021-07-01,NA
+35065,"Mandya","2765011",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-29,2021-07-01,NA
+35129,"Mandya","2887320",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-01,2021-07-01,NA
+35134,"Mandya","100001750",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-30,2021-07-01,NA
+35152,"Mandya","2669805",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-13,2021-07-02,NA
+35158,"Mandya","2748810",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-10,2021-07-02,NA
+35161,"Mandya","2771693",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-06-19,2021-07-02,NA
+35169,"Mandya","2811421",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-13,2021-06-13,2021-07-02,NA
+35171,"Mandya","2821901",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-19,2021-06-25,2021-07-02,NA
+35185,"Mandya","2858224",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-02,2021-07-02,NA
+35202,"Mandya","2870859",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-25,2021-07-02,2021-07-02,NA
+35238,"Mandya","2598591",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-19,2021-07-03,NA
+35242,"Mandya","2656147",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-20,2021-07-03,NA
+35247,"Mandya","2772374",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-17,2021-07-03,NA
+35250,"Mandya","2817909",71,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-07-02,2021-07-03,NA
+35260,"Mandya","2843933",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-18,2021-07-03,NA
+35305,"Mandya","100001846",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-23,2021-06-26,2021-07-03,NA
+35333,"Mandya","2855467",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-27,2021-07-04,NA
+35366,"Mandya","100001897",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-25,2021-06-25,2021-07-04,NA
+35395,"Mandya","2816192",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-26,2021-07-05,NA
+35408,"Mandya","2855957",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-21,2021-07-04,2021-07-05,NA
+35414,"Mandya","2867614",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-30,2021-07-05,2021-07-05,NA
+35417,"Mandya","2882550",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-05,2021-07-05,NA
+35482,"Mandya","2878478",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-27,2021-06-30,2021-07-06,NA
+35518,"Mandya","100001632",85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-21,2021-07-05,2021-07-06,NA
+35519,"Mandya","100001704",68,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-04,2021-07-05,2021-07-06,NA
+35556,"Mandya","2850067",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-25,2021-07-05,2021-07-07,NA
+35582,"Mandya","2889075",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-30,2021-07-06,2021-07-07,NA
+35603,"Mandya","100002602",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-03,2021-07-06,2021-07-07,NA
+35622,"Mandya","2851463",24,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-04,2021-07-08,NA
+35636,"Mandya","2873692",66,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-26,2021-07-08,2021-07-08,NA
+35696,"Mandya","2882556",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-29,2021-07-04,2021-07-09,NA
+35718,"Mandya","2901416",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-06,2021-07-08,2021-07-09,NA
+35726,"Mandya","2906145",35,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-07-08,2021-07-09,2021-07-09,NA
+35743,"Mandya","2864257",65,"Female","SARI","Fever, Cough, Breathlessness","Hyper thyroidism",2021-06-23,2021-07-09,2021-07-10,NA
+35745,"Mandya","2873693",65,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-26,2021-07-09,2021-07-10,NA
+35764,"Mandya","2902739",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-25,2021-07-09,2021-07-10,NA
+35775,"Mandya","2909932",75,"Female","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-07-09,2021-07-10,2021-07-10,NA
+35814,"Mandya","2895038",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-04,2021-07-11,2021-07-11,NA
+35843,"Mandya","2786226",42,"Male","SARI","Breathlessness","DM",2021-06-17,2021-07-08,2021-07-12,NA
+35845,"Mandya","2833659",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-17,2021-07-09,2021-07-12,NA
+35864,"Mandya","2885620",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-06,2021-07-12,2021-07-12,NA
+35871,"Mandya","2890306",56,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-02,2021-07-09,2021-07-12,NA
+35911,"Mandya","2855958",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-29,2021-07-10,2021-07-13,NA
+35951,"Mandya","2862725",49,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-26,2021-07-12,2021-07-14,NA
+36014,"Mandya","2890123",88,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-01,2021-07-15,2021-07-15,NA
+36038,"Mandya","100002626",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-05,2021-07-09,2021-07-15,NA
+36073,"Mandya","2917722",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-13,2021-07-15,2021-07-16,NA
+36091,"Mandya","2891154",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-14,2021-07-17,NA
+36102,"Mandya","2909268",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-08,2021-07-16,2021-07-17,NA
+36106,"Mandya","2910517",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-10,2021-07-17,2021-07-17,NA
+36144,"Mandya","2913274",48,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-07-14,2021-07-17,2021-07-18,NA
+36199,"Mandya","2925506",70,"Male","ILI","Cough","-",2021-07-19,2021-07-19,2021-07-19,NA
+36203,"Mandya","2885612",65,"Female","SARI","Fever, Breathlessness","-",2021-07-02,2021-07-20,2021-07-20,NA
+36217,"Mandya","2921416",62,"Female","SARI","Fever, Breathlessness","-",2021-07-16,2021-07-19,2021-07-20,NA
+36259,"Mandya","2926805",87,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-19,2021-07-21,2021-07-21,NA
+36295,"Mandya","2926805",87,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-19,2021-07-21,2021-07-21,NA
+36313,"Mandya","2916453",62,"Male","SARI","Fever, Breathlessness","-",2021-07-18,2021-07-22,2021-07-23,NA
+36350,"Mandya","2921312",70,"Male","SARI","Fever, Breathlessness","-",2021-07-16,2021-07-23,2021-07-24,NA
+36354,"Mandya","2927640",72,"Male","SARI","Fever, Breathlessness","DM",2021-07-20,2021-07-23,2021-07-24,NA
+36382,"Mandya","2929076",60,"Female","SARI","Fever, Breathlessness","DM",2021-07-23,2021-07-24,2021-07-26,NA
+36383,"Mandya","2931996",68,"Male","SARI","Fever, Breathlessness","DM",2021-07-22,2021-07-26,2021-07-26,NA
+36420,"Mandya","2936823",85,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-07-26,2021-07-26,2021-07-27,NA
+36432,"Mandya","2932138",81,"Male","SARI","Fever, Breathlessness","-",2021-07-21,2021-07-27,2021-07-28,NA
+36470,"Mandya","2938971",36,"Male","SARI","Fever, Breathlessness","-",2021-07-28,2021-07-29,2021-07-29,NA
+36597,"Mandya","100003232",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-20,2021-07-21,2021-08-02,NA
+36645,"Mandya","2930480",74,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-20,2021-08-04,2021-08-04,NA
+36655,"Mandya","2939116",90,"Female","ILI","Fever, Cough","COPD",2021-07-27,2021-08-02,2021-08-04,NA
+36657,"Mandya","2940870",71,"Male","ILI","Fever, Cough","HTN",2021-07-28,2021-08-04,2021-08-04,NA
+36669,"Mandya","2914867",45,"Female","SARI","Cough, Breathlessness","HTN",2021-07-12,2021-08-04,2021-08-05,NA
+36670,"Mandya","2919491",59,"Male","ILI","Fever","DM, HTN",2021-07-16,2021-08-05,2021-08-05,NA
+36703,"Mandya","2922931",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-16,2021-07-18,2021-08-06,NA
+36707,"Mandya","2940522",80,"Female","ILI","Fever, Cough","-",2021-07-28,2021-07-28,2021-08-06,NA
+36713,"Mandya","2950209",40,"Male","ILI","Fever, Cough","-",2021-08-04,2021-08-06,2021-08-06,NA
+36729,"Mandya","2930013",79,"Male","SARI","Breathlessness","-",2021-07-21,2021-08-05,2021-08-07,NA
+36756,"Mandya","100003233",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-21,2021-08-06,2021-08-07,NA
+36806,"Mandya","2896894",75,"Male","ILI","Fever, Cough","HTN",2021-07-04,2021-08-09,2021-08-10,NA
+36850,"Mandya","2942818",64,"Male","ILI","Fever, Cough","-",2021-08-01,2021-08-11,2021-08-11,NA
+36865,"Mandya","100003447",56,"Male","SARI","Fever, Breathlessness","DM",2021-07-31,2021-08-11,2021-08-11,NA
+36896,"Mandya","100003573",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-08,2021-08-11,2021-08-12,NA
+36927,"Mandya","2954447",70,"Male","ILI","Fever, Cough","DM",2021-07-17,2021-08-12,2021-08-14,NA
+36942,"Mandya","100003460",51,"Female","SARI","Fevr, Breathlessness","DM",2021-07-31,2021-08-14,2021-08-14,NA
+36949,"Mandya","2939574",55,"Female","SARI","Fever, Cough,  Breathlessness","HTN",2021-07-28,2021-08-14,2021-08-15,NA
+36972,"Mandya","2948218",60,"Male","ILI","Fever, Cough","HTN",2021-08-05,2021-08-16,2021-08-16,NA
+37024,"Mandya","100003512",29,"Female","ILI","Fever, Cough","-",2021-08-04,2021-08-15,2021-08-17,NA
+37048,"Mandya","2938976",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-29,2021-08-18,2021-08-19,NA
+37072,"Mandya","100002057",60,"Female","SARI","Fever, Breathlessness","HTN",2021-06-27,2021-07-05,2021-08-19,NA
+37090,"Mandya","100003710",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-18,2021-08-19,NA,NA
+37115,"Mandya","2955832",80,"Female","ILI","Fever, Cough","DM",2021-08-06,2021-08-21,2021-08-22,NA
+37130,"Mandya","2979470",41,"Male","ILI","Fever, Cough","-",2021-08-22,2021-08-22,2021-08-22,NA
+37298,"Mandya","2958236",35,"Female","ILI","Fever, Cough","HTN",2021-08-07,2021-09-01,2021-09-02,NA
+37305,"Mandya","2976829",45,"Male","ILI","Fever","-",2021-08-20,2021-09-01,2021-09-02,NA
+37335,"Mandya","100003605",50,"Female","SARI","Fever, Cough, Breathlessnes","-",2021-08-10,2021-08-30,2021-09-03,NA
+37418,"Mandya","2995625",55,"Female","ILI","Fever","DM",2021-09-04,2021-09-10,2021-09-10,NA
+37675,"Mandya","2500388",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-09-27,NA
+37676,"Mandya","2636295",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-09-27,NA
+37899,"Mandya","3022609",75,"Male","ILI","Fever","-",2021-10-13,2021-10-16,2021-10-18,NA
+38052,"Mandya","100004004",69,"Male","ILI","Fever, cough","-",2021-10-25,2021-11-04,2021-11-05,NA
+38055,"Mandya","3026954",54,"Female","ILI","Fever, Cough","DM, HTN, IHD",2021-10-22,2021-11-06,2021-11-06,NA
+38165,"Mandya","3039089",47,"Male","ILI","Fever, Cough","DM",2021-12-02,2021-12-03,2021-12-03,NA
+38272,"Mandya","3038106",51,"Male","ILI","Fever",NA,2021-11-27,2021-11-28,2021-12-31,NA
+38280,"Mandya","3038106",51,"Male","ILI","Fever",NA,2021-11-27,2021-11-28,2021-12-31,NA
+38287,"Mandya","2937362",60,"Female","ILI","Fever, Cough","HTN",2021-07-26,2021-07-29,2022-01-01,NA
+38361,"Mandya","3164676",60,"Female","ILI","Fever","-",2022-01-12,2022-01-13,2022-01-14,NA
+38375,"Mandya","3164676",60,"Female","ILI","Fever","-",2022-01-12,2022-01-13,2022-01-14,NA
+38386,"Mandya","3224750",60,"Female","ILI","Cough","-",2022-01-15,2022-01-15,2022-01-16,NA
+38413,"Mandya","3224750",60,"Female","ILI","Cough","-",2022-01-15,2022-01-15,2022-01-16,NA
+38486,"Mandya","3339685",40,"Male","ILI","Fever","-",NA,2022-01-17,2022-01-20,"Died at his residence"
+38538,"Mandya","3369115",65,"Male","ILI","Cough","-",2022-01-18,2022-01-21,2022-01-22,NA
+38564,"Mandya","3369115",65,"Male","ILI","Cough","-",2022-01-18,2022-01-21,2022-01-22,NA
+38601,"Mandya","3537102",65,"Female","ILI","Fever","-",2021-12-22,2022-01-22,2022-01-24,NA
+38631,"Mandya","3486142",65,"Female","ILI","Fever, Cough","-",2022-01-22,2022-01-22,2022-01-25,NA
+38683,"Mandya","3486142",65,"Female","ILI","Fever, Cough","-",2022-01-22,2022-01-22,2022-01-25,NA
+38732,"Mandya","3625000",20,"Male","ILI","Fever, Cough","HTN",2022-01-25,2022-01-26,2022-01-27,NA
+38747,"Mandya","3692496",65,"Male","ILI","Fever, Cough","-",2022-01-25,2022-01-26,2022-01-27,NA
+38870,"Mandya","3784881",96,"Male","ILI","Fever, Cough","-",2022-01-28,2022-01-28,2022-01-29,NA
+38877,"Mandya","3810973",66,"Female","SARI","Fever, Breathlessness","DM,H TN",2022-01-28,2022-01-28,2022-01-29,NA
+38904,"Mandya","3706535",60,"Male","ILI","Fever, Cough","-",NA,2022-01-28,2022-01-30,"Died at his residence"
+38946,"Mandya","3841781",60,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-27,2022-01-29,2022-01-30,NA
+38958,"Mandya","3624997",75,"Female","ILI","Fever, Cough","HTN",2022-01-23,2022-01-30,2022-01-31,NA
+38997,"Mandya","3838836",45,"Female","ILI","Fever","DM",2022-01-26,2022-01-30,2022-01-31,NA
+39006,"Mandya","3430535",70,"Male","ILI","Fever","-",2022-01-21,2022-01-21,2022-02-01,NA
+39009,"Mandya","3536980",75,"Female","ILI","Cough","-",NA,2022-01-21,2022-02-01,"Died at her residence"
+39019,"Mandya","3661067",46,"Female","ILI","Fever","-",2022-01-24,2022-01-31,2022-02-01,NA
+39046,"Mandya","3810966",70,"Female","SARI","Fever, Cough,
+Breathlessness","-",2022-01-23,2022-01-31,2022-02-01,NA
+39052,"Mandya","3838810",49,"Male","ILI","Fever","-",2022-01-26,2022-01-31,2022-02-01,NA
+39067,"Mandya","3452067",70,"Female","ILI","Fever","IHD",2022-01-19,2022-01-20,2022-02-03,NA
+39076,"Mandya","3654503",85,"Female","ILI","Fever, Cough","DM",2022-01-24,2022-02-02,2022-02-03,NA
+39096,"Mandya","3828214",65,"Male","ILI","Fever, Cough","-",NA,2022-01-29,2022-02-03,"Died at his residence"
+39098,"Mandya","3838834",65,"Male","ILI","Fever, Cough","DM",NA,2022-01-30,2022-02-03,"Died at his residence"
+39111,"Mandya","3882994",99,"Male","ILI","Fever","DM, HTN",2022-01-31,2022-02-02,2022-02-03,NA
+39146,"Mandya","3815080",90,"Female","ILI","Fever","DM",2022-01-29,2022-02-04,2022-02-04,NA
+39204,"Mandya","3841782",75,"Female","SARI","Cough, Breathlessness","-",2022-01-22,2022-02-04,2022-02-05,NA
+39289,"Mandya","3838835",75,"Male","ILI","Fever","COPD",2022-01-27,2022-02-06,2022-02-07,NA
+39338,"Mandya","3838835",75,"Male","ILI","Fever","COPD",2022-01-27,2022-02-06,2022-02-07,NA
+39390,"Mandya","3886742",70,"Female","ILI","Fever","DM, HTN, CKD",NA,2022-02-01,2022-02-09,"Died at her residence"
+39413,"Mandya","3954148",72,"Female","SARI","Cough, Breathlessness","DM",2022-02-08,2022-02-09,2022-02-09,NA
+39436,"Mandya","3916614",38,"Male","ILI","Cough","-",2022-02-03,2022-02-09,2022-02-10,NA
+39468,"Mandya","3841776",72,"Female","SARI","Fever, cough, breathlessness","DM, HTN, COPD",2022-01-31,2022-02-11,2022-02-11,NA
+39486,"Mandya","3946291",65,"Male","SARI","Fever, cough, breathlessness","TB",2022-02-07,2022-02-11,2022-02-11,NA
+39494,"Mandya","3968494",70,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2022-02-09,2022-02-10,2022-02-11,NA
+39626,"Mandya","3952315",80,"Male","ILI","Fever, Cough","DM,HTN",NA,2022-02-09,2022-02-16,"Died at his Residence"
+39653,"Mandya","3968505",90,"Female","ILI","Fever, Cough","HTN",NA,2022-02-11,2022-02-17,"Died at her residence"
+39657,"Mandya","3971741",57,"Male","ILI","Fever, Cough","TB",2022-02-11,2022-02-17,2022-02-17,NA
+39676,"Mandya","3981780",85,"Male","SARI","Fever, Breathlessness","-",2022-02-15,2022-02-17,2022-02-18,NA
+39851,"Mandya","3729478",70,"Male","ILI","Fever","HTN",NA,2022-02-07,2022-02-28,"Died at his residence"
+39870,"Mandya","3987536",45,"Male","ILI","Fever, Cough","TB",2022-02-20,2022-02-20,2022-03-02,NA
+39896,"Mandya","3607997",51,"Female","ILI","Fever","CKD",2022-01-28,2022-02-07,2021-03-09,NA
+39898,"Mandya","3807586",65,"Male","ILI","Fever","DM, HTN",NA,2022-02-01,2022-03-10,"Died at his residence"
+39911,"Mandya","3983536",43,"Female","ILI","Fever, Cough","DM, HTN, IHD, TB",2022-02-19,2022-03-11,3022-03-14,NA
+40094,"Mandya","4107117",41,"Female","SARI","Fever,
+Breathlessness","IHD",2022-09-02,2022-09-08,2022-09-08,NA

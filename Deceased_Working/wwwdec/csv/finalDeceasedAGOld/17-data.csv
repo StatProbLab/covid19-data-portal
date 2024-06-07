@@ -1,0 +1,896 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+1,"Kalaburagi","6",76,"Male","Travel history to Saudi Arabia",NA,"HTN & Asthama",NA,NA,2020-03-13,NA
+5,"Kalaburagi","177",65,"Male","SARI",NA,NA,NA,NA,2020-04-08,NA
+7,"Kalaburagi","205",55,"Male",NA,NA,NA,NA,NA,2020-04-14,NA
+17,"Kalaburagi","414",80,"Male","SARI",NA,"Parkinson's disease",2020-04-19,NA,2020-04-21,NA
+20,"Kalaburagi","422",57,"Male","SARI",NA,"CLD",2020-04-21,2020-04-27,2020-04-28,NA
+26,"Kalaburagi","587",56,"Male","SARI","Fever & Cough",NA,2020-04-29,NA,2020-05-04,NA
+32,"Kalaburagi","927",60,"Male",NA,NA,NA,NA,2020-05-11,2020-05-13,"Brought dead"
+63,"Kalaburagi","5900",17,"Female",NA,"Fever & Headache & Breathlessness","demyelinating disorder",2020-06-04,2020-06-04,2020-06-09,NA
+72,"Kalaburagi","6323",53,"Male","SARI",NA,"DM",2020-06-09,2020-06-10,2020-06-12,NA
+73,"Kalaburagi","6325",48,"Male","SARI",NA,"HTN & CKD",2020-06-09,2020-06-10,2020-06-12,NA
+112,"Kalaburagi","7907",50,"Male",NA,"Cough & Breathlessness","COPD",2020-06-13,2020-06-15,2020-06-18,NA
+153,"Kalaburagi","9844",78,"Male","SARI","Cough & Breathlessness","COPD, HTN",2020-06-21,2020-06-22,2020-06-24,NA
+154,"Kalaburagi","9845",55,"Male","SARI","Cough & Breathlessness & Ischemic Heart Disease","Chronic Liver Disease",2020-06-21,2020-06-22,2020-06-24,NA
+163,"Kalaburagi","10270",61,"Male","Contact under tracing","Cough & Breathlessness","HTN",2020-06-22,2020-06-23,2020-06-25,NA
+173,"Kalaburagi","10693",55,"Male","Inter district travel - Bidar","Fever & Breathlessness","ASTHMA",2020-06-23,2020-06-24,2020-06-26,NA
+181,"Kalaburagi","9833",72,"Male","Contact under tracing","Common Cold & Mild Fever","DM, HTN",2020-06-23,2020-06-26,2020-06-27,NA
+184,"Kalaburagi","11278",50,"Male","SARI","Breathlessness","-",2020-06-25,2020-06-26,2020-06-27,NA
+202,"Kalaburagi","12306",65,"Male","SARI","Fever & Breathlessness","IHD, HTN & Hemiplegic",2020-06-25,2020-06-26,2020-06-28,NA
+265,"Kalaburagi","16764",36,"Male","Inter district travel - Bengaluru","Sudden loss of conscious","-",2020-06-29,2020-06-30,2020-07-02,NA
+280,"Kalaburagi","15463",58,"Male","SARI","Fatigue & Breathlessness","DM, CKD, IHD & HTN",2020-06-30,2020-06-30,2020-07-03,NA
+285,"Kalaburagi","16785",25,"Female","ILI","Breathlessness & Fever & Loose Stools","CKD,  PANCYT OPENIA",2020-06-28,2020-07-03,2020-07-03,NA
+289,"Kalaburagi","18391",46,"Female","SARI","Breathlessness & General Weakness & Fatigue & Anorexia","DM",2020-06-30,2020-07-01,2020-07-03,NA
+323,"Kalaburagi","21323",45,"Female","SARI","Fever & Breathlessness","HTN, DM",2020-07-01,2020-07-03,2020-07-04,NA
+324,"Kalaburagi","21343",75,"Male","SARI","Breathlessness & Weakness & Chest Pain","IHD, HTN, DM",2020-07-01,2020-07-02,2020-07-04,NA
+325,"Kalaburagi","21344",73,"Male","SARI","Breathlessness & Chest Pain","HTN, DM",2020-07-01,2020-07-02,2020-07-04,NA
+350,"Kalaburagi","21318",69,"Male","ILI","Cough","HTN, DM, IHD",2020-07-03,2020-07-04,2020-07-05,NA
+357,"Kalaburagi","23288",66,"Male","ILI","Cough & Fever","HTN",NA,2020-07-03,2020-07-05,"Brought dead"
+408,"Kalaburagi","26671",71,"Male","SARI","Breathlessness & Cough","DM, HPTN, IHD",2020-07-05,2020-07-05,2020-07-07,NA
+409,"Kalaburagi","26681",40,"Male","SARI","Breathlessness","LIVER  CIRRHOSIS",2020-07-03,2020-07-05,2020-07-07,NA
+449,"Kalaburagi","23277",56,"Male","SARI","Breathlessness","DM,  HTN, IHD",2020-07-05,2020-07-05,2020-07-08,NA
+474,"Kalaburagi","26670",50,"Female","SARI","Fever & Breathlessness","-",2020-07-05,2020-07-08,2020-07-09,NA
+483,"Kalaburagi","30965",53,"Male","SARI","Fever & Breathlessness","DM",2020-07-04,2020-07-08,2020-07-09,NA
+521,"Kalaburagi","24855",52,"Male","SARI","Fever & Breathlessness","-",2020-07-05,2020-07-08,2020-07-10,NA
+524,"Kalaburagi","26661",61,"Male","SARI","Fever & Cough","-",2020-07-03,2020-07-08,2020-07-10,NA
+571,"Kalaburagi","24848",80,"Male","SARI","Breathlessness","DM, HTN",2020-07-04,2020-07-10,2020-07-11,NA
+575,"Kalaburagi","26644",84,"Male","SARI","Fever & Breathlessness","HTN",2020-07-04,2020-07-10,2020-07-11,NA
+826,"Kalaburagi","42571",58,"Male","SARI","Breathlessness","IHD",2020-07-08,2020-07-08,2020-07-14,NA
+1009,"Kalaburagi","47420",55,"Male","SARI","Breathlessness & Cough","DM",2020-07-11,2020-07-13,2020-07-16,NA
+1157,"Kalaburagi","39067",60,"Male","SARI","Breathlessness","HbsAg Positive",2020-07-12,2020-07-16,2020-07-18,NA
+1165,"Kalaburagi","42587",62,"Female","SARI","Fever & Cough","DM",2020-07-11,2020-07-13,2020-07-18,NA
+1193,"Kalaburagi","51864",50,"Female","SARI","Cough & Breathlessness","Asthma",2020-07-13,2020-07-13,2020-07-18,NA
+1207,"Kalaburagi","57659",40,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-07,2020-07-13,2020-07-18,NA
+1210,"Kalaburagi","57796",70,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-14,2020-07-16,2020-07-18,NA
+1251,"Kalaburagi","42145",59,"Male","SARI","Cough & Breathlessness","HTN",2020-07-11,2020-07-13,2020-07-19,NA
+1284,"Kalaburagi","57024",54,"Female","SARI","Breathlessness","-",2020-07-09,2020-07-10,2020-07-19,NA
+1286,"Kalaburagi","57351",54,"Male","SARI","Fever & Breathlessness","DM",2020-07-10,2020-07-12,2020-07-19,NA
+1321,"Kalaburagi","21336",57,"Female","SARI","Breathlessness","DM,  HTN, CKD",2020-07-03,2020-07-07,2020-07-20,NA
+1324,"Kalaburagi","36931",40,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-12,2020-07-15,2020-07-20,NA
+1449,"Kalaburagi","35607",78,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-08,2020-07-18,2020-07-22,NA
+1622,"Kalaburagi","52561",57,"Male","SARI","Breathlessness",NA,2020-07-05,2020-07-09,2020-07-24,NA
+1625,"Kalaburagi","57319",73,"Male","SARI","Breathlessness","DM",2020-07-07,2020-07-11,2020-07-24,NA
+1626,"Kalaburagi","57409",37,"Female","SARI","Fever & Breathlessness","DM",2020-07-11,2020-07-12,2020-07-24,NA
+1632,"Kalaburagi","60678",40,"Male","from Maharashtr","-","-",NA,2020-07-16,2020-07-24,"Died at his residence"
+1646,"Kalaburagi","68131",70,"Male","SARI","Breathlessness","-",2020-07-17,2020-07-18,2020-07-24,NA
+1721,"Kalaburagi","51830",60,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-12,2020-07-15,2020-07-25,NA
+1723,"Kalaburagi","57029",47,"Male","SARI","Breathlessness","DM",2020-07-09,2020-07-10,2020-07-25,NA
+1724,"Kalaburagi","57408",60,"Male","SARI","Cough, Breathlessness","HTN",2020-07-11,2020-07-18,2020-07-25,NA
+1725,"Kalaburagi","57484",65,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-12,2020-07-12,2020-07-25,NA
+1793,"Kalaburagi","55476",55,"Male","SARI","Breathlessness","IHD",2020-07-15,2020-07-16,2020-07-26,NA
+1798,"Kalaburagi","63509",58,"Female","SARI","Cough & Breathlessness","HTN",2020-07-23,2020-07-25,2020-07-26,NA
+1816,"Kalaburagi","77325",70,"Male","SARI","Breathlessness","HTN",2020-07-16,2020-07-18,2020-07-26,NA
+1832,"Kalaburagi","91109",78,"Male","SARI","Breathlessness","HTN",2020-07-20,2020-07-20,2020-07-26,NA
+1848,"Kalaburagi","94463",57,"Male","SARI","Fever & Breathlessness","-",2020-07-20,2020-07-21,2020-07-26,NA
+1850,"Kalaburagi","94866",48,"Male","SARI","Breathlessness","DM",2020-07-20,2020-07-23,2020-07-26,NA
+1903,"Kalaburagi","80114",83,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",NA,2020-07-21,2020-07-27,"Died at his residence"
+1910,"Kalaburagi","94350",65,"Female","ILI","Breathlessness","DM, HTN",2020-07-22,2020-07-23,2020-07-27,NA
+1939,"Kalaburagi","15458",89,"Male","SARI","Cough & Breathlessness","DM",2020-06-28,2020-07-10,2020-07-28,NA
+1941,"Kalaburagi","42296",56,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-12-07,2020-07-26,2020-07-28,NA
+1951,"Kalaburagi","58391",65,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-07-14,2020-07-14,2020-07-28,NA
+1958,"Kalaburagi","64904",68,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-18,2020-07-20,2020-07-28,NA
+1965,"Kalaburagi","69465",43,"Male","SARI","Breathlessness","Pneumonia",2020-07-20,2020-07-26,2020-07-28,NA
+1975,"Kalaburagi","77561",60,"Female","SARI","Breathlessness","HTN, IHD",2020-07-19,2020-07-27,2020-07-28,NA
+2050,"Kalaburagi","58193",45,"Male","SARI","Fever & Cough & Breathlessness","Pneumonia",2020-07-13,2020-07-15,2020-07-29,NA
+2053,"Kalaburagi","64634",58,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-19,2020-07-21,2020-07-29,NA
+2055,"Kalaburagi","69099",58,"Male","SARI","Breathlessness","-",2020-07-13,2020-07-18,2020-07-29,NA
+2065,"Kalaburagi","76764",35,"Female","SARI","Breathlessness","Anemia, HTN",2020-07-17,2020-07-17,2020-07-29,NA
+2070,"Kalaburagi","85651",63,"Female","SARI","Breathlessness","COPD",2020-07-23,2020-07-25,2020-07-29,NA
+2082,"Kalaburagi","94476",56,"Male","SARI","Fever & Breathlessness","HTN",2020-07-21,2020-07-25,2020-07-29,NA
+2085,"Kalaburagi","94812",78,"Male","ILI","-","HTN",NA,2020-07-20,2020-07-29,"Died at his residence"
+2092,"Kalaburagi","103231",62,"Male","SARI","Breathlessness","DM, HTN",2020-07-24,2020-07-26,2020-07-29,NA
+2094,"Kalaburagi","104882",52,"Male","SARI","Fever & Breathlessness","-",2020-07-25,2020-07-25,2020-07-29,NA
+2095,"Kalaburagi","105011",55,"Male","ILI","Fever & Cough & Breathlessness","IHD",2020-07-24,2020-07-24,2020-07-29,NA
+2135,"Kalaburagi","48519",73,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-15,2020-07-18,2020-07-30,NA
+2138,"Kalaburagi","57356",60,"Female","SARI","Breathlessness","-",2020-07-11,2020-07-11,2020-07-30,NA
+2139,"Kalaburagi","57634",55,"Male","SARI","Breathlessness","DM, HTN",2020-07-15,2020-07-15,2020-07-30,NA
+2140,"Kalaburagi","58008",59,"Male","SARI","Breathlessness","IHD",2020-07-16,2020-07-26,2020-07-30,NA
+2150,"Kalaburagi","75175",68,"Male","ILI","-","-",2020-07-05,2020-07-05,2020-07-30,NA
+2153,"Kalaburagi","79614",68,"Male","SARI","Fever & Breathlessness","HTN, IHD",2020-07-21,2020-07-27,2020-07-30,NA
+2165,"Kalaburagi","102058",60,"Female","SARI","Breathlessness","CA",2020-07-15,2020-07-27,2020-07-30,NA
+2237,"Kalaburagi","77573",52,"Female","SARI","Cough & Breathlessness","PIH",2020-07-22,2020-07-29,2020-07-31,NA
+2250,"Kalaburagi","93743",50,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-16,2020-07-31,"Died at his residence"
+2253,"Kalaburagi","94855",76,"Male","SARI","Breathlessness","DM, HTN",2020-07-26,2020-07-27,2020-07-31,NA
+2266,"Kalaburagi","113035",85,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-26,2020-07-27,2020-07-31,NA
+2272,"Kalaburagi","115850",64,"Male","ILI","-","-",2020-07-26,2020-07-26,2020-07-31,NA
+2273,"Kalaburagi","115861",69,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-26,2020-07-27,2020-07-31,NA
+2300,"Kalaburagi","56982",40,"Female","SARI","Breathlessness","DM",2020-07-08,2020-07-09,2020-08-01,NA
+2318,"Kalaburagi","94963",65,"Female","SARI","Breathlessness","-",NA,2020-07-26,2020-08-01,"Died at her residence"
+2320,"Kalaburagi","100990",65,"Male","SARI","Fever & Breathlessness","HTN, DM, CA",2020-07-26,2020-07-31,2020-08-01,NA
+2327,"Kalaburagi","102751",36,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-26,2020-07-30,2020-08-01,NA
+2389,"Kalaburagi","129615",59,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-30,2020-07-30,2020-08-01,NA
+2404,"Kalaburagi","57367",69,"Female","SARI","Fever & Breathlessness","HTN",NA,2020-07-10,2020-08-02,"Died at her residence"
+2415,"Kalaburagi","94141",65,"Female","SARI","Fever & Breathlessness","DM, HTN, CKD",2020-07-21,2020-08-01,2020-08-02,NA
+2416,"Kalaburagi","95090",80,"Male","ILI","Fever","DM, HTN",NA,2020-07-31,2020-08-02,"Died at his residence"
+2429,"Kalaburagi","109845",85,"Male","SARI","Fever & Breathlessness","DM, HTN, CA",2020-07-22,2020-07-24,2020-08-02,NA
+2431,"Kalaburagi","112973",70,"Male","SARI","Fever & Breathlessness","DM",2020-07-25,2020-07-31,2020-08-02,NA
+2457,"Kalaburagi","130534",57,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-28,2020-07-29,2020-08-02,NA
+2489,"Kalaburagi","83296",35,"Male","SARI","Fever & Cough & Breathlessness","COPD",2020-07-22,2020-08-01,2020-08-03,NA
+2515,"Kalaburagi","105320",58,"Male","SARI","Breathlessness","HTN",2020-07-25,2020-07-26,2020-08-03,NA
+2516,"Kalaburagi","105409",51,"Female","SARI","Breathlessness","HTN",2020-07-22,2020-07-23,2020-08-03,NA
+2551,"Kalaburagi","132150",70,"Male","SARI","Fever & Cough","DM, HTN, IHD",2020-07-29,2020-07-31,2020-08-03,NA
+2553,"Kalaburagi","133758",65,"Male","ILI","Fever","DM, HTN, IHD",NA,2020-07-28,2020-08-03,"Died at his residence"
+2650,"Kalaburagi","132727",35,"Female","SARI","Fever & Cough & Breathlessness","HTN",NA,2020-08-01,2020-08-04,"Died at her residence"
+2669,"Kalaburagi","141524",60,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-30,2020-08-01,2020-08-04,NA
+2699,"Kalaburagi","82721",54,"Male","ILI","-","IHD",NA,2020-07-20,2020-08-05,"Died at his residence"
+2723,"Kalaburagi","113304",66,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",NA,2020-07-27,2020-08-05,"Died at her residence"
+2742,"Kalaburagi","133700",82,"Male","SARI","Breathlessness","HTN",NA,2020-07-26,2020-08-05,"Died at his residence"
+2756,"Kalaburagi","141888",48,"Female","SARI","Fever & Cough & Breathlessness","HTN",NA,2020-07-29,2020-08-05,"Died at her residence"
+2795,"Kalaburagi","71665",50,"Male","SARI","Fever & Breathlessness","CLD",NA,2020-07-11,2020-08-06,"Died at his residence"
+2811,"Kalaburagi","115107",55,"Male","SARI","Breathlessness","DM",2020-07-28,2020-08-05,2020-08-06,NA
+2831,"Kalaburagi","132545",59,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-07-30,2020-07-31,2020-08-06,NA
+2840,"Kalaburagi","141762",68,"Female","ILI","Fever","-",NA,2020-08-02,2020-08-06,"Died at her residence"
+2842,"Kalaburagi","142587",45,"Male","SARI","Breathlessness","DM, HTN",2020-08-01,2020-08-01,2020-08-06,NA
+2898,"Kalaburagi","101034",77,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-23,2020-08-06,2020-08-07,NA
+2912,"Kalaburagi","114115",21,"Male","SARI","Fever, Breathlessness","Septicemia",2020-07-27,2020-08-03,2020-08-07,NA
+2913,"Kalaburagi","114514",46,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-02,2020-08-06,2020-08-07,NA
+2923,"Kalaburagi","133754",66,"Male","ILI","Fever, Cough","TB",NA,2020-07-26,2020-08-07,"Died at his residence"
+2938,"Kalaburagi","143800",50,"Male","SARI","Breathlessness","HTN, IHD",2020-07-30,2020-07-30,2020-08-07,NA
+2945,"Kalaburagi","146437",85,"Male","SARI","Breathlessness","DM, HTN",2020-07-30,2020-08-06,2020-08-07,NA
+2952,"Kalaburagi","148873",65,"Female","SARI","Cough","DM, HTN",2020-07-20,2020-07-31,2020-08-07,NA
+2998,"Kalaburagi","102469",54,"Male","ILI","Fever","DM",NA,2020-07-17,2020-08-08,"Died at his residence"
+3002,"Kalaburagi","105326",46,"Male","SARI","Cough, Breathlessness","-",2020-07-26,2020-08-02,2020-08-08,NA
+3007,"Kalaburagi","109373",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-27,2020-08-07,2020-08-08,NA
+3032,"Kalaburagi","147312",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-03,2020-08-07,2020-08-08,NA
+3041,"Kalaburagi","151250",55,"Female","SARI","Breathlessness","-",2020-07-25,2020-08-03,2020-08-08,NA
+3042,"Kalaburagi","151407",72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-30,2020-07-31,2020-08-08,NA
+3045,"Kalaburagi","154875",73,"Male","SARI","Breathlessness","HTN, IHD",2020-08-02,2020-08-02,2020-08-08,NA
+3099,"Kalaburagi","113437",46,"Female","ILI","Fever","-",NA,2020-07-26,2020-08-09,"Died at her residence"
+3119,"Kalaburagi","138364",65,"Male","SARI","Fever, Breathlessness","HTN, IHD",NA,2020-07-30,2020-08-09,"Died at his residence"
+3134,"Kalaburagi","154890",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-02,2020-08-02,2020-08-09,NA
+3165,"Kalaburagi","174429",60,"Female","SARI","Breathlessness","HTN",2020-08-05,2020-08-07,2020-08-09,NA
+3290,"Kalaburagi","186092",57,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-05,2020-08-09,2020-08-10,NA
+3356,"Kalaburagi","172279",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-10,2020-08-11,2020-08-11,NA
+3383,"Kalaburagi","39223",65,"Male","SARI","Breathlessness","HTN",2020-07-09,2020-07-10,2020-08-12,NA
+3443,"Kalaburagi","158181",60,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-12,2020-08-12,NA
+3470,"Kalaburagi","188418",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-09,2020-08-09,2020-08-12,NA
+3502,"Kalaburagi","91481",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-21,2020-07-24,2020-08-13,NA
+3531,"Kalaburagi","147317",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-07,2020-08-13,NA
+3553,"Kalaburagi","171177",70,"Male","SARI","Cough, Breathlessness","DM",2020-08-08,2020-08-12,2020-08-13,NA
+3564,"Kalaburagi","183032",77,"Male","ILI","Cough","HTN",NA,2020-08-09,2020-08-13,"Died at his residence"
+3569,"Kalaburagi","186104",57,"Male","SARI","Breathlessness","HTN",2020-07-08,2020-08-08,2020-08-13,NA
+3572,"Kalaburagi","187927",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-09,2020-08-11,2020-08-13,NA
+3573,"Kalaburagi","188187",58,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-13,2020-08-13,NA
+3580,"Kalaburagi","196033",39,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-09,2020-08-09,2020-08-13,NA
+3588,"Kalaburagi","202265",65,"Male","SARI","Fever, Breathlessness","ARDS, CVA",2020-08-10,2020-08-12,2020-08-13,NA
+3606,"Kalaburagi","88983",69,"Male","SARI","Cough, Breathlessness","DM, IHD",2020-07-24,2020-07-31,2020-08-14,NA
+3623,"Kalaburagi","102998",46,"Female","ILI","Fever, Cough","HTN",NA,2020-07-25,2020-08-14,"Died at her residence"
+3624,"Kalaburagi","103034",55,"Female","SARI","Fever, Breathlessness","HTN",2020-07-23,2020-07-24,2020-08-14,NA
+3625,"Kalaburagi","104765",57,"Male","SARI","Fever, Breathlessness","HTN",2020-07-26,2020-07-29,2020-08-14,NA
+3683,"Kalaburagi","200723",52,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-13,2020-08-14,NA
+3754,"Kalaburagi","171151",60,"Female","SARI","Fever, Cough, Breathlessness","Asthma, IHD",NA,2020-08-03,2020-08-15,"Brought dead"
+3790,"Kalaburagi","209608",48,"Male","SARI","Fever, Breathlessness","HTN, IHD, Pneumonia",2020-08-12,2020-08-14,2020-08-15,NA
+3834,"Kalaburagi","94679",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3924,"Kalaburagi","223068",60,"Female","SARI","Breathlessness","HTN, Pneumonia",NA,2020-08-16,2020-08-16,NA
+3969,"Kalaburagi","137425",70,"Male","Contact under tracing","Breathlessness","-",2020-08-01,2020-08-07,2020-08-17,NA
+3972,"Kalaburagi","141858",52,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-07-16,2020-08-03,2020-08-17,NA
+3989,"Kalaburagi","174462",62,"Male","Contact under tracing","Cough, Breathlessness","Epilepsy",2020-08-03,2020-08-13,2020-08-17,NA
+4001,"Kalaburagi","194160",54,"Male","Contact under tracing","-","-",2020-08-14,2020-08-14,2020-08-17,NA
+4007,"Kalaburagi","200742",70,"Male","Contact under tracing","Fever, Cough, Breathlessness","IHD",2020-08-12,2020-08-14,2020-08-17,NA
+4013,"Kalaburagi","205927",35,"Male","Contact under tracing","Cough, Breathlessness","-",NA,2020-08-11,2020-08-17,"Died at his residence"
+4022,"Kalaburagi","216633",72,"Female","Contact under tracing","Fever, Breathlessness","-",2020-08-14,2020-08-14,2020-08-17,NA
+4122,"Kalaburagi","186106",57,"Male","SARI","Cough, Breathlessness","DM, CKD",2020-08-05,2020-08-16,2020-08-18,NA
+4185,"Kalaburagi","242668",65,"Male","ILI","Fever, Cough","DM",2020-08-15,2020-08-17,2020-08-18,NA
+4260,"Kalaburagi","213059",73,"Male","SARI","Fever, Breathlessness","HTN, Pneumonia",2020-08-14,2020-08-18,2020-08-19,NA
+4268,"Kalaburagi","223866",65,"Male","SARI","Breathlessness","DM, Pneumonia",2020-08-14,2020-08-17,2020-08-19,NA
+4274,"Kalaburagi","230000",55,"Male","SARI","Fever, Breathlessness","DM, Pneumonia",2020-08-15,2020-08-17,2020-08-19,NA
+4334,"Kalaburagi","171146",72,"Female","SARI","Breathlessness","-",NA,2020-08-18,2020-08-20,"Died at her residence"
+4377,"Kalaburagi","233940",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-19,2020-08-20,NA
+4386,"Kalaburagi","237657",57,"Female","ILI","Fever, Cough","DM",2020-08-16,2020-08-19,2020-08-20,NA
+4399,"Kalaburagi","248438",65,"Male","SARI","Breathlessness","COPD",2020-08-17,2020-08-19,2020-08-20,NA
+4424,"Kalaburagi","117560",75,"Female","SARI","Breathlessness","-",2020-07-25,2020-07-27,2020-08-21,NA
+4448,"Kalaburagi","200746",7,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-13,2020-08-21,"Died at her residence"
+4450,"Kalaburagi","207803",41,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-12,2020-08-18,2020-08-21,NA
+4458,"Kalaburagi","223876",92,"Male","SARI","Cough, Breathlessness","IHD",NA,2020-08-13,2020-08-21,"Died at his residence"
+4461,"Kalaburagi","227301",78,"Male","ILI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-20,2020-08-21,NA
+4474,"Kalaburagi","238220",60,"Male","SARI","Fever, Breathlessness","HTN",2020-08-14,2020-08-18,2020-08-21,NA
+4479,"Kalaburagi","240137",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-17,2020-08-18,2020-08-21,NA
+4541,"Kalaburagi","213062",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-11,2020-08-16,2020-08-22,NA
+4585,"Kalaburagi","260519",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2020-08-19,2020-08-19,2020-08-22,NA
+4633,"Kalaburagi","233921",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-19,2020-08-23,2020-08-23,NA
+4641,"Kalaburagi","243935",74,"Male","SARI","Breathlessness","DM, CVA",2020-08-18,2020-08-23,2020-08-23,NA
+4694,"Kalaburagi","209607",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-16,2020-08-18,2020-08-24,NA
+4773,"Kalaburagi","272435",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-08-19,2020-08-24,"Died at her residence"
+4816,"Kalaburagi","174459",50,"Male","ILI","Fever, Cough","HTN",2020-08-12,2020-08-20,2020-08-25,NA
+4831,"Kalaburagi","205918",58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-15,2020-08-25,NA
+4834,"Kalaburagi","217553",57,"Male","SARI","Breathlessness","HTN",2020-08-13,2020-08-24,2020-08-25,NA
+5150,"Kalaburagi","238222",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-25,2020-08-26,2020-08-27,NA
+5219,"Kalaburagi","312527",74,"Female","SARI","Breathlessness","DM, HTN",2020-08-25,2020-08-26,2020-08-27,NA
+5225,"Kalaburagi","316121",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-25,2020-08-26,2020-08-27,NA
+5238,"Kalaburagi","190402",85,"Male","SARI","Breathlessness","-",2020-08-10,2020-08-27,2020-08-28,NA
+5318,"Kalaburagi","289239",43,"Male","ILI","-","DM, HTN",2020-08-17,2020-08-27,2020-08-28,NA
+5381,"Kalaburagi","241932",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",NA,2020-08-16,2020-08-29,"Died at his residence"
+5385,"Kalaburagi","247864",65,"Male","SARI","Breathlessness","HTN",2020-08-17,2020-08-28,2020-08-29,NA
+5403,"Kalaburagi","258803",72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-20,2020-08-29,2020-08-29,NA
+5442,"Kalaburagi","305631",60,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-25,2020-08-29,"Died at his residence"
+5503,"Kalaburagi","208654",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-10,2020-08-22,2020-08-30,NA
+5557,"Kalaburagi","322283",60,"Male","SARI","Breathlessness","DM, IHD",2020-08-27,2020-08-29,2020-08-30,NA
+5590,"Kalaburagi","205913",76,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-10,2020-08-19,2020-08-31,NA
+5615,"Kalaburagi","280185",74,"Male","ILI","Fever","-",2020-08-17,2020-08-31,2020-08-31,NA
+5633,"Kalaburagi","299060",73,"Female","SARI","Fever, Breathlessness","HTN",2020-08-25,2020-08-30,2020-08-31,NA
+5684,"Kalaburagi","341105",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-29,2020-08-29,2020-08-31,NA
+5723,"Kalaburagi","193653",50,"Male","SARI","Fever, Cough, Breathlessness","DM, FIARIASIS",2020-08-08,2020-08-16,2020-09-01,NA
+5730,"Kalaburagi","206971",64,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-12,2020-08-19,2020-09-01,NA
+5731,"Kalaburagi","221858",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-13,2020-08-18,2020-09-01,NA
+5805,"Kalaburagi","343513",72,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-08-29,2020-08-31,2020-09-01,NA
+5905,"Kalaburagi","321583",46,"Female","SARI","Cough, Breathlessness","-",2020-08-28,2020-08-28,2020-09-02,NA
+5924,"Kalaburagi","340199",82,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-09-02,2020-09-02,NA
+5933,"Kalaburagi","353662",57,"Male","ILI","Fever, Cough","DM, HTN",NA,2020-08-31,2020-09-02,"Died at his residence"
+5942,"Kalaburagi","362657",28,"Female","SARI","Breathlessness","DM",2020-08-31,2020-08-31,2020-09-02,NA
+5943,"Kalaburagi","363365",80,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-01,2020-09-01,2020-09-02,NA
+5947,"Kalaburagi","206979",76,"Male","ILI","Fever, Cough","DM, HTN, CVA",NA,2020-08-14,2020-09-03,"Brought dead"
+6060,"Kalaburagi","233927",62,"Male","SARI","Breathlessness","DM",2020-08-14,2020-08-31,2020-09-04,NA
+6089,"Kalaburagi","311289",45,"Male","SARI","Breathlessness","DM",2020-08-28,2020-08-29,2020-09-04,NA
+6194,"Kalaburagi","306392",80,"Male","SARI","Breathlessness","HTN, IDH",2020-08-25,2020-08-28,2020-09-05,NA
+6375,"Kalaburagi","388359",45,"Male","SARI","Breathlessness","-",NA,2020-09-05,2020-09-06,"Brought dead"
+6388,"Kalaburagi","407920",75,"Male","SARI","Breathlessness","DM, HTN",2020-09-04,2020-09-05,2020-09-06,NA
+6463,"Kalaburagi","314234",60,"Female","SARI","Cough, Breathlessness","DM",2020-08-29,2020-09-06,2020-09-07,NA
+6493,"Kalaburagi","371859",71,"Male","ILI","Fever, Cough","DM, HTN",2020-09-02,2020-09-06,2020-09-07,NA
+6499,"Kalaburagi","380388",50,"Female","SARI","Breathlessness","-",2020-09-02,2020-09-04,2020-09-07,NA
+6523,"Kalaburagi","407656",50,"Male","SARI","Breathlessness","-",2020-09-05,2020-09-06,2020-09-07,NA
+6574,"Kalaburagi","329946",65,"Female","ILI","Fever, Cough","CLD",2020-08-23,2020-09-04,2020-09-08,NA
+6637,"Kalaburagi","391818",75,"Male","SARI","Breathlessness","IHD",2020-09-04,2020-09-07,2020-09-08,NA
+6714,"Kalaburagi","340197",70,"Female","SARI","Breathlessness","HTN",2020-08-29,2020-09-07,2020-09-09,NA
+6724,"Kalaburagi","354448",74,"Male","SARI","Breathlessness","DM, HTN",2020-08-28,2020-09-05,2020-09-09,NA
+6894,"Kalaburagi","413863",60,"Male","SARI","Breathlessness","DM",2020-09-06,2020-09-09,2020-09-10,NA
+6922,"Kalaburagi","432083",60,"Male","SARI","Breathlessness","-",2020-09-07,2020-09-09,2020-09-10,NA
+6984,"Kalaburagi","362656",51,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-30,2020-09-08,2020-09-11,NA
+6996,"Kalaburagi","374174",57,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-01,2020-09-11,2020-09-11,NA
+7005,"Kalaburagi","396445",65,"Female","SARI","Fever, Breathlessness","HTN",2020-09-03,2020-09-06,2020-09-11,NA
+7059,"Kalaburagi","444502",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2020-09-10,2020-09-10,2020-09-11,NA
+7126,"Kalaburagi","407655",73,"Male","SARI","Breathlessness, Cough","DM, HTN",2020-09-05,2020-09-05,2020-09-12,NA
+7150,"Kalaburagi","444496",56,"Male","SARI","Fever, Breathlessness, Cough","DM",2020-09-10,2020-09-11,2020-09-12,NA
+7155,"Kalaburagi","458637",75,"Male","SARI","Breathlessness, Cough","-",2020-09-10,2020-09-10,2020-09-12,NA
+7312,"Kalaburagi","409166",58,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",2020-09-07,2020-09-08,2020-09-14,NA
+7339,"Kalaburagi","440583",57,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",2020-09-11,2020-09-13,2020-09-14,NA
+7358,"Kalaburagi","461588",65,"Female","Contact under tracing","Breathlessness","DM",2020-09-12,2020-09-13,2020-09-14,NA
+7415,"Kalaburagi","382622",49,"Male","SARI","Fever, Breathlessness","DM, TB",2020-09-03,2020-09-13,2020-09-15,NA
+7455,"Kalaburagi","465216",62,"Male","SARI","Breathlessness","DM, HTN, TB",2020-09-12,2020-09-14,2020-09-15,NA
+7647,"Kalaburagi","311285",50,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-08-25,2020-08-29,2020-09-18,NA
+7648,"Kalaburagi","335141",68,"Female","SARI","Breathlessness","DM, HTN",2020-08-27,2020-09-15,2020-09-18,NA
+7697,"Kalaburagi","414730",60,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-09-09,2020-09-14,2020-09-18,NA
+7705,"Kalaburagi","419765",68,"Male","SARI","Cough, Breathlessness","DM, HTN, TB",2020-09-14,2020-09-15,2020-09-18,NA
+7739,"Kalaburagi","443239",59,"Male","SARI","Breathlessness","HTN",2020-09-09,2020-09-15,2020-09-18,NA
+7756,"Kalaburagi","458640",45,"Male","SARI","Fever, Breathlessness","-",2020-09-10,2020-09-15,2020-09-18,NA
+7827,"Kalaburagi","399298",62,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-06,2020-09-19,2020-09-19,NA
+7831,"Kalaburagi","422506",50,"Female","Contact under tracing","Fever, Cough","-",NA,2020-09-08,2020-09-19,"Died at his residence"
+7919,"Kalaburagi","512159",55,"Female","Contact under tracing","Cough, Breathlessness","-",2020-09-15,2020-09-17,2020-09-19,NA
+8006,"Kalaburagi","501394",72,"Male","Contact under tracing","Fever, Breathlessness","-",2020-09-13,2020-09-20,2020-09-20,NA
+8088,"Kalaburagi","485597",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, AKI",2020-09-14,2020-09-21,2020-09-21,NA
+8157,"Kalaburagi","332010",58,"Female","SARI","Fever, Breathlessness","-",2020-08-27,2020-08-30,2020-09-22,NA
+8175,"Kalaburagi","456787",73,"Male","SARI","Fever, Cough, Breathlessness","DM, AKI",2020-09-19,2020-09-22,2020-09-22,NA
+8207,"Kalaburagi","500188",45,"Male","ILI","Fever, Cough","HTN, CVA",NA,2020-09-17,2020-09-22,"Died at his residence"
+8344,"Kalaburagi","318563",59,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-22,2020-09-05,2020-09-25,NA
+8345,"Kalaburagi","318573",60,"Female","ILI","Fever, Cough","COPD",2020-08-25,2020-09-05,2020-09-25,NA
+8400,"Kalaburagi","526429",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-19,2020-09-21,2020-09-25,NA
+8463,"Kalaburagi","509574",35,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-16,2020-09-24,2020-09-26,NA
+8539,"Kalaburagi","522452",28,"Male","Contact under tracing","-","DM",2020-09-13,2020-09-26,2020-09-27,NA
+8548,"Kalaburagi","535914",46,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-20,2020-09-25,2020-09-27,NA
+8553,"Kalaburagi","542051",72,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-09-19,2020-09-25,2020-09-27,NA
+8562,"Kalaburagi","546728",76,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD, CKD",2020-09-20,2020-09-27,2020-09-27,NA
+8581,"Kalaburagi","574615",68,"Male","SARI","Fever, Cough, Breathlessness","CA",2020-09-23,2020-09-26,2020-09-27,NA
+8583,"Kalaburagi","578712",80,"Male","ILI","Fever, Cough","CKD",2020-09-16,2020-09-26,2020-09-27,NA
+8607,"Kalaburagi","518016",62,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-16,2020-09-27,2020-09-28,NA
+8631,"Kalaburagi","557827",65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-21,2020-09-27,2020-09-28,NA
+8735,"Kalaburagi","527412",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-19,2020-09-26,2020-09-29,NA
+8740,"Kalaburagi","536290",75,"Male","SARI","Breathlessness","DM",2020-09-18,2020-09-27,2020-09-29,NA
+8864,"Kalaburagi","595845",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-27,2020-09-29,2020-09-30,NA
+9057,"Kalaburagi","563447",83,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-21,2020-10-01,2020-10-02,NA
+9151,"Kalaburagi","548779",40,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-10-01,2020-10-02,2020-10-03,NA
+9219,"Kalaburagi","628881",70,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",NA,2020-09-25,2020-10-03,"Brought dead"
+9234,"Kalaburagi","506470",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-15,2020-10-03,2020-10-04,NA
+9291,"Kalaburagi","642937",55,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-10-01,2020-10-03,2020-10-04,NA
+9357,"Kalaburagi","631842",70,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-09-29,2020-10-04,2020-10-05,NA
+9445,"Kalaburagi","632079",72,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-15,2020-10-05,2020-10-06,NA
+9526,"Kalaburagi","602923",75,"Male","SARI","Fever, Cough, Breathlessness","_",2020-09-28,2020-10-06,2020-10-07,NA
+9611,"Kalaburagi","556920",65,"Female","SARI","Fever, Breathlessness","HTN",2020-09-08,2020-10-07,2020-10-08,NA
+9672,"Kalaburagi","671497",54,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-06,2020-10-07,2020-10-08,NA
+9679,"Kalaburagi","686053",60,"Female","SARI","Breathlessness","DM, HTN",2020-10-05,2020-10-06,2020-10-08,NA
+9683,"Kalaburagi","692325",74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-06,2020-10-06,2020-10-08,NA
+9833,"Kalaburagi","601779",64,"Male","ILI","Fever, Cough","-",2020-09-28,2020-10-09,2020-10-10,NA
+9882,"Kalaburagi","686533",84,"Male","SARI","Fever, Breathlessness","-",2020-10-05,2020-10-08,2020-10-10,NA
+9890,"Kalaburagi","695952",48,"Male","SARI","Breathlessness","DM, HTN",2020-10-08,2020-10-09,2020-10-10,NA
+9899,"Kalaburagi","713440",85,"Male","SARI","Breathlessness","-",2020-10-06,2020-10-09,2020-10-10,NA
+9967,"Kalaburagi","703759",84,"Male","Contact under tracing","Fever, Cough","HTN",2020-10-06,2020-10-09,2020-10-11,NA
+10130,"Kalaburagi","740378",65,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN, DM, CVA",2020-10-06,2020-10-12,2020-10-13,NA
+10224,"Kalaburagi","659351",67,"Male","ILI","Fever, Cough","DM",2020-10-06,2020-10-13,2020-10-15,NA
+10364,"Kalaburagi","757798",78,"Male","SARI","Fever, Breathlessness","-",2020-10-13,2020-10-15,2020-10-16,NA
+10481,"Kalaburagi","764185",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-14,2020-10-16,2020-10-18,NA
+10535,"Kalaburagi","767081",53,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-10-16,2020-10-19,2020-10-19,NA
+10545,"Kalaburagi","772335",80,"Male","SARI","Fever, Breathlessness","-",2020-10-10,2020-10-18,2020-10-19,NA
+10664,"Kalaburagi","738890",41,"Male","SARI","Cough, Breathlessness","DM",2020-10-12,2020-10-19,2020-10-21,NA
+10666,"Kalaburagi","740375",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-11,2020-10-17,2020-10-21,NA
+10682,"Kalaburagi","762480",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-16,2020-10-20,2020-10-21,NA
+10754,"Kalaburagi","765563",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-15,2020-10-21,2020-10-22,NA
+10855,"Kalaburagi","756135",47,"Male","SARI","Breathlessness","-",2020-10-13,2020-10-23,2020-10-24,NA
+10964,"Kalaburagi","746762",63,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-12,2020-10-26,2020-10-27,NA
+10988,"Kalaburagi","801611",66,"Male","SARI","Breathlessness","-",2020-10-22,2020-10-27,2020-10-27,NA
+11023,"Kalaburagi","772862",75,"Male","SARI","Breathlessness","HTN, COPD",2020-10-07,2020-10-24,2020-10-28,NA
+11033,"Kalaburagi","796134",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-19,2020-10-23,2020-10-28,NA
+11044,"Kalaburagi","807227",76,"Male","SARI","Fever, Breathlessness","HTN",2020-10-21,2020-10-26,2020-10-28,NA
+11086,"Kalaburagi","806448",78,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-21,2020-10-28,2020-10-29,NA
+11211,"Kalaburagi","811181",33,"Male","SARI","Cough, Breathlessness","CLD",2020-10-23,2020-11-01,2020-11-02,NA
+11277,"Kalaburagi","822815",55,"Female","ILI","Fever, Cough","DM",2020-10-24,2020-11-03,2020-11-04,NA
+11314,"Kalaburagi","842315",65,"Female","SARI","Cough, Fever, Breathlessness","CKD, COPD",2020-10-31,2020-11-04,2020-11-05,NA
+11335,"Kalaburagi","826244",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-27,2020-11-05,2020-11-06,NA
+11425,"Kalaburagi","829169",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-29,2020-11-10,2020-11-10,NA
+11482,"Kalaburagi","867867",65,"Male","SARI","Cough, Breathlessness","TB, HTN, IHD",2020-11-10,2020-11-10,2020-11-12,NA
+11494,"Kalaburagi","861926",48,"Male","SARI","Cough, Breathlessness","-",2020-11-08,2020-11-12,2020-11-13,NA
+11807,"Kalaburagi","890298",70,"Male","SARI","Fever, Breathlessness","-",2020-11-23,2020-11-30,2020-12-02,NA
+11896,"Kalaburagi","907950",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-07,2020-12-08,2020-12-09,NA
+12021,"Kalaburagi","916349",55,"Male","SARI","Breathlessness","DM, CKD",2020-12-14,2020-12-21,2020-12-22,NA
+12050,"Kalaburagi","927002",55,"Male","SARI","Breathlessness","IHD",2020-12-22,2020-12-24,2020-12-26,NA
+12102,"Kalaburagi","932805",73,"Male","SARI","Fever, Breathlessness","-",2020-12-30,2020-12-31,2021-01-03,NA
+12117,"Kalaburagi","935662",57,"Male","SARI","Breathlessness","IHD",2021-01-02,2021-01-03,2021-01-05,NA
+12147,"Kalaburagi","938886",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-01-06,2021-01-10,2021-01-12,NA
+12156,"Kalaburagi","941447",58,"Male","ILI","Fever, Cough","DM, HTN",2021-01-08,2021-01-13,2021-01-15,NA
+12191,"Kalaburagi","947447",81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-01-19,2021-01-19,2021-01-23,NA
+12264,"Kalaburagi","952563",70,"Male","SARI","Cough, Breathlessness","HTN",2021-01-27,2021-02-13,2021-02-14,NA
+12313,"Kalaburagi","960147",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-02-14,2021-02-24,2021-02-25,NA
+12384,"Kalaburagi","972811",57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-09,2021-03-11,2021-03-12,NA
+12402,"Kalaburagi","975461",83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-13,2021-03-15,2021-03-16,NA
+12441,"Kalaburagi","982093",59,"Male","ILI","Fever, Cough","-",2021-03-17,2021-03-21,2021-03-22,NA
+12444,"Kalaburagi","976035",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-14,2021-03-22,2021-03-23,NA
+12460,"Kalaburagi","989374",70,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2021-03-22,2021-03-24,2021-03-24,NA
+12475,"Kalaburagi","977795",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-14,2021-03-25,2021-03-26,NA
+12477,"Kalaburagi","981954",52,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-03-18,2021-03-25,2021-03-26,NA
+12488,"Kalaburagi","993471",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-23,2021-03-27,2021-03-27,NA
+12489,"Kalaburagi","993917",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-03-24,2021-03-26,2021-03-27,NA
+12499,"Kalaburagi","996552",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-24,2021-03-27,2021-03-28,NA
+12536,"Kalaburagi","1005966",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-03-27,2021-03-29,2021-03-30,NA
+12550,"Kalaburagi","974449",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-23,2021-03-30,2021-03-31,NA
+12562,"Kalaburagi","1000039",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-24,2021-03-28,2021-03-31,NA
+12572,"Kalaburagi","988361",65,"Male","SARI","Fever, cough, breathlessness","CLD",2021-03-28,2021-03-31,2021-04-01,NA
+12590,"Kalaburagi","1011426",77,"Female","SARI","Breathlessness","DM, HTN",2021-03-29,2021-04-01,2021-04-02,NA
+12600,"Kalaburagi","1004671",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-26,2021-04-02,2021-04-03,NA
+12617,"Kalaburagi","1009255",92,"Male","SARI","Breathlessness","HTN, COPD, CKD, CAD",2021-03-29,2021-04-01,2021-04-04,NA
+12620,"Kalaburagi","1013351",59,"Male","SARI","Breathlessness","HTN, DM",2021-04-01,2021-04-02,2021-04-04,NA
+12623,"Kalaburagi","1019623",65,"Male","SARI","Breathlessness","PTB",2021-03-31,2021-04-02,2021-04-04,NA
+12642,"Kalaburagi","1017258",68,"Male","SARI","Fever, Cough, Breathlessness","HTN, DM",2021-03-30,2021-04-04,2021-04-05,NA
+12649,"Kalaburagi","1025334",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-01,2021-04-02,2021-04-05,NA
+12686,"Kalaburagi","1024840",80,"Female","SARI","Fever, Breathlessness","HTN",2021-03-31,2021-04-05,2021-04-06,NA
+12695,"Kalaburagi","1041721",95,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-03,2021-04-05,2021-04-06,NA
+12711,"Kalaburagi","1007251",75,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-03-29,2021-04-06,2021-04-07,NA
+12728,"Kalaburagi","1043963",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-05,2021-04-06,2021-04-07,NA
+12742,"Kalaburagi","1008285",65,"Male","SARI","Breathlessness","HTN",2021-03-28,2021-04-07,2021-04-08,NA
+12749,"Kalaburagi","1024468",65,"Female","SARI","Fever, Cough, Breathlessness","CCF",2021-04-03,2021-04-07,2021-04-08,NA
+12766,"Kalaburagi","1049932",76,"Male","SARI","Fever, Breathlessness","-",2021-04-06,2021-04-06,2021-04-08,NA
+12782,"Kalaburagi","1017255",69,"Male","SARI","Fever, Breathlessness","HTN",2021-03-30,2021-04-08,2021-04-09,NA
+12804,"Kalaburagi","1044617",70,"Male","SARI","Cough, Breathlessness","HTN, DM",2021-04-05,2021-04-09,2021-04-09,NA
+12826,"Kalaburagi","1035158",57,"Female","ILI","Fever","-",NA,2021-04-05,2021-04-10,"Died at his residence"
+12829,"Kalaburagi","1044609",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-05,2021-04-09,2021-04-10,NA
+12858,"Kalaburagi","1031075",75,"Male","SARI","Breathlessness","-",NA,2021-04-09,2021-04-11,"Died at his residence"
+12885,"Kalaburagi","1068992",45,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD, TB",2021-04-07,2021-04-09,2021-04-11,NA
+12984,"Kalaburagi","1054287",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-06,2021-04-10,2021-04-13,NA
+12990,"Kalaburagi","1061997",60,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD",2021-04-07,2021-04-09,2021-04-13,NA
+13001,"Kalaburagi","1082030",45,"Female","SARI","Cough, Breathlessness","HTN",2021-04-09,2021-04-10,2021-04-13,NA
+13002,"Kalaburagi","1082035",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-09,2021-04-10,2021-04-13,NA
+13027,"Kalaburagi","1049931",74,"Male","SARI","Breathlessness","CCF, IHD",2021-04-06,2021-04-06,2021-04-14,NA
+13036,"Kalaburagi","1091018",69,"Male","SARI","Fever, Breathlessness","-",2021-04-10,2021-04-11,2021-04-14,NA
+13044,"Kalaburagi","1111295",55,"Male","SARI","Fever, Cough, Breathlessness","TB",2021-04-12,2021-04-12,2021-04-14,NA
+13109,"Kalaburagi","1123330",55,"Female","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-15,2021-04-15,NA
+13179,"Kalaburagi","1119752",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-12,2021-04-14,2021-04-16,NA
+13180,"Kalaburagi","1119784",46,"Male","SARI","Breathlessness","CLD",2021-04-11,2021-04-13,2021-04-16,NA
+13184,"Kalaburagi","1123382",71,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-12,2021-04-14,2021-04-16,NA
+13234,"Kalaburagi","1100915",81,"Male","SARI","Breathlessness","-",2021-04-10,2021-04-14,2021-04-17,NA
+13235,"Kalaburagi","1100948",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-11,2021-04-16,2021-04-17,NA
+13260,"Kalaburagi","1140164",78,"Male","SARI","Cough, Breathlessness","DM, HTN, COPD",2021-04-13,2021-04-15,2021-04-17,NA
+13423,"Kalaburagi","1100845",31,"Male","SARI","Breathlessness","-",2021-04-15,2021-04-16,2021-04-19,NA
+13446,"Kalaburagi","1120710",56,"Female","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-04-11,2021-04-17,2021-04-19,NA
+13452,"Kalaburagi","1125671",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-19,2021-04-19,2021-04-19,NA
+13462,"Kalaburagi","1136607",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-16,2021-04-19,NA
+13468,"Kalaburagi","1144724",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-15,2021-04-17,2021-04-19,NA
+13494,"Kalaburagi","1192027",55,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-04-14,2021-04-17,2021-04-19,NA
+13515,"Kalaburagi","1064396",85,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-13,2021-04-20,2021-04-20,NA
+13538,"Kalaburagi","1101024",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-11,2021-04-20,2021-04-20,NA
+13548,"Kalaburagi","1113831",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-12,2021-04-18,2021-04-20,NA
+13549,"Kalaburagi","1114498",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-13,2021-04-19,2021-04-20,NA
+13554,"Kalaburagi","1119750",57,"Male","SARI","Breathlessness","DM,  HTN, CKD",2021-04-13,2021-04-18,2021-04-20,NA
+13573,"Kalaburagi","1135249",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-14,2021-04-18,2021-04-20,NA
+13606,"Kalaburagi","1159909",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-18,2021-04-20,NA
+13689,"Kalaburagi","1116428",67,"Male","SARI","Fever, Breathlessness","HTN",2021-04-14,2021-04-17,2021-04-21,NA
+13710,"Kalaburagi","1152301",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-20,2021-04-21,NA
+13711,"Kalaburagi","1153631",79,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2021-04-16,2021-04-19,2021-04-21,NA
+13715,"Kalaburagi","1163750",70,"Female","SARI","Cough, Breathlessness","HTN, IHD",2021-04-17,2021-04-19,2021-04-21,NA
+13727,"Kalaburagi","1177283",48,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-15,2021-04-20,2021-04-21,NA
+13735,"Kalaburagi","1190803",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-15,2021-04-19,2021-04-21,NA
+13752,"Kalaburagi","1227801",38,"Male","SARI","Cough, Breathlessness","DM",2021-04-18,2021-04-21,2021-04-21,NA
+13760,"Kalaburagi","1244007",73,"Male","SARI","Breathlessness","HTN",2021-04-20,2021-04-20,2021-04-21,NA
+13785,"Kalaburagi","1087609",57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-15,2021-04-21,2021-04-22,NA
+13801,"Kalaburagi","1126746",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-14,2021-04-21,2021-04-22,NA
+13811,"Kalaburagi","1137863",83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-20,2021-04-22,NA
+13815,"Kalaburagi","1142600",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-17,2021-04-22,2021-04-22,NA
+13832,"Kalaburagi","1170202",52,"Male","SARI","Cough, Breathlessness","DM",2021-04-15,2021-04-21,2021-04-22,NA
+13837,"Kalaburagi","1175575",72,"Female","SARI","Breathlessness","DM",2021-04-15,2021-04-21,2021-04-22,NA
+13845,"Kalaburagi","1190776",54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-19,2021-04-22,2021-04-22,NA
+13849,"Kalaburagi","1196650",72,"Male","SARI","Breathlessness","HTN, CVA",2021-04-20,2021-04-21,2021-04-22,NA
+13873,"Kalaburagi","1230941",72,"Male","SARI","Fever, breathlessness","DM",2021-04-18,2021-04-22,2021-04-22,NA
+13876,"Kalaburagi","1236134",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-17,2021-04-21,2021-04-22,NA
+13880,"Kalaburagi","1253544",81,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-19,2021-04-22,2021-04-22,NA
+13936,"Kalaburagi","1093935",48,"Male","SARI","Cough, Breathlessness","HTN",2021-04-12,2021-04-22,2021-04-23,NA
+13957,"Kalaburagi","1122018",59,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-14,2021-04-22,2021-04-23,NA
+13971,"Kalaburagi","1134405",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-13,2021-04-22,2021-04-23,NA
+13995,"Kalaburagi","1172947",50,"Male","SARI","BREATHLESSNESS","DM",2021-04-22,2021-04-23,2021-04-23,NA
+14018,"Kalaburagi","1194715",62,"Male","SARI","Fever, Breathlessness","DM, HTN, CVA",2021-04-21,2021-04-22,2021-04-23,NA
+14028,"Kalaburagi","1208286",68,"Male","SARI","Fever, Breathlessness","DM",2021-04-18,2021-04-23,2021-04-23,NA
+14065,"Kalaburagi","1264640",40,"Male","SARI","Fever, Breathlessness","-",2021-04-20,2021-04-22,2021-04-23,NA
+14182,"Kalaburagi","1170164",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-15,2021-04-23,2021-04-24,NA
+14201,"Kalaburagi","1192029",55,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-16,2021-04-24,2021-04-24,NA
+14206,"Kalaburagi","1194158",30,"Male","SARI","Breathlessness","-",2021-04-17,2021-04-22,2021-04-24,NA
+14217,"Kalaburagi","1200371",56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-22,2021-04-23,2021-04-24,NA
+14221,"Kalaburagi","1208291",65,"Female","SARI","Fever, Breathlessness","DM",2021-04-18,2021-04-23,2021-04-24,NA
+14239,"Kalaburagi","1236118",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-20,2021-04-24,2021-04-24,NA
+14260,"Kalaburagi","1274824",55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-23,2021-04-24,NA
+14282,"Kalaburagi","1337365",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-23,2021-04-24,NA
+14336,"Kalaburagi","1170180",85,"Female","SARI","Cough, breathlessness","-",2021-04-15,2021-04-24,2021-04-25,NA
+14337,"Kalaburagi","1171406",68,"Female","SARI","Breathlessness","HTN",2021-04-18,2021-04-24,2021-04-25,NA
+14368,"Kalaburagi","1240843",45,"Male","SARI","Cough, breathlessness","DM",2021-04-22,2021-04-24,2021-04-25,NA
+14401,"Kalaburagi","1280355",80,"Male","SARI","Cough, breathlessness","-",2021-04-23,2021-04-23,2021-04-25,NA
+14409,"Kalaburagi","1297385",38,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-25,2021-04-25,NA
+14410,"Kalaburagi","1297424",80,"Male","SARI","Cough, breathlessness","HTN, DM",2021-04-22,2021-04-24,2021-04-25,NA
+14416,"Kalaburagi","1313768",78,"Male","SARI","Cough, breathlessness","-",2021-04-24,2021-04-25,2021-04-25,NA
+14476,"Kalaburagi","1178603",78,"Male","SARI","Breathlessness","HTN, DM",2021-04-17,2021-04-26,2021-04-26,NA
+14501,"Kalaburagi","1232768",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-19,2021-04-25,2021-04-26,NA
+14508,"Kalaburagi","1253528",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-23,2021-04-26,2021-04-26,NA
+14523,"Kalaburagi","1285554",60,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-19,2021-04-24,2021-04-26,NA
+14526,"Kalaburagi","1290295",47,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-22,2021-04-26,NA
+14566,"Kalaburagi","1329987",68,"Male","SARI","Fever, Cough, Breathlessness","HTN, DM",2021-04-24,2021-04-25,2021-04-26,NA
+14595,"Kalaburagi","1349687",45,"Male","SARI","Cough, breathlessness","-",2021-04-24,2021-04-25,2021-04-26,NA
+14686,"Kalaburagi","1215704",85,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-19,2021-04-26,2021-04-27,NA
+14691,"Kalaburagi","1229312",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-20,2021-04-26,2021-04-27,NA
+14731,"Kalaburagi","1299622",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-24,2021-04-26,2021-04-27,NA
+14734,"Kalaburagi","1304862",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-27,2021-04-27,NA
+14797,"Kalaburagi","1404496",47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-26,2021-04-27,2021-04-27,NA
+14804,"Kalaburagi","1414226",60,"Female","SARI","Fever, Breathlessness","-",2021-04-24,2021-04-25,2021-04-27,NA
+14806,"Kalaburagi","1428158",78,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-04-25,2021-04-26,2021-04-27,NA
+14894,"Kalaburagi","1249481",74,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-19,2021-04-27,2021-04-28,NA
+14918,"Kalaburagi","1294998",41,"Male","SARI","Breathlessness","-",2021-04-19,2021-04-27,2021-04-28,NA
+14940,"Kalaburagi","1332894",65,"Female","SARI","Cough, breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-28,NA
+15124,"Kalaburagi","1240886",60,"Female","SARI","Fever, cough","HTN",2021-04-19,2021-04-28,2021-04-29,NA
+15150,"Kalaburagi","1285567",70,"Male","SARI","Cough","HTN, CKD",2021-04-23,2021-04-27,2021-04-29,NA
+15164,"Kalaburagi","1317673",80,"Female","SARI","Breathlessness","HTN",2021-04-23,2021-04-27,2021-04-29,NA
+15191,"Kalaburagi","1362996",75,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-21,2021-04-29,2021-04-29,NA
+15194,"Kalaburagi","1370811",55,"Female","SARI","Fever, cough, breathlessness","HTN",2021-04-22,2021-04-28,2021-04-29,NA
+15208,"Kalaburagi","1386311",66,"Male","SARI","Cough, breathlessness","DM",2021-04-25,2021-04-26,2021-04-29,NA
+15209,"Kalaburagi","1386320",70,"Female","ILI","Fever","-",NA,2021-04-27,2021-04-29,"Died at her residence"
+15222,"Kalaburagi","1404485",80,"Male","SARI","-","DM, HTN",2021-04-25,2021-04-26,2021-04-29,NA
+15230,"Kalaburagi","1414193",46,"Female","SARI","Cough","-",2021-04-24,2021-04-27,2021-04-29,NA
+15283,"Kalaburagi","1466194",74,"Male","SARI","Fever, cough","DM, HTN",2021-04-26,2021-04-28,2021-04-29,NA
+15300,"Kalaburagi","1490994",65,"Male","SARI","Fever, cough","-",2021-04-23,2021-04-28,2021-04-29,NA
+15333,"Kalaburagi","1208273",51,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-20,2021-04-27,2021-04-30,NA
+15375,"Kalaburagi","1294996",50,"Male","SARI","Fever, Breathlessness","DM",2021-04-21,2021-04-29,2021-04-30,NA
+15387,"Kalaburagi","1317682",39,"Male","SARI","Breathlessness","HTN",2021-04-23,2021-04-29,2021-04-30,NA
+15408,"Kalaburagi","1346338",33,"Male","SARI","Breathlessness","-",2021-04-24,2021-04-27,2021-04-30,NA
+15447,"Kalaburagi","1428108",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-24,2021-04-29,2021-04-30,NA
+15463,"Kalaburagi","1450647",84,"Female","SARI","Fever, Breathlessness","HTN",2021-04-27,2021-04-30,2021-04-30,NA
+15615,"Kalaburagi","1295013",60,"Male","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-01,NA
+15672,"Kalaburagi","1380509",66,"Male","SARI","Breathlessness","HTN",2021-04-24,2021-04-30,2021-05-01,NA
+15689,"Kalaburagi","1408108",45,"Male","SARI","Breathlessness","-",2021-04-23,2021-04-30,2021-05-01,NA
+15697,"Kalaburagi","1423107",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-21,2021-04-30,2021-05-01,NA
+15711,"Kalaburagi","1432174",40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-04-30,2021-05-01,NA
+15767,"Kalaburagi","1540724",41,"Female","SARI","Cough, Breathlessness","DM, HTN, COPD",2021-04-27,2021-05-01,2021-05-01,NA
+15828,"Kalaburagi","1255066",53,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-19,2021-05-01,2021-05-02,NA
+15881,"Kalaburagi","1373999",77,"Male","SARI","Cough, Breathlessness","HTN",2021-04-25,2021-05-01,2021-05-02,NA
+15920,"Kalaburagi","1447825",50,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-24,2021-05-02,2021-05-02,NA
+15942,"Kalaburagi","1508488",78,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-04-25,2021-04-30,2021-05-02,NA
+15982,"Kalaburagi","1596774",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-04-30,2021-05-02,NA
+15990,"Kalaburagi","1605154",70,"Male","SARI","Breathlessness","DM",2021-04-28,2021-04-30,2021-05-02,NA
+15991,"Kalaburagi","1605171",48,"Female","SARI","Fever, Breathlessness","-",2021-04-29,2021-05-01,2021-05-02,NA
+16053,"Kalaburagi","1269148",48,"Female","SARI","Cough, breathlessness","_",2021-04-28,2021-05-02,2021-05-03,NA
+16097,"Kalaburagi","1372847",58,"Male","SARI","Fever, cough, breathlessness","DM",2021-04-22,2021-05-02,2021-05-03,NA
+16126,"Kalaburagi","1417388",85,"Female","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-26,2021-05-03,NA
+16153,"Kalaburagi","1468811",70,"Male","SARI","Fever, breathlessness","_",2021-04-28,2021-04-30,2021-05-03,NA
+16189,"Kalaburagi","1540652",50,"Female","SARI","Fever, breathlessness","DM, HTN",2021-04-29,2021-05-02,2021-05-03,NA
+16426,"Kalaburagi","1516827",43,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-03,2021-05-04,NA
+16492,"Kalaburagi","1647061",42,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-03,2021-05-04,NA
+16518,"Kalaburagi","1686156",66,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-03,2021-05-04,NA
+16520,"Kalaburagi","1688975",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-03,2021-05-04,NA
+16691,"Kalaburagi","1393131",65,"Male","SARI","Cough, Breathlessness","HTN",2021-04-22,2021-05-04,2021-05-05,NA
+16693,"Kalaburagi","1400360",62,"Male","SARI","Breathlessness","DM, HTN",2021-04-25,2021-05-03,2021-05-05,NA
+16713,"Kalaburagi","1453985",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-05-05,2021-05-05,NA
+16716,"Kalaburagi","1460320",54,"Female","SARI","Fever, Breathlessness","-",2021-04-25,2021-05-03,2021-05-05,NA
+16738,"Kalaburagi","1496797",58,"Female","SARI","Breathlessness","DM",2021-04-25,2021-05-04,2021-05-05,NA
+16772,"Kalaburagi","1547883",65,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-03,2021-05-05,NA
+16779,"Kalaburagi","1558049",90,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-04,2021-05-05,NA
+16793,"Kalaburagi","1600062",66,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-04,2021-05-05,NA
+16801,"Kalaburagi","1612901",47,"Male","SARI","Fever & Breathlessness","-",2021-05-01,2021-05-01,2021-05-05,NA
+16834,"Kalaburagi","1678670",46,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-02,2021-05-05,NA
+16839,"Kalaburagi","1686092",48,"Female","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-04,2021-05-05,NA
+16849,"Kalaburagi","1708231",55,"Male","SARI","Fever, Breathlessness","IHD",2021-04-28,2021-05-01,2021-05-05,NA
+16850,"Kalaburagi","1708313",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-05,NA
+16885,"Kalaburagi","1786047",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-04,2021-05-05,NA
+16886,"Kalaburagi","1791156",45,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-05,NA
+16959,"Kalaburagi","1357477",30,"Female","ILI","Cough","-",2021-04-26,2021-05-04,2021-05-06,NA
+16970,"Kalaburagi","1397326",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-05-05,2021-05-06,NA
+17019,"Kalaburagi","1481081",65,"Male","ILI","Fever","-",2021-04-27,2021-05-04,2021-05-06,NA
+17022,"Kalaburagi","1488648",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-03,2021-05-06,NA
+17098,"Kalaburagi","1607216",75,"Male","SARI","Fever, Breathlessness","HTN",2021-04-29,2021-05-06,2021-05-06,NA
+17125,"Kalaburagi","1628413",56,"Male","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-05,2021-05-06,NA
+17151,"Kalaburagi","1686070",61,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-06,NA
+17159,"Kalaburagi","1705950",64,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2021-05-01,2021-05-05,2021-05-06,NA
+17160,"Kalaburagi","1705998",82,"Female","SARI","Cough, Breathlessness","HTN",2021-04-30,2021-05-04,2021-05-06,NA
+17162,"Kalaburagi","1708218",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-04,2021-05-06,NA
+17163,"Kalaburagi","1708228",71,"Female","SARI","Breathlessness","COPD",2021-05-02,2021-05-05,2021-05-06,NA
+17171,"Kalaburagi","1728946",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-03,2021-05-05,2021-05-06,NA
+17193,"Kalaburagi","1769018",60,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-04,2021-05-06,NA
+17211,"Kalaburagi","1808181",59,"Male","SARI","Breathlessness","HTN",2021-05-04,2021-05-04,2021-05-06,NA
+17305,"Kalaburagi","1255056",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-05,2021-05-06,2021-05-07,NA
+17375,"Kalaburagi","1357520",63,"Male","ILI","Fever","-",2021-04-23,2021-05-07,2021-05-07,NA
+17400,"Kalaburagi","1390803",65,"Male","SARI","Fever, Cough","IHD",2021-04-25,2021-05-06,2021-05-07,NA
+17428,"Kalaburagi","1438389",60,"Male","ILI","Fever","DM",2021-04-25,2021-05-05,2021-05-07,NA
+17474,"Kalaburagi","1490978",63,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-26,2021-05-07,2021-05-07,NA
+17497,"Kalaburagi","1512014",31,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-29,2021-05-04,2021-05-07,NA
+17571,"Kalaburagi","1590466",50,"Male","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17659,"Kalaburagi","1686050",68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-05,2021-05-07,NA
+17684,"Kalaburagi","1711194",50,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-07,NA
+17687,"Kalaburagi","1714903",46,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-05,2021-05-07,NA
+17697,"Kalaburagi","1722537",45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-01,2021-05-05,2021-05-07,NA
+17698,"Kalaburagi","1722552",50,"Female","SARI","Fever, Breathlessness","HTN",2021-05-02,2021-05-05,2021-05-07,NA
+17735,"Kalaburagi","1757027",54,"Female","SARI","Cough, Breathlessness","HTN",2021-05-03,2021-05-06,2021-05-07,NA
+17742,"Kalaburagi","1769008",54,"Female","ILI","Fever, Cough","-",2021-04-30,2021-05-05,2021-05-07,NA
+17754,"Kalaburagi","1790797",31,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-06,2021-05-07,NA
+17780,"Kalaburagi","1830001",70,"Male","SARI","Breathlessness","IHD",2021-05-04,2021-05-05,2021-05-07,NA
+17785,"Kalaburagi","1840362",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-05,2021-05-07,NA
+17786,"Kalaburagi","1840377",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17798,"Kalaburagi","1852548",65,"Male","ILI","Fever","-",2021-05-04,2021-05-07,2021-05-07,NA
+18005,"Kalaburagi","1425708",30,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-26,2021-05-07,2021-05-08,NA
+18043,"Kalaburagi","1501944",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-25,2021-05-03,2021-05-08,NA
+18068,"Kalaburagi","1544200",65,"Male","SARI","Fever, Cough","-",2021-04-21,2021-05-04,2021-05-08,NA
+18089,"Kalaburagi","1575549",41,"Female","SARI","Cough, Breathlessness","HTN",2021-04-30,2021-05-03,2021-05-08,NA
+18102,"Kalaburagi","1600052",45,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-03,2021-05-08,NA
+18172,"Kalaburagi","1725532",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-05-08,NA
+18173,"Kalaburagi","1725556",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-04,2021-05-08,NA
+18177,"Kalaburagi","1728936",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-08,2021-05-08,NA
+18219,"Kalaburagi","1808176",48,"Male","SARI","Cough, Breathlessness","HTN",2021-05-03,2021-05-03,2021-05-08,NA
+18273,"Kalaburagi","1887469",65,"Male","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-05,2021-05-08,NA
+18285,"Kalaburagi","1926842",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-08,NA
+18392,"Kalaburagi","1368950",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-08,2021-05-09,NA
+18432,"Kalaburagi","1425695",42,"Male","SARI","Breathlessness","-",2021-04-25,2021-05-08,2021-05-09,NA
+18638,"Kalaburagi","1757001",45,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-07,2021-05-09,NA
+18660,"Kalaburagi","1801839",44,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-08,2021-05-09,NA
+18662,"Kalaburagi","1808192",37,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-09,NA
+18672,"Kalaburagi","1819462",42,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-07,2021-05-09,NA
+18683,"Kalaburagi","1840366",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-05,2021-05-07,2021-05-09,NA
+18700,"Kalaburagi","1861456",65,"Male","ILI","Fever","DM",2021-05-05,2021-05-08,2021-05-09,NA
+18736,"Kalaburagi","1914991",84,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-07,2021-05-09,NA
+18737,"Kalaburagi","1915036",50,"Female","SARI","Breathlessness","HTN",2021-05-06,2021-05-08,2021-05-09,NA
+18773,"Kalaburagi","1957353",50,"Male","SARI","Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18774,"Kalaburagi","1963393",60,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+19049,"Kalaburagi","1537206",62,"Male","SARI","Fever, breathlessness","-",2021-04-27,2021-05-10,2021-05-10,NA
+19241,"Kalaburagi","1808117",80,"Female","SARI","Breathlessness","HTN",2021-05-01,2021-05-09,2021-05-10,NA
+19342,"Kalaburagi","1957270",57,"Female","ILI","Fever, cough","-",2021-05-05,2021-05-09,2021-05-10,NA
+19666,"Kalaburagi","1769043",40,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-09,2021-05-11,NA
+19680,"Kalaburagi","1790995",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-04,2021-05-11,NA
+19734,"Kalaburagi","1857607",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-11,2021-05-11,NA
+19778,"Kalaburagi","1908791",55,"Female","SARI","Fever, Breathlessness","HTN",2021-05-06,2021-05-10,2021-05-11,NA
+19853,"Kalaburagi","2049347",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-04,2021-05-11,NA
+19881,"Kalaburagi","1404486",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-25,2021-05-10,2021-05-12,NA
+19891,"Kalaburagi","1428138",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-09,2021-05-12,NA
+19919,"Kalaburagi","1547724",60,"Female","ILI","Fever","-",2021-04-28,2021-05-09,2021-05-12,NA
+19925,"Kalaburagi","1579365",90,"Female","ILI","Fever","HTN",2021-04-28,2021-05-08,2021-05-12,NA
+19940,"Kalaburagi","1608669",63,"Male","SARI","Breathlessness","DM",2021-05-08,2021-05-11,2021-05-12,NA
+19951,"Kalaburagi","1638193",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-05-08,2021-05-12,NA
+19956,"Kalaburagi","1644018",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-10,2021-05-12,NA
+20039,"Kalaburagi","1725622",75,"Male","ILI","Fever, Cough","DM, HTN",2021-04-30,2021-05-10,2021-05-12,NA
+20135,"Kalaburagi","1808156",60,"Female","ILI","Fever, Cough","DM, HTN",2021-05-04,2021-05-10,2021-05-12,NA
+20136,"Kalaburagi","1808213",60,"Female","ILI","Fever, Cough","-",NA,2021-05-10,2021-05-12,"Died at her residence"
+20140,"Kalaburagi","1811647",44,"Male","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-11,2021-05-12,NA
+20143,"Kalaburagi","1815827",70,"Male","SARI","Fever, Cough, Breathlessness","TB",NA,2021-05-06,2021-05-12,"Died at his residence"
+20154,"Kalaburagi","1823292",50,"Male","SARI","Breathlessness","HTN",2021-05-04,2021-05-10,2021-05-12,NA
+20164,"Kalaburagi","1840376",30,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-10,2021-05-12,NA
+20197,"Kalaburagi","1877300",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-11,2021-05-12,NA
+20222,"Kalaburagi","1905576",66,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-10,2021-05-12,NA
+20233,"Kalaburagi","1911852",58,"Female","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-12,NA
+20256,"Kalaburagi","1930374",54,"Female","ILI","Fever, Cough","-",2021-04-15,2021-05-11,2021-05-12,NA
+20292,"Kalaburagi","1966722",36,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-10,2021-05-12,NA
+20298,"Kalaburagi","1973822",56,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-12,NA
+20313,"Kalaburagi","2002765",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-11,2021-05-12,NA
+20316,"Kalaburagi","2005141",46,"Male","SARI","Breathlessness","HTN",2021-05-08,2021-05-10,2021-05-12,NA
+20318,"Kalaburagi","2008008",38,"Male","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-12,NA
+20709,"Kalaburagi","2124364",55,"Female","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-13,NA
+20751,"Kalaburagi","1434958",55,"Male","ILI","Fever, Cough","HTN",2021-04-28,2021-05-11,2021-05-14,NA
+20754,"Kalaburagi","1450546",52,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-11,2021-05-14,NA
+20756,"Kalaburagi","1468828",74,"Male","SARI","Cough, Breathlessness","-",2021-04-27,2021-05-11,2021-05-14,NA
+20787,"Kalaburagi","1566920",72,"Female","SARI","Cough, Breathlessness","HTN",2021-04-30,2021-05-11,2021-05-14,NA
+20841,"Kalaburagi","1753353",43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-11,2021-05-14,NA
+20852,"Kalaburagi","1790952",39,"Male","SARI","Cough, Breathlessness","HTN",2021-05-04,2021-05-12,2021-05-14,NA
+20863,"Kalaburagi","1811595",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-11,2021-05-14,NA
+20879,"Kalaburagi","1854956",46,"Female","SARI","Breathlessness","HTN",2021-05-09,2021-05-12,2021-05-14,NA
+20880,"Kalaburagi","1857672",84,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+20881,"Kalaburagi","1861461",56,"Female","SARI","Cough, Breathlessness","HTN",2021-05-06,2021-05-10,2021-05-14,NA
+20886,"Kalaburagi","1873176",35,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-06,2021-05-14,NA
+20888,"Kalaburagi","1877301",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-12,2021-05-14,NA
+20889,"Kalaburagi","1877376",50,"Female","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-12,2021-05-14,NA
+20903,"Kalaburagi","1908671",70,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-11,2021-05-14,NA
+20922,"Kalaburagi","1951883",61,"Female","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-11,2021-05-14,NA
+20953,"Kalaburagi","2002790",45,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-14,NA
+20994,"Kalaburagi","2052414",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-13,2021-05-14,NA
+21000,"Kalaburagi","2061230",37,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-14,NA
+21039,"Kalaburagi","2121606",80,"Male","SARI","Fever, Breathlessness","IHD",2021-05-11,2021-05-12,2021-05-14,NA
+21053,"Kalaburagi","2138050",75,"Male","ILI","Fever, Cough","HTN",2021-05-11,2021-05-14,2021-05-14,NA
+21054,"Kalaburagi","2138063",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-13,2021-05-14,NA
+21107,"Kalaburagi","1423077",68,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-05-13,2021-05-15,NA
+21135,"Kalaburagi","1566937",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-15,NA
+21136,"Kalaburagi","1572767",42,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-09,2021-05-15,NA
+21177,"Kalaburagi","1722558",51,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-13,2021-05-15,NA
+21234,"Kalaburagi","1869124",61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-04,2021-05-15,NA
+21252,"Kalaburagi","1911821",55,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-14,2021-05-15,NA
+21267,"Kalaburagi","1957287",29,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-15,2021-05-15,NA
+21277,"Kalaburagi","1973766",58,"Female","SARI","Cough, Breathlessness","HTN",2021-05-07,2021-05-12,2021-05-15,NA
+21278,"Kalaburagi","1973769",56,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-13,2021-05-15,NA
+21296,"Kalaburagi","2007943",35,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-13,2021-05-15,NA
+21315,"Kalaburagi","2049390",62,"Male","SARI","Cough, Breathlessness","DM",2021-05-10,2021-05-15,2021-05-15,NA
+21328,"Kalaburagi","2067564",70,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-12,2021-05-15,NA
+21329,"Kalaburagi","2067576",61,"Male","ILI","Fever","HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21343,"Kalaburagi","2080781",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-11,2021-05-15,NA
+21344,"Kalaburagi","2080783",64,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-15,NA
+21348,"Kalaburagi","2083976",30,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-13,2021-05-15,NA
+21349,"Kalaburagi","2083995",60,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21388,"Kalaburagi","2150981",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-15,NA
+21403,"Kalaburagi","2163338",45,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-05-15,NA
+21410,"Kalaburagi","2172737",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-13,2021-05-15,NA
+21411,"Kalaburagi","2172802",32,"Male","SARI","Cough, Breathlessness","-",2021-05-06,2021-05-14,2021-05-15,NA
+21537,"Kalaburagi","1583219",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-14,2021-05-16,NA
+21566,"Kalaburagi","1693918",70,"Female","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-15,2021-05-16,NA
+21579,"Kalaburagi","1761237",56,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-03,2021-05-16,NA
+21581,"Kalaburagi","1765367",56,"Male","SARI","Breathlessness","-",2021-04-28,2021-05-14,2021-05-16,NA
+21615,"Kalaburagi","1881595",49,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-14,2021-05-16,NA
+21629,"Kalaburagi","1918630",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-15,2021-05-16,NA
+21632,"Kalaburagi","1926904",76,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-14,2021-05-16,NA
+21726,"Kalaburagi","2067554",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-15,2021-05-16,NA
+21728,"Kalaburagi","2069051",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-15,2021-05-16,NA
+21777,"Kalaburagi","2150982",41,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-14,2021-05-16,NA
+21929,"Kalaburagi","1568820",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-28,2021-05-17,NA
+22007,"Kalaburagi","1761285",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-15,2021-05-17,NA
+22036,"Kalaburagi","1857689",75,"Female","ILI","Fever","DM, HTN",NA,2021-05-08,2021-05-17,"Died at her residence"
+22053,"Kalaburagi","1908652",50,"Female","SARI","Cough, Breathlessness","DM",2021-05-06,2021-05-16,2021-05-17,NA
+22058,"Kalaburagi","1915052",46,"Male","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-15,2021-05-17,NA
+22063,"Kalaburagi","1922144",36,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-16,2021-05-17,NA
+22077,"Kalaburagi","1954212",28,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-16,2021-05-17,NA
+22106,"Kalaburagi","2007936",42,"Male","ILI","Fever","HTN",NA,2021-05-08,2021-05-17,"Died at his residence"
+22136,"Kalaburagi","2052518",65,"Male","SARI","Cough, Breathlessness","HTN",2021-05-09,2021-05-15,2021-05-17,NA
+22147,"Kalaburagi","2080773",38,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-15,2021-05-17,NA
+22219,"Kalaburagi","2176563",82,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-16,2021-05-17,NA
+22229,"Kalaburagi","2186469",57,"Male","SARI","Breathlessness","HTN",2021-05-15,2021-05-16,2021-05-17,NA
+22293,"Kalaburagi","2255943",60,"Female","SARI","Breathlessness","HTN",2021-05-15,2021-05-16,2021-05-17,NA
+22304,"Kalaburagi","2272785",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-17,NA
+22309,"Kalaburagi","2282122",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-15,2021-05-17,NA
+22502,"Kalaburagi","1669050",72,"Male","ILI","Fever","DM, HTN",2021-04-30,2021-05-05,2021-05-18,NA
+22628,"Kalaburagi","2014265",65,"Male","ILI","Cough","-",2021-05-01,2021-05-17,2021-05-18,NA
+22684,"Kalaburagi","2105713",58,"Female","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-18,2021-05-18,NA
+22753,"Kalaburagi","2186448",55,"Female","SARI","Breathlessness","HTN",2021-05-16,2021-05-17,2021-05-18,NA
+22772,"Kalaburagi","2211354",77,"Male","SARI","Cough, Breathlessness","DM",2021-05-13,2021-05-17,2021-05-18,NA
+22806,"Kalaburagi","2255779",55,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-18,NA
+22824,"Kalaburagi","2291574",55,"Female","SARI","Breathlessness","DM",2021-05-16,2021-05-16,2021-05-18,NA
+23075,"Kalaburagi","2002770",51,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-19,NA
+23076,"Kalaburagi","2005149",32,"Male","SARI","Fever, Breathlessness","TB",2021-05-08,2021-05-18,2021-05-19,NA
+23079,"Kalaburagi","2010914",76,"Female","SARI","Breathlessness","DM,  HTN, CKD",2021-05-08,2021-05-17,2021-05-19,NA
+23119,"Kalaburagi","2080807",35,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-17,2021-05-19,NA
+23120,"Kalaburagi","2080834",68,"Female","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-18,2021-05-19,NA
+23162,"Kalaburagi","2144199",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-18,2021-05-19,NA
+23164,"Kalaburagi","2148243",64,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-17,2021-05-19,NA
+23196,"Kalaburagi","2172760",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-18,2021-05-19,NA
+23224,"Kalaburagi","2211306",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-19,NA
+23251,"Kalaburagi","2247075",53,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-19,2021-05-19,NA
+23270,"Kalaburagi","2272777",62,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-18,2021-05-19,NA
+23275,"Kalaburagi","2279643",53,"Female","ILI","Fever","-",2021-05-10,2021-05-19,2021-05-19,NA
+23278,"Kalaburagi","2282119",45,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-18,2021-05-19,NA
+23280,"Kalaburagi","2286746",36,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-18,2021-05-19,NA
+23284,"Kalaburagi","2295929",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-19,NA
+23288,"Kalaburagi","2301404",45,"Female","SARI","Breathlessness","DM",2021-05-16,2021-05-17,2021-05-19,NA
+23294,"Kalaburagi","2308065",80,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-18,2021-05-19,NA
+23308,"Kalaburagi","2349218",56,"Female","SARI","Cough, Breathlessness","DM",2021-05-13,2021-05-18,2021-05-19,NA
+23626,"Kalaburagi","2058111",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-19,2021-05-20,NA
+23654,"Kalaburagi","2097936",30,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-19,2021-05-20,NA
+23659,"Kalaburagi","2105712",75,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-19,2021-05-20,NA
+23704,"Kalaburagi","2163299",38,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-19,2021-05-20,NA
+23744,"Kalaburagi","2225443",67,"Male","SARI","Cough, Breathlessness","DM",2021-05-11,2021-05-19,2021-05-20,NA
+23757,"Kalaburagi","2240181",46,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-15,2021-05-20,NA
+23795,"Kalaburagi","2284151",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23808,"Kalaburagi","2301394",43,"Female","SARI","Breathlessness","HTN",2021-05-16,2021-05-20,2021-05-20,NA
+23809,"Kalaburagi","2301415",58,"Female","SARI","Breathlessness","DM",2021-05-18,2021-05-19,2021-05-20,NA
+23829,"Kalaburagi","2329129",62,"Female","SARI","Cough, Breathlessness","HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23854,"Kalaburagi","2362875",52,"Male","SARI","Cough, Breathlessness","HTN",2021-05-19,2021-05-19,2021-05-20,NA
+24195,"Kalaburagi","2370356",34,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-19,2021-05-21,NA
+24206,"Kalaburagi","2398554",67,"Female","SARI","Breathlessness","HTN",2021-05-19,2021-05-19,2021-05-21,NA
+24207,"Kalaburagi","2409140",78,"Male","SARI","Cough, Breathlessness","-",2021-04-29,2021-05-20,2021-05-21,NA
+24208,"Kalaburagi","2409141",41,"Male","ILI","Fever, Cough","DM, HTN",2021-04-26,2021-05-20,2021-05-21,NA
+24501,"Kalaburagi","2144194",80,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-21,2021-05-22,NA
+24530,"Kalaburagi","2211422",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-05-22,NA
+24536,"Kalaburagi","2221921",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-13,2021-05-20,2021-05-22,NA
+24564,"Kalaburagi","2286771",77,"Male","SARI","Breathlessness","HTN, CVA",2021-05-16,2021-05-19,2021-05-22,NA
+24586,"Kalaburagi","2331185",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-21,2021-05-22,NA
+24624,"Kalaburagi","2370368",63,"Female","SARI","Cough, Breathlessness","HTN",2021-05-18,2021-05-21,2021-05-22,NA
+24625,"Kalaburagi","2379557",52,"Male","ILI","Cough","-",2021-05-06,2021-05-22,2021-05-22,NA
+24979,"Kalaburagi","2058141",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-22,2021-05-23,NA
+25031,"Kalaburagi","2131320",64,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-22,2021-05-23,NA
+25034,"Kalaburagi","2138061",58,"Male","SARI","Fever, Breathlessness","DM, TB",2021-05-10,2021-05-22,2021-05-23,NA
+25043,"Kalaburagi","2151019",65,"Male","SARI","Cough, Breathlessness","DM",2021-05-17,2021-05-22,2021-05-23,NA
+25092,"Kalaburagi","2238444",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-22,2021-05-23,NA
+25093,"Kalaburagi","2238459",42,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-14,2021-05-21,2021-05-23,NA
+25126,"Kalaburagi","2272757",50,"Male","SARI","Cough, Breathlessness","DM",2021-05-18,2021-05-22,2021-05-23,NA
+25137,"Kalaburagi","2286750",57,"Female","SARI","Cough, Breathlessness","HTN",2021-05-15,2021-05-21,2021-05-23,NA
+25138,"Kalaburagi","2286758",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-22,2021-05-23,NA
+25152,"Kalaburagi","2301401",56,"Female","SARI","Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-23,NA
+25191,"Kalaburagi","2358793",54,"Female","SARI","Cough, Breathlessness","HTN, DM, COPD",2021-05-19,2021-05-21,2021-05-23,NA
+25193,"Kalaburagi","2360960",76,"Male","ILI","Cough","HTN",2021-05-18,2021-05-22,2021-05-23,NA
+25200,"Kalaburagi","2365341",62,"Male","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-23,NA
+25232,"Kalaburagi","2392510",80,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-21,2021-05-23,NA
+25280,"Kalaburagi","2454222",80,"Male","ILI","Cough","HTN",2021-05-20,2021-05-21,2021-05-23,NA
+25587,"Kalaburagi","2186440",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-23,2021-05-24,NA
+25644,"Kalaburagi","2289730",38,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-23,2021-05-24,NA
+25663,"Kalaburagi","2317668",52,"Female","SARI","Cough, Breathlessness","ILD",2021-05-17,2021-05-22,2021-05-24,NA
+25675,"Kalaburagi","2331192",48,"Male","SARI","Cough, Breathlessness","DM",2021-05-21,2021-05-23,2021-05-24,NA
+25687,"Kalaburagi","2346923",84,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-15,2021-05-21,2021-05-24,NA
+25689,"Kalaburagi","2349247",65,"Male","SARI","Cough, Breathlessness","HTN",2021-05-18,2021-05-23,2021-05-24,NA
+25734,"Kalaburagi","2394067",41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25760,"Kalaburagi","2428882",62,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-22,2021-05-24,NA
+25764,"Kalaburagi","2431197",48,"Male","SARI","Breathlessness","HTN",2021-05-23,2021-05-23,2021-05-24,NA
+26216,"Kalaburagi","2255839",65,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-25,NA
+26232,"Kalaburagi","2286751",82,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-24,2021-05-25,NA
+26234,"Kalaburagi","2291570",66,"Male","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-23,2021-05-25,NA
+26239,"Kalaburagi","2295137",65,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-24,2021-05-25,NA
+26250,"Kalaburagi","2310384",62,"Male","SARI","Cough, Breathlessness","HTN",2021-05-13,2021-05-23,2021-05-25,NA
+26288,"Kalaburagi","2372831",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-24,2021-05-25,NA
+26304,"Kalaburagi","2392513",75,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-23,2021-05-25,NA
+26330,"Kalaburagi","2415294",48,"Female","SARI","Breathlessness","CVA",2021-05-19,2021-05-23,2021-05-25,NA
+26357,"Kalaburagi","2457554",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-25,2021-05-25,NA
+26358,"Kalaburagi","2457556",50,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-23,2021-05-25,NA
+26374,"Kalaburagi","2476823",35,"Male","SARI","Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-25,NA
+26754,"Kalaburagi","2245012",52,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-24,2021-05-26,NA
+26764,"Kalaburagi","2272769",70,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-22,2021-05-26,NA
+26775,"Kalaburagi","2299966",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26776,"Kalaburagi","2301407",60,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-25,2021-05-26,NA
+26820,"Kalaburagi","2377715",57,"Female","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-24,2021-05-26,NA
+26821,"Kalaburagi","2379556",78,"Male","ILI","Fever","HTN, CKD",2021-05-08,2021-05-26,2021-05-26,NA
+26871,"Kalaburagi","2457557",70,"Female","SARI","Breathlessness","HTN",2021-05-21,2021-05-24,2021-05-26,NA
+26899,"Kalaburagi","2497909",50,"Male","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-05-26,NA
+26931,"Kalaburagi","2536724",45,"Male","SARI","Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+27192,"Kalaburagi","2247074",55,"Male","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-26,2021-05-27,NA
+27246,"Kalaburagi","2319906",59,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-04,2021-05-24,2021-05-27,NA
+27267,"Kalaburagi","2349240",79,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-25,2021-05-27,NA
+27275,"Kalaburagi","2362887",52,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-25,2021-05-27,NA
+27299,"Kalaburagi","2406350",45,"Male","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-27,2021-05-27,NA
+27610,"Kalaburagi","2291538",50,"Male","SARI","Cough, Breathlessness","CA",2021-05-19,2021-05-28,2021-05-28,NA
+27613,"Kalaburagi","2295133",38,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-26,2021-05-28,NA
+27681,"Kalaburagi","2411114",69,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-01,2021-05-28,NA
+27733,"Kalaburagi","2497910",72,"Male","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-27,2021-05-28,NA
+27750,"Kalaburagi","2516367",80,"Female","SARI","Fever, Breathlessness","HTN",2021-05-24,2021-05-27,2021-05-28,NA
+28121,"Kalaburagi","2411116",65,"Female","SARI","Cough, Breathlessness","-",2021-05-26,2021-05-28,2021-05-29,NA
+28156,"Kalaburagi","2443318",58,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-27,2021-05-29,NA
+28190,"Kalaburagi","2483621",46,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-27,2021-05-29,NA
+28518,"Kalaburagi","2370343",20,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-28,2021-05-30,NA
+28561,"Kalaburagi","2423021",72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-28,2021-05-30,NA
+28578,"Kalaburagi","2443306",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-29,2021-05-30,NA
+28596,"Kalaburagi","2477565",35,"Female","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-27,2021-05-30,NA
+29050,"Kalaburagi","2587474",65,"Female","SARI","Fever, Breathlessness","HTN",2021-05-27,2021-05-31,2021-05-31,NA
+29066,"Kalaburagi","2608872",58,"Male","ILI","Fever, Cough","-",2021-05-10,2021-05-30,2021-05-31,NA
+29381,"Kalaburagi","2362897",70,"Female","SARI","Cough, Breathlessness","HTN",2021-05-28,2021-05-29,2021-06-01,NA
+29429,"Kalaburagi","2464892",29,"Female","ILI","Fever, Cough","-",2021-05-22,2021-05-31,2021-06-01,NA
+29460,"Kalaburagi","2516366",55,"Male","SARI","Fever, Breathlessness","CRF",2021-05-24,2021-05-29,2021-06-01,NA
+29480,"Kalaburagi","2534677",48,"Male","SARI","Cough, Breathlessness","HTN",2021-05-24,2021-05-31,2021-06-01,NA
+29537,"Kalaburagi","2629295",72,"Female","ILI","Cough","IHD",2021-05-20,2021-06-01,2021-06-01,NA
+29538,"Kalaburagi","2629296",59,"Female","SARI","Breathlessness","DM",2021-05-29,2021-06-01,2021-06-01,NA
+29544,"Kalaburagi","2641148",70,"Female","SARI","Breathlessness","-",2021-05-29,2021-05-31,2021-06-01,NA
+29951,"Kalaburagi","2587464",52,"Male","ILI","Cough","-",2021-05-22,2021-05-30,2021-06-02,NA
+29967,"Kalaburagi","2620565",57,"Female","SARI","Fever, Breathlessness","CLD",2021-05-27,2021-06-01,2021-06-02,NA
+30000,"Kalaburagi","2657468",62,"Female","SARI","Breathlessness","HTN",2021-05-31,2021-06-01,2021-06-02,NA
+30005,"Kalaburagi","2660523",45,"Female","ILI","Cough","IHD",2021-05-31,2021-06-01,2021-06-02,NA
+30483,"Kalaburagi","2650281",55,"Female","SARI","Cough, Breathlessness","DM",2021-05-30,2021-06-01,2021-06-03,NA
+30498,"Kalaburagi","2659784",45,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-06-03,NA
+30742,"Kalaburagi","2468294",75,"Female","SARI","Breathlessness","DM, HTN",2021-05-29,2021-06-02,2021-06-04,NA
+30771,"Kalaburagi","2528308",50,"Female","SARI","Breathlessness","-",2021-05-28,2021-05-28,2021-06-04,NA
+30779,"Kalaburagi","2539904",65,"Female","SARI","Breathlessness","-",2021-05-08,2021-06-02,2021-06-04,NA
+30784,"Kalaburagi","2549102",45,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-04,2021-06-04,NA
+30874,"Kalaburagi","2680745",53,"Male","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-08,2021-06-04,NA
+30883,"Kalaburagi","2689975",83,"Male","SARI","Fever, breathlessness","DM, HTN, IHD",2021-05-03,2021-05-09,2021-06-04,NA
+31146,"Kalaburagi","2549093",51,"Male","SARI","Breathlessness","-",2021-06-03,2021-06-04,2021-06-05,NA
+31571,"Kalaburagi","2715514",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-23,2021-06-03,2021-06-06,NA
+31886,"Kalaburagi","2703388",75,"Female","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-04,2021-06-07,NA
+32035,"Kalaburagi","2675645",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-07,2021-06-08,NA
+32040,"Kalaburagi","2685288",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-06,2021-06-08,NA
+32050,"Kalaburagi","2698549",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-07,2021-06-08,NA
+32080,"Kalaburagi","2729557",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-04,2021-06-06,2021-06-08,NA
+32365,"Kalaburagi","2633123",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-08,2021-06-10,NA
+32373,"Kalaburagi","2639874",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-08,2021-06-10,NA
+32434,"Kalaburagi","2720057",60,"Female","SARI","Breathlessness","-",2021-06-03,2021-06-04,2021-06-10,NA
+32435,"Kalaburagi","2722429",22,"Female","SARI","Cough, Breathlessness","CHD",2021-06-05,2021-06-08,2021-06-10,NA
+32441,"Kalaburagi","2726451",65,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-29,2021-06-08,2021-06-10,NA
+32442,"Kalaburagi","2726457",45,"Male","SARI","Cough, Breathlessness","-",2021-06-04,2021-06-09,2021-06-10,NA
+32593,"Kalaburagi","2723428",60,"Male","ILI","Fever, Cough","HTN",2021-05-25,2021-06-10,2021-06-11,NA
+32700,"Kalaburagi","2645514",80,"Female","SARI","Fever, Breathlessness","HTN",2021-06-05,2021-06-12,2021-06-12,NA
+32701,"Kalaburagi","2654417",59,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-06-12,2021-06-12,NA
+32725,"Kalaburagi","2688299",50,"Male","SARI","Cough, Breathlessness","-",2021-06-01,2021-06-10,2021-06-12,NA
+32746,"Kalaburagi","2725169",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-10,2021-06-12,NA
+32775,"Kalaburagi","2781899",42,"Male","SARI","Breathlessness","-",2021-06-08,2021-06-12,2021-06-12,NA
+32981,"Kalaburagi","2717903",63,"Male","SARI","Breathlessness","-",2021-06-11,2021-06-13,2021-06-14,NA
+33343,"Kalaburagi","2671515",38,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-31,2021-06-17,"Died at his residence"
+34400,"Kalaburagi","2850758",60,"Male","SARI","Cough, Breathlessness","DM",2021-06-19,2021-06-24,2021-06-24,NA
+34625,"Kalaburagi","2851767",61,"Male","SARI","Cough, Breathlessnes","CA",2021-06-19,2021-06-26,2021-06-26,NA
+35005,"Kalaburagi","2859572",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-21,2021-06-29,2021-06-30,NA
+35020,"Kalaburagi","2873680",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-06-29,2021-06-30,NA
+35102,"Kalaburagi","2863003",85,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-06-26,2021-07-01,"Died at his residence"
+35220,"Kalaburagi","2890793",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-01,2021-07-01,2021-07-02,NA
+35756,"Kalaburagi","2897710",41,"Male","SARI","Fever, Breathlessness","-",NA,2021-07-09,2021-07-10,"Died at his residence"
+36209,"Kalaburagi","2911946",65,"Male","SARI","Breathlessness","COPD",2021-07-10,2021-07-18,2021-07-20,NA
+36376,"Kalaburagi","2924050",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-16,2021-07-23,2021-07-26,NA
+36502,"Kalaburagi","2938970",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-26,2021-07-27,2021-07-30,NA
+38134,"Kalaburagi","3030356",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-11-01,2021-11-08,2021-11-24,NA
+38137,"Kalaburagi","3034253",72,"Male","SARI","Fever, cough, breathlessness","DM, IHD",2021-11-16,2021-11-22,2021-11-25,NA
+38237,"Kalaburagi","3042633",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-12-10,2021-12-19,2021-12-21,NA
+38318,"Kalaburagi","3057308",40,"Male","SARI","Breathlessness","IHD, CKD",NA,2022-01-06,2022-01-08,"Died at his residence"
+38341,"Kalaburagi","3135977",75,"Female","SARI","Cough, Breathlessness","COPD",2022-01-05,2022-01-12,2022-01-12,NA
+38346,"Kalaburagi","3138139",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-01-11,2022-01-12,2022-01-13,NA
+38383,"Kalaburagi","3194905",52,"Female","SARI","Breathlessness","CKD",2022-01-13,2022-01-13,2022-01-16,NA
+38410,"Kalaburagi","3194905",52,"Female","SARI","Breathlessness","CKD",2022-01-13,2022-01-13,2022-01-16,NA
+38473,"Kalaburagi","3138140",63,"Female","SARI","Breathlessness","HTN",2022-01-10,2022-01-16,2022-01-20,NA
+38477,"Kalaburagi","3269134",86,"Male","SARI","Breathlessness","DM",2022-01-14,2022-01-19,2022-01-20,NA
+38485,"Kalaburagi","3335020",72,"Male","SARI","Breathlessness","DM, CKD",2022-01-16,2022-01-19,2022-01-20,NA
+38495,"Kalaburagi","3409131",85,"Male","SARI","Breathlessness","-",2022-01-17,2022-01-20,2022-01-20,NA
+38500,"Kalaburagi","3442951",33,"Male","SARI","Breathlessness","-",2022-01-18,2022-01-19,2022-01-20,NA
+38534,"Kalaburagi","3273811",69,"Male","SARI","Fever, Breathlessness","CA",2022-01-15,2022-01-20,2022-01-22,NA
+38540,"Kalaburagi","3406872",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2022-01-18,2022-01-21,2022-01-22,NA
+38560,"Kalaburagi","3273811",69,"Male","SARI","Fever, Breathlessness","CA",2022-01-15,2022-01-20,2022-01-22,NA
+38566,"Kalaburagi","3406872",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2022-01-18,2022-01-21,2022-01-22,NA
+38577,"Kalaburagi","3185529",68,"Male","SARI","Breathlessness","CKD",2022-01-14,2022-01-20,2022-01-24,NA
+38583,"Kalaburagi","3260853",82,"Male","ILI","Fever ,Cough","DM, HTN",2022-01-17,2022-01-22,2022-01-24,NA
+38623,"Kalaburagi","3417845",50,"Female","SARI","Cough, Breathlessness","HTN, CKD",2022-01-18,2022-01-23,2022-01-25,NA
+38630,"Kalaburagi","3476467",59,"Male","SARI","Fever, Breathlessness","-",2022-01-19,2022-01-22,2022-01-25,NA
+38642,"Kalaburagi","3567040",36,"Male","SARI","Fever, Breathlessness","-",2022-01-22,2022-01-22,2022-01-25,NA
+38643,"Kalaburagi","3567142",75,"Male","SARI","Fever, Breathlessness","COPD",2022-01-21,2022-01-24,2022-01-25,NA
+38647,"Kalaburagi","3591356",77,"Female","SARI","Breathlessness","COPD",NA,2022-01-22,2022-01-25,"Brought dead"
+38675,"Kalaburagi","3417845",50,"Female","SARI","Cough, Breathlessness","HTN, CKD",2022-01-18,2022-01-23,2022-01-25,NA
+38682,"Kalaburagi","3476467",59,"Male","SARI","Fever, Breathlessness","-",2022-01-19,2022-01-22,2022-01-25,NA
+38694,"Kalaburagi","3567040",36,"Male","SARI","Fever, Breathlessness","-",2022-01-22,2022-01-22,2022-01-25,NA
+38695,"Kalaburagi","3567142",75,"Male","SARI","Fever, Breathlessness","COPD",2022-01-21,2022-01-24,2022-01-25,NA
+38699,"Kalaburagi","3591356",77,"Female","SARI","Breathlessness","COPD",NA,2022-01-22,2022-01-25,"Brought dead"
+38759,"Kalaburagi","3745909",59,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-24,2022-01-26,2022-01-27,NA
+38765,"Kalaburagi","3222191",55,"Male","SARI","Fever, cough,Breathlessness","HTN,CKD",2022-01-14,2022-01-26,2022-01-28,NA
+38829,"Kalaburagi","3577798",75,"Male","SARI","Breathlessness","CLD",2022-01-21,2022-01-25,2022-01-29,NA
+38830,"Kalaburagi","3585442",87,"Male","ILI","Fever","HTN",2022-01-22,2022-01-28,2022-01-29,NA
+38832,"Kalaburagi","3588623",77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-01-23,2022-01-27,2022-01-29,NA
+38844,"Kalaburagi","3677766",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-01-24,2022-01-28,2022-01-29,NA
+38873,"Kalaburagi","3794721",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2022-01-26,2022-01-28,2022-01-29,NA
+38898,"Kalaburagi","3681469",53,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-24,2022-01-29,2022-01-30,NA
+38932,"Kalaburagi","3810874",41,"Female","SARI","Fever, Breathlessness","-",2022-01-28,2022-01-30,2022-01-30,NA
+38985,"Kalaburagi","3787251",2,"Female","ILI","Fever","-",2022-01-29,2022-01-30,2022-01-31,NA
+39001,"Kalaburagi","3849452",97,"Female","SARI","Fever,
+Breathlessness","DM,
+HTN",2022-01-24,2022-01-30,2022-01-31,NA
+39004,"Kalaburagi","3864098",60,"Male","SARI","Breathlessness","DM, COPD",2022-01-30,2022-01-30,2022-01-31,NA
+39008,"Kalaburagi","3536281",72,"Male","SARI","Fever,Breathlessness","DM,HTN",2022-01-20,2022-01-31,2022-02-01,NA
+39029,"Kalaburagi","3748028",76,"Male","SARI","Cough, Breathlessness","CKD",2022-01-29,2022-02-01,2022-02-01,NA
+39110,"Kalaburagi","3877737",82,"Female","SARI","Fever, Cough, Breathlessness","HTN, CVD, CKD",2022-01-31,2022-02-01,2022-02-03,NA
+39114,"Kalaburagi","3893951",52,"Male","ILI","Fever","-",2022-01-30,2022-02-01,2022-02-03,NA
+39149,"Kalaburagi","3849453",68,"Male","ILI","Fever","DM, HTN, CKD",2022-01-25,2022-02-02,2022-02-04,NA
+39167,"Kalaburagi","3917506",9,"Male","ILI","Fever","-",2022-02-02,2022-02-02,2022-02-04,NA
+39180,"Kalaburagi","3417746",55,"Female","SARI","Breathlessness","-",NA,2022-01-19,2022-02-05,"Died at her residence"
+39196,"Kalaburagi","3766103",75,"Female","SARI","Breathlessness","HTN",NA,2022-01-27,2022-02-05,"Died at her residence"
+39199,"Kalaburagi","3787394",70,"Male","ILI","Fever, Cough","HTN",NA,2022-02-01,2022-02-05,"Died at his residence"
+39256,"Kalaburagi","3892573",90,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2022-02-01,2022-02-06,"Died at his residence"
+39264,"Kalaburagi","3937490",45,"Female","ILI","Fever, Cough","DM, CKD",2022-02-03,2022-02-04,2022-02-06,NA
+39434,"Kalaburagi","3913167",47,"Male","SARI","Cough, Breathlessness","CKD",2022-02-02,2022-02-02,2022-02-10,NA
+39498,"Kalaburagi","3971375",65,"Female","SARI","Fever, cough, breathlessness","HTN, CKD",2022-02-10,2022-02-10,2022-02-11,NA
+39547,"Kalaburagi","3946662",60,"Male","SARI","Cough, Breathlessness","-",2022-02-05,2022-02-12,2022-02-13,NA
+39673,"Kalaburagi","3964687",69,"Female","ILI","Fever","DM,HTN",2022-02-07,2022-02-07,2022-02-18,NA
+39735,"Kalaburagi","3982304",65,"Female","SARI","Breathlessness","HTN",2022-02-10,2022-02-21,2022-02-21,NA
+39761,"Kalaburagi","3979010",48,"Female","SARI","Cough, Breathlessness","DM, HTN",2022-02-13,2022-02-22,NA,NA
+39808,"Kalaburagi","3989079",18,"Female","SARI","Fever, Cough, Breathlessness","-",2022-02-22,2022-02-22,2022-02-24,NA
+39912,"Kalaburagi","3994056",43,"Male","SARI","Fever, Cough, Breathlessness","-",2022-03-09,2022-03-13,3022-03-14,NA
+39945,"Kalaburagi","3999364",22,"Male","SARI","Fever, Cough,Breathlessness","Immunocompromised",2022-05-05,2022-05-06,2022-05-09,NA
+39959,"Kalaburagi","4020423",33,"Male","ILI","Fever","CKD",NA,NA,2022-07-05,"Died at Residence"
+39980,"Kalaburagi","4054743",66,"Female","SARI","ssness","D,CKD",2022-07-28,2022-07-28,2022-07-29,NA
+39984,"Kalaburagi","4060536",68,"Male","SARI","Fever, Cough,
+Breathlessness","DM, HTN,
+IHD",2022-07-29,2022-07-30,2022-08-01,NA
+40023,"Kalaburagi","4078381",92,"Male","SARI","Fever,
+Breathlessness","HTN",2022-08-12,2022-08-12,2022-08-13,NA
+40090,"Kalaburagi","4109456",76,"Female","SARI","Fever,Cough,
+Breathlessness","HTN",2022-09-02,2022-09-03,2022-09-06,NA
+40116,"Kalaburagi","4119515",50,"Female","SARI","Fever,
+Breathlessness","DM, HTN,
+IHD",2022-09-23,2022-09-24,2022-09-25,NA
+40117,"Kalaburagi","4120047",62,"Male","SARI","Breathlessness","HTN , Retroviral, disease",2022-09-25,2022-09-26,2022-09-28,NA
+40131,"Kalaburagi","4124245",59,"Male","ILI","Fever","DM, AKI, CLD",2022-10-20,2022-10-22,2022-10-23,NA
+40135,"Kalaburagi","4125847",68,"Male","ILI","Fever","DM, HTN,
+CKD",2022-11-02,2022-11-04,2022-11-05,NA

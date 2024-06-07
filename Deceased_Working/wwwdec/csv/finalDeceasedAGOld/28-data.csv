@@ -1,0 +1,811 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+268,"Uttara Kannada","17020",68,"Female","Travel history to Maharashtra","Fever & Cough & Breathlessness","-",2020-06-25,2020-06-30,2020-07-02,NA
+470,"Uttara Kannada","24704",42,"Male","ILI","Diarrhe & Anorexia","Uncontrolled DM",2020-07-06,2020-07-06,2020-07-09,NA
+527,"Uttara Kannada","28375",71,"Female","Inter district travel – Dakshina  Kannada","Fever","DM, HTN, AKD",2020-07-08,2020-07-09,2020-07-10,NA
+585,"Uttara Kannada","31582",31,"Male","SARI","Breathlessness & Cough","GIO ENCEPHALITIS",2020-06-26,2020-07-10,2020-07-11,NA
+736,"Uttara Kannada","40039",69,"Male","SARI","Fever & Cough & Breathlessness","COPD, HTN, DM",2020-07-10,2020-07-12,2020-07-13,NA
+907,"Uttara Kannada","45199",46,"Female","SARI","Fever & Cough & Breathlessness","CA COLON",2020-07-12,2020-07-13,2020-07-15,NA
+912,"Uttara Kannada","47319",61,"Female","SARI","Fever & Cough & Breathlessness","IHD",NA,2020-07-14,2020-07-15,"Brought dead"
+913,"Uttara Kannada","47325",45,"Male","SARI","Fever & Cough & Breathlessness","CKD",NA,2020-07-14,2020-07-15,"Brought dead"
+1100,"Uttara Kannada","48982",67,"Male","SARI","Vomiting","-",2020-07-06,2020-07-13,2020-07-17,NA
+1101,"Uttara Kannada","49037",64,"Male","Contact of P- 42075","Fever & Breathlessness","CKD",2020-07-16,2020-07-16,2020-07-17,NA
+1470,"Uttara Kannada","72134",76,"Male","SARI","Breathlessness","DM, HTN",2020-07-19,2020-07-21,2020-07-22,NA
+1475,"Uttara Kannada","72784",65,"Female","SARI","Breathlessness","DM",2020-07-19,2020-07-21,2020-07-22,NA
+1502,"Uttara Kannada","78539",65,"Male","SARI","Fever","DM",2020-07-22,2020-07-22,2020-07-22,NA
+1690,"Uttara Kannada","82798",75,"Male","Travel History To Hubballi","Fever & Cough","HTN, DM",2020-07-22,2020-07-23,2020-07-24,NA
+1849,"Uttara Kannada","94599",66,"Male","SARI","Fever & Cough & Breathlessness","HTN",NA,2020-07-25,2020-07-26,"Brought dead"
+1862,"Uttara Kannada","98810",75,"Female","ILI","Fever & Breathlessness","HTN",NA,2020-07-25,2020-07-26,"Brought dead"
+1931,"Uttara Kannada","101751",65,"Male","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-25,2020-07-26,2020-07-27,NA
+2040,"Uttara Kannada","112016",65,"Female","SARI","Breathlessness","DM",2020-07-28,2020-07-28,2020-07-28,NA
+2093,"Uttara Kannada","104260",78,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-28,2020-07-29,NA
+2130,"Uttara Kannada","117031",56,"Male","SARI","Breathlessness","COPD",2020-07-27,2020-07-27,2020-07-29,NA
+2211,"Uttara Kannada","117855",76,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-28,2020-07-29,2020-07-30,NA
+2215,"Uttara Kannada","120057",72,"Male","Contact under tracing","-","-",NA,2020-07-30,2020-07-30,"Brought dead"
+2295,"Uttara Kannada","126540",19,"Male","ILI","Fever","-",2020-07-28,2020-07-29,2020-07-31,NA
+2371,"Uttara Kannada","123422",87,"Male","SARI","Breathlessness","HTN, IHD",2020-07-29,2020-07-31,2020-08-01,NA
+2575,"Uttara Kannada","142599",70,"Male","Contact under tracing","-","-",NA,2020-08-01,2020-08-03,"Died at his residence"
+2796,"Uttara Kannada","71970",62,"Female","SARI","Fever & Breathlessness","DM, HTN",2020-07-31,2020-08-01,2020-08-06,NA
+3556,"Uttara Kannada","175418",75,"Male","SARI","Breathlessness","HTN",2020-08-07,2020-08-09,2020-08-13,NA
+3575,"Uttara Kannada","189074",80,"Male","ILI","-","-",2020-08-09,2020-08-10,2020-08-13,NA
+3701,"Uttara Kannada","215897",62,"Female","SARI","Breathlessness","DM, HTN",2020-08-13,2020-08-13,2020-08-14,NA
+3783,"Uttara Kannada","199206",44,"Female","Contact under tracing","-","CA",NA,2020-08-11,2020-08-15,"Brought dead"
+3832,"Uttara Kannada","72440",72,"Male","Contact under Tracing","-","-",NA,2020-08-16,2020-08-16,NA
+3865,"Uttara Kannada","135187",62,"Male","Contact under Tracing","-","HTN",NA,2020-08-16,2020-08-16,NA
+4052,"Uttara Kannada","238387",75,"Male","Contact under tracing","-","DM",NA,2020-08-16,2020-08-17,"Brought dead"
+4192,"Uttara Kannada","247414",32,"Male","SARI","Breathlessness","CLD",2020-08-17,2020-08-17,2020-08-18,NA
+4314,"Uttara Kannada","251544",78,"Male","ILI","-","HTN, COPD",2020-08-17,2020-08-17,2020-08-19,NA
+4323,"Uttara Kannada","127107",52,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-07-29,2020-08-04,2020-08-20,NA
+4419,"Uttara Kannada","262478",52,"Male","SARI","Breathlessness","DM, CKD",NA,2020-08-18,2020-08-20,"Brought dead"
+4420,"Uttara Kannada","262486",63,"Male","SARI","Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-20,NA
+4545,"Uttara Kannada","217781",62,"Male","SARI","-","DM, HTN, Pneumonia",2020-08-14,2020-08-20,2020-08-22,NA
+4616,"Uttara Kannada","196141",50,"Male","Contact under tracing","-","DM, CKD",2020-08-11,2020-08-21,2020-08-23,NA
+4806,"Uttara Kannada","293329",73,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD, COPD",2020-08-23,2020-08-23,2020-08-24,NA
+4949,"Uttara Kannada","295376",58,"Male","SARI","Breathlessness","DM, HTN",2020-08-23,2020-08-23,2020-08-25,NA
+4953,"Uttara Kannada","300223",96,"Female","Contact under tracing","-","HTN, CKD",NA,2020-08-24,2020-08-25,"Brought dead"
+4954,"Uttara Kannada","300690",52,"Male","SARI","Breathlessness","TB",2020-08-24,2020-08-24,2020-08-25,NA
+5085,"Uttara Kannada","306528",36,"Male","SARI","Breathlessness","COPD",2020-08-25,2020-08-25,2020-08-26,NA
+5182,"Uttara Kannada","281261",44,"Male","ILI","Breathlessness","-",2020-08-22,2020-08-25,2020-08-27,NA
+5222,"Uttara Kannada","314579",56,"Male","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-27,2020-08-27,NA
+5223,"Uttara Kannada","314585",99,"Male","SARI","Breathlessness","HTN",2020-08-24,2020-08-25,2020-08-27,NA
+5354,"Uttara Kannada","315633",75,"Male","ILI","Fever","DM, CLD",2020-08-26,2020-08-27,2020-08-28,NA
+5360,"Uttara Kannada","322496",63,"Female","SARI","Fever, Breathlessness","HTN",2020-08-24,2020-08-27,2020-08-28,NA
+5361,"Uttara Kannada","325476",44,"Male","Contact under tracing","-","-",NA,2020-08-26,2020-08-28,"Brought dead"
+5426,"Uttara Kannada","294857",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-19,2020-08-27,2020-08-29,NA
+5691,"Uttara Kannada","348380",35,"Male","Contact under tracing","Breathlessness","LIVER Failure",2020-08-29,2020-08-29,2020-08-31,NA
+5800,"Uttara Kannada","339717",70,"Male","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-31,2020-09-01,NA
+6048,"Uttara Kannada","376982",78,"Male","ILI","Breathlessness","DM, HTN, CKD",2020-09-02,2020-09-02,2020-09-03,NA
+6164,"Uttara Kannada","386919",68,"Male","Contact under tracing","-","ILI",2020-09-03,2020-09-03,2020-09-04,NA
+6385,"Uttara Kannada","402723",52,"Male","Contact under tracing","-","IHD",2020-09-03,2020-09-04,2020-09-06,NA
+6472,"Uttara Kannada","333200",48,"Male","Contact under tracing","-","HIV",2020-08-29,2020-09-06,2020-09-07,NA
+6486,"Uttara Kannada","361102",57,"Male","ILI","Breathlessness","HTN",2020-09-01,2020-09-06,2020-09-07,NA
+6507,"Uttara Kannada","392692",68,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-05,2020-09-06,2020-09-07,NA
+6575,"Uttara Kannada","330759",68,"Male","Contact under tracing","-","-",2020-08-29,2020-09-04,2020-09-08,NA
+6576,"Uttara Kannada","332341",65,"Male","Contact under tracing","-","-",2020-08-28,2020-08-31,2020-09-08,NA
+6599,"Uttara Kannada","361103",62,"Male","SARI","Breathlessness","-",2020-09-01,2020-09-06,2020-09-08,NA
+6628,"Uttara Kannada","385843",67,"Male","Contact under tracing","-","-",2020-09-04,2020-09-06,2020-09-08,NA
+6730,"Uttara Kannada","359225",78,"Male","SARI","Breathlessness","-",2020-09-01,2020-09-08,2020-09-09,NA
+6791,"Uttara Kannada","418985",72,"Female","Contact under tracing","Fever","HTN",NA,2020-09-07,2020-09-09,"Brought dead"
+6819,"Uttara Kannada","314588",48,"Male","SARI","Breathlessness","-",2020-08-27,2020-09-09,2020-09-10,NA
+6864,"Uttara Kannada","383078",59,"Male","SARI","Breathlessness","-",2020-09-04,2020-09-09,2020-09-10,NA
+6885,"Uttara Kannada","406622",47,"Female","SARI","Breathlessness","DM, HTN",2020-09-06,2020-09-09,2020-09-10,NA
+6891,"Uttara Kannada","411632",84,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-03,2020-09-06,2020-09-10,NA
+6909,"Uttara Kannada","425327",56,"Male","Contact under tracing","-","-",2020-09-08,2020-09-08,2020-09-10,NA
+6911,"Uttara Kannada","426198",42,"Male","Contact under tracing","-","-",NA,2020-09-08,2020-09-10,"Brought dead"
+6924,"Uttara Kannada","433948",64,"Male","Contact under tracing","Breathlessness","-",NA,2020-09-08,2020-09-10,"Brought dead"
+6931,"Uttara Kannada","436836",68,"Male","SARI","Breathlessness","HTN, COPD",2020-09-08,2020-09-10,2020-09-10,NA
+6933,"Uttara Kannada","156123",70,"Male","SARI","Breathlessness","-",2020-08-06,2020-08-13,2020-09-11,NA
+7043,"Uttara Kannada","433933",74,"Male","Contac t under tracing","Fever, Cough","IHD",NA,2020-09-09,2020-09-11,"Brought dead"
+7044,"Uttara Kannada","433958",83,"Female","SARI","Breathlessness","HTN, COPD, CVA",2020-09-05,2020-09-09,2020-09-11,NA
+7045,"Uttara Kannada","433969",72,"Female","SARI","Breathlessness","DM, HTN",2020-09-08,2020-09-10,2020-09-11,NA
+7149,"Uttara Kannada","444335",78,"Male","Contact under tracing","-","-",NA,2020-09-10,2020-09-12,"Brought dead"
+7153,"Uttara Kannada","454990",40,"Male","Contact under tracing","-","DM",2020-09-11,2020-09-11,2020-09-12,NA
+7260,"Uttara Kannada","466675",70,"Female","Contact under tracing","-","-",NA,2020-09-11,2020-09-13,"Brought dead"
+7288,"Uttara Kannada","385834",40,"Female","Contact under tracing","Breathlessness","DM",2020-09-04,2020-09-05,2020-09-14,NA
+7369,"Uttara Kannada","469845",78,"Male","Contact under tracing","Breathlessness","HTN",2020-09-12,2020-09-14,2020-09-14,NA
+7460,"Uttara Kannada","468833",59,"Male","SARI","Breathlessness","DM, HTN",2020-09-12,2020-09-12,2020-09-15,NA
+7464,"Uttara Kannada","470755",58,"Male","Contact under tracing","-","-",2020-09-11,2020-09-11,2020-09-15,NA
+7531,"Uttara Kannada","466664",36,"Male","SARI","Breathlessness","HTN",2020-09-08,2020-09-08,2020-09-16,NA
+7540,"Uttara Kannada","478859",73,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-09-13,2020-09-14,2020-09-16,NA
+7545,"Uttara Kannada","489682",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-14,2020-09-15,2020-09-16,NA
+7546,"Uttara Kannada","489701",62,"Male","SARI","Cough, Breathlessness","-",2020-09-14,2020-09-15,2020-09-16,NA
+7614,"Uttara Kannada","466677",86,"Male","Contact under tracing","-","-",NA,2020-09-16,2020-09-17,"Brought dead"
+7633,"Uttara Kannada","490241",30,"Male","Contact under tracing","Fever, Cough","-",NA,2020-09-16,2020-09-17,"Brought dead"
+7635,"Uttara Kannada","494825",19,"Male","Contact under tracing","-","-",NA,2020-09-15,2020-09-17,"Brought dead"
+7639,"Uttara Kannada","500915",42,"Male","SARI","Breathlessness","DM, HTN",2020-09-15,2020-09-15,2020-09-17,NA
+7796,"Uttara Kannada","489690",75,"Male","ILI","Fever, Cough","DM, HTN",2020-09-14,2020-09-17,2020-09-18,NA
+7863,"Uttara Kannada","445308",72,"Male","Contact under tracing","-","HTN, CA",NA,2020-09-17,2020-09-19,"Brought dead"
+7890,"Uttara Kannada","479531",70,"Female","Contact under tracing","Fever, Breathlessness","-",2020-09-13,2020-09-18,2020-09-19,NA
+7921,"Uttara Kannada","515418",52,"Male","Contact under tracing","Fever, Breathlessness","TB",2020-09-08,2020-09-18,2020-09-19,NA
+7923,"Uttara Kannada","516418",69,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-09-16,2020-09-18,2020-09-19,NA
+7924,"Uttara Kannada","516621",88,"Male","Contact under tracing","-","DM, HTN",2020-09-17,2020-09-17,2020-09-19,NA
+7930,"Uttara Kannada","523596",56,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-18,2020-09-18,2020-09-19,NA
+8003,"Uttara Kannada","499492",40,"Female","Contact under tracing","Breathlessness","DM",2020-09-14,2020-09-18,2020-09-20,NA
+8026,"Uttara Kannada","526068",84,"Male","Contact under tracing","Breathlessness","COPD",2020-09-17,2020-09-18,2020-09-20,NA
+8156,"Uttara Kannada","309286",26,"Male","SARI","Fever, Breathlessness","-",2020-08-26,2020-09-19,2020-09-22,NA
+8168,"Uttara Kannada","433984",71,"Female","Contact under tracing","-","CA",NA,2020-09-15,2020-09-22,"Brought dead"
+8195,"Uttara Kannada","481534",64,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-13,2020-09-19,2020-09-22,NA
+8229,"Uttara Kannada","526067",86,"Male","Contact under tracing","-","DM, HTN",2020-09-19,2020-09-22,2020-09-22,NA
+8230,"Uttara Kannada","526988",67,"Female","Contact under tracing","-","DM",2020-09-19,2020-09-19,2020-09-22,NA
+8235,"Uttara Kannada","549323",88,"Male","ILI","Fever, Cough","CVA",NA,2020-09-21,2020-09-22,"Died at his residence"
+8236,"Uttara Kannada","549326",74,"Male","ILI","Fever, Cough","HTN",NA,2020-09-21,2020-09-22,"Brought dead"
+8600,"Uttara Kannada","488186",65,"Male","Contact under tracing","Fever, Cough","CA",2020-09-26,2020-09-28,2020-09-28,NA
+8630,"Uttara Kannada","555649",46,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-21,2020-09-24,2020-09-28,NA
+9145,"Uttara Kannada","537994",57,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-09-20,2020-09-23,2020-10-03,NA
+9170,"Uttara Kannada","570051",55,"Male","Contact under tracing","-","DM, HTN",2020-09-25,2020-09-29,2020-10-03,NA
+9174,"Uttara Kannada","574016",54,"Male","Contact under tracing","-","CKD",NA,2020-09-27,2020-10-03,"Died at his residence"
+9198,"Uttara Kannada","604342",82,"Male","Contact under tracing","-","DM, HTN",NA,2020-09-29,2020-10-03,"Died at his residence"
+9480,"Uttara Kannada","484049",53,"Female","SARI","Breathlessness","CKD",2020-09-14,2020-09-21,2020-10-07,NA
+9516,"Uttara Kannada","589034",71,"Female","ILI","Fever, Cough","_",2020-09-26,2020-09-27,2020-10-07,NA
+9517,"Uttara Kannada","589035",58,"Female","SARI","Fever, Cough, Breathlessness","_",NA,2020-09-26,2020-10-07,"Brought dead"
+9530,"Uttara Kannada","612584",86,"Male","ILI","Fever, Cough","_",NA,2020-09-30,2020-10-07,"Brought dead"
+9539,"Uttara Kannada","631168",47,"Male","SARI","Breathlessness","CLD",2020-10-01,2020-10-01,2020-10-07,NA
+9562,"Uttara Kannada","652685",30,"Female","Contact under tracing","Fever, Cough, Breathlessness","_",2020-10-03,2020-10-04,2020-10-07,NA
+9571,"Uttara Kannada","663706",38,"Male","SARI","Breathlessness","-",2020-10-03,2020-10-03,2020-10-07,NA
+9609,"Uttara Kannada","531199",87,"Female","SARI","Fever, Cough","DM, HTN",2020-09-19,2020-09-25,2020-10-08,NA
+9613,"Uttara Kannada","562213",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-23,2020-09-23,2020-10-08,NA
+9762,"Uttara Kannada","662039",73,"Male","SARI","Breathlessness","DM, HTN",2020-10-05,2020-10-08,2020-10-09,NA
+9778,"Uttara Kannada","676418",70,"Male","SARI","Fever, Breathlessness","HTN",2020-10-05,2020-10-06,2020-10-09,NA
+9787,"Uttara Kannada","691691",58,"Male","ILI","Fever, Cough","HTN, COPD",2020-10-07,2020-10-07,2020-10-09,NA
+9837,"Uttara Kannada","606668",65,"Male","SARI","Fever, Cough","DM",2020-09-08,2020-10-03,2020-10-10,NA
+9850,"Uttara Kannada","624474",55,"Male","SARI","Fever, Cough","DM",2020-09-30,2020-10-05,2020-10-10,NA
+9972,"Uttara Kannada","709945",67,"Male","Contact under tracing","Breathlessness","DM",2020-09-09,2020-10-11,2020-10-11,NA
+9974,"Uttara Kannada","726660",47,"Male","Contact under tracing","-","-",NA,2020-10-10,2020-10-11,"Brought dead"
+9983,"Uttara Kannada","573346",51,"Female","SARI","Fever, Cough","-",2020-09-25,2020-09-30,2020-10-12,NA
+9989,"Uttara Kannada","613630",85,"Male","Contact under tracing","-","-",2020-09-28,2020-10-01,2020-10-12,NA
+10040,"Uttara Kannada","726986",70,"Male","SARI","Breathlessness","DM, HTN",2020-10-10,2020-10-11,2020-10-12,NA
+10070,"Uttara Kannada","649611",77,"Male","Contact under tracing","-","HTN",2020-10-04,2020-10-12,2020-10-13,NA
+10132,"Uttara Kannada","515455",63,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-19,2020-09-30,2020-10-14,NA
+10133,"Uttara Kannada","518703",54,"Male","SARI","Fever, Cough","HTN",2020-09-18,2020-09-28,2020-10-14,NA
+10134,"Uttara Kannada","529522",71,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-19,2020-09-25,2020-10-14,NA
+10214,"Uttara Kannada","610797",58,"Male","SARI","Fever, Breathlessness","-",2020-09-28,2020-09-29,2020-10-15,NA
+10290,"Uttara Kannada","751116",78,"Female","Contact under tracing","Breathlessness","DM",NA,2020-10-13,2020-10-15,"Brought dead"
+10297,"Uttara Kannada","608904",72,"Male","SARI","Breathlessness","DM",2020-09-29,2020-10-08,2020-10-16,NA
+10300,"Uttara Kannada","619073",84,"Male","SARI","Fever, Cough","DM, HTN",2020-09-30,2020-10-12,2020-10-16,NA
+10327,"Uttara Kannada","695471",70,"Male","Contact under tracing","-","HTN, IHD",2020-10-07,2020-10-14,2020-10-16,NA
+10351,"Uttara Kannada","730491",45,"Female","Contact under tracing","Fever, Cough","-",NA,2020-10-11,2020-10-16,"Brought dead"
+10370,"Uttara Kannada","593271",64,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-25,2020-09-29,2020-10-17,NA
+10396,"Uttara Kannada","694579",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-07,2020-10-14,2020-10-17,NA
+10399,"Uttara Kannada","699446",78,"Female","ILI","Fever, Cough","IHD",2020-10-06,2020-10-15,2020-10-17,NA
+10425,"Uttara Kannada","746957",48,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-13,2020-10-15,2020-10-17,NA
+10477,"Uttara Kannada","762654",61,"Male","SARI","Breathlessness","COPD",2020-10-14,2020-10-16,2020-10-18,NA
+10480,"Uttara Kannada","763868",78,"Male","SARI","Breathlessness","DM, IHD",2020-10-15,2020-10-15,2020-10-18,NA
+10612,"Uttara Kannada","779018",70,"Male","SARI","Breathlessness","COPD",NA,2020-10-17,2020-10-20,"Brought dead"
+10943,"Uttara Kannada","795879",59,"Male","SARI","Fever, Breathlessness","HTN",2020-10-17,2020-10-24,2020-10-26,NA
+10975,"Uttara Kannada","773388",75,"Male","Contact Under Tracing","-","DM, HTN, IHD",2020-10-20,2020-10-26,2020-10-27,NA
+10999,"Uttara Kannada","819410",58,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-10-22,2020-10-22,2020-10-27,NA
+11043,"Uttara Kannada","806223",80,"Male","SARI","Breathlessness","COPD",2020-10-23,2020-10-26,2020-10-28,NA
+11222,"Uttara Kannada","831526",48,"Female","SARI","Cough, Breathlessness","-",2020-10-29,2020-10-30,2020-11-02,NA
+11300,"Uttara Kannada","809614",56,"Male","ILI","Fever, Cough","DM",2020-10-22,2020-10-27,2020-11-05,NA
+11309,"Uttara Kannada","840866",70,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-11-02,2020-11-03,2020-11-05,NA
+11366,"Uttara Kannada","837648",75,"Male","ILI","Fever, Cough","DM, HTN",2020-10-30,2020-10-30,2020-11-07,NA
+11491,"Uttara Kannada","845342",80,"Male","SARI","Fever, Breathlessness","HTN",2020-11-06,2020-11-08,2020-11-13,NA
+11499,"Uttara Kannada","870470",58,"Male","ILI","Breathlessness","IHD",2020-11-12,2020-11-12,2020-11-13,NA
+11533,"Uttara Kannada","868146",68,"Male","SARI","Fever, Breathlessness","HTN, DM",2020-11-12,2020-11-15,2020-11-15,NA
+11547,"Uttara Kannada","873705",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-14,2020-11-15,2020-11-16,NA
+11565,"Uttara Kannada","875805",55,"Male","Contact under tracing","-","HTN",NA,2020-11-13,2020-11-17,"Brought dead"
+11574,"Uttara Kannada","861120",62,"Male","SARI","Fever, Breathlessness","HTN",2020-11-08,2020-11-18,2020-11-18,NA
+11685,"Uttara Kannada","883468",70,"Male","SARI","Breathlessness","DM, HTN",2020-11-15,2020-11-22,2020-11-23,NA
+11694,"Uttara Kannada","872459",86,"Female","ILI","Fever","-",2020-11-15,2020-11-18,2020-11-24,NA
+11702,"Uttara Kannada","886907",76,"Male","Contact under tracing","-","HTN",NA,2020-11-17,2020-11-24,"Brought dead"
+11741,"Uttara Kannada","877817",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD, CVD",2020-11-17,2020-11-26,2020-11-27,NA
+11773,"Uttara Kannada","896248",79,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-27,2020-11-29,2020-11-29,NA
+11786,"Uttara Kannada","896239",60,"Male","SARI","Breathlessness","CVD",NA,2020-11-24,2020-11-30,"Brought dead"
+11854,"Uttara Kannada","903668",77,"Male","SARI","Breathlessness","AKD",2020-12-03,2020-12-04,2020-12-05,NA
+11951,"Uttara Kannada","915452",54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-12,2020-12-13,2020-12-14,NA
+11960,"Uttara Kannada","911178",54,"Male","ILI","Breathlessness","DM, HTN",2020-12-09,2020-12-14,2020-12-15,NA
+12002,"Uttara Kannada","921682",45,"Male","SARI","Breathlessness","-",2020-12-18,2020-12-18,2020-12-19,NA
+12068,"Uttara Kannada","929505",60,"Male","SARI","Fever, Breathlessness","HTN",2020-12-22,2020-12-25,2020-12-28,NA
+12114,"Uttara Kannada","929691",69,"Male","SARI","Breathlessness","-",2020-12-23,2020-12-26,2021-01-05,NA
+12151,"Uttara Kannada","942141",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-01-10,2021-01-13,"Died at her residence"
+12443,"Uttara Kannada","987571",64,"Male","SARI","Breathlessness","HTN, DM",2021-03-20,2021-03-21,2021-03-22,NA
+12566,"Uttara Kannada","1007514",65,"Male","SARI","Fever, Breathlessness","Parkinson's disease",2021-03-29,2021-03-30,2021-03-31,NA
+12811,"Uttara Kannada","1067126",59,"Male","SARI","Fever, Breathlessness","-",2021-04-04,2021-04-08,2021-04-09,NA
+12848,"Uttara Kannada","1074702",47,"Male","SARI","Breathlessness","-",2021-04-08,2021-04-10,2021-04-10,NA
+13089,"Uttara Kannada","1053267",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-12,2021-04-12,2021-04-15,NA
+13096,"Uttara Kannada","1081441",70,"Male","SARI","Breathlessness","HTN",2021-04-14,2021-04-14,2021-04-15,NA
+13188,"Uttara Kannada","1130778",60,"Male","ILI","Fever","DM, HTN",2021-04-14,2021-04-15,2021-04-16,NA
+13269,"Uttara Kannada","1164724",74,"Female","SARI","Breathlessness","DM",2021-04-16,2021-04-16,2021-04-17,NA
+13344,"Uttara Kannada","1163251",66,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-12,2021-04-15,2021-04-18,NA
+13349,"Uttara Kannada","1180305",65,"Male","ILI","Fever","-",NA,2021-04-18,2021-04-18,"Brought dead"
+13488,"Uttara Kannada","1183280",59,"Male","ILI","Fever","-",2021-04-12,2021-04-16,2021-04-19,NA
+13749,"Uttara Kannada","1220594",80,"Female","ILI","Fever, Cough","DM",NA,2021-04-17,2021-04-21,"Brought dead"
+13883,"Uttara Kannada","1271613",50,"Male","SARI","Fever, Breathlessness","Epilepsy",2021-04-21,2021-04-21,2021-04-22,NA
+13884,"Uttara Kannada","1275129",54,"Male","SARI","Fever, Breathlessness","-",2021-04-17,2021-04-21,2021-04-22,NA
+14262,"Uttara Kannada","1277219",67,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-21,2021-04-22,2021-04-24,NA
+14278,"Uttara Kannada","1318360",76,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-23,2021-04-23,2021-04-24,NA
+14419,"Uttara Kannada","1325926",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-24,2021-04-25,NA
+14465,"Uttara Kannada","1146372",51,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-15,2021-04-25,2021-04-26,NA
+14622,"Uttara Kannada","1387784",45,"Female","SARI","Fever, Breathlessness","HTN",2021-04-25,2021-04-26,2021-04-26,NA
+14626,"Uttara Kannada","1400634",80,"Female","SARI","Fever, Breathlessness","HTN",2021-04-24,2021-04-26,2021-04-26,NA
+14689,"Uttara Kannada","1224258",65,"Female","SARI","Cough, breathlessness","HTN",2021-04-18,2021-04-25,2021-04-27,NA
+15231,"Uttara Kannada","1415153",87,"Male","SARI","Fever, breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-04-29,NA
+15280,"Uttara Kannada","1463978",70,"Male","SARI","Breathlessness","-",2021-04-27,2021-04-27,2021-04-29,NA
+15284,"Uttara Kannada","1466627",68,"Female","SARI","Cough, breathlessness","HTN",2021-04-27,2021-04-28,2021-04-29,NA
+15297,"Uttara Kannada","1484613",39,"Male","SARI","Fever, breathlessness","-",NA,2021-04-28,2021-04-29,"Brought dead"
+15397,"Uttara Kannada","1331984",26,"Male","SARI","Breathlessness","-",2021-04-23,2021-04-30,2021-04-30,NA
+15466,"Uttara Kannada","1454650",58,"Male","ILI","Fever, Cough","HTN",2021-04-28,2021-04-30,2021-04-30,NA
+15490,"Uttara Kannada","1497514",48,"Male","ILI","Fever, Cough","-",2021-04-28,2021-04-29,2021-04-30,NA
+15513,"Uttara Kannada","1535201",73,"Female","ILI","Fever, Cough","DM",2021-04-28,2021-04-30,2021-04-30,NA
+15516,"Uttara Kannada","1537906",70,"Male","SARI","Fever, Breathlessness","DM",2021-04-29,2021-04-30,2021-04-30,NA
+15642,"Uttara Kannada","1334919",85,"Female","ILI","Cough, Fever","DM, HTN",2021-04-24,2021-04-30,2021-05-01,NA
+15669,"Uttara Kannada","1373030",56,"Male","SARI","Breathlessness","-",2021-04-24,2021-04-30,2021-05-01,NA
+15676,"Uttara Kannada","1387798",70,"Male","ILI","Cough","DM, HTN",2021-04-25,2021-04-30,2021-05-01,NA
+15756,"Uttara Kannada","1518820",57,"Female","ILI","Fever","DM, HTN",2021-04-26,2021-04-27,2021-05-01,NA
+15790,"Uttara Kannada","1580422",55,"Male","SARI","Breathlessness","DM",NA,2021-04-29,2021-05-01,"Brought dead"
+15820,"Uttara Kannada","1224263",61,"Male","SARI","Fever, Breathlessness","DM",2021-04-23,2021-04-30,2021-05-02,NA
+15902,"Uttara Kannada","1412432",82,"Male","SARI","Breathlessness","HTN",2021-04-26,2021-04-29,2021-05-02,NA
+15914,"Uttara Kannada","1432529",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-01,2021-05-02,NA
+15957,"Uttara Kannada","1537908",54,"Male","SARI","Fever, Breathlessness","-",NA,2021-04-29,2021-05-02,"Brought dead"
+15959,"Uttara Kannada","1541726",68,"Female","ILI","Fever","DM, HTN",NA,2021-04-28,2021-05-02,"Brought dead"
+15984,"Uttara Kannada","1597797",79,"Female","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-01,2021-05-02,NA
+15992,"Uttara Kannada","1605673",85,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-29,2021-04-30,2021-05-02,NA
+16164,"Uttara Kannada","1494356",59,"Female","SARI","Breathlessness","HTN",2021-04-28,2021-05-03,2021-05-03,NA
+16367,"Uttara Kannada","1400633",67,"Male","SARI","Breathlessness","DM",2021-04-24,2021-05-03,2021-05-04,NA
+16442,"Uttara Kannada","1569222",45,"Female","SARI","Fever, Breathlessness","-",2021-04-30,2021-04-30,2021-05-04,NA
+16454,"Uttara Kannada","1587933",33,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-04,NA
+16467,"Uttara Kannada","1605570",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-02,2021-05-04,NA
+16490,"Uttara Kannada","1644761",82,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-02,2021-05-04,NA
+16509,"Uttara Kannada","1666633",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-02,2021-05-04,NA
+16510,"Uttara Kannada","1666647",65,"Male","SARI","Breathlessness","HTN",2021-05-02,2021-05-02,2021-05-04,NA
+16513,"Uttara Kannada","1673083",42,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16688,"Uttara Kannada","1389703",58,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-05-04,2021-05-05,NA
+16728,"Uttara Kannada","1487019",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-29,2021-05-04,2021-05-05,NA
+16741,"Uttara Kannada","1497532",69,"Male","ILI","Fever","HTN",2021-04-28,2021-04-29,2021-05-05,NA
+16777,"Uttara Kannada","1552836",72,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,NA,2021-05-05,"Brought dead"
+16787,"Uttara Kannada","1587872",62,"Female","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-05,2021-05-05,NA
+16797,"Uttara Kannada","1605590",61,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-04,2021-05-05,NA
+16819,"Uttara Kannada","1647715",73,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-02,2021-05-05,NA
+16829,"Uttara Kannada","1666643",60,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-05,2021-05-05,NA
+16830,"Uttara Kannada","1670117",55,"Female","ILI","Fever, Cough","HTN",NA,2021-05-03,2021-05-05,"Brought dead"
+16847,"Uttara Kannada","1706343",31,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-04,2021-05-05,NA
+16857,"Uttara Kannada","1719948",86,"Male","ILI","Fever, Cough","DM, HTN",2021-05-01,2021-05-01,2021-05-05,NA
+16862,"Uttara Kannada","1726533",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-03,2021-05-05,"Brought dead"
+16879,"Uttara Kannada","1773527",56,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-04,2021-05-05,NA
+16881,"Uttara Kannada","1777145",44,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-04,2021-05-05,NA
+16882,"Uttara Kannada","1777147",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-04,2021-05-05,NA
+17041,"Uttara Kannada","1514940",48,"Male","SARI","Fever, breathlessness","-",2021-04-27,2021-05-06,2021-05-06,NA
+17061,"Uttara Kannada","1535192",77,"Female","SARI","Fever, breathlessness","DM, HTN",2021-04-27,2021-05-05,2021-05-06,NA
+17096,"Uttara Kannada","1605663",70,"Female","ILI","Fever, cough, breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-06,NA
+17131,"Uttara Kannada","1644737",75,"Female","SARI","Fever, cough, breathlessness","-",2021-04-29,2021-05-04,2021-05-06,NA
+17170,"Uttara Kannada","1726528",50,"Female","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-05,2021-05-06,NA
+17173,"Uttara Kannada","1729734",70,"Male","SARI","Fever, breathlessness","-",2021-05-03,2021-05-05,2021-05-06,NA
+17631,"Uttara Kannada","1654989",45,"Male","ILI","Fever, cough","-",2021-05-01,2021-05-07,2021-05-07,NA
+17712,"Uttara Kannada","1735740",66,"Female","SARI","Fever, cough, breathlessness","-",2021-05-02,2021-05-02,2021-05-07,NA
+17713,"Uttara Kannada","1735757",85,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-07,NA
+17723,"Uttara Kannada","1748170",58,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-05-04,2021-05-04,2021-05-07,NA
+17743,"Uttara Kannada","1769638",33,"Male","SARI","Fever, breathlessness","DM",2021-05-04,2021-05-06,2021-05-07,NA
+17770,"Uttara Kannada","1808892",56,"Female","SARI","Fever, cough, breathlessness","-",2021-05-05,2021-05-05,2021-05-07,NA
+17772,"Uttara Kannada","1812495",74,"Female","ILI","Fever, cough","-",2021-04-29,2021-05-03,2021-05-07,NA
+17773,"Uttara Kannada","1812504",55,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-07,2021-05-07,NA
+17775,"Uttara Kannada","1816574",75,"Male","ILI","Fever, cough","DM, HTN",NA,2021-05-05,2021-05-07,"Brought dead"
+17789,"Uttara Kannada","1844179",65,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17790,"Uttara Kannada","1845060",48,"Female","SARI","Breathlessness","HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17796,"Uttara Kannada","1851304",43,"Male","SARI","Breathlessness","-",NA,2021-05-06,2021-05-07,"Brought dead"
+18084,"Uttara Kannada","1569764",60,"Male","SARI","Breathlessness","IHD",2021-04-30,2021-05-08,2021-05-08,NA
+18097,"Uttara Kannada","1591131",68,"Male","SARI","Fever, Cough, Breathlessness","Epilepsy",2021-04-30,2021-05-06,2021-05-08,NA
+18112,"Uttara Kannada","1612248",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-29,2021-05-08,NA
+18150,"Uttara Kannada","1673107",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-06,2021-05-08,NA
+18180,"Uttara Kannada","1735742",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-08,2021-05-08,NA
+18188,"Uttara Kannada","1747803",52,"Female","SARI","Breathlessness","CA",2021-05-02,2021-05-03,2021-05-08,NA
+18189,"Uttara Kannada","1747804",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-05,2021-05-08,NA
+18233,"Uttara Kannada","1830736",76,"Female","ILI","Fever","CRF",2021-04-29,2021-05-04,2021-05-08,NA
+18254,"Uttara Kannada","1862363",34,"Male","ILI","Fever","CLD",2021-05-06,2021-05-06,2021-05-08,NA
+18258,"Uttara Kannada","1866089",70,"Female","ILI","Fever, Cough","DM",2021-05-04,2021-05-05,2021-05-08,NA
+18279,"Uttara Kannada","1906196",58,"Female","SARI","Breathlessness","HTN, DM, IHD",NA,2021-05-07,2021-05-08,"Brought Dead"
+18397,"Uttara Kannada","1372985",73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-05-08,2021-05-09,NA
+18610,"Uttara Kannada","1720033",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-08,2021-05-09,NA
+18615,"Uttara Kannada","1726525",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-06,2021-05-09,"Brought dead"
+18639,"Uttara Kannada","1757924",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-05,2021-05-09,NA
+18685,"Uttara Kannada","1842667",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-07,2021-05-09,"Brought dead"
+18687,"Uttara Kannada","1846276",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18707,"Uttara Kannada","1866174",52,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-06,2021-05-09,"Brought dead"
+18750,"Uttara Kannada","1934990",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-09,NA
+18767,"Uttara Kannada","1950194",50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-09,NA
+19105,"Uttara Kannada","1600714",43,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-30,2021-05-09,2021-05-10,NA
+19137,"Uttara Kannada","1644739",45,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-10,NA
+19147,"Uttara Kannada","1655717",76,"Female","SARI","Fever, cough, Breathlessness","HTN, DM",2021-05-02,2021-05-09,2021-05-10,NA
+19148,"Uttara Kannada","1658398",70,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-03,2021-05-08,2021-05-10,NA
+19267,"Uttara Kannada","1840923",52,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-04,2021-05-09,2021-05-10,NA
+19284,"Uttara Kannada","1866062",56,"Female","SARI","Fever, cough, Breathlessness","HTN, DM , CKD",2021-05-07,2021-05-08,2021-05-10,NA
+19299,"Uttara Kannada","1888535",57,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-07,2021-05-09,2021-05-10,NA
+19304,"Uttara Kannada","1897009",66,"Male","SARI","Fever, cough, Breathlessness","HTN, DM",2021-05-07,2021-05-09,2021-05-10,NA
+19314,"Uttara Kannada","1912519",37,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-09,2021-05-10,NA
+19331,"Uttara Kannada","1934955",63,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-10,2021-05-10,NA
+19352,"Uttara Kannada","1978473",36,"Male","SARI","Fever, cough, Breathlessness","-",NA,2021-05-08,2021-05-10,"Brought Dead"
+19550,"Uttara Kannada","1438587",65,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-29,2021-05-09,2021-05-11,NA
+19551,"Uttara Kannada","1440936",91,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-04,2021-05-06,2021-05-11,NA
+19594,"Uttara Kannada","1686825",38,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-11,NA
+19598,"Uttara Kannada","1692415",75,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-02,2021-05-02,2021-05-11,NA
+19712,"Uttara Kannada","1830732",48,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-11,NA
+19735,"Uttara Kannada","1858631",65,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-05,2021-05-10,2021-05-11,NA
+19780,"Uttara Kannada","1909504",55,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-07,2021-05-11,2021-05-11,NA
+19784,"Uttara Kannada","1912513",82,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-07,2021-05-11,NA
+19790,"Uttara Kannada","1923067",55,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-11,NA
+19807,"Uttara Kannada","1954852",45,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-11,NA
+19808,"Uttara Kannada","1954873",69,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-11,NA
+19816,"Uttara Kannada","1964420",93,"Female","SARI","Fever, cough, Breathlessness","IHD",2021-05-07,2021-05-07,2021-05-11,NA
+19821,"Uttara Kannada","1974774",53,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-11,NA
+19823,"Uttara Kannada","1978359",50,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-06,2021-05-11,NA
+19826,"Uttara Kannada","1987819",65,"Female","ILI","Fever, Cough",NA,2021-05-08,2021-05-10,2021-05-11,NA
+19831,"Uttara Kannada","1994816",68,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-11,NA
+19833,"Uttara Kannada","1997208",50,"Male","SARI","Fever, cough, Breathlessness","-",NA,2021-05-09,2021-05-11,"Brought dead"
+19842,"Uttara Kannada","2025793",62,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-11,NA
+20045,"Uttara Kannada","1732616",80,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-09,2021-05-12,NA
+20059,"Uttara Kannada","1747762",66,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-03,2021-05-10,2021-05-12,NA
+20182,"Uttara Kannada","1862337",57,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-12,NA
+20234,"Uttara Kannada","1912508",70,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-10,2021-05-12,NA
+20249,"Uttara Kannada","1923066",53,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-12,NA
+20275,"Uttara Kannada","1954854",55,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-07,2021-05-11,2021-05-12,NA
+20334,"Uttara Kannada","2028453",54,"Female","ILI","Fever, Cough","-",2021-05-06,2021-05-09,2021-05-12,NA
+20340,"Uttara Kannada","2035858",65,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-12,NA
+20554,"Uttara Kannada","1816575",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-05,2021-05-12,2021-05-13,NA
+20583,"Uttara Kannada","1900012",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-12,2021-05-13,NA
+20613,"Uttara Kannada","1960779",46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-13,NA
+20621,"Uttara Kannada","1982090",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-13,NA
+20625,"Uttara Kannada","1994871",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-13,2021-05-13,NA
+20626,"Uttara Kannada","1994934",34,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20637,"Uttara Kannada","2006010",65,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-05-09,2021-05-10,2021-05-13,NA
+20646,"Uttara Kannada","2022911",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-13,NA
+20647,"Uttara Kannada","2022912",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-13,NA
+20655,"Uttara Kannada","2036392",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-13,NA
+20673,"Uttara Kannada","2053074",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-10,2021-05-13,NA
+20675,"Uttara Kannada","2056035",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-12,2021-05-13,NA
+20679,"Uttara Kannada","2058857",54,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-05-11,2021-05-12,2021-05-13,NA
+20681,"Uttara Kannada","2061771",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-09,2021-05-13,NA
+20855,"Uttara Kannada","1795286",55,"Male","ILI","Fever, Cough","-",2021-05-07,2021-05-13,2021-05-14,NA
+20967,"Uttara Kannada","2025791",62,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-13,2021-05-14,NA
+20979,"Uttara Kannada","2041866",60,"Male","ILI","Fever, Cough","DM, HTN",2021-05-08,2021-05-10,2021-05-14,NA
+20983,"Uttara Kannada","2044470",50,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-10,2021-05-14,2021-05-14,NA
+20986,"Uttara Kannada","2047280",41,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+21001,"Uttara Kannada","2061756",41,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-14,NA
+21011,"Uttara Kannada","2070412",47,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-14,NA
+21013,"Uttara Kannada","2071743",67,"Female","ILI","Fever, Cough","HTN",2021-05-10,2021-05-11,2021-05-14,NA
+21024,"Uttara Kannada","2095030",74,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-11,2021-05-11,2021-05-14,NA
+21025,"Uttara Kannada","2095041",70,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-14,2021-05-14,NA
+21031,"Uttara Kannada","2113704",70,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",NA,2021-05-12,2021-05-14,"Brought dead"
+21048,"Uttara Kannada","2131995",72,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",NA,2021-05-12,2021-05-14,"Brought dead"
+21052,"Uttara Kannada","2135464",80,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-14,NA
+21062,"Uttara Kannada","2144818",74,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-14,NA
+21081,"Uttara Kannada","2170155",70,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-13,2021-05-13,2021-05-14,NA
+21304,"Uttara Kannada","2025752",83,"Male","ILI","Fever, cough","HTN",NA,2021-05-13,2021-05-15,"Brought dead"
+21356,"Uttara Kannada","2094972",77,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-15,NA
+21360,"Uttara Kannada","2101663",60,"Male","ILI","Fever","CLD",2021-05-10,2021-05-14,2021-05-15,NA
+21405,"Uttara Kannada","2164362",72,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-15,NA
+21571,"Uttara Kannada","1720001",44,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-01,2021-05-10,2021-05-16,NA
+21613,"Uttara Kannada","1874091",65,"Male","ILI","Fever, cough","DM, HTN",2021-05-05,2021-05-09,2021-05-16,NA
+21641,"Uttara Kannada","1944415",32,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-14,2021-05-16,NA
+21646,"Uttara Kannada","1949358",45,"Male","ILI","Fever, cough","DM",2021-05-09,2021-05-13,2021-05-16,NA
+21654,"Uttara Kannada","1960774",88,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-06,2021-05-10,2021-05-16,NA
+21656,"Uttara Kannada","1964437",21,"Female","ILI","Fever, cough","Epilepsy",2021-05-09,2021-05-10,2021-05-16,NA
+21669,"Uttara Kannada","1994851",67,"Male","ILI","Fever, cough","DM, HTN",2021-05-03,2021-05-08,2021-05-16,NA
+21670,"Uttara Kannada","1995788",42,"Female","SARI","Fever, cough, Breathlessness","-",NA,2021-05-14,2021-05-16,"Brought dead"
+21682,"Uttara Kannada","2014830",74,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-11,2021-05-14,2021-05-16,NA
+21688,"Uttara Kannada","2028457",40,"Male","ILI","Fever, cough","-",NA,2021-05-14,2021-05-16,"Brought dead"
+21713,"Uttara Kannada","2056034",69,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-06,2021-05-12,2021-05-16,NA
+21718,"Uttara Kannada","2061753",40,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-16,NA
+21719,"Uttara Kannada","2061827",58,"Female","ILI","Fever, cough","DM, HTN",NA,2021-05-14,2021-05-16,"Brought dead"
+21746,"Uttara Kannada","2099012",56,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-14,2021-05-16,NA
+21748,"Uttara Kannada","2101584",58,"Female","SARI","Fever, cough, Breathlessness","-",NA,2021-05-10,2021-05-16,"Brought dead"
+21749,"Uttara Kannada","2101629",50,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-16,NA
+21763,"Uttara Kannada","2120375",70,"Female","SARI","Fever, cough, Breathlessness","DM, HTN, IHD",2021-05-11,2021-05-11,2021-05-16,NA
+21767,"Uttara Kannada","2128530",68,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-16,NA
+21770,"Uttara Kannada","2131979",65,"Male","ILI","Fever, cough","-",2021-05-11,2021-05-13,2021-05-16,NA
+21776,"Uttara Kannada","2149568",65,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-16,NA
+21778,"Uttara Kannada","2151366",80,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",NA,2021-05-14,2021-05-16,"Brought dead"
+21784,"Uttara Kannada","2155114",65,"Male","SARI","Fever, cough, Breathlessness","COPD",NA,2021-05-12,2021-05-16,"Brought dead"
+21785,"Uttara Kannada","2155715",72,"Male","ILI","Fever, cough","DM, HTN, CVA",NA,2021-05-13,2021-05-16,"Brought dead"
+21808,"Uttara Kannada","2187809",37,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-16,NA
+22175,"Uttara Kannada","2114910",46,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-14,2021-05-17,NA
+22198,"Uttara Kannada","2144820",65,"Male","ILI","Fever, Cough","DM, HTN",2021-05-10,2021-05-11,2021-05-17,NA
+22239,"Uttara Kannada","2199360",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-14,2021-05-17,NA
+22242,"Uttara Kannada","2203693",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-15,2021-05-17,"Brought dead"
+22261,"Uttara Kannada","2226192",62,"Female","ILI","Fever, Cough","-",NA,2021-05-15,2021-05-17,"Brought dead"
+22265,"Uttara Kannada","2233399",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-17,NA
+22272,"Uttara Kannada","2240799",36,"Male","ILI","Fever, Cough","-",2021-05-15,2021-05-15,2021-05-17,NA
+22275,"Uttara Kannada","2243222",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-15,2021-05-17,NA
+22276,"Uttara Kannada","2243226",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-14,2021-05-17,NA
+22280,"Uttara Kannada","2245307",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-13,2021-05-17,"Brought dead"
+22281,"Uttara Kannada","2245311",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-17,NA
+22282,"Uttara Kannada","2245377",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-15,2021-05-17,"Brought dead"
+22295,"Uttara Kannada","2259156",34,"Female","ILI","Fever, Cough","-",2021-05-15,2021-05-16,2021-05-17,NA
+22296,"Uttara Kannada","2259270",34,"Female","ILI","Fever, Cough","DM, HTN",2021-05-15,2021-05-15,2021-05-17,NA
+22297,"Uttara Kannada","2259437",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-15,2021-05-17,"Brought dead"
+22504,"Uttara Kannada","1673106",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-17,2021-05-18,NA
+22538,"Uttara Kannada","1746021",57,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-15,2021-05-18,NA
+22543,"Uttara Kannada","1766164",70,"Male","ILI","Fever, Cough","-",2021-05-03,2021-05-16,2021-05-18,NA
+22551,"Uttara Kannada","1795341",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-17,2021-05-18,NA
+22567,"Uttara Kannada","1869678",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-06,2021-05-16,2021-05-18,NA
+22578,"Uttara Kannada","1897000",42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-17,2021-05-18,NA
+22590,"Uttara Kannada","1919138",50,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-05-07,2021-05-11,2021-05-18,NA
+22601,"Uttara Kannada","1954848",60,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-16,2021-05-18,NA
+22603,"Uttara Kannada","1958017",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-17,2021-05-18,NA
+22608,"Uttara Kannada","1964311",75,"Male","ILI","Fever, Cough","HTN",2021-05-09,2021-05-16,2021-05-18,NA
+22616,"Uttara Kannada","1994856",50,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-05-08,2021-05-12,2021-05-18,NA
+22652,"Uttara Kannada","2047341",64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-15,2021-05-18,NA
+22664,"Uttara Kannada","2064185",48,"Female","ILI","Fever, Cough","-",2021-05-14,2021-05-16,2021-05-18,NA
+22681,"Uttara Kannada","2095028",74,"Male","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-12,2021-05-18,"Died at his residence"
+22737,"Uttara Kannada","2164394",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-18,NA
+22770,"Uttara Kannada","2206688",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-14,2021-05-18,NA
+22780,"Uttara Kannada","2223580",65,"Male","ILI","Fever, Cough","DM, HTN",NA,2021-05-18,2021-05-18,"Brought dead"
+22797,"Uttara Kannada","2243307",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-14,2021-05-18,NA
+22798,"Uttara Kannada","2243310",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-18,NA
+22808,"Uttara Kannada","2259322",56,"Male","SARI","Fever, Cough, Breathlessness","CHD",NA,2021-05-16,2021-05-18,"Brought dead"
+22809,"Uttara Kannada","2259363",85,"Female","ILI","Fever, Cough","DM, HTN",2021-05-16,2021-05-18,2021-05-18,NA
+22819,"Uttara Kannada","2275873",47,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-18,2021-05-18,NA
+23019,"Uttara Kannada","1862284",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-15,2021-05-19,NA
+23023,"Uttara Kannada","1866088",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-19,NA
+23067,"Uttara Kannada","1970650",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-16,2021-05-19,NA
+23071,"Uttara Kannada","1995616",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-16,2021-05-19,NA
+23169,"Uttara Kannada","2149539",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-16,2021-05-19,NA
+23202,"Uttara Kannada","2180448",85,"Female","ILI","Fever, Cough","HTN",NA,2021-05-13,2021-05-19,"Died at her residence"
+23230,"Uttara Kannada","2218754",40,"Male","ILI","Fever, Cough","-",2021-05-14,2021-05-14,2021-05-19,NA
+23248,"Uttara Kannada","2243323",76,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-15,2021-05-16,2021-05-19,NA
+23257,"Uttara Kannada","2259309",70,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-05-15,2021-05-18,2021-05-19,NA
+23258,"Uttara Kannada","2259373",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-14,2021-05-19,"Brought dead"
+23266,"Uttara Kannada","2267421",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-18,2021-05-19,NA
+23268,"Uttara Kannada","2271468",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-16,2021-05-19,NA
+23274,"Uttara Kannada","2278272",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-16,2021-05-19,"Died at his residence"
+23292,"Uttara Kannada","2306761",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-19,2021-05-19,NA
+23778,"Uttara Kannada","2259304",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-19,2021-05-20,NA
+23802,"Uttara Kannada","2295616",70,"Male","SARI","Fever, Cough, Breathlessness","Epilepsy",2021-05-09,2021-05-17,2021-05-20,NA
+23955,"Uttara Kannada","1978384",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-18,2021-05-21,NA
+23975,"Uttara Kannada","2034777",46,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-18,2021-05-21,NA
+24000,"Uttara Kannada","2084802",70,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-12,2021-05-20,2021-05-21,NA
+24050,"Uttara Kannada","2167176",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-21,NA
+24058,"Uttara Kannada","2183038",75,"Female","ILI","Fever, Cough","-",2021-05-17,2021-05-20,2021-05-21,NA
+24074,"Uttara Kannada","2206700",70,"Female","ILI","Fever","DM",NA,2021-05-19,2021-05-21,"Died at her residence"
+24082,"Uttara Kannada","2223577",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-19,2021-05-21,"Died at his residence"
+24093,"Uttara Kannada","2240833",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-20,2021-05-21,NA
+24098,"Uttara Kannada","2243326",40,"Male","ILI","Fever, Cough","DM, HTN",2021-05-13,2021-05-18,2021-05-21,NA
+24112,"Uttara Kannada","2259439",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-21,NA
+24121,"Uttara Kannada","2275846",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-19,2021-05-21,NA
+24134,"Uttara Kannada","2296231",40,"Female","ILI","Fever, Cough","-",2021-05-11,2021-05-14,2021-05-21,NA
+24150,"Uttara Kannada","2316800",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-17,2021-05-21,NA
+24151,"Uttara Kannada","2316806",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-05-21,NA
+24165,"Uttara Kannada","2327462",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24168,"Uttara Kannada","2331820",75,"Male","ILI","Fever, Cough","-",NA,2021-05-19,2021-05-21,"Died at his residence"
+24170,"Uttara Kannada","2334085",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-21,NA
+24179,"Uttara Kannada","2347532",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24190,"Uttara Kannada","2361421",55,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-19,2021-05-21,NA
+24192,"Uttara Kannada","2363521",68,"Male","ILI","Fever, Cough","COPD",2021-05-18,2021-05-18,2021-05-21,NA
+24193,"Uttara Kannada","2363523",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-19,2021-05-21,"Brought dead"
+24194,"Uttara Kannada","2368660",45,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-19,2021-05-21,"Brought dead"
+24433,"Uttara Kannada","1858597",54,"Male","ILI","Fever, Cough",NA,2021-05-05,2021-05-21,2021-05-22,NA
+24475,"Uttara Kannada","2047232",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-20,2021-05-22,NA
+24484,"Uttara Kannada","2076727",75,"Female","ILI","Fever, Cough","DM, HTN",2021-05-13,2021-05-20,2021-05-22,NA
+24505,"Uttara Kannada","2155171",35,"Male","ILI","Fever, Cough","-",NA,2021-05-19,2021-05-22,"Died at his residence"
+24550,"Uttara Kannada","2266439",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-15,2021-05-20,2021-05-22,NA
+24554,"Uttara Kannada","2273363",38,"Male","ILI","Fever, Cough",NA,2021-05-17,2021-05-21,2021-05-22,NA
+24557,"Uttara Kannada","2275829",63,"Male","ILI","Fever, Cough","DM,  HTN, CKD",2021-05-16,2021-05-20,2021-05-22,NA
+24562,"Uttara Kannada","2282866",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-21,2021-05-22,NA
+24584,"Uttara Kannada","2328904",42,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-21,2021-05-22,"Died at his residence"
+24590,"Uttara Kannada","2334111",70,"Male","ILI","Fever, Cough","DM,  HTN, IHD",2021-05-15,2021-05-21,2021-05-22,NA
+24616,"Uttara Kannada","2363446",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-22,NA
+24619,"Uttara Kannada","2365906",63,"Female","ILI","Fever, Cough","-",NA,2021-05-20,2021-05-22,"Died at her residence"
+24623,"Uttara Kannada","2368634",62,"Male","ILI","Fever, Cough","DM, HTN, IHD",NA,2021-05-17,2021-05-22,"Died at his residence"
+24630,"Uttara Kannada","2392747",43,"Female","SARI","Fever, Cough","-",2021-05-19,2021-05-20,2021-05-22,NA
+24636,"Uttara Kannada","2402413",64,"Male","ILI","Fever, Cough","DM",2021-05-15,2021-05-21,2021-05-22,NA
+24637,"Uttara Kannada","2402462",42,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-21,2021-05-22,NA
+24645,"Uttara Kannada","2411973",52,"Male","ILI","Fever, Cough","IHD",2021-05-19,2021-05-21,2021-05-22,NA
+24651,"Uttara Kannada","2425831",55,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-20,2021-05-22,NA
+24652,"Uttara Kannada","2425841",75,"Male","ILI","Fever, Cough","DM,  HTN, IHD",2021-05-20,2021-05-21,2021-05-22,NA
+24655,"Uttara Kannada","2431825",30,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-21,2021-05-22,"Brought dead"
+24884,"Uttara Kannada","1882433",33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-21,2021-05-23,NA
+24954,"Uttara Kannada","2035705",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-19,2021-05-23,NA
+24975,"Uttara Kannada","2054991",27,"Male","SARI","Fever, Cough, Breathlessness","CLD",2021-05-21,2021-05-21,2021-05-23,NA
+25036,"Uttara Kannada","2142559",31,"Male","ILI","Fever, Cough","CKD",2021-05-14,2021-05-22,2021-05-23,NA
+25052,"Uttara Kannada","2164390",53,"Male","ILI","Fever, Cough","DM, HTN",2021-05-11,2021-05-21,2021-05-23,NA
+25097,"Uttara Kannada","2243303",60,"Male","ILI","Fever, Cough","CA",2021-05-15,2021-05-22,2021-05-23,NA
+25113,"Uttara Kannada","2259207",33,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-22,2021-05-23,NA
+25190,"Uttara Kannada","2358508",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-22,2021-05-23,NA
+25198,"Uttara Kannada","2363541",55,"Male","ILI","Fever, Cough","HTN, CKD",2021-05-19,2021-05-22,2021-05-23,NA
+25208,"Uttara Kannada","2368657",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-21,2021-05-23,NA
+25212,"Uttara Kannada","2370913",43,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-22,2021-05-23,NA
+25217,"Uttara Kannada","2378136",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-21,2021-05-23,NA
+25251,"Uttara Kannada","2412025",73,"Female","SARI","Fever, Cough, Breathlessness","IHD",2021-05-17,2021-05-19,2021-05-23,NA
+25267,"Uttara Kannada","2431848",44,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-21,2021-05-22,2021-05-23,NA
+25270,"Uttara Kannada","2437466",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25273,"Uttara Kannada","2441848",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-22,2021-05-23,NA
+25277,"Uttara Kannada","2451023",48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-21,2021-05-23,NA
+25581,"Uttara Kannada","2170159",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-22,2021-05-24,NA
+25707,"Uttara Kannada","2363478",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-23,2021-05-24,NA
+25740,"Uttara Kannada","2407458",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-23,2021-05-24,NA
+25761,"Uttara Kannada","2429100",82,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-19,2021-05-22,2021-05-24,NA
+25768,"Uttara Kannada","2434004",70,"Female","SARI","Fever, Cough, Breathlessness","COPD",NA,2021-05-22,2021-05-24,"Died at her residence"
+25785,"Uttara Kannada","2449969",88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-19,2021-05-23,2021-05-24,NA
+26109,"Uttara Kannada","2032234",64,"Female","ILI","Fever, Cough","-",2021-05-09,2021-05-24,2021-05-25,NA
+26154,"Uttara Kannada","2124978",34,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-24,2021-05-25,NA
+26283,"Uttara Kannada","2368649",72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-23,2021-05-25,NA
+26310,"Uttara Kannada","2396316",79,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-23,2021-05-25,NA
+26313,"Uttara Kannada","2399525",56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-25,NA
+26314,"Uttara Kannada","2399589",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-22,2021-05-25,NA
+26317,"Uttara Kannada","2402408",75,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-24,2021-05-25,NA
+26332,"Uttara Kannada","2415901",82,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-05-23,2021-05-25,"Died at his residence"
+26342,"Uttara Kannada","2427537",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-24,2021-05-25,NA
+26372,"Uttara Kannada","2476265",80,"Male","ILI","Fever, Cough","DM, HTN",2021-05-22,2021-05-24,2021-05-25,NA
+26382,"Uttara Kannada","2482416",63,"Male","ILI","Fever, Cough","DM, HTN",2021-05-23,2021-05-23,2021-05-25,NA
+26383,"Uttara Kannada","2486130",83,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-22,2021-05-22,2021-05-25,NA
+26392,"Uttara Kannada","2497415",66,"Male","ILI","Fever, Cough","-",2021-05-23,2021-05-23,2021-05-25,NA
+26395,"Uttara Kannada","2500541",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-23,2021-05-25,NA
+26402,"Uttara Kannada","2509410",55,"Male","ILI","Fever, Cough","-",2021-05-24,2021-05-24,2021-05-25,NA
+26767,"Uttara Kannada","2278220",63,"Male","ILI","Fever, Cough","-",NA,2021-05-24,2021-05-26,"Died at his residence"
+26803,"Uttara Kannada","2352629",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-24,2021-05-26,NA
+26810,"Uttara Kannada","2363445",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-22,2021-05-25,2021-05-26,NA
+26818,"Uttara Kannada","2373288",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-26,NA
+26829,"Uttara Kannada","2396318",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-26,NA
+26855,"Uttara Kannada","2431846",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+26884,"Uttara Kannada","2478066",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-05-26,NA
+26889,"Uttara Kannada","2482415",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-05-26,NA
+26910,"Uttara Kannada","2507241",81,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-16,2021-05-22,2021-05-26,NA
+26925,"Uttara Kannada","2525372",42,"Female","ILI","Fever, Cough","-",2021-05-24,2021-05-25,2021-05-26,NA
+27094,"Uttara Kannada","2041878",48,"Male","SARI","Fever, cough, breathlessness","CRF",2021-05-10,2021-05-26,2021-05-27,NA
+27104,"Uttara Kannada","2064204",49,"Female","SARI","Fever, cough, breathlessness","-",2021-05-11,2021-05-25,2021-05-27,NA
+27168,"Uttara Kannada","2206796",45,"Female","SARI","Fever, cough, breathlessness","-",2021-05-25,2021-05-25,2021-05-27,NA
+27321,"Uttara Kannada","2431849",52,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-22,2021-05-25,2021-05-27,NA
+27332,"Uttara Kannada","2441800",52,"Male","ILI","Fever, cough","HTN",2021-05-19,2021-05-26,2021-05-27,NA
+27359,"Uttara Kannada","2476248",72,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-21,2021-05-25,2021-05-27,NA
+27368,"Uttara Kannada","2487978",65,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-21,2021-05-26,2021-05-27,NA
+27369,"Uttara Kannada","2488021",36,"Male","ILI","Fever, cough","-",2021-05-22,2021-05-25,2021-05-27,NA
+27380,"Uttara Kannada","2507192",35,"Female","SARI","Fever, cough, breathlessness","-",2021-05-21,2021-05-22,2021-05-27,NA
+27396,"Uttara Kannada","2531349",60,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-24,2021-05-25,2021-05-27,NA
+27397,"Uttara Kannada","2531467",63,"Male","SARI","Fever, cough, breathlessness","-",2021-05-25,2021-05-25,2021-05-27,NA
+27400,"Uttara Kannada","2537179",75,"Female","SARI","Fever, cough, breathlessness","-",2021-05-25,2021-05-25,2021-05-27,NA
+27404,"Uttara Kannada","2548080",55,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-21,2021-05-25,2021-05-27,NA
+27501,"Uttara Kannada","2125064",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-26,2021-05-28,NA
+27664,"Uttara Kannada","2368632",52,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-23,2021-05-27,2021-05-28,NA
+27669,"Uttara Kannada","2378119",70,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-18,2021-05-26,2021-05-28,NA
+27670,"Uttara Kannada","2378123",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-26,2021-05-28,NA
+27715,"Uttara Kannada","2470500",52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-23,2021-05-26,2021-05-28,NA
+27725,"Uttara Kannada","2479396",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-27,2021-05-28,NA
+27743,"Uttara Kannada","2505661",87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-26,2021-05-28,NA
+27754,"Uttara Kannada","2522136",40,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-26,2021-05-27,2021-05-28,NA
+27777,"Uttara Kannada","2549614",82,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-25,2021-05-26,2021-05-28,NA
+27779,"Uttara Kannada","2550826",47,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-26,2021-05-26,2021-05-28,NA
+27799,"Uttara Kannada","2571101",82,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-27,2021-05-28,NA
+28070,"Uttara Kannada","2355817",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-27,2021-05-29,NA
+28103,"Uttara Kannada","2382170",68,"Female","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-23,2021-05-29,NA
+28107,"Uttara Kannada","2392745",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-27,2021-05-29,NA
+28130,"Uttara Kannada","2421663",56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-28,2021-05-29,NA
+28134,"Uttara Kannada","2425833",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-27,2021-05-29,NA
+28179,"Uttara Kannada","2476244",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-27,2021-05-29,NA
+28185,"Uttara Kannada","2482422",56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-27,2021-05-29,NA
+28205,"Uttara Kannada","2501292",79,"Male","ILI","Fever, Cough","CVA",NA,2021-05-28,2021-05-29,NA
+28210,"Uttara Kannada","2504149",64,"Male","ILI","Fever, Cough","HTN",2021-05-23,2021-05-28,2021-05-29,NA
+28252,"Uttara Kannada","2538889",60,"Female","ILI","Fever, Cough","-",2021-05-24,2021-05-27,2021-05-29,NA
+28267,"Uttara Kannada","2558102",65,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-25,2021-05-29,"Brought dead"
+28269,"Uttara Kannada","2563418",58,"Female","SARI","Fever, Cough, Breathlessness",NA,2021-05-26,2021-05-26,2021-05-29,NA
+28275,"Uttara Kannada","2569202",67,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-26,2021-05-29,"Brought dead"
+28285,"Uttara Kannada","2584954",79,"Male","ILI","Fever, Cough","DM, HTN",2021-05-27,2021-05-28,2021-05-29,NA
+28291,"Uttara Kannada","2598972",60,"Female","ILI","Fever, Cough","IHD",NA,2021-05-28,2021-05-29,"Brought dead"
+28551,"Uttara Kannada","2414358",52,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-29,2021-05-30,NA
+28558,"Uttara Kannada","2418825",62,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-28,2021-05-30,NA
+28575,"Uttara Kannada","2439834",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-28,2021-05-30,NA
+28617,"Uttara Kannada","2512599",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28629,"Uttara Kannada","2533276",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-29,2021-05-30,NA
+28630,"Uttara Kannada","2535500",75,"Male","ILI","Fever, Cough","HTN",2021-05-25,2021-05-29,2021-05-30,NA
+28653,"Uttara Kannada","2581302",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-29,2021-05-30,NA
+28932,"Uttara Kannada","2363538",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-05-30,2021-05-31,NA
+28936,"Uttara Kannada","2590067",51,"Male","ILI","Fever, Cough","DM",NA,2021-05-27,2021-05-31,"Died at his residence"
+28953,"Uttara Kannada","2425838",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-29,2021-05-31,NA
+28981,"Uttara Kannada","2484227",62,"Male","ILI","Fever, Cough","-",2021-05-26,2021-05-30,2021-05-31,NA
+29001,"Uttara Kannada","2518971",57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-05-31,NA
+29004,"Uttara Kannada","2522066",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-30,2021-05-31,NA
+29039,"Uttara Kannada","2575754",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-31,NA
+29070,"Uttara Kannada","2614976",66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-31,NA
+29084,"Uttara Kannada","2634702",76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-05-30,2021-05-31,NA
+29089,"Uttara Kannada","2640373",53,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-30,2021-05-31,NA
+29391,"Uttara Kannada","2378134",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-20,2021-05-31,2021-06-01,NA
+29414,"Uttara Kannada","2427557",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-05-31,2021-06-01,NA
+29430,"Uttara Kannada","2468925",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-31,2021-06-01,NA
+29467,"Uttara Kannada","2522061",60,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-30,2021-06-01,"Died at her residence"
+29512,"Uttara Kannada","2577497",69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-06-01,NA
+29523,"Uttara Kannada","2602777",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-31,2021-06-01,NA
+29529,"Uttara Kannada","2610130",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-31,2021-06-01,NA
+29535,"Uttara Kannada","2628685",74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-31,2021-06-01,NA
+29875,"Uttara Kannada","2478058",54,"Male","ILI","Fever, Cough","-",2021-05-21,2021-06-01,2021-06-02,NA
+29890,"Uttara Kannada","2496469",83,"Male","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-31,2021-06-02,NA
+29901,"Uttara Kannada","2515725",70,"Male","ILI","Cough","-",2021-05-24,2021-05-31,2021-06-02,NA
+29908,"Uttara Kannada","2523813",79,"Male","ILI","Cough","HTN",2021-05-12,2021-05-31,2021-06-02,NA
+29925,"Uttara Kannada","2558088",83,"Female","ILI","Fever, Cough","DM",NA,2021-06-01,2021-06-02,NA
+29976,"Uttara Kannada","2634376",60,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-05-31,2021-06-02,NA
+29978,"Uttara Kannada","2635016",50,"Female","ILI","Cough","-",2021-05-26,2021-06-01,2021-06-02,NA
+29981,"Uttara Kannada","2635620",65,"Female","ILI","Cough","HTN",2021-05-28,2021-06-01,2021-06-02,NA
+29991,"Uttara Kannada","2650663",75,"Male","ILI","Fever","-",NA,2021-05-31,2021-06-02,"Died at his residence"
+30374,"Uttara Kannada","2512592",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-02,2021-06-03,NA
+30425,"Uttara Kannada","2574255",48,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-27,2021-06-02,2021-06-03,NA
+30440,"Uttara Kannada","2595511",64,"Male","ILI","Fever, Cough","DM, HTN",2021-05-31,2021-05-31,2021-06-03,NA
+30442,"Uttara Kannada","2597267",68,"Male","ILI","Fever, Cough","DM",2021-05-31,2021-06-01,2021-06-03,NA
+30454,"Uttara Kannada","2611064",37,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-29,2021-06-02,2021-06-03,NA
+30468,"Uttara Kannada","2631231",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-30,2021-06-03,NA
+30476,"Uttara Kannada","2642563",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-29,2021-06-03,NA
+30500,"Uttara Kannada","2660789",65,"Female","ILI","Fever, Cough","-",2021-05-28,2021-06-01,2021-06-03,NA
+30501,"Uttara Kannada","2660799",83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-02,2021-06-03,NA
+30516,"Uttara Kannada","2676231",68,"Female","ILI","Fever, Cough","HTN",2021-05-31,2021-06-01,2021-06-03,NA
+30525,"Uttara Kannada","2683467",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-03,NA
+30737,"Uttara Kannada","2444017",82,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-02,2021-06-04,NA
+30762,"Uttara Kannada","2512600",25,"Male","ILI","Fever, cough","-",2021-05-28,2021-06-02,2021-06-04,NA
+30807,"Uttara Kannada","2582901",74,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-02,2021-06-04,NA
+30815,"Uttara Kannada","2598974",57,"Female","ILI","Fever, cough","-",2021-05-31,2021-06-02,2021-06-04,NA
+30818,"Uttara Kannada","2602706",45,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-05-25,2021-06-03,2021-06-04,NA
+30819,"Uttara Kannada","2602735",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-04,NA
+30845,"Uttara Kannada","2647510",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-03,2021-06-04,NA
+30877,"Uttara Kannada","2683494",82,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-06-03,2021-06-04,NA
+30889,"Uttara Kannada","2695725",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-06-02,2021-06-04,NA
+31112,"Uttara Kannada","2478069",74,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-04,2021-06-05,NA
+31138,"Uttara Kannada","2522141",50,"Male","ILI","Fever, Cough","DM, HTN",NA,2021-06-04,2021-06-05,"Died at his residence"
+31205,"Uttara Kannada","2654974",82,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-06-02,2021-06-05,NA
+31214,"Uttara Kannada","2662885",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-04,2021-06-05,NA
+31215,"Uttara Kannada","2663334",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-05,NA
+31242,"Uttara Kannada","2694838",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-03,2021-06-04,2021-06-05,NA
+31457,"Uttara Kannada","2476184",72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-06,2021-06-06,NA
+31459,"Uttara Kannada","2488036",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-05,2021-06-06,NA
+31491,"Uttara Kannada","2590580",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-05,2021-06-06,NA
+31505,"Uttara Kannada","2622791",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-05,2021-06-06,NA
+31533,"Uttara Kannada","2680314",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-05,2021-06-06,NA
+31546,"Uttara Kannada","2694837",59,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-05,2021-06-06,NA
+31915,"Uttara Kannada","2738039",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-06,2021-06-07,NA
+31923,"Uttara Kannada","2748255",40,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-06,2021-06-06,2021-06-07,NA
+31972,"Uttara Kannada","2522072",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-06-07,2021-06-08,NA
+31999,"Uttara Kannada","2616898",92,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-07,2021-06-08,NA
+32012,"Uttara Kannada","2641538",77,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-06-07,2021-06-07,2021-06-08,NA
+32032,"Uttara Kannada","2670632",75,"Female","ILI","Fever, Cough","DM, HTN",2021-06-06,2021-06-07,2021-06-08,NA
+32060,"Uttara Kannada","2715796",87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-02,2021-06-07,2021-06-08,NA
+32139,"Uttara Kannada","2500917",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-07,2021-06-09,NA
+32291,"Uttara Kannada","2768203",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-08,2021-06-09,NA
+32458,"Uttara Kannada","2752038",52,"Male","ILI","Fever, Cough","DM, HTN",2021-06-06,2021-06-10,2021-06-10,NA
+32488,"Uttara Kannada","2777260",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-09,2021-06-10,NA
+32628,"Uttara Kannada","2767281",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-06-09,2021-06-11,"Died at her residence"
+32644,"Uttara Kannada","2781635",70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-08,2021-06-09,2021-06-11,NA
+32682,"Uttara Kannada","2604314",55,"Female","ILI","Fever, Cough","HTN",2021-05-28,2021-06-10,2021-06-12,NA
+32753,"Uttara Kannada","2741922",69,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-11,2021-06-12,NA
+32881,"Uttara Kannada","2755918",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-11,2021-06-13,NA
+32894,"Uttara Kannada","2765279",65,"Female","SARI","Fever, Cough, Breathlessness","COP D",2021-06-12,2021-06-13,2021-06-13,NA
+32895,"Uttara Kannada","2765280",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-12,2021-06-13,2021-06-13,NA
+32991,"Uttara Kannada","2746344",83,"Female","ILI","Fever, Cough","HTN",2021-06-06,2021-06-13,2021-06-14,NA
+33104,"Uttara Kannada","2741820",55,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-04,2021-06-14,2021-06-15,NA
+33110,"Uttara Kannada","2756726",61,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-08,2021-06-13,2021-06-15,NA
+33118,"Uttara Kannada","2763966",75,"Female","SARI","Fever, cough, Breathlessness","COPD",2021-06-07,2021-06-14,2021-06-15,NA
+33120,"Uttara Kannada","2770921",70,"Male","SARI","Fever, cough, Breathlessness","DM",2021-06-07,2021-06-14,2021-06-15,NA
+33123,"Uttara Kannada","2776274",66,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-06-09,2021-06-14,2021-06-15,NA
+33220,"Uttara Kannada","2733132",75,"Male","ILI","Fever, Cough","-",2021-06-05,2021-06-12,2021-06-16,NA
+33261,"Uttara Kannada","2778001",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-09,2021-06-14,2021-06-16,NA
+33271,"Uttara Kannada","2794480",60,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-06-14,2021-06-14,2021-06-16,NA
+33385,"Uttara Kannada","2772699",55,"Male","ILI","Fever, Cough","DM, HTN",2021-06-07,2021-06-17,2021-06-17,NA
+33397,"Uttara Kannada","2783459",72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-16,2021-06-17,NA
+33473,"Uttara Kannada","2642580",74,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-17,2021-06-18,NA
+33529,"Uttara Kannada","2766425",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-06-08,2021-06-17,2021-06-18,NA
+33578,"Uttara Kannada","2824168",50,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-06-15,2021-06-15,2021-06-18,NA
+33618,"Uttara Kannada","2531475",65,"Male","ILI","Fever, Cough","-",2021-06-02,2021-06-10,2021-06-19,NA
+33651,"Uttara Kannada","2745354",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-08,2021-06-18,2021-06-19,NA
+33664,"Uttara Kannada","2761609",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-19,2021-06-19,NA
+33693,"Uttara Kannada","2799123",50,"Male","ILI","Fever, Cough","-",2021-06-11,2021-06-18,2021-06-19,NA
+33730,"Uttara Kannada","2825362",80,"Male","ILI","Fever, Cough","HTN",2021-06-15,2021-06-18,2021-06-19,NA
+33793,"Uttara Kannada","2666545",59,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-06-01,2021-06-20,2021-06-20,NA
+33825,"Uttara Kannada","2769782",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-08,2021-06-19,2021-06-20,NA
+33826,"Uttara Kannada","2770373",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-14,2021-06-19,2021-06-20,NA
+33850,"Uttara Kannada","2812959",39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-19,2021-06-20,NA
+33861,"Uttara Kannada","2826669",75,"Female","ILI","Fever, Cough","HTN",2021-06-16,2021-06-19,2021-06-20,NA
+33923,"Uttara Kannada","2625966",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-03,2021-06-21,NA
+33932,"Uttara Kannada","2647550",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-02,2021-06-21,NA
+33947,"Uttara Kannada","2706721",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-20,2021-06-21,NA
+33957,"Uttara Kannada","2745362",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-20,2021-06-21,NA
+33968,"Uttara Kannada","2770409",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-20,2021-06-21,NA
+34043,"Uttara Kannada","2586638",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-07,2021-06-22,NA
+34045,"Uttara Kannada","2596050",65,"Male","SARI","Fever, Cough, Breathlessness","DM, CVA",2021-05-29,2021-06-20,2021-06-22,NA
+34055,"Uttara Kannada","2680825",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-01,2021-06-11,2021-06-22,NA
+34133,"Uttara Kannada","2837999",73,"Male","ILI","Fever, Cough","HTN",2021-06-16,2021-06-19,2021-06-22,NA
+34140,"Uttara Kannada","2846072",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-21,2021-06-21,2021-06-22,NA
+34239,"Uttara Kannada","2818690",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-14,2021-06-23,2021-06-23,NA
+34252,"Uttara Kannada","2832734",80,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD",2021-06-18,2021-06-22,2021-06-23,NA
+34419,"Uttara Kannada","2862379",48,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-22,2021-06-23,2021-06-24,NA
+34423,"Uttara Kannada","2864031",65,"Female","SARI","Fever, Cough, Breathlesness","HTN",2021-06-01,2021-06-23,2021-06-24,NA
+34586,"Uttara Kannada","2776252",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-15,2021-06-25,2021-06-26,NA
+34803,"Uttara Kannada","2855790",80,"Male","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-23,2021-06-28,2021-06-28,NA
+35004,"Uttara Kannada","2859114",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-21,2021-06-29,2021-06-30,NA
+35008,"Uttara Kannada","2860615",72,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-06-25,2021-06-28,2021-06-30,NA
+35023,"Uttara Kannada","2877120",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-25,2021-06-29,2021-06-30,NA
+35085,"Uttara Kannada","2831250",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-06-30,2021-07-01,NA
+35104,"Uttara Kannada","2865136",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-23,2021-06-30,2021-07-01,NA
+35199,"Uttara Kannada","2868785",76,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-06-30,2021-07-01,2021-07-02,NA
+35218,"Uttara Kannada","2885080",44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-28,2021-07-01,2021-07-02,NA
+35270,"Uttara Kannada","2864481",84,"Female","ILI","Fever, Cough","HTN",2021-06-24,2021-07-02,2021-07-03,NA
+35296,"Uttara Kannada","2890344",91,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-07-01,2021-07-02,2021-07-03,NA
+35303,"Uttara Kannada","2893115",51,"Female","SARI","Fever, Cough, Breathlessness","RD",2021-07-02,2021-07-02,2021-07-03,NA
+35801,"Uttara Kannada","2882993",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-03,2021-07-10,2021-07-11,NA
+35824,"Uttara Kannada","2909164",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-06,2021-07-09,2021-07-11,NA
+35917,"Uttara Kannada","2884707",42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-12,2021-07-13,NA
+36075,"Uttara Kannada","2919780",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-13,2021-07-15,2021-07-16,NA
+36156,"Uttara Kannada","2924420",32,"Male","SARI","Fever, cough, Breathlessness","-",2021-07-17,2021-07-18,2021-07-18,NA
+36175,"Uttara Kannada","2906753",41,"Male","ILI","Fever, Cough","CLD",NA,2021-07-18,2021-07-19,"Died at his residence"
+36232,"Uttara Kannada","2893342",55,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-07-04,2021-07-20,2021-07-21,NA
+36268,"Uttara Kannada","2893342",55,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-07-04,2021-07-20,2021-07-21,NA
+36322,"Uttara Kannada","2925337",73,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-07-18,2021-07-22,2021-07-23,NA
+36352,"Uttara Kannada","2922511",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-14,2021-07-23,2021-07-24,NA
+36386,"Uttara Kannada","2934875",71,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-14,2021-07-24,2021-07-26,NA
+36387,"Uttara Kannada","2935360",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-24,2021-07-24,2021-07-26,NA
+36389,"Uttara Kannada","2936705",85,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-22,2021-07-23,2021-07-26,NA
+36411,"Uttara Kannada","2924421",96,"Male","ILI","Fever, Cough","HTN",2021-07-19,2021-07-27,2021-07-27,NA
+36419,"Uttara Kannada","2936716",69,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-24,2021-07-27,2021-07-27,NA
+36472,"Uttara Kannada","2939296",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-26,2021-07-28,2021-07-29,NA
+36475,"Uttara Kannada","2940926",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-07-27,2021-07-29,"Brought dead"
+36504,"Uttara Kannada","2941109",92,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-07-28,2021-07-30,2021-07-30,NA
+36507,"Uttara Kannada","2942186",62,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-07-28,2021-07-29,2021-07-30,NA
+36531,"Uttara Kannada","2935317",64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-23,2021-07-25,2021-07-31,NA
+36557,"Uttara Kannada","2923274",83,"Female","ILI","Fever, Cough","HTN",2021-07-27,2021-07-31,2021-08-01,NA
+36564,"Uttara Kannada","2936714",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-31,2021-08-01,2021-08-01,NA
+36589,"Uttara Kannada","2937533",81,"Male","SARI","Fever , Cough , Breathlessness","DM, HTN",2021-07-27,2021-08-02,2021-08-02,NA
+36595,"Uttara Kannada","2948121",48,"Male","SARI","Fever , Cough , Breathlessness","DM, HTN",2021-08-01,2021-08-01,2021-08-02,NA
+36617,"Uttara Kannada","2940549",53,"Male","ILI","Fever, Cough","-",2021-07-26,2021-07-30,2021-08-03,NA
+36686,"Uttara Kannada","2951786",46,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-04,2021-08-04,2021-08-05,NA
+36764,"Uttara Kannada","2941112",54,"Male","ILI","Fever, Cough","-",2021-07-30,2021-08-08,2021-08-08,NA
+36771,"Uttara Kannada","2952810",63,"Female","ILI","Fever, Cough","-",2021-08-04,2021-08-08,2021-08-08,NA
+36797,"Uttara Kannada","2956615",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-06,2021-08-08,2021-08-09,NA
+36799,"Uttara Kannada","2957350",69,"Male","ILI","Fever, Cough","-",2021-08-06,2021-08-07,2021-08-09,NA
+36809,"Uttara Kannada","2926059",67,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-07-21,2021-08-07,2021-08-10,NA
+36823,"Uttara Kannada","2954264",45,"Female","ILI","Fever, Cough","DM",2021-08-06,2021-08-10,2021-08-10,NA
+36826,"Uttara Kannada","2957443",37,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-19,2021-08-10,2021-08-10,NA
+36827,"Uttara Kannada","2958417",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-09,2021-08-10,2021-08-10,NA
+36856,"Uttara Kannada","2951224",76,"Male","ILI","Fever, cough","DM",NA,2021-08-09,2021-08-11,"Died at his  residence"
+36862,"Uttara Kannada","2961694",65,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-08-09,2021-08-10,2021-08-11,NA
+36940,"Uttara Kannada","2968114",83,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD, CVA",2021-08-13,2021-08-14,2021-08-14,NA
+36959,"Uttara Kannada","2961696",84,"Male","SARI","Fever, Cough,  Breathlessness","DM, HTN,  COPD",2021-08-03,2021-08-14,2021-08-15,NA
+36974,"Uttara Kannada","2952106",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-08-11,2021-08-16,2021-08-16,NA
+36983,"Uttara Kannada","2962536",74,"Male","ILI","Fever, cough","-",2021-08-11,2021-08-15,2021-08-16,NA
+37015,"Uttara Kannada","2968548",87,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-13,2021-08-17,2021-08-17,NA
+37041,"Uttara Kannada","2972688",71,"Male","ILI","Fever, cough","-",2021-08-15,2021-08-18,2021-08-18,NA
+37079,"Uttara Kannada","2956418",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-09,2021-08-20,NA,NA
+37087,"Uttara Kannada","2976518",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CPOD",2021-08-19,2021-08-20,NA,NA
+37232,"Uttara Kannada","2984608",61,"Male","ILI","Fever, cough","DM",2021-08-28,2021-08-28,2021-08-29,NA
+37326,"Uttara Kannada","2982727",42,"Male","ILI","Fever, cough","DM",2021-08-25,2021-09-02,2021-09-03,NA
+37330,"Uttara Kannada","2987198",76,"Male","ILI","Fever, cough","HTN",2021-08-28,2021-09-02,2021-09-03,NA
+37353,"Uttara Kannada","2988298",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-28,2021-09-04,2021-09-04,NA
+37373,"Uttara Kannada","2996149",102,"Male","ILI","Fever, cough","HTN",NA,2021-09-02,2021-09-06,"Died at his residence"
+37383,"Uttara Kannada","2987998",71,"Male","ILI","Fever, cough","HTN",2021-08-27,2021-09-05,2021-09-07,NA
+37390,"Uttara Kannada","2980294",52,"Male","ILI","Fever, cough","-",2021-08-23,2021-09-07,2021-09-08,NA
+37396,"Uttara Kannada","2991372",82,"Male","SARI","Fever, Cough, Breathlessness","CVA",2021-08-31,2021-09-07,2021-09-08,NA
+37398,"Uttara Kannada","2992914",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-09-01,2021-09-07,2021-09-08,NA
+37399,"Uttara Kannada","2992923",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-09-01,2021-09-08,2021-09-08,NA
+37452,"Uttara Kannada","3002317",53,"Male","ILI","Fever, Cough",NA,2021-09-11,2021-09-12,2021-09-12,NA
+37476,"Uttara Kannada","3003652",78,"Male","SARI","Fever, Cough","HTN",2021-09-11,2021-09-13,2021-09-14,NA
+37514,"Uttara Kannada","2990998",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-09-06,2021-09-17,2021-09-17,NA
+37710,"Uttara Kannada","3015292",79,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-09-23,2021-09-27,2021-09-28,NA
+37737,"Uttara Kannada","3012380",66,"Male","SARI","Fever, cough, breathlessness","DM, HTN, CKD",2021-09-21,2021-09-29,2021-09-30,NA
+37756,"Uttara Kannada","3013207",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-22,2021-09-30,2021-10-02,NA
+37759,"Uttara Kannada","3016769",82,"Female","ILI","Fever, cough","-",2021-09-30,2021-10-02,2021-10-02,NA
+37774,"Uttara Kannada","3014858",71,"Female","SARI","Fever, cough, breathlessness","DM, HTN, CKD",2021-09-25,2021-10-04,2021-10-04,NA
+37787,"Uttara Kannada","3015824",72,"M ","SARI ","Fever, cough, breathlessness ","HTN, CKD ",2021-09-27,2021-10-05,2021-10-05,NA
+37792,"Uttara Kannada","3019490",84,"F ","SARI ","Fever, cough, breathlessness ","DM, HTN ",NA,2021-10-03,2021-10-05,"Died at her residence"
+37794,"Uttara Kannada","3019967",82,"M ","SARI ","Fever, cough, breathlessness ","HTN ",2021-10-02,2021-10-03,2021-10-05,NA
+37814,"Uttara Kannada","3018723",65,"Male","ILI","Fever, Cough","-",2021-10-01,2021-10-08,2021-10-08,NA
+37822,"Uttara Kannada","3019080",77,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-10-06,2021-10-09,2021-10-09,NA
+37834,"Uttara Kannada","3022481",65,"M ","ILI ","Fever, cough ","- ",NA,2021-10-09,2021-10-10,"Died at his residence"
+37841,"Uttara Kannada","3014096",70,"M ","SARI ","Fever, Cough, Breathlessness ","- ",2021-09-24,2021-10-10,2021-10-11,NA
+37843,"Uttara Kannada","3022523",36,"F ","SARI ","Fever, Cough, Breathlessness ","DM, CKD ",2021-10-09,2021-10-10,2021-10-11,NA
+37854,"Uttara Kannada","3021702",88,"F ","SARI ","Fever, cough, breathlessness ","DM ",2021-10-06,2021-10-10,2021-10-12,NA
+37914,"Uttara Kannada","3024445",76,"Female","ILI","Fever","DM, HTN",NA,2021-10-17,2021-10-19,"Died at her residence"
+38034,"Uttara Kannada","3028555",80,"Male","ILI","Fever, Cough","HTN",2021-10-26,2021-11-01,2021-11-02,NA
+38040,"Uttara Kannada","3029520",52,"Male","ILI","Fever, Cough","-",2021-10-31,2021-11-01,2021-11-03,NA
+38114,"Uttara Kannada","3034456",65,"Male","SARI","Breathlessness","CA",2021-11-15,2021-11-16,2021-11-18,NA
+38219,"Uttara Kannada","3042380",60,"Male","SARI","Breathlessness","HTN, CKD, IHD",2021-12-10,2021-12-12,2021-12-14,NA
+38256,"Uttara Kannada","3044108",72,"Female","ILI","Fever","DM, IHD",NA,2021-12-27,2021-12-27,"Died at her  residence"
+38277,"Uttara Kannada","3049769",63,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-12-18,2021-12-30,2021-12-31,NA
+38285,"Uttara Kannada","3049769",63,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-12-18,2021-12-30,2021-12-31,NA
+38292,"Uttara Kannada","2966571",62,"Male","ILI","Fever, Cough","-",2021-08-13,2021-09-02,2022-01-02,NA
+38327,"Uttara Kannada","3064216",82,"Female","SARI","Fever, Breathlessness","HTN",2022-01-05,2022-01-06,2022-01-11,NA
+38435,"Uttara Kannada","3073870",79,"Male","ILI","Fever, Cough","-",2022-01-08,2022-01-17,2022-01-18,NA
+38482,"Uttara Kannada","3324617",42,"Male","ILI","Fever","DM, HTN",2022-01-18,2022-01-18,2022-01-20,NA
+38521,"Uttara Kannada","3440277",85,"Female","SARI","Fever, Breathlessness","DM, HTN",2022-01-19,2022-01-19,2022-01-21,NA
+38606,"Uttara Kannada","3616695",80,"Male","SARI","Breathlessness","-",2022-01-21,2022-01-23,2022-01-24,NA
+38753,"Uttara Kannada","3714139",29,"Male","SARI","Breathlessness","HTN",2022-01-25,2022-01-25,2022-01-27,NA
+38756,"Uttara Kannada","3733891",86,"Male","ILI","Fever","DM, HTN",NA,2022-01-27,2022-01-27,"Died at his residence"
+38804,"Uttara Kannada","3748596",70,"Female","ILI","Fever","-",2022-01-25,2022-01-26,2022-01-28,NA
+38910,"Uttara Kannada","3733902",84,"Male","ILI","Cough","-",2022-01-26,2022-01-27,2022-01-30,NA
+38931,"Uttara Kannada","3807992",74,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",NA,2022-01-29,2022-01-30,"Died at her residence"
+38995,"Uttara Kannada","3828974",80,"Male","SARI","Breathlessness","DM,
+CLD",NA,NA,2022-01-31,"Died at his Residence"
+39093,"Uttara Kannada","3826655",67,"Male","ILI","Fever","-",2022-02-01,2022-02-02,2022-02-03,NA
+39107,"Uttara Kannada","3874805",80,"Male","ILI","Fever, Cough","DM, HTN",NA,2022-02-01,2022-02-03,"Died at his residence"
+39209,"Uttara Kannada","3876714",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2022-01-29,2022-02-04,2022-02-05,NA
+39222,"Uttara Kannada","3927430",72,"Male","ILI","Fever","DM, HTN",2022-02-03,2022-02-04,2022-02-05,NA
+39285,"Uttara Kannada","3772299",52,"Male","ILI","Fever","-",2022-01-28,2022-02-07,2022-02-07,NA
+39320,"Uttara Kannada","3950223",91,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-02-04,2022-02-05,2022-02-07,NA
+39334,"Uttara Kannada","3772299",52,"Male","ILI","Fever","-",2022-01-28,2022-02-07,2022-02-07,NA
+39369,"Uttara Kannada","3950223",91,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-02-04,2022-02-05,2022-02-07,NA
+39407,"Uttara Kannada","3946787",90,"Male","SARI","Cough, Breathlessness","HTN",NA,2022-02-07,2022-02-09,"Died at his residence"
+39409,"Uttara Kannada","3951294",50,"Female","ILI","Fever","HTN, CA",NA,2022-02-07,2022-02-09,"Died at her residence"
+39533,"Uttara Kannada","3973614",82,"Female","ILI","Fever, Cough","CA",2022-02-11,2022-02-11,2022-02-12,NA
+39600,"Uttara Kannada","3945934",82,"Female","ILI","Fever, Cough","-",2022-02-05,2022-02-13,2022-02-15,NA
+39636,"Uttara Kannada","3980180",52,"Male","SARI","Breathlessness","CKD",2022-02-14,2022-02-15,2022-02-16,NA
+39637,"Uttara Kannada","3981069",76,"Male","SARI","Fever, Cough,Breathlessness","DM",2022-02-15,2022-02-15,2022-02-16,NA
+39765,"Uttara Kannada","3983454",80,"Female","ILI","Fever, Breathlessness","-",NA,2022-02-19,NA,NA
+39909,"Uttara Kannada","3994193",54,"Male","ILI","Fever, Cough","CLD",2022-03-09,2022-03-11,2022-03-12,NA
+39963,"Uttara Kannada","4032085",16,"Female","ILI","Fever","-",2022-07-03,2022-07-11,2022-07-12,NA
+40001,"Uttara Kannada","4060499",58,"Male","SARI","FEVER
+BREATHLESSNESS","HTN, DM,
+IHD, CKI",2022-08-08,2022-08-08,2022-08-09,NA
+40006,"Uttara Kannada","4074462",80,"Female","ILI","Fever","DM, HTN",2022-08-05,2022-08-09,2022-08-10,NA
+40016,"Uttara Kannada","4078212",93,"Male","ILI","Fever","DM,HTN",2022-08-09,2022-08-11,2022-08-12,NA
+40048,"Uttara Kannada","4083756",17,"MALE","SARI","Breathlessness","Cerebral
+Palsy",2022-08-10,2022-08-22,2022-08-22,NA
+40118,"Uttara Kannada","4120325",88,"Female","SARI","Cough, Breathlessness","HTN",2022-09-26,2022-09-27,2022-09-29,NA
+40123,"Uttara Kannada","4118418",82,"Male","SARI","Fever, Cough, Breathlessness","-",2022-09-20,2022-10-09,2022-10-10,NA

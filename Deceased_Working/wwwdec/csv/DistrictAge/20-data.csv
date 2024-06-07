@@ -1,0 +1,543 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+106,"Koppal","7105",50,"Female","SARI","Cough & Breathlessness",NA,2020-06-13,2020-06-17,2020-06-18,NA
+261,"Koppal","16430",50,"Male","SARI","Cough & Breathlessness","IHD",2020-06-30,2020-07-02,2020-07-02,NA
+572,"Koppal","24910",51,"Male","SARI","Breathlessness","DM, IHD",2020-07-05,2020-07-09,2020-07-11,NA
+579,"Koppal","28568",65,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-09,2020-07-11,NA
+669,"Koppal","35486",42,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-09,2020-07-10,2020-07-12,NA
+1248,"Koppal","35493",39,"Male","Contact under tracing","-","DM",NA,2020-07-12,2020-07-19,"Brought dead"
+1250,"Koppal","39914",68,"Female","Contact under tracing","-","-",NA,2020-07-12,2020-07-19,"Brought dead"
+1253,"Koppal","44614",40,"Male","Contact under tracing","-","-",NA,2020-07-12,2020-07-19,"Brought dead"
+1259,"Koppal","48683",53,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-12,2020-07-17,2020-07-19,NA
+1365,"Koppal","64949",45,"Female","SARI","-","-",NA,2020-07-18,2020-07-20,"Brought Dead"
+1368,"Koppal","65638",52,"Female","ILI","-","-",NA,2020-07-18,2020-07-20,"Brought Dead"
+1668,"Koppal","76225",40,"Male","SARI","Breathlessness","-",2020-07-20,2020-07-23,2020-07-24,NA
+1709,"Koppal","90853",32,"Male","SARI","Breathlessness","-",2020-07-20,2020-07-23,2020-07-24,NA
+1775,"Koppal","90903",70,"Female","SARI","-","-",2020-07-23,2020-07-24,2020-07-25,NA
+1776,"Koppal","91237",49,"Male","SARI","-","-",2020-07-23,2020-07-24,2020-07-25,NA
+1908,"Koppal","91031",60,"Male","SARI","Breathlessness","-",2020-07-23,2020-07-24,2020-07-27,NA
+2006,"Koppal","97372",40,"Female","SARI","-","-",2020-07-24,2020-07-24,2020-07-28,NA
+2118,"Koppal","110542",46,"Female","SARI","Breathlessness","-",2020-07-27,2020-07-29,2020-07-29,NA
+2160,"Koppal","93659",52,"Male","ILI","-","CA",NA,2020-07-26,2020-07-30,"Brought dead"
+2301,"Koppal","57827",60,"Female","SARI","Fever & Breathlessness","DM",2020-07-10,2020-07-11,2020-08-01,NA
+2347,"Koppal","112967",70,"Male","SARI","-","-",NA,2020-07-28,2020-08-01,"Brought dead"
+2458,"Koppal","130822",62,"Male","Contact under tracing","-","DM, HTN",2020-07-31,2020-07-31,2020-08-02,NA
+2479,"Koppal","139031",81,"Male","Contact under tracing","-","DM, HTN",NA,2020-07-31,2020-08-02,"Brought dead"
+2682,"Koppal","147194",70,"Male","SARI","Breathlessness","HTN",2020-08-01,2020-08-01,2020-08-04,NA
+2733,"Koppal","124426",65,"Male","SARI","Breathlessness","DM",2020-07-29,2020-08-03,2020-08-05,NA
+2751,"Koppal","140376",68,"Male","SARI","Breathlessness","DM, HTN",2020-08-01,2020-08-02,2020-08-05,NA
+2785,"Koppal","156724",65,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-01,2020-08-05,NA
+2908,"Koppal","111611",53,"Male","SARI","Breathlessness","DM",2020-07-24,2020-08-02,2020-08-07,NA
+2934,"Koppal","143144",60,"Female","ILI","-","DM",NA,2020-08-05,2020-08-07,"Brought dead"
+2972,"Koppal","165375",65,"Male","SARI","Breathlessness","-",2020-08-05,2020-08-05,2020-08-07,NA
+3003,"Koppal","106091",65,"Male","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-07,2020-08-08,NA
+3094,"Koppal","106398",52,"Male","SARI","Breathlessness","DM, HTN",2020-07-27,2020-08-06,2020-08-09,NA
+3129,"Koppal","146479",43,"Female","SARI","Breathlessness","DM",2020-08-03,2020-08-04,2020-08-09,NA
+3216,"Koppal","122713",70,"Female","SARI","Breathlessness","DM",2020-08-02,2020-08-03,2020-08-10,NA
+3233,"Koppal","145577",70,"Female","SARI","-","DM",2020-08-04,2020-08-09,2020-08-10,NA
+3267,"Koppal","176586",45,"Female","SARI","-","DM",2020-08-07,2020-08-07,2020-08-10,NA
+3269,"Koppal","177316",65,"Male","ILI","-","-",NA,2020-08-07,2020-08-10,"Brought dead"
+3273,"Koppal","179558",69,"Male","SARI","-","DM",2020-08-03,2020-08-04,2020-08-10,NA
+3275,"Koppal","180550",60,"Male","SARI","-","HTN",2020-08-07,2020-08-07,2020-08-10,NA
+3341,"Koppal","152528",50,"Female","SARI","Breathlessness","DM, HTN",2020-08-04,2020-08-07,2020-08-11,NA
+3353,"Koppal","171758",54,"Male","SARI","Breathlessness","DM",2020-08-07,2020-08-07,2020-08-11,NA
+3382,"Koppal","195200",72,"Female","ILI","-","DM",NA,2020-08-10,2020-08-11,"Brought dead"
+3438,"Koppal","153277",23,"Male","ILI","Fever","-",2020-08-01,2020-08-08,2020-08-12,NA
+3482,"Koppal","195198",67,"Male","SARI","-","DM, HTN",2020-08-11,2020-08-11,2020-08-12,NA
+3529,"Koppal","143048",65,"Female","SARI","Breathlessness","DM",2020-08-02,2020-08-12,2020-08-13,NA
+3549,"Koppal","165371",50,"Male","SARI","Breathlessness","DM",2020-08-05,2020-08-11,2020-08-13,NA
+3552,"Koppal","170239",68,"Female","SARI","Breathlessness","DM",2020-08-09,2020-08-10,2020-08-13,NA
+3577,"Koppal","194662",80,"Male","SARI","Breathlessness","DM",2020-08-10,2020-08-12,2020-08-13,NA
+3591,"Koppal","204625",65,"Male","SARI","Breathlessness","-",2020-08-11,2020-08-12,2020-08-13,NA
+3603,"Koppal","69286",54,"Female","Contact under tracing","Fever","-",NA,2020-07-19,2020-08-14,"Brought dead"
+3618,"Koppal","100740",60,"Female","Contact under tracing","Fever","DM",NA,2020-07-27,2020-08-14,"Brought dead"
+3675,"Koppal","189209",52,"Female","SARI","Breathlessness","-",2020-08-10,2020-08-11,2020-08-14,NA
+3697,"Koppal","213634",72,"Male","SARI","Breathlessness","DM",2020-08-05,2020-08-11,2020-08-14,NA
+3698,"Koppal","213636",68,"Male","SARI","Breathlessness","DM",2020-08-11,2020-08-11,2020-08-14,NA
+3772,"Koppal","186139",49,"Male","SARI","Breathlessness","HTN",2020-08-14,2020-08-14,2020-08-15,NA
+3811,"Koppal","223078",62,"Female","SARI","Breathlessness","DM",2020-08-05,2020-08-11,2020-08-15,NA
+3892,"Koppal","195205",42,"Female","SARI","Cough, Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3918,"Koppal","220783",73,"Male","SARI","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3932,"Koppal","226367",51,"Female","SARI","Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+4008,"Koppal","203008",72,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-12,2020-08-14,2020-08-17,NA
+4034,"Koppal","229279",67,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-08-14,2020-08-15,2020-08-17,NA
+4042,"Koppal","234421",50,"Male","Contact under tracing","Breathlessness","COPD",2020-08-15,2020-08-15,2020-08-17,NA
+4043,"Koppal","234872",69,"Male","Contact under tracing","Breathlessness","DM",2020-08-14,2020-08-16,2020-08-17,NA
+4176,"Koppal","236181",64,"Male","SARI","-","-",2020-08-13,2020-08-15,2020-08-18,NA
+4240,"Koppal","185479",56,"Female","SARI","Breathlessness","-",2020-08-09,2020-08-17,2020-08-19,NA
+4249,"Koppal","197882",42,"Male","SARI","Breathlessness","DM",2020-08-14,2020-08-14,2020-08-19,NA
+4258,"Koppal","212007",55,"Male","SARI","Breathlessness","CKD",2020-08-10,2020-08-15,2020-08-19,NA
+4264,"Koppal","219502",85,"Male","SARI","Breathlessness","HTN",2020-08-15,2020-08-15,2020-08-19,NA
+4285,"Koppal","234873",38,"Male","SARI","Breathlessness","-",2020-08-14,2020-08-18,2020-08-19,NA
+4309,"Koppal","247174",50,"Female","SARI","Breathlessness","DM",2020-08-17,2020-08-17,2020-08-19,NA
+4318,"Koppal","252906",60,"Male","SARI","Breathlessness","COPD",2020-08-15,2020-08-15,2020-08-19,NA
+4319,"Koppal","254775",50,"Female","SARI","Breathlessness","DM, HTN",2020-08-15,2020-08-16,2020-08-19,NA
+4325,"Koppal","147685",55,"Female","SARI","Breathlessness","DM",2020-08-05,2020-08-10,2020-08-20,NA
+4331,"Koppal","165374",62,"Male","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-17,2020-08-20,NA
+4347,"Koppal","186672",59,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-19,2020-08-20,NA
+4348,"Koppal","189595",60,"Female","SARI","Breathlessness","DM",2020-08-09,2020-08-19,2020-08-20,NA
+4360,"Koppal","213629",68,"Female","SARI","Breathlessness","COPD",2020-08-16,2020-08-19,2020-08-20,NA
+4393,"Koppal","241662",65,"Female","SARI","Breathlessness","DM",2020-08-15,2020-08-16,2020-08-20,NA
+4415,"Koppal","257066",65,"Male","SARI","Breathlessness","HTN",2020-08-15,2020-08-15,2020-08-20,NA
+4431,"Koppal","179163",75,"Male","SARI","Breathlessness","DM, HTN",2020-08-02,2020-08-20,2020-08-21,NA
+4438,"Koppal","186140",75,"Male","SARI","Breathlessness","COPD",2020-08-05,2020-08-08,2020-08-21,NA
+4453,"Koppal","215609",58,"Male","SARI","Breathlessness","-",NA,2020-08-19,2020-08-21,"Brought dead"
+4509,"Koppal","264164",61,"Male","SARI","Breathlessness","-",2020-08-13,2020-08-19,2020-08-21,NA
+4514,"Koppal","266724",74,"Female","SARI","Breathlessness","DM",2020-08-19,2020-08-19,2020-08-21,NA
+4577,"Koppal","252901",65,"Male","SARI","Breathlessness","DM",2020-08-20,2020-08-20,2020-08-22,NA
+4600,"Koppal","273516",45,"Male","SARI","Breathlessness","DM",2020-08-19,2020-08-20,2020-08-22,NA
+4602,"Koppal","274888",45,"Female","SARI","Breathlessness","-",2020-08-19,2020-08-21,2020-08-22,NA
+4603,"Koppal","274891",43,"Male","SARI","Breathlessness","COPD",2020-08-19,2020-08-20,2020-08-22,NA
+4604,"Koppal","274894",40,"Male","Contact under tracing","-","DM, HTN",NA,2020-08-20,2020-08-22,"Brought dead"
+4605,"Koppal","276700",65,"Male","SARI","Breathlessness","-",2020-08-20,2020-08-20,2020-08-22,NA
+4642,"Koppal","243953",60,"Male","SARI","Breathlessness","COPD",2020-08-19,2020-08-23,2020-08-23,NA
+4654,"Koppal","264171",45,"Male","SARI","Breathlessness","HTN",2020-08-19,2020-08-19,2020-08-23,NA
+4668,"Koppal","282267",75,"Male","SARI","Breathlessness","DM",2020-08-20,2020-08-22,2020-08-23,NA
+4669,"Koppal","282270",63,"Male","SARI","Breathlessness","_",NA,2020-08-22,2020-08-23,"Brought dead"
+4674,"Koppal","284237",60,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-21,2020-08-22,2020-08-23,NA
+4704,"Koppal","223908",59,"Male","Contact under tracing","-","DM",2020-08-14,2020-08-17,2020-08-24,NA
+4722,"Koppal","236168",66,"Male","Contact under tracing","-","COPD",2020-08-13,2020-08-15,2020-08-24,NA
+4724,"Koppal","236182",72,"Female","Contact under tracing","-","HTN",NA,2020-08-19,2020-08-24,"Brought dead"
+4730,"Koppal","240496",60,"Male","Contact under tracing","-","DM, HTN",2020-08-13,2020-08-16,2020-08-24,NA
+4757,"Koppal","263036",46,"Male","Contact under tracing","-","DM, IHD, CKD",2020-08-23,2020-08-23,2020-08-24,NA
+4761,"Koppal","264172",40,"Female","Contact under tracing","-","DM, HTN",NA,2020-08-23,2020-08-24,"Brought dead"
+4779,"Koppal","275895",55,"Male","Contact under tracing","-","-",NA,2020-08-23,2020-08-24,"Brought dead"
+4914,"Koppal","265617",61,"Female","SARI","Fever, Breathlessness","-",2020-08-23,2020-08-24,2020-08-25,NA
+4915,"Koppal","265927",56,"Male","SARI","Breathlessness","DM, IHD, CKD",2020-08-23,2020-08-24,2020-08-25,NA
+4935,"Koppal","282604",58,"Male","Contact under tracing","-","DM, HTN",NA,2020-08-24,2020-08-25,"Brought dead"
+4947,"Koppal","294721",64,"Male","SARI","Fever, Cough","DM",2020-08-22,2020-08-22,2020-08-25,NA
+4948,"Koppal","294722",61,"Male","SARI","Fever","HTN",2020-08-23,2020-08-23,2020-08-25,NA
+4950,"Koppal","295964",80,"Female","SARI","Fever, Cough","COPD",2020-08-23,2020-08-23,2020-08-25,NA
+4962,"Koppal","180025",56,"Male","SARI","Fever, Cough","DM",2020-08-08,2020-08-15,2020-08-26,NA
+5012,"Koppal","259981",62,"Male","ILI","Fever","-",2020-08-16,2020-08-16,2020-08-26,NA
+5013,"Koppal","259998",36,"Male","SARI","Breathlessness","DM, IHD, CKD",2020-08-25,2020-08-25,2020-08-26,NA
+5035,"Koppal","275901",60,"Male","SARI","Fever","HTN",2020-08-23,2020-08-23,2020-08-26,NA
+5036,"Koppal","277443",78,"Female","SARI","Breathlessness","DM, HTN",2020-08-24,2020-08-25,2020-08-26,NA
+5080,"Koppal","300627",40,"Male","SARI","Fever, Breathlessness","DM",2020-08-24,2020-08-24,2020-08-26,NA
+5185,"Koppal","282262",55,"Female","SARI","Breathlessness","DM, IHD",2020-08-21,2020-08-26,2020-08-27,NA
+5186,"Koppal","282266",67,"Male","SARI","Fever","HTN",2020-08-22,2020-08-22,2020-08-27,NA
+5217,"Koppal","311963",68,"Male","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-26,2020-08-27,NA
+5226,"Koppal","316989",82,"Male","SARI","Fever, Cough","DM",2020-08-27,2020-08-27,2020-08-27,NA
+5272,"Koppal","248666",75,"Male","SARI","Breathlessness","DM, HTN",2020-08-25,2020-08-27,2020-08-28,NA
+5298,"Koppal","269162",90,"Male","SARI","Fever, Breathlessness","DM",2020-08-28,2020-08-28,2020-08-28,NA
+5306,"Koppal","277442",60,"Male","SARI","Fever, Cough","COPD",2020-08-24,2020-08-25,2020-08-28,NA
+5393,"Koppal","253948",64,"Female","SARI","Fever, Breathlessness","-",2020-08-19,2020-08-27,2020-08-29,NA
+5410,"Koppal","276715",59,"Female","SARI","Breathlessness","DM, HTN",2020-08-27,2020-08-28,2020-08-29,NA
+5445,"Koppal","308469",75,"Female","SARI","Fever, Cough","COPD",2020-08-28,2020-08-28,2020-08-29,NA
+5500,"Koppal","193595",60,"Male","SARI","Fever, Breathlessness","DM",2020-08-15,2020-08-27,2020-08-30,NA
+5504,"Koppal","210393",75,"Female","SARI","Breathlessness","DM, HTN",2020-08-27,2020-08-28,2020-08-30,NA
+5559,"Koppal","323227",31,"Male","SARI","Breathlessness","-",2020-08-29,2020-08-29,2020-08-30,NA
+5659,"Koppal","326509",53,"Female","SARI","Breathlessness","-",2020-08-29,2020-08-29,2020-08-31,NA
+5748,"Koppal","275891",55,"Male","ILI","Breathlessness","DM, IHD",2020-08-21,2020-08-22,2020-09-01,NA
+5762,"Koppal","291725",65,"Male","SARI","Fever, Breathlessness","DM",2020-08-30,2020-08-30,2020-09-01,NA
+5821,"Koppal","352405",75,"Male","SARI","Fever, Cough","-",2020-08-28,2020-08-30,2020-09-01,NA
+5825,"Koppal","353217",70,"Male","SARI","Breathlessness","DM, HTN",2020-08-28,2020-08-31,2020-09-01,NA
+5908,"Koppal","323728",45,"Male","ILI","Breathlessness","DM, IHD",2020-08-28,2020-08-31,2020-09-02,NA
+5928,"Koppal","344594",55,"Male","SARI","Fever, Breathlessness","DM",2020-08-30,2020-08-31,2020-09-02,NA
+5963,"Koppal","266318",55,"Male","SARI","Fever, Breathlessness","HTN",2020-08-25,2020-08-29,2020-09-03,NA
+5966,"Koppal","275884",68,"Male","ILI","Fever","DM",2020-08-31,2020-08-31,2020-09-03,NA
+5967,"Koppal","275894",60,"Male","SARI","Fever, Cough","-",2020-08-31,2020-09-02,2020-09-03,NA
+5972,"Koppal","285559",75,"Male","SARI","Breathlessness","DM, HTN",2020-08-31,2020-09-01,2020-09-03,NA
+5973,"Koppal","285560",65,"Male","ILI","Fever","DM",2020-08-21,2020-08-29,2020-09-03,NA
+5991,"Koppal","312555",70,"Male","SARI","Fever, Breathlessness","HTN",2020-08-31,2020-08-31,2020-09-03,NA
+6028,"Koppal","349662",60,"Male","SARI","Breathlessness","COPD",2020-08-29,2020-08-29,2020-09-03,NA
+6039,"Koppal","361908",50,"Male","SARI","Fever, Cough","DM",2020-09-03,2020-09-03,2020-09-03,NA
+6158,"Koppal","379224",47,"Male","SARI","Fever, Breathlessness","HTN",2020-09-03,2020-09-03,2020-09-04,NA
+6215,"Koppal","333711",62,"Male","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-03,2020-09-05,NA
+6246,"Koppal","358956",68,"Female","SARI","Fever, Breathlessness","HTN",2020-08-29,2020-09-03,2020-09-05,NA
+6270,"Koppal","375988",81,"Male","ILI","Fever","DM, HTN",2020-08-28,2020-09-04,2020-09-05,NA
+6305,"Koppal","279683",82,"Female","ILI","Fever","DM, HTN",2020-08-28,2020-09-04,2020-09-06,NA
+6306,"Koppal","282078",50,"Female","SARI","Fever, Breathlessness","-",2020-09-03,2020-09-04,2020-09-06,NA
+6310,"Koppal","286001",68,"Male","SARI","Fever, Breathlessness","HTN",2020-08-29,2020-09-03,2020-09-06,NA
+6365,"Koppal","377553",60,"Male","ILI","Fever","HTN",2020-09-03,2020-09-04,2020-09-06,NA
+6447,"Koppal","285158",49,"Male","ILI","Fever","DM, HTN",2020-08-28,2020-09-05,2020-09-07,NA
+6451,"Koppal","296639",60,"Female","SARI","Fever, Breathlessness","-",2020-09-03,2020-09-06,2020-09-07,NA
+6452,"Koppal","297583",59,"Male","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-05,2020-09-07,NA
+6459,"Koppal","308468",70,"Male","ILI","Fever, Cough","DM",2020-09-02,2020-09-04,2020-09-07,NA
+6461,"Koppal","311959",61,"Male","SARI","Breathlessness","-",2020-08-31,2020-09-05,2020-09-07,NA
+6462,"Koppal","313353",53,"Male","ILI","Fever","-",2020-08-29,2020-09-05,2020-09-07,NA
+6467,"Koppal","326515",67,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-06,2020-09-07,"Brought dead"
+6503,"Koppal","382655",65,"Male","SARI","Cough, Breathlessness","DM",2020-09-04,2020-09-05,2020-09-07,NA
+6517,"Koppal","401086",70,"Male","SARI","Breathlessness","DM, HTN",2020-09-05,2020-09-06,2020-09-07,NA
+6522,"Koppal","405610",50,"Male","ILI","Fever","-",2020-09-05,2020-09-06,2020-09-07,NA
+6573,"Koppal","328691",62,"Male","ILI","Fever","DM, HTN",2020-09-04,2020-09-05,2020-09-08,NA
+6579,"Koppal","337032",55,"Female","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-06,2020-09-08,NA
+6587,"Koppal","345258",60,"Female","SARI","Breathlessness","HTN",2020-09-05,2020-09-05,2020-09-08,NA
+6600,"Koppal","361774",61,"Male","SARI","Fever, Breathlessness","-",2020-09-03,2020-09-06,2020-09-08,NA
+6611,"Koppal","371892",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-08,2020-09-08,2020-09-08,NA
+6622,"Koppal","380393",63,"Female","SARI","Fever, Cough","DM",2020-09-04,2020-09-06,2020-09-08,NA
+6696,"Koppal","316984",75,"Female","SARI","Breathlessness","DM",2020-08-02,2020-09-05,2020-09-09,NA
+6710,"Koppal","337772",70,"Female","SARI","Fever, Breathlessness","-",2020-08-04,2020-09-08,2020-09-09,NA
+6712,"Koppal","339621",70,"Male","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-07,2020-09-09,NA
+6717,"Koppal","343533",66,"Female","SARI","Breathlessness","HTN",2020-09-05,2020-09-05,2020-09-09,NA
+6745,"Koppal","371896",61,"Male","SARI","Fever","HTN",2020-08-05,2020-09-08,2020-09-09,NA
+6802,"Koppal","434858",48,"Male","SARI","Fever, Cough","DM",2020-09-04,2020-09-08,2020-09-09,NA
+6834,"Koppal","352430",78,"Male","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-08,2020-09-10,NA
+6839,"Koppal","357343",63,"Female","SARI","Fever, Cough","DM",2020-09-04,2020-09-08,2020-09-10,NA
+6872,"Koppal","395077",79,"Male","ILI","Fever, Cough","DM",2020-09-08,2020-09-09,2020-09-10,NA
+6887,"Koppal","409193",58,"Male","SARI","Breathlessness","HTN",2020-08-05,2020-09-08,2020-09-10,NA
+6991,"Koppal","367236",48,"Male","SARI","Breathlessness","-",2020-09-08,2020-09-10,2020-09-11,NA
+7015,"Koppal","405551",70,"Female","SARI","Fever, Cough","HTN",2020-08-05,2020-09-09,2020-09-11,NA
+7033,"Koppal","418550",40,"Male","SARI","Breathlessness","-",2020-09-05,2020-09-05,2020-09-11,NA
+7034,"Koppal","421784",85,"Male","ILI","Breathlessness","DM, CKD",2020-09-06,2020-09-08,2020-09-11,NA
+7039,"Koppal","432597",50,"Male","SARI","Fever, Cough","DM",2020-09-08,2020-09-10,2020-09-11,NA
+7098,"Koppal","371902",38,"Male","SARI","Breathlessness","-",2020-08-06,2020-09-08,2020-09-12,NA
+7104,"Koppal","377546",65,"Female","ILI","Fever, Cough","DM, CKD",2020-09-08,2020-09-11,2020-09-12,NA
+7105,"Koppal","380187",75,"Male","SARI","Fever, Cough","DM, HTN",2020-08-05,2020-09-10,2020-09-12,NA
+7111,"Koppal","388644",45,"Male","ILI","Fever, Cough","-",2020-09-06,2020-09-11,2020-09-12,NA
+7229,"Koppal","413867",43,"Male","ILI","Fever, Cough","-",2020-09-06,2020-09-09,2020-09-13,NA
+7251,"Koppal","447104",70,"Female","SARI","Breathlessness","DM, HTN",2020-09-11,2020-09-12,2020-09-13,NA
+7259,"Koppal","465351",60,"Male","SARI","Fever, Cough","DM",2020-08-31,2020-09-11,2020-09-13,NA
+7299,"Koppal","398553",70,"Male","Contact under tracing","Fever, Cough","HTN",2020-09-05,2020-09-10,2020-09-14,NA
+7313,"Koppal","410292",55,"Female","Contact under tracing","Fever, Cough","DM, CKD",2020-09-08,2020-09-12,2020-09-14,NA
+7327,"Koppal","428942",70,"Female","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-10,2020-09-11,2020-09-14,NA
+7439,"Koppal","441855",49,"Male","SARI","Breathlessness","-",2020-09-05,2020-09-10,2020-09-15,NA
+7440,"Koppal","443395",68,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-09-10,2020-09-12,2020-09-15,NA
+7646,"Koppal","310022",60,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-08-25,2020-08-31,2020-09-18,NA
+7660,"Koppal","380188",74,"Female","SARI","Breathlessness","DM",2020-09-15,2020-09-16,2020-09-18,NA
+7684,"Koppal","405561",70,"Male","SARI","Breathlessness","HTN",2020-09-10,2020-09-12,2020-09-18,NA
+7685,"Koppal","405586",45,"Male","ILI","Fever, Cough","-",2020-09-08,2020-09-14,2020-09-18,NA
+7694,"Koppal","413870",85,"Male","SARI","Fever, Cough","DM, IHD",2020-08-05,2020-09-12,2020-09-18,NA
+7740,"Koppal","443384",55,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-10,2020-09-15,2020-09-18,NA
+7757,"Koppal","458682",63,"Male","SARI","Breathlessness","DM",2020-09-09,2020-09-12,2020-09-18,NA
+7758,"Koppal","458702",34,"Female","SARI","Breathlessness","-",2020-09-16,2020-09-17,2020-09-18,NA
+7832,"Koppal","423597",63,"Female","Contact under tracing","Fever, Cough","DM, HTN",2020-09-10,2020-09-15,2020-09-19,NA
+7872,"Koppal","453029",85,"Female","Contact under tracing","Breathlessness","DM, IHD",2020-09-11,2020-09-13,2020-09-19,NA
+7878,"Koppal","465324",55,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-10,2020-09-15,2020-09-19,NA
+7891,"Koppal","480393",44,"Male","Contact under tracing","Fever, Cough","-",2020-09-09,2020-09-14,2020-09-19,NA
+7903,"Koppal","498768",54,"Male","Contact under tracing","Fever, Cough","DM",2020-09-15,2020-09-17,2020-09-19,NA
+7915,"Koppal","510028",44,"Male","Contact under tracing","Fever, Cough","-",2020-09-15,2020-09-16,2020-09-19,NA
+7920,"Koppal","514960",42,"Male","Contact under tracing","Breathlessness","-",2020-09-17,2020-09-18,2020-09-19,NA
+7959,"Koppal","443378",80,"Male","Contact under tracing","Breathlessness","HTN",2020-09-18,2020-09-19,2020-09-20,NA
+7970,"Koppal","456806",80,"Female","Contact under tracing","Fever, Cough","DM",2020-09-15,2020-09-17,2020-09-20,NA
+8009,"Koppal","507595",32,"Male","Contact under tracing","Fever, Cough","DM",2020-09-17,2020-09-19,2020-09-20,NA
+8020,"Koppal","518579",58,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-09-12,2020-09-14,2020-09-20,NA
+8104,"Koppal","500803",67,"Male","ILI","Fever, Cough","DM, HTN",2020-09-17,2020-09-20,2020-09-21,NA
+8437,"Koppal","465427",56,"Male","-","Fever","DM, HTN",2020-09-11,2020-09-22,2020-09-26,NA
+8476,"Koppal","526930",65,"Male","-","-","-",2020-09-18,2020-09-24,2020-09-26,NA
+8707,"Koppal","465289",85,"Female","SARI","Breathlessness","HTN",2020-09-12,2020-09-24,2020-09-29,NA
+8711,"Koppal","474948",60,"Female","ILI","Fever, Cough","-",2020-09-13,2020-09-13,2020-09-29,NA
+8712,"Koppal","476069",55,"Male","Contact under tracing","-","-",2020-09-13,2020-09-13,2020-09-29,NA
+8724,"Koppal","509584",23,"Male","Contact under tracing","-","-",2020-09-17,2020-09-18,2020-09-29,NA
+8754,"Koppal","560335",92,"Male","Contact under tracing","-","HTN",2020-09-23,2020-09-24,2020-09-29,NA
+8792,"Koppal","465354",62,"Male","ILI","Fever","-",2020-09-10,2020-09-12,2020-09-30,NA
+8793,"Koppal","465391",73,"Female","ILI","Fever","DM",2020-09-06,2020-09-13,2020-09-30,NA
+8801,"Koppal","492023",65,"Male","SARI","Breathlessness","-",2020-09-15,2020-09-15,2020-09-30,NA
+8802,"Koppal","492837",40,"Male","SARI","Breathlessness","-",2020-08-17,2020-08-18,2020-09-30,NA
+8804,"Koppal","498544",66,"Male","ILI","Fever","-",NA,2020-09-18,2020-09-30,"Brought dead"
+8811,"Koppal","526365",45,"Female","ILI","Fever","DM",2020-09-24,2020-09-26,2020-09-30,NA
+8871,"Koppal","606315",45,"Male","Contact under tracing","-","CLD",NA,2020-09-28,2020-09-30,"Brought dead"
+8921,"Koppal","507003",55,"Male","ILI","Fever, Cough","-",2020-09-12,2020-09-24,2020-10-01,NA
+8925,"Koppal","514893",84,"Female","ILI","Fever, Cough","HTN",2020-09-18,2020-09-24,2020-10-01,NA
+8930,"Koppal","523382",72,"Male","SARI","Breathlessness","HTN",2020-09-18,2020-09-22,2020-10-01,NA
+8932,"Koppal","530195",40,"Male","ILI","Fever, Cough","CLD",NA,2020-09-19,2020-10-01,"Died at his residence"
+8934,"Koppal","533199",65,"Female","ILI","Fever, Cough","-",2020-09-17,2020-09-19,2020-10-01,NA
+9061,"Koppal","569906",70,"Male","ILI","Fever, Cough","-",2020-09-24,2020-10-02,2020-10-02,NA
+9078,"Koppal","582114",70,"Female","SARI","Breathlessness","HTN",2020-09-23,2020-10-02,2020-10-02,NA
+9127,"Koppal","642356",82,"Female","ILI","Fever, Cough","-",2020-10-01,2020-10-02,2020-10-02,NA
+9152,"Koppal","549083",62,"Female","Contact under tracing","-","DM, HTN",NA,2020-10-01,2020-10-03,"Brought dead"
+9206,"Koppal","611812",38,"Male","Contact under tracing","-","-",2020-09-29,2020-10-03,2020-10-03,NA
+9229,"Koppal","465318",65,"Male","Contact under tracing","Breathlessness","-",2020-09-05,2020-09-12,2020-10-04,NA
+9230,"Koppal","476573",70,"Male","Contact under tracing","Breathlessness","DM",2020-09-13,2020-09-29,2020-10-04,NA
+9232,"Koppal","491537",23,"Male","Contact under tracing","Fever","-",2020-09-15,2020-09-17,2020-10-04,NA
+9249,"Koppal","548813",65,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-21,2020-10-03,2020-10-04,NA
+9294,"Koppal","650557",60,"Female","Contact under tracing","Breathlessness","DM",NA,2020-10-02,2020-10-04,"Brought dead"
+9301,"Koppal","543405",45,"Female","SARI","Breathlessness","DM, HTN",2020-09-21,2020-10-04,2020-10-05,NA
+9320,"Koppal","577109",45,"Male","ILI","Fever, Cough","DM",2020-09-27,2020-10-04,2020-10-05,NA
+9382,"Koppal","461598",70,"Male","SARI","Breathlessness","-",NA,2020-09-12,2020-10-06,"Died at his residence"
+9385,"Koppal","521446",72,"Male","SARI","Breathlessness","-",2020-09-18,2020-09-27,2020-10-06,NA
+9814,"Koppal","572715",24,"Female","ILI","Fever, Cough","HTN",2020-09-23,2020-09-26,2020-10-10,NA
+9820,"Koppal","577108",67,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-27,2020-10-09,2020-10-10,NA
+9823,"Koppal","581473",70,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-09-24,2020-10-02,2020-10-10,NA
+9844,"Koppal","617970",70,"Female","ILI","Fever, Cough","-",2020-09-29,2020-10-01,2020-10-10,NA
+9857,"Koppal","640515",84,"Female","SARI","Cough, Breathlessness","HTN",2020-10-01,2020-10-09,2020-10-10,NA
+9867,"Koppal","660063",83,"Male","SARI","Breathlessness","HTN",2020-10-03,2020-10-09,2020-10-10,NA
+9884,"Koppal","688321",70,"Male","SARI","Fever, Cough","DM",2020-10-01,2020-10-07,2020-10-10,NA
+9929,"Koppal","646159",95,"Male","SARI","Fever, Cough","-",2020-10-02,2020-10-11,2020-10-11,NA
+9971,"Koppal","709770",40,"Male","Contact under tracing","Breathlessness","CKD",2020-10-10,2020-10-10,2020-10-11,NA
+9980,"Koppal","523374",55,"Male","SARI","Fever, Breathlessness","HTN",2020-09-29,2020-10-03,2020-10-12,NA
+9981,"Koppal","526242",56,"Male","ILI","Fever, Cough","DM, HTN",2020-10-01,2020-10-05,2020-10-12,NA
+9986,"Koppal","610362",51,"Male","SARI","Breathlessness","DM",2020-09-25,2020-09-29,2020-10-12,NA
+10020,"Koppal","688322",86,"Female","SARI","Breathlessness","-",2020-10-07,2020-10-11,2020-10-12,NA
+10054,"Koppal","568909",65,"Male","SARI","Fever, Cough","DM, HTN",2020-10-02,2020-10-09,2020-10-13,NA
+10068,"Koppal","648552",75,"Male","ILI","Fever, Cough","IHD",2020-10-05,2020-10-07,2020-10-13,NA
+10113,"Koppal","717606",58,"Male","Contact under tracing","Fever, Cough","DM",2020-10-10,2020-10-12,2020-10-13,NA
+10162,"Koppal","670427",53,"Male","ILI","Fever, Cough","-",2020-10-10,2020-10-13,2020-10-14,NA
+10238,"Koppal","679732",65,"Male","SARI","Fever, Cough","DM",2020-09-08,2020-10-14,2020-10-15,NA
+10486,"Koppal","777877",60,"Male","SARI","Fever, Cough","DM",2020-10-16,2020-10-17,2020-10-18,NA
+10533,"Koppal","761875",58,"Male","ILI","Fever, Cough","DM",NA,2020-10-18,2020-10-19,"Brought dead"
+10694,"Koppal","774098",75,"Female","ILI","Fever, Cough","-",2020-10-15,2020-10-20,2020-10-21,NA
+10727,"Koppal","715027",52,"Male","ILI","Fever, Cough","DM, HTN",2020-10-15,2020-10-19,2020-10-22,NA
+10734,"Koppal","730392",65,"Male","ILI","Fever, Cough","HTN",2020-10-15,2020-10-19,2020-10-22,NA
+10772,"Koppal","791576",55,"Female","ILI","Fever, Cough","DM, HTN",2020-10-18,2020-10-18,2020-10-22,NA
+10776,"Koppal","796490",54,"Male","SARI","Breathlessness","DM",2020-10-18,2020-10-21,2020-10-22,NA
+10777,"Koppal","799741",45,"Male","SARI","Breathlessness","-",2020-10-21,2020-10-21,2020-10-22,NA
+10906,"Koppal","787645",80,"Female","ILI","Fever, Cough","-",NA,2020-10-24,2020-10-25,"Died at her residence"
+11188,"Koppal","811946",65,"Male","ILI","Fever, Cough","HTN",2020-10-23,2020-11-01,2020-11-01,NA
+11194,"Koppal","823942",69,"Male","ILI","Fever, Cough","DM, CLD",2020-10-30,2020-10-31,2020-11-01,NA
+11235,"Koppal","798905",55,"Female","ILI","Fever, Cough","DM, HTN",2020-10-21,2020-10-26,2020-11-03,NA
+11330,"Koppal","816449",75,"Male","ILI","Fever, Cough","DM",2020-10-24,2020-11-02,2020-11-06,NA
+11351,"Koppal","849910",41,"Female","SARI","Fever, Breathlessness","HTN",2020-11-03,2020-11-04,2020-11-06,NA
+11985,"Koppal","914923",80,"Female","SARI","Fever, Cough","-",2020-12-11,2020-12-13,2020-12-18,NA
+12449,"Koppal","960032",48,"Male","SARI","Fever, Cough, Breathlessness","CLD",2021-02-12,2021-02-18,2021-03-24,NA
+13280,"Koppal","1045856",60,"Male","ILI","Fever, Cough","-",2021-04-06,2021-04-13,2021-04-18,NA
+13322,"Koppal","1123417",82,"Female","SARI","Fever, Breathlessness","HTN",2021-04-15,2021-04-15,2021-04-18,NA
+15810,"Koppal","1185119",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-18,2021-04-19,2021-05-02,NA
+15862,"Koppal","1341816",56,"Male","SARI","Fever, Breathlessness","-",2021-04-22,2021-04-22,2021-05-02,NA
+15866,"Koppal","1346441",35,"Male","SARI","Cough, Breathlessness","HTN, CKD, CLD",2021-04-24,2021-04-25,2021-05-02,NA
+15892,"Koppal","1397359",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-26,2021-05-02,NA
+15909,"Koppal","1420396",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-24,2021-04-24,2021-05-02,NA
+19589,"Koppal","1652064",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-09,2021-05-11,NA
+19592,"Koppal","1665417",58,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-08,2021-05-11,NA
+19788,"Koppal","1918719",58,"Female","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-10,2021-05-11,NA
+19913,"Koppal","1524217",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-04-30,2021-05-12,NA
+19916,"Koppal","1529363",50,"Female","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-04,2021-05-12,NA
+19921,"Koppal","1572016",45,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-04,2021-05-12,NA
+19922,"Koppal","1573700",60,"Female","ILI","Fever, Cough","HTN",2021-04-30,2021-05-04,2021-05-12,NA
+19931,"Koppal","1593740",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-03,2021-05-12,NA
+19937,"Koppal","1600085",37,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-12,NA
+19943,"Koppal","1612641",50,"Female","SARI","Cough, Breathlessness","DM",2021-05-01,2021-05-04,2021-05-12,NA
+19964,"Koppal","1657603",46,"Male","SARI","Cough, Breathlessness","DM",2021-05-02,2021-05-04,2021-05-12,NA
+19982,"Koppal","1675559",65,"Female","SARI","Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-12,NA
+19997,"Koppal","1691637",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-12,NA
+20040,"Koppal","1725777",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-05,2021-05-12,NA
+20216,"Koppal","1900462",80,"Female","SARI","Cough, Breathlessness","HTN",2021-04-23,2021-04-26,2021-05-12,NA
+20468,"Koppal","1613554",58,"Male","SARI","Breathlessness","DM",2021-05-01,2021-05-07,2021-05-13,NA
+20473,"Koppal","1618528",68,"Male","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-13,NA
+20487,"Koppal","1644087",62,"Female","ILI","Cough","-",2021-05-01,2021-05-02,2021-05-13,NA
+20515,"Koppal","1729166",75,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-07,2021-05-13,NA
+20816,"Koppal","1678905",55,"Female","SARI","Breathlessness","HTN",2021-05-02,2021-05-06,2021-05-14,NA
+20893,"Koppal","1881690",36,"Male","SARI","Breathlessness","HTN",2021-05-04,2021-05-08,2021-05-14,NA
+20895,"Koppal","1892761",45,"Female","SARI","Breathlessness","HTN",2021-05-06,2021-05-07,2021-05-14,NA
+20920,"Koppal","1949946",75,"Male","SARI","Breathlessness","HTN",2021-05-06,2021-05-08,2021-05-14,NA
+20952,"Koppal","1996216",70,"Male","SARI","Breathlessness","HTN",2021-05-07,2021-05-10,2021-05-14,NA
+20968,"Koppal","2030626",75,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-14,NA
+21132,"Koppal","1544422",52,"Female","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-11,2021-05-15,NA
+21225,"Koppal","1849645",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-04,2021-05-11,2021-05-15,NA
+21239,"Koppal","1890711",23,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-11,2021-05-15,NA
+21257,"Koppal","1927094",42,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-15,NA
+21261,"Koppal","1934382",66,"Male","SARI","Breathlessness","DM",2021-05-07,2021-05-14,2021-05-15,NA
+21288,"Koppal","1996212",43,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-12,2021-05-15,NA
+21305,"Koppal","2027977",52,"Male","SARI","Cough, Breathlessness","DM",2021-05-09,2021-05-12,2021-05-15,NA
+21323,"Koppal","2061273",45,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-15,NA
+21372,"Koppal","2118336",55,"Male","SARI","Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-15,NA
+21421,"Koppal","2189532",30,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-15,NA
+21473,"Koppal","1406710",60,"Male","SARI","Breathlessness","-",2021-04-26,2021-04-26,2021-05-16,NA
+21517,"Koppal","1537402",70,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-01,2021-05-16,NA
+21539,"Koppal","1587185",78,"Female","ILI","Fever, Cough","-",NA,2021-05-02,2021-05-16,"Died at her residence"
+21644,"Koppal","1947366",51,"Male","ILI","Fever","-",2021-05-05,2021-05-14,2021-05-16,NA
+21672,"Koppal","1997577",42,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-13,2021-05-16,NA
+21739,"Koppal","2084040",35,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-14,2021-05-16,NA
+21742,"Koppal","2092350",32,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-14,2021-05-16,NA
+21773,"Koppal","2138117",78,"Male","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-14,2021-05-16,NA
+21786,"Koppal","2157232",75,"Male","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-14,2021-05-16,NA
+21812,"Koppal","2192118",42,"Male","ILI","Fever","-",NA,2021-05-14,2021-05-16,"Died at his residence"
+21832,"Koppal","2235668",60,"Female","SARI","Breathlessness","DM, HTN",NA,2021-05-13,2021-05-16,"Died at her residence"
+21888,"Koppal","1409826",43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-26,2021-04-27,2021-05-17,NA
+21890,"Koppal","1417621",82,"Male","SARI","Fever, Breathlessness","-",2021-04-25,2021-04-26,2021-05-17,NA
+22569,"Koppal","1873371",78,"Male","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-13,2021-05-18,NA
+22572,"Koppal","1881718",58,"Male","SARI","Breathlessness","-",NA,2021-05-08,2021-05-18,"Died at his residence"
+22655,"Koppal","2049483",62,"Female","ILI","Breathlessness","-",NA,2021-05-10,2021-05-18,"Died at her residence"
+22680,"Koppal","2092345",65,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-11,2021-05-18,NA
+22698,"Koppal","2119914",78,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-12,2021-05-18,NA
+22738,"Koppal","2166378",45,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-13,2021-05-18,NA
+22766,"Koppal","2206254",72,"Female","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-13,2021-05-18,NA
+22773,"Koppal","2211661",49,"Female","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-12,2021-05-18,NA
+22776,"Koppal","2218230",75,"Male","SARI","Fever, Breathlessness","DM",2021-05-14,2021-05-16,2021-05-18,NA
+22823,"Koppal","2286850",72,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-16,2021-05-18,NA
+23086,"Koppal","2030621",65,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-18,2021-05-19,NA
+23090,"Koppal","2032975",70,"Male","SARI","Breathlessness","-",NA,2021-05-12,2021-05-19,"Died at his residence"
+23098,"Koppal","2049482",70,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-15,2021-05-19,NA
+23107,"Koppal","2061285",65,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-18,2021-05-19,NA
+23127,"Koppal","2092353",55,"Female","SARI","Breathlessness","-",NA,2021-05-13,2021-05-19,"Died at her residence"
+23137,"Koppal","2105790",66,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-16,2021-05-19,NA
+23144,"Koppal","2118587",43,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-12,2021-05-19,NA
+23165,"Koppal","2148367",40,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-13,2021-05-19,NA
+23186,"Koppal","2163486",50,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-19,NA
+23209,"Koppal","2192096",80,"Male","SARI","Breathlessness","-",NA,2021-05-12,2021-05-19,"Died at his residence"
+23219,"Koppal","2200561",65,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-17,2021-05-19,NA
+23228,"Koppal","2216053",76,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-16,2021-05-19,NA
+23235,"Koppal","2231337",50,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-19,NA
+23238,"Koppal","2235915",35,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-19,NA
+23613,"Koppal","2035515",55,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-19,2021-05-20,NA
+23615,"Koppal","2039780",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-20,NA
+23711,"Koppal","2172883",55,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-19,2021-05-20,NA
+23712,"Koppal","2172884",60,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-17,2021-05-20,NA
+23774,"Koppal","2256480",38,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-19,2021-05-20,NA
+23834,"Koppal","2333526",18,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23837,"Koppal","2337737",74,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-18,2021-05-20,NA
+23856,"Koppal","2367737",70,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-19,2021-05-20,NA
+23940,"Koppal","1915174",38,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-05-21,NA
+24110,"Koppal","2256481",40,"Male","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-19,2021-05-21,NA
+24171,"Koppal","2341809",62,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24205,"Koppal","2395922",55,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-20,2021-05-21,NA
+24438,"Koppal","1869180",32,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-20,2021-05-22,NA
+24510,"Koppal","2161184",56,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-20,2021-05-22,NA
+24549,"Koppal","2264859",75,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-20,2021-05-22,NA
+24565,"Koppal","2289755",62,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-20,2021-05-22,NA
+24612,"Koppal","2359619",70,"Female","SARI","Fever, Breathlessness","DM",2021-05-19,2021-05-21,2021-05-22,NA
+24644,"Koppal","2411178",67,"Male","SARI","Fever, Breathlessness","HTN",2021-05-19,2021-05-21,2021-05-22,NA
+24707,"Koppal","1485388",61,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-23,NA
+24793,"Koppal","1737747",35,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-23,NA
+24831,"Koppal","1797046",70,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-11,2021-05-23,NA
+24832,"Koppal","1798590",57,"Female","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-07,2021-05-23,NA
+24864,"Koppal","1851101",70,"Male","SARI","Breathlessness","DM",2021-05-11,2021-05-22,2021-05-23,NA
+24902,"Koppal","1922233",63,"Male","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-07,2021-05-23,NA
+24917,"Koppal","1949945",55,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-08,2021-05-23,NA
+24940,"Koppal","2005243",65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-09,2021-05-23,NA
+24941,"Koppal","2005266",50,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-11,2021-05-23,NA
+24972,"Koppal","2052558",45,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-11,2021-05-23,NA
+25023,"Koppal","2121667",40,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-10,2021-05-23,NA
+25262,"Koppal","2423022",26,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-23,NA
+25351,"Koppal","1491141",98,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-04-30,2021-05-24,NA
+25566,"Koppal","2138122",43,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-10,2021-05-15,2021-05-24,NA
+25647,"Koppal","2297330",98,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-23,2021-05-24,NA
+25682,"Koppal","2337755",60,"Male","SARI","Fever, Breathlessness","-",2021-05-18,2021-05-23,2021-05-24,NA
+26199,"Koppal","2235661",50,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-23,2021-05-25,NA
+26326,"Koppal","2411176",45,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-25,NA
+26727,"Koppal","2144294",65,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-25,2021-05-26,NA
+26787,"Koppal","2316317",28,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-23,2021-05-26,NA
+26858,"Koppal","2439420",45,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+26878,"Koppal","2474976",70,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-25,2021-05-26,NA
+26903,"Koppal","2501573",11,"Female","SARI","Breathlessness","-",2021-05-24,2021-05-24,2021-05-26,NA
+27289,"Koppal","2386910",62,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-25,2021-05-27,NA
+27392,"Koppal","2525063",55,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-25,2021-05-27,NA
+27394,"Koppal","2526584",65,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-26,2021-05-27,NA
+27660,"Koppal","2355568",60,"Male","SARI","Breathlessness","-",2021-05-26,2021-05-26,2021-05-28,NA
+27744,"Koppal","2512182",80,"Female","SARI","Breathlessness","-",2021-05-24,2021-05-26,2021-05-28,NA
+27780,"Koppal","2552205",70,"Female","SARI","Fever, Breathlessness","DM",2021-05-26,2021-05-26,2021-05-28,NA
+27781,"Koppal","2554251",63,"Male","SARI","Breathlessness","DM,  HTN, CKD",2021-05-26,2021-05-26,2021-05-28,NA
+27797,"Koppal","2569394",65,"Male","SARI","Breathlessness","-",2021-05-26,2021-05-27,2021-05-28,NA
+27800,"Koppal","2575535",65,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-27,2021-05-28,NA
+28560,"Koppal","2422409",65,"Female","SARI","Breathlessness","-",2021-05-20,2021-05-28,2021-05-30,NA
+28588,"Koppal","2464980",38,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-29,2021-05-30,NA
+28651,"Koppal","2577014",82,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-28,2021-05-30,NA
+28667,"Koppal","2595156",50,"Female","SARI","Breathlessness","-",2021-05-28,2021-05-29,2021-05-30,NA
+28680,"Koppal","2618894",35,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28893,"Koppal","2046597",42,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-10,2021-05-31,NA
+28897,"Koppal","2092352",78,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-11,2021-05-31,NA
+28898,"Koppal","2111064",35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-31,NA
+28946,"Koppal","2409257",44,"Female","SARI","Breathlessness","-",2021-05-28,2021-05-30,2021-05-31,NA
+28957,"Koppal","2436805",35,"Female","SARI","Fever, Breathlessness","HTN",2021-05-21,2021-05-30,2021-05-31,NA
+28958,"Koppal","2436808",80,"Male","SARI","Fever, Breathlessness","DM",2021-05-21,2021-05-30,2021-05-31,NA
+29021,"Koppal","2548499",52,"Male","SARI","Fever, Breathlessness","DM",2021-05-26,2021-05-30,2021-05-31,NA
+29055,"Koppal","2597054",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-05-29,2021-05-31,NA
+29160,"Koppal","1482454",59,"Female","SARI","Breathlessness","-",2021-04-26,2021-04-26,2021-06-01,NA
+29371,"Koppal","2310416",70,"Male","SARI","Breathlessness","-",2021-05-17,2021-05-17,2021-06-01,NA
+29382,"Koppal","2362957",50,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-19,2021-06-01,NA
+29393,"Koppal","2379577",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-17,2021-06-01,NA
+29408,"Koppal","2411213",54,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-18,2021-06-01,NA
+29419,"Koppal","2439412",75,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-24,2021-06-01,NA
+29442,"Koppal","2482193",63,"Male","SARI","Breathlessness","-",NA,2021-05-23,2021-06-01,"Died at his residence"
+29449,"Koppal","2491323",45,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-30,2021-06-01,NA
+29884,"Koppal","2491344",36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-30,2021-06-02,NA
+29900,"Koppal","2515311",40,"Male","ILI","Cough","-",2021-05-29,2021-05-19,2021-06-02,NA
+29919,"Koppal","2545227",75,"Male","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-26,2021-06-02,NA
+29921,"Koppal","2547169",45,"Male","SARI","Cough, Breathlessness","-",2021-05-28,2021-05-31,2021-06-02,NA
+29934,"Koppal","2568842",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-26,2021-06-02,NA
+29960,"Koppal","2611459",62,"Female","SARI","Fever, Breathlessness","-",2021-05-28,2021-06-01,2021-06-02,NA
+29996,"Koppal","2654457",50,"Male","SARI","Cough, Breathlessness","-",2021-05-31,2021-05-31,2021-06-02,NA
+30356,"Koppal","2485778",12,"Male","ILI","Fever, Breathlessness","DM",2021-05-21,2021-06-01,2021-06-03,NA
+30363,"Koppal","2501204",85,"Female","SARI","Breathlessness","-",2021-05-28,2021-05-29,2021-06-03,NA
+30364,"Koppal","2501441",60,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-29,2021-06-03,"Died at his residence"
+30388,"Koppal","2522397",52,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-31,2021-06-03,NA
+30389,"Koppal","2522444",59,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-03,2021-06-03,NA
+30390,"Koppal","2522449",65,"Female","SARI","Breathlessness","-",NA,2021-05-31,2021-06-03,"Died at her residence"
+30400,"Koppal","2534844",44,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-06-01,2021-06-03,NA
+30403,"Koppal","2539938",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-06-01,2021-06-03,NA
+30405,"Koppal","2543607",55,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-05-27,2021-06-03,"Died at her residence"
+30407,"Koppal","2546067",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-06-02,2021-06-03,NA
+30722,"Koppal","2391824",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-26,2021-06-04,NA
+30727,"Koppal","2398614",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-06-04,NA
+30732,"Koppal","2425304",65,"Male","SARI","Fever, Cough","-",NA,2021-05-24,2021-06-04,"Died at his residence"
+30736,"Koppal","2443423",52,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-06-04,NA
+30741,"Koppal","2451841",68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-29,2021-06-04,NA
+30841,"Koppal","2641161",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-01,2021-06-04,NA
+31142,"Koppal","2543617",30,"Male","SARI","Breathlessness","-",2021-06-03,2021-06-04,2021-06-05,NA
+31191,"Koppal","2631037",70,"Male","SARI","Fever, Breathlessness","HTN",2021-05-28,2021-06-03,2021-06-05,NA
+31219,"Koppal","2665343",75,"Male","ILI","Fever","-",2021-05-31,2021-06-02,2021-06-05,NA
+31239,"Koppal","2688342",25,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-02,2021-06-05,NA
+31260,"Koppal","2716535",65,"Female","SARI","Fever, Breathlessness","-",2021-06-04,2021-06-04,2021-06-05,NA
+31513,"Koppal","2635370",70,"Male","SARI","Fever, Breathlessness","-",2021-05-30,2021-06-05,2021-06-06,NA
+31790,"Koppal","2573958",65,"Male","ILI","Fever","COPD",2021-05-27,2021-06-03,2021-06-07,NA
+31791,"Koppal","2575540",35,"Male","SARI","Breathlessness","CA",NA,2021-05-26,2021-06-07,"Died at his residence"
+31811,"Koppal","2607416",48,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-04,2021-06-07,NA
+31828,"Koppal","2635351",78,"Male","SARI","Breathlessness",NA,2021-05-30,2021-06-05,2021-06-07,NA
+31854,"Koppal","2666227",54,"Male","SARI","Fever, Breathlessness","TB",2021-06-05,2021-06-05,2021-06-07,NA
+31876,"Koppal","2688344",2,"Male","SARI","Fever, Breathlessness","-",2021-05-31,2021-06-04,2021-06-07,NA
+31959,"Koppal","2451832",72,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-25,2021-06-08,"Died at his residence"
+31974,"Koppal","2544447",69,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-29,2021-06-08,"Died at her residence"
+31975,"Koppal","2552204",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-31,2021-06-08,NA
+31983,"Koppal","2570313",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-30,2021-06-08,NA
+32132,"Koppal","2454320",62,"Male","ILI","Fever","-",2021-05-20,2021-05-24,2021-06-09,NA
+32150,"Koppal","2556297",56,"Male","SARI","Breathlessness","-",2021-05-26,2021-05-26,2021-06-09,NA
+32276,"Koppal","2749989",29,"Female","SARI","Breathlessness","HTN",2021-06-06,2021-06-07,2021-06-09,NA
+32281,"Koppal","2758591",38,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-07,2021-06-09,NA
+32388,"Koppal","2665256",42,"Female","SARI","Fever, Breathlessness","Hypo thyrodism",2021-06-01,2021-06-06,2021-06-10,NA
+32467,"Koppal","2760859",65,"Female","SARI","Fever, Breathlessness","DM",2021-06-07,2021-06-09,2021-06-10,NA
+32531,"Koppal","2590342",79,"Male","SARI","Breathlessness","-",NA,2021-06-03,2021-06-11,"Died at his residence"
+32545,"Koppal","2625505",40,"Male","SARI","Breathlessness","-",2021-06-04,2021-06-06,2021-06-11,NA
+32752,"Koppal","2740273",67,"Female","SARI","Breathlessness","-",2021-06-03,2021-06-10,2021-06-12,NA
+32761,"Koppal","2753951",75,"Male","SARI","Breathlessness","DM",2021-06-07,2021-06-11,2021-06-12,NA
+32870,"Koppal","2741971",62,"Male","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-11,2021-06-13,NA
+32876,"Koppal","2752200",42,"Female","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-12,2021-06-13,NA
+32898,"Koppal","2778555",75,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-11,2021-06-13,NA
+32986,"Koppal","2731659",56,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-13,2021-06-14,NA
+33006,"Koppal","2768728",60,"Female","ILI","Fever, Cough","-",NA,2021-06-12,2021-06-14,"Died at her residence"
+33060,"Koppal","2635297",63,"Male","ILI","Fever, Cough","DM, HTN",2021-05-29,2021-06-14,2021-06-15,NA
+33121,"Koppal","2773199",62,"Female","ILI","Fever, Cough","-",2021-06-03,2021-06-13,2021-06-15,NA
+33192,"Koppal","2692893",65,"Female","SARI","Fever, Breathlessness","-",2021-06-02,2021-06-04,2021-06-16,NA
+33212,"Koppal","2720144",52,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-22,2021-06-16,NA
+33228,"Koppal","2742324",40,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-14,2021-06-16,NA
+33320,"Koppal","2575525",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-06-17,NA
+33332,"Koppal","2625527",80,"Female","ILI","Fever, Cough","-",NA,2021-06-04,2021-06-17,"Died at her residence"
+33356,"Koppal","2706287",65,"Female","SARI","Breathlessness","-",2021-06-03,2021-06-16,2021-06-17,NA
+33386,"Koppal","2773214",80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-15,2021-06-17,NA
+33489,"Koppal","2692825",60,"Male","SARI","Breathlessness","-",2021-06-01,2021-06-02,2021-06-18,NA
+33527,"Koppal","2760185",70,"Male","SARI","Breathlessness","HTN",2021-06-07,2021-06-16,2021-06-18,NA
+33572,"Koppal","2817902",65,"Female","SARI","Breathlessness","-",2021-06-07,2021-06-17,2021-06-18,NA
+33658,"Koppal","2758009",55,"Male","SARI","Breathlessness","-",2021-06-07,2021-06-08,2021-06-19,NA
+33659,"Koppal","2758593",68,"Male","SARI","Breathlessness","-",2021-06-06,2021-06-15,2021-06-19,NA
+33700,"Koppal","2805236",65,"Female","SARI","Breathlessness","-",2021-06-11,2021-06-17,2021-06-19,NA
+33806,"Koppal","2730336",38,"Female","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-19,2021-06-20,NA
+33930,"Koppal","2645540",50,"Female","SARI","Fever, Breathlesness","-",2021-05-29,2021-06-13,2021-06-21,NA
+33941,"Koppal","2678081",57,"Male","SARI","Fever, Breathlesness","DM, HTN",2021-05-31,2021-06-07,2021-06-21,NA
+33943,"Koppal","2680757",50,"Female","SARI","Fever, Breathlesness","HTN",2021-05-30,2021-06-08,2021-06-21,NA
+34324,"Koppal","2756456",76,"Male","SARI","Cough, Breathlessness","DM",2021-06-07,2021-06-07,2021-06-24,NA
+34325,"Koppal","2762803",40,"Male","SARI","Fever, Cough, Breathlesness","DM",2021-06-11,2021-06-12,2021-06-24,NA
+34599,"Koppal","2808352",72,"Male","ILI","Cough","-",2021-05-24,2021-06-15,2021-06-26,NA
+34684,"Koppal","2769491",55,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-08,2021-06-26,2021-06-27,NA
+34983,"Koppal","2828758",52,"Male","SARI","Cough, Breathlessness","-",2021-06-16,2021-06-30,2021-06-30,NA
+35000,"Koppal","2854465",56,"Male","SARI","Cough, Breathlessness","-",2021-06-27,2021-06-29,2021-06-30,NA
+35076,"Koppal","2812115",55,"Male","SARI","Cough, Breathlessness","HTN",2021-06-26,2021-06-30,2021-07-01,NA
+35243,"Koppal","2666223",40,"Male","SARI","Fever, Breathlessness","-",2021-05-20,2021-06-01,2021-07-03,NA
+35335,"Koppal","2855730",40,"Female","SARI","Breathlessness","-",2021-06-21,2021-06-22,2021-07-04,NA
+35542,"Koppal","2766476",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-06-13,2021-07-07,"Died at his residence"
+35671,"Koppal","2778548",50,"Male","SARI","Breathlessness","DM, HTN",2021-05-26,2021-07-09,2021-07-09,NA
+35847,"Koppal","2857427",55,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-06-23,2021-07-11,2021-07-12,NA
+35995,"Koppal","2748803",27,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-25,2021-07-15,NA
+36396,"Koppal","2908073",60,"Male","SARI","Breathlessness","-",2021-07-08,2021-07-25,2021-07-27,NA
+36666,"Koppal","2705541",38,"Male","ILI","Cough","-",2021-06-10,2021-06-12,2021-08-05,NA
+36831,"Koppal","2960333",55,"Male","ILI","Fever, Cough","-",2021-08-08,2021-08-09,2021-08-10,NA
+37585,"Koppal","2983919",76,"Male","ILI","Fever, cough","-",2021-08-26,2021-09-21,2021-09-21,NA
+37616,"Koppal","2950205",55,"Female","SARI","Cough, Breathlessness","DM",2021-08-03,2021-09-22,2021-09-22,NA
+37720,"Koppal","3004433",60,"Female","SARI","Fever, Breathlessness","-",2021-09-13,2021-09-18,2021-09-29,NA
+38053,"Koppal","2750486",65,"Female","ILI","Cough","DM",2021-06-03,2021-06-08,2021-11-06,NA
+38063,"Koppal","2882544",58,"Male","SARI","Cough, Breathlessness","DM",2021-06-29,2021-06-30,2021-11-08,NA
+38082,"Koppal","2852184",36,"Male","ILI","Breathing Issues","-",2021-06-21,2021-06-22,2021-11-11,NA
+38104,"Koppal","2860983",72,"Male","SARI","Breathlessness","-",2021-06-22,2021-07-02,2021-11-17,NA
+38116,"Koppal","2543595",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-02,2021-11-19,NA
+38128,"Koppal","2945653",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-31,2021-08-15,2021-11-23,NA
+38783,"Koppal","3662734",90,"Male","SARI","Breathlessness","HTN, IHD",2022-01-22,2022-01-26,2022-01-28,NA
+39034,"Koppal","3764161",45,"Male","ILI","Fever, Cough","-",NA,NA,2022-02-01,"Died at his residence"
+39164,"Koppal","3906189",50,"Male","SARI","Cough, Breathlessness","DM, HTN",2022-02-01,2022-02-01,2022-02-04,NA
+39169,"Koppal","3920483",75,"Female","ILI","Cough","-",NA,2022-02-03,2022-02-04,"Brought dead"
+39467,"Koppal","3827911",55,"Female","ILI","Fever","HTN",2022-01-29,2022-01-29,2022-02-11,NA
+39621,"Koppal","3872801",75,"Female","ILI","Breathlessness","DM,HTN",2022-01-22,2022-01-31,2022-02-16,NA
+39852,"Koppal","3770128",70,"Male","ILI","Fever","HTN",NA,2022-02-17,2022-02-28,"Died at his residence"
+39979,"Koppal","4053341",55,"Male","SARI","Fever,
+Breathlessness","HTN",2022-07-25,2022-07-26,2022-07-29,NA
+40013,"Koppal","4076936",70,"Male","SARI","Fever and Breathlessness","-",2022-08-08,2022-08-09,2022-08-11,NA
+40015,"Koppal","4075022",65,"Male","SARI","Cough, Breathlessness","TB,",2022-07-28,2022-08-07,2022-08-12,NA
+40024,"Koppal","4069093",62,"Male","SARI","Breathlessness","-",2022-08-09,2022-08-10,2022-08-14,NA
+40036,"Koppal","4074253",50,"Female","SARI","Breathlessness","CKD",2022-08-05,2022-08-06,2022-08-18,NA
+40107,"Koppal","4112175",65,"Female","SARI","Breathlessness","HTN",2022-09-08,2022-09-12,2022-09-14,NA

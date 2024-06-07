@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+<div class="container page">
+<div class="container-fluid">
+ 
+
+<div class="row">
+      <div class="col-sm-12">
+      </div>
+      </div>
+  <div class="row" align=center>
+      <div class="col-sm-12">
+  <br><br>  
+  <h3> <font color=maroon>Age Distribution of Deceased</font></h3>
+<!--<a href="./csv/karlastweekR.csv">[Weekly Data in CSV]</a>--><br><br><hr><br>
+
+<p align="left"> The detailed anaysis of the deceased based on age and gender distributions has been presented here. This throws light on the past trends of vulnerability of people which can be helpful to understand the patterns upto now. </p> 
+<center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+<br>
+
+<h4>Karnataka Age Distribution</h4>
+<br>
+<p align="left"> The graph below provides the stacked age distribution of the deceased COVID-19 patients in Karnataka along with the census of the population of Karnataka for reference. Since the unknown entries of age, sex, districts were small in number, they were not plotted. The data has a district called as others, whose count was also less and hence not plotted.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/kaAgePop.html" target=top>   <img src="./graphs/kaAgePop.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<p align="left"> The filled in blue color indicates the distribution of the deceased coronavirus patients in Karnataka and the red outline represents the census of population. From the graph we see that mean age of the deceased is around 60 yrs. People of age 60-70 have the highest number of deceased patients, while people around the age of 0-30 have very less death count when compared to the demographic of Karnataka.</p>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/kaAge.html" target=top>   <img src="./graphs/kaAge.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<p align="left">The graph is the stacked age gender distribution of the deceased in Karnataka.</p>
+<br><hr><br>
+
+
+<h4>Wave 1 and Wave 2 Age Distribution</h4>
+<br>
+<div class="row">
+  <div class="col-sm-6">
+ <a href="./graphs/wave1AgePop.html" target=top>   <img src="./graphs/wave1AgePop.png" style="width:100%"></a>
+</div>
+  <div class="col-sm-6">
+ <a href="./graphs/wave2AgePop.html" target=top>   <img src="./graphs/wave2AgePop.png" style="width:100%"></a>
+  </div>
+  </div>
+<br>
+<p align="left">The graphs present wave 1 and wave 2 deceased COVID-19 patients age distribution along with the census of population of Karnataka for reference. Though the trends in wave 1 and wave 2 are almost similar, from the graph it can be seen that the mean age of deceased in wave 1 is around 61 and wave 2 is around 60. The deceased population between 0-40 has increased during wave 2 than wave 1, but still the highest deaths is observed in 60-70 age interval.</p>
+<br><hr><br>
+
+<h4>Age and Gender Distribution across waves</h4>
+<br>
+<p align="left"> The data collected has been classified into three waves to get a better understanding of the impact of Covid-19. Below are the stacked age gender plots for each wave.</p>
+<ul align="left">
+  <li>Wave 1 - till the end of October 2020</li>
+  <li>Middle wave - from November 2020 till the end of January 2021</li>
+  <li>Wave 2 - from February 2021 till present</li>
+</ul>
+<a href="./ageDistDecease.html">District wise stacked age gender plots</a>
+<br><br>
+<p align="left"> In all the below graphs, the yellow color indicates the males while the blue indicates the females. 	
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/wave1AgeDistr.html" target=top>   <img src="./graphs/wave1AgeDistr.png" style="width:100%"></a>
+  </div>
+</div>
+<br><br>
+<a href="../csv/Wave1Data.csv">Wave 1 data</a>
+<br><br>
+<p align="left">This is the stacked age gender plot of the deceased during wave 1. This shows the mean age of the deceased is 61 yrs. Across the entire distribution, we can observe that the males have been more affected than the females.</p>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/midWaveAgeDistr.html" target=top>   <img src="./graphs/midWaveAgeDistr.png" style="width:100%"></a>
+  </div>
+</div>
+<br><br>
+<a href="../csv/MidWaveData.csv">Middle Wave data</a>
+<br><br>
+<p align="left">This is the stacked age gender plot of the deceased during the middle wave. From this graph, we can see that the gender trend of death count of males being higher than females still persists, though the total death count overall has reduced drastically compared to wave 1. The mean age of the deceased during this wave is around 64 yrs.</p>
+<br>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/wave2AgeDistr.html" target=top>   <img src="./graphs/wave2AgeDistr.png" style="width:100%"></a>
+  </div>
+</div>
+<br><br>
+<a href="../csv/Wave2Data.csv">Wave 2 data</a>
+<br><br>
+<p align="left">This is the stacked age gender plot of the deceased during this wave 2. It can be seen that the number of deceased has increased compared to the previous waves. Though the male death count does seem to high, the death count of female has increased compared to the previous waves. The mean age of the deceased during this wave is around 60 yrs. The peak age of deceased is still around 60-70, but the death count of people of age around 30-40 and 40-50 has increased compared to previous waves, thus extending the range of affected victims.</p>
+<br><hr><br>
+
+<h4>Wave based Age and Gender Distribution</h4>
+<br>
+<a href="../csv/DataWithWaveCategory.csv">Deceased data categorized by waves</a>
+<br><br>
+<div class="row">
+  <div class="col-sm-6">
+ <a href="./graphs/ageAcrossWaves.html" target=top>   <img src="./graphs/ageAcrossWaves.png" style="width:100%"></a>
+  </div>
+  <div class="col-sm-6">
+ <a href="./graphs/totalDeathsAcrossWaves.html" target=top>   <img src="./graphs/totalDeathsAcrossWaves.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<p align="left">From these graphs, we can see that the number of deceased in the middle wave is very less. But the death count has increased a lot in the second wave across all ages compared to the first wave.</p>
+<br><hr><br>
+
+<h4>Confidence Interval</h4>
+<br>
+<a href="../csv/WaveWiseStatisticsAcrossDistricts.csv">Wave wise all statistics across districts</a>
+<br><br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/waveCI-T.html" target=top>   <img src="./graphs/waveCI-T.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<p align="left">This plot represents the confidence interval for the age of the deceased by each district. It has been ordered in descending order of mean age of the deceased in wave 1. 95% t-interval around the mean age has been calculated and plotted. A wide variation about the districts can be observed.</p>
+<br><hr><br>
+
+<h4>Wave 1 and Wave 2 comparison</h4>
+<br>
+<a href="../csv/DeathCountAcrossWavesDistrictWise.csv">Number of deceased across districts and waves</a>
+<br><br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/waveScatter.html" target=top>   <img src="./graphs/waveScatter.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<p align="left">This is a plot of number of deceased in wave 1 versus the number of deceased in wave 2, with the point size indicating the sum of deaths during the two waves across districts. The line y=x has been plotted. This suggests that the districts above the line have wave 2 death count higher than wave 1 death count, while districts below the line have wave 1 death count higher than that of wave 2. The number of deceased in Bengaluru Urban during wave 1 is 3836, during middle wave is 488 and during wave 2 is 11235 as of 2nd July, 2021. Due to the large count, this district has not been plotted.</p>
+<br><hr><br>
+
+<h4>District based Age distribution</h4>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageBoxPlot.html" target=top>   <img src="./graphs/ageBoxPlot.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<p align="left">This plot, across districts, suggest that the median age of the deceased from every district is around 60 mostly, consistent with the general overall trends and across waves. We can see that the maximum number of outliers can be observed with Bengaluru Urban while Bidar has no outliers.</p>
+
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatter.html" target=top>   <img src="./graphs/ageScatter.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<p align="left">This graph is the scatter plot of the total age distribution across all districts. As we can see, Bengaluru Urban's trend seems to be different. Below are three scatter plots that give the age distributions of districts based on their total death counts.</p>
+
+<br><hr><br>
+
+<h4>Analysis based on number of deceased across Districts</h4>
+<br>
+<p align="left">These three graphs are the age distribution across districts with the total death count in the district being less than 500, 500-1000, and more than 1000. </p>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatterCntLessThan500.html" target=top>   <img src="./graphs/ageScatterCntLessThan500.png" style="width:100%"></a>
+</div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ageScatterCnt500And1000.html" target=top>   <img src="./graphs/ageScatterCnt500And1000.png" style="width:100%"></a>
+  </div>
+</div>
+<br>
+<div class="row">
+<div class="col-sm-12">
+ <a href="./graphs/ageScatterCntAbove1000.html" target=top>   <img src="./graphs/ageScatterCntAbove1000.png" style="width:100%"></a>
+  </div>
+</div>
+<br><hr><br>
+
+<h4>Monthwise distribution of number of deceased</h4>
+<br>
+<div class="row">
+  <div class="col-sm-6">
+ <a href="./graphs/linePlotAgeDistr.html" target=top>   <img src="./graphs/linePlotAgeDistr.png" style="width:100%"></a>
+</div>
+  <div class="col-sm-6">
+ <a href="./graphs/linePlotAgeDistrPercent.html" target=top>   <img src="./graphs/linePlotAgeDistrPercent.png" style="width:100%"></a>
+  </div>
+  </div>
+<br>
+<p align="left">The two graphs represent monthwise death count and monthwise death percentage of people belonging to three different age categories, namely, 0-45, 45-60 and above 60. The sum of percentages across all the months, for all three age categories each, is 100 percent. Although there has been slight increase in deaths in August 2020, there is a visible spike of death cases in May 2021.</p>
+<a href="../csv/DataWithAgeWiseCategory.csv">Deceased data categorized by the three age bins</a>
+
+<br><hr><br>
+
+</div>
+</div>
+
+  
+<footer class="container-fluid text-left">
+<div class="row">
+  <div class="col-sm-12">
+    <hr><br>
+<!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karn urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+<!-- <br><br>  -->
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 

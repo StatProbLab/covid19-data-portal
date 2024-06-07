@@ -1,0 +1,375 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+4,"Bagalakote","125",75,"Male",NA,NA,NA,NA,2020-04-03,2020-04-04,NA
+171,"Bagalakote","10173",57,"Male","Returnee from Maharashtra","Fever & Cold","-",NA,2020-06-24,2020-06-26,"Brought Dead"
+194,"Bagalakote","10642",55,"Male","SARI","Fever & Breathlessness","-",2020-06-22,2020-06-28,2020-06-28,NA
+200,"Bagalakote","12078",50,"Male","SARI","Fever & Cough & Breathlessness","-",2020-06-25,2020-06-26,2020-06-28,NA
+387,"Bagalakote","24617",80,"Male","Contact under","-","DM",NA,2020-06-30,2020-07-06,"Died at his residence"
+399,"Bagalakote","25344",30,"Male","Travel historry to Goa","-","-",2020-07-05,2020-07-05,2020-07-07,NA
+540,"Bagalakote","10165",65,"Male","Contact of P-9151","Breathlessness & Giddiness","HTN, IHD, CKD",2020-06-24,2020-07-08,2020-07-11,NA
+574,"Bagalakote","25338",78,"Female","SARI","Fever & Cough & Breathlessness","ILD, HTN, DM",2020-07-05,2020-07-10,2020-07-11,NA
+614,"Bagalakote","13276",45,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-06-28,2020-07-11,2020-07-12,NA
+672,"Bagalakote","36430",47,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-10,2020-07-10,2020-07-12,NA
+719,"Bagalakote","31358",70,"Male","SARI","Fever & Cough & Breathlessness","TB , DM, HTN",NA,2020-07-12,2020-07-13,"Died at his residence"
+732,"Bagalakote","39529",45,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-10,2020-07-12,2020-07-13,NA
+805,"Bagalakote","36399",50,"Female","SARI","Fever & Cough & Breathlessness","COPD",2020-07-11,2020-07-13,2020-07-14,NA
+822,"Bagalakote","42469",60,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-12,2020-07-12,2020-07-14,NA
+823,"Bagalakote","42508",71,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-10,2020-07-10,2020-07-14,NA
+825,"Bagalakote","42532",70,"Female","SARI","Cough & Breathlessness","-",2020-07-05,2020-07-06,2020-07-14,NA
+899,"Bagalakote","44455",52,"Female","SARI","Breathlessness","DM, HTN",NA,2020-07-13,2020-07-15,"Died at her residence"
+900,"Bagalakote","44588",52,"Male","SARI","Cough & Breathlessness","DM, HTN",NA,2020-07-12,2020-07-15,"Died at his residence"
+901,"Bagalakote","44617",75,"Male","SARI","Breathlessness","-",2020-07-12,2020-07-13,2020-07-15,NA
+988,"Bagalakote","36422",65,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-11,2020-07-15,2020-07-16,NA
+1012,"Bagalakote","47994",65,"Female","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-13,2020-07-16,"Died at her residence"
+1013,"Bagalakote","48024",53,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-14,2020-07-14,2020-07-16,NA
+1015,"Bagalakote","48074",45,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-14,2020-07-16,"Brought dead"
+1016,"Bagalakote","48111",73,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-14,2020-07-16,"Died at his residence"
+1122,"Bagalakote","52045",55,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-12,2020-07-16,2020-07-17,NA
+1209,"Bagalakote","57791",62,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-16,2020-07-17,2020-07-18,NA
+1212,"Bagalakote","57926",39,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-13,2020-07-17,2020-07-18,NA
+1216,"Bagalakote","59245",60,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-15,2020-07-16,2020-07-18,NA
+1289,"Bagalakote","58538",60,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-16,2020-07-18,2020-07-19,NA
+1295,"Bagalakote","59379",72,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-16,2020-07-18,2020-07-19,NA
+1364,"Bagalakote","64870",56,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-18,2020-07-20,"Brought Dead"
+1366,"Bagalakote","65058",52,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-18,2020-07-20,"Brought Dead"
+1384,"Bagalakote","69169",52,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-19,2020-07-19,2020-07-20,NA
+1464,"Bagalakote","65059",48,"Female","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-18,2020-07-22,"Brought dead"
+1468,"Bagalakote","69680",46,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-18,2020-07-22,"Brought dead"
+1817,"Bagalakote","77521",55,"Female","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-17,2020-07-26,"Brought dead"
+1821,"Bagalakote","82321",54,"Male","SARI","Fever & Cough & Breathlessness","-",NA,2020-07-13,2020-07-26,"Died at his residence"
+1901,"Bagalakote","78365",75,"Male","SARI","Fever & Cough & Breathlessness","Asthma",NA,2020-07-15,2020-07-27,"Brought dead"
+1904,"Bagalakote","82601",76,"Male","SARI","Fever & Cough & Breathlessness","HTN",NA,2020-07-17,2020-07-27,"Died at his residence"
+1959,"Bagalakote","64982",62,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-18,2020-07-27,2020-07-28,NA
+1988,"Bagalakote","89349",74,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-24,2020-07-28,NA
+2075,"Bagalakote","89004",80,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-24,2020-07-29,NA
+2102,"Bagalakote","107240",34,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-26,2020-07-27,2020-07-29,NA
+2189,"Bagalakote","114110",40,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-23,2020-07-30,NA
+2193,"Bagalakote","114415",40,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-21,2020-07-22,2020-07-30,NA
+2269,"Bagalakote","114822",64,"Female","SARI","Fever & Cough & Breathlessness","-",2020-07-28,2020-07-28,2020-07-31,NA
+2405,"Bagalakote","64438",65,"Male","SARI","Fever & Cough & Breathlessness","CLD, HTN",2020-07-18,2020-07-20,2020-08-02,NA
+2439,"Bagalakote","119893",61,"Male","SARI","Fever & Cough & Breathlessness","HTN, IHD",2020-07-29,2020-07-30,2020-08-02,NA
+2630,"Bagalakote","121873",55,"Female","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-23,2020-07-28,2020-08-04,NA
+2868,"Bagalakote","155141",67,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-03,2020-08-04,2020-08-06,NA
+3287,"Bagalakote","184719",60,"Male","SARI","Fever, Cough, Breathlessness",NA,2020-08-08,2020-08-09,2020-08-10,NA
+3359,"Bagalakote","173852",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-08,2020-08-09,2020-08-11,NA
+3540,"Bagalakote","156165",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-07,2020-08-10,2020-08-13,NA
+4009,"Bagalakote","203220",45,"Female","Contact under tracing","Fever, Cough, Breathlessness",NA,2020-08-10,2020-08-12,2020-08-17,NA
+4145,"Bagalakote","211875",75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-08,2020-08-11,2020-08-18,NA
+4547,"Bagalakote","218484",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-13,2020-08-15,2020-08-22,NA
+4666,"Bagalakote","279837",45,"Female","SARI","Fever, Cough, Breathlessness","_",2020-08-17,2020-08-22,2020-08-23,NA
+4720,"Bagalakote","234452",45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-16,2020-08-24,NA
+4733,"Bagalakote","244997",67,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-08-17,2020-08-17,2020-08-24,NA
+4734,"Bagalakote","245008",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-15,2020-08-24,NA
+4983,"Bagalakote","229689",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-15,2020-08-24,2020-08-26,NA
+5051,"Bagalakote","283243",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-08-20,2020-08-26,"Brought dead"
+5054,"Bagalakote","284759",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-22,2020-08-23,2020-08-26,NA
+5070,"Bagalakote","293547",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-21,2020-08-24,2020-08-26,NA
+5078,"Bagalakote","297974",62,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-24,2020-08-26,NA
+5199,"Bagalakote","293656",55,"Female","SARI","Fever, Breathlessness","-",2020-08-22,2020-08-25,2020-08-27,NA
+5201,"Bagalakote","294306",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-24,2020-08-27,NA
+5215,"Bagalakote","311421",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-26,2020-08-27,NA
+5252,"Bagalakote","221958",55,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-14,2020-08-19,2020-08-28,NA
+5253,"Bagalakote","221961",53,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-15,2020-08-28,NA
+5356,"Bagalakote","319881",63,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-25,2020-08-28,2020-08-28,NA
+5473,"Bagalakote","330192",44,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-27,2020-08-28,2020-08-29,NA
+5689,"Bagalakote","342385",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-30,2020-08-31,NA
+5795,"Bagalakote","334391",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-28,2020-09-01,2020-09-01,NA
+5813,"Bagalakote","350162",58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-30,2020-08-30,2020-09-01,NA
+6035,"Bagalakote","353831",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-31,2020-08-31,2020-09-03,NA
+6105,"Bagalakote","330187",58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-29,2020-09-03,2020-09-04,NA
+6204,"Bagalakote","323868",86,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-28,2020-08-28,2020-09-05,NA
+6282,"Bagalakote","380294",86,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-29,2020-08-29,2020-09-05,NA
+6525,"Bagalakote","408689",52,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-05,2020-09-06,2020-09-07,NA
+6749,"Bagalakote","378111",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-03,2020-09-05,2020-09-09,NA
+6803,"Bagalakote","435087",78,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-08,2020-09-09,NA
+6870,"Bagalakote","388695",59,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-09-01,2020-09-07,2020-09-10,NA
+7026,"Bagalakote","413021",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-04,2020-09-10,2020-09-11,NA
+7353,"Bagalakote","455075",65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-09,2020-09-14,2020-09-14,NA
+7360,"Bagalakote","462530",70,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-09,2020-09-14,NA
+7361,"Bagalakote","462563",45,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-11,2020-09-11,2020-09-14,NA
+7560,"Bagalakote","386494",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-03,2020-09-10,2020-09-17,NA
+7598,"Bagalakote","445829",65,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-11,2020-09-13,2020-09-17,NA
+7599,"Bagalakote","445831",74,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-09-09,2020-09-16,2020-09-17,NA
+7625,"Bagalakote","477226",56,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-14,2020-09-17,NA
+7640,"Bagalakote","63807",72,"Male","SARI","Fever, Cough, Breathlessness","IHD",NA,2020-07-17,2020-09-18,"Brought dead"
+7641,"Bagalakote","94001",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-07-23,2020-09-18,"Died at his residence"
+7801,"Bagalakote","493903",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-15,2020-09-17,2020-09-18,NA
+7871,"Bagalakote","451676",35,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-18,2020-09-18,2020-09-19,NA
+7986,"Bagalakote","483249",50,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-13,2020-09-18,2020-09-20,NA
+8057,"Bagalakote","447681",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-11,2020-09-20,2020-09-21,NA
+8085,"Bagalakote","482469",40,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-14,2020-09-20,2020-09-21,NA
+8214,"Bagalakote","506593",58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-19,2020-09-21,2020-09-22,NA
+8232,"Bagalakote","531296",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-17,2020-09-21,2020-09-22,NA
+8418,"Bagalakote","550598",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-22,2020-09-23,2020-09-25,NA
+8443,"Bagalakote","478376",65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-13,2020-09-23,2020-09-26,NA
+8575,"Bagalakote","564854",73,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-24,2020-09-25,2020-09-27,NA
+8862,"Bagalakote","593389",68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-26,2020-09-29,2020-09-30,NA
+8942,"Bagalakote","542195",55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-21,2020-09-29,2020-10-01,NA
+9085,"Bagalakote","585962",75,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-09-22,2020-09-28,2020-10-02,NA
+9121,"Bagalakote","622268",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-30,2020-09-30,2020-10-02,NA
+9293,"Bagalakote","647950",75,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-02,2020-10-02,2020-10-04,NA
+9489,"Bagalakote","545964",88,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-19,2020-09-23,2020-10-07,NA
+9521,"Bagalakote","597393",71,"Male","SARI","Fever, Cough, Breathlessness","_",2020-09-25,2020-10-02,2020-10-07,NA
+9522,"Bagalakote","597394",62,"Male","SARI","Fever, Cough, Breathlessness","_",2020-09-24,2020-10-03,2020-10-07,NA
+9625,"Bagalakote","585974",73,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-27,2020-10-08,2020-10-08,NA
+9627,"Bagalakote","587074",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-25,2020-10-06,2020-10-08,NA
+9629,"Bagalakote","590490",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-10-02,2020-10-07,2020-10-08,NA
+9630,"Bagalakote","591051",76,"Male","SARI","Breathlessness","-",2020-09-26,2020-10-08,2020-10-08,NA
+9634,"Bagalakote","606720",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-24,2020-09-27,2020-10-08,NA
+9894,"Bagalakote","700180",46,"Male","Contact under tracing","-","DM, HTN",NA,2020-10-07,2020-10-10,"Brought dead"
+10005,"Bagalakote","650305",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-28,2020-10-08,2020-10-12,NA
+10006,"Bagalakote","650308",76,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-06,2020-10-09,2020-10-12,NA
+10110,"Bagalakote","712819",40,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-07,2020-10-08,2020-10-13,NA
+10189,"Bagalakote","715157",45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-10,2020-10-11,2020-10-14,NA
+10192,"Bagalakote","721512",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-10,2020-10-10,2020-10-14,NA
+10289,"Bagalakote","750467",70,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-10-12,2020-10-13,2020-10-15,NA
+10357,"Bagalakote","739026",60,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN, COPD",2020-10-09,2020-10-13,2020-10-16,NA
+10431,"Bagalakote","759969",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-11,2020-10-14,2020-10-17,NA
+10472,"Bagalakote","753335",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-12,2020-10-14,2020-10-18,NA
+10523,"Bagalakote","739904",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-09,2020-10-17,2020-10-19,NA
+10604,"Bagalakote","768938",45,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-05,2020-10-16,2020-10-20,NA
+10774,"Bagalakote","792624",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-18,2020-10-21,2020-10-22,NA
+10815,"Bagalakote","771112",63,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-21,2020-10-23,NA
+10867,"Bagalakote","786698",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD, PTB",2020-10-18,2020-10-19,2020-10-24,NA
+11525,"Bagalakote","860433",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-13,2020-11-14,2020-11-15,NA
+11678,"Bagalakote","877376",45,"Male","SARI","Fever, Cough, Breathlessness","TB",2020-11-17,2020-11-22,2020-11-23,NA
+11700,"Bagalakote","885983",32,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-23,2020-11-23,2020-11-24,NA
+11757,"Bagalakote","894248",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-24,2020-11-27,2020-11-28,NA
+11781,"Bagalakote","885722",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-21,2020-11-30,2020-11-30,NA
+12881,"Bagalakote","1063435",71,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-04-06,2021-04-08,2021-04-11,NA
+12922,"Bagalakote","1056082",51,"Female","SARI","Fever, Cough, breathlessness","DM",2021-04-04,2021-04-09,2021-04-12,NA
+13747,"Bagalakote","1212181",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-17,2021-04-20,2021-04-21,NA
+13834,"Bagalakote","1171753",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-20,2021-04-22,NA
+13835,"Bagalakote","1171754",74,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-21,2021-04-22,NA
+14495,"Bagalakote","1212180",38,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-23,2021-04-25,2021-04-26,NA
+14683,"Bagalakote","1212182",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-16,2021-04-22,2021-04-27,NA
+14967,"Bagalakote","1361475",64,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-24,2021-04-27,2021-04-28,NA
+14987,"Bagalakote","1380865",68,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-24,2021-04-27,2021-04-28,NA
+15287,"Bagalakote","1469424",45,"Male","SARI","Fever, cough, Breathlessness","DM, IHD",2021-04-25,2021-04-26,2021-04-29,NA
+15433,"Bagalakote","1400712",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-29,2021-04-30,NA
+15519,"Bagalakote","1548968",54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15520,"Bagalakote","1548970",55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-04-29,2021-04-30,NA
+15588,"Bagalakote","1244404",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-19,2021-04-30,2021-05-01,NA
+15629,"Bagalakote","1312742",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-28,2021-05-01,NA
+15727,"Bagalakote","1469445",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-25,2021-04-30,2021-05-01,NA
+15968,"Bagalakote","1565685",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-01,2021-05-02,NA
+16154,"Bagalakote","1471978",73,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-03,NA
+16165,"Bagalakote","1494425",63,"Female","SARI","Fever, cough, Breathlessness","-",2021-04-30,2021-05-01,2021-05-03,NA
+16172,"Bagalakote","1502724",55,"Female","SARI","Fever, cough, Breathlessness","-",2021-04-28,2021-05-01,2021-05-03,NA
+16210,"Bagalakote","1574040",50,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-30,2021-05-01,2021-05-03,NA
+16211,"Bagalakote","1576759",36,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-03,NA
+16302,"Bagalakote","1218130",60,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-29,2021-05-02,2021-05-04,NA
+16450,"Bagalakote","1576771",61,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-02,2021-05-03,2021-05-04,NA
+16453,"Bagalakote","1584378",42,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-29,2021-05-04,2021-05-04,NA
+16479,"Bagalakote","1622600",52,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-30,2021-05-02,2021-05-04,NA
+16516,"Bagalakote","1683852",65,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-04,NA
+16521,"Bagalakote","1692691",65,"Female","SARI","Fever, cough, Breathlessness","DM",2021-04-24,2021-05-02,2021-05-04,NA
+16523,"Bagalakote","1694448",80,"Female","SARI","Fever, cough, Breathlessness","COPD",2021-05-02,2021-05-04,2021-05-04,NA
+16533,"Bagalakote","1709106",42,"Male","SARI","Fever, cough, Breathlessness","-",2021-04-30,2021-05-03,2021-05-04,NA
+16742,"Bagalakote","1500125",71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-05-03,2021-05-05,NA
+16803,"Bagalakote","1622579",50,"Female","ILI","Fever","DM",2021-04-30,2021-05-05,2021-05-05,NA
+16873,"Bagalakote","1753990",67,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-05,NA
+16953,"Bagalakote","1350244",55,"Male","SARI","Fever, cough, breathlessness","-",2021-04-22,2021-05-03,2021-05-06,NA
+16965,"Bagalakote","1382701",65,"Female","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-05-05,2021-05-06,NA
+17016,"Bagalakote","1474024",75,"Female","SARI","Fever, cough, breathlessness","-",2021-04-23,2021-05-05,2021-05-06,NA
+17044,"Bagalakote","1518875",50,"Female","SARI","Fever, cough, breathlessness","-",2021-04-27,2021-05-05,2021-05-06,NA
+17136,"Bagalakote","1649558",60,"Male","SARI","Fever, cough, breathlessness","-",2021-05-04,2021-05-05,2021-05-06,NA
+17150,"Bagalakote","1683797",48,"Female","SARI","Fever, cough, breathlessness","-",2021-04-30,2021-05-05,2021-05-06,NA
+17186,"Bagalakote","1753999",44,"Female","SARI","Fever, cough, breathlessness","-",2021-05-03,2021-05-05,2021-05-06,NA
+17452,"Bagalakote","1464073",80,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-27,2021-05-07,2021-05-07,NA
+17660,"Bagalakote","1686972",78,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-03,2021-05-07,2021-05-07,NA
+17675,"Bagalakote","1704038",69,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-03,2021-05-05,2021-05-07,NA
+17706,"Bagalakote","1732823",54,"Male","SARI","Fever, cough, breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17766,"Bagalakote","1802415",66,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-03,2021-05-06,2021-05-07,NA
+17781,"Bagalakote","1830939",50,"Female","SARI","Fever, cough, breathlessness","-",2021-05-02,2021-05-05,2021-05-07,NA
+17804,"Bagalakote","1878342",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-04,2021-05-06,2021-05-07,NA
+18076,"Bagalakote","1558790",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-05,2021-05-08,2021-05-08,NA
+18255,"Bagalakote","1862643",40,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-08,2021-05-08,NA
+18281,"Bagalakote","1909710",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-07,2021-05-08,NA
+18592,"Bagalakote","1683851",41,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-08,2021-05-09,NA
+18594,"Bagalakote","1686971",39,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-03,2021-05-08,2021-05-09,NA
+18636,"Bagalakote","1754026",44,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-08,2021-05-09,NA
+18693,"Bagalakote","1851360",32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-09,NA
+18701,"Bagalakote","1862599",57,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-08,2021-05-09,NA
+19120,"Bagalakote","1622640",52,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-08,2021-05-10,NA
+19197,"Bagalakote","1738341",35,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-04,2021-05-09,2021-05-10,NA
+19253,"Bagalakote","1820408",53,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-05,2021-05-07,2021-05-10,NA
+19265,"Bagalakote","1838204",53,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-04,2021-05-10,2021-05-10,NA
+19279,"Bagalakote","1862545",43,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-06,2021-05-10,2021-05-10,NA
+19280,"Bagalakote","1862571",55,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-04,2021-05-09,2021-05-10,NA
+19281,"Bagalakote","1862627",54,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-03,2021-05-08,2021-05-10,NA
+19282,"Bagalakote","1862628",54,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-04,2021-05-08,2021-05-10,NA
+19306,"Bagalakote","1901741",55,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-10,NA
+19311,"Bagalakote","1909712",54,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-04,2021-05-10,2021-05-10,NA
+19323,"Bagalakote","1919232",60,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-10,2021-05-10,NA
+19325,"Bagalakote","1923300",35,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-10,NA
+19346,"Bagalakote","1970929",65,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-01,2021-05-10,2021-05-10,NA
+19348,"Bagalakote","1974984",61,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-06,2021-05-09,2021-05-10,NA
+19349,"Bagalakote","1974988",53,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-08,2021-05-10,NA
+19563,"Bagalakote","1541811",54,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-01,2021-05-10,2021-05-11,NA
+19690,"Bagalakote","1802418",48,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-03,2021-05-10,2021-05-11,NA
+19705,"Bagalakote","1820315",29,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-03,2021-05-11,2021-05-11,NA
+19926,"Bagalakote","1580490",57,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-04-30,2021-05-11,2021-05-12,NA
+20250,"Bagalakote","1923303",56,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-11,2021-05-12,NA
+20777,"Bagalakote","1541816",60,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-04-28,2021-05-12,2021-05-14,NA
+20817,"Bagalakote","1683863",60,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-01,2021-05-12,2021-05-14,NA
+20838,"Bagalakote","1750453",42,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-01,2021-05-13,2021-05-14,NA
+20883,"Bagalakote","1862586",55,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-03,2021-05-11,2021-05-14,NA
+20931,"Bagalakote","1967527",59,"Male","SARI","Fever, cough, Breathlessness","IHD",2021-05-12,2021-05-12,2021-05-14,NA
+20940,"Bagalakote","1974993",71,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-14,NA
+20942,"Bagalakote","1978603",85,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-11,2021-05-13,2021-05-14,NA
+20974,"Bagalakote","2038149",59,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-06,2021-05-06,2021-05-14,NA
+21006,"Bagalakote","2064336",46,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-09,2021-05-14,NA
+21009,"Bagalakote","2067984",45,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+21057,"Bagalakote","2139438",55,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-09,2021-05-14,2021-05-14,NA
+21058,"Bagalakote","2139473",60,"Female","SARI","Fever, cough, Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-14,NA
+21064,"Bagalakote","2144963",28,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-14,NA
+21069,"Bagalakote","2149804",50,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-14,2021-05-14,NA
+21137,"Bagalakote","1572831",70,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-02,2021-05-05,2021-05-15,NA
+21188,"Bagalakote","1754064",54,"Male","SARI","Fever, cough, Breathlessness","DM",2021-04-30,2021-05-13,2021-05-15,NA
+21213,"Bagalakote","1820293",45,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-03,2021-05-15,2021-05-15,NA
+21255,"Bagalakote","1912662",58,"Female","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-13,2021-05-14,2021-05-15,NA
+21319,"Bagalakote","2050338",71,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-07,2021-05-14,2021-05-15,NA
+21325,"Bagalakote","2066326",58,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-06,2021-05-14,2021-05-15,NA
+21357,"Bagalakote","2095398",54,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-11,2021-05-14,2021-05-15,NA
+21361,"Bagalakote","2101840",58,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-10,2021-05-14,2021-05-15,NA
+21412,"Bagalakote","2178172",35,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21418,"Bagalakote","2187885",64,"Female","SARI","Fever, cough, Breathlessness","DM",2021-05-11,2021-05-14,2021-05-15,NA
+21419,"Bagalakote","2187922",44,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-11,2021-05-15,2021-05-15,NA
+21420,"Bagalakote","2187927",52,"Male","SARI","Fever, cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-15,NA
+21433,"Bagalakote","2206877",40,"Female","SARI","Fever, cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21434,"Bagalakote","2206879",41,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-14,2021-05-14,2021-05-15,NA
+21747,"Bagalakote","2099125",52,"Male","SARI","Fever, cough, Breathlessness","DM, HTN",2021-05-11,2021-05-16,2021-05-16,NA
+21838,"Bagalakote","2245430",55,"Male","SARI","Fever, cough, Breathlessness","DM",2021-05-13,2021-05-16,2021-05-16,NA
+22028,"Bagalakote","1830914",75,"Female","SARI","Fever, Cough, Breathlessness","IHD",2021-05-17,2021-05-17,2021-05-17,NA
+22217,"Bagalakote","2173755",41,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-16,2021-05-17,NA
+22254,"Bagalakote","2216907",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-10,2021-05-15,2021-05-17,NA
+22313,"Bagalakote","2290742",45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-16,2021-05-17,NA
+22575,"Bagalakote","1885481",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-17,2021-05-18,NA
+23216,"Bagalakote","2197527",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-18,2021-05-19,NA
+24147,"Bagalakote","2308596",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24485,"Bagalakote","2078557",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-21,2021-05-22,NA
+24496,"Bagalakote","2132070",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24508,"Bagalakote","2158654",62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-21,2021-05-22,NA
+24585,"Bagalakote","2329623",57,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24659,"Bagalakote","2437624",69,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-22,NA
+25070,"Bagalakote","2199392",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-23,NA
+25158,"Bagalakote","2311083",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-05-23,NA
+25195,"Bagalakote","2361454",80,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-22,2021-05-23,NA
+25203,"Bagalakote","2366069",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-23,NA
+25562,"Bagalakote","2132085",40,"Male","ILI","Fever, Cough","-",2021-05-08,2021-05-22,2021-05-24,NA
+25578,"Bagalakote","2164590",35,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-23,2021-05-24,NA
+25596,"Bagalakote","2206897",50,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-23,2021-05-24,NA
+25660,"Bagalakote","2311088",85,"Female","ILI","Fever, Cough","-",2021-05-17,2021-05-24,2021-05-24,NA
+25738,"Bagalakote","2404612",62,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25742,"Bagalakote","2409732",75,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-24,2021-05-24,NA
+25801,"Bagalakote","2470543",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-23,2021-05-24,NA
+26211,"Bagalakote","2248322",51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-24,2021-05-25,NA
+26739,"Bagalakote","2198005",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-26,2021-05-26,NA
+26802,"Bagalakote","2350533",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-25,2021-05-26,NA
+26822,"Bagalakote","2382272",35,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-25,2021-05-26,NA
+27175,"Bagalakote","2218923",62,"Male","ILI","Fever, cough","-",2021-05-18,2021-05-26,2021-05-27,NA
+27193,"Bagalakote","2248332",55,"Male","SARI","Fever, cough, breathlessness","-",2021-05-15,2021-05-21,2021-05-27,NA
+27591,"Bagalakote","2248222",38,"Male","SARI","Fever, Cough, Breathlessness",NA,2021-05-23,2021-05-27,2021-05-28,NA
+27630,"Bagalakote","2314284",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-28,2021-05-28,NA
+27713,"Bagalakote","2463712",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-27,2021-05-28,NA
+28028,"Bagalakote","2287697",54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-29,2021-05-29,NA
+28244,"Bagalakote","2533412",48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-28,2021-05-29,NA
+28513,"Bagalakote","2350528",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-29,2021-05-30,NA
+28661,"Bagalakote","2590684",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-29,2021-05-30,NA
+28970,"Bagalakote","2469004",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-30,2021-05-31,NA
+29009,"Bagalakote","2528835",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-30,2021-05-31,NA
+29064,"Bagalakote","2606503",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-05-31,NA
+29093,"Bagalakote","2646896",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-30,2021-05-31,NA
+29889,"Bagalakote","2495155",77,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-06-01,2021-06-02,NA
+30361,"Bagalakote","2497479",75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-06-02,2021-06-03,NA
+30502,"Bagalakote","2660859",74,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-02,2021-06-03,NA
+30520,"Bagalakote","2679693",40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-03,NA
+30898,"Bagalakote","2710646",27,"Female","ILI","Fever, cough","-",NA,2021-06-02,2021-06-04,"Died at her residence"
+31795,"Bagalakote","2582966",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-04,2021-06-05,2021-06-07,NA
+31838,"Bagalakote","2646883",47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-05,2021-06-07,NA
+31902,"Bagalakote","2721846",53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-07,NA
+31966,"Bagalakote","2496502",91,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-24,2021-06-08,NA
+31967,"Bagalakote","2497499",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-22,2021-06-08,NA
+31981,"Bagalakote","2568342",32,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-26,2021-06-08,NA
+31989,"Bagalakote","2582967",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-30,2021-06-07,2021-06-08,NA
+32027,"Bagalakote","2660884",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-08,2021-06-08,NA
+32289,"Bagalakote","2766474",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-08,2021-06-09,NA
+32445,"Bagalakote","2737141",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-07,2021-06-10,NA
+32463,"Bagalakote","2755961",46,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-09,2021-06-10,NA
+32484,"Bagalakote","2770993",27,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-09,2021-06-10,NA
+32587,"Bagalakote","2714262",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-10,2021-06-11,NA
+32603,"Bagalakote","2738056",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-06-09,2021-06-11,NA
+32613,"Bagalakote","2749113",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-10,2021-06-11,NA
+32646,"Bagalakote","2784134",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-10,2021-06-11,NA
+32995,"Bagalakote","2749850",80,"Male","ILI","Fever, Cough","-",2021-06-04,2021-06-13,2021-06-14,NA
+33005,"Bagalakote","2767337",71,"Female","ILI","Fever, Cough","-",2021-06-10,2021-06-13,2021-06-14,NA
+33522,"Bagalakote","2755954",80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-13,2021-06-18,NA
+33543,"Bagalakote","2788484",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-17,2021-06-18,NA
+33571,"Bagalakote","2815790",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-17,2021-06-18,NA
+33789,"Bagalakote","2644968",66,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-20,2021-06-20,NA
+34144,"Bagalakote","2848399",85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-19,2021-06-20,2021-06-22,NA
+34366,"Bagalakote","2823107",20,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-13,2021-06-21,2021-06-24,NA
+34457,"Bagalakote","2660877",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-05,2021-06-25,NA
+34515,"Bagalakote","2844787",64,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-19,2021-06-23,2021-06-25,NA
+34534,"Bagalakote","2865524",71,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-06-24,2021-06-25,NA
+34601,"Bagalakote","2812335",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-25,2021-06-26,NA
+34992,"Bagalakote","2841455",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-30,2021-06-30,NA
+35207,"Bagalakote","2877722",43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-25,2021-07-01,2021-07-02,NA
+35208,"Bagalakote","2877723",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-07-01,2021-07-02,NA
+35667,"Bagalakote","2609154",82,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-24,2021-06-01,2021-07-09,NA
+35668,"Bagalakote","2626011",47,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-20,2021-07-09,NA
+35735,"Bagalakote","2628705",58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-16,2021-06-16,2021-07-10,NA
+35787,"Bagalakote","2629630",42,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-31,2021-07-11,NA
+35841,"Bagalakote","2627558",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-07-12,NA
+35903,"Bagalakote","2629609",86,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-28,2021-06-29,2021-07-13,NA
+36161,"Bagalakote","2659119",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-01,2021-07-19,NA
+36230,"Bagalakote","2877721",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-02,2021-07-21,NA
+36266,"Bagalakote","2877721",30,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-29,2021-07-02,2021-07-21,NA
+37129,"Bagalakote","2979146",30,"Male","ILI","Fever, cough","-",2021-08-18,2021-08-21,2021-08-22,NA
+37159,"Bagalakote","2978602",59,"Male","SARI","Fever, cough, breathlessness","-",2021-08-21,2021-08-23,2021-08-25,NA
+37367,"Bagalakote","2985548",29,"Female","SARI","Fever, cough, breathlessness","DM, CKD",2021-08-26,2021-09-03,2021-09-06,NA
+37618,"Bagalakote","2976801",60,"Male","SARI","Fever, cough, breathlessness","DM",2021-08-19,2021-08-24,2021-09-23,NA
+37677,"Bagalakote","2698170",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-03,2021-09-27,NA
+37744,"Bagalakote","3005114",52,"Female","ILI","Fever, cough","-",2021-09-14,2021-09-28,2021-10-01,NA
+38467,"Bagalakote","3340437",48,"Female","SARI","Breathlessness","DM, HTN, IHD",2022-01-18,2022-01-18,2022-01-19,NA
+38499,"Bagalakote","3431329",72,"Male","SARI","Breathlessness","CKD",2022-01-15,2022-01-18,2022-01-20,NA
+38533,"Bagalakote","3236610",6,"Female","ILI","Fever","-",NA,2022-01-20,2022-01-22,"Died at her residence"
+38543,"Bagalakote","3480203",45,"Female","SARI","Cough, Breathlessness","DM, HTN",NA,2022-01-20,2022-01-22,"Died at her residence"
+38547,"Bagalakote","3525234",60,"Male","SARI","Fever, Breathlessness","HTN",NA,2022-01-21,2022-01-22,"Died at his residence"
+38559,"Bagalakote","3236610",6,"Female","ILI","Fever","-",NA,2022-01-20,2022-01-22,"Died at her residence"
+38569,"Bagalakote","3480203",45,"Female","SARI","Cough, Breathlessness","DM, HTN",NA,2022-01-20,2022-01-22,"Died at her residence"
+38573,"Bagalakote","3525234",60,"Male","SARI","Fever, Breathlessness","HTN",NA,2022-01-21,2022-01-22,"Died at his residence"
+38626,"Bagalakote","3431316",62,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVD",NA,2022-01-21,2022-01-25,"Died at his residence"
+38678,"Bagalakote","3431316",62,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVD",NA,2022-01-21,2022-01-25,"Died at his residence"
+38736,"Bagalakote","3633599",31,"Male","SARI","Breathlessness","TB",2022-01-20,2022-01-26,2022-01-27,NA
+38815,"Bagalakote","3431742",67,"Female","SARI","Breathlessness","DM, HTN, COPD",2022-01-27,2022-01-28,2022-01-29,NA
+38876,"Bagalakote","3803241",24,"Male","SARI","Breathlessness","CKD",2022-01-26,2022-01-28,2022-01-29,NA
+38887,"Bagalakote","3499753",62,"Male","SARI","Fever, Cough, Breathlessness","CA",2022-01-18,2022-01-29,2022-01-30,NA
+38927,"Bagalakote","3803221",48,"Male","SARI","Fever, Breathlessness","-",2022-01-27,2022-01-27,2022-01-30,NA
+38928,"Bagalakote","3803240",75,"Male","SARI","Fever, Breathlessness","DM, COPD",2022-01-27,2022-01-29,2022-01-30,NA
+38948,"Bagalakote","3843965",35,"Male","SARI","Fever, Cough, Breathlessness","-",2022-01-28,2022-01-29,2022-01-30,NA
+39020,"Bagalakote","3663175",62,"Female","SARI","Breathlessness","HTN,IHD",2022-01-23,2022-01-30,2022-02-01,NA
+39044,"Bagalakote","3803219",35,"Male","SARI","Breathlessness","CKD",2022-01-28,2022-01-30,2022-02-01,NA
+39166,"Bagalakote","3911550",35,"Female","SARI","Fever, Cough, Breathlessness","TB",2022-02-01,2022-02-03,2022-02-04,NA
+39220,"Bagalakote","3925561",68,"Male","SARI","Fever, Cough, Breathlessness","DM, COPD",2022-02-01,2022-02-02,2022-02-05,NA
+39255,"Bagalakote","3890405",82,"Male","SARI","Fever, Breathlessness","HTN, CVA",2022-02-01,2022-02-04,2022-02-06,NA
+39263,"Bagalakote","3934484",17,"Male","ILI","Fever, Cough","-",2022-02-04,2022-02-05,2022-02-06,NA
+39316,"Bagalakote","3937063",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2022-02-04,2022-02-05,2022-02-07,NA
+39365,"Bagalakote","3937063",40,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2022-02-04,2022-02-05,2022-02-07,NA
+39414,"Bagalakote","3954235",75,"Male","SARI","Cough, Breathlessness","-",2022-02-06,2022-02-08,2022-02-09,NA
+39454,"Bagalakote","3961503",55,"Male","ILI","Cough","CKD",2022-02-08,2022-02-09,2022-02-10,NA
+39493,"Bagalakote","3965922",50,"Male","ILI","Fever, Cough","-",2022-02-07,2022-02-09,2022-02-11,NA
+39497,"Bagalakote","3970431",54,"Female","SARI","Fever, cough, breathlessness","-",2022-02-09,2022-02-09,2022-02-11,NA
+39557,"Bagalakote","3967415",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2022-02-09,2022-02-10,2022-02-13,NA
+39592,"Bagalakote","3772358",75,"Male","SARI","Fever, Breathlessness","CLD",2022-01-26,2022-01-31,2022-02-15,NA
+39617,"Bagalakote","3575418",82,"Male","SARI","Fever, Cough,Breathlessness","DM,IHD, CKD",2022-01-22,2022-02-01,2022-02-16,NA
+39619,"Bagalakote","3663181",86,"Male","SARI","Fever, Cough,Breathlessness","IHD",2022-01-21,2022-02-02,2022-02-16,NA
+39640,"Bagalakote","3767049",70,"Female","SARI","Cough, Breathlessness","HTN",2022-01-27,2022-02-02,2022-02-17,NA
+39648,"Bagalakote","3951601",86,"Male","SARI","Breathlessness","-",2022-02-01,2022-02-07,2022-02-17,NA
+39671,"Bagalakote","3945341",55,"Male","ILI","Fever","DM",NA,2022-02-06,2022-02-18,"Died at his residence"
+39696,"Bagalakote","3976548",92,"Female","ILI","Fever","HTN, CVA",2022-02-12,2022-02-18,2022-02-19,NA
+39757,"Bagalakote","3966726",70,"Female","ILI","Fever","HTN",NA,2022-02-12,NA,NA
+39947,"Bagalakote","4002561",35,"Male","ILI","Fever","CLD",2022-05-28,2022-05-30,2022-05-31,NA
+40030,"Bagalakote","4082072",67,"MALE","SARI","Fever,
+Breathlessness","DM, HTN",NA,2022-08-14,2022-08-16,"Died at his Residence 
+"

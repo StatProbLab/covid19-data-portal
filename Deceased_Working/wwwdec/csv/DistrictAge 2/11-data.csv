@@ -1,0 +1,1351 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+16,"Dakshina Kannada",390,50,"Female","SARI",NA,NA,NA,NA,2020-04-19,NA
+18,"Dakshina Kannada",432,78,"Female","Contact",NA,"HTN & Stroke & Pneumonia",NA,NA,2020-04-24,NA
+22,"Dakshina Kannada",409,67,"Female","SARI",NA,"COPD & Diabetes",2020-04-18,2020-04-30,2020-05-01,NA
+33,"Dakshina Kannada",536,58,"Female",NA,NA,"Tuberculosis Meningitis with Disseminated Tuberculosis",2020-04-28,2020-05-13,2020-05-13,NA
+34,"Dakshina Kannada",507,80,"Female",NA,"Stroke",NA,2020-04-26,2020-05-14,2020-05-14,NA
+43,"Dakshina Kannada",2175,43,"Male",NA,"cirrhosis of liver",NA,2020-05-23,2020-05-23,2020-05-25,NA
+82,"Dakshina Kannada",6848,24,"Male","Returned from Maharashtra",NA,"CKD & HDN",2020-06-12,2020-06-12,2020-06-14,NA
+143,"Dakshina Kannada",6282,70,"Male","SARI","Breathlessness & Fever & Bodyache","DM  & CHRONIC SMOKER",2020-06-10,2020-06-23,2020-06-23,NA
+166,"Dakshina Kannada",10274,68,"Female","SARI","Abdominal Pain & Breathlessness","HTN & DM & Hypothyroidism",2020-06-22,2020-06-24,2020-06-25,NA
+197,"Dakshina Kannada",11386,48,"Female","SARI","Breathlessness","-",2020-06-25,2020-06-27,2020-06-28,NA
+205,"Dakshina Kannada",12391,31,"Male","SARI","Fever & Breathlessness","Hypothyroidism  Obesity",2020-06-26,2020-06-27,2020-06-28,NA
+206,"Dakshina Kannada",12398,51,"Female","SARI","Fever & Breathlessness","DM,  COPD",2020-06-26,2020-06-28,2020-06-28,NA
+218,"Dakshina Kannada",13284,49,"Female","SARI","Fever & Vomiting","HTN & DM on medication",2020-06-27,2020-06-28,2020-06-29,NA
+248,"Dakshina Kannada",14344,72,"Male","ILI","Fever & Cough","DM, HTN",2020-06-30,2020-06-30,2020-07-01,NA
+257,"Dakshina Kannada",11387,76,"Male","-","Oligouri, Breathlessness","DM, HTN",2020-06-25,2020-07-01,2020-07-02,NA
+258,"Dakshina Kannada",13296,48,"Male","ILI","MODS","-",2020-06-27,2020-07-01,2020-07-02,NA
+271,"Dakshina Kannada",17121,31,"Male","SARI","Fever & Cough & Breathlessness","-",2020-06-30,2020-06-30,2020-07-02,NA
+318,"Dakshina Kannada",17113,47,"Male","ILI","Fever & Loose Stool & Fatigue","Liver Disease",2020-06-30,2020-07-03,2020-07-04,NA
+322,"Dakshina Kannada",20093,60,"Female","SARI","Cough & Breathlessness","HTN, DM",2020-07-03,2020-07-03,2020-07-04,NA
+323,"Dakshina Kannada",20095,67,"Male","SARI","Fever & Breathlessness","HTN",2020-07-02,2020-07-02,2020-07-04,NA
+324,"Dakshina Kannada",20135,65,"Female","SARI","Fever & Breathlessness","HTN, DM",2020-07-03,2020-07-03,2020-07-04,NA
+376,"Dakshina Kannada",13302,62,"Male","SARI","Breathlessness","HTN, DM, ARF",2020-06-30,2020-07-06,2020-07-06,NA
+382,"Dakshina Kannada",17075,52,"Male","SARI","Cough & Fever & Breathlessness","DM, IHD",2020-06-30,2020-07-06,2020-07-06,NA
+450,"Dakshina Kannada",23092,65,"Male","SARI","Breathlessness","DM, HTN",2020-06-23,2020-07-06,2020-07-08,NA
+486,"Dakshina Kannada",9590,59,"Female","SARI","Fever & Breathlessness &  Diarrhea","CKD, IHD, DM",2020-06-22,2020-07-07,2020-07-10,NA
+487,"Dakshina Kannada",11382,32,"Female","SARI","Breathlessness","Juvenile DM, Hypothyroidism, PIH",2020-07-06,2020-07-08,2020-07-10,NA
+518,"Dakshina Kannada",18579,66,"Male","SARI","Fever & Cough & Breathlessness","HTN, IHD",2020-07-03,2020-07-09,2020-07-10,NA
+522,"Dakshina Kannada",23033,58,"Female","SARI","Fever & Breathlessness","DM",2020-07-08,2020-07-10,2020-07-10,NA
+525,"Dakshina Kannada",25716,57,"Male","SARI","Breathlessness & Cough","DM",2020-07-05,2020-07-09,2020-07-10,NA
+533,"Dakshina Kannada",30940,35,"Male","SARI","Fever & Breathlessness","-",2020-07-08,2020-07-09,2020-07-10,NA
+539,"Dakshina Kannada",31601,49,"Male","SARI","Breathlessness","-",2020-07-07,2020-07-08,2020-07-10,NA
+540,"Dakshina Kannada",31609,48,"Male","SARI","Breathlessness","CKD, DM",2020-07-09,2020-07-09,2020-07-10,NA
+570,"Dakshina Kannada",23010,73,"Female","SARI","Breathlessness","DM, HTN",2020-07-05,2020-07-10,2020-07-11,NA
+585,"Dakshina Kannada",31536,65,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-07,2020-07-10,2020-07-11,NA
+597,"Dakshina Kannada",35477,66,"Male","SARI","Breathlessness","HTN,  CKD",2020-07-08,2020-07-10,2020-07-11,NA
+598,"Dakshina Kannada",35480,55,"Male","Contact under tracing","Fever & CELLUTITIS OF RIGHT LEG","CIROHHIS OF LIVER",2020-06-28,2020-07-09,2020-07-11,NA
+599,"Dakshina Kannada",35481,62,"Male","SARI","Breathlessness, DM,  HTN, ISM","Hypothyroidism",2020-07-07,2020-07-07,2020-07-11,NA
+631,"Dakshina Kannada",16502,33,"Male","SARI","Fever & Cough & Breathlessness","-",2020-06-18,2020-07-11,2020-07-12,NA
+665,"Dakshina Kannada",28801,72,"Male","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-05,2020-07-11,2020-07-12,NA
+666,"Dakshina Kannada",30916,78,"Male","SARI","Cough & Breathlessness & Diarrhea","DM, COPD",2020-07-07,2020-07-11,2020-07-12,NA
+670,"Dakshina Kannada",35368,50,"Male","SARI","Fever & Breathlessness","DM",2020-07-09,2020-07-11,2020-07-12,NA
+677,"Dakshina Kannada",36798,58,"Female","SARI","Breathlessness","DM, IHD",2020-07-10,2020-07-10,2020-07-12,NA
+786,"Dakshina Kannada",30918,52,"Male","SARI","Cough & Breathlessness","CLD",2020-07-09,2020-07-13,2020-07-14,NA
+788,"Dakshina Kannada",31711,61,"Male","SARI","Fever & Breathlessness","-",2020-07-08,2020-07-13,2020-07-14,NA
+808,"Dakshina Kannada",36635,70,"Male","SARI","Breathlessness","DM",2020-07-10,2020-07-12,2020-07-14,NA
+810,"Dakshina Kannada",36892,70,"Male","ILI","Fever & Cough","CARCINOMA",2020-06-19,2020-07-11,2020-07-14,NA
+982,"Dakshina Kannada",25116,68,"Female","SARI","Fever & Cough & Breathlessness","DM, IHD, HTN",2020-07-04,2020-07-15,2020-07-16,NA
+985,"Dakshina Kannada",28784,73,"Male","SARI","Breathlessness","HTN",2020-07-05,2020-07-14,2020-07-16,NA
+987,"Dakshina Kannada",31798,66,"Male","Contact under tracing","Fever","DM, HTN",2020-07-11,2020-07-16,2020-07-16,NA
+994,"Dakshina Kannada",41950,55,"Male","ILI","Fever & Cough","DM, HTN",2020-07-13,2020-07-13,2020-07-16,NA
+995,"Dakshina Kannada",42118,65,"Female","SARI","Fever & Cough & Breathlessness","HTN, DM",2020-07-11,2020-07-13,2020-07-16,NA
+997,"Dakshina Kannada",42203,70,"Male","SARI","Cough & Breathlessness","HTN, IHD",2020-07-12,2020-07-14,2020-07-16,NA
+1013,"Dakshina Kannada",47991,60,"Female","Contact under tracing","Fever","IHD, DM",2020-07-14,2020-07-14,2020-07-16,NA
+1025,"Dakshina Kannada",20136,63,"Male","SARI","Fever & Cough & Breathlessness","CLD, HTN",2020-07-03,2020-07-15,2020-07-17,NA
+1160,"Dakshina Kannada",39979,55,"Male","SARI","Cough & Breathlessness","CLD, HTN",2020-07-13,2020-07-16,2020-07-18,NA
+1196,"Dakshina Kannada",52533,44,"Male","SARI","Breathlessness","CKD, HTN, IHD",2020-07-14,2020-07-14,2020-07-18,NA
+1197,"Dakshina Kannada",52587,72,"Male","SARI","Fever & Cough & Breathlessness","CLD, DM, HTN",2020-07-14,2020-07-16,2020-07-18,NA
+1199,"Dakshina Kannada",55168,55,"Male","Contact under tracing","-","CLD",2020-07-14,2020-07-14,2020-07-18,NA
+1200,"Dakshina Kannada",55271,47,"Female","ILI","Breathlessness","HTN, DM, CKD",2020-07-15,2020-07-16,2020-07-18,NA
+1201,"Dakshina Kannada",55331,65,"Male","SARI","Fever & Breathlessness","DM, HTN, CKD",2020-07-15,2020-07-17,2020-07-18,NA
+1202,"Dakshina Kannada",55358,72,"Male","SARI","Breathlessness","DM, IHD",2020-07-16,2020-07-17,2020-07-18,NA
+1292,"Dakshina Kannada",58799,67,"Male","SARI","Fever","HTN",2020-07-15,2020-07-18,2020-07-19,NA
+1325,"Dakshina Kannada",35434,77,"Female","Contact under tracing","Fever & Cough","DM, HTN, ASTHMA",2020-07-09,2020-07-18,2020-07-20,NA
+1328,"Dakshina Kannada",48534,61,"Female","Contact under tracing","Fever","DM, HTN",2020-07-04,2020-07-18,2020-07-20,NA
+1338,"Dakshina Kannada",58775,53,"Male","Contact under tracing","Fever & Breathlessness","DM",2020-07-15,2020-07-19,2020-07-20,NA
+1342,"Dakshina Kannada",59847,49,"Female","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-07-16,2020-07-18,2020-07-20,NA
+1365,"Dakshina Kannada",64784,47,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-15,2020-07-19,2020-07-20,NA
+1381,"Dakshina Kannada",68396,42,"Male","SARI","Breathlessness","HEPATIC  ENCEPHALOPATHY",2020-07-17,2020-07-19,2020-07-20,NA
+1387,"Dakshina Kannada",69302,63,"Male","SARI","Fever & Breathlessness","HTN, DM",2020-07-18,2020-07-18,2020-07-20,NA
+1405,"Dakshina Kannada",58015,55,"Male","SARI","Cough","DM, HTN, CKD",2020-07-15,2020-07-19,2020-07-21,NA
+1414,"Dakshina Kannada",61241,0.17,"Male","ILI","Fever","-",2020-07-17,2020-07-18,2020-07-21,NA
+1419,"Dakshina Kannada",65333,81,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-17,2020-07-20,2020-07-21,NA
+1431,"Dakshina Kannada",69339,51,"Male","Contact under tracing","-","DM, HTN",NA,2020-07-20,2020-07-21,"Died at his residence"
+1447,"Dakshina Kannada",72587,65,"Female","SARI","Breathlessness","DM, HTN",2020-07-19,2020-07-19,2020-07-21,NA
+1452,"Dakshina Kannada",36640,68,"Male","SARI","Fever & Cough & Breathlessness","DM, HTN",2020-07-11,2020-07-17,2020-07-22,NA
+1459,"Dakshina Kannada",48128,68,"Male","SARI","Fever & Breathlessness","DM",2020-07-14,2020-07-15,2020-07-22,NA
+1461,"Dakshina Kannada",58452,70,"Male","SARI","Breathlessness","DM",2020-07-15,2020-07-16,2020-07-22,NA
+1524,"Dakshina Kannada",39056,68,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-10,2020-07-12,2020-07-23,NA
+1531,"Dakshina Kannada",44839,65,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-07-14,2020-07-20,2020-07-23,NA
+1539,"Dakshina Kannada",48524,54,"Male","Contact under tracing","Breathlessness","DM, CKD",2020-07-14,2020-07-21,2020-07-23,NA
+1566,"Dakshina Kannada",68817,78,"Male","SARI","Fever & Cough","-",2020-07-18,2020-07-23,2020-07-23,NA
+1571,"Dakshina Kannada",73086,75,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-07-19,2020-07-21,2020-07-23,NA
+1572,"Dakshina Kannada",73472,52,"Female","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN",2020-07-19,2020-07-20,2020-07-23,NA
+1574,"Dakshina Kannada",75471,70,"Male","Contact under tracing","Breathlessness","CLD, IHD",2020-07-08,2020-07-21,2020-07-23,NA
+1608,"Dakshina Kannada",36683,58,"Female","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN",2020-07-11,2020-07-22,2020-07-24,NA
+1614,"Dakshina Kannada",44093,65,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN, COPD",2020-07-12,2020-07-20,2020-07-24,NA
+1618,"Dakshina Kannada",48115,67,"Male","Contact under tracing","Cough & Breathlessness","COPD",2020-07-13,2020-07-23,2020-07-24,NA
+1650,"Dakshina Kannada",68552,44,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM",2020-07-19,2020-07-22,2020-07-24,NA
+1651,"Dakshina Kannada",68853,56,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN, IHD",2020-07-18,2020-07-23,2020-07-24,NA
+1676,"Dakshina Kannada",78528,42,"Male","Contact under tracing","Fever & Breathlessness","DM",2020-07-20,2020-07-23,2020-07-24,NA
+1716,"Dakshina Kannada",35387,83,"Male","Contact under tracing","Fever","HTN, IHD",2020-07-13,2020-07-22,2020-07-25,NA
+1720,"Dakshina Kannada",47890,76,"Female","Contact under tracing","Fever & Breathlessness","HTN",2020-07-11,2020-07-16,2020-07-25,NA
+1739,"Dakshina Kannada",65507,52,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM",2020-07-21,2020-07-22,2020-07-25,NA
+1744,"Dakshina Kannada",72730,67,"Male","Contact under tracing","Cough","HTN",2020-06-23,2020-07-23,2020-07-25,NA
+1746,"Dakshina Kannada",75703,72,"Male","Contact under tracing","Fever & Breathlessness","DM, IHD",2020-07-18,2020-07-24,2020-07-25,NA
+1749,"Dakshina Kannada",77375,56,"Male","Contact under tracing","Fever & Breathlessness","DM, IHD",2020-07-20,2020-07-24,2020-07-25,NA
+1751,"Dakshina Kannada",81614,73,"Male","Contact under tracing","Fever","HTN, DM , CKD",2020-07-21,2020-07-22,2020-07-25,NA
+1770,"Dakshina Kannada",89034,67,"Male","Contact under tracing","Fever & Cough & Breathlessness","HTN, DM",2020-07-23,2020-07-23,2020-07-25,NA
+1812,"Dakshina Kannada",72795,65,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-19,2020-07-26,2020-07-26,NA
+1817,"Dakshina Kannada",77184,70,"Male","Contact under tracing","Fever & Breathlessness","HTN, CKD",2020-07-21,2020-07-24,2020-07-26,NA
+1822,"Dakshina Kannada",79647,64,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN",2020-07-20,2020-07-25,2020-07-26,NA
+1830,"Dakshina Kannada",89010,45,"Female","Contact under tracing","Breathlessness","HTN",2020-07-24,2020-07-24,2020-07-26,NA
+1831,"Dakshina Kannada",90970,68,"Male","Contact under tracing","Fever & Breathlessness","DM",2020-07-23,2020-07-23,2020-07-26,NA
+1838,"Dakshina Kannada",92399,55,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-21,2020-07-24,2020-07-26,NA
+1865,"Dakshina Kannada",99428,70,"Male","Contact under tracing","Fever & Breathlessness","HTN, CKD",2020-07-24,2020-07-24,2020-07-26,NA
+1866,"Dakshina Kannada",23108,72,"Male","Contact under tracing","Fever & Cough & Breathlessness","HTN, CKD",2020-07-07,2020-07-23,2020-07-27,NA
+1875,"Dakshina Kannada",47789,75,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-07-14,2020-07-24,2020-07-27,NA
+1881,"Dakshina Kannada",55206,88,"Male","Contact under tracing","Breathlessness","CKD, IHD",2020-07-10,2020-07-23,2020-07-27,NA
+1888,"Dakshina Kannada",60223,93,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-18,2020-07-26,2020-07-27,NA
+1893,"Dakshina Kannada",68605,68,"Male","Contact under tracing","Fever & Cough","HTN, DM,IHD",2020-07-17,2020-07-23,2020-07-27,NA
+1896,"Dakshina Kannada",73151,71,"Male","Contact under tracing","Fever & Cough & Breathlessness","HTN, DM, CKD",2020-07-19,2020-07-23,2020-07-27,NA
+1900,"Dakshina Kannada",77026,76,"Female","Contact under tracing","Fever & Cough & Breathlessness","HTN, DM",2020-07-21,2020-07-24,2020-07-27,NA
+1908,"Dakshina Kannada",89224,65,"Female","SARI","Fever & Breathlessness","DM",2020-07-22,2020-07-27,2020-07-27,NA
+1939,"Dakshina Kannada",104225,51,"Male","Contact under tracing","Breathlessness","-",2020-07-26,2020-07-27,2020-07-27,NA
+1947,"Dakshina Kannada",47866,65,"Female","Contact under tracing","Cough","DM, HTN",2020-07-13,2020-07-23,2020-07-28,NA
+1956,"Dakshina Kannada",60794,75,"Female","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-17,2020-07-23,2020-07-28,NA
+1997,"Dakshina Kannada",93773,55,"Male","Contact under tracing","Cough","DM, CKD",2020-07-23,2020-07-24,2020-07-28,NA
+2043,"Dakshina Kannada",30947,67,"Female","Contact under tracing","Breathlessness","DM, CA",2020-07-09,2020-07-28,2020-07-29,NA
+2058,"Dakshina Kannada",69312,60,"Female","Contac Under tracing","Fever","DM, HTN",2020-07-18,2020-07-21,2020-07-29,NA
+2076,"Dakshina Kannada",88478,72,"Male","SARI","Breathlessness","DM, HTN",2020-07-23,2020-07-27,2020-07-29,NA
+2090,"Dakshina Kannada",97541,62,"Male","Contact under tracing","Breathlessness","HTN, CLD",2020-07-24,2020-07-28,2020-07-29,NA
+2109,"Dakshina Kannada",108021,62,"Male","Contact under tracing","-","CLD",2020-07-26,2020-07-28,2020-07-29,NA
+2110,"Dakshina Kannada",108233,82,"Male","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-07-25,2020-07-26,2020-07-29,NA
+2119,"Dakshina Kannada",109517,62,"Male","Contact under tracing","Fever & Cough & Breathlessness","-",NA,2020-07-26,2020-07-29,"Brought dead"
+2136,"Dakshina Kannada",39518,66,"Male","Contact under tracing","Fever & Cough","DM, HTN, ILD, IHD",2020-07-12,2020-07-28,2020-07-30,NA
+2154,"Dakshina Kannada",78809,52,"Male","Contact under tracing","Fever & Cough & Breathlessness","CVA",2020-07-28,2020-07-29,2020-07-30,NA
+2159,"Dakshina Kannada",87413,64,"Male","Contact under tracing","Cough & Breathlessness","DM, HTN, IHD",2020-07-22,2020-07-29,2020-07-30,NA
+2193,"Dakshina Kannada",114167,24,"Male","Contact under tracing","Breathlessness","-",2020-07-28,2020-07-28,2020-07-30,NA
+2194,"Dakshina Kannada",114302,36,"Female","Contact under tracing","Fever & Breathlessness","AKI",2020-07-24,2020-07-28,2020-07-30,NA
+2196,"Dakshina Kannada",115036,39,"Male","Contact under tracing","Breathlessness","RHD",2020-07-25,2020-07-28,2020-07-30,NA
+2197,"Dakshina Kannada",115661,52,"Male","Contact under tracing","Fever & Breathlessness","DM",NA,2020-07-27,2020-07-30,"Brought dead"
+2229,"Dakshina Kannada",60894,67,"Male","Contact under tracing","Breathlessness","HTN, IHD",2020-07-15,2020-07-30,2020-07-31,NA
+2231,"Dakshina Kannada",64444,87,"Female","Contact under tracing","Fever & Cough & Breathlessness","-",2020-07-18,2020-07-29,2020-07-31,NA
+2233,"Dakshina Kannada",68672,60,"Male","Contact under tracing","Fever & Cough & Breathlessness","HTN, CKD",2020-07-18,2020-07-30,2020-07-31,NA
+2248,"Dakshina Kannada",89282,70,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN, COPD",2020-07-23,2020-07-30,2020-07-31,NA
+2254,"Dakshina Kannada",94416,88,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-09,2020-07-30,2020-07-31,NA
+2279,"Dakshina Kannada",119592,57,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-07-29,2020-07-29,2020-07-31,NA
+2280,"Dakshina Kannada",119618,57,"Male","Contact under tracing","Fever","CLD",2020-07-28,2020-07-30,2020-07-31,NA
+2290,"Dakshina Kannada",122639,74,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-26,2020-07-29,2020-07-31,NA
+2291,"Dakshina Kannada",123591,56,"Female","Contact under tracing","-","DM, CKD",2020-07-11,2020-07-29,2020-07-31,NA
+2300,"Dakshina Kannada",128641,47,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN, COPD",2020-07-30,2020-07-30,2020-07-31,NA
+2311,"Dakshina Kannada",80119,65,"Male","SARI","Fever & Breathlessness","HTN",2020-07-22,2020-07-26,2020-08-01,NA
+2317,"Dakshina Kannada",92821,73,"Male","Contact under tracing","Fever & Breathlessness","DM",2020-07-23,2020-07-28,2020-08-01,NA
+2343,"Dakshina Kannada",110396,57,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-26,2020-07-29,2020-08-01,NA
+2347,"Dakshina Kannada",112575,66,"Male","Contact under tracing","Fever","HTN",2020-07-28,2020-07-29,2020-08-01,NA
+2355,"Dakshina Kannada",115715,56,"Male","Contact under tracing","Fever","DM, HTN, CKD",2020-07-27,2020-07-31,2020-08-01,NA
+2358,"Dakshina Kannada",117747,36,"Female","Contact under tracing","Fever & Breathlessness","-",2020-07-28,2020-07-29,2020-08-01,NA
+2375,"Dakshina Kannada",124370,56,"Male","Contact under tracing","Fever & Breathlessness","-",2020-07-27,2020-07-30,2020-08-01,NA
+2397,"Dakshina Kannada",131456,78,"Female","Contact under tracing","Fever & Cough","DM, HTN",2020-07-30,2020-07-30,2020-08-01,NA
+2401,"Dakshina Kannada",44807,80,"Male","Contact under tracing","Cough & Breathlessness","DM, HTN, IHD",2020-07-13,2020-08-01,2020-08-02,NA
+2413,"Dakshina Kannada",87314,68,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD, IHD",2020-07-24,2020-08-02,2020-08-02,NA
+2429,"Dakshina Kannada",107918,75,"Male","Contact under tracing","Fever & Breathlessness","Asthma",2020-07-26,2020-07-29,2020-08-02,NA
+2435,"Dakshina Kannada",114904,66,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD, IHD",2020-07-28,2020-07-28,2020-08-02,NA
+2448,"Dakshina Kannada",124803,68,"Male","Contact under tracing","Breathlessness","-",2020-07-27,2020-08-01,2020-08-02,NA
+2455,"Dakshina Kannada",126847,66,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-31,2020-07-31,2020-08-02,NA
+2461,"Dakshina Kannada",131011,72,"Female","Contact under tracing","Fever & Breathlessness","HTN, DM",2020-07-29,2020-08-01,2020-08-02,NA
+2468,"Dakshina Kannada",132261,80,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-07-31,2020-08-01,2020-08-02,NA
+2475,"Dakshina Kannada",135799,80,"Male","Contact under tracing","Fever & Breathlessness","HTN",2020-07-30,2020-08-01,2020-08-02,NA
+2478,"Dakshina Kannada",137485,20,"Female","Contact under tracing","Breathlessness","HTN, CKD",2020-07-31,2020-07-31,2020-08-02,NA
+2484,"Dakshina Kannada",48997,68,"Female","ILI","Fever","DM",2020-07-16,2020-07-30,2020-08-03,NA
+2485,"Dakshina Kannada",55341,73,"Male","Contact under tracing","-","HTN",2020-07-14,2020-07-30,2020-08-03,NA
+2486,"Dakshina Kannada",64871,50,"Male","SARI","Fever & Breathlessness","DM, AKI",2020-07-21,2020-08-03,2020-08-03,NA
+2499,"Dakshina Kannada",91645,86,"Male","SARI","Fever & Cough & Breathlessness","IHD",2020-07-23,2020-08-01,2020-08-03,NA
+2514,"Dakshina Kannada",104084,83,"Female","Contact under tracing","Fever & Cough & Breathlessness","HTN, CKD",2020-07-26,2020-08-01,2020-08-03,NA
+2545,"Dakshina Kannada",126359,53,"Female","Contact under tracing","Fever & Breathlessness","DM, CKD, CA",2020-07-30,2020-08-03,2020-08-03,NA
+2547,"Dakshina Kannada",128835,85,"Male","Contact under tracing","-","DM, HTN",2020-07-30,2020-08-02,2020-08-03,NA
+2582,"Dakshina Kannada",17073,82,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN, COPD, IHD",2020-06-30,2020-07-17,2020-08-04,NA
+2584,"Dakshina Kannada",28809,66,"Male","SARI","Breathlessness","IHD",2020-07-07,2020-07-15,2020-08-04,NA
+2585,"Dakshina Kannada",28830,62,"Male","Contact under tracing","-","DM, HTN",2020-07-06,2020-07-08,2020-08-04,NA
+2594,"Dakshina Kannada",77275,64,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN",2020-07-19,2020-08-03,2020-08-04,NA
+2598,"Dakshina Kannada",82642,56,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN, CKD",2020-07-23,2020-08-03,2020-08-04,NA
+2599,"Dakshina Kannada",82816,67,"Male","Contact under tracing","Fever & Breathlessness","DM, CA",2020-07-21,2020-08-01,2020-08-04,NA
+2604,"Dakshina Kannada",93890,52,"Male","Contact under tracing","Cough & Breathlessness","DM, HTN, CKD",2020-07-24,2020-08-03,2020-08-04,NA
+2615,"Dakshina Kannada",107860,70,"Male","Contact under tracing","Breathlessness","-",2020-07-26,2020-08-01,2020-08-04,NA
+2651,"Dakshina Kannada",132632,45,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, IHD",2020-07-30,2020-08-03,2020-08-04,NA
+2673,"Dakshina Kannada",143042,40,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-01,2020-08-04,NA
+2678,"Dakshina Kannada",144420,69,"Male","Contact under tracing","Breathlessness","CA",2020-08-03,2020-08-03,2020-08-04,NA
+2681,"Dakshina Kannada",146222,54,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-04,NA
+2691,"Dakshina Kannada",36508,65,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD, IHD",2020-07-12,2020-07-30,2020-08-05,NA
+2692,"Dakshina Kannada",58427,40,"Male","SARI","Fever, Breathlessness","-",2020-07-15,2020-08-04,2020-08-05,NA
+2694,"Dakshina Kannada",65562,39,"Male","SARI","Fever, Breathlessness","-",2020-07-20,2020-08-03,2020-08-05,NA
+2718,"Dakshina Kannada",108647,64,"Female","Contact under tracing","Fever","DM, HTN, CKD",2020-07-26,2020-08-04,2020-08-05,NA
+2729,"Dakshina Kannada",119359,65,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN, IHD",2020-07-31,2020-08-02,2020-08-05,NA
+2732,"Dakshina Kannada",121550,75,"Female","Contact under tracing","Fever & Cough & Breathlessness","DM, HTN",2020-07-28,2020-08-01,2020-08-05,NA
+2737,"Dakshina Kannada",126892,53,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-07-29,2020-08-04,2020-08-05,NA
+2745,"Dakshina Kannada",134574,70,"Male","Contact under tracing","Breathlessness","-",2020-07-31,2020-08-03,2020-08-05,NA
+2763,"Dakshina Kannada",144465,67,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-08-02,2020-08-03,2020-08-05,NA
+2778,"Dakshina Kannada",149579,74,"Female","Contact under tracing","Breathlessness","DM",2020-08-02,2020-08-03,2020-08-05,NA
+2800,"Dakshina Kannada",73504,70,"Female","Contact under tracing","Fever, Cough","DM, HTN",2020-07-19,2020-08-05,2020-08-06,NA
+2802,"Dakshina Kannada",84446,73,"Male","Contact under tracing","Fever","HTN",2020-07-23,2020-08-05,2020-08-06,NA
+2820,"Dakshina Kannada",119699,62,"Male","SARI","Fever, Breathlessness","DM, CKD",2020-07-28,2020-07-30,2020-08-06,NA
+2821,"Dakshina Kannada",120436,67,"Female","Contact under tracing","-","DM, HTN, CKD",2020-07-28,2020-08-06,2020-08-06,NA
+2825,"Dakshina Kannada",127472,86,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-07-30,2020-08-05,2020-08-06,NA
+2827,"Dakshina Kannada",128716,62,"Male","Contact under tracing","Fever, Breathlessness","IHD",2020-07-30,2020-08-04,2020-08-06,NA
+2829,"Dakshina Kannada",130046,78,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-07-31,2020-08-06,2020-08-06,NA
+2834,"Dakshina Kannada",132589,65,"Male","Contact under tracing","Breathlessness","HTN",2020-07-30,2020-08-02,2020-08-06,NA
+2839,"Dakshina Kannada",138042,46,"Male","Contact under tracing","Fever","CLD",2020-08-01,2020-08-06,2020-08-06,NA
+2845,"Dakshina Kannada",142967,62,"Male","Contact under tracing","Breathlessness","CKD",2020-08-01,2020-08-05,2020-08-06,NA
+2864,"Dakshina Kannada",151294,70,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, IHD",2020-08-03,2020-08-05,2020-08-06,NA
+2898,"Dakshina Kannada",99507,73,"Female","SARI","Fever, Breathlessness","DM",2020-07-30,2020-08-07,2020-08-07,NA
+2930,"Dakshina Kannada",137173,58,"Male","Conta ct under tracin g","Breathlessness","DM, HTN",2020-08-01,2020-08-07,2020-08-07,NA
+2958,"Dakshina Kannada",155734,56,"Male","Conta ct under tracin g","Fever, Breathlessness","DM, HTN",2020-08-04,2020-08-07,2020-08-07,NA
+2969,"Dakshina Kannada",162110,60,"Male","SARI","Fever, Breathlessness","HTN",2020-08-04,2020-08-05,2020-08-07,NA
+2980,"Dakshina Kannada",167573,61,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-05,2020-08-05,2020-08-07,NA
+2981,"Dakshina Kannada",167585,85,"Female","Conta ct under tracin g","Fever, Breathlessness","DM, HTN",2020-08-05,2020-08-06,2020-08-07,NA
+2982,"Dakshina Kannada",168390,72,"Female","Conta ct under tracin g","Fever","DM, HTN, CKD",2020-07-29,2020-08-06,2020-08-07,NA
+3007,"Dakshina Kannada",107819,50,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-07-17,2020-08-07,2020-08-08,NA
+3008,"Dakshina Kannada",108350,70,"Male","Contact under tracing","Fever, Breathlessness","-",2020-07-26,2020-08-05,2020-08-08,NA
+3012,"Dakshina Kannada",117054,81,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-07-28,2020-08-06,2020-08-08,NA
+3018,"Dakshina Kannada",122017,50,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-07-28,2020-08-07,2020-08-08,NA
+3028,"Dakshina Kannada",139948,36,"Male","Contact under tracing","Cough, Breathlessness","HTN, CKD",2020-08-01,2020-08-07,2020-08-08,NA
+3049,"Dakshina Kannada",155727,39,"Male","Contact under tracing","Fever, Breathlessness","AKI",2020-08-03,2020-08-07,2020-08-08,NA
+3089,"Dakshina Kannada",81913,61,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-07-23,2020-08-08,2020-08-09,NA
+3091,"Dakshina Kannada",88349,51,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-07-22,2020-08-07,2020-08-09,NA
+3100,"Dakshina Kannada",113425,61,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-07-28,2020-08-08,2020-08-09,NA
+3123,"Dakshina Kannada",138959,47,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN, CKD",2020-07-31,2020-08-07,2020-08-09,NA
+3142,"Dakshina Kannada",162109,78,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, IHD",2020-07-29,2020-08-08,2020-08-09,NA
+3179,"Dakshina Kannada",179463,75,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-08,2020-08-08,2020-08-09,NA
+3213,"Dakshina Kannada",114531,64,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, IHD",2020-08-07,2020-08-08,2020-08-10,NA
+3224,"Dakshina Kannada",131178,49,"Male","Contact under tracing","Fever, Cough, Breathlessness","CKD, TB, IHD",2020-07-31,2020-08-08,2020-08-10,NA
+3230,"Dakshina Kannada",142465,58,"Male","SARI","Breathlessness","DM, HTN",2020-07-30,2020-08-09,2020-08-10,NA
+3232,"Dakshina Kannada",142871,64,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-08-03,2020-08-08,2020-08-10,NA
+3233,"Dakshina Kannada",143138,72,"Male","Contact under tracing","Fever, Cough, Breathlessness","--",2020-07-31,2020-08-09,2020-08-10,NA
+3255,"Dakshina Kannada",165764,92,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-05,2020-08-08,2020-08-10,NA
+3260,"Dakshina Kannada",171018,45,"Female","Contact under tracing","Fever","HTN, DM, CVA",2020-08-06,2020-08-09,2020-08-10,NA
+3261,"Dakshina Kannada",171687,67,"Female","Contact under tracing","Fever, Breathlessness","--",2020-08-06,2020-08-07,2020-08-10,NA
+3327,"Dakshina Kannada",134042,53,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-07-30,2020-08-09,2020-08-11,NA
+3330,"Dakshina Kannada",138186,35,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-10,2020-08-11,NA
+3331,"Dakshina Kannada",138453,72,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-09,2020-08-10,2020-08-11,NA
+3333,"Dakshina Kannada",142965,73,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-02,2020-08-03,2020-08-11,NA
+3345,"Dakshina Kannada",159458,69,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-04,2020-08-11,2020-08-11,NA
+3348,"Dakshina Kannada",162771,66,"Male","Contact under tracing","Breathlessness","COPD",2020-08-04,2020-08-09,2020-08-11,NA
+3353,"Dakshina Kannada",168405,55,"Male","Contact under tracing","Fever, Breathlessness","-",2020-07-27,2020-08-10,2020-08-11,NA
+3360,"Dakshina Kannada",173600,88,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-06,2020-08-10,2020-08-11,NA
+3362,"Dakshina Kannada",176497,75,"Female","Contact under tracing","-","DM, HTN",2020-08-07,2020-08-08,2020-08-11,NA
+3413,"Dakshina Kannada",126770,62,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-08-05,2020-08-11,2020-08-12,NA
+3418,"Dakshina Kannada",132375,31,"Male","Contact under tracing","Breathlessness","CA, AKI",2020-08-01,2020-08-12,2020-08-12,NA
+3454,"Dakshina Kannada",171013,11,"Male","Contact under tracing","-","HTN",2020-08-05,2020-08-10,2020-08-12,NA
+3456,"Dakshina Kannada",174656,86,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-06,2020-08-11,2020-08-12,NA
+3459,"Dakshina Kannada",177741,34,"Male","Contact under tracing","Fever","-",2020-08-07,2020-08-08,2020-08-12,NA
+3493,"Dakshina Kannada",200618,67,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-11,2020-08-11,2020-08-12,NA
+3495,"Dakshina Kannada",201381,90,"Female","Contact under tracing","Fever, Breathlessness","HTN, AKI",2020-08-11,2020-08-12,2020-08-12,NA
+3516,"Dakshina Kannada",102161,87,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN, CLD",2020-07-24,2020-08-12,2020-08-13,NA
+3545,"Dakshina Kannada",160675,80,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CVA",2020-08-06,2020-08-12,2020-08-13,NA
+3564,"Dakshina Kannada",181671,70,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, COPD",2020-08-07,2020-08-10,2020-08-13,NA
+3565,"Dakshina Kannada",182412,65,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, CKD, COPD",2020-08-07,2020-08-12,2020-08-13,NA
+3586,"Dakshina Kannada",199632,48,"Male","Contact under tracing","Fever, Breathlessness","DM, CVA",2020-08-10,2020-08-12,2020-08-13,NA
+3591,"Dakshina Kannada",203779,77,"Male","Contact under tracing","Fever, Cough","HTN",2020-07-21,2020-08-11,2020-08-13,NA
+3640,"Dakshina Kannada",132537,88,"Female","Contact under tracing","-","DM, HTN",2020-07-31,2020-08-13,2020-08-14,NA
+3647,"Dakshina Kannada",143000,64,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-12,2020-08-12,2020-08-14,NA
+3648,"Dakshina Kannada",146563,72,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-03,2020-08-13,2020-08-14,NA
+3651,"Dakshina Kannada",157104,44,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-04,2020-08-13,2020-08-14,NA
+3659,"Dakshina Kannada",167603,72,"Male","Contact under tracing","-","DM, HTN, CKD",2020-07-28,2020-08-13,2020-08-14,NA
+3666,"Dakshina Kannada",178981,53,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-08-07,2020-08-14,2020-08-14,NA
+3734,"Dakshina Kannada",137082,66,"Female","Contact under tracing","-","DM, HTN, AKI",2020-08-02,2020-08-14,2020-08-15,NA
+3740,"Dakshina Kannada",147349,68,"Male","Contact under tracing","Fever","DM, HTN, CKD",2020-08-03,2020-08-15,2020-08-15,NA
+3750,"Dakshina Kannada",165130,80,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD, AKI",2020-08-05,2020-08-14,2020-08-15,NA
+3766,"Dakshina Kannada",181676,77,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-07,2020-08-14,2020-08-15,NA
+3771,"Dakshina Kannada",185361,53,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-08,2020-08-14,2020-08-15,NA
+3779,"Dakshina Kannada",191737,67,"Male","Contact under tracing","Breathlessness","DM, CKD, CA",2020-07-21,2020-08-12,2020-08-15,NA
+3835,"Dakshina Kannada",92854,65,"Male","Contact under Tracing","Fever, Breathlessness","DM",NA,2020-08-16,2020-08-16,NA
+3875,"Dakshina Kannada",151275,70,"Male","Contact under Tracing","Breathlessness","IHD",NA,2020-08-16,2020-08-16,NA
+3881,"Dakshina Kannada",175860,80,"Male","Contact under Tracing","Fever, Cough, Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+3919,"Dakshina Kannada",220473,70,"Male","Contact under Tracing","Fever, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3923,"Dakshina Kannada",221412,78,"Male","Contact under Tracing","Breathlessness","HTN, CKD",NA,2020-08-16,2020-08-16,NA
+3930,"Dakshina Kannada",224654,40,"Male","Contact under Tracing","Cough, Breathlessness","CLD",NA,2020-08-16,2020-08-16,NA
+3932,"Dakshina Kannada",225469,38,"Male","Contact under Tracing","Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3980,"Dakshina Kannada",159868,51,"Male","Contact under tracing","-","HTN",2020-08-05,2020-08-16,2020-08-17,NA
+3982,"Dakshina Kannada",162103,57,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD, CLD",2020-08-04,2020-08-16,2020-08-17,NA
+4000,"Dakshina Kannada",186949,60,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-11,2020-08-16,2020-08-17,NA
+4002,"Dakshina Kannada",194114,56,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, AKI",2020-08-11,2020-08-16,2020-08-17,NA
+4013,"Dakshina Kannada",205194,49,"Female","Contact under tracing","-","DM, HTN, CKD",2020-08-11,2020-08-16,2020-08-17,NA
+4042,"Dakshina Kannada",231829,73,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, CKD",2020-08-15,2020-08-16,2020-08-17,NA
+4048,"Dakshina Kannada",236178,51,"Male","Contact under tracing","Breathlessness","DM, CKD",2020-08-15,2020-08-15,2020-08-17,NA
+4050,"Dakshina Kannada",237552,47,"Female","Contact under tracing","Fever, Cough, Breathlessness","Anaemia",2020-08-14,2020-08-16,2020-08-17,NA
+4086,"Dakshina Kannada",130914,68,"Male","Contact under tracing","Breathlessness","HTN, CKD",2020-07-31,2020-08-18,2020-08-18,NA
+4091,"Dakshina Kannada",140303,54,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-02,2020-08-04,2020-08-18,NA
+4103,"Dakshina Kannada",156834,80,"Male","Contact under tracing","Fever, Breathlessness","HTN, IHD",2020-08-04,2020-08-17,2020-08-18,NA
+4114,"Dakshina Kannada",176021,72,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-11,2020-08-18,NA
+4128,"Dakshina Kannada",191070,60,"Male","Contact under tracing","Fever","-",2020-08-10,2020-08-18,2020-08-18,NA
+4146,"Dakshina Kannada",211312,48,"Male","Contact under tracing","Fever, Breathlessness","CLD",2020-08-11,2020-08-18,2020-08-18,NA
+4157,"Dakshina Kannada",220463,45,"Male","Contact under tracing","Breathlessness","DM, IHD",2020-08-13,2020-08-17,2020-08-18,NA
+4186,"Dakshina Kannada",242461,47,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-16,2020-08-16,2020-08-18,NA
+4191,"Dakshina Kannada",244600,55,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-16,2020-08-17,2020-08-18,NA
+4236,"Dakshina Kannada",173094,36,"Male","Contact under tracing","Cough, Breathlessness","CLD",2020-08-06,2020-08-17,2020-08-19,NA
+4306,"Dakshina Kannada",245871,70,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-16,2020-08-16,2020-08-19,NA
+4317,"Dakshina Kannada",251945,73,"Female","Contact under tracing","Fever, Breathlessness","DM, IHD, CVA",2020-08-07,2020-08-17,2020-08-19,NA
+4319,"Dakshina Kannada",252752,70,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-18,2020-08-18,2020-08-19,NA
+4353,"Dakshina Kannada",194121,64,"Male","Contact under tracing","Cough, Breathlessness","CA",2020-08-10,2020-08-19,2020-08-20,NA
+4387,"Dakshina Kannada",237551,82,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-08-14,2020-08-18,2020-08-20,NA
+4390,"Dakshina Kannada",238715,0.12,"Female","Contact under tracing","Breathlessness","-",2020-08-15,2020-08-18,2020-08-20,NA
+4398,"Dakshina Kannada",243838,53,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-08-16,2020-08-17,2020-08-20,NA
+4410,"Dakshina Kannada",254619,52,"Male","Contact under tracing","Fever, Breathlessness","HTN, DM, CKD",2020-08-15,2020-08-19,2020-08-20,NA
+4411,"Dakshina Kannada",254632,30,"Male","Contact under tracing","Fever, Breathlessness","CKD",2020-08-09,2020-08-18,2020-08-20,NA
+4446,"Dakshina Kannada",195471,71,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-08,2020-08-19,2020-08-21,NA
+4468,"Dakshina Kannada",229203,52,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-08-17,2020-08-21,2020-08-21,NA
+4479,"Dakshina Kannada",238720,60,"Male","Contact under tracing","Fever, Cough","--",2020-08-15,2020-08-20,2020-08-21,NA
+4480,"Dakshina Kannada",239635,68,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD, CKD",2020-08-15,2020-08-19,2020-08-21,NA
+4512,"Dakshina Kannada",264769,35,"Male","Contact under tracing","Fever","CLD",2020-08-18,2020-08-19,2020-08-21,NA
+4520,"Dakshina Kannada",119017,58,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-07-21,2020-07-28,2020-08-22,NA
+4545,"Dakshina Kannada",213537,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-13,2020-08-22,2020-08-22,NA
+4546,"Dakshina Kannada",217369,77,"Female","Contact under tracing","-","DM, HTN, IHD, CA",2020-08-13,2020-08-20,2020-08-22,NA
+4575,"Dakshina Kannada",250066,64,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-08-18,2020-08-22,2020-08-22,NA
+4629,"Dakshina Kannada",218748,35,"Male","Contact under tracing","-","DM, HTN, CKD",2020-08-12,2020-08-22,2020-08-23,NA
+4630,"Dakshina Kannada",224665,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, CLD",2020-08-13,2020-08-22,2020-08-23,NA
+4650,"Dakshina Kannada",252765,80,"Male","Contact under tracing","Cough, Breathlessness","HTN, IHD",2020-08-18,2020-08-23,2020-08-23,NA
+4661,"Dakshina Kannada",268233,52,"Female","Contact under tracing","-","DM, HTN, CVA, CKD",2020-08-05,2020-08-22,2020-08-23,NA
+4674,"Dakshina Kannada",283650,39,"Male","Contact under tracing","Fever","_",2020-08-21,2020-08-21,2020-08-23,NA
+4700,"Dakshina Kannada",215388,72,"Female","Contact under tracing","Fever, Breathlessness","HTN, IHD",2020-08-13,2020-08-23,2020-08-24,NA
+4720,"Dakshina Kannada",233319,71,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, CLD, AKI",2020-08-14,2020-08-23,2020-08-24,NA
+4749,"Dakshina Kannada",252753,57,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD, CKD",2020-08-17,2020-08-24,2020-08-24,NA
+4777,"Dakshina Kannada",273359,63,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-20,2020-08-22,2020-08-24,NA
+4783,"Dakshina Kannada",276576,42,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-20,2020-08-23,2020-08-24,NA
+4793,"Dakshina Kannada",285457,26,"Male","Contact under tracing","Breathlessness","-",2020-08-21,2020-08-22,2020-08-24,NA
+4913,"Dakshina Kannada",264105,42,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-20,2020-08-23,2020-08-25,NA
+4932,"Dakshina Kannada",280573,75,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-21,2020-08-22,2020-08-25,NA
+4954,"Dakshina Kannada",298892,38,"Male","Contact under tracing","Fever, Cough","AKI, CLD",2020-08-21,2020-08-23,2020-08-25,NA
+4974,"Dakshina Kannada",211308,32,"Male","Contact under tracing","-","-",2020-08-11,2020-08-25,2020-08-26,NA
+4981,"Dakshina Kannada",224661,53,"Female","Contact under tracing","Fever, Breathlessness","DM",2020-08-22,2020-08-26,2020-08-26,NA
+5001,"Dakshina Kannada",245427,69,"Female","Contact under tracing","Cough, Breathlessness","-",2020-08-15,2020-08-25,2020-08-26,NA
+5002,"Dakshina Kannada",246704,50,"Female","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-08-19,2020-08-26,2020-08-26,NA
+5007,"Dakshina Kannada",252754,46,"Male","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-08-17,2020-08-25,2020-08-26,NA
+5025,"Dakshina Kannada",264770,73,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-18,2020-08-25,2020-08-26,NA
+5027,"Dakshina Kannada",268194,57,"Male","Contact under tracing","Fever, Cough","DM",2020-08-19,2020-08-23,2020-08-26,NA
+5028,"Dakshina Kannada",268198,64,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-08-22,2020-08-23,2020-08-26,NA
+5058,"Dakshina Kannada",287838,60,"Female","SARI","Breathlessness","HTN",2020-08-22,2020-08-24,2020-08-26,NA
+5084,"Dakshina Kannada",301268,60,"Female","Contact under tracing","Fever, Breathlessness","DM, AKI",2020-08-25,2020-08-25,2020-08-26,NA
+5088,"Dakshina Kannada",308345,30,"Male","Contact under tracing","-","DM, HTN",2020-08-23,2020-08-25,2020-08-26,NA
+5120,"Dakshina Kannada",161274,60,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-23,2020-08-26,2020-08-27,NA
+5137,"Dakshina Kannada",208515,90,"Male","SARI","Cough, Breathlessness","ILD",2020-08-13,2020-08-27,2020-08-27,NA
+5159,"Dakshina Kannada",248753,86,"Male","SARI","Fever, Cough","CLD, HTN, IHD",2020-08-16,2020-08-26,2020-08-27,NA
+5166,"Dakshina Kannada",261161,52,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-08-21,2020-08-26,2020-08-27,NA
+5208,"Dakshina Kannada",298256,73,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-08-24,2020-08-26,2020-08-27,NA
+5209,"Dakshina Kannada",301550,73,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-25,2020-08-26,2020-08-27,NA
+5220,"Dakshina Kannada",312448,72,"Male","SARI","Breathlessness","DM, HTN, IHD, COPD",2020-08-25,2020-08-26,2020-08-27,NA
+5285,"Dakshina Kannada",261175,70,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-20,2020-08-26,2020-08-28,NA
+5286,"Dakshina Kannada",261193,53,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, CKD, IHD",2020-08-18,2020-08-26,2020-08-28,NA
+5327,"Dakshina Kannada",296486,59,"Male","Contact under tracing","Fever, Breathlessness","COPD",2020-08-23,2020-08-28,2020-08-28,NA
+5328,"Dakshina Kannada",296508,76,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-27,2020-08-27,2020-08-28,NA
+5347,"Dakshina Kannada",307420,36,"Male","Contact under tracing","Fever, Cough, Breathlessness","AKI",2020-08-24,2020-08-27,2020-08-28,NA
+5359,"Dakshina Kannada",320523,73,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, IHD",2020-08-25,2020-08-27,2020-08-28,NA
+5368,"Dakshina Kannada",151303,60,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-01,2020-08-28,2020-08-29,NA
+5370,"Dakshina Kannada",171017,63,"Male","Contact under tracing","Fever, Breathlessness","AKI",2020-08-06,2020-08-29,2020-08-29,NA
+5372,"Dakshina Kannada",196527,58,"Male","Contact under tracing","Breathlessness","DM",2020-08-12,2020-08-28,2020-08-29,NA
+5375,"Dakshina Kannada",208514,56,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-08-25,2020-08-29,2020-08-29,NA
+5434,"Dakshina Kannada",296491,76,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-23,2020-08-28,2020-08-29,NA
+5471,"Dakshina Kannada",327623,50,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-08-19,2020-08-28,2020-08-29,NA
+5479,"Dakshina Kannada",332758,50,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD, AKI",2020-08-27,2020-08-27,2020-08-29,NA
+5504,"Dakshina Kannada",200602,63,"Female","Contact under tracing","Breathlessness","DM, HTN, IHD",2020-08-10,2020-08-29,2020-08-30,NA
+5521,"Dakshina Kannada",262917,48,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, CA",2020-08-13,2020-08-29,2020-08-30,NA
+5526,"Dakshina Kannada",278858,79,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-08-27,2020-08-28,2020-08-30,NA
+5536,"Dakshina Kannada",291599,48,"Male","Contact under tracing","-","AKI",2020-08-23,2020-08-29,2020-08-30,NA
+5553,"Dakshina Kannada",315175,73,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-29,2020-08-30,NA
+5573,"Dakshina Kannada",330529,88,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN, CVA, COPD",2020-08-27,2020-08-28,2020-08-30,NA
+5595,"Dakshina Kannada",212995,39,"Female","Contact under tracing","Cough, Breathlessness","DM",2020-08-13,2020-08-29,2020-08-31,NA
+5597,"Dakshina Kannada",219811,55,"Female","Contact under tracing","Breathlessness","HTN, CKD, AKD",2020-08-13,2020-08-30,2020-08-31,NA
+5621,"Dakshina Kannada",288783,70,"Female","Contact under tracing","Fever, Breathlessness","HTN, AKI",2020-08-20,2020-08-30,2020-08-31,NA
+5626,"Dakshina Kannada",290550,84,"Male","Contact under tracing","Fever, Breathlessness","DM, AKI",2020-08-25,2020-08-31,2020-08-31,NA
+5646,"Dakshina Kannada",311850,47,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-22,2020-08-29,2020-08-31,NA
+5649,"Dakshina Kannada",312744,68,"Male","SARI","Fever, Breathlessness","DM, HTN, AKI",2020-08-26,2020-08-30,2020-08-31,NA
+5664,"Dakshina Kannada",328262,75,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-27,2020-08-29,2020-08-31,NA
+5665,"Dakshina Kannada",328321,52,"Female","SARI","Fever, Breathlessness","DM",2020-08-27,2020-08-29,2020-08-31,NA
+5681,"Dakshina Kannada",338161,80,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-08-29,2020-08-29,2020-08-31,NA
+5682,"Dakshina Kannada",338169,60,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-28,2020-08-30,2020-08-31,NA
+5692,"Dakshina Kannada",343327,56,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, COPD",2020-08-29,2020-08-29,2020-08-31,NA
+5696,"Dakshina Kannada",349544,50,"Female","Contact under tracing","-","DM",NA,2020-08-30,2020-08-31,"Brought dead"
+5742,"Dakshina Kannada",262085,61,"Male","Contact under tracing","Breathlessness","DM, CKD, COPD",2020-08-18,2020-09-01,2020-09-01,NA
+5770,"Dakshina Kannada",296876,65,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-08-24,2020-08-29,2020-09-01,NA
+5774,"Dakshina Kannada",302544,70,"Male","Contact under tracing","Breathlessness","HTN, IHD",2020-08-22,2020-08-31,2020-09-01,NA
+5791,"Dakshina Kannada",322990,65,"Male","Contact under tracing","Fever, Breathlessness","DM, CLD",2020-08-22,2020-08-29,2020-09-01,NA
+5801,"Dakshina Kannada",339462,75,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, AKI",2020-08-29,2020-08-30,2020-09-01,NA
+5831,"Dakshina Kannada",357162,71,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-08-31,2020-08-31,2020-09-01,NA
+5833,"Dakshina Kannada",358853,46,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-31,2020-09-01,2020-09-01,NA
+5891,"Dakshina Kannada",308794,49,"Male","Contact under tracing","Fever","DM, HTN",2020-08-26,2020-08-31,2020-09-02,NA
+5927,"Dakshina Kannada",340856,84,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-08-31,2020-09-01,2020-09-02,NA
+5928,"Dakshina Kannada",342669,70,"Female","Contact under tracing","-","DM, IHD, CVA",2020-08-29,2020-09-01,2020-09-02,NA
+5929,"Dakshina Kannada",342978,73,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-28,2020-09-01,2020-09-02,NA
+5936,"Dakshina Kannada",357118,49,"Male","Contact under tracing","Cough, Breathlessness","DM",2020-08-31,2020-09-01,2020-09-02,NA
+5939,"Dakshina Kannada",360126,81,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-08-31,2020-08-31,2020-09-02,NA
+5986,"Dakshina Kannada",307765,76,"Male","Under Investig ation","Fever, Breathlessness","DM, HTN, CVA",2020-08-25,2020-09-02,2020-09-03,NA
+6003,"Dakshina Kannada",323004,49,"Female","Under Investig","Fever, Breathlessness","DM, HTN",2020-08-29,2020-09-02,2020-09-03,NA
+6015,"Dakshina Kannada",338156,65,"Female","Under Investig ation","Fever, Breathlessness","DM, HTN",2020-08-28,2020-09-02,2020-09-03,NA
+6075,"Dakshina Kannada",285015,60,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CVA, CKD",2020-08-21,2020-09-04,2020-09-04,NA
+6096,"Dakshina Kannada",317588,68,"Female","Contact under tracing","Breathlessness","HTN",2020-08-25,2020-09-04,2020-09-04,NA
+6119,"Dakshina Kannada",344930,79,"Male","Contact under tracing","Fever, Breathlessness","COPD, BPH, HTN",2020-08-31,2020-09-01,2020-09-04,NA
+6133,"Dakshina Kannada",358859,78,"Female","Contact under tracing","Cough, Breathlessness","AKI",2020-08-30,2020-09-04,2020-09-04,NA
+6154,"Dakshina Kannada",374794,58,"Male","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-09-01,2020-09-03,2020-09-04,NA
+6155,"Dakshina Kannada",374803,65,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, AKI, COPD",2020-08-28,2020-09-03,2020-09-04,NA
+6163,"Dakshina Kannada",382332,79,"Male","Contact under tracing","Breathlessness","HTN",2020-09-01,2020-09-02,2020-09-04,NA
+6184,"Dakshina Kannada",287989,85,"Male","Contact under tracing","Breathlessness","CVA",2020-08-21,2020-09-03,2020-09-05,NA
+6197,"Dakshina Kannada",308783,58,"Female","Contact under tracing","Breathlessness","HTN",2020-08-24,2020-09-05,2020-09-05,NA
+6202,"Dakshina Kannada",317594,82,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN, IHD, CVA",2020-08-25,2020-09-02,2020-09-05,NA
+6231,"Dakshina Kannada",347168,68,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-08-28,2020-09-04,2020-09-05,NA
+6237,"Dakshina Kannada",352128,50,"Female","Contact under tracing","Breathlessness","CKD",2020-08-30,2020-09-04,2020-09-05,NA
+6238,"Dakshina Kannada",352139,55,"Male","Contact under tracing","Breathlessness","DM, HTN, CVA",2020-08-31,2020-09-03,2020-09-05,NA
+6243,"Dakshina Kannada",353580,61,"Male","Contact under tracing","Breathlessness","HTN",2020-08-30,2020-09-03,2020-09-05,NA
+6273,"Dakshina Kannada",376611,87,"Male","Contact under tracing","-","CVA",2020-09-02,2020-09-02,2020-09-05,NA
+6280,"Dakshina Kannada",378804,75,"Male","Contact under tracing","Fever, Cough, Breathlessness","COPD, CA",2020-09-01,2020-09-04,2020-09-05,NA
+6364,"Dakshina Kannada",374771,63,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-01,2020-09-06,2020-09-06,NA
+6448,"Dakshina Kannada",284533,45,"Female","Contact under tracing","-","DM",2020-08-23,2020-09-07,2020-09-07,NA
+6473,"Dakshina Kannada",331849,38,"Male","Contact under tracing","Fever, Breathlessness","HTN, RA, CKD",2020-08-26,2020-09-06,2020-09-07,NA
+6478,"Dakshina Kannada",336524,78,"Male","Contact under tracing","Breathlessness","DM, CKD",2020-09-01,2020-09-05,2020-09-07,NA
+6498,"Dakshina Kannada",378921,53,"Female","Contact under tracing","Fever, Breathlessness","-",2020-09-02,2020-09-07,2020-09-07,NA
+6500,"Dakshina Kannada",380357,84,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-01,2020-09-06,2020-09-07,NA
+6515,"Dakshina Kannada",399292,52,"Male","Contact under tracing","Breathlessness","IHD",2020-09-04,2020-09-06,2020-09-07,NA
+6520,"Dakshina Kannada",404767,65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, MYASTHENIA GRAVIS",2020-09-05,2020-09-07,2020-09-07,NA
+6521,"Dakshina Kannada",404855,88,"Female","Contact under tracing","Breathlessness","ILD",2020-09-05,2020-09-06,2020-09-07,NA
+6648,"Dakshina Kannada",396931,77,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-05,2020-09-08,2020-09-08,NA
+6655,"Dakshina Kannada",399415,58,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-09-06,2020-09-08,2020-09-08,NA
+6660,"Dakshina Kannada",404857,65,"Male","Contact under tracing","Fever, Breathlessness","AKI",2020-08-28,2020-09-07,2020-09-08,NA
+6718,"Dakshina Kannada",341935,84,"Female","Contact under tracing","Fever","-",2020-08-28,2020-09-08,2020-09-09,NA
+6737,"Dakshina Kannada",366022,56,"Male","Contact under tracing","Fever, Cough","HTN, DM, COPD",2020-09-01,2020-09-06,2020-09-09,NA
+6761,"Dakshina Kannada",389503,90,"Female","Contact under tracing","Fever, Cough, Breathlessness","HTN, IHD, CKD,",2020-09-04,2020-09-09,2020-09-09,NA
+6778,"Dakshina Kannada",404811,74,"Male","Contact under tracing","Fever","HTN, CKD, CLD, IHD",2020-09-05,2020-09-07,2020-09-09,NA
+6801,"Dakshina Kannada",429631,37,"Male","Contact under tracing","Fever, Cough","HTN, IHD",2020-09-08,2020-09-09,2020-09-09,NA
+6802,"Dakshina Kannada",431146,73,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, COPD, IHD",2020-09-08,2020-09-09,2020-09-09,NA
+6840,"Dakshina Kannada",357114,67,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-03,2020-09-09,2020-09-10,NA
+6848,"Dakshina Kannada",366031,76,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-10,2020-09-10,NA
+6856,"Dakshina Kannada",374789,83,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-01,2020-09-08,2020-09-10,NA
+6860,"Dakshina Kannada",378395,65,"Male","Contact under tracing","Breathlessness","-",2020-09-01,2020-09-09,2020-09-10,NA
+6867,"Dakshina Kannada",383500,79,"Male","Contact under tracing","Breathlessness","DM, HTN, IHD",2020-09-03,2020-09-10,2020-09-10,NA
+6898,"Dakshina Kannada",415109,68,"Female","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-07,2020-09-10,2020-09-10,NA
+6910,"Dakshina Kannada",423040,40,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-10,2020-09-10,NA
+6916,"Dakshina Kannada",428747,59,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-09,2020-09-10,2020-09-10,NA
+6921,"Dakshina Kannada",431155,60,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-08,2020-09-09,2020-09-10,NA
+6964,"Dakshina Kannada",342977,68,"Male","Contac t under tracing","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-28,2020-09-10,2020-09-11,NA
+6978,"Dakshina Kannada",357130,60,"Male","SARI","Fever, Breathlessness","DM, IHD, AKI",2020-09-05,2020-09-08,2020-09-11,NA
+6979,"Dakshina Kannada",357157,67,"Female","Contac t under tracing","Fever, Breathlessness","HTN, IHD",2020-08-31,2020-09-08,2020-09-11,NA
+6989,"Dakshina Kannada",364993,59,"Male","Contac t under tracing","Fever, Cough, Breathlessness","DM, HTN, AKI",2020-09-04,2020-09-08,2020-09-11,NA
+6992,"Dakshina Kannada",367047,54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-31,2020-09-11,2020-09-11,NA
+7020,"Dakshina Kannada",407898,75,"Female","Contac t under tracing","Fever, Cough, Breathlessness","IHD",2020-09-05,2020-09-10,2020-09-11,NA
+7040,"Dakshina Kannada",425964,26,"Male","ILI","Fever, Cough","-",2020-09-08,2020-09-10,2020-09-11,NA
+7091,"Dakshina Kannada",357303,61,"Male","ILI","Fever, Cough","DM, HTN, CLD",2020-08-29,2020-09-02,2020-09-12,NA
+7096,"Dakshina Kannada",366006,47,"Male","Contact under tracing","-","CLD",2020-08-28,2020-09-11,2020-09-12,NA
+7147,"Dakshina Kannada",438348,70,"Female","Contact under tracing","Fever, Breathlessness","HTN, DM, COPD",2020-09-10,2020-09-11,2020-09-12,NA
+7148,"Dakshina Kannada",439248,80,"Male","ILI","Fever, Cough","HTN, CVA",2020-09-09,2020-09-12,2020-09-12,NA
+7158,"Dakshina Kannada",460242,37,"Male","SARI","Fever, Breathlessness, Cough","HTN",2020-09-10,2020-09-11,2020-09-12,NA
+7209,"Dakshina Kannada",386191,21,"Male","Contact under tracing","-","-",2020-09-04,2020-09-12,2020-09-13,NA
+7219,"Dakshina Kannada",399413,68,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-03,2020-09-13,2020-09-13,NA
+7225,"Dakshina Kannada",407172,68,"Male","SARI","Fever, Breathlessness","HTN",2020-09-04,2020-09-09,2020-09-13,NA
+7276,"Dakshina Kannada",350935,56,"Male","Contact under tracing","Fever, Breathlessness","-",2020-08-30,2020-09-14,2020-09-14,NA
+7283,"Dakshina Kannada",374774,76,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, IHD",2020-09-01,2020-09-14,2020-09-14,NA
+7323,"Dakshina Kannada",422368,72,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-08,2020-09-12,2020-09-14,NA
+7326,"Dakshina Kannada",425128,56,"Male","Contact under tracing","Fever, Breathlessness","DM, IHD",2020-09-07,2020-09-14,2020-09-14,NA
+7342,"Dakshina Kannada",442984,63,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-03,2020-09-13,2020-09-14,NA
+7404,"Dakshina Kannada",352140,73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-30,2020-09-13,2020-09-15,NA
+7412,"Dakshina Kannada",367991,60,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, CVA",2020-09-01,2020-09-15,2020-09-15,NA
+7473,"Dakshina Kannada",477024,54,"Female","SARI","Breathlessness","AKI",2020-09-12,2020-09-14,2020-09-15,NA
+7478,"Dakshina Kannada",486214,63,"Male","SARI","Fever, Breathlessness","-",2020-09-14,2020-09-14,2020-09-15,NA
+7572,"Dakshina Kannada",404815,0.12,"Male","Contact under tracing","Fever, Breathlessness","CVA",2020-09-04,2020-09-14,2020-09-17,NA
+7580,"Dakshina Kannada",420676,80,"Male","Contact under tracing","-","DM, HTN, CVA",2020-09-06,2020-09-14,2020-09-17,NA
+7591,"Dakshina Kannada",438386,71,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-09-09,2020-09-13,2020-09-17,NA
+7599,"Dakshina Kannada",443700,52,"Male","Contact under tracing","Breathlessness","DM, HTN, CKD",2020-09-08,2020-09-17,2020-09-17,NA
+7604,"Dakshina Kannada",448794,77,"Male","Contact under tracing","Fever, Cough","DM, HTN, CKD",2020-09-09,2020-09-16,2020-09-17,NA
+7608,"Dakshina Kannada",456600,65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, CVA",2020-09-10,2020-09-16,2020-09-17,NA
+7609,"Dakshina Kannada",456618,80,"Male","Contact under tracing","Breathlessness","DM, HTN, IDH",2020-09-10,2020-09-14,2020-09-17,NA
+7618,"Dakshina Kannada",470484,65,"Female","Contact under tracing","-","DM, HTN, CVA",2020-09-10,2020-09-13,2020-09-17,NA
+7622,"Dakshina Kannada",473169,73,"Female","Contact under tracing","Fever, Breathlessness","DM",2020-09-12,2020-09-17,2020-09-17,NA
+7645,"Dakshina Kannada",245430,74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-15,2020-09-07,2020-09-18,NA
+7684,"Dakshina Kannada",404790,88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-09-10,2020-09-15,2020-09-18,NA
+7685,"Dakshina Kannada",404809,66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-05,2020-09-16,2020-09-18,NA
+7698,"Dakshina Kannada",414390,73,"Male","Contact under tracing","-","DM, IHD",2020-09-05,2020-09-15,2020-09-18,NA
+7718,"Dakshina Kannada",429658,83,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-09-08,2020-09-17,2020-09-18,NA
+7751,"Dakshina Kannada",452636,68,"Female","SARI","Breathlessness","DM, HTN",2020-09-11,2020-09-13,2020-09-18,NA
+7781,"Dakshina Kannada",474863,68,"Female","SARI","Fever, Breathlessness","DM, AKI",2020-09-13,2020-09-18,2020-09-18,NA
+7787,"Dakshina Kannada",483742,45,"Male","SARI","Breathlessness","HTN, CVA",2020-09-09,2020-09-16,2020-09-18,NA
+7789,"Dakshina Kannada",484691,64,"Male","ILI","Fever, Cough","DM, AKI",2020-09-12,2020-09-17,2020-09-18,NA
+7793,"Dakshina Kannada",486795,45,"Female","Contact under tracing","-","CVA",2020-09-14,2020-09-17,2020-09-18,NA
+7799,"Dakshina Kannada",492731,58,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-15,2020-09-15,2020-09-18,NA
+7824,"Dakshina Kannada",366005,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-08-31,2020-09-17,2020-09-19,NA
+7826,"Dakshina Kannada",374809,34,"Male","Contact under tracing","Fever, Breathlessness","-",2020-09-01,2020-09-18,2020-09-19,NA
+7832,"Dakshina Kannada",416432,78,"Female","Contact under tracing","Breathlessness","CLD",2020-09-19,2020-09-19,2020-09-19,NA
+7871,"Dakshina Kannada",450617,62,"Male","Contact under tracing","Fever, Cough","DM, HTN, CLD",2020-09-03,2020-09-16,2020-09-19,NA
+7897,"Dakshina Kannada",487339,81,"Male","Contact under tracing","Fever, Cough","DM",2020-08-31,2020-09-18,2020-09-19,NA
+7951,"Dakshina Kannada",414932,80,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-09-06,2020-09-18,2020-09-20,NA
+7960,"Dakshina Kannada",442991,75,"Male","Contact under tracing","Breathlessness","AKI",2020-09-10,2020-09-17,2020-09-20,NA
+7971,"Dakshina Kannada",456598,73,"Female","Contact under tracing","Breathlessness","DM, HTN, IDH, CKD",2020-09-12,2020-09-18,2020-09-20,NA
+7990,"Dakshina Kannada",484677,73,"Female","Contact under tracing","Fever, Cough","DM, HTN, IHD",2020-09-13,2020-09-19,2020-09-20,NA
+8027,"Dakshina Kannada",525354,43,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-09-15,2020-09-19,2020-09-20,NA
+8031,"Dakshina Kannada",532816,51,"Male","Contact under tracing","Breathlessness","IDH",2020-09-19,2020-09-20,2020-09-20,NA
+8036,"Dakshina Kannada",352956,75,"Male","SARI","Breathlessness","DM, HTN",2020-08-31,2020-09-21,2020-09-21,NA
+8038,"Dakshina Kannada",374785,75,"Male","SARI","Breathlessness","DM, AKI",2020-09-04,2020-09-21,2020-09-21,NA
+8055,"Dakshina Kannada",439239,63,"Male","SARI","Fever, Breathlessness","DM, HTN, CA TOUNGE",2020-09-10,2020-09-18,2020-09-21,NA
+8061,"Dakshina Kannada",454283,63,"Male","SARI","Breathlessness","DM, HTN, AKI",2020-09-10,2020-09-20,2020-09-21,NA
+8074,"Dakshina Kannada",471276,66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-11,2020-09-21,2020-09-21,NA
+8077,"Dakshina Kannada",473165,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-14,2020-09-21,2020-09-21,NA
+8137,"Dakshina Kannada",523197,61,"Male","Contact Under Tracing","-","CLD, IHD, HYPOTHYROIDISM",2020-09-17,2020-09-21,2020-09-21,NA
+8139,"Dakshina Kannada",525349,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-17,2020-09-19,2020-09-21,NA
+8161,"Dakshina Kannada",366009,65,"Female","SARI","Breathlessness","CVA",2020-09-07,2020-09-21,2020-09-22,NA
+8169,"Dakshina Kannada",423030,75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-20,2020-09-22,NA
+8223,"Dakshina Kannada",517229,40,"Female","SARI","Cough, Breathlessness","-",2020-09-16,2020-09-18,2020-09-22,NA
+8228,"Dakshina Kannada",520307,52,"Male","SARI","Breathlessness","DM",2020-09-18,2020-09-22,2020-09-22,NA
+8311,"Dakshina Kannada",502926,30,"Female","SAARI","Breathlessness","-",2020-09-18,2020-09-21,2020-09-24,NA
+8340,"Dakshina Kannada",561057,70,"Female","SAARI","Cough, Breathlessness","DM, HTN, IHD",2020-09-22,2020-09-23,2020-09-24,NA
+8431,"Dakshina Kannada",383499,72,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-02,2020-09-23,2020-09-26,NA
+8433,"Dakshina Kannada",425016,69,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-24,2020-09-26,NA
+8436,"Dakshina Kannada",456624,65,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-10,2020-09-24,2020-09-26,NA
+8444,"Dakshina Kannada",473170,45,"Male","SARI","Cough, Breathlessness","DM",2020-09-12,2020-09-24,2020-09-26,NA
+8451,"Dakshina Kannada",486213,76,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-14,2020-09-24,2020-09-26,NA
+8457,"Dakshina Kannada",494407,62,"Male","SARI","Cough, Breathlessness","HTN, CKD",2020-09-14,2020-09-23,2020-09-26,NA
+8468,"Dakshina Kannada",517144,72,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-24,2020-09-26,NA
+8472,"Dakshina Kannada",524000,72,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-09-19,2020-09-22,2020-09-26,NA
+8515,"Dakshina Kannada",409063,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-05,2020-09-21,2020-09-27,NA
+8518,"Dakshina Kannada",444172,79,"Male","SARI","Fever, Breathlessness","HTN",2020-09-09,2020-09-21,2020-09-27,NA
+8546,"Dakshina Kannada",530893,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-18,2020-09-23,2020-09-27,NA
+8548,"Dakshina Kannada",535547,78,"Male","SARI","Fever, Cough, Breathlessness","HTN, IDH, COPD",2020-09-20,2020-09-21,2020-09-27,NA
+8554,"Dakshina Kannada",540145,48,"Female","SARI","Fever, Cough, Breathlessness","DM, AKI",2020-09-21,2020-09-23,2020-09-27,NA
+8561,"Dakshina Kannada",545780,94,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-19,2020-09-21,2020-09-27,NA
+8594,"Dakshina Kannada",417272,80,"Male","Contact under tracing","Fever, Cough","DM, HTN, CKD",2020-09-07,2020-09-16,2020-09-28,NA
+8595,"Dakshina Kannada",423031,83,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, COPD",2020-09-06,2020-09-25,2020-09-28,NA
+8600,"Dakshina Kannada",484702,68,"Male","Contact under tracing","Fever, Cough","-",2020-09-13,2020-09-21,2020-09-28,NA
+8611,"Dakshina Kannada",524929,72,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-09-17,2020-09-24,2020-09-28,NA
+8618,"Dakshina Kannada",541528,72,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-09-19,2020-09-23,2020-09-28,NA
+8624,"Dakshina Kannada",544000,75,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-20,2020-09-20,2020-09-28,NA
+8630,"Dakshina Kannada",554889,35,"Female","Contact under tracing","Fever, Breathlessness","DM",2020-09-22,2020-09-25,2020-09-28,NA
+8694,"Dakshina Kannada",423042,58,"Male","Contact under tracing","Breathlessness","DM, CA",2020-09-07,2020-09-08,2020-09-29,NA
+8707,"Dakshina Kannada",457348,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-09-12,2020-09-26,2020-09-29,NA
+8708,"Dakshina Kannada",458590,69,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-10,2020-09-26,2020-09-29,NA
+8721,"Dakshina Kannada",502920,64,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-09-22,2020-09-26,2020-09-29,NA
+8723,"Dakshina Kannada",505087,40,"Male","SARI","Cough, Breathlessness","DM",2020-09-10,2020-09-26,2020-09-29,NA
+8733,"Dakshina Kannada",516865,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-20,2020-09-26,2020-09-29,NA
+8734,"Dakshina Kannada",517970,61,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-17,2020-09-25,2020-09-29,NA
+8736,"Dakshina Kannada",524470,55,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-09-18,2020-09-26,2020-09-29,NA
+8744,"Dakshina Kannada",538251,78,"Male","SARI","Cough, Breathlessness","COPD",2020-09-20,2020-09-26,2020-09-29,NA
+8788,"Dakshina Kannada",367040,81,"Male","Contact under tracing","Fever, Breathlessness","DM",2020-08-31,2020-09-18,2020-09-30,NA
+8789,"Dakshina Kannada",376641,84,"Female","SARI","Breathlessness","DM, HTN",2020-09-02,2020-09-09,2020-09-30,NA
+8793,"Dakshina Kannada",444190,52,"Female","SARI","Fever, Breathlessness","DM",2020-09-11,2020-09-27,2020-09-30,NA
+8796,"Dakshina Kannada",468422,66,"Male","SARI","Breathlessness","DM",2020-09-15,2020-09-15,2020-09-30,NA
+8797,"Dakshina Kannada",472145,70,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-09-14,2020-09-25,2020-09-30,NA
+8798,"Dakshina Kannada",472810,42,"Male","SARI","Fever, Breathlessness","DM, CLD",2020-09-11,2020-09-12,2020-09-30,NA
+8799,"Dakshina Kannada",480230,66,"Male","SARI","Breathlessness","-",2020-09-14,2020-09-20,2020-09-30,NA
+8801,"Dakshina Kannada",486781,67,"Male","SARI","Breathlessness","DM, HTN, CVA, IHD",2020-09-21,2020-09-28,2020-09-30,NA
+8811,"Dakshina Kannada",517222,75,"Male","SARI","Breathlessness","CVA",2020-09-16,2020-09-26,2020-09-30,NA
+8818,"Dakshina Kannada",537452,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-20,2020-09-27,2020-09-30,NA
+8907,"Dakshina Kannada",452637,88,"Female","SARI","Breathlessness","-",2020-09-11,2020-09-15,2020-10-01,NA
+8910,"Dakshina Kannada",464377,68,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-09-26,2020-10-01,NA
+8915,"Dakshina Kannada",475972,70,"Male","SARI","Breathlessness","-",2020-09-13,2020-09-23,2020-10-01,NA
+8916,"Dakshina Kannada",476625,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-12,2020-09-12,2020-10-01,NA
+8919,"Dakshina Kannada",494411,64,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-09-18,2020-09-27,2020-10-01,NA
+8920,"Dakshina Kannada",494423,79,"Female","SARI","Breathlessness","-",2020-09-16,2020-09-16,2020-10-01,NA
+8921,"Dakshina Kannada",504847,63,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-09-18,2020-09-27,2020-10-01,NA
+8925,"Dakshina Kannada",509972,52,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-17,2020-09-27,2020-10-01,NA
+8928,"Dakshina Kannada",515466,64,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-17,2020-09-19,2020-10-01,NA
+8931,"Dakshina Kannada",521309,45,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-17,2020-09-25,2020-10-01,NA
+8978,"Dakshina Kannada",576037,85,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-24,2020-09-25,2020-10-01,NA
+9005,"Dakshina Kannada",374810,78,"Male","SARI","Breathlessness","DM, HTN, AKI",2020-09-01,2020-09-27,2020-10-02,NA
+9015,"Dakshina Kannada",456603,76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-27,2020-10-02,NA
+9016,"Dakshina Kannada",458472,41,"Male","SARI","Breathlessness","DM, COPD",2020-09-10,2020-09-26,2020-10-02,NA
+9018,"Dakshina Kannada",468386,69,"Female","Contact under tracing","Fever, Breathlessness","-",2020-09-11,2020-09-25,2020-10-02,NA
+9022,"Dakshina Kannada",473858,71,"Female","SARI","Breathlessness","DM",2020-09-19,2020-09-27,2020-10-02,NA
+9023,"Dakshina Kannada",486780,36,"Male","SARI","Breathlessness","HTN",2020-09-14,2020-09-27,2020-10-02,NA
+9035,"Dakshina Kannada",525108,62,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-09-18,2020-09-28,2020-10-02,NA
+9038,"Dakshina Kannada",533988,78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-19,2020-09-25,2020-10-02,NA
+9049,"Dakshina Kannada",553457,65,"Female","SARI","Fever, Cough, Breathlessness","IHD",2020-09-21,2020-09-27,2020-10-02,NA
+9057,"Dakshina Kannada",562561,59,"Male","Contact under tracing","-","CLD",2020-09-22,2020-09-27,2020-10-02,NA
+9076,"Dakshina Kannada",580565,70,"Male","SARI","Breathlessness","-",2020-09-25,2020-09-28,2020-10-02,NA
+9091,"Dakshina Kannada",589684,58,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-09-24,2020-09-28,2020-10-02,NA
+9135,"Dakshina Kannada",481309,66,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, CKD, CLD, COPD",2020-09-12,2020-10-02,2020-10-03,NA
+9138,"Dakshina Kannada",506281,50,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN",2020-09-16,2020-09-21,2020-10-03,NA
+9148,"Dakshina Kannada",539151,89,"Female","Contact under tracing","Breathlessness","DM, HTN, CVA",2020-09-19,2020-10-02,2020-10-03,NA
+9162,"Dakshina Kannada",561052,50,"Female","Contact under tracing","Breathlessness","-",2020-09-25,2020-09-29,2020-10-03,NA
+9167,"Dakshina Kannada",568069,55,"Male","Contact under tracing","-","HTN, CVA",2020-09-24,2020-09-24,2020-10-03,NA
+9173,"Dakshina Kannada",570590,44,"Male","Contact under tracing","Fever","HTN, AKI",2020-09-24,2020-10-02,2020-10-03,NA
+9177,"Dakshina Kannada",576026,61,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN, COPD",2020-09-24,2020-09-26,2020-10-03,NA
+9203,"Dakshina Kannada",606092,36,"Female","Contact under tracing","Fever","-",2020-09-27,2020-09-28,2020-10-03,NA
+9204,"Dakshina Kannada",608640,67,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-29,2020-10-02,2020-10-03,NA
+9233,"Dakshina Kannada",486782,73,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-09-20,2020-10-03,2020-10-04,NA
+9271,"Dakshina Kannada",597166,86,"Female","Contact under tracing","Fever","IHD",2020-09-26,2020-10-01,2020-10-04,NA
+9297,"Dakshina Kannada",464402,41,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-09-12,2020-10-03,2020-10-05,NA
+9302,"Dakshina Kannada",538645,66,"Male","SARI","Breathlessness","HTN, CVA",2020-09-22,2020-10-03,2020-10-05,NA
+9304,"Dakshina Kannada",543993,55,"Female","SARI","Fever, Breathlessness","IHD",2020-09-20,2020-10-05,2020-10-05,NA
+9325,"Dakshina Kannada",579627,32,"Male","SARI","Breathlessness","DM",2020-09-24,2020-10-03,2020-10-05,NA
+9358,"Dakshina Kannada",629625,83,"Male","SARI","Breathlessness","CKD",2020-10-01,2020-10-03,2020-10-05,NA
+9372,"Dakshina Kannada",656365,74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-03,2020-10-03,2020-10-05,NA
+9386,"Dakshina Kannada",517975,35,"Male","SARI","Fever, Breathlessness","-",2020-09-19,2020-10-05,2020-10-06,NA
+9402,"Dakshina Kannada",568787,80,"Male","Contact under tracing","Fever, Cough","-",2020-09-23,2020-09-30,2020-10-06,NA
+9413,"Dakshina Kannada",581326,47,"Male","Contact under tracing","-","DM",2020-09-24,2020-09-29,2020-10-06,NA
+9448,"Dakshina Kannada",634780,80,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-10-01,2020-10-05,2020-10-06,NA
+9461,"Dakshina Kannada",648434,50,"Male","SARI","Breathlessness","CA",2020-10-02,2020-10-05,2020-10-06,NA
+9467,"Dakshina Kannada",660259,77,"Male","SARI","Breathlessness","DM, HTN",2020-10-03,2020-10-04,2020-10-06,NA
+9471,"Dakshina Kannada",672378,56,"Male","SARI","Fever, Breathlessness","HTN",2020-10-04,2020-10-05,2020-10-06,NA
+9485,"Dakshina Kannada",506841,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-16,2020-10-06,2020-10-07,NA
+9495,"Dakshina Kannada",555195,66,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-09-22,2020-10-02,2020-10-07,NA
+9502,"Dakshina Kannada",558160,68,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-09-22,2020-10-03,2020-10-07,NA
+9506,"Dakshina Kannada",565311,66,"Male","SARI","Breathlessness","HTN, IHD, CKD",2020-09-26,2020-10-03,2020-10-07,NA
+9537,"Dakshina Kannada",620833,86,"Male","ILI","Fever, Cough","_",2020-09-29,2020-10-05,2020-10-07,NA
+9562,"Dakshina Kannada",650095,51,"Male","Contact under tracing","-","_",2020-10-03,2020-10-06,2020-10-07,NA
+9569,"Dakshina Kannada",656354,68,"Female","Contact under tracing","-","_",2020-09-28,2020-10-07,2020-10-07,NA
+9614,"Dakshina Kannada",561921,34,"Male","Contact under tracing","Fever, Cough","HTN, CLD, TB",2020-09-22,2020-10-04,2020-10-08,NA
+9617,"Dakshina Kannada",563295,76,"Male","ILI","Fever, Cough","AKI",2020-09-23,2020-10-05,2020-10-08,NA
+9618,"Dakshina Kannada",569843,65,"Male","Contact under tracing","Fever, Cough","-",2020-09-23,2020-10-02,2020-10-08,NA
+9657,"Dakshina Kannada",643232,54,"Male","SARI","Fever, Breathlessness","-",2020-10-02,2020-10-05,2020-10-08,NA
+9662,"Dakshina Kannada",648440,82,"Male","SARI","Fever, Breathlessness","-",2020-10-02,2020-10-08,2020-10-08,NA
+9682,"Dakshina Kannada",688276,47,"Male","SARI","Breathlessness","HTN, CKD, CA",2020-10-06,2020-10-07,2020-10-08,NA
+9747,"Dakshina Kannada",625200,80,"Female","SARI","Cough, Breathlessness","HTN, CKD",2020-09-30,2020-10-07,2020-10-09,NA
+9795,"Dakshina Kannada",698744,70,"Male","SARI","Fever, Cough, Breathlessness","IHD, RVD",2020-10-07,2020-10-08,2020-10-09,NA
+9807,"Dakshina Kannada",552714,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-03,2020-10-07,2020-10-10,NA
+9824,"Dakshina Kannada",581339,80,"Male","ILI","Fever, Cough","DM, HTN, IHD,  CKD",2020-09-25,2020-10-01,2020-10-10,NA
+9860,"Dakshina Kannada",642915,71,"Female","SARI","Fever, Cough, Breathlessness","HTN,  IHD, HYPOTHYROIDISM",2020-10-01,2020-10-08,2020-10-10,NA
+9880,"Dakshina Kannada",677122,73,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-10-05,2020-10-08,2020-10-10,NA
+9905,"Dakshina Kannada",564703,59,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-22,2020-10-10,2020-10-11,NA
+9951,"Dakshina Kannada",687157,70,"Male","SARI","Fever, Cough","DM, HTN",2020-10-06,2020-10-10,2020-10-11,NA
+9957,"Dakshina Kannada",694350,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-06,2020-10-09,2020-10-11,NA
+9959,"Dakshina Kannada",695864,39,"Female","Contact under tracing","Fever, Cough","DM, IHD",2020-10-07,2020-10-11,2020-10-11,NA
+9962,"Dakshina Kannada",699277,64,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD, CKD",2020-10-08,2020-10-09,2020-10-11,NA
+10003,"Dakshina Kannada",641824,74,"Male","ILI","Fever, Cough","HTN, CVA",2020-09-30,2020-10-07,2020-10-12,NA
+10019,"Dakshina Kannada",684729,60,"Male","Contact under tracing","-","CKD",2020-10-03,2020-10-05,2020-10-12,NA
+10020,"Dakshina Kannada",684730,64,"Female","Contact under tracing","Cough, Breathlessness","HTN, CVA",2020-10-04,2020-10-05,2020-10-12,NA
+10021,"Dakshina Kannada",688013,80,"Female","SARI","Cough, Breathlessness","DM, CKD",2020-10-07,2020-10-10,2020-10-12,NA
+10091,"Dakshina Kannada",683900,80,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-10-05,2020-10-12,2020-10-13,NA
+10101,"Dakshina Kannada",694348,68,"Male","Contact under tracing","Breathlessness","DM, CVA, IHD, COPD",2020-10-07,2020-10-10,2020-10-13,NA
+10123,"Dakshina Kannada",727260,56,"Male","Contact under tracing","Fever, Cough","DM, HTN, CLD, CKD",2020-10-10,2020-10-12,2020-10-13,NA
+10138,"Dakshina Kannada",541523,61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-09-19,2020-10-12,2020-10-14,NA
+10151,"Dakshina Kannada",648441,85,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, IHD",2020-10-01,2020-10-12,2020-10-14,NA
+10152,"Dakshina Kannada",650082,65,"Male","Contact under tracing","Fever, Cough, Breathlessness","IHD, CVA",2020-10-03,2020-10-11,2020-10-14,NA
+10153,"Dakshina Kannada",650767,77,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-02,2020-10-11,2020-10-14,NA
+10171,"Dakshina Kannada",677891,54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-02,2020-10-11,2020-10-14,NA
+10238,"Dakshina Kannada",677620,73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-06,2020-10-14,2020-10-15,NA
+10284,"Dakshina Kannada",734117,62,"Female","Contact under tracing","Fever, Breathlessness","CA",2020-10-12,2020-10-12,2020-10-15,NA
+10298,"Dakshina Kannada",603911,60,"Male","Contact under tracing","Fever, Breathlessness","CKD",2020-09-28,2020-10-09,2020-10-16,NA
+10321,"Dakshina Kannada",675938,60,"Male","Contact under tracing","-","IHD",2020-09-21,2020-10-13,2020-10-16,NA
+10345,"Dakshina Kannada",720129,75,"Male","Contact under tracing","Breathlessness","COPD",2020-10-09,2020-10-09,2020-10-16,NA
+10354,"Dakshina Kannada",730986,46,"Male","Contact under tracing","Breathlessness","DM, COPD, TB",2020-10-11,2020-10-13,2020-10-16,NA
+10360,"Dakshina Kannada",740297,60,"Male","Contact under tracing","Breathlessness","CVA",2020-10-12,2020-10-16,2020-10-16,NA
+10376,"Dakshina Kannada",638721,72,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD",2020-10-02,2020-10-13,2020-10-17,NA
+10381,"Dakshina Kannada",655489,84,"Male","Contact under tracing","Cough, Breathlessness","HTN, IHD, CKD",2020-10-05,2020-10-14,2020-10-17,NA
+10397,"Dakshina Kannada",693365,72,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-10-10,2020-10-14,2020-10-17,NA
+10404,"Dakshina Kannada",700788,72,"Male","Contact under tracing","Fever, Cough","DM, HTN, CKD",2020-10-08,2020-10-12,2020-10-17,NA
+10445,"Dakshina Kannada",646769,54,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN",2020-10-02,2020-10-17,2020-10-18,NA
+10456,"Dakshina Kannada",708697,52,"Male","Contact under tracing","-","CKD",2020-10-08,2020-10-14,2020-10-18,NA
+10484,"Dakshina Kannada",764561,66,"Male","Contact under tracing","Cough, Breathlessness","COPD, HTN",2020-10-15,2020-10-16,2020-10-18,NA
+10493,"Dakshina Kannada",601657,75,"Female","Contact under tracing","-","DM, HTN",2020-09-28,2020-10-09,2020-10-19,NA
+10494,"Dakshina Kannada",626297,46,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-29,2020-10-15,2020-10-19,NA
+10498,"Dakshina Kannada",667771,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-03,2020-10-18,2020-10-19,NA
+10500,"Dakshina Kannada",688278,52,"Male","Contact under tracing","Breathlessness","HTN, CKD",NA,2020-10-07,2020-10-19,"Brought dead"
+10501,"Dakshina Kannada",691255,82,"Male","Contact under tracing","Fever, Cough, Breathlessness","COPD",2020-10-05,2020-10-11,2020-10-19,NA
+10532,"Dakshina Kannada",747562,52,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-13,2020-10-18,2020-10-19,NA
+10576,"Dakshina Kannada",718495,75,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, CKD",2020-10-10,2020-10-18,2020-10-20,NA
+10581,"Dakshina Kannada",726308,80,"Female","SARI","Breathlessness","HTN",2020-10-08,2020-10-17,2020-10-20,NA
+10598,"Dakshina Kannada",749756,85,"Male","Contact under tracing","-","DM, HTN, IHD",2020-10-14,2020-10-18,2020-10-20,NA
+10599,"Dakshina Kannada",749760,85,"Male","Contact under tracing","Fever, Cough","DM, IHD, CVA",2020-10-13,2020-10-14,2020-10-20,NA
+10621,"Dakshina Kannada",632364,75,"Male","SARI","Fever, Cough, Breathlessness","IHD, COPD",2020-10-01,2020-10-20,2020-10-21,NA
+10627,"Dakshina Kannada",672387,67,"Female","SARI","Fever, Breathlessness","DM",2020-10-12,2020-10-15,2020-10-21,NA
+10630,"Dakshina Kannada",682686,85,"Male","ILI","Fever, Cough","DM, HTN, IHD, CKD",2020-10-05,2020-10-20,2020-10-21,NA
+10632,"Dakshina Kannada",685281,64,"Male","SARI","Fever, Cough","DM",2020-10-15,2020-10-19,2020-10-21,NA
+10648,"Dakshina Kannada",722737,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-11,2020-10-20,2020-10-21,NA
+10651,"Dakshina Kannada",725057,85,"Female","Contact under tracing","-","DM, HTN",2020-10-09,2020-10-16,2020-10-21,NA
+10652,"Dakshina Kannada",726307,64,"Male","Contact under tracing","Breathlessness","DM, HTN, CVA",2020-10-12,2020-10-15,2020-10-21,NA
+10679,"Dakshina Kannada",751669,75,"Male","SARI","Breathlessness","COPD",2020-10-12,2020-10-20,2020-10-21,NA
+10681,"Dakshina Kannada",758690,65,"Male","Contact under tracing","Breathlessness","COPD",2020-10-14,2020-10-18,2020-10-21,NA
+10740,"Dakshina Kannada",738209,51,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, IHD",2020-10-06,2020-10-20,2020-10-22,NA
+10741,"Dakshina Kannada",738211,64,"Male","SARI","Fever, Cough","DM, HTN",2020-10-10,2020-10-21,2020-10-22,NA
+10773,"Dakshina Kannada",790250,62,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",2020-10-19,2020-10-21,2020-10-22,NA
+10785,"Dakshina Kannada",677623,64,"Male","SARI","Fever, Cough","DM",2020-10-15,2020-10-19,2020-10-23,NA
+10803,"Dakshina Kannada",747552,65,"Male","Contact under tracing","Fever, Breathlessness","HTN, COPD, IHD",2020-10-12,2020-10-21,2020-10-23,NA
+10805,"Dakshina Kannada",753055,76,"Male","Contact under tracing","Fever, Cough","DM, HTN, IHD,CKD",2020-10-14,2020-10-22,2020-10-23,NA
+10824,"Dakshina Kannada",791529,57,"Female","Contact under tracing","-","DM, CKD, CVA",2020-10-19,2020-10-20,2020-10-23,NA
+10855,"Dakshina Kannada",751663,70,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-13,2020-10-23,2020-10-24,NA
+10872,"Dakshina Kannada",788588,62,"Female","Contact under tracing","Fever, Breathlessness","DM, HTN, CKD",2020-10-19,2020-10-22,2020-10-24,NA
+10875,"Dakshina Kannada",791262,63,"Female","Contact under tracing","Fever, Cough","DM, IHD",2020-10-20,2020-10-21,2020-10-24,NA
+10893,"Dakshina Kannada",751664,75,"Female","SARI","Breathlessness","DM, HTN, AKI",2020-10-13,2020-10-22,2020-10-25,NA
+10900,"Dakshina Kannada",764150,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-15,2020-10-23,2020-10-25,NA
+10911,"Dakshina Kannada",802808,64,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-22,2020-10-22,2020-10-25,NA
+10924,"Dakshina Kannada",740778,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-12,2020-10-24,2020-10-26,NA
+10936,"Dakshina Kannada",770396,83,"Female","Contac t under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD, CLD",2020-10-15,2020-10-25,2020-10-26,NA
+10950,"Dakshina Kannada",807094,70,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-11,2020-10-25,2020-10-26,NA
+10952,"Dakshina Kannada",810323,78,"Male","SARI","Fever, Cough","DM, HTN",2020-10-14,2020-10-25,2020-10-26,NA
+10970,"Dakshina Kannada",759823,71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-12,2020-10-19,2020-10-27,NA
+11012,"Dakshina Kannada",726081,65,"Male","Contact under tracing","Breathlessness","-",2020-10-10,2020-10-22,2020-10-28,NA
+11042,"Dakshina Kannada",805331,64,"Male","Contact under tracing","Cough, Breathlessness","IHD",2020-10-23,2020-10-25,2020-10-28,NA
+11047,"Dakshina Kannada",807295,61,"Male","Contact under tracing","Breathlessness","IHD",2020-10-23,2020-10-28,2020-10-28,NA
+11059,"Dakshina Kannada",702743,33,"Male","SARI","Fever, Cough, Breathlessness","CA",2020-10-08,2020-10-22,2020-10-29,NA
+11092,"Dakshina Kannada",811728,68,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-20,2020-10-29,2020-10-29,NA
+11142,"Dakshina Kannada",824548,59,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-10-27,2020-10-29,2020-10-30,NA
+11144,"Dakshina Kannada",826194,70,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN, IHD",2020-10-27,2020-10-29,2020-10-30,NA
+11149,"Dakshina Kannada",830060,73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-28,2020-10-29,2020-10-30,NA
+11164,"Dakshina Kannada",801269,62,"Female","Contact under tracing","Fever, Cough","HTN, CKD, IHD",2020-10-19,2020-10-27,2020-10-31,NA
+11199,"Dakshina Kannada",828089,29,"Male","Contact under tracing","Fever, Breathlessness","CKD",2020-10-29,2020-10-31,2020-11-01,NA
+11226,"Dakshina Kannada",833221,76,"Female","Contact under tracing","Breathlessness","HTN, IHD, CKD",2020-10-30,2020-11-01,2020-11-02,NA
+11243,"Dakshina Kannada",822579,82,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-26,2020-10-31,2020-11-03,NA
+11265,"Dakshina Kannada",791528,29,"Female","Contact under tracing","Breathlessness","-",2020-10-20,2020-10-21,2020-11-04,NA
+11297,"Dakshina Kannada",787013,60,"Male","SARI","Fever, Breathlessness","DM",2020-10-19,2020-10-31,2020-11-05,NA
+11298,"Dakshina Kannada",788948,40,"Male","SARI","Fever, Breathlessness","CLD",2020-10-17,2020-10-31,2020-11-05,NA
+11303,"Dakshina Kannada",820732,60,"Male","SARI","Breathlessness","HTN, IHD",2020-10-26,2020-10-26,2020-11-05,NA
+11327,"Dakshina Kannada",793797,49,"Male","SARI","Fever, Cough","CKD",2020-10-20,2020-10-21,2020-11-06,NA
+11339,"Dakshina Kannada",830059,41,"Male","Contact under tracing","-","CKD, RVD",2020-10-28,2020-11-05,2020-11-06,NA
+11378,"Dakshina Kannada",853575,66,"Male","SARI","Breathlessness","COPD",2020-11-04,2020-11-06,2020-11-07,NA
+11393,"Dakshina Kannada",850430,73,"Male","SARI","Fever, Breathlessness","DM",2020-11-03,2020-11-05,2020-11-08,NA
+11408,"Dakshina Kannada",823107,51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2020-10-27,2020-11-05,2020-11-09,NA
+11411,"Dakshina Kannada",834452,82,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-11-01,2020-11-08,2020-11-09,NA
+11428,"Dakshina Kannada",832037,58,"Male","Contact under tracing","-","TB, CLD",2020-10-31,2020-11-07,2020-11-10,NA
+11450,"Dakshina Kannada",834447,44,"Male","Contact under tracing","Fever, Cough","HTN, CKD",2020-10-30,2020-11-04,2020-11-11,NA
+11513,"Dakshina Kannada",850428,56,"Male","Contact under tracing","Fever, Breathlessness","-",2020-11-03,2020-11-12,2020-11-14,NA
+11531,"Dakshina Kannada",865868,56,"Female","SARI","Cough, Breathlessness","HTN, CKD",2020-11-09,2020-11-14,2020-11-15,NA
+11533,"Dakshina Kannada",867843,38,"Male","SARI","Breathlessness","CLD, HTN",2020-11-10,2020-11-11,2020-11-15,NA
+11546,"Dakshina Kannada",859708,81,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-11-12,2020-11-13,2020-11-16,NA
+11554,"Dakshina Kannada",844666,70,"Male","SARI","Breathlessness & Cough","DM, CA-Colon",2020-11-02,2020-11-12,2020-11-17,NA
+11563,"Dakshina Kannada",863659,53,"Female","Contact under tracing","Breathlessness","HTN, IHD",2020-11-08,2020-11-11,2020-11-17,NA
+11573,"Dakshina Kannada",857625,64,"Male","Contact under tracing","Fever, Cough, Breathlessness","COPD, HTN",2020-11-06,2020-11-16,2020-11-18,NA
+11578,"Dakshina Kannada",868071,71,"Male","SARI","Fever, Cough","IHD, DM, HTN",2020-11-10,2020-11-14,2020-11-18,NA
+11606,"Dakshina Kannada",868630,91,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-11-10,2020-11-16,2020-11-19,NA
+11609,"Dakshina Kannada",873905,67,"Male","Contact under tracing","-","DM, HTN, CKD, CAD",2020-11-13,2020-11-15,2020-11-19,NA
+11631,"Dakshina Kannada",879972,48,"Male","SARI","Fever, Cough, Breathlessness","CVA",2020-11-17,2020-11-19,2020-11-20,NA
+11638,"Dakshina Kannada",863851,46,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-11-09,2020-11-17,2020-11-21,NA
+11640,"Dakshina Kannada",864045,50,"Male","SARI","Breathlessness","-",2020-11-10,2020-11-18,2020-11-21,NA
+11645,"Dakshina Kannada",873046,39,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD, IHD",2020-11-13,2020-11-17,2020-11-21,NA
+11669,"Dakshina Kannada",850488,46,"Male","Contact under tracing","Cough","DM, HTN, CLD",2020-11-03,2020-11-12,2020-11-23,NA
+11675,"Dakshina Kannada",870989,71,"Male","SARI","Fever, Cough, Breathlessness","CKD, IHD",2020-11-13,2020-11-18,2020-11-23,NA
+11676,"Dakshina Kannada",873126,64,"Male","SARI","Fever, Cough, Breathlessness","COPD, DM, HTN",2020-11-13,2020-11-22,2020-11-23,NA
+11686,"Dakshina Kannada",882547,66,"Male","Contact under tracing","Cough","CKD, DM, HTN",2020-11-19,2020-11-20,2020-11-23,NA
+11709,"Dakshina Kannada",854675,65,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-05,2020-11-18,2020-11-25,NA
+11740,"Dakshina Kannada",867036,64,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-11-21,2020-11-25,2020-11-27,NA
+11755,"Dakshina Kannada",891025,43,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-25,2020-11-26,2020-11-28,NA
+11766,"Dakshina Kannada",877448,66,"Male","ILI","Fever","DM, HTN, IHD",2020-11-16,2020-11-27,2020-11-29,NA
+11779,"Dakshina Kannada",876616,77,"Male","SARI","Fever, Breathlessness","HTN",2020-11-15,2020-11-28,2020-11-30,NA
+11828,"Dakshina Kannada",898208,53,"Female","ILI","Fever","CA",2020-11-23,2020-12-02,2020-12-03,NA
+11829,"Dakshina Kannada",898919,44,"Female","SARI","Fever, Breathlessness","IHD, LVD",2020-11-29,2020-12-01,2020-12-03,NA
+11853,"Dakshina Kannada",901824,69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2020-12-02,2020-12-04,2020-12-05,NA
+11860,"Dakshina Kannada",894495,81,"Male","SARI","Fever, Breathlessness","HTN, CVA",2020-11-30,2020-12-06,2020-12-07,NA
+11861,"Dakshina Kannada",894606,80,"Female","Contact under tracing","-","HTN, CVA, CKD",2020-11-24,2020-11-29,2020-12-07,NA
+11863,"Dakshina Kannada",897598,46,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-29,2020-12-06,2020-12-07,NA
+11868,"Dakshina Kannada",853756,65,"Male","Contact under tracing","-","HTN, CVA",NA,2020-11-12,2020-12-08,"Died at his residence"
+11869,"Dakshina Kannada",870402,86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-07,2020-11-13,2020-12-08,NA
+11883,"Dakshina Kannada",879863,52,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2020-11-18,2020-12-01,2020-12-09,NA
+11884,"Dakshina Kannada",883147,71,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD, IHD",2020-11-21,2020-11-30,2020-12-09,NA
+11904,"Dakshina Kannada",887664,60,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, AWMI",2020-11-22,2020-11-22,2020-12-10,NA
+11905,"Dakshina Kannada",891535,54,"Male","SARI","Fever, Cough, Breathlessness","RVD",2020-11-22,2020-12-04,2020-12-10,NA
+11915,"Dakshina Kannada",881218,62,"Male","Contact under tracing","-","DM, HTN",2020-11-19,2020-11-22,2020-12-11,NA
+11918,"Dakshina Kannada",888438,38,"Male","SARI","Breathlessness","CA",2020-11-22,2020-12-01,2020-12-11,NA
+11932,"Dakshina Kannada",899612,40,"Female","Contact under tracing","-","CAD",2020-11-29,2020-12-07,2020-12-12,NA
+11939,"Dakshina Kannada",911021,54,"Male","SARI","Cough, Breathlessness","DM, COPD",2020-12-08,2020-12-10,2020-12-12,NA
+11941,"Dakshina Kannada",909232,71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-07,2020-12-08,2020-12-13,NA
+11975,"Dakshina Kannada",911342,60,"Male","ILI","-","DM, HTN, CKD",2020-12-09,2020-12-12,2020-12-17,NA
+12162,"Dakshina Kannada",935931,65,"Male","ILI","Fever, Cough","DM, HTN",2021-01-06,2021-01-14,2021-01-16,NA
+12191,"Dakshina Kannada",942318,60,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD, CVA",2021-01-11,2021-01-20,2021-01-22,NA
+12196,"Dakshina Kannada",940258,69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD, IHD",2021-01-10,2021-01-13,2021-01-24,NA
+12220,"Dakshina Kannada",949070,80,"Male","SARI","Fever, Breathlessness","DM, CVA, AKI",2021-01-17,2021-01-30,2021-02-01,NA
+12376,"Dakshina Kannada",962129,82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-02-18,2021-03-02,2021-03-10,NA
+12442,"Dakshina Kannada",980944,63,"Female","SARI","Breathlessness","HTN, IHD",2021-03-17,2021-03-18,2021-03-22,NA
+12707,"Dakshina Kannada",1000012,53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-03-29,2021-04-05,2021-04-07,NA
+13223,"Dakshina Kannada",1070963,81,"Male","ILI","Fever","DM, HTN",2021-04-09,2021-04-15,2021-04-17,NA
+13681,"Dakshina Kannada",1105647,73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-13,2021-04-18,2021-04-21,NA
+14097,"Dakshina Kannada",1076978,86,"Male","SARI","Cough, Breathlessness","HTN",2021-04-10,2021-04-19,2021-04-24,NA
+14181,"Dakshina Kannada",1169140,55,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD",2021-04-16,2021-04-19,2021-04-24,NA
+14327,"Dakshina Kannada",1150283,56,"Male","SARI","Breathlessness","DM",2021-04-15,2021-04-21,2021-04-25,NA
+14634,"Dakshina Kannada",1060375,48,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-04-10,2021-04-13,2021-04-27,NA
+14635,"Dakshina Kannada",1064898,76,"Female","ILI","Fever","CA",2021-03-22,2021-04-14,2021-04-27,NA
+14641,"Dakshina Kannada",1108199,56,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-13,2021-04-21,2021-04-27,NA
+14840,"Dakshina Kannada",1152215,66,"Male","SARI","Fever, cough, breathlessness","IHD",2021-04-19,2021-04-21,2021-04-28,NA
+14841,"Dakshina Kannada",1157011,60,"Male","SARI","Fever, breathlessness","DM, CA",2021-04-16,2021-04-20,2021-04-28,NA
+14845,"Dakshina Kannada",1168319,59,"Female","SARI","Fever, breathlessness","IHD, ILD",2021-04-16,2021-04-21,2021-04-28,NA
+14897,"Dakshina Kannada",1252698,73,"Male","SARI","Fever, breathlessness","IHD, CKD",2021-04-21,2021-04-25,2021-04-28,NA
+15091,"Dakshina Kannada",1179868,62,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-18,2021-04-26,2021-04-29,NA
+15320,"Dakshina Kannada",1146943,72,"Male","SARI","Fever, Breathlessness","DM,  HTN, COPD, IHD",2021-04-15,2021-04-23,2021-04-30,NA
+15567,"Dakshina Kannada",1206123,64,"Male","ILI","Fever","DM",2021-04-18,2021-04-22,2021-05-01,NA
+15698,"Dakshina Kannada",1419927,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-01,NA
+15807,"Dakshina Kannada",1161056,84,"Male","ILI","Fever, Cough","HTN",2021-04-15,2021-04-27,2021-05-02,NA
+16284,"Dakshina Kannada",1171281,65,"Male","SARI","Breathlessness","DM, IHD",2021-04-17,2021-04-28,2021-05-04,NA
+16327,"Dakshina Kannada",1264146,58,"Male","ILI","Fever","DM",2021-04-21,2021-04-29,2021-05-04,NA
+16391,"Dakshina Kannada",1453609,43,"Male","SARI","Cough, Breathlessness","DM",2021-04-27,2021-04-29,2021-05-04,NA
+16427,"Dakshina Kannada",1513935,68,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-04-29,2021-04-29,2021-05-04,NA
+16632,"Dakshina Kannada",1222593,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-04-20,2021-04-30,2021-05-05,NA
+16664,"Dakshina Kannada",1294755,67,"Male","SARI","Fever, Breathlessness","DM, IHD",2021-04-24,2021-04-29,2021-05-05,NA
+16732,"Dakshina Kannada",1488413,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-03,2021-05-05,NA
+16778,"Dakshina Kannada",1551623,72,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-05,NA
+16989,"Dakshina Kannada",1427949,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-27,2021-05-03,2021-05-06,NA
+17023,"Dakshina Kannada",1488429,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-01,2021-05-06,NA
+17080,"Dakshina Kannada",1557878,63,"Female","SARI","Cough, Breathlessness","HTN",2021-04-29,2021-05-03,2021-05-06,NA
+17155,"Dakshina Kannada",1691170,78,"Male","ILI","Fever","DM, HTN",2021-05-02,2021-05-02,2021-05-06,NA
+17169,"Dakshina Kannada",1725254,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-01,2021-05-06,NA
+17331,"Dakshina Kannada",1292305,66,"Male","SARI","Fever, Breathlessness","HTN",2021-04-22,2021-05-03,2021-05-07,NA
+17346,"Dakshina Kannada",1315170,75,"Female","ILI","Fever, Cough","DM, HTN",2021-04-23,2021-05-02,2021-05-07,NA
+17443,"Dakshina Kannada",1453532,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-04-30,2021-05-07,NA
+17598,"Dakshina Kannada",1618232,61,"Male","ILI","Fever, Cough","COPD",2021-04-29,2021-05-02,2021-05-07,NA
+17629,"Dakshina Kannada",1651947,63,"Female","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-04,2021-05-07,NA
+17641,"Dakshina Kannada",1661721,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-06,2021-05-07,NA
+17717,"Dakshina Kannada",1737405,76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-07,NA
+17925,"Dakshina Kannada",1264078,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-22,2021-04-27,2021-05-08,NA
+18042,"Dakshina Kannada",1496441,68,"Female","SARI","Fever, Breathlessness","DM",2021-04-27,2021-04-29,2021-05-08,NA
+18193,"Dakshina Kannada",1751071,58,"Female","SARI","Fever, Breathlessness","HTN, CKD",2021-05-03,2021-05-04,2021-05-08,NA
+18469,"Dakshina Kannada",1493376,52,"Male","ILI","Fever","HTN",2021-04-29,2021-05-04,2021-05-09,NA
+18588,"Dakshina Kannada",1675249,44,"Male","SARI","Cough, Breathlessness","CLD",2021-05-02,2021-05-08,2021-05-09,NA
+18990,"Dakshina Kannada",1468491,62,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-03,2021-05-10,NA
+18993,"Dakshina Kannada",1471253,79,"Male","ILI","Cough","DM",2021-04-26,2021-05-02,2021-05-10,NA
+19132,"Dakshina Kannada",1634810,76,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-06,2021-05-10,NA
+19208,"Dakshina Kannada",1751106,62,"Male","SARI","Breathlessness","DM,  HTN, IHD, CKD",2021-05-03,2021-05-04,2021-05-10,NA
+19239,"Dakshina Kannada",1801721,64,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2021-05-04,2021-05-04,2021-05-10,NA
+19557,"Dakshina Kannada",1485352,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-06,2021-05-11,NA
+19773,"Dakshina Kannada",1900411,56,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-07,2021-05-11,NA
+19775,"Dakshina Kannada",1902602,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-09,2021-05-11,NA
+19788,"Dakshina Kannada",1914640,41,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-05,2021-05-11,NA
+19802,"Dakshina Kannada",1946343,53,"Female","SARI","Cough, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-11,NA
+20069,"Dakshina Kannada",1756290,51,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-09,2021-05-12,NA
+20112,"Dakshina Kannada",1796423,75,"Male","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-08,2021-05-12,NA
+20423,"Dakshina Kannada",1475312,80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-04-29,2021-05-06,2021-05-13,NA
+20466,"Dakshina Kannada",1602593,69,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-06,2021-05-13,NA
+20485,"Dakshina Kannada",1637969,74,"Female","SARI","Breathlessness","DM, HTN, IHD",2021-05-03,2021-05-08,2021-05-13,NA
+20545,"Dakshina Kannada",1800342,48,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-05,2021-05-10,2021-05-13,NA
+20583,"Dakshina Kannada",1892495,73,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-06,2021-05-08,2021-05-13,NA
+20759,"Dakshina Kannada",1471256,63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN , CKD",2021-05-10,2021-05-12,2021-05-14,NA
+20957,"Dakshina Kannada",2007649,46,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+21001,"Dakshina Kannada",2058009,66,"Male","SARI","Cough, Breathlessness","HTN",2021-05-10,2021-05-12,2021-05-14,NA
+21200,"Dakshina Kannada",1775827,47,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-15,NA
+21297,"Dakshina Kannada",2007640,65,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-05-07,2021-05-10,2021-05-15,NA
+21313,"Dakshina Kannada",2039661,54,"Female","SARI","Breathlessness","DM, HTN, IHD",2021-05-09,2021-05-12,2021-05-15,NA
+21537,"Dakshina Kannada",1578957,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-09,2021-05-16,NA
+21563,"Dakshina Kannada",1675247,62,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-09,2021-05-16,NA
+21592,"Dakshina Kannada",1800330,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-16,NA
+21603,"Dakshina Kannada",1826260,68,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-16,NA
+21637,"Dakshina Kannada",1930057,65,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-10,2021-05-16,NA
+21652,"Dakshina Kannada",1956923,71,"Male","SARI","Fever, Breathlessness","IHD, COPD",2021-05-07,2021-05-09,2021-05-16,NA
+21702,"Dakshina Kannada",2039670,58,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-10,2021-05-16,NA
+22052,"Dakshina Kannada",1902647,64,"Female","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-11,2021-05-11,2021-05-17,NA
+22087,"Dakshina Kannada",1969655,67,"Female","SARI","Cough, Breathlessness","DM",2021-05-07,2021-05-12,2021-05-17,NA
+22127,"Dakshina Kannada",2039044,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-17,NA
+22162,"Dakshina Kannada",2103405,65,"Female","SARI","Breathlessness","DM, HTN, IHD",2021-05-11,2021-05-11,2021-05-17,NA
+22182,"Dakshina Kannada",2119836,78,"Male","SARI","Breathlessness","DM, HTN, CKD",2021-05-10,2021-05-11,2021-05-17,NA
+22192,"Dakshina Kannada",2130919,54,"Female","SARI","Cough, Breathlessness","HTN, CKD",2021-05-12,2021-05-12,2021-05-17,NA
+22557,"Dakshina Kannada",1807714,62,"Male","ILI","Fever","HTN, CLD",2021-05-04,2021-05-13,2021-05-18,NA
+22561,"Dakshina Kannada",1829774,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-13,2021-05-18,NA
+22584,"Dakshina Kannada",1902600,72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-15,2021-05-18,NA
+22591,"Dakshina Kannada",1918242,71,"Female","SARI","Cough, Breathlessness","DM",2021-05-08,2021-05-13,2021-05-18,NA
+22709,"Dakshina Kannada",2133796,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-05-11,2021-05-16,2021-05-18,NA
+22730,"Dakshina Kannada",2156912,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-18,NA
+22801,"Dakshina Kannada",2246937,77,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-14,2021-05-16,2021-05-18,NA
+23084,"Dakshina Kannada",2022129,73,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-13,2021-05-19,NA
+23120,"Dakshina Kannada",2080353,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-11,2021-05-13,2021-05-19,NA
+23515,"Dakshina Kannada",1772083,70,"Female","ILI","Fever","-",2021-05-04,2021-05-14,2021-05-20,NA
+23540,"Dakshina Kannada",1854354,85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-11,2021-05-20,NA
+23568,"Dakshina Kannada",1921806,80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-09,2021-05-12,2021-05-20,NA
+23598,"Dakshina Kannada",2000328,39,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-16,2021-05-20,NA
+23623,"Dakshina Kannada",2049001,48,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-14,2021-05-20,NA
+23634,"Dakshina Kannada",2070246,46,"Female","ILI","Fever","COPD",2021-05-12,2021-05-14,2021-05-20,NA
+23654,"Dakshina Kannada",2097663,75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-20,NA
+23747,"Dakshina Kannada",2227093,63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-20,NA
+23898,"Dakshina Kannada",1611966,52,"Female","SARI","Cough, Breathlessness","DM",2021-05-05,2021-05-14,2021-05-21,NA
+23951,"Dakshina Kannada",1956924,57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-14,2021-05-21,NA
+23953,"Dakshina Kannada",1959829,80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-12,2021-05-21,NA
+23964,"Dakshina Kannada",2004922,66,"Female","SARI","Fever, Breathlessness","HTN",2021-05-09,2021-05-13,2021-05-21,NA
+24017,"Dakshina Kannada",2114271,66,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-11,2021-05-12,2021-05-21,NA
+24039,"Dakshina Kannada",2150720,55,"Female","SARI","Fever, Breathlessness","DM",NA,2021-05-17,2021-05-21,"Died at her residence"
+24146,"Dakshina Kannada",2305479,64,"Male","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-17,2021-05-21,NA
+24431,"Dakshina Kannada",1826403,69,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-15,2021-05-22,NA
+24444,"Dakshina Kannada",1890107,83,"Male","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-11,2021-05-22,NA
+24452,"Dakshina Kannada",1921754,85,"Female","SARI","Fever, Breathlessness","CKD",2021-05-07,2021-05-12,2021-05-22,NA
+24494,"Dakshina Kannada",2117870,55,"Female","SARI","Fever, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-22,NA
+24502,"Dakshina Kannada",2141506,75,"Male","SARI","Fever, Breathlessness","DM",2021-05-14,2021-05-16,2021-05-22,NA
+24509,"Dakshina Kannada",2157707,50,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-22,NA
+24524,"Dakshina Kannada",2193226,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-12,2021-05-15,2021-05-22,NA
+24527,"Dakshina Kannada",2196947,51,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-15,2021-05-22,NA
+24540,"Dakshina Kannada",2227092,49,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-22,NA
+24948,"Dakshina Kannada",2022145,89,"Female","SARI","Fever, Breathlessness","HTN",2021-05-13,2021-05-20,2021-05-23,NA
+24978,"Dakshina Kannada",2054995,67,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-19,2021-05-23,NA
+25008,"Dakshina Kannada",2107375,91,"Male","SARI","Breathlessness","HTN, CKD",2021-05-11,2021-05-19,2021-05-23,NA
+25044,"Dakshina Kannada",2150657,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-17,2021-05-23,NA
+25086,"Dakshina Kannada",2210084,58,"Male","SARI","Fever, Breathlessness","DM",2021-05-07,2021-05-21,2021-05-23,NA
+25134,"Dakshina Kannada",2279480,55,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-19,2021-05-23,"Brought dead"
+25535,"Dakshina Kannada",2055028,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-17,2021-05-24,NA
+25592,"Dakshina Kannada",2196949,86,"Male","ILI","Fever, Cough","DM, HTN",2021-05-13,2021-05-18,2021-05-24,NA
+25593,"Dakshina Kannada",2196958,49,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-05-24,NA
+26106,"Dakshina Kannada",2019138,66,"Female","SARI","Fever, Cough, Breathlessness","CLD",2021-05-16,2021-05-21,2021-05-25,NA
+26107,"Dakshina Kannada",2022162,71,"Male","ILI","Fever, Cough","-",2021-05-11,2021-05-21,2021-05-25,NA
+26118,"Dakshina Kannada",2043366,72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2021-05-13,2021-05-22,2021-05-25,NA
+26167,"Dakshina Kannada",2147859,62,"Male","SARI","Breathlessness","DM, HTN, CKD",2021-05-12,2021-05-20,2021-05-25,NA
+26172,"Dakshina Kannada",2163072,42,"Male","ILI","Fever, Cough","-",2021-05-13,2021-05-21,2021-05-25,NA
+26206,"Dakshina Kannada",2242337,67,"Male","SARI","Fever, Breathlessness","DM, CKD, IHD",2021-05-21,2021-05-22,2021-05-25,NA
+26245,"Dakshina Kannada",2298938,75,"Female","ILI","Fever","HTN",2021-05-16,2021-05-17,2021-05-25,NA
+26273,"Dakshina Kannada",2337250,36,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-05-18,2021-05-22,2021-05-25,NA
+26284,"Dakshina Kannada",2367362,49,"Female","SARI","Breathlessness","CKD",2021-05-20,2021-05-20,2021-05-25,NA
+26321,"Dakshina Kannada",2406036,92,"Female","SARI","Fever, Breathlessness","HTN",2021-05-19,2021-05-22,2021-05-25,NA
+26647,"Dakshina Kannada",1921785,86,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-13,2021-05-23,2021-05-26,NA
+26679,"Dakshina Kannada",2016861,58,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-09,2021-05-18,2021-05-26,NA
+26702,"Dakshina Kannada",2058023,84,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-05-26,NA
+26719,"Dakshina Kannada",2114225,33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-18,2021-05-26,NA
+26733,"Dakshina Kannada",2159493,76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-18,2021-05-26,NA
+26749,"Dakshina Kannada",2215728,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-28,2021-05-18,2021-05-26,NA
+26761,"Dakshina Kannada",2255105,60,"Male","ILI","Cough","-",2021-05-15,2021-05-19,2021-05-26,NA
+26787,"Dakshina Kannada",2313731,71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-17,2021-05-26,NA
+26798,"Dakshina Kannada",2333256,78,"Female","ILI","Fever","DM, HTN",2021-05-21,2021-05-21,2021-05-26,NA
+26799,"Dakshina Kannada",2333267,42,"Male","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-19,2021-05-26,NA
+26840,"Dakshina Kannada",2406082,84,"Male","ILI","Fever, Cough","DM, HTN",2021-05-02,2021-05-23,2021-05-26,NA
+27065,"Dakshina Kannada",1956969,64,"Male","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-18,2021-05-27,NA
+27134,"Dakshina Kannada",2127263,74,"Female","SARI","Fever, cough, breathlessness","HTN, CKD",2021-05-12,2021-05-18,2021-05-27,NA
+27167,"Dakshina Kannada",2202871,61,"Male","ILI","Cough","DM, HTN",NA,2021-05-18,2021-05-27,"Brought dead"
+27190,"Dakshina Kannada",2238275,78,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-15,2021-05-25,2021-05-27,NA
+27287,"Dakshina Kannada",2381590,73,"Female","SARI","Fever, cough, breathlessness","DM, HTN, IHD",2021-05-19,2021-05-24,2021-05-27,NA
+27563,"Dakshina Kannada",2186241,78,"Female","SARI","Breathlessness","HTN",2021-05-13,2021-05-24,2021-05-28,NA
+27620,"Dakshina Kannada",2298979,83,"Female","SARI","Fever, Breathlessness","IHD",2021-05-16,2021-05-21,2021-05-28,NA
+27648,"Dakshina Kannada",2330889,63,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-05-18,2021-05-19,2021-05-28,NA
+27685,"Dakshina Kannada",2421294,50,"Male","ILI","Fever, Cough","DM, HTN, CKD",2021-05-21,2021-05-25,2021-05-28,NA
+27788,"Dakshina Kannada",2561597,54,"Male","SARI","Fever, Breathlessness","DM",2021-05-24,2021-05-26,2021-05-28,NA
+27969,"Dakshina Kannada",2144095,36,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-17,2021-05-29,NA
+27980,"Dakshina Kannada",2163079,60,"Female","ILI","Fever","-",2021-05-17,2021-05-17,2021-05-29,NA
+28035,"Dakshina Kannada",2298412,43,"Female","ILI","Fever","DM, HTN",2021-05-18,2021-05-19,2021-05-29,NA
+28036,"Dakshina Kannada",2299779,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-05-29,NA
+28110,"Dakshina Kannada",2395572,72,"Female","ILI","Fever, Cough","-",2021-05-20,2021-05-23,2021-05-29,NA
+28117,"Dakshina Kannada",2403651,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-24,2021-05-24,2021-05-29,NA
+28146,"Dakshina Kannada",2433008,55,"Female","ILI","Fever","-",2021-05-20,2021-05-22,2021-05-29,NA
+28503,"Dakshina Kannada",2246933,60,"Male","ILI","Fever","DM",2021-05-16,2021-05-19,2021-05-30,NA
+28526,"Dakshina Kannada",2384341,84,"Male","ILI","Cough","HTN, CA",2021-05-19,2021-05-24,2021-05-30,NA
+28555,"Dakshina Kannada",2415115,72,"Male","SARI","Fever, Breathlessness","DM",2021-05-24,2021-05-26,2021-05-30,NA
+28568,"Dakshina Kannada",2426726,52,"Male","ILI","Cough","-",2021-05-22,2021-05-23,2021-05-30,NA
+28624,"Dakshina Kannada",2521853,82,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-24,2021-05-25,2021-05-30,NA
+28902,"Dakshina Kannada",2160890,72,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-05-22,2021-05-23,2021-05-31,NA
+28907,"Dakshina Kannada",2205753,73,"Female","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-19,2021-05-21,2021-05-31,NA
+28915,"Dakshina Kannada",2255043,56,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-25,2021-05-31,NA
+28939,"Dakshina Kannada",2393750,76,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-23,2021-05-31,NA
+28975,"Dakshina Kannada",2473870,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-27,2021-05-31,NA
+28988,"Dakshina Kannada",2488875,74,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-27,2021-05-28,2021-05-31,NA
+29027,"Dakshina Kannada",2551778,84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-26,2021-05-26,2021-05-31,NA
+29370,"Dakshina Kannada",2299847,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-17,2021-06-01,NA
+29391,"Dakshina Kannada",2375142,80,"Male","SARI","Breathlessness","HTN",2021-05-19,2021-05-22,2021-06-01,NA
+29414,"Dakshina Kannada",2422366,55,"Female","SARI","Fever, Breathlessness","HTN",2021-05-19,2021-05-24,2021-06-01,NA
+29417,"Dakshina Kannada",2430782,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-21,2021-05-24,2021-06-01,NA
+29442,"Dakshina Kannada",2477519,59,"Female","SARI","Cough, Breathlessness","DM",2021-05-22,2021-05-25,2021-06-01,NA
+29817,"Dakshina Kannada",2337164,61,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-25,2021-06-02,NA
+29837,"Dakshina Kannada",2395553,48,"Male","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-27,2021-06-02,NA
+29842,"Dakshina Kannada",2408828,72,"Male","SARI","Breathlessness","htn",2021-05-24,2021-05-26,2021-06-02,NA
+29864,"Dakshina Kannada",2462424,72,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-31,2021-06-02,NA
+29966,"Dakshina Kannada",2616587,69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-06-02,NA
+30260,"Dakshina Kannada",2262908,62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-17,2021-05-20,2021-06-03,NA
+30332,"Dakshina Kannada",2422362,64,"Male","SARI","Fever, Breathlessness","CKD",2021-05-20,2021-05-26,2021-06-03,NA
+30333,"Dakshina Kannada",2423631,44,"Male","SARI","Fever, Breathlessness","DM",2021-05-21,2021-05-28,2021-06-03,NA
+30419,"Dakshina Kannada",2568717,61,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-06-03,NA
+30497,"Dakshina Kannada",2657245,59,"Male","SARI","Fever, Breathlessness","DM, CKD, IHD",2021-05-30,2021-05-30,2021-06-03,NA
+30651,"Dakshina Kannada",2200424,69,"Male","SARI","Fever, Breathlessness","HTN",2021-05-17,2021-05-30,2021-06-04,NA
+30714,"Dakshina Kannada",2360869,65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-05-27,2021-06-04,NA
+30758,"Dakshina Kannada",2492879,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-27,2021-06-04,NA
+30760,"Dakshina Kannada",2499973,64,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-23,2021-05-27,2021-06-04,NA
+30766,"Dakshina Kannada",2513578,39,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-30,2021-06-04,NA
+30772,"Dakshina Kannada",2524818,61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-30,2021-06-04,NA
+30794,"Dakshina Kannada",2555928,62,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-27,2021-06-04,"Died at his residence"
+30824,"Dakshina Kannada",2605670,26,"Female","SARI","Fever, Breathlessness","-",2021-05-28,2021-05-30,2021-06-04,NA
+30897,"Dakshina Kannada",2706073,72,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-04,NA
+31077,"Dakshina Kannada",2379347,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-22,2021-05-27,2021-06-05,NA
+31097,"Dakshina Kannada",2433039,55,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-29,2021-06-05,NA
+31098,"Dakshina Kannada",2433063,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-06-03,2021-06-05,NA
+31126,"Dakshina Kannada",2503603,54,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-02,2021-06-05,NA
+31152,"Dakshina Kannada",2557474,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-03,2021-06-05,NA
+31208,"Dakshina Kannada",2657274,46,"Male","SARI","Fever, Cough, Breathlessness","DM, TB",2021-05-30,2021-06-03,2021-06-05,NA
+31211,"Dakshina Kannada",2658413,92,"Female","ILI","Fever, Cough","-",2021-05-31,2021-05-31,2021-06-05,NA
+31222,"Dakshina Kannada",2666038,57,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-05-31,2021-06-01,2021-06-05,NA
+31385,"Dakshina Kannada",2291318,54,"Female","ILI","Fever, Cough","DM, HTN, CKD",2021-05-19,2021-05-29,2021-06-06,NA
+31477,"Dakshina Kannada",2545058,26,"Female","ILI","Fever, Cough","-",2021-05-25,2021-05-27,2021-06-06,NA
+31479,"Dakshina Kannada",2551760,57,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-06-06,NA
+31480,"Dakshina Kannada",2555981,50,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-05-30,2021-06-06,NA
+31494,"Dakshina Kannada",2591056,85,"Female","ILI","Fever, Cough","HTN",2021-05-31,2021-05-31,2021-06-06,NA
+31762,"Dakshina Kannada",2485304,50,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-05-29,2021-05-31,2021-06-07,NA
+31767,"Dakshina Kannada",2501809,58,"Female","ILI","Fever, Cough","HTN",2021-05-24,2021-06-06,2021-06-07,NA
+31835,"Dakshina Kannada",2642299,76,"Male","ILI","Fever","DM",2021-05-29,2021-06-04,2021-06-07,NA
+31980,"Dakshina Kannada",2561649,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-05-30,2021-06-08,NA
+31987,"Dakshina Kannada",2572557,83,"Male","SARI","Breathlessness","-",2021-05-28,2021-05-31,2021-06-08,NA
+32015,"Dakshina Kannada",2644515,54,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-02,2021-06-08,NA
+32017,"Dakshina Kannada",2646260,75,"Female","SARI","Cough, Breathlessness","IHD",2021-05-31,2021-06-03,2021-06-08,NA
+32021,"Dakshina Kannada",2650598,60,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-02,2021-06-08,NA
+32166,"Dakshina Kannada",2594220,50,"Male","SARI","Cough, Breathlessness","-",2021-05-27,2021-06-01,2021-06-09,NA
+32202,"Dakshina Kannada",2658459,72,"Female","ILI","Fever","IHD",2021-05-31,2021-06-08,2021-06-09,NA
+32216,"Dakshina Kannada",2684435,82,"Female","ILI","Fever, Cough","HTN",2021-06-02,2021-06-05,2021-06-09,NA
+32320,"Dakshina Kannada",2471809,75,"Female","SARI","Fever, Cough, Breathlessness","DM,",2021-05-30,2021-06-03,2021-06-10,NA
+32340,"Dakshina Kannada",2559352,50,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-06-08,2021-06-10,NA
+32347,"Dakshina Kannada",2583922,85,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-05-26,2021-06-08,2021-06-10,NA
+32352,"Dakshina Kannada",2595949,73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-28,2021-06-08,2021-06-10,NA
+32363,"Dakshina Kannada",2618640,61,"Male","ILI","Fever, Cough","DM,",2021-05-31,2021-06-09,2021-06-10,NA
+32387,"Dakshina Kannada",2663083,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-25,2021-06-02,2021-06-10,NA
+32408,"Dakshina Kannada",2686338,45,"Male","SARI","Fever, Breathlessness","DM",2021-06-08,2021-06-08,2021-06-10,NA
+32449,"Dakshina Kannada",2741696,47,"Male","SARI","Fever, Breathlessness","HTN",2021-06-05,2021-06-08,2021-06-10,NA
+32565,"Dakshina Kannada",2661201,50,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-31,2021-06-02,2021-06-11,NA
+32581,"Dakshina Kannada",2691162,65,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-06-04,2021-06-04,2021-06-11,NA
+32602,"Dakshina Kannada",2735727,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-07,2021-06-11,NA
+32675,"Dakshina Kannada",2553839,85,"Female","ILI","Fever","DM",2021-05-28,2021-05-31,2021-06-12,NA
+32681,"Dakshina Kannada",2590175,73,"Male","SARI","Breathlessness","IHD",2021-05-27,2021-06-04,2021-06-12,NA
+32716,"Dakshina Kannada",2677049,80,"Male","SARI","Breathlessness","DM, IHD, CLD",2021-06-01,2021-06-11,2021-06-12,NA
+32747,"Dakshina Kannada",2723279,58,"Female","SARI","Cough, Breathlessness","HTN",2021-06-04,2021-06-09,2021-06-12,NA
+32910,"Dakshina Kannada",2789706,74,"Male","SARI","Breathlessness","DM, HTN, CA",2021-06-10,2021-06-12,2021-06-13,NA
+32943,"Dakshina Kannada",2618591,52,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-06,2021-06-13,2021-06-14,NA
+32955,"Dakshina Kannada",2673946,69,"Male","SARI","Breathlessness","DM",2021-06-01,2021-06-12,2021-06-14,NA
+32972,"Dakshina Kannada",2696391,54,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-02,2021-06-06,2021-06-14,NA
+32976,"Dakshina Kannada",2703146,66,"Male","SARI","Breathlessness","-",2021-06-07,2021-06-10,2021-06-14,NA
+33000,"Dakshina Kannada",2756363,42,"Male","SARI","Breathlessness","DM",2021-06-06,2021-06-13,2021-06-14,NA
+33037,"Dakshina Kannada",2811132,65,"Male","SARI","Breathlessness","-",2021-06-11,2021-06-13,2021-06-14,NA
+33076,"Dakshina Kannada",2701363,83,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-15,2021-06-15,NA
+33083,"Dakshina Kannada",2709957,43,"Female","SARI","Fever","DM, HTN",2021-06-03,2021-06-10,2021-06-15,NA
+33091,"Dakshina Kannada",2721069,95,"Female","ILI","Fever","-",2021-06-04,2021-06-13,2021-06-15,NA
+33107,"Dakshina Kannada",2749421,81,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-14,2021-06-15,NA
+33115,"Dakshina Kannada",2758957,49,"Female","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-10,2021-06-15,NA
+33162,"Dakshina Kannada",2508237,71,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-10,2021-06-16,NA
+33171,"Dakshina Kannada",2618615,54,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-12,2021-06-16,NA
+33183,"Dakshina Kannada",2673934,68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-10,2021-06-16,NA
+33196,"Dakshina Kannada",2702033,94,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-11,2021-06-16,NA
+33221,"Dakshina Kannada",2730220,89,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-10,2021-06-16,NA
+33229,"Dakshina Kannada",2741508,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-06,2021-06-11,2021-06-16,NA
+33239,"Dakshina Kannada",2756393,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-07,2021-06-12,2021-06-16,NA
+33242,"Dakshina Kannada",2757902,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-11,2021-06-16,NA
+33243,"Dakshina Kannada",2759388,63,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-07,2021-06-10,2021-06-16,NA
+33253,"Dakshina Kannada",2767716,62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-06-11,2021-06-16,NA
+33312,"Dakshina Kannada",2464731,89,"Male","SARI","Breathlessness","-",2021-05-22,2021-06-04,2021-06-17,NA
+33324,"Dakshina Kannada",2583934,62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-30,2021-06-10,2021-06-17,NA
+33339,"Dakshina Kannada",2651590,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-30,2021-06-04,2021-06-17,NA
+33355,"Dakshina Kannada",2700779,50,"Female","ILI","Fever, Cough","-",2021-06-07,2021-06-17,2021-06-17,NA
+33375,"Dakshina Kannada",2747166,65,"Male","SARI","Breathlessness","DM, IHD",2021-06-07,2021-06-16,2021-06-17,NA
+33377,"Dakshina Kannada",2747961,37,"Female","ILI","Fever, Cough","-",2021-06-07,2021-06-16,2021-06-17,NA
+33378,"Dakshina Kannada",2752358,53,"Male","ILI","Fever, Cough","HTN",2021-06-07,2021-06-17,2021-06-17,NA
+33386,"Dakshina Kannada",2771231,62,"Female","SARI","Breathlessness","-",2021-06-08,2021-06-16,2021-06-17,NA
+33394,"Dakshina Kannada",2780946,46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-01,2021-06-12,2021-06-17,NA
+33419,"Dakshina Kannada",2817755,44,"Male","SARI","Breathlessness","HTN",2021-06-14,2021-06-16,2021-06-17,NA
+33424,"Dakshina Kannada",2823887,73,"Male","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-15,2021-06-17,NA
+33467,"Dakshina Kannada",2594232,58,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-27,2021-06-01,2021-06-18,NA
+33468,"Dakshina Kannada",2603594,62,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-19,2021-06-08,2021-06-18,NA
+33469,"Dakshina Kannada",2605652,71,"Female","SARI","Fever, Breathlessness","HTN",2021-05-27,2021-06-02,2021-06-18,NA
+33471,"Dakshina Kannada",2625257,64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-01,2021-06-03,2021-06-18,NA
+33480,"Dakshina Kannada",2658444,78,"Female","SARI","Fever, Breathlessness","HTN",2021-05-30,2021-06-02,2021-06-18,NA
+33484,"Dakshina Kannada",2671259,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-01,2021-06-03,2021-06-18,NA
+33515,"Dakshina Kannada",2743973,66,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-10,2021-06-18,NA
+33517,"Dakshina Kannada",2749960,51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-14,2021-06-17,2021-06-18,NA
+33534,"Dakshina Kannada",2770641,72,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD, COPD",2021-06-09,2021-06-12,2021-06-18,NA
+33555,"Dakshina Kannada",2801237,53,"Male","ILI","Fever","CA",2021-04-26,2021-06-12,2021-06-18,NA
+33561,"Dakshina Kannada",2807888,50,"Female","SARI","Fever, Cough, Breathlessness","CA",2021-06-06,2021-06-17,2021-06-18,NA
+33567,"Dakshina Kannada",2811201,73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-13,2021-06-17,2021-06-18,NA
+33576,"Dakshina Kannada",2819940,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-15,2021-06-17,2021-06-18,NA
+33595,"Dakshina Kannada",100000180,49,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-06-11,2021-06-18,NA
+33624,"Dakshina Kannada",2571827,68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-06-11,2021-06-19,NA
+33625,"Dakshina Kannada",2573372,55,"Male","SARI","Breathlessness","HTN",2021-05-27,2021-06-08,2021-06-19,NA
+33636,"Dakshina Kannada",2650597,70,"Female","ILI","Fever, Cough","HTN",2021-05-31,2021-06-04,2021-06-19,NA
+33642,"Dakshina Kannada",2694171,67,"Male","SARI","Fever, Breathlessness","HTN",2021-06-03,2021-06-07,2021-06-19,NA
+33659,"Dakshina Kannada",2757087,59,"Female","SARI","Breathlessness","-",2021-06-08,2021-06-13,2021-06-19,NA
+33668,"Dakshina Kannada",2763419,56,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-09,2021-06-13,2021-06-19,NA
+33674,"Dakshina Kannada",2770652,73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-08,2021-06-14,2021-06-19,NA
+33688,"Dakshina Kannada",2785775,68,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-10,2021-06-18,2021-06-19,NA
+33697,"Dakshina Kannada",2800637,54,"Female","SARI","Fever, Breathlessness","DM",2021-06-11,2021-06-18,2021-06-19,NA
+33707,"Dakshina Kannada",2808455,50,"Male","ILI","Fever, Cough","-",2021-06-13,2021-06-18,2021-06-19,NA
+33711,"Dakshina Kannada",2811138,80,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-06-13,2021-06-18,2021-06-19,NA
+33716,"Dakshina Kannada",2816023,55,"Male","SARI","Fever, Breathlessness","HTN",2021-06-14,2021-06-18,2021-06-19,NA
+33718,"Dakshina Kannada",2817757,64,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-12,2021-06-18,2021-06-19,NA
+33720,"Dakshina Kannada",2819144,78,"Female","SARI","Cough, Breathlessness","HTN, IHD",2021-06-05,2021-06-14,2021-06-19,NA
+33730,"Dakshina Kannada",2824429,60,"Male","ILI","Fever, Cough","HTN, IHD, CKD",2021-06-16,2021-06-17,2021-06-19,NA
+33731,"Dakshina Kannada",2825088,21,"Male","SARI","Fever, Breathlessness","-",2021-06-15,2021-06-18,2021-06-19,NA
+33771,"Dakshina Kannada",2176180,65,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-06-03,2021-06-20,NA
+33777,"Dakshina Kannada",2473701,46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-31,2021-06-20,NA
+33778,"Dakshina Kannada",2479870,54,"Female","SARI","Breathlessness","-",2021-05-22,2021-05-31,2021-06-20,NA
+33781,"Dakshina Kannada",2513591,74,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-05-25,2021-05-30,2021-06-20,NA
+33785,"Dakshina Kannada",2583965,52,"Male","SARI","Breathlessness","DM, HTN, CHD",2021-05-27,2021-06-01,2021-06-20,NA
+33798,"Dakshina Kannada",2691170,77,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-03,2021-06-20,NA
+33801,"Dakshina Kannada",2700578,66,"Male","SARI","Fever, Breathlessness","HTN",2021-06-01,2021-06-04,2021-06-20,NA
+33838,"Dakshina Kannada",2798197,71,"Female","SARI","Fever, Breathlessness","CKD",2021-06-11,2021-06-19,2021-06-20,NA
+33866,"Dakshina Kannada",2836195,54,"Female","SARI","Breathlessness","CLD",2021-06-16,2021-06-17,2021-06-20,NA
+33877,"Dakshina Kannada",100000117,65,"Male","SARI","Breathlessness","HTN",2021-05-28,2021-06-03,2021-06-20,NA
+33879,"Dakshina Kannada",100000400,53,"Male","SARI","Fever, Breathlessness","-",2021-06-09,2021-06-19,2021-06-20,NA
+33904,"Dakshina Kannada",2464723,58,"Male","SARI","Cough, Breathlessness","HTN",2021-05-23,2021-06-04,2021-06-21,NA
+33936,"Dakshina Kannada",2658433,60,"Female","ILI","Fever, Cough","DM, HTN",2021-06-01,2021-06-04,2021-06-21,NA
+33947,"Dakshina Kannada",2687936,90,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-05,2021-06-21,NA
+33948,"Dakshina Kannada",2704521,85,"Male","SARI","Breathlessness","HTN",2021-06-03,2021-06-19,2021-06-21,NA
+33952,"Dakshina Kannada",2713391,53,"Male","SARI","Fever, Breathlesness","HTN",2021-06-03,2021-06-05,2021-06-21,NA
+33957,"Dakshina Kannada",2735714,75,"Male","SARI","Breathlessness","DM, HTN",2021-06-05,2021-06-15,2021-06-21,NA
+33974,"Dakshina Kannada",2778355,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-09,2021-06-20,2021-06-21,NA
+33976,"Dakshina Kannada",2787282,79,"Female","SARI","Breathlessness","DM, CKD",2021-06-11,2021-06-19,2021-06-21,NA
+33977,"Dakshina Kannada",2789574,32,"Female","SARI","Breathlessness","-",2021-05-26,2021-06-20,2021-06-21,NA
+33984,"Dakshina Kannada",2800635,50,"Male","SARI","Breathlessness","HTN",2021-06-11,2021-06-20,2021-06-21,NA
+33990,"Dakshina Kannada",2805786,64,"Male","SARI","Fever, Breathlesness","-",2021-06-12,2021-06-19,2021-06-21,NA
+33996,"Dakshina Kannada",2817283,58,"Male","SARI","Fever, Cough, Breathlessness","CA",2021-06-15,2021-06-20,2021-06-21,NA
+33998,"Dakshina Kannada",2819870,54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-15,2021-06-19,2021-06-21,NA
+34014,"Dakshina Kannada",2846208,85,"Female","SARI","Breathlessness","HTN",2021-06-19,2021-06-21,2021-06-21,NA
+34049,"Dakshina Kannada",2612633,77,"Female","SARI","Fever, Breathlessness","DM",2021-05-28,2021-06-05,2021-06-22,NA
+34053,"Dakshina Kannada",2652014,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-31,2021-06-05,2021-06-22,NA
+34055,"Dakshina Kannada",2672574,47,"Male","SARI","Fever, Breathlessness","HTN",2021-05-31,2021-06-06,2021-06-22,NA
+34062,"Dakshina Kannada",2707115,40,"Female","SARI","Breathlessness","-",2021-06-02,2021-06-05,2021-06-22,NA
+34083,"Dakshina Kannada",2767711,50,"Female","ILI","Fever, Cough","-",2021-06-15,2021-06-18,2021-06-22,NA
+34092,"Dakshina Kannada",2784438,59,"Male","ILI","Fever, Cough","DM, HTN",2021-06-10,2021-06-21,2021-06-22,NA
+34103,"Dakshina Kannada",2799726,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-11,2021-06-22,2021-06-22,NA
+34106,"Dakshina Kannada",2803692,55,"Female","SARI","Fever, Breathlessness","HTN",2021-06-13,2021-06-20,2021-06-22,NA
+34110,"Dakshina Kannada",2805778,38,"Female","SARI","Fever, Breathlessness","-",2021-06-13,2021-06-18,2021-06-22,NA
+34129,"Dakshina Kannada",2829866,47,"Female","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-22,2021-06-22,NA
+34139,"Dakshina Kannada",2843807,66,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-06-19,2021-06-22,2021-06-22,NA
+34140,"Dakshina Kannada",2844705,67,"Male","SARI","Breathlessness","DM, HTN",2021-06-18,2021-06-20,2021-06-22,NA
+34141,"Dakshina Kannada",2844727,56,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-19,2021-06-21,2021-06-22,NA
+34152,"Dakshina Kannada",100000121,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-01,2021-06-21,2021-06-22,NA
+34153,"Dakshina Kannada",100000181,90,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-06-01,2021-06-05,2021-06-22,NA
+34187,"Dakshina Kannada",2530051,57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-28,2021-06-08,2021-06-23,NA
+34193,"Dakshina Kannada",2612347,54,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-28,2021-06-15,2021-06-23,NA
+34195,"Dakshina Kannada",2650923,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-31,2021-06-06,2021-06-23,NA
+34198,"Dakshina Kannada",2658464,62,"Male","ILI","Fever, Cough","-",2021-05-31,2021-06-14,2021-06-23,NA
+34201,"Dakshina Kannada",2661199,81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-11,2021-06-23,NA
+34202,"Dakshina Kannada",2664957,51,"Female","SARI","Breathlessness","DM, HTN",2021-06-01,2021-06-10,2021-06-23,NA
+34208,"Dakshina Kannada",2686375,56,"Male","SARI","Fever, Breathlessness","HTN",2021-06-02,2021-06-06,2021-06-23,NA
+34211,"Dakshina Kannada",2692561,40,"Female","SARI","Breathlessness","HTN",2021-06-02,2021-06-05,2021-06-23,NA
+34212,"Dakshina Kannada",2694174,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-02,2021-06-03,2021-06-23,NA
+34217,"Dakshina Kannada",2714026,65,"Male","ILI","Fever, Cough","-",2021-06-03,2021-06-14,2021-06-23,NA
+34224,"Dakshina Kannada",2737543,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-07,2021-06-23,NA
+34234,"Dakshina Kannada",2801340,48,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-12,2021-06-14,2021-06-23,NA
+34277,"Dakshina Kannada",100000487,58,"Female","ILI","Fever, Cough","-",2021-06-07,2021-06-12,2021-06-23,NA
+34318,"Dakshina Kannada",2729540,51,"Male","SARI","Breathlessness","-",2021-06-09,2021-06-23,2021-06-24,NA
+34319,"Dakshina Kannada",2731162,52,"Male","SARI","Fever, Cough, Breathlesness","COPD",2021-06-05,2021-06-09,2021-06-24,NA
+34320,"Dakshina Kannada",2735732,64,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-08,2021-06-24,2021-06-24,NA
+34325,"Dakshina Kannada",2751631,47,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-06,2021-06-12,2021-06-24,NA
+34340,"Dakshina Kannada",2785797,70,"Female","SARI","Fever, Cough, Breathlesness","DM",2021-06-11,2021-06-22,2021-06-24,NA
+34348,"Dakshina Kannada",2800634,60,"Male","SARI","Breathlessness","-",2021-06-11,2021-06-22,2021-06-24,NA
+34358,"Dakshina Kannada",2817271,57,"Female","SARI","Fever, Cough, Breathlesness","DM, HTN",2021-06-15,2021-06-23,2021-06-24,NA
+34365,"Dakshina Kannada",2819355,53,"Male","SARI","Fever, Cough, Breathlesness","DM, CA",2021-06-19,2021-06-23,2021-06-24,NA
+34375,"Dakshina Kannada",2827905,67,"Male","SARI","Breathlessness","DM, HTN, IHD",2021-06-16,2021-06-23,2021-06-24,NA
+34379,"Dakshina Kannada",2833228,50,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-17,2021-06-23,2021-06-24,NA
+34382,"Dakshina Kannada",2836625,35,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-16,2021-06-22,2021-06-24,NA
+34383,"Dakshina Kannada",2839461,42,"Male","SARI","Fever, Cough, Breathlesness","DM",2021-06-23,2021-06-23,2021-06-24,NA
+34388,"Dakshina Kannada",2844198,73,"Male","SARI","Fever, Breathlessness","HTN, COPD , CKD",2021-06-19,2021-06-23,2021-06-24,NA
+34400,"Dakshina Kannada",2850256,61,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-06-20,2021-06-23,2021-06-24,NA
+34405,"Dakshina Kannada",2852159,61,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-20,2021-06-24,2021-06-24,NA
+34434,"Dakshina Kannada",2238221,51,"Male","ILI","Fever","DM",2021-05-26,2021-05-31,2021-06-25,NA
+34436,"Dakshina Kannada",2328914,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-23,2021-06-01,2021-06-25,NA
+34439,"Dakshina Kannada",2492825,73,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD, CLD",2021-05-26,2021-05-27,2021-06-25,NA
+34440,"Dakshina Kannada",2501691,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-24,2021-05-26,2021-06-25,NA
+34452,"Dakshina Kannada",2594229,63,"Male","ILI","Fever","DM",2021-05-29,2021-05-31,2021-06-25,NA
+34455,"Dakshina Kannada",2639602,59,"Male","SARI","Breathlessness","DM, CVA",2021-06-01,2021-06-04,2021-06-25,NA
+34458,"Dakshina Kannada",2657281,70,"Male","ILI","Fever, Cough","HTN, CKD",2021-05-30,2021-06-08,2021-06-25,NA
+34492,"Dakshina Kannada",2802612,57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-24,2021-06-25,NA
+34495,"Dakshina Kannada",2806331,45,"Male","SARI","Fever, Breathlessness","-",2021-06-21,2021-06-25,2021-06-25,NA
+34514,"Dakshina Kannada",2841399,53,"Female","SARI","Fever, Breathlessness","HTN, CKD",2021-06-18,2021-06-24,2021-06-25,NA
+34526,"Dakshina Kannada",2853421,42,"Female","SARI","Cough","HTN",2021-06-21,2021-06-24,2021-06-25,NA
+34532,"Dakshina Kannada",2860512,63,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-06-22,2021-06-24,2021-06-25,NA
+34535,"Dakshina Kannada",2863857,44,"Male","SARI","Cough, Breathlessness","DM",2021-06-23,2021-06-23,2021-06-25,NA
+34541,"Dakshina Kannada",100001257,64,"Male","SARI","Fever, Breathlessness","-",2021-06-17,2021-06-25,2021-06-25,NA
+34548,"Dakshina Kannada",2238221,51,"Male","ILI","Fever","DM",2021-05-26,2021-05-31,2021-06-25,NA
+34550,"Dakshina Kannada",2328914,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-23,2021-06-01,2021-06-25,NA
+34553,"Dakshina Kannada",2492825,73,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD, CLD",2021-05-26,2021-05-27,2021-06-25,NA
+34554,"Dakshina Kannada",2501691,52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-05-24,2021-05-26,2021-06-25,NA
+34566,"Dakshina Kannada",2594229,63,"Male","ILI","Fever","DM",2021-05-29,2021-05-31,2021-06-25,NA
+34569,"Dakshina Kannada",2639602,59,"Male","SARI","Breathlessness","DM, CVA",2021-06-01,2021-06-04,2021-06-25,NA
+34572,"Dakshina Kannada",2657281,70,"Male","ILI","Fever, Cough","HTN, CKD",2021-05-30,2021-06-08,2021-06-25,NA
+34606,"Dakshina Kannada",2802612,57,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-24,2021-06-25,NA
+34609,"Dakshina Kannada",2806331,45,"Male","SARI","Fever, Breathlessness","-",2021-06-21,2021-06-25,2021-06-25,NA
+34628,"Dakshina Kannada",2841399,53,"Female","SARI","Fever, Breathlessness","HTN, CKD",2021-06-18,2021-06-24,2021-06-25,NA
+34640,"Dakshina Kannada",2853421,42,"Female","SARI","Cough","HTN",2021-06-21,2021-06-24,2021-06-25,NA
+34646,"Dakshina Kannada",2860512,63,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-06-22,2021-06-24,2021-06-25,NA
+34649,"Dakshina Kannada",2863857,44,"Male","SARI","Cough, Breathlessness","DM",2021-06-23,2021-06-23,2021-06-25,NA
+34655,"Dakshina Kannada",100001257,64,"Male","SARI","Fever, Breathlessness","-",2021-06-17,2021-06-25,2021-06-25,NA
+34674,"Dakshina Kannada",2536557,50,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-06-07,2021-06-26,NA
+34695,"Dakshina Kannada",2761116,75,"Female","ILI","Fever, Cough","-",2021-06-09,2021-06-10,2021-06-26,NA
+34697,"Dakshina Kannada",2764559,62,"Male","ILI","Fever","PTB",2021-06-08,2021-06-13,2021-06-26,NA
+34703,"Dakshina Kannada",2781844,72,"Male","SARI","Fever, Breathlessness","DM",2021-06-18,2021-06-24,2021-06-26,NA
+34706,"Dakshina Kannada",2796976,30,"Female","SARI","Fever, Breathlessness","-",2021-06-11,2021-06-11,2021-06-26,NA
+34710,"Dakshina Kannada",2801204,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-25,2021-06-26,NA
+34722,"Dakshina Kannada",2823902,62,"Male","SARI","Fever, Cough, Breathlessness","DM, CA",2021-06-16,2021-06-25,2021-06-26,NA
+34729,"Dakshina Kannada",2832772,48,"Male","SARI","Fever, Breathlessness","-",2021-06-17,2021-06-25,2021-06-26,NA
+34730,"Dakshina Kannada",2834596,61,"Male","SARI","Fever, Breathlessness","-",2021-06-21,2021-06-25,2021-06-26,NA
+34744,"Dakshina Kannada",2853379,70,"Male","SARI","Breathlessness","COPD",2021-06-20,2021-06-25,2021-06-26,NA
+34750,"Dakshina Kannada",2857206,70,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD, CKD",2021-06-22,2021-06-23,2021-06-26,NA
+34757,"Dakshina Kannada",2863293,56,"Male","SARI","Fever, Breathlessness","HTN",2021-06-22,2021-06-25,2021-06-26,NA
+34759,"Dakshina Kannada",2864369,25,"Female","SARI","Fever, Breathlessness","-",2021-06-23,2021-06-23,2021-06-26,NA
+34768,"Dakshina Kannada",100000326,64,"Female","SARI","Breathlessness","DM, HTN",2021-05-24,2021-06-03,2021-06-26,NA
+34776,"Dakshina Kannada",2370092,58,"Male","SARI ","Breathlessness ","DM, IHD ",2021-05-24,2021-06-04,2021-06-27,NA
+34781,"Dakshina Kannada",2551770,65,"Female","SARI ","Cough, Breathlessness ","DM, HTN, IHD ",2021-05-26,2021-06-03,2021-06-27,NA
+34786,"Dakshina Kannada",2667191,70,"Male","SARI ","Fever, Breathlessness ","- ",2021-06-01,2021-06-01,2021-06-27,NA
+34812,"Dakshina Kannada",2802615,54,"Female","ILI ","Fever, Cough ","DM ",2021-06-16,2021-06-19,2021-06-27,NA
+34816,"Dakshina Kannada",2809378,75,"Female","SARI ","Cough, Breathlessness ","HTN ",2021-06-13,2021-06-13,2021-06-27,NA
+34820,"Dakshina Kannada",2820363,79,"Male","SARI ","Breathlessness ","- ",2021-06-16,2021-06-18,2021-06-27,NA
+34826,"Dakshina Kannada",2829421,56,"Male","SARI ","Fever, Breathlessness ","DM, CKD ",2021-06-18,2021-06-26,2021-06-27,NA
+34827,"Dakshina Kannada",2829425,54,"Male","SARI ","Fever, Breathlessness ","- ",2021-06-16,2021-06-21,2021-06-27,NA
+34832,"Dakshina Kannada",2834537,65,"Female","SARI ","Breathlessness ","- ",2021-06-14,2021-06-17,2021-06-27,NA
+34833,"Dakshina Kannada",2836691,42,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-06-20,2021-06-21,2021-06-27,NA
+34835,"Dakshina Kannada",2843814,72,"Male","ILI ","Fever ","DM, HTN ",2021-06-21,2021-06-23,2021-06-27,NA
+34836,"Dakshina Kannada",2844276,29,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-17,2021-06-18,2021-06-27,NA
+34843,"Dakshina Kannada",2857219,52,"Male","SARI ","Fever, Cough, Breathlessness ","DM ",2021-06-22,2021-06-26,2021-06-27,NA
+34856,"Dakshina Kannada",100000217,36,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-01,2021-06-27,2021-06-27,NA
+34858,"Dakshina Kannada",100001140,60,"Male","SARI ","Fever, Breathlessness ","DM, HTN, CKD ",2021-06-12,2021-06-26,2021-06-27,NA
+34872,"Dakshina Kannada",2462455,79,"Female","ILI ","Fever, Cough ","DM, HTN, IHD ",2021-05-24,2021-06-04,2021-06-28,NA
+34881,"Dakshina Kannada",2692603,44,"Male","SARI ","Fever, Breathlessness ","HTN, IHD, CKD ",2021-06-01,2021-06-04,2021-06-28,NA
+34883,"Dakshina Kannada",2712381,80,"Female","SARI ","Breathlessness ","DM, CKD ",2021-06-05,2021-06-06,2021-06-28,NA
+34889,"Dakshina Kannada",2795093,75,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",2021-06-10,2021-06-20,2021-06-28,NA
+34910,"Dakshina Kannada",2844704,75,"Female","SARI ","Breathlessness ","CVA ",2021-06-18,2021-06-26,2021-06-28,NA
+34935,"Dakshina Kannada",2874516,59,"Male","SARI ","Breathlessness ","DM ",2021-06-26,2021-06-27,2021-06-28,NA
+34944,"Dakshina Kannada",100000178,54,"Male","SARI ","Breathlessness ","DM, HTN, CKD ",2021-05-26,2021-06-10,2021-06-28,NA
+34945,"Dakshina Kannada",100000213,62,"Male","SARI ","Breathlessness ","DM ",2021-06-05,2021-06-12,2021-06-28,NA
+34946,"Dakshina Kannada",100000222,74,"Male","SARI ","Fever, Breathlessness ","DM, HTN, IHD ",2021-06-04,2021-06-06,2021-06-28,NA
+34947,"Dakshina Kannada",100000225,74,"Female","SARI ","Breathlessness ","- ",2021-06-06,2021-06-14,2021-06-28,NA
+34948,"Dakshina Kannada",100000253,68,"Female","SARI ","Breathlessness ","COPD ",2021-06-07,2021-06-07,2021-06-28,NA
+34949,"Dakshina Kannada",100000276,61,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",2021-05-27,2021-06-02,2021-06-28,NA
+34950,"Dakshina Kannada",100000398,65,"Male","SARI ","Breathlessness ","HTN ",2021-05-28,2021-06-07,2021-06-28,NA
+34951,"Dakshina Kannada",100000411,41,"Male","SARI ","Fever, Cough, Breathlessness ","- ",2021-06-02,2021-06-14,2021-06-28,NA
+34965,"Dakshina Kannada",2696399,66,"Male","SARI ","Fever, Cough, Breathlessness ","IHD ",NA,NA,NA,"03+AC0-06+AC0-2021"
+34969,"Dakshina Kannada",2732509,52,"Female","SARI ","Fever, Breathlessness ","DM ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34991,"Dakshina Kannada",2822200,82,"Female","SARI ","Fever, Cough, Breathlessness ","COPD ",NA,NA,NA,"28+AC0-06+AC0-2021"
+34994,"Dakshina Kannada",2829427,70,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35006,"Dakshina Kannada",2844018,43,"Female","SARI ","Fever, Cough, Breathlessness ","DM ",NA,NA,NA,"28+AC0-06+AC0-2021"
+35014,"Dakshina Kannada",2855381,29,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35017,"Dakshina Kannada",2858112,55,"Female","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35025,"Dakshina Kannada",2863291,40,"Male","SARI ","Fever, Cough, Breathlessness ","CKD ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35027,"Dakshina Kannada",2864799,39,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35030,"Dakshina Kannada",2865346,52,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35032,"Dakshina Kannada",2866298,44,"Male","SARI ","Fever, Breathlessness ","DM, HTN ",NA,NA,NA,"27+AC0-06+AC0-2021"
+35036,"Dakshina Kannada",2871187,64,"Male","SARI ","Breathlessness ","CA ",NA,NA,NA,NA
+35038,"Dakshina Kannada",2875882,40,"Male","SARI ","Fever, Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35041,"Dakshina Kannada",2876279,39,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35044,"Dakshina Kannada",100001206,73,"Female","SARI ","Fever, Cough, Breathlessness ","DM, HTN ",NA,NA,NA,"17+AC0-06+AC0-2021"
+35056,"Dakshina Kannada",2517049,46,"Male","SARI","Breathlessness","Hypo thyroidism",2021-05-24,2021-06-14,2021-06-30,NA
+35057,"Dakshina Kannada",2595106,56,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-05-28,2021-06-12,2021-06-30,NA
+35065,"Dakshina Kannada",2730246,80,"Male","ILI","Fever, Cough","DM",2021-06-07,2021-06-29,2021-06-30,NA
+35067,"Dakshina Kannada",2739048,28,"Male","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-08,2021-06-30,NA
+35068,"Dakshina Kannada",2746622,55,"Male","SARI","Fever, Breathlessness","DM",2021-06-14,2021-06-18,2021-06-30,NA
+35071,"Dakshina Kannada",2756381,33,"Male","SARI","Fever, Breathlessness","DM",2021-06-07,2021-06-29,2021-06-30,NA
+35078,"Dakshina Kannada",2761500,49,"Female","SARI","Fever, Breathlessness","HTN",2021-06-08,2021-06-30,2021-06-30,NA
+35096,"Dakshina Kannada",2824469,44,"Male","SARI","Fever, Breathlessness","-",2021-06-23,2021-06-28,2021-06-30,NA
+35100,"Dakshina Kannada",2836190,56,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-24,2021-06-29,2021-06-30,NA
+35105,"Dakshina Kannada",2839961,62,"Male","SARI","Fever, Breathlessness","-",2021-06-18,2021-06-30,2021-06-30,NA
+35117,"Dakshina Kannada",2855103,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-25,2021-06-30,2021-06-30,NA
+35129,"Dakshina Kannada",2865551,63,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-24,2021-06-29,2021-06-30,NA
+35134,"Dakshina Kannada",2873162,45,"Male","SARI","Fever, Breathlessness","-",2021-06-26,2021-06-29,2021-06-30,NA
+35144,"Dakshina Kannada",2880483,57,"Female","ILI","Fever","DM, HTN",2021-06-27,2021-06-29,2021-06-30,NA
+35150,"Dakshina Kannada",100000226,63,"Female","ILI","Fever, Cough","DM",2021-05-23,2021-05-27,2021-06-30,NA
+35171,"Dakshina Kannada",2671245,73,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-06-14,2021-06-15,2021-07-01,NA
+35173,"Dakshina Kannada",2677041,70,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-08,2021-07-01,NA
+35177,"Dakshina Kannada",2755317,63,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-08,2021-06-15,2021-07-01,NA
+35183,"Dakshina Kannada",2766904,29,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2021-06-11,2021-06-14,2021-07-01,NA
+35184,"Dakshina Kannada",2772634,43,"Male","SARI","Fever, Breathlessness","-",2021-06-08,2021-06-29,2021-07-01,NA
+35185,"Dakshina Kannada",2772985,63,"Male","SARI","Breathlessness","DM, HTN",2021-06-09,2021-06-15,2021-07-01,NA
+35189,"Dakshina Kannada",2808454,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-13,2021-06-29,2021-07-01,NA
+35227,"Dakshina Kannada",2874729,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-06-30,2021-07-01,NA
+35231,"Dakshina Kannada",2879021,48,"Male","SARI","Breathlessness","HTN, CKD",2021-06-28,2021-06-29,2021-07-01,NA
+35233,"Dakshina Kannada",2880465,70,"Female","SARI","Cough, Breathlessness","DM",2021-06-28,2021-06-30,2021-07-01,NA
+35234,"Dakshina Kannada",2880686,42,"Male","SARI","Fever, Breathlessness","DM",2021-06-09,2021-06-28,2021-07-01,NA
+35236,"Dakshina Kannada",2881184,84,"Male","SARI","Cough, Breathlessness","CKD",2021-06-28,2021-07-01,2021-07-01,NA
+35246,"Dakshina Kannada",2887340,54,"Male","SARI","Fever, Cough, Breathlessness","Hypo thyroidism",2021-06-30,2021-06-30,2021-07-01,NA
+35249,"Dakshina Kannada",100000183,59,"Male","SARI","Fever, Breathlessness","HTN",2021-06-01,2021-06-06,2021-07-01,NA
+35263,"Dakshina Kannada",2156024,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-14,2021-05-28,2021-07-02,NA
+35264,"Dakshina Kannada",2359578,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2021-05-19,2021-05-25,2021-07-02,NA
+35265,"Dakshina Kannada",2458582,56,"Male","SARI","Fever, Breathlessness","IHD",2021-05-25,2021-06-01,2021-07-02,NA
+35266,"Dakshina Kannada",2464717,71,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-22,2021-05-24,2021-07-02,NA
+35275,"Dakshina Kannada",2761580,34,"Male","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-16,2021-07-02,NA
+35293,"Dakshina Kannada",2843138,76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-23,2021-07-01,2021-07-02,NA
+35294,"Dakshina Kannada",2845188,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-20,2021-07-01,2021-07-02,NA
+35303,"Dakshina Kannada",2859212,69,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-07-01,2021-07-02,NA
+35311,"Dakshina Kannada",2864364,65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2021-06-29,2021-07-02,2021-07-02,NA
+35313,"Dakshina Kannada",2867817,69,"Female","ILI","Fever","-",2021-06-24,2021-06-25,2021-07-02,NA
+35314,"Dakshina Kannada",2868227,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-24,2021-07-02,2021-07-02,NA
+35327,"Dakshina Kannada",2879363,83,"Male","SARI","Breathlessness","-",2021-06-28,2021-07-01,2021-07-02,NA
+35328,"Dakshina Kannada",2879607,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-26,2021-07-01,2021-07-02,NA
+35350,"Dakshina Kannada",2473896,72,"Male","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-23,2021-07-03,NA
+35351,"Dakshina Kannada",2492830,80,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-24,2021-07-03,NA
+35362,"Dakshina Kannada",2770650,45,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-08,2021-07-03,2021-07-03,NA
+35385,"Dakshina Kannada",2864366,74,"Female","ILI","Fever","CKD",2021-06-23,2021-06-29,2021-07-03,NA
+35391,"Dakshina Kannada",2867814,90,"Female","SARI","Fever, Breathlessness","-",2021-06-24,2021-07-01,2021-07-03,NA
+35394,"Dakshina Kannada",2869625,75,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-30,2021-07-02,2021-07-03,NA
+35397,"Dakshina Kannada",2869922,68,"Female","SARI","Fever, Breathlessness","HTN, IHD",2021-06-27,2021-07-02,2021-07-03,NA
+35398,"Dakshina Kannada",2871951,35,"Male","SARI","Fever, Breathlessness","DM",2021-06-25,2021-07-02,2021-07-03,NA
+35405,"Dakshina Kannada",2879612,87,"Male","SARI","Fever, Breathlessness","CKD, IHD",2021-06-29,2021-07-02,2021-07-03,NA
+35408,"Dakshina Kannada",2883343,53,"Male","SARI","Fever, Breathlessness","-",2021-06-28,2021-07-02,2021-07-03,NA
+35410,"Dakshina Kannada",2885287,37,"Female","ILI","Fever, Cough","-",2021-06-30,2021-07-01,2021-07-03,NA
+35416,"Dakshina Kannada",2891431,55,"Female","ILI","Fever","-",2021-06-27,2021-07-01,2021-07-03,NA
+35425,"Dakshina Kannada",100002234,75,"Male","SARI","Fever, Breathlessness","-",2021-06-28,2021-07-02,2021-07-03,NA
+35431,"Dakshina Kannada",2416818,65,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-27,2021-07-04,NA
+35433,"Dakshina Kannada",2462413,71,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-28,2021-06-04,2021-07-04,NA
+35436,"Dakshina Kannada",2539647,71,"Male","ILI","Fever, Cough","HTN, IHD",2021-05-25,2021-06-03,2021-07-04,NA
+35437,"Dakshina Kannada",2610727,71,"Male","SARI","Breathlessness","HTN",2021-05-28,2021-06-02,2021-07-04,NA
+35438,"Dakshina Kannada",2767753,51,"Male","SARI","Fever, Breathlessness","HTN",2021-06-08,2021-07-03,2021-07-04,NA
+35458,"Dakshina Kannada",2869110,43,"Male","ILI","Fever","CLD",2021-06-25,2021-07-03,2021-07-04,NA
+35463,"Dakshina Kannada",2882062,72,"Male","SARI","Fever, Breathlessness","DM",2021-06-29,2021-07-03,2021-07-04,NA
+35464,"Dakshina Kannada",2883342,54,"Male","SARI","Fever, Breathlessness","CA",2021-06-30,2021-07-02,2021-07-04,NA
+35486,"Dakshina Kannada",1959796,62,"Female","SARI","Breathlessness","HTN",2021-05-11,2021-05-13,2021-07-05,NA
+35492,"Dakshina Kannada",2262856,31,"Male","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-29,2021-07-05,NA
+35496,"Dakshina Kannada",2324271,52,"Male","ILI","Fever, Cough","HTN, IHD",2021-05-18,2021-05-21,2021-07-05,NA
+35498,"Dakshina Kannada",2377568,86,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2021-05-28,2021-06-04,2021-07-05,NA
+35500,"Dakshina Kannada",2473776,57,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-22,2021-05-31,2021-07-05,NA
+35502,"Dakshina Kannada",2534455,60,"Male","SARI","Fever, Breathlessness","CLD",2021-05-24,2021-05-26,2021-07-05,NA
+35503,"Dakshina Kannada",2561620,55,"Female","SARI","Breathlessness","COPD",2021-05-26,2021-06-07,2021-07-05,NA
+35504,"Dakshina Kannada",2603636,74,"Female","SARI","Breathlessness","DM, HTN",2021-05-27,2021-06-05,2021-07-05,NA
+35505,"Dakshina Kannada",2605599,65,"Female","SARI","Cough, Breathlessness","DM, COPD",2021-05-27,2021-05-31,2021-07-05,NA
+35506,"Dakshina Kannada",2673945,79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-06-10,2021-07-05,NA
+35508,"Dakshina Kannada",2743940,72,"Male","SARI","Breathlessness","HTN",2021-06-05,2021-06-09,2021-07-05,NA
+35527,"Dakshina Kannada",2859216,74,"Male","ILI","Fever","HTN",2021-06-21,2021-07-04,2021-07-05,NA
+35557,"Dakshina Kannada",2169019,51,"Male","SARI","Fever, Breathlessness","HTN",2021-05-19,2021-06-02,2021-07-06,NA
+35558,"Dakshina Kannada",2307893,56,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-06-03,2021-07-06,NA
+35559,"Dakshina Kannada",2340299,67,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-29,2021-07-06,NA
+35560,"Dakshina Kannada",2426750,66,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-22,2021-05-29,2021-07-06,NA
+35561,"Dakshina Kannada",2439090,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-18,2021-05-29,2021-07-06,NA
+35573,"Dakshina Kannada",2821758,56,"Male","SARI","Fever, Breathlessness","DM",2021-06-29,2021-07-05,2021-07-06,NA
+35579,"Dakshina Kannada",2847068,75,"Male","SARI","Fever, Breathlessness","DM",2021-06-21,2021-07-04,2021-07-06,NA
+35587,"Dakshina Kannada",2865090,75,"Female","SARI","Fever, Breathlessness","DM, CVA",2021-07-03,2021-07-05,2021-07-06,NA
+35592,"Dakshina Kannada",2874739,89,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-26,2021-07-05,2021-07-06,NA
+35594,"Dakshina Kannada",2875883,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-26,2021-07-06,2021-07-06,NA
+35617,"Dakshina Kannada",2891440,48,"Female","SARI","Fever, Breathlessness","DM",2021-07-02,2021-07-03,2021-07-06,NA
+35628,"Dakshina Kannada",2896731,82,"Male","ILI","Fever","-",2021-07-04,2021-07-05,2021-07-06,NA
+35639,"Dakshina Kannada",100002451,53,"Male","SARI","Fever, Breathlessness","DM",2021-06-29,2021-07-05,2021-07-06,NA
+35647,"Dakshina Kannada",2262807,53,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-01,2021-07-07,NA
+35648,"Dakshina Kannada",2291319,40,"Male","SARI","Fever, Breathlessness","HTN",2021-05-27,2021-06-01,2021-07-07,NA
+35649,"Dakshina Kannada",2320734,55,"Male","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-17,2021-07-07,NA
+35650,"Dakshina Kannada",2326722,50,"Female","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-18,2021-07-07,NA
+35651,"Dakshina Kannada",2357663,75,"Female","SARI","Breathlessness","IHD, HTN",2021-05-21,2021-05-26,2021-07-07,NA
+35664,"Dakshina Kannada",2825076,58,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-06-15,2021-07-05,2021-07-07,NA
+35667,"Dakshina Kannada",2838711,68,"Female","SARI","Breathlessness","DM",2021-06-18,2021-07-06,2021-07-07,NA
+35670,"Dakshina Kannada",2848805,32,"Female","SARI","Fever, Breathlessness","-",2021-06-19,2021-07-06,2021-07-07,NA
+35678,"Dakshina Kannada",2856491,43,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-06-25,2021-07-04,2021-07-07,NA
+35680,"Dakshina Kannada",2863251,67,"Male","SARI","Breathlessness","DM, HTN",2021-06-27,2021-07-06,2021-07-07,NA
+35683,"Dakshina Kannada",2871199,81,"Female","SARI","Fever, Breathlessness","-",2021-06-26,2021-07-05,2021-07-07,NA
+35687,"Dakshina Kannada",2877641,69,"Male","SARI","Fever, Breathlessness","HTN, CLD",2021-06-26,2021-07-06,2021-07-07,NA
+35697,"Dakshina Kannada",2888284,60,"Male","SARI","Breathlessness","HTN, COPD",2021-06-29,2021-07-07,2021-07-07,NA
+35718,"Dakshina Kannada",100002416,40,"Male","SARI","Fever, Breathlessness","-",2021-07-01,2021-07-06,2021-07-07,NA
+35723,"Dakshina Kannada",2364938,90,"Male","SARI","Fever, Breathlessness","DM",2021-05-19,2021-05-29,2021-07-08,NA
+35724,"Dakshina Kannada",2413018,70,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-27,2021-07-08,NA
+35726,"Dakshina Kannada",2633697,63,"Male","SARI","Fever, Breathlessness","HTN",2021-05-29,2021-06-02,2021-07-08,NA
+35734,"Dakshina Kannada",2833489,73,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-19,2021-06-22,2021-07-08,NA
+35736,"Dakshina Kannada",2837579,74,"Female","SARI","Fever, Breathlessness","HTN",2021-06-20,2021-07-08,2021-07-08,NA
+35751,"Dakshina Kannada",2871923,53,"Female","SARI","Breathlessness","-",2021-06-25,2021-07-07,2021-07-08,NA
+35762,"Dakshina Kannada",2888928,55,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-07-01,2021-07-05,2021-07-08,NA
+35774,"Dakshina Kannada",2902488,75,"Male","SARI","Breathlessness","-",2021-07-06,2021-07-07,2021-07-08,NA
+35782,"Dakshina Kannada",2553826,64,"Female","ILI","Fever","DM, HTN",2021-05-26,2021-05-27,2021-07-09,NA
+35785,"Dakshina Kannada",2634302,67,"Male","SARI","Cough, Breathlessness","HTN, CLD",2021-05-30,2021-05-31,2021-07-09,NA
+35789,"Dakshina Kannada",2792675,73,"Male","SARI","Breathlessness","DM, HTN",2021-06-11,2021-07-03,2021-07-09,NA
+35801,"Dakshina Kannada",2869183,60,"Male","SARI","Breathlessness","DM",2021-06-29,2021-07-08,2021-07-09,NA
+35806,"Dakshina Kannada",2873876,83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-07-04,2021-07-09,NA
+35807,"Dakshina Kannada",2874195,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-25,2021-07-09,2021-07-09,NA
+35808,"Dakshina Kannada",2876978,70,"Male","SARI","Breathlessness","DM, HTN, IHD",2021-07-02,2021-07-03,2021-07-09,NA
+35827,"Dakshina Kannada",2894337,27,"Female","SARI","Breathlessness","-",2021-07-03,2021-07-08,2021-07-09,NA
+35831,"Dakshina Kannada",2897877,71,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-07-05,2021-07-09,2021-07-09,NA
+35850,"Dakshina Kannada",2490984,77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-24,2021-07-10,NA
+35852,"Dakshina Kannada",2799678,85,"Male","SARI","Fever, Breathlessness","CA",2021-06-16,2021-07-03,2021-07-10,NA
+35854,"Dakshina Kannada",2841444,74,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-06-17,2021-07-08,2021-07-10,NA
+35863,"Dakshina Kannada",2878002,73,"Female","SARI","Fever, Breathlessness","HTN",2021-06-27,2021-07-09,2021-07-10,NA
+35866,"Dakshina Kannada",2884453,80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-07-06,2021-07-09,2021-07-10,NA
+35878,"Dakshina Kannada",2902010,29,"Male","SARI","Fever, Breathlessness","-",2021-07-03,2021-07-08,2021-07-10,NA
+35883,"Dakshina Kannada",2904772,45,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-07-06,2021-07-09,2021-07-10,NA
+35886,"Dakshina Kannada",2905996,50,"Male","SARI","Fever, Breathlessness","HTN",2021-07-08,2021-07-09,2021-07-10,NA
+35897,"Dakshina Kannada",100002619,73,"Male","SARI","Fever, Breathlessness","HTN",2021-07-03,2021-07-08,2021-07-10,NA
+35898,"Dakshina Kannada",2130885,70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-17,2021-05-21,2021-07-11,NA
+35899,"Dakshina Kannada",2328870,72,"Male","SARI","Breathlessness","DM",2021-05-24,2021-05-25,2021-07-11,NA
+35900,"Dakshina Kannada",2337163,70,"Male","SARI","Fever, Breathlessness","DM",2021-05-27,2021-05-31,2021-07-11,NA
+35901,"Dakshina Kannada",2478449,70,"Female","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-29,2021-07-11,NA
+35902,"Dakshina Kannada",2521847,76,"Female","SARI","Breathlessness","IHD",2021-05-17,2021-05-24,2021-07-11,NA
+35912,"Dakshina Kannada",2866863,75,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-06-24,2021-07-09,2021-07-11,NA
+35926,"Dakshina Kannada",2891441,65,"Female","SARI","Cough, Breathlessness","DM, IHD",2021-06-30,2021-07-08,2021-07-11,NA
+35965,"Dakshina Kannada",2866305,90,"Female","SARI","Breathlessness","DM",2021-06-25,2021-07-10,2021-07-12,NA
+35967,"Dakshina Kannada",2871205,51,"Male","ILI","Fever, Cough","DM, HTN",2021-06-27,2021-07-11,2021-07-12,NA
+35975,"Dakshina Kannada",2878906,68,"Female","SARI","Breathlessness","-",2021-06-29,2021-07-12,2021-07-12,NA
+35976,"Dakshina Kannada",2879340,52,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2021-06-28,2021-07-11,2021-07-12,NA
+35986,"Dakshina Kannada",2889566,55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-07-01,2021-07-10,2021-07-12,NA
+36004,"Dakshina Kannada",2910317,71,"Male","SARI","Breathlessness","HTN, IHD",2021-07-10,2021-07-11,2021-07-12,NA
+36007,"Dakshina Kannada",100000079,47,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-05-22,2021-05-31,2021-07-12,NA
+36008,"Dakshina Kannada",100000084,68,"Male","SARI","Fever, Breathlessness","DM",2021-05-15,2021-05-27,2021-07-12,NA
+36009,"Dakshina Kannada",100000094,64,"Male","SARI","Fever, Breathlessness","HTN, COPD",2021-05-24,2021-06-06,2021-07-12,NA
+36010,"Dakshina Kannada",100000097,55,"Female","ILI","Fever","HTN",2021-05-22,2021-07-06,2021-07-12,NA
+36028,"Dakshina Kannada",2870732,30,"Male","SARI","Breathlessness","-",2021-07-03,2021-07-12,2021-07-13,NA
+36032,"Dakshina Kannada",2884451,71,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-06-30,2021-07-10,2021-07-13,NA
+36038,"Dakshina Kannada",2900424,72,"Female","SARI","Breathlessness","DM",2021-07-05,2021-07-12,2021-07-13,NA
+36042,"Dakshina Kannada",2904543,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-07,2021-07-11,2021-07-13,NA
+36045,"Dakshina Kannada",2907398,76,"Male","ILI","Fever","CKD",2021-07-07,2021-07-08,2021-07-13,NA
+36050,"Dakshina Kannada",2912136,57,"Male","ILI","Fever","DM",2021-07-10,2021-07-10,2021-07-13,NA
+36053,"Dakshina Kannada",100000046,66,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-06-03,2021-07-13,NA
+36054,"Dakshina Kannada",100000050,37,"Male","SARI","Cough, Breathlessness","DM",2021-05-26,2021-06-03,2021-07-13,NA
+36055,"Dakshina Kannada",100000091,68,"Male","ILI","Fever, Cough","DM, HTN, CKD",2021-05-19,2021-05-23,2021-07-13,NA
+36064,"Dakshina Kannada",2468755,46,"Male","ILI","Fever","-",2021-04-25,2021-05-24,2021-07-14,NA
+36066,"Dakshina Kannada",2854687,85,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-06-23,2021-07-13,2021-07-14,NA
+36075,"Dakshina Kannada",2889859,42,"Male","SARI","Fever, Breathlessness","HTN, CKD",2021-07-01,2021-07-13,2021-07-14,NA
+36077,"Dakshina Kannada",2894294,30,"Male","SARI","Fever, Breathlessness","HTN",2021-07-03,2021-07-14,2021-07-14,NA
+36080,"Dakshina Kannada",2896855,69,"Female","SARI","Fever, Breathlessness","HTN, CKD",2021-07-08,2021-07-13,2021-07-14,NA
+36092,"Dakshina Kannada",2907030,57,"Male","SARI","Fever, Breathlessness","-",2021-07-08,2021-07-13,2021-07-14,NA

@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+<div class="container page">
+<div class="container-fluid">
+ 
+
+
+  <div class="row">
+      <div class="col-sm-12">
+<center><h1><font color=maroon> Data Repository </font></h1></center>
+<a href="#KADATA">Karantaka Data</a><a name="TOP"></a>
+
+<br>
+
+<pre>
+Permission is granted to copy, distribute and/or modify the data files in this document under
+the terms of the GNU Free DocumentationLicense, Version 3.0 or any later version published by the
+Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+A copy of the license can be found <a href = "https://choosealicense.com/licenses/gpl-3.0/">here</a>.
+</pre>
+<br>
+<p>
+The first set of  data is sourced from the <a href="https://www.mohfw.gov.in/">Ministry of Health and Family Welfare (MOHFW) website</a>
+and the Media Bulletins (<a href = \"https://karnataka.gov.in/common-10/en\">till 26th April</a> and <a href=\"https://covid19.karnataka.gov.in/govt_bulletin/en">26th April onwards</a>) published regularly by the Karnataka government.
+The data available on these websites is in the form of PDF files where it's difficult to extract automatically.
+We have collected this data and collated it to form the following csv files from where it can used easily by the public.
+Below we provide all the data in csv format. The data is updated every week on Saturday evening.
+<br><br>
+<h2><em>The page below contains data repository hosted by the website. </em></h2><br>
+</p>
+<br>
+<ul>
+<a name="TOPPG"></a>
+<p> The data files have been categorized as given below:</p>
+<div class="row">
+  <div class="col-sm-6">
+	<ul>
+	<li><a href="#INDIASUMDATA" > India Summary Data</a></li>
+	<li><a href="#DISTTLDATA" > District timeline Data</a></li>
+	<li><a href="#DTCDATA" > Days to Critical Data</a></li>
+	<li><a href="#ACTDATA" > Active cases Data</a></li>
+	<li><a href="#RTDATA" > Rt Data</a></li>
+	
+	</ul>
+  </div>
+  <div class="col-sm-6">
+	<ul>
+
+	<li><a href="#KARDATA" > Karnataka Data</a></li>
+
+		<ul>
+			<li><a href="#TRDATA" >Trace history Data</a></li>
+			<li><a href="#TESTDATA" >Testing Data</a></li>
+			<li><a href="#HOSPDATA" >Hospitalisation Data</a></li>
+			<li><a href="#VACDATA" >Vaccination Data</a></li>
+			<li><a href="#DISTINFODATA" >District information Data</a></li>
+			<li><a href="#DECDATA" >Deceased Data</a></li>
+			<li><a href="#SRDATA" >Summarised Data</a></li>
+		</ul>
+  </div>
+</div>
+<br><br><br>
+
+
+<a name="INDIASUMDATA"></a>
+<h2><font color=maroon>India Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Summary for All India </font></li></h4>
+<p> <a href="./data/summarymohfw1update.csv">This csv file</a> contains the counts of infected [both Indian and Foreign nationals], recovered and deceased for each state
+  with at least one COVID-19 case. The rows correspond to different states and the columns represent the daily counts.  Each day corresponds to four columns: Total Confirmed cases of Indian Nationals [TCIN], Total Confirmed cases of Foreign Nationals [TCFN], Recoveries [Cu\
+red] and Deaths [Death] for that day. This file is updated from the MOHFW website.
+</p>
+
+<br><br>
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="DISTTLDATA"></a>
+<h2><font color=maroon>District timeline Data </font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka District Timeline</font></li></h4>
+<a href="./data/">This csv file</a> contains counts of the infected, recovered and deceased patients districtwise in Karnataka. The data is organized as follows:
+<ol type=A>
+<li> Each row represents a District.</li>
+<li> For each date, there are 3 columns representing the total number of infected patients, the total number of recoveries and the total number of deceased patients.</li>
+</ol><br>
+The district timeline for Karnataka has errors that occured in the Media briefs. We have created a new file with corrections and the csv file has a new format as of August 2nd 2020.
+<!-- <br> -->
+<!-- <h3><li><font color=maroon>Karnataka Deceased Data </font></li></h3> -->
+
+<!--  <a href=\"./datkad.php\">This csv file</a> contains information on each patient who has passed away due to COVID-19 in Karnataka. The columns have data on: -->
+<!-- <ol type=A> -->
+<!-- <li> The district that the patient belongs to.</li> -->
+<!-- <li> The State P Code for that patient.</li> -->
+<!-- <li> The age of the patient in years.</li> -->
+<!-- <li> The sex of the patient.</li> -->
+
+<!-- <li> The sex of the patient.</li> -->
+<!-- <li> The description of the patient including why they were tested and which cluster they fall in.</li> -->
+<!-- <li> The symptoms of the patients.</li> -->
+<!-- <li> Any co-morbidities that the patients might have had.</li> -->
+<!-- <li> The date at which they were admitted to the hospital. For the patients who were brought dead or passed away at their residence, that has been mentioned.</li> -->
+<!-- <li> The date on which they passed away.</li> -->
+<!-- <li> The date of the media bulletin they appeared in. </li> -->
+<!-- </ol><br> -->
+ </ul>
+
+<br>
+
+The second set of data is sourced from  the <a href = "http://hmfw.ap.gov.in/covid_19_dailybulletins.aspx"> Andhra Pradesh Media Bulletins</a>, <a href = "https://dashboard.kerala.gov.in/"> Kerala Media Bulletins</a>, <a href = "https://arogya.maharashtra.gov.in/1175/Novel\
+--Corona-Virus">Maharashtra  Media Bulletins</a>,<a href = "https://stopcorona.tn.gov.in/daily-bulletin/"> Tamil Nadu Media Bulletins</a> published regularly by the respective state governments.
+
+<ul>
+<br>
+
+<h4><li><font color=maroon>District-Wise Information</font></li></h4>
+The given files have district-wise infection timeline data for the following states-
+<ul>
+  <li> <a href="./data/AP.csv">Andhra Pradesh District timeline [CSV format]</a> <br>
+    [The data is not being provided after May 19th, 2020.]
+    </li>
+<li> <a href="./data/KE.csv">Kerala District timeline [CSV format]</a> </li>
+<li> <a href="./data/MH.csv">Maharashtra District timeline [CSV format]</a> </li>
+  <li> <a href="./data/Odissa.csv">Odisha District timeline [CSV format]</a> <br>
+<li> <a href="./data/TN.csv">Tamil Nadu District timeline [CSV format]</a> </li>
+  <li> <a href="./data/WB.csv">West Bengal District timeline [CSV format]</a> <br>
+</ul>
+<h4><font color=maroon>Credits:</font></h3> The second set of data has been collated by Ms. Asha Lata and Ms. N.R. Kusuma at the Indian Statistical Institute, Bangalore. They appear as pdf files in media briefs, as text in various websites, and have been converted to CSV f\
+ormat by them. We thank the Gates foundation for support.
+</ul>
+<br><br>
+
+<h4><li><font color=maroon>District timeline data</font></h4>
+
+	  The file <a href="./csv/Districtcode.xls">Districtcode.xls</a> has the codes for each district. The columns have data on:
+	  	  <ol type="A" align="left">
+	    <li>The file name of the state or union territory.</li>
+	    <li>The state or union territory code.</li>
+	    <li>The name of the state or union territory.</li>
+	  </ol>
+	  <p align="left">The <a href="./csv/district.zip">zipped directory</a> has timelines of all districts. Each  file corresponds to an individual state. The timeline file contains columns on:  </p>
+	  <ol type="A" align="left">
+	    <li>The district code for the state or union territory.</li>
+	    <li>The date of the data collected.</li>
+	    <li>The total number of infected on that day.</li>
+	    <li>The total number of patients recovered on that day.</li>
+	    <li>The total number of deceased on that day.</li>
+	  </ol>
+
+	  <br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="DTCDATA"></a>
+<h2><font color=maroon>Days to critical Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Indian states days to critical data</font></h4>
+<p align="left"><a href="./csv/statecritical.csv">This csv file</a> contains information on every Indian state and union territory, with the columns having data on:</p>
+<ol type="A" align="left">
+	    <li>The name of state/union territory.</li>
+	    <li>The date.</li>
+	    <li>The current active cases.</li>
+	    <li>The rate(lamda-t).</li>
+	    <li>The days to 50 per million cases of the total population.</li>
+	    <li>The days to 1000 per million cases of the total population.</li>
+	    <li>The days to 1500 per million cases of the total population.</li>
+	    <li>The days to 0.2% of population cases.</li>
+	    <li>The population as on 2011.</li>
+	    <li>The projected Population on 2020.</li>
+	    <li>Population-50 per million.</li>
+	    <li>Population-1000 per million.</li>
+	    <li>Population-1500 per million.</li>
+	    <li>0.2% of total population.</li>
+</ol>	  
+<br><br>
+
+<h4><li><font color=maroon>Karnataka districts days to critical data</font></h4>
+<p align="left"><a href="./csv/critical.csv">This csv file</a> contains information on every district in Karnataka, with the columns having data on:</p>
+<ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The date.</li>
+	    <li>The current active cases.</li>
+	    <li>The rate(lamda-t).</li>
+	    <li>The days to 50 per million cases of the total population.</li>
+	    <li>The days to 1000 per million cases of the total population.</li>
+	    <li>The days to 1500 per million cases of the total population.</li>
+	    <li>The days to 0.2% of population cases.</li>
+	    <li>The population as on 2011.</li>
+	    <li>The projected Population on 2020.</li>
+	    <li>Population-50 per million.</li>
+	    <li>Population-1000 per million.</li>
+	    <li>Population-1500 per million.</li>
+	    <li>0.2% of total population.</li>
+</ol>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="ACTDATA"></a>
+<h2><font color=maroon>Active cases Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Active cases in India weekly data</font></h4>
+<p align="left"><a href="./csv/indialastweekactive.csv">This csv file</a> contains information about weekly active cases across all states and union territories in India. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The name of the state or union territory.</li>
+	<li>The next seven columns contain the active cases on every day of the week.</li>
+</ol>
+<br><br>
+
+<h4><li><font color=maroon>Active cases in Karnataka weekly data</font></h4>
+<p align="left"><a href="./csv/karlastweekactive.csv">This csv file</a> contains information about weekly active cases across all districts in Karnataka. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The name of the district.</li>
+	<li>The next seven columns contain the active cases on every day of the week.</li>
+</ol>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="RTDATA"></a>
+<h2><font color=maroon>Rt Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Rt India weekly data</font></h4>
+<p align="left"><a href="./csv/indialastweekR.csv">This csv file</a> contains information about weekly reproduction numbers across all states and union territories in India. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The date under consideration.</li>
+	<li>The rest of the columns contain the state/union territory name.</li>
+</ol>
+<br><br>
+
+<h4><li><font color=maroon>Rt Karnataka weekly data</font></h4>
+<p align="left"><a href="./csv/karlastweekR.csv">This csv file</a> contains information about weekly reproduction numbers across all districts in Karnataka. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The date under consideration.</li>
+	<li>The rest of the columns contain the district names.</li>
+</ol>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="TRDATA"></a>
+<h2><font color=maroon>Trace History Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka Trace History</font></li></h4>
+<p>
+<a href="./data/KAtrace.csv">In this csv file</a>, one row corresponds to one case of coronavirus in Karnataka. For each patient [case], the columns contain the following information:
+</p>
+<ol type=A>
+<li>Case number - As recognized by the Karnataka Government
+<li>Date - When they tested positive </li>
+<li>Age </li>
+<li>Sex </li>
+<li>City - Contains both the city where a patient is held and the city of their residence.</li>
+<li>State- Karnataka for all cases </li>
+<li>Cluster - Divided according to the clusters we have in the Karnataka trace history.
+
+<a type="button" class="btn btn-link"  data-toggle="collapse" data-target="#TO3"><font color=blue><h5>Further information on the clusters</h5></font></a></li>
+<div class="collapse" id="TO3">
+<ul>
+        <li>From USA : The patients who had travel history to USA and their contacts. </li>
+        <li>From United Kingdom : The patients with travel history to UK and their contacts.</li>
+        <li>From the rest of Europe : The patients with travel history to Europe but not to UK and their contacts.</li>
+        <li>From Middle East : The patients with travel to the Middle East and their contacts.</li>
+        <li>Unknown : The patients who have been listed in the Media Bulletins as "Contact Under Tracing"and their contacts.</li>
+        <li>From South America : The patients with travel history to South America and their contacts.</li>
+        <li>Pharmaceutical Company in Nanjangud : This patients who were workers of a Pharmaceutical Company in Nanjangud, Mysore along with their contacts.</li>
+        <li>From the Southern States : The patients with travel to Kerala, Tamil Nadu, Andhra Pradesh or Telengana and their contacts. This doesn't contain patients with interdistrict travel in Karnataka</li>
+        <li>Others : The patients who had interdistrict travel in Karnataka, travel to countries / states, healthcare workers and policemen on COVID-19 duty and their contacts. The numbers for these reasons were too few to form separate clusters.</li>
+        <li>TJ Congregation from 13th to 18th March in Delhi : The patients with travel history to the TJ Congregation in Delhi and their contacts.</li>
+        <li>Severe Acute Respiratory Infection: This includes patients with a history of Severe Acute Respiratory Infection whose symptoms have resurfaced and their contacts.</li>
+        <li>Influenza like illness : The patients showing influenza like symptoms and their contacts.</li>
+        <li>From Gujarat : The patients with travel history to Gujarat and their contacts.</li>
+        <li>Containment Zones : The patients who were contacts of Conatinment Zones and their contacts. Some patients have the Ward represented in the Reason column.</li>
+        <li>From Maharashtra : The patients with travel history to Maharashtra and their contacts.</li>
+        <li>From Rajasthan : The patients with travel history to Rajasthan and their contacts.</li>
+        <li>27-June Trace History Absent : On this day, no trace history information was given for the patients. Patients who were contacts of these individuals are also in this cluster.</li>
+        <li>28-June Trace History Absent : On this day, no trace history information was given for the patients. Patients who were contacts of these individuals are also in this cluster.</li>
+        <li>29-June Trace History Absent : On this day, no trace history information was given for the patients. Patients who were contacts of these individuals are also in this cluster.</li>
+        <li>Domestic Travel History Absent : The patients for whom the information was given as "Travel History-Domestic" </li>
+        <li>International Travel History Absent : The patients for whom the information was given as "Travel History-International" </li>
+        <li>Second Generation Contact Absent : The patients whose information was given as "Contact" without giving the patient ID of the individual they were a contact of.</li>
+
+</ul>
+</div>
+
+
+
+</li>
+<li>Reason - This mentions the patients place of travel or their relationship with the person they contracted the disease from. </li>
+<li>Nationality - India for all the cases</li>
+<li>Status as of today - in terms of Cured/Deceased. If nothing is mentioned, they are currently hospitalized. </li>
+<li>In case the patient they contracted the virus from is known, this column mentions the case number of the "parent." </li>
+<li>Indicator of secondary infections caused - The entries of this column are either 0 or 1 and indicate if the patient has caused any [known] secondary infections.</li>
+<li>Relationship - Their relationship with any other infected individual, listed as the type of relationship along with the case number of the other infected individual.
+The different classifications are:
+        <ul>
+        <li> C represents close contact. </li>
+        <li> S represents spouse. </li>
+        <li> T represents travel companion. </li>
+        <li> F represents family. </li>
+        </ul>
+</li></ol><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="TESTDATA"></a> 
+<h2><font color=maroon>Testing Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka Testing information</font></li></h4>
+<a href="./data/karnatakadatabriefstesting.csv">This csv file</a> contains information on the testing and screening done by the Karnataka government.
+The rows represent dates from 12th March, 2020 onwards. The columns have data on:
+<ol type=A>
+<li> Samples tested on that day
+<li> Among those samples returned that day, those that tested negative
+<li> Among those samples returned that day, those that tested positive
+<li> The count of people in observation
+<li> The number of passengers screened at the KIA airport [when it was available]
+<li> The number of passengers screened at the Mangalore airport [till it was available]
+<li> The number of patients screened at the seaports in Mangalore and Karwar [till it was available]</li>
+</ol><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="HOSPDATA"></a> 
+<h2><font color=maroon>Hospitalization Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka Hospitalization information</font></li></h4>
+<p> <a href="./data/KAhospital.csv">This csv file</a> contains information on the patients regarding their hospitalization.
+Each row corresponds to a patient as indexed by the Media Bulletins and the columns correspond to different days, starting from
+9th March, 2020. The entries in the cells are either H [implying they were hospitalized on that day], C [Cured], D [Deceased], ICU [required an ICU],
+ICUO [ICU and required Oxygen] or ICUV [ICU and required Ventilator support]. </p>
+<br>
+
+<h4><li><font color=maroon>Karnataka Hospitalization information - Consolidated</font></li></h4>
+<p>The media bulletins on 9th May, 10th May and 11th May, and from 15th May onward, did not have patient-wise data of patients in ICU and the patients discharged. However, the consolidated counts had been given. Hence we have created a <a href="./data/KAhospital_consolidat\
+ed.csv">new csv file</a> containing the total counts of Active, Recovered, Discharged and ICU patients. This file has the following information:</p>
+<ol type=A>
+<li>Date- From 9th March onward. </li>
+<li>Active cases- The number of patients that are hospitalized on the given date, but do not require ICU, ICUV or ICUO.</li>
+<li>Discharged cases- The total number of patients discharged till the corresponding date.</li>
+<li>Deceased patients- The total number of deceased patients till the corresponding date. </li>
+<li>ICU Requirement- The count of patients in ICU, ICUV or ICUO on the given date. ICU stands for Intensive Care Unit, ICUV stands for ICU and ventilator and ICUO stands for ICU and oxygen. </li></ol> <br>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="VACDATA"></a> 
+<h2><font color=maroon>Vaccination Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Vaccination data for Karnataka</font></h4>
+<p align="left"><a href="./csv/finalData.csv">This csv file</a> contains information about weekly dose 1 and dose 2 vaccination across all districts in Karnataka. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The district name.</li>
+	<li>The dose 1 percentage with respect to adult population.</li>
+	<li>The dose 2 percentage with respect to adult population.</li>
+	<li>The number of people who have taken 1st dose of vaccination.</li>
+	<li>The number of people who have taken 2nd dose of vaccination.</li>
+	<li>2020 projected population.</li>
+	<li>2011 census (above 18) population.</li>
+	<li>Factor used to obtain the projected population from the census population.</li>
+</ol>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="DISTINFODATA"></a> 
+<h2><font color=maroon>District wise Data</font></h2>
+<br><br>
+
+<h4><li><font color=maroon>Weekly predictions data for Karnataka</font></h4>
+<p align="left"><a href="./csv/Prediction.csv">This csv file</a> contains information about the forth coming week's predictions of expected daily cases and cumulative cases across all districts in Karnataka. The columns have data on:</p>
+<ol type="A" align="left">
+	<li>The district name.</li>
+	<li>The next set of the columns contain the predicted cases across the next 7 days.</li>
+	<li>The last set of the columns contain the one-standard deviation values for each day in the coming week, corresponding to the particular district.</li>
+</ol>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka District wise data</font></h4>
+<p align="left"><a href="./csv/dist.zip">This zipped file</a> is a collection of files for each district in Karnataka, where each file contains all the information of all the people who died in that particular district. The columns have data on:</p>
+<ol type="A" align="left">
+<li>The district name.</li>
+<li>The State P Code for that patient.</li>
+<li>The age of the patient, given in years.</li>
+<li>The sex of the patient.</li>
+<li>The description of the patient including why they were tested and which cluster they fall in.</li>
+<li>The symptoms of the patients.</li>
+<li>Any co-morbidities that the patients might have had.</li>
+<li>The date at which they were admitted to the hospital. For the patients who were brought dead or passed away at their residence, that has been mentioned.</li>
+<li>The date on which they passed away.</li>
+<li>The date of the media bulletin they appeared in.</li>
+</ol>
+
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+
+<a name="DECDATA"></a> 
+<h2><font color=maroon>Deceased Data</font></h2>
+<br><br>
+
+<p> The data files under this section have been categorized as given below:</p>
+<div class="row">
+  <div class="col-sm-6">
+	<ul>
+	<li><a href="#ODD" > Overall deceased Data</a></li>
+	<li><a href="#WWD" > Wave wise deceased Data</a></li>
+	<li><a href="#AGD" > Age and Gender Data</a></li>
+	<li><a href="#DDD" > Days to decease Data</a></li>
+	<li><a href="#DRD" > Days to report Data</a></li>
+	
+	</ul>
+  </div>
+  <div class="col-sm-6">
+	<ul>
+
+	<li><a href="#HRD" >Hospitalization ratio data</a></li>
+	<li><a href="#PDD" >Place of death Data</a></li>
+	<li><a href="#SID" >Source of Illness Clusters Data</a></li>
+	<li><a href="#SYD" >Symptoms Clusters Data</a></li>
+	<li><a href="#CMD" >Comorbidities Clusters Data</a></li>
+	</ul>
+  </div>
+</div>
+<br><br><br>
+
+
+<a name="ODD"></a> 
+<h3><font color=maroon>Overall Deceased Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka Deceased Information</font></li></h4>
+<a href="./data/deceasedka.csv">This csv file</a> contains information on each patient who has passed away due to COVID-19 in Karnataka. The columns have data on:
+<ol type=A>
+<li> The district that the patient belongs to.
+<li> The State P Code for that patient.
+<li> The age of the patient, given in years.
+<li> The sex of the patient.
+<li> The description of the patient including why they were tested and which cluster they fall in.
+<li> The symptoms of the patients.
+<li> Any co-morbidities that the patients might have had.
+<li> The date at which they were admitted to the hospital. For the patients who were brought dead or passed away at their residence, that has been mentioned.
+<li> The date on which they passed away.
+<li> The date of the media bulletin they appeared in.
+</ol><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="WWD"></a> 
+<h3><font color=maroon>Wave wise deceased Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka deceased data with wave</font></h4>
+<p align="left"><a href="./csv/DataWithWaveCategory.csv">This csv file</a> contains information about the people who had passed away due to Covid 19 in Karnataka along with the wave phase during which they passed and this categorization is done based on the media bulletin dates. Here, wave 1 is considered till the end of October 2020, middle wave is from November 2020 till the end of January 2021, and wave 2 is from February 2021 till the end of July 2021. Ignoring the first column with serial number, the columns have data on:</p>
+<ol type="A" align="left">
+<li>The district that the patient belongs to.</li>
+<li>The State P Code for that patient.</li>
+<li>The age of the patient, given in years.</li>
+<li>The sex of the patient.</li>
+<li>The description of the patient including why they were tested and which cluster they fall in.</li>
+<li>The symptoms of the patients.</li>
+<li>Any co-morbidities that the patients might have had.</li>
+<li>The date at which they were admitted to the hospital.</li>
+<li>The date on which they passed away.</li>
+<li>The date of the media bulletin they appeared in.</li>
+<li>Information regarding the patients who were brought dead or passed away at their residence, if specified, is mentioned here.</li>
+<li>The wave phase of the pandemic they belong to - Wave 1 / Middle wave / Wave 2</li>
+</ol>
+
+<br><br>
+
+<h4><li><font color=maroon>Karnataka wave wise death counts data</font></h4>
+<p align="left"><a href="./csv/DeathCountAcrossWavesDistrictWise.csv.csv">This csv file</a> has information on the number of deceased people across districts during wave 1, middle wave and wave 2. Here, wave 1 is considered till the end of October 2020, middle wave is from November 2020 till the end of January 2021, and wave 2 is from February 2021 till the end of July 2021. The columns have data on:</p>
+
+<ol type="A" align="left">
+<li>The district under consideration.</li>
+<li>The number of people who died during wave 1 in that district.</li>
+<li>The number of people who died during the middle wave in that district.</li>
+<li>The number of people who died during wave 2 in that district.</li>
+</ol>
+
+<br><br>
+
+<h4><li><font color=maroon>Karnataka district wise statistics for each wave - data</font></h4>
+<p align="left"><a href="./csv/WaveWiseStatisticsAcrossDistricts.csv">This csv file</a> contains information about the various statistics calculated for each wave across every district. Here, wave 1 is considered till the end of October 2020, middle wave is from November 2020 till the end of January 2021, and wave 2 is from February 2021 till the end of July 2021. The columns have data like:</p>
+<ol type="A" align="left">
+<li>The district.</li>
+<li>The number of people (population) who died in the district during wave 1.</li>
+<li>The number of people (population) who died in the district during the middle wave.</li>
+<li>The number of people (population) who died in the district during wave 2.</li>
+<li>The t-value obtained for the population of the deceased during wave 1 in that district at 95% confidence interval.</li>
+<li>The t-value obtained for the population of the deceased during the middle wave in that district at 95% confidence interval.</li>
+<li>The t-value obtained for the population of the deceased during wave 2 in that district at 95% confidence interval.</li>
+<li>The mean age of the deceased in the district during wave 1.</li>
+<li>The variance in the age of the deceased in the district during wave 1.</li>
+<li>The standard deviation in the age of the deceased in the district during wave 1.</li>
+<li>The mean age of the deceased in the district during the middle wave.</li>
+<li>The variance in the age of the deceased in the district during the middle wave.</li>
+<li>The standard deviation in the age of the deceased in the district during the middle wave.</li>
+<li>The mean age of the deceased in the district during wave 2.</li>
+<li>The variance in the age of the deceased in the district during wave 2.</li>
+<li>The standard deviation in the age of the deceased in the district during wave 2.</li>
+</ol>
+
+<br><br>
+
+<h4><li><font color=maroon>Days to Decease (Wave-1 vs Wave-2) data</font></h4>
+	  <p align="left"><a href="./csv/conf_w_days_ord.csv">This is the csv file.</a> From the media bulletin, we take difference of the admission date and the date of decease for each deceased patient who was hospitalised and call the difference as days to decease. We then take the death counts across district wave-wise. The columns have data on:</p>
+	  <ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The total deceased patient in wave 1. </li>
+	    <li>The total deceased patient in wave 2. </li>
+	    <li>The t-value for total death in wave 1. </li>
+	    <li>The t-value for total death in wave 2. </li>
+	    <li>The mean of days to decease in wave 1. </li>
+	    <li>The mean of days to decease in wave 2. </li>
+	    <li>The variance of days to decease in wave 1. </li>
+	    <li>The variance of days to decease in wave 2. </li>
+	    <li>The standard deviation of days to decease in wave 1. </li>
+	    <li>The standard deviation of days to decease in wave 2. </li>
+	  </ol>
+
+	  <br><br>
+
+<h4><li><font color=maroon>Days to Report (Wave-1 vs Wave-2) data</font></h4>
+	  <p align="left"> <a href="./csv/conf_w_rep_ord.csv">This is the csv file.</a> From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report. We then take the death counts across district wave-wise. The columns have data on:</p>
+	  <ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The total deceased patient in wave 1. </li>
+	    <li>The total deceased patient in wave 2. </li>
+	    <li>The t-value for total death in wave 1. </li>
+	    <li>The t-value for total death in wave 2. </li>
+	    <li>The mean of days to report in wave 1. </li>
+	    <li>The mean of days to report in wave 2. </li>
+	    <li>The variance of days to report in wave 1. </li>
+	    <li>The variance of days to report in wave 2. </li>
+	    <li>The standard deviation of days to report in wave 1. </li>
+	    <li>The standard deviation of days to report in wave 2. </li>
+	  </ol>
+
+	<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="AGD"></a> 
+<h3><font color=maroon>Age and Gender Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Karnataka Age-Wave data</font></h4>
+<p align="left"><a href="./csv/AgeBinDataWaveWise.csv">This csv file</a> contains the age wise counts of the people who had passed away due to Covid 19 in Karnataka during wave 1 phase of the pandemic which lasted till the end of October 2020, middle wave of the pandemic which lasted from November 2020 till the end of January 2021 and wave 2 phase of the pandemic which was from February 2021 till the end of July 2021. The columns have data on: </p>
+<ol type="A" align="left">
+<li>The age categories like : 0-10, 10-20, 20-30, 30-40, 40-50, 50-60, 60-70, 70-80, 80-90, 90-100, 100-110, 110-120.</li>
+<li>The number of people of the corresponding age category who had passed away during wave 1.</li>
+<li>The ratio of the number of males to the number of females who died during wave 1.</li>
+<li>The number of people of the corresponding age category who had passed away during the middle wave.</li>
+<li>The ratio of the number of males to the number of females who died during the middle wave.</li>
+<li>The number of people of the corresponding age category who had passed away during wave 2.</li>
+<li>The ratio of the number of males to the number of females who died during wave 2.</li>
+</ol>
+
+<br><br>
+
+<h4><li><font color=maroon>Karnataka age wise monthly data</font></h4>
+<p align="left"><a href="./csv/DataWithAgeWiseCategory.csv">This csv file</a> has information on every month's death counts starting from April 2020 till present, for each of the three age gourps - 0-45 yrs, 45-60 yrs and above 60 yrs. The columns have data on:</p>
+
+<ol type="A" align="left">
+<li>The month under consideration.</li>
+<li>The number of people who died during that month in the corresponding age group.</li>
+<li>The percentage of people who died during that month in the corresponding age group.</li>
+<li>The category of age, which could be one amongst the three groups mentioned earlier.</li>
+</ol>
+
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="DDD"></a> 
+<h3><font color=maroon>Days to Decease Data</font></h3>
+<br><br>
+
+	<h4><li><font color=maroon>Days to decease data</font></h4>
+	<p align="left"><a href="./csv/Days_to_Deceasecount.csv">This is the csv file.</a> From the media bulletin, we took the difference between the date of decease and admission date and call the difference as days to decease.The csv file conatains:</p>
+	    <ol type="A" align="left">
+	    <li>The patient id.</li>
+	    <li>The name of the district.</li>
+	    <li>The date of admission.</li>
+	    <li>The date of decease.</li>
+	    <li>The days to decease being the difference between the dates mentioned in third and second column.</li>
+	    </ol>
+	  
+	  <br><br>
+	  
+	<h4><li><font color=maroon>Age-Gender wise days to decease data</font></h4>
+	  <p align="left"><a href="./csv/age_ag_days_new.csv">This is the csv file.</a> From the media bulletin, we took the difference between the date of decease and admission date and call the difference as days to decease.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to decease.The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The age-gender category.</li>
+	    <li>Total deceased patients.</li>
+	    <li>The t-value of total deceased patients.</li>
+	    <li>The mean days to decease.</li>
+	    <li>The variance of days to decease.</li>
+	    <li>The standard deviation of days to decease.</li>
+	    <li>The gender.</li>
+	  </ol>
+	<br><br>
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="DDD"></a> 
+<h3><font color=maroon>Days to Report Data</font></h3>
+<br><br>	
+
+	  <h4><li><font color=maroon>Days to report data</font></h4>
+	  <p align="left"><a href="./csv/Days_to_reportcount.csv">This is the csv file.</a> From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The patient id.</li>
+	    <li>The name of the district.</li>
+	    <li>The date of decease.</li>
+	    <li>The date of report.</li>
+	    <li>The days to report being the difference between the dates mentioned in third and second column.</li>
+	</ol>
+	<br><br>
+
+	<h4><li><font color=maroon>Age-Gender wise days to report data</font></h4>
+	  <p align="left"><a href="./csv/age_ag_rep_new.csv">This is the csv file.</a> From the media bulletin published by the state government, we took the difference between the date of decease and the media bulletin date and call the difference as the days to report.We then separated the deceased on the basis of age and gender and calculated the mean, variance, and standard deviation for days to report.The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The age-gender category.</li>
+	    <li>Total deceased patients.</li>
+	    <li>The t-value of total deceased patients.</li>
+	    <li>The mean days to report.</li>
+	    <li>The variance of days to report.</li>
+	    <li>The standard deviation of days to report.</li>
+	    <li>The gender.</li>
+	  </ol>
+
+	<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="HRD"></a> 
+<h3><font color=maroon>Hospitalization Ratio Data</font></h3>
+<br><br>
+
+	<h4><li><font color=maroon>Hospitalisation ratio data</font></h4>
+	  <p align="left"><a href="./csv/req_dist_scat_ord.csv">This is the csv file.</a> As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead, or died at residence. In the data file, for each individual district, we provide the count of total death, total deceased patients who were hospitalised, and deceased patients who were not hospitalised, that is, we added the deceased who were either brought dead or died at residence. Then we also calculate the ratio of hospitalisation and the ratio of unhospitalised patients and the values are listed in individual column of the csv file attached.The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The total death count in that district.</li>
+	    <li>The number of people who were hospitalized.</li>
+	    <li>The number of people who were not hospitalized.</li>
+	    <li>The percentage of hospitalized patients.</li>
+	    <li>The percentage of patients who were not hospitalized.</li>
+	  </ol>
+
+	<br><br>
+
+	<h4><li><font color=maroon>Wave-wise hospitalisation ratio across districts data</font></h4>
+	  <p align="left"><a href="./csv/wave_ratio.csv">This is the csv file.</a> As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead,or died at residence. In the data file, for each individual district, we first categorise the deaths into waves, and we provide the count of total death, total deceased patients who were hospitalised, and deceased patients who were not hospitalised, that is, we added the deceased who were either brought dead or died at residence.Then we also calculate the ratio of hospitalisation and the ratio of unhospitalised patients and the values are listed in individual column of the csv file attached.The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The total deceased patients in wave 1.</li>
+	    <li>The total deceased patients hospitalised in wave 1.</li>
+	    <li>The hospitalisation ratio in wave 1.</li>
+	    <li>The total deceased patients in wave 2.</li>
+	    <li>The total deceased patients hospitalised in wave 2.</li>
+	    <li>The hospitalisation ratio in wave 2.</li>
+	  </ol>
+
+	<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="PDD"></a> 
+<h3><font color=maroon>Place of Death Data</font></h3>
+<br><br>
+
+	  <h4><li><font color=maroon>Place of death data</font></h4>
+	  <p align="left"><a href="./csv/req_dist_bar_ord.csv">This is the csv file.</a> As per the media bulletin published by the state government, each individual death is reported either as hospitalised, brought dead, or died at residence. The column has data on:</p>
+	  <ol type="A" align="left">
+	    <li>The name of the district.</li>
+	    <li>The total death count in that district.</li>
+	    <li>The total deceased patients who were hospitalised. </li>
+	    <li>The total deceased patients who were brought dead. </li>
+	    <li>The total deceased patients who died at residence. </li>
+	    <li>The percentage of the deceased patients hospitalised. </li>
+	    <li>The percentage of the deceased patients brought dead. </li>
+	    <li>The percentage of the deceased patients who died at residence. </li>
+	  </ol>
+
+	<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+<a name="SID"></a> 
+<h3><font color=maroon>Source of Illness Clusters Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Description of Sources of Illness Classification Details</font></h4>
+<p align="left"><a href="./csv/Description_vs_Districts.csv">This csv file</a> contains information about the 7 different clusters of description of sources of illness of deceased patients and the percentage of the number of deceased patients in each cluster of description of source of illness for each district in Karnataka. The 7 columns represent the following 7 clusters of description and the headings in each column are the name of the clusters of description.</p>
+<ol type="A" align="left">
+<li>Influenza Like Illness</li>
+<li>Severe Acute Respiratory Illness</li>
+<li>Contact of Patient or Containment Zone</li>
+<li>Inter District Travel in Karnataka</li>
+<li>Domestic Travel outside of Karnataka</li>
+<li>International Travel</li>
+<li>Unknown (Contact under tracing or ongoing investigation)</li>
+</ol>
+<p align="left">All the rows below the headings (except the last row) contain the percentage of the number of deceased patients in each of the 7 clusters of description of source of illness for each district. The last row represents the percentage of deceased patients in each of the 7 clusters of description in all of Karnataka. </p>
+
+<br><br>
+
+<h4><li><font color=maroon>Description of Source of Illness Data</font></h4>
+<p align="left">In the media bulletin for each deceased patient the source of illness is identified in the Description column. We have grouped the sources into 4 travel related clusters, SARI, ILI and Unknown. The specific clustering is provided in the csv file.</p>
+<a href="./csv/DescriptionClassification.csv">Cluster of description of source of illness</a> 
+<p align="left">This csv file contains information about the clusters of sources of illness based on the description associated with each patient in the Description column of the Media Bulletin. In the CSV file, the 7 columns represent the 7 clusters of description and the heading of each column is the name of that cluster of description of the source of illness. The rows below the headings are the description of the sources of illness classified under the corresponding cluster of description of the sources of illness.</p>
+
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="SYD"></a> 
+<h3><font color=maroon>Symptoms Clusters Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Symptoms Cluster Classification Details</font></h4>
+<p align="left">In the media bulletin in the Symptoms column the symptoms observed in each deceased patient is listed. To see the variation in symptoms of deceased patients across different districts, we first grouped symptoms into 10 clusters. The specific clustering is provided in the following csv file.</p>
+<a href="./csv/SymptomClassification.csv">Clusters of symptoms</a>
+<p align="left">This CSV file contains information about the different symptom clusters and the different sets of symptoms that are classified under each symptom cluster. In the CSV file, the 10 columns represent the 10 symptom clusters and the heading of each column is the name of that symptom cluster. The rows below the headings represent the different symptoms classified under the corresponding symptom clusters.</p>
+
+<br><br>
+
+<h4><li><font color=maroon>Symptoms Cluster Data</font></h4>
+<p align="left"><a href="./csv/Symptoms_vs_Districts.csv">This csv file</a> contains information about the 10 different clusters of symptoms of deceased patients and the percentage of the number of deceased patients in each symptom cluster for each district in Karnataka. The 10 columns represent the following 10 symptom clusters and the headings in each column are the name of the symptom clusters.</p>
+<ol type="A" align="left">
+<li>Asymptomatic</li>
+<li>Abdominal Pain and Released Symptoms</li>
+<li>Chest pain and Pneumonia</li>
+<li>Body Pain and Fatigue</li>
+<li>Breathlessness and Respiratory Failure</li>
+<li>Fever, Cold or Cough without Breathlessness</li>
+<li>Fever, Cold or Cough with Breathlessness</li>
+<li>Anorexia and Decreased Appetite</li>
+<li>Acute Myocardial Infarction</li>
+<li>Altered Sensorium</li>
+</ol>
+<p align="left">All the rows below the headings (except the last row) contain the percentage of the number of deceased patients in each of the 10 symptom clusters for each district. The last row represents the percentage of deceased patients in each of the 10 symptom clusters for all of Karnataka. </p>
+
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="CMD"></a> 
+<h3><font color=maroon>Comorbidities Clusters Data</font></h3>
+<br><br>
+
+<h4><li><font color=maroon>Comorbidities Clusters Classification Details</font></h4>
+
+<p align="left">In the media bulletin in the Comorbidities column the Comoorbidities observed for each deceased patient is listed. To see the variation in comorbidities of deceased patients across different districts, we first grouped the comorbidities into 15 clusters. The specific clustering is provided in the following csv file.</p>
+<a href="./csv/ComorbiditiesClassification.csv">Clusters of Comorbidities</a>
+<p align="left">This CSV file contains information about the different clusters of comorbidities and the different sets of comorbidities that are classified under each comorbidity cluster. In the CSV file, the 15 columns represent the 15 comorbidities clusters and the heading of each column is the name of that comorbidity cluster. The rows below the headings are the comorbidities classified under the corresponding clusters of comorbidities.</p>
+
+<br><br>
+
+<h4><li><font color=maroon>Clusters of Comorbidities Data</font></h4>
+
+<p align="left"><a href="./csv/Comorbidities_vs_Districts.csv">This csv file</a> contains information about the 10 different clusters of comorbidities of deceased patients and the percentage of the number of deceased patients in each comorbidities cluster for each district in Karnataka. The 15 columns represent the following 15 comorbidities clusters and the headings in each column are the name of the comorbidities clusters.</p>
+<ol type="A" align="left">
+<li>Respiratory Diseases</li>
+<li>Kidney Related Diseases</li>
+<li>Liver Related Diseases</li>
+<li>Heart and Blood Pressure Related Diseases</li>
+<li>Epilepsy</li>
+<li>Diabetes and Obesity</li>
+<li>Hormone and Gland Diseases</li>
+<li>Anaemia and Myasthenia</li>
+<li>Cancer</li>
+<li>Sepsis</li>
+<li>Pulmonary and Lung Diseases</li>
+<li>Brain Related Diseases</li>
+<li>Skin Diseases</li>
+<li>Pregnancy Related Illness</li>
+<li>Infectious Disease</li>
+</ol>
+
+<p align="left">All the rows below the headings (except the last row) contain the percentage of the number of deceased patients in each of the 15 comorbidities clusters for each district. The last row represents the percentage of deceased patients in each of the 15 comorbidities clusters in all of Karnataka. </p>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a> , <a href="#DECDATA">[Back to deceased data section]</a>
+<br><hr><br>
+
+
+<a name="SRDATA"></a> 
+<h3><font color=maroon>Summarised Data</font></h3>
+<br><br>
+
+<p align="left"><a href="./csv/Testingcode.csv">This csv file</a> contains codes for the summary data. The summary data contains information about: </p>
+<ul>
+	<li>Code KA 1-7, 12-20, 26-27 : persons (observation, quarantine, screening, isolation)</li>
+	<li>Code KA 8-11 : samples test</li>
+	<li>Code KA 21-25, 28-36 : testing</li>
+	<li>Code KA 37, 66-71 : variants</li>
+	<li>Code KA 38-65 : consolidated vaccination</li>
+</ul>
+
+
+<p align="left"><a href="./csv/Testingcode.xlsx">This xlsx file</a> contains data for every code mentioned earlier along with the dates from the media bulletin whenever they appear. The missing data for a code for a particular date(s) implies that the media bulletin on those date(s) did not contain the corresponding information.</p>
+<br><br>
+
+<a href="#TOPPG">[Back to top]</a>
+<br><hr><br>
+
+</div>
+</div>
+
+  
+<footer class="container-fluid text-left">
+<div class="row">
+  <div class="col-sm-12">
+    <hr><br>
+<!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karn urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+<!-- <br><br>  -->
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 

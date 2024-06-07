@@ -1,0 +1,899 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+35,"Bengaluru Rural","786",60,"Male",NA,"Pneumonia & Respiratory distress with hypotension","DM",NA,NA,2020-05-14,NA
+42,"Bengaluru Rural","1686",55,"Female","SARI",NA,NA,2020-05-19,2020-05-24,2020-05-25,NA
+166,"Bengaluru Rural","10403",60,"Female","SARI","Fever & Cough & Breathlessness","_",2020-06-20,2020-06-20,2020-06-25,NA
+167,"Bengaluru Rural","10410",38,"Male","SARI","Fever & Cough & Breathlessness","_",2020-06-18,2020-06-21,2020-06-25,NA
+288,"Bengaluru Rural","18220",75,"Male","SARI","Cough & Cold & Fever & Breathlessness","ASTHMA",2020-07-01,2020-07-02,2020-07-03,NA
+291,"Bengaluru Rural","10402",80,"Female","SARI","Fever & Fatigue & Breathlessness","DM, HTN",2020-06-20,2020-06-23,2020-07-04,NA
+458,"Bengaluru Rural","26950",58,"Female","SARI","Breathlessness","DM",NA,2020-07-03,2020-07-08,"Died at her residence"
+1667,"Bengaluru Rural","76223",40,"Male","Contact under tracing","Fever","ASTHAMA",NA,2020-07-20,2020-07-24,"Brought dead"
+1673,"Bengaluru Rural","78525",60,"Female","SARI","Fever","DM, HTN",2020-07-17,2020-07-22,2020-07-24,NA
+1877,"Bengaluru Rural","52600",36,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-14,2020-07-26,2020-07-27,NA
+3600,"Bengaluru Rural","57904",58,"Male","SARI","Breathlessness","IHD",NA,2020-07-24,2020-08-14,"Died at his residence"
+3602,"Bengaluru Rural","68588",74,"Female","SARI","Breathlessness","-",2020-07-19,2020-07-19,2020-08-14,NA
+3611,"Bengaluru Rural","99470",46,"Male","SARI","Breathlessness","-",2020-07-23,2020-07-24,2020-08-14,NA
+3617,"Bengaluru Rural","100692",65,"Female","SARI","Breathlessness","-",2020-08-04,2020-08-11,2020-08-14,NA
+3677,"Bengaluru Rural","190181",78,"Female","SARI","Breathlessness","-",2020-08-06,2020-08-10,2020-08-14,NA
+3718,"Bengaluru Rural","57914",58,"Male","SARI","Fever, Cough","-",2020-07-17,2020-07-18,2020-08-15,NA
+3719,"Bengaluru Rural","57923",60,"Male","SARI","Breathlessness","IHD",2020-07-26,2020-07-28,2020-08-15,NA
+4106,"Bengaluru Rural","167377",84,"Male","SARI","Breathlessness","COPD",2020-08-05,2020-08-05,2020-08-18,NA
+4141,"Bengaluru Rural","207303",52,"Male","SARI","Breathlessness","DM",2020-08-12,2020-08-14,2020-08-18,NA
+4143,"Bengaluru Rural","209973",67,"Female","SARI","Breathlessness","CKD",2020-08-13,2020-08-14,2020-08-18,NA
+4276,"Bengaluru Rural","230502",53,"Male","SARI","Fever","-",2020-08-17,2020-08-17,2020-08-19,NA
+4814,"Bengaluru Rural","171358",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-06,2020-08-12,2020-08-25,NA
+4997,"Bengaluru Rural","244257",40,"Male","SARI","Cough, Breathlessness","-",2020-08-18,2020-08-25,2020-08-26,NA
+5079,"Bengaluru Rural","298062",75,"Male","SARI","Cough, Breathlessness","-",2020-08-23,2020-08-24,2020-08-26,NA
+5140,"Bengaluru Rural","218853",55,"Male","SARI","Breathlessness","DM, HTN",2020-08-14,2020-08-24,2020-08-27,NA
+5147,"Bengaluru Rural","230999",63,"Male","SARI","Cough, Breathlessness","CKD",2020-08-18,2020-08-22,2020-08-27,NA
+5169,"Bengaluru Rural","266896",70,"Male","SARI","Breathlessness","-",2020-08-21,2020-08-22,2020-08-27,NA
+5549,"Bengaluru Rural","309376",72,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-25,2020-08-29,2020-08-30,NA
+5550,"Bengaluru Rural","310895",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-29,2020-08-30,NA
+5607,"Bengaluru Rural","269588",55,"Male","SARI","Breathlessness","DM",2020-08-14,2020-08-24,2020-08-31,NA
+5782,"Bengaluru Rural","313701",66,"Male","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-30,2020-09-01,NA
+5793,"Bengaluru Rural","331495",60,"Male","SARI","Breathlessness","DM, HTN",2020-08-28,2020-08-31,2020-09-01,NA
+5956,"Bengaluru Rural","242782",45,"Female","SARI","Cough, Breathlessness","DM",2020-07-17,2020-08-17,2020-09-03,NA
+5979,"Bengaluru Rural","297166",59,"Male","SARI","Breathlessness","DM",2020-08-24,2020-08-29,2020-09-03,NA
+5992,"Bengaluru Rural","313690",33,"Male","SARI","Cough, Breathlessness","-",2020-08-26,2020-09-03,2020-09-03,NA
+6000,"Bengaluru Rural","322685",67,"Female","SARI","Cough, Breathlessness","DM",2020-08-29,2020-09-03,2020-09-03,NA
+6004,"Bengaluru Rural","330059",65,"Male","SARI","Cough, Breathlessness","DM",2020-08-28,2020-08-28,2020-09-03,NA
+6008,"Bengaluru Rural","333753",70,"Female","SARI","Breathlessness","DM, HTN",2020-08-28,2020-09-01,2020-09-03,NA
+6012,"Bengaluru Rural","337962",50,"Female","SARI","Breathlessness","DM, COPD",NA,2020-08-29,2020-09-03,"Brought dead"
+6077,"Bengaluru Rural","290969",42,"Female","SARI","Cough, Breathlessness","-",2020-08-22,2020-08-27,2020-09-04,NA
+6079,"Bengaluru Rural","292561",74,"Male","SARI","Fever, Breathlessness","Obesity",2020-08-24,2020-08-25,2020-09-04,NA
+6092,"Bengaluru Rural","313697",75,"Male","SARI","Fever, Breathlessness","DM",2020-08-31,2020-09-03,2020-09-04,NA
+6123,"Bengaluru Rural","351413",62,"Female","SARI","Fever, Breathlessness","DM",2020-08-31,2020-09-03,2020-09-04,NA
+6187,"Bengaluru Rural","299354",85,"Female","SARI","Breathlessness","DM",2020-08-17,2020-08-24,2020-09-05,NA
+6264,"Bengaluru Rural","374456",25,"Male","SARI","Breathlessness","DM, HTN, CVA",2020-08-24,2020-09-04,2020-09-05,NA
+6267,"Bengaluru Rural","375471",60,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-09-01,2020-09-02,2020-09-05,NA
+6477,"Bengaluru Rural","340506",55,"Female","SARI","Breathlessness","DM",2020-08-29,2020-09-06,2020-09-07,NA
+6560,"Bengaluru Rural","307733",60,"Female","SARI","Breathlessness","CLD",2020-08-25,2020-09-03,2020-09-08,NA
+6707,"Bengaluru Rural","332500",64,"Male","SARI","Breathlessness","DM",2020-09-04,2020-09-06,2020-09-09,NA
+6771,"Bengaluru Rural","400017",60,"Female","SARI","Breathlessness","DM",2020-09-04,2020-09-05,2020-09-09,NA
+6959,"Bengaluru Rural","337963",60,"Male","SARI","Breathlessness","DM, HTN",2020-08-29,2020-09-10,2020-09-11,NA
+6967,"Bengaluru Rural","351052",66,"Male","SARI","Breathlessness","DM",2020-08-31,2020-09-08,2020-09-11,NA
+6974,"Bengaluru Rural","356739",70,"Female","SARI","Breathlessness","-",2020-08-27,2020-09-01,2020-09-11,NA
+6979,"Bengaluru Rural","357727",53,"Male","SARI","Breathlessness","-",2020-09-01,2020-09-07,2020-09-11,NA
+7128,"Bengaluru Rural","410640",50,"Male","SARI","Breathlessness, Cough","-",2020-09-08,2020-09-11,2020-09-12,NA
+7129,"Bengaluru Rural","410647",56,"Male","SARI","Breathlessness","DM",NA,2020-09-07,2020-09-12,"Died at his residence"
+7349,"Bengaluru Rural","453345",39,"Female","Contact under tracing","Breathlessness","COPD",2020-09-09,2020-09-09,2020-09-14,NA
+7417,"Bengaluru Rural","388447",32,"Male","SARI","Breathlessness","-",2020-08-31,2020-09-03,2020-09-15,NA
+7420,"Bengaluru Rural","403336",65,"Male","SARI","Fever, Breathlessness","-",2020-09-06,2020-09-07,2020-09-15,NA
+7422,"Bengaluru Rural","414170",45,"Female","SARI","Breathlessness","DM, HTN",2020-09-05,2020-09-12,2020-09-15,NA
+7424,"Bengaluru Rural","415953",42,"Male","SARI","Breathlessness","DM",2020-09-05,2020-09-14,2020-09-15,NA
+7425,"Bengaluru Rural","423204",63,"Male","Contact under tracing","-","DM, HTN",NA,2020-09-11,2020-09-15,"Died at his residence"
+7426,"Bengaluru Rural","423273",66,"Male","SARI","Fever, Breathlessness","-",2020-09-07,2020-09-12,2020-09-15,NA
+7427,"Bengaluru Rural","424256",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-07,2020-09-09,2020-09-15,NA
+7429,"Bengaluru Rural","425470",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-08,2020-09-13,2020-09-15,NA
+7431,"Bengaluru Rural","429985",59,"Male","SARI","Breathlessness","DM",2020-09-09,2020-09-13,2020-09-15,NA
+7432,"Bengaluru Rural","432951",58,"Male","SARI","Breathlessness","-",2020-09-02,2020-09-04,2020-09-15,NA
+7433,"Bengaluru Rural","432952",60,"Female","SARI","Breathlessness","-",2020-09-02,2020-09-04,2020-09-15,NA
+7434,"Bengaluru Rural","433346",54,"Male","SARI","Breathlessness","HTN",2020-09-04,2020-09-06,2020-09-15,NA
+7435,"Bengaluru Rural","435162",30,"Male","SARI","Breathlessness","-",2020-08-31,2020-09-11,2020-09-15,NA
+7436,"Bengaluru Rural","438523",50,"Female","SARI","Breathlessness","DM",2020-09-07,2020-09-12,2020-09-15,NA
+7437,"Bengaluru Rural","440369",70,"Male","SARI","Breathlessness","DM",2020-09-10,2020-09-13,2020-09-15,NA
+7482,"Bengaluru Rural","303411",80,"Male","SARI","Breathlessness","DM",2020-08-26,2020-09-11,2020-09-16,NA
+7515,"Bengaluru Rural","444655",71,"Female","SARI","Breathlessness","DM",2020-09-07,2020-09-15,2020-09-16,NA
+7541,"Bengaluru Rural","480468",54,"Female","SARI","Breathlessness","DM",2020-09-14,2020-09-14,2020-09-16,NA
+7542,"Bengaluru Rural","482082",60,"Male","SARI","Breathlessness","DM",2020-09-14,2020-09-15,2020-09-16,NA
+7543,"Bengaluru Rural","482083",54,"Male","SARI","Breathlessness","DM",2020-09-14,2020-09-14,2020-09-16,NA
+7673,"Bengaluru Rural","396669",66,"Male","SARI","Breathlessness","DM, HTN",2020-09-04,2020-09-07,2020-09-18,NA
+7677,"Bengaluru Rural","399310",66,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-09-06,2020-09-15,2020-09-18,NA
+7680,"Bengaluru Rural","403397",60,"Male","SARI","Breathlessness","DM",2020-09-05,2020-09-11,2020-09-18,NA
+7754,"Bengaluru Rural","457056",55,"Female","SARI","Breathlessness","-",2020-09-13,2020-09-16,2020-09-18,NA
+7755,"Bengaluru Rural","457888",57,"Male","SARI","Breathlessness","DM, HTN",2020-09-11,2020-09-15,2020-09-18,NA
+7769,"Bengaluru Rural","470895",72,"Male","SARI","Breathlessness","-",2020-09-15,2020-09-16,2020-09-18,NA
+7798,"Bengaluru Rural","493105",21,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-12,2020-09-18,"Brought dead"
+7951,"Bengaluru Rural","429275",65,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-07,2020-09-10,2020-09-20,NA
+8046,"Bengaluru Rural","414267",69,"Male","SARI","Breathlessness","COPD",2020-09-06,2020-09-12,2020-09-21,NA
+8164,"Bengaluru Rural","403396",68,"Male","SARI","Breathlessness","-",2020-09-12,2020-09-18,2020-09-22,NA
+8174,"Bengaluru Rural","453375",93,"Male","SARI","Breathlessness","-",2020-09-13,2020-09-15,2020-09-22,NA
+8242,"Bengaluru Rural","449558",70,"Male","SARI","Breathlessness","-",2020-09-10,2020-09-12,2020-09-23,NA
+8243,"Bengaluru Rural","449559",44,"Male","SARI","Breathlessness","-",2020-09-10,2020-09-22,2020-09-23,NA
+8250,"Bengaluru Rural","463214",83,"Male","SARI","Breathlessness","DM",2020-09-11,2020-09-12,2020-09-23,NA
+8251,"Bengaluru Rural","463252",67,"Male","SARI","Breathlessness","DM",2020-09-11,2020-09-14,2020-09-23,NA
+8253,"Bengaluru Rural","470900",76,"Male","SARI","Breathlessness","DM, HTN",2020-09-11,2020-09-18,2020-09-23,NA
+8254,"Bengaluru Rural","474181",75,"Female","SARI","Breathlessness","DM, HTN",2020-09-13,2020-09-14,2020-09-23,NA
+8364,"Bengaluru Rural","461797",63,"Male","SARI","Breathlessness","DM",2020-09-12,2020-09-24,2020-09-25,NA
+8375,"Bengaluru Rural","487592",51,"Male","SARI","Breathlessness","DM, HTN",2020-09-11,2020-09-15,2020-09-25,NA
+8378,"Bengaluru Rural","490644",75,"Male","SARI","Breathlessness","DM, HTN",2020-09-16,2020-09-16,2020-09-25,NA
+8447,"Bengaluru Rural","485191",80,"Male","SARI","Breathlessness","HTN",2020-09-14,2020-09-18,2020-09-26,NA
+8456,"Bengaluru Rural","495052",57,"Male","SARI","Breathlessness","-",2020-09-14,2020-09-17,2020-09-26,NA
+8459,"Bengaluru Rural","497866",78,"Male","SARI","Breathlessness","-",2020-09-15,2020-09-19,2020-09-26,NA
+8518,"Bengaluru Rural","445374",43,"Male","SARI","Breathlessness","-",2020-09-10,2020-09-25,2020-09-27,NA
+8541,"Bengaluru Rural","523679",40,"Female","SARI","Breathlessness","-",2020-09-18,2020-09-22,2020-09-27,NA
+8807,"Bengaluru Rural","512349",78,"Male","SARI","Breathlessness","DM, HTN",2020-09-17,2020-09-17,2020-09-30,NA
+8830,"Bengaluru Rural","559035",48,"Male","SARI","Breathlessness","HTN",NA,2020-09-22,2020-09-30,"Died at his residence"
+8859,"Bengaluru Rural","591193",50,"Male","SARI","Breathlessness","-",NA,2020-09-26,2020-09-30,"Died at his residence"
+8866,"Bengaluru Rural","597420",51,"Male","SARI","Breathlessness","DM, HTN",2020-09-25,2020-09-27,2020-09-30,NA
+8961,"Bengaluru Rural","562927",56,"Male","Contact under tracing","-","DM, HTN",2020-09-21,2020-09-21,2020-10-01,NA
+9197,"Bengaluru Rural","601249",65,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-26,2020-09-29,2020-10-03,NA
+9520,"Bengaluru Rural","596099",85,"Male","SARI","Breathlessness","_",2020-09-26,2020-10-03,2020-10-07,NA
+9529,"Bengaluru Rural","611953",40,"Male","SARI","Breathlessness","_",2020-09-26,2020-10-01,2020-10-07,NA
+9653,"Bengaluru Rural","639906",90,"Male","SARI","Breathlessness","-",2020-10-01,2020-10-05,2020-10-08,NA
+9732,"Bengaluru Rural","611254",55,"Male","SARI","Breathlessness","DM, HTN",2020-09-29,2020-09-29,2020-10-09,NA
+9776,"Bengaluru Rural","674696",65,"Male","SARI","Breathlessness","DM, HTN",2020-10-05,2020-10-08,2020-10-09,NA
+10063,"Bengaluru Rural","639905",72,"Female","SARI","Breathlessness","-",2020-09-30,2020-10-07,2020-10-13,NA
+10066,"Bengaluru Rural","644458",71,"Male","SARI","Breathlessness","DM",2020-10-02,2020-10-06,2020-10-13,NA
+10095,"Bengaluru Rural","690775",60,"Female","Contact under tracing","Breathlessness","-",2020-10-07,2020-10-09,2020-10-13,NA
+10098,"Bengaluru Rural","692757",70,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-10-07,2020-10-12,2020-10-13,NA
+10104,"Bengaluru Rural","702277",59,"Male","SARI","Breathlessness","DM, HTN",2020-10-08,2020-10-13,2020-10-13,NA
+10161,"Bengaluru Rural","669814",75,"Male","SARI","Breathlessness","DM, HTN",2020-10-05,2020-10-14,2020-10-14,NA
+10165,"Bengaluru Rural","671883",77,"Male","SARI","Breathlessness","HTN",2020-10-05,2020-10-07,2020-10-14,NA
+10414,"Bengaluru Rural","722244",46,"Male","SARI","Breathlessness","IHD",2020-10-10,2020-10-10,2020-10-17,NA
+10423,"Bengaluru Rural","742219",71,"Male","SARI","Breathlessness","DM, HTN",2020-09-13,2020-10-15,2020-10-17,NA
+10501,"Bengaluru Rural","696119",75,"Female","SARI","Breathlessness","DM, HTN",2020-10-07,2020-10-13,2020-10-19,NA
+10516,"Bengaluru Rural","724678",62,"Male","SARI","Breathlessness","DM, HTN",2020-10-10,2020-10-10,2020-10-19,NA
+10517,"Bengaluru Rural","727529",85,"Male","SARI","Breathlessness","DM, HTN",2020-10-11,2020-10-13,2020-10-19,NA
+10522,"Bengaluru Rural","735029",83,"Male","SARI","Breathlessness","DM, HTN",NA,2020-10-19,2020-10-19,"Died at his residence"
+10532,"Bengaluru Rural","761386",35,"Female","SARI","Breathlessness","DM, HTN",2020-10-15,2020-10-18,2020-10-19,NA
+10562,"Bengaluru Rural","691771",70,"Female","SARI","Breathlessness","DM, HTN",2020-10-07,2020-10-15,2020-10-20,NA
+10606,"Bengaluru Rural","771607",50,"Female","SARI","Breathlessness","DM, HTN",NA,2020-10-19,2020-10-20,"Brought dead"
+10622,"Bengaluru Rural","665432",60,"Male","SARI","Breathlessness","DM",2020-10-04,2020-10-05,2020-10-21,NA
+10665,"Bengaluru Rural","739159",65,"Male","SARI","Breathlessness","DM",2020-10-12,2020-10-20,2020-10-21,NA
+10788,"Bengaluru Rural","704048",NA,"Male","SARI","Breathlessness","DM, HTN",NA,2020-09-29,2020-10-23,"Brought dead"
+10852,"Bengaluru Rural","747091",60,"Male","SARI","Breathlessness","DM, HTN",2020-10-13,2020-10-13,2020-10-24,NA
+11027,"Bengaluru Rural","777471",54,"Male","SARI","Breathlessness","DM, HTN",2020-10-18,2020-10-24,2020-10-28,NA
+11047,"Bengaluru Rural","810118",34,"Male","SARI","Breathlessness","DM, HTN",2020-10-24,2020-10-24,2020-10-28,NA
+11070,"Bengaluru Rural","770637",68,"Male","SARI","Breathlessness","COPD",2020-10-17,2020-10-24,2020-10-29,NA
+11076,"Bengaluru Rural","786742",65,"Male","SARI","Breathlessness","-",2020-10-19,2020-10-22,2020-10-29,NA
+11088,"Bengaluru Rural","808017",78,"Female","SARI","Breathlessness","DM, HTN",2020-10-23,2020-10-26,2020-10-29,NA
+11293,"Bengaluru Rural","755631",65,"Male","SARI","Breathlessness","DM",NA,2020-10-07,2020-11-05,"Died at his residence on"
+11323,"Bengaluru Rural","764736",84,"Female","SARI","Breathlessness","DM, HTN",NA,2020-10-14,2020-11-06,"Brought dead"
+11358,"Bengaluru Rural","773804",65,"Female","SARI","Breathlessness","HTN",NA,2020-10-15,2020-11-07,"Brought dead"
+11404,"Bengaluru Rural","772161",65,"Male","SARI","Breathlessness","DM, IHD",2020-10-16,2020-10-24,2020-11-09,NA
+11420,"Bengaluru Rural","784401",32,"Male","SARI","Fever, Breathlessness","CLD",2020-10-18,2020-10-25,2020-11-10,NA
+11421,"Bengaluru Rural","784412",80,"Female","SARI","Fever, Breathlessness","CLD",NA,2020-10-25,2020-11-10,"Died at her residence"
+11423,"Bengaluru Rural","794051",75,"Female","SARI","Fever, Breathlessness","-",2020-10-10,2020-10-18,2020-11-10,NA
+11442,"Bengaluru Rural","811784",58,"Male","SARI","Fever, Breathlessness","-",2020-10-23,2020-10-31,2020-11-11,NA
+11466,"Bengaluru Rural","787269",48,"Male","SARI","Fever, Breathlessness","DM",NA,2020-10-14,2020-11-12,"Brought dead"
+11467,"Bengaluru Rural","797223",75,"Male","SARI","Fever, Breathlessness","-",NA,2020-10-21,2020-11-12,"Brought dead"
+11469,"Bengaluru Rural","816962",89,"Male","SARI","Fever, Breathlessness","HTN, IHD",2020-10-26,2020-10-31,2020-11-12,NA
+11623,"Bengaluru Rural","872387",63,"Male","SARI","Cough, Breathlessness","IHD",2020-11-13,2020-11-18,2020-11-20,NA
+11713,"Bengaluru Rural","874945",75,"Male","SARI","Breathlessness","HTN",2020-11-15,2020-11-24,2020-11-25,NA
+11714,"Bengaluru Rural","875126",NA,"Male","SARI","Breathlessness","HTN",2020-11-15,2020-11-21,2020-11-25,NA
+11728,"Bengaluru Rural","876132",23,"Male","SARI","Breathlessness","-",NA,2020-11-23,2020-11-26,"Died at his residence"
+11778,"Bengaluru Rural","877186",75,"Male","SARI","Breathlessness","HTN, DM",2020-11-16,2020-11-17,2020-11-30,NA
+11779,"Bengaluru Rural","881043",73,"Male","ILI","Breathlessness","-",2020-11-18,2020-11-27,2020-11-30,NA
+11806,"Bengaluru Rural","888330",65,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-23,2020-11-26,2020-12-02,NA
+11817,"Bengaluru Rural","858077",72,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-07,2020-11-14,2020-12-03,NA
+11885,"Bengaluru Rural","893085",85,"Male","SARI","Breathlessness","DM",2020-11-27,2020-12-06,2020-12-09,NA
+11955,"Bengaluru Rural","901228",70,"Male","SARI","Breathlessness","-",2020-12-02,2020-12-02,2020-12-15,NA
+11989,"Bengaluru Rural","894433",68,"Female","SARI","Cough, Breathlessness","-",2020-11-27,2020-12-18,2020-12-19,NA
+12017,"Bengaluru Rural","895798",58,"Female","SARI","Breathlessness","DM, HTN",2020-11-18,2020-11-29,2020-12-22,NA
+12019,"Bengaluru Rural","908794",85,"Male","SARI","Breathlessness","-",2020-12-08,2020-12-08,2020-12-22,NA
+12047,"Bengaluru Rural","912592",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-11,2020-12-15,2020-12-26,NA
+12118,"Bengaluru Rural","909311",56,"Male","SARI","Breathlessness","DM",2020-12-07,2020-12-08,2021-01-06,NA
+12145,"Bengaluru Rural","934474",56,"Male","SARI","Breathlessness","DM, HTN",2021-01-01,2021-01-11,2021-01-12,NA
+12162,"Bengaluru Rural","937586",75,"Female","SARI","Breathlessness","HTN",2021-01-05,2021-01-05,2021-01-17,NA
+12178,"Bengaluru Rural","932684",68,"Male","SARI","Breathlessness","DM, HTN",NA,2020-12-30,2021-01-19,"Brought dead"
+12205,"Bengaluru Rural","945613",80,"Female","SARI","Breathlessness","HTN, DM",2021-01-16,2021-01-22,2021-02-27,NA
+12230,"Bengaluru Rural","949297",70,"Male","SARI","Fever, Breathlessness","HTN",2021-01-22,2021-01-23,2021-02-06,NA
+12238,"Bengaluru Rural","953363",58,"Male","SARI","Breathlessness","HTN",2021-01-29,2021-02-02,2021-02-08,NA
+12343,"Bengaluru Rural","961742",63,"Male","SARI","Breathlessness","DM, HTN",2021-02-17,2021-02-20,2021-03-03,NA
+12471,"Bengaluru Rural","970066",55,"Female","Contact under tracing","-","DM, HTN",NA,2021-03-07,2021-03-26,"Died at her residence"
+12474,"Bengaluru Rural","976437",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-03-12,2021-03-23,2021-03-26,NA
+12520,"Bengaluru Rural","975942",75,"Male","SARI","Breathlessness","DM, HTN",2021-03-13,2021-03-20,2021-03-30,NA
+12531,"Bengaluru Rural","993526",73,"Male","SARI","Breathlessness","DM, HTN",2021-03-24,2021-03-28,2021-03-30,NA
+12657,"Bengaluru Rural","949940",50,"Female","SARI","Breathlessness","DM, HTN",2021-01-23,2021-01-27,2021-04-06,NA
+12731,"Bengaluru Rural","974968",63,"Male","SARI","Breathlessness","DM, HTN",2021-03-13,2021-03-17,2021-04-08,NA
+12734,"Bengaluru Rural","992802",68,"Male","SARI","Breathlessness","DM",2021-03-01,2021-03-07,2021-04-08,NA
+12779,"Bengaluru Rural","1011835",56,"Male","SARI","Cough, Breathlessness","DM",2021-03-28,2021-03-31,2021-04-09,NA
+12857,"Bengaluru Rural","1029562",80,"Male","SARI","Breathlessness","DM, HTN",2021-03-31,2021-04-08,2021-04-11,NA
+13059,"Bengaluru Rural","1007122",52,"Male","SARI","Breathlessness","-",2021-03-31,2021-04-05,2021-04-15,NA
+13066,"Bengaluru Rural","1021281",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-01,2021-04-07,2021-04-15,NA
+13067,"Bengaluru Rural","1021286",63,"Male","SARI","Breathlessness","DM, HTN",2021-03-31,2021-04-08,2021-04-15,NA
+13072,"Bengaluru Rural","1030771",49,"Male","SARI","Breathlessness","DM, HTN",2021-04-01,2021-04-05,2021-04-15,NA
+13092,"Bengaluru Rural","1062165",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-08,2021-04-11,2021-04-15,NA
+13106,"Bengaluru Rural","1097198",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-10,2021-04-12,2021-04-15,NA
+13123,"Bengaluru Rural","1032386",41,"Male","SARI","Breathlessness","-",2021-04-02,2021-04-15,2021-04-16,NA
+13360,"Bengaluru Rural","1039504",53,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-14,2021-04-19,NA
+13362,"Bengaluru Rural","1039863",77,"Male","SARI","Breathlessness","DM, HTN",2021-04-01,2021-04-07,2021-04-19,NA
+13371,"Bengaluru Rural","1048308",76,"Female","SARI","Breathlessness","DM, HTN",2021-04-01,2021-04-04,2021-04-19,NA
+13387,"Bengaluru Rural","1065114",80,"Female","SARI","Breathlessness","DM, HTN",2021-04-08,2021-04-12,2021-04-19,NA
+13401,"Bengaluru Rural","1077831",70,"Female","SARI","Breathlessness","HTN",2021-04-11,2021-04-13,2021-04-19,NA
+13486,"Bengaluru Rural","1180415",62,"Female","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-19,NA
+13519,"Bengaluru Rural","1070780",35,"Male","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-16,2021-04-20,NA
+13522,"Bengaluru Rural","1072449",68,"Female","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-09,2021-04-20,NA
+13523,"Bengaluru Rural","1072687",70,"Female","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-11,2021-04-20,NA
+13525,"Bengaluru Rural","1078547",51,"Female","SARI","Breathlessness","DM, HTN",2021-04-10,2021-04-13,2021-04-20,NA
+13529,"Bengaluru Rural","1081482",50,"Female","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-14,2021-04-20,NA
+13531,"Bengaluru Rural","1086200",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-10,2021-04-19,2021-04-20,NA
+13539,"Bengaluru Rural","1102178",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-12,2021-04-18,2021-04-20,NA
+13542,"Bengaluru Rural","1109948",42,"Male","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-18,2021-04-20,NA
+13562,"Bengaluru Rural","1125980",50,"Male","SARI","Breathlessness","DM, HTN",2021-04-12,2021-04-19,2021-04-20,NA
+13605,"Bengaluru Rural","1157512",48,"Female","SARI","Breathlessness","DM, HTN",NA,2021-04-17,2021-04-20,"Died at her residence"
+13610,"Bengaluru Rural","1162500",78,"Male","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-17,2021-04-20,NA
+13624,"Bengaluru Rural","1178883",55,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-20,NA
+13631,"Bengaluru Rural","1187684",79,"Male","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-19,2021-04-20,NA
+13663,"Bengaluru Rural","1076438",93,"Male","SARI","Breathlessness","DM, HTN",2021-04-09,2021-04-17,2021-04-21,NA
+13670,"Bengaluru Rural","1088853",67,"Female","SARI","Breathlessness","DM, HTN",NA,2021-04-11,2021-04-21,"Died at her residence"
+13783,"Bengaluru Rural","1086199",40,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-10,2021-04-22,NA
+13784,"Bengaluru Rural","1086201",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-19,2021-04-22,NA
+13788,"Bengaluru Rural","1093034",55,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-13,2021-04-22,NA
+13859,"Bengaluru Rural","1206797",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-19,2021-04-22,NA
+13925,"Bengaluru Rural","1087813",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-11,2021-04-23,NA
+13944,"Bengaluru Rural","1102152",56,"Female","SARI","Breathlessness","DM, HTN",2021-04-12,2021-04-20,2021-04-23,NA
+13988,"Bengaluru Rural","1163345",50,"Female","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-17,2021-04-23,NA
+14034,"Bengaluru Rural","1219459",40,"Female","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-22,2021-04-23,NA
+14116,"Bengaluru Rural","1107187",70,"Female","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-16,2021-04-24,NA
+14118,"Bengaluru Rural","1110819",42,"Male","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-21,2021-04-24,NA
+14123,"Bengaluru Rural","1111446",45,"Male","SARI","Breathlessness","DM, HTN",2021-04-13,2021-04-19,2021-04-24,NA
+14446,"Bengaluru Rural","1119290",58,"Female","SARI","Breathlessness","DM, HTN",2021-04-08,2021-04-20,2021-04-26,NA
+14457,"Bengaluru Rural","1141207",50,"Female","SARI","Breathlessness","DM, HTN",2021-04-14,2021-04-24,2021-04-26,NA
+14458,"Bengaluru Rural","1141871",59,"Female","SARI","Breathlessness","DM, HTN",2021-04-15,2021-04-24,2021-04-26,NA
+14654,"Bengaluru Rural","1150080",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-26,2021-04-27,NA
+14741,"Bengaluru Rural","1321323",36,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-25,2021-04-27,NA
+14787,"Bengaluru Rural","1389848",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-27,NA
+14829,"Bengaluru Rural","1139321",44,"Male","SARI","Breathlessness","DM, HTN",2021-04-12,2021-04-21,2021-04-28,NA
+14845,"Bengaluru Rural","1170546",82,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-27,2021-04-28,NA
+15081,"Bengaluru Rural","1163344",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-25,2021-04-29,NA
+15084,"Bengaluru Rural","1171851",71,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-21,2021-04-29,NA
+15087,"Bengaluru Rural","1177685",36,"Female","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-29,NA
+15098,"Bengaluru Rural","1191048",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-18,2021-04-29,NA
+15525,"Bengaluru Rural","1087002",55,"Female","SARI","Breathlessness","DM, HTN",2021-04-11,2021-04-30,2021-05-01,NA
+15553,"Bengaluru Rural","1194511",70,"Female","SARI","Breathlessness","DM, HTN",2021-04-15,2021-04-15,2021-05-01,NA
+15554,"Bengaluru Rural","1195974",48,"Female","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-24,2021-05-01,NA
+15555,"Bengaluru Rural","1196043",66,"Male","SARI","Breathlessness","DM, HTN",2021-04-16,2021-04-21,2021-05-01,NA
+15560,"Bengaluru Rural","1203648",72,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-30,2021-05-01,NA
+15563,"Bengaluru Rural","1205163",59,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-28,2021-05-01,NA
+15566,"Bengaluru Rural","1206773",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-15,2021-04-16,2021-05-01,NA
+15567,"Bengaluru Rural","1208852",74,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-27,2021-05-01,NA
+15690,"Bengaluru Rural","1408667",65,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-05-01,NA
+15719,"Bengaluru Rural","1454930",37,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-28,2021-05-01,NA
+15743,"Bengaluru Rural","1500386",90,"Female","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-29,2021-05-01,NA
+15746,"Bengaluru Rural","1506023",53,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-05-01,NA
+15799,"Bengaluru Rural","1102235",55,"Male","SARI","Breathlessness","DM, HTN",2021-04-12,2021-04-24,2021-05-02,NA
+15803,"Bengaluru Rural","1140499",72,"Male","SARI","Breathlessness","-",2021-04-15,2021-04-28,2021-05-02,NA
+15815,"Bengaluru Rural","1204197",70,"Male","SARI","Breathlessness","DM, HTN",2021-04-15,2021-04-27,2021-05-02,NA
+15818,"Bengaluru Rural","1206738",34,"Male","SARI","Breathlessness","HTN",2021-04-15,2021-04-26,2021-05-02,NA
+15821,"Bengaluru Rural","1229841",41,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-30,2021-05-02,NA
+16013,"Bengaluru Rural","1108269",34,"Male","SARI","Breathlessness","HTN",2021-04-13,2021-04-26,2021-05-03,NA
+16033,"Bengaluru Rural","1212288",45,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-05-02,2021-05-03,NA
+16034,"Bengaluru Rural","1212326",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-25,2021-05-03,NA
+16035,"Bengaluru Rural","1212365",29,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-24,2021-05-03,NA
+16301,"Bengaluru Rural","1214019",80,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-20,2021-05-04,NA
+16304,"Bengaluru Rural","1221940",45,"Female","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-24,2021-05-04,NA
+16314,"Bengaluru Rural","1242826",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-19,2021-04-28,2021-05-04,NA
+16546,"Bengaluru Rural","1052807",62,"Male","SARI","Breathlessness","DM, HTN",2021-04-07,2021-04-21,2021-05-05,NA
+16628,"Bengaluru Rural","1220876",41,"Male","SARI","Breathlessness","DM, HTN",2021-04-19,2021-05-02,2021-05-05,NA
+16633,"Bengaluru Rural","1233228",69,"Male","SARI","Breathlessness","DM, HTN",2021-04-20,2021-04-29,2021-05-05,NA
+16634,"Bengaluru Rural","1233247",80,"Male","SARI","Breathlessness","DM, HTN",2021-04-20,2021-05-03,2021-05-05,NA
+16659,"Bengaluru Rural","1286289",32,"Male","SARI","Breathlessness","-",2021-04-18,2021-04-23,2021-05-05,NA
+16927,"Bengaluru Rural","1293358",59,"Female","SARI","Breathlessness","HTN",2021-04-23,2021-04-28,2021-05-06,NA
+16958,"Bengaluru Rural","1355197",55,"Male","SARI","Breathlessness","HTN",2021-04-29,2021-04-29,2021-05-06,NA
+16960,"Bengaluru Rural","1361620",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-29,2021-05-06,NA
+16966,"Bengaluru Rural","1383046",36,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-29,2021-05-06,NA
+17025,"Bengaluru Rural","1492072",75,"Male","SARI","Breathlessness","-",2021-04-28,2021-04-29,2021-05-06,NA
+17027,"Bengaluru Rural","1494659",65,"Male","SARI","Breathlessness","-",2021-04-28,2021-04-29,2021-05-06,NA
+17071,"Bengaluru Rural","1545528",60,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-06,NA
+17240,"Bengaluru Rural","1133996",59,"Male","SARI","Breathlessness","DM",2021-04-15,2021-04-17,2021-05-07,NA
+17295,"Bengaluru Rural","1236556",46,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-23,2021-05-07,NA
+17306,"Bengaluru Rural","1255625",72,"Female","SARI","Breathlessness","-",2021-04-23,2021-04-27,2021-05-07,NA
+17346,"Bengaluru Rural","1318569",60,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-04,2021-05-07,NA
+17359,"Bengaluru Rural","1343034",52,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-05,2021-05-07,NA
+17360,"Bengaluru Rural","1343056",56,"Female","SARI","Breathlessness","-",2021-04-28,2021-05-03,2021-05-07,NA
+17361,"Bengaluru Rural","1344714",80,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-24,2021-05-07,NA
+17362,"Bengaluru Rural","1344723",65,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-29,2021-05-07,NA
+17363,"Bengaluru Rural","1344737",61,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-03,2021-05-07,NA
+17425,"Bengaluru Rural","1435486",38,"Male","SARI","Breathlessness","-",2021-04-27,2021-04-30,2021-05-07,NA
+17565,"Bengaluru Rural","1584617",28,"Male","SARI","Breathlessness","COPD",2021-05-01,2021-05-02,2021-05-07,NA
+17661,"Bengaluru Rural","1687052",50,"Female","SARI","Breathlessness","DM",2021-04-05,2021-05-04,2021-05-07,NA
+17972,"Bengaluru Rural","1361618",102,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-25,2021-05-08,NA
+17974,"Bengaluru Rural","1363766",49,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-25,2021-05-08,NA
+17975,"Bengaluru Rural","1365266",42,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-29,2021-05-08,NA
+17980,"Bengaluru Rural","1379137",36,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-05-03,2021-05-08,NA
+17982,"Bengaluru Rural","1383066",48,"Male","SARI","Breathlessness","-",2021-04-25,2021-05-04,2021-05-08,NA
+17983,"Bengaluru Rural","1383162",64,"Male","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-26,2021-05-08,NA
+17985,"Bengaluru Rural","1388079",56,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-26,2021-05-08,NA
+18803,"Bengaluru Rural","1241369",40,"Male","SARI","Breathlessness","DM, HTN",2021-04-20,2021-05-01,2021-05-10,NA
+18881,"Bengaluru Rural","1391698",75,"Female","SARI","Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-05-10,NA
+18890,"Bengaluru Rural","1397885",50,"Female","SARI","Breathlessness","-",2021-04-25,2021-05-28,2021-05-10,NA
+18895,"Bengaluru Rural","1400796",37,"Male","SARI","Breathlessness","DM, HTN",2021-04-25,2021-05-01,2021-05-10,NA
+18898,"Bengaluru Rural","1401992",65,"Female","SARI","Breathlessness","-",2021-04-25,2021-05-01,2021-05-10,NA
+18908,"Bengaluru Rural","1408601",63,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-08,2021-05-10,NA
+19150,"Bengaluru Rural","1660749",65,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-03,2021-05-10,NA
+19448,"Bengaluru Rural","1208878",80,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-05-11,NA
+19532,"Bengaluru Rural","1415429",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-05-11,NA
+19533,"Bengaluru Rural","1415480",61,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-04,2021-05-11,NA
+19534,"Bengaluru Rural","1415504",33,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-05,2021-05-11,NA
+19535,"Bengaluru Rural","1421221",32,"Female","SARI","Breathlessness","-",2021-04-24,2021-05-04,2021-05-11,NA
+19536,"Bengaluru Rural","1421268",56,"Female","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-27,2021-05-11,NA
+19538,"Bengaluru Rural","1426513",53,"Male","SARI","Breathlessness","HTN",2021-04-26,2021-04-29,2021-05-11,NA
+19539,"Bengaluru Rural","1426568",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-07,2021-05-11,NA
+19542,"Bengaluru Rural","1429024",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-11,NA
+19543,"Bengaluru Rural","1430901",95,"Male","SARI","Breathlessness","DM, HTN",2021-04-24,2021-04-27,2021-05-11,NA
+19544,"Bengaluru Rural","1430906",56,"Male","SARI","Breathlessness","DM, HTN",2021-04-29,2021-05-05,2021-05-11,NA
+19545,"Bengaluru Rural","1430907",82,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-02,2021-05-11,NA
+19580,"Bengaluru Rural","1622763",62,"Male","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-10,2021-05-11,NA
+19669,"Bengaluru Rural","1773830",63,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-05-10,2021-05-11,NA
+19860,"Bengaluru Rural","1175945",62,"Male","SARI","Breathlessness","DM, HTN",NA,2021-04-29,2021-05-12,"Brought dead"
+19863,"Bengaluru Rural","1208874",71,"Male","SARI","Breathlessness","DM, HTN",NA,2021-04-20,2021-05-12,"Brought dead"
+19879,"Bengaluru Rural","1389841",65,"Male","SARI","Breathlessness","DM, HTN",NA,2021-04-27,2021-05-12,"Brought dead"
+19884,"Bengaluru Rural","1412676",69,"Male","SARI","Breathlessness","DM, HTN",NA,2021-04-28,2021-05-12,"Brought dead"
+19886,"Bengaluru Rural","1418523",58,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-12,NA
+19887,"Bengaluru Rural","1421246",43,"Male","SARI","Breathlessness","-",2021-04-24,2021-04-26,2021-05-12,NA
+19888,"Bengaluru Rural","1421282",55,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-05-12,NA
+19890,"Bengaluru Rural","1426581",28,"Male","SARI","Breathlessness","DM",2021-04-25,2021-05-01,2021-05-12,NA
+19892,"Bengaluru Rural","1428991",55,"Female","SARI","Breathlessness","HTN",2021-04-25,2021-05-06,2021-05-12,NA
+19893,"Bengaluru Rural","1429006",38,"Male","SARI","Breathlessness","-",2021-04-26,2021-04-29,2021-05-12,NA
+19894,"Bengaluru Rural","1429017",68,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-05,2021-05-12,NA
+19901,"Bengaluru Rural","1461265",45,"Male","SARI","Breathlessness","IHD",2021-04-27,2021-05-09,2021-05-12,NA
+20404,"Bengaluru Rural","1410503",42,"Male","SARI","Breathlessness","DM, HTN",NA,2021-05-07,2021-05-13,"Brought dead"
+20409,"Bengaluru Rural","1435490",44,"Male","SARI","Breathlessness","-",NA,2021-04-27,2021-05-13,"Brought dead"
+20410,"Bengaluru Rural","1445498",69,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-29,2021-05-13,NA
+20411,"Bengaluru Rural","1446409",40,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-07,2021-05-13,NA
+20413,"Bengaluru Rural","1448492",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-02,2021-05-13,NA
+20416,"Bengaluru Rural","1455113",42,"Male","SARI","Breathlessness","-",2021-04-22,2021-04-24,2021-05-13,NA
+20418,"Bengaluru Rural","1469799",60,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-05-13,NA
+20419,"Bengaluru Rural","1472323",50,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-05-09,2021-05-13,NA
+20420,"Bengaluru Rural","1474194",41,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-05-01,2021-05-13,NA
+20422,"Bengaluru Rural","1476112",56,"Female","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-24,2021-05-13,NA
+20426,"Bengaluru Rural","1481229",70,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-13,NA
+20430,"Bengaluru Rural","1491981",34,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-05-13,NA
+20570,"Bengaluru Rural","1862896",80,"Female","SARI","Breathlessness","DM, HTN",2021-04-05,2021-05-07,2021-05-13,NA
+20761,"Bengaluru Rural","1487212",65,"Female","SARI","Breathlessness","DM, HTN",2021-04-22,2021-04-30,2021-05-14,NA
+20762,"Bengaluru Rural","1492013",29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-01,2021-05-14,NA
+20763,"Bengaluru Rural","1494640",48,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-30,2021-05-14,NA
+20764,"Bengaluru Rural","1494679",55,"Female","SARI","Breathlessness","-",2021-04-26,2021-04-28,2021-05-14,NA
+20765,"Bengaluru Rural","1502917",37,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-14,NA
+20771,"Bengaluru Rural","1517433",88,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-04-28,2021-05-14,NA
+20783,"Bengaluru Rural","1553148",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-05,2021-05-14,NA
+20788,"Bengaluru Rural","1572861",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-06,2021-05-14,NA
+20789,"Bengaluru Rural","1572862",57,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-01,2021-05-14,NA
+20790,"Bengaluru Rural","1574137",45,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-14,NA
+20791,"Bengaluru Rural","1591389",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-05-08,2021-05-14,NA
+20798,"Bengaluru Rural","1610743",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-02,2021-05-14,NA
+21091,"Bengaluru Rural","1187676",27,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-05-12,2021-05-15,NA
+21093,"Bengaluru Rural","1204185",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-19,2021-05-13,2021-05-15,NA
+21117,"Bengaluru Rural","1492086",60,"Female","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-04,2021-05-15,NA
+21118,"Bengaluru Rural","1500385",72,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-15,NA
+21120,"Bengaluru Rural","1502945",72,"Female","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-02,2021-05-15,NA
+21121,"Bengaluru Rural","1502969",32,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-05-15,NA
+21122,"Bengaluru Rural","1502975",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-28,2021-05-06,2021-05-15,NA
+21123,"Bengaluru Rural","1506005",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-05-15,NA
+21124,"Bengaluru Rural","1506109",56,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-05-12,2021-05-15,NA
+21128,"Bengaluru Rural","1532581",48,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-27,2021-04-30,2021-05-15,NA
+21502,"Bengaluru Rural","1518986",40,"Male","SARI","Fever, Breathlessness","-",2021-04-27,2021-05-02,2021-05-16,NA
+21503,"Bengaluru Rural","1518993",48,"Female","SARI","Fever, Breathlessness","-",2021-04-28,2021-04-30,2021-05-16,NA
+21507,"Bengaluru Rural","1527561",56,"Female","SARI","Fever, Breathlessness","Hypothyroidism",2021-04-29,2021-04-29,2021-05-16,NA
+21509,"Bengaluru Rural","1529724",75,"Male","SARI","Fever, Breathlessness","DM",2021-04-27,2021-04-30,2021-05-16,NA
+21510,"Bengaluru Rural","1529746",63,"Female","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-06,2021-05-16,NA
+21511,"Bengaluru Rural","1529807",17,"Male","SARI","Fever, Breathlessness","-",NA,2021-04-29,2021-05-16,"Brought dead"
+21514,"Bengaluru Rural","1532542",39,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-05-02,2021-05-16,NA
+21515,"Bengaluru Rural","1535672",69,"Male","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-05,2021-05-16,NA
+21516,"Bengaluru Rural","1535685",51,"Female","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-06,2021-05-16,NA
+21518,"Bengaluru Rural","1538237",55,"Female","SARI","Fever, Breathlessness","-",2021-04-28,2021-04-28,2021-05-16,NA
+21519,"Bengaluru Rural","1538240",73,"Male","SARI","Fever, Breathlessness","DM",2021-04-28,2021-04-29,2021-05-16,NA
+21520,"Bengaluru Rural","1538275",31,"Male","SARI","Fever, Breathlessness","-",NA,2021-04-30,2021-05-16,"Brought dead"
+21524,"Bengaluru Rural","1549256",62,"Female","SARI","Fever, Breathlessness","-",2021-04-29,2021-05-11,2021-05-16,NA
+21527,"Bengaluru Rural","1565786",48,"Male","SARI","Fever, Breathlessness","-",2021-04-29,2021-05-05,2021-05-16,NA
+21531,"Bengaluru Rural","1572384",70,"Female","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-04,2021-05-16,NA
+21533,"Bengaluru Rural","1574115",35,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-05,2021-05-16,NA
+21534,"Bengaluru Rural","1577142",54,"Male","SARI","Fever, Breathlessness","HTN",2021-04-30,2021-05-12,2021-05-16,NA
+21932,"Bengaluru Rural","1577072",40,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-09,2021-05-17,NA
+21933,"Bengaluru Rural","1577109",66,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-17,NA
+21937,"Bengaluru Rural","1580732",92,"Female","SARI","Breathlessness","-",2021-04-26,2021-04-30,2021-05-17,NA
+21943,"Bengaluru Rural","1584579",40,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-17,NA
+21944,"Bengaluru Rural","1584594",48,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-13,2021-05-17,NA
+21946,"Bengaluru Rural","1588109",53,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-08,2021-05-17,NA
+21947,"Bengaluru Rural","1588149",16,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-04-30,2021-05-17,NA
+21948,"Bengaluru Rural","1588192",45,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-11,2021-05-17,NA
+21949,"Bengaluru Rural","1591410",55,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-08,2021-05-17,NA
+21952,"Bengaluru Rural","1601105",32,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-17,NA
+21953,"Bengaluru Rural","1603557",45,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-17,NA
+22015,"Bengaluru Rural","1784751",55,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-13,2021-05-17,NA
+22113,"Bengaluru Rural","2015281",43,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-05-17,NA
+22438,"Bengaluru Rural","1574190",41,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-14,2021-05-18,NA
+22448,"Bengaluru Rural","1594591",60,"Female","SARI","Breathlessness","DM",2021-05-10,2021-05-12,2021-05-18,NA
+22449,"Bengaluru Rural","1594598",65,"Female","SARI","Breathlessness","DM",2021-05-02,2021-05-05,2021-05-18,NA
+22450,"Bengaluru Rural","1594602",63,"Male","SARI","Breathlessness","HTN",2021-05-02,2021-05-05,2021-05-18,NA
+22451,"Bengaluru Rural","1598079",60,"Male","SARI","Breathlessness","DM",2021-04-30,2021-05-02,2021-05-18,NA
+22452,"Bengaluru Rural","1598082",70,"Female","SARI","Breathlessness","DM",2021-05-01,2021-05-04,2021-05-18,NA
+22453,"Bengaluru Rural","1598094",40,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-07,2021-05-18,NA
+22454,"Bengaluru Rural","1598097",62,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-06,2021-05-18,NA
+22458,"Bengaluru Rural","1603564",46,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-18,NA
+22461,"Bengaluru Rural","1606010",85,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-07,2021-05-18,NA
+22462,"Bengaluru Rural","1606011",53,"Female","SARI","Breathlessness","DM",NA,2021-05-05,2021-05-18,"Brought dead"
+22467,"Bengaluru Rural","1619429",42,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-18,NA
+22468,"Bengaluru Rural","1619441",65,"Female","SARI","Breathlessness","DM",2021-04-30,2021-05-01,2021-05-18,NA
+22470,"Bengaluru Rural","1622714",60,"Male","SARI","Breathlessness","DM",2021-04-28,2021-04-30,2021-05-18,NA
+22472,"Bengaluru Rural","1626384",42,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-18,NA
+22523,"Bengaluru Rural","1709318",73,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-11,2021-05-18,NA
+22626,"Bengaluru Rural","2009300",29,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-14,2021-05-18,NA
+22646,"Bengaluru Rural","2044943",56,"Male","SARI","Breathlessness","DM",2021-05-13,2021-05-16,2021-05-18,NA
+22662,"Bengaluru Rural","2059477",58,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-14,2021-05-18,NA
+22915,"Bengaluru Rural","1580801",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-30,2021-05-06,2021-05-19,NA
+22936,"Bengaluru Rural","1636282",60,"Female","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-08,2021-05-19,NA
+22944,"Bengaluru Rural","1651100",45,"Female","SARI","Fever, Breathlessness","Hypothyroidism",2021-05-02,2021-05-11,2021-05-19,NA
+22945,"Bengaluru Rural","1653857",55,"Male","SARI","Fever, Breathlessness","DM",2021-05-10,2021-05-10,2021-05-19,NA
+22953,"Bengaluru Rural","1670473",54,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-07,2021-05-19,NA
+22981,"Bengaluru Rural","1762761",52,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-10,2021-05-19,NA
+22985,"Bengaluru Rural","1769923",50,"Male","SARI","Fever, Breathlessness","HTN",2021-04-05,2021-05-10,2021-05-19,NA
+22988,"Bengaluru Rural","1773834",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-19,NA
+22989,"Bengaluru Rural","1773861",54,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-08,2021-05-19,NA
+23026,"Bengaluru Rural","1874798",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-10,2021-05-19,NA
+23040,"Bengaluru Rural","1912985",70,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-11,2021-05-19,NA
+23041,"Bengaluru Rural","1913131",45,"Female","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-10,2021-05-19,NA
+23043,"Bengaluru Rural","1916673",45,"Female","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-08,2021-05-19,NA
+23413,"Bengaluru Rural","1598134",35,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-10,2021-05-20,"Brought dead"
+23414,"Bengaluru Rural","1598159",49,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-16,2021-05-20,NA
+23440,"Bengaluru Rural","1629630",60,"Female","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-10,2021-05-20,NA
+23444,"Bengaluru Rural","1636286",50,"Female","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-15,2021-05-20,NA
+23450,"Bengaluru Rural","1642353",46,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-15,2021-05-20,NA
+23465,"Bengaluru Rural","1666950",30,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-16,2021-05-20,NA
+23486,"Bengaluru Rural","1692844",55,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-10,2021-05-20,NA
+23567,"Bengaluru Rural","1923691",58,"Male","SARI","Fever, Breathlessness","DM",2021-05-18,2021-05-19,2021-05-20,NA
+23738,"Bengaluru Rural","2214352",70,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-16,2021-05-20,NA
+23921,"Bengaluru Rural","1773862",63,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-09,2021-05-21,NA
+23931,"Bengaluru Rural","1866563",85,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-21,NA
+23932,"Bengaluru Rural","1878633",48,"Female","SARI","Breathlessness","DM, HTN",2021-05-06,2021-05-09,2021-05-21,NA
+23946,"Bengaluru Rural","1952283",75,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-09,2021-05-21,NA
+23947,"Bengaluru Rural","1955259",47,"Male","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-09,2021-05-21,NA
+23948,"Bengaluru Rural","1955361",26,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-21,NA
+23953,"Bengaluru Rural","1965094",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-12,2021-05-21,NA
+23959,"Bengaluru Rural","2001648",57,"Female","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-08,2021-05-21,NA
+23971,"Bengaluru Rural","2012444",63,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-16,2021-05-21,NA
+23977,"Bengaluru Rural","2038181",68,"Female","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-11,2021-05-21,NA
+23984,"Bengaluru Rural","2053676",52,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-19,2021-05-21,NA
+23987,"Bengaluru Rural","2056568",52,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-17,2021-05-21,NA
+23989,"Bengaluru Rural","2059466",29,"Male","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-11,2021-05-21,NA
+23994,"Bengaluru Rural","2077015",71,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-12,2021-05-21,NA
+24005,"Bengaluru Rural","2102184",50,"Female","SARI","Breathlessness","DM, HTN",2021-05-14,2021-05-19,2021-05-21,NA
+24016,"Bengaluru Rural","2120606",56,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-21,NA
+24022,"Bengaluru Rural","2129117",78,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-13,2021-05-21,NA
+24025,"Bengaluru Rural","2132293",55,"Female","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-14,2021-05-21,NA
+24030,"Bengaluru Rural","2145795",37,"Male","SARI","Breathlessness","DM, HTN",2021-05-12,2021-05-14,2021-05-21,NA
+24031,"Bengaluru Rural","2145835",54,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-21,NA
+24051,"Bengaluru Rural","2167555",50,"Female","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-21,NA
+24059,"Bengaluru Rural","2183375",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-21,NA
+24068,"Bengaluru Rural","2192738",27,"Male","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-15,2021-05-21,NA
+24104,"Bengaluru Rural","2249864",45,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-16,2021-05-21,NA
+24105,"Bengaluru Rural","2249900",38,"Female","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-21,NA
+24123,"Bengaluru Rural","2280697",34,"Female","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-17,2021-05-21,NA
+24124,"Bengaluru Rural","2280772",45,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-19,2021-05-21,NA
+24143,"Bengaluru Rural","2304457",72,"Female","SARI","Breathlessness","DM, HTN",2021-05-17,2021-05-18,2021-05-21,NA
+24148,"Bengaluru Rural","2308932",40,"Male","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-19,2021-05-21,NA
+24183,"Bengaluru Rural","2352916",50,"Female","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-19,2021-05-21,NA
+24355,"Bengaluru Rural","1680137",75,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-02,2021-05-22,"Brought dead"
+24361,"Bengaluru Rural","1694620",55,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-10,2021-05-22,NA
+24362,"Bengaluru Rural","1694623",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-28,2021-05-03,2021-05-22,NA
+24363,"Bengaluru Rural","1694626",45,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-12,2021-05-22,NA
+24365,"Bengaluru Rural","1696114",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-02,2021-05-14,2021-05-22,NA
+24367,"Bengaluru Rural","1699973",74,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-05,2021-05-22,NA
+24368,"Bengaluru Rural","1699989",62,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-07,2021-05-22,NA
+24369,"Bengaluru Rural","1703146",30,"Female","SARI","Fever, Breathlessness","DM",2021-05-08,2021-05-08,2021-05-22,NA
+24373,"Bengaluru Rural","1706685",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-08,2021-05-22,NA
+24376,"Bengaluru Rural","1709322",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-09,2021-05-22,NA
+24379,"Bengaluru Rural","1712621",64,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-05,2021-05-15,2021-05-22,NA
+24381,"Bengaluru Rural","1716607",48,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-18,2021-05-22,NA
+24382,"Bengaluru Rural","1716639",30,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-12,2021-05-22,NA
+24383,"Bengaluru Rural","1716642",38,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-17,2021-05-22,NA
+24384,"Bengaluru Rural","1716647",60,"Female","SARI","Fever, Breathlessness","HTN",NA,2021-05-17,2021-05-22,"Brought dead"
+24385,"Bengaluru Rural","1716648",70,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-03-05,2021-05-22,"Brought dead"
+24388,"Bengaluru Rural","1720505",48,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-02,2021-05-22,NA
+24391,"Bengaluru Rural","1727021",68,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-10,2021-05-22,NA
+24393,"Bengaluru Rural","1730257",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-10,2021-05-22,NA
+24394,"Bengaluru Rural","1730301",83,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-03-05,2021-05-22,"Brought dead"
+24395,"Bengaluru Rural","1730322",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-04,2021-05-13,2021-05-22,NA
+24397,"Bengaluru Rural","1736180",66,"Male","SARI","Fever, Breathlessness","HTN",2021-04-29,2021-05-02,2021-05-22,NA
+24398,"Bengaluru Rural","1742037",50,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-17,2021-05-22,NA
+24400,"Bengaluru Rural","1749178",26,"Male","SARI","Fever, Breathlessness","-",NA,2021-04-05,2021-05-22,"Brought dead"
+24402,"Bengaluru Rural","1749817",60,"Male","SARI","Fever, Breathlessness","DM",2021-04-05,2021-05-07,2021-05-22,NA
+24403,"Bengaluru Rural","1749836",34,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-14,2021-05-22,NA
+24405,"Bengaluru Rural","1751758",60,"Female","SARI","Fever, Breathlessness","DM",2021-04-30,2021-05-04,2021-05-22,NA
+24406,"Bengaluru Rural","1751764",22,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-05,2021-05-22,"Brought dead"
+24408,"Bengaluru Rural","1758340",70,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-14,2021-05-22,NA
+24409,"Bengaluru Rural","1758383",65,"Female","SARI","Fever, Breathlessness","DM",2021-04-30,2021-05-10,2021-05-22,NA
+24410,"Bengaluru Rural","1762729",65,"Male","SARI","Fever, Breathlessness","DM",2021-04-26,2021-05-06,2021-05-22,NA
+24411,"Bengaluru Rural","1762753",36,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-05-01,2021-05-22,NA
+24412,"Bengaluru Rural","1762807",52,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-08,2021-05-22,NA
+24535,"Bengaluru Rural","2219615",53,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-19,2021-05-22,NA
+24571,"Bengaluru Rural","2302086",48,"Male","SARI","Fever, Breathlessness","HTN",2021-05-17,2021-05-19,2021-05-22,NA
+24809,"Bengaluru Rural","1758309",55,"Female","SARI","Breathlessness","DM",2021-05-04,2021-05-05,2021-05-23,NA
+24810,"Bengaluru Rural","1758319",45,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-07,2021-05-23,NA
+24811,"Bengaluru Rural","1758334",45,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-06,2021-05-23,NA
+24812,"Bengaluru Rural","1758337",65,"Male","SARI","Breathlessness","DM",2021-05-04,2021-05-06,2021-05-23,NA
+24813,"Bengaluru Rural","1762763",46,"Female","SARI","Breathlessness","HTN",NA,2021-05-04,2021-05-23,"Brought dead"
+24815,"Bengaluru Rural","1766557",60,"Female","SARI","Breathlessness","DM",2021-05-04,2021-05-08,2021-05-23,NA
+24820,"Bengaluru Rural","1773843",60,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-06,2021-05-23,NA
+24827,"Bengaluru Rural","1784754",48,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-23,NA
+24829,"Bengaluru Rural","1794157",65,"Female","SARI","Breathlessness","DM",2021-05-04,2021-05-05,2021-05-23,NA
+24834,"Bengaluru Rural","1799281",60,"Female","SARI","Breathlessness","DM",2021-05-02,2021-05-05,2021-05-23,NA
+24840,"Bengaluru Rural","1802654",59,"Male","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-18,2021-05-23,NA
+24918,"Bengaluru Rural","1952238",36,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-16,2021-05-23,NA
+24921,"Bengaluru Rural","1958536",60,"Female","SARI","Breathlessness","DM",2021-05-05,2021-05-11,2021-05-23,NA
+24938,"Bengaluru Rural","2001583",51,"Male","SARI","Breathlessness","DM",2021-05-08,2021-05-13,2021-05-23,NA
+24953,"Bengaluru Rural","2034854",52,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-18,2021-05-23,NA
+24985,"Bengaluru Rural","2068172",85,"Male","SARI","Breathlessness","DM",2021-05-08,2021-05-11,2021-05-23,NA
+25014,"Bengaluru Rural","2116780",51,"Male","SARI","Breathlessness","DM",NA,2021-05-12,2021-05-23,"Brought dead"
+25018,"Bengaluru Rural","2118703",40,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-15,2021-05-23,NA
+25030,"Bengaluru Rural","2129119",30,"Male","SARI","Breathlessness","DM",NA,2021-05-13,2021-05-23,"Brought dead"
+25033,"Bengaluru Rural","2135814",40,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-18,2021-05-23,NA
+25038,"Bengaluru Rural","2145794",58,"Female","SARI","Breathlessness","DM",2021-05-12,2021-05-12,2021-05-23,NA
+25071,"Bengaluru Rural","2199513",65,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-22,2021-05-23,NA
+25077,"Bengaluru Rural","2204140",57,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-19,2021-05-23,NA
+25081,"Bengaluru Rural","2207332",70,"Female","SARI","Breathlessness","DM",2021-05-14,2021-05-17,2021-05-23,NA
+25086,"Bengaluru Rural","2217036",55,"Female","SARI","Breathlessness","-",2021-05-08,2021-05-16,2021-05-23,NA
+25122,"Bengaluru Rural","2270495",50,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-20,2021-05-23,NA
+25123,"Bengaluru Rural","2271740",41,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-17,2021-05-23,NA
+25134,"Bengaluru Rural","2280714",60,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-18,2021-05-23,NA
+25159,"Bengaluru Rural","2313205",50,"Male","SARI","Breathlessness","-",NA,2021-05-20,2021-05-23,"Brought dead"
+25244,"Bengaluru Rural","2402827",75,"Female","SARI","Breathlessness","DM",NA,2021-05-20,2021-05-23,"Brought dead"
+25440,"Bengaluru Rural","1799310",46,"Male","SARI","Breathlessness","DM",2021-05-01,2021-05-07,2021-05-24,NA
+25441,"Bengaluru Rural","1799316",40,"Male","SARI","Breathlessness","-",NA,2021-05-04,2021-05-24,"Died at his residence"
+25443,"Bengaluru Rural","1802784",26,"Male","SARI","Breathlessness","-",NA,2021-05-12,2021-05-24,"Brought dead"
+25446,"Bengaluru Rural","1805817",62,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-17,2021-05-24,NA
+25448,"Bengaluru Rural","1809276",60,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-08,2021-05-24,NA
+25449,"Bengaluru Rural","1809304",43,"Female","SARI","Breathlessness","HTN",2021-05-01,2021-05-07,2021-05-24,NA
+25450,"Bengaluru Rural","1809306",75,"Male","SARI","Breathlessness","DM, HTN",NA,2021-05-14,2021-05-24,"Brought dead"
+25451,"Bengaluru Rural","1809318",36,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-15,2021-05-24,NA
+25452,"Bengaluru Rural","1809335",82,"Female","SARI","Breathlessness","DM",NA,2021-05-07,2021-05-24,"Brought dead"
+25453,"Bengaluru Rural","1809341",48,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-16,2021-05-24,NA
+25454,"Bengaluru Rural","1809365",70,"Female","SARI","Breathlessness","DM, HTN",NA,2021-05-20,2021-05-24,"Brought dead"
+25460,"Bengaluru Rural","1834984",65,"Male","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-09,2021-05-24,NA
+25461,"Bengaluru Rural","1838526",60,"Male","SARI","Breathlessness","DM, HTN",2021-05-03,2021-05-17,2021-05-24,NA
+25545,"Bengaluru Rural","2078905",75,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-21,2021-05-24,NA
+25636,"Bengaluru Rural","2273765",82,"Male","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-19,2021-05-24,NA
+25643,"Bengaluru Rural","2287969",57,"Male","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-18,2021-05-24,NA
+25684,"Bengaluru Rural","2339086",48,"Male","SARI","Breathlessness","DM, HTN",2021-05-15,2021-05-22,2021-05-24,NA
+25751,"Bengaluru Rural","2421172",46,"Male","SARI","Breathlessness","DM, HTN",2021-05-21,2021-05-23,2021-05-24,NA
+26012,"Bengaluru Rural","1820705",38,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-07,2021-05-25,NA
+26024,"Bengaluru Rural","1846330",78,"Male","SARI","Breathlessness","DM",2021-05-01,2021-05-07,2021-05-25,NA
+26031,"Bengaluru Rural","1851434",36,"Female","SARI","Breathlessness","DM",2021-05-01,2021-05-06,2021-05-25,NA
+26037,"Bengaluru Rural","1866491",27,"Male","SARI","Breathlessness","-",2021-04-12,2021-05-08,2021-05-25,NA
+26126,"Bengaluru Rural","2056602",53,"Female","SARI","Breathlessness","-",NA,2021-05-19,2021-05-25,"Brought dead"
+26141,"Bengaluru Rural","2086000",58,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-20,2021-05-25,NA
+26150,"Bengaluru Rural","2109799",60,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-21,2021-05-25,NA
+26203,"Bengaluru Rural","2241246",80,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-23,2021-05-25,NA
+26213,"Bengaluru Rural","2250032",54,"Male","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-21,2021-05-25,NA
+26221,"Bengaluru Rural","2273749",70,"Female","SARI","Breathlessness","HTN",2021-05-16,2021-05-17,2021-05-25,NA
+26315,"Bengaluru Rural","2400110",70,"Male","SARI","Breathlessness","DM, HTN",2021-05-19,2021-05-20,2021-05-25,NA
+26600,"Bengaluru Rural","1853259",40,"Male","SARI","Breathlessness","HTN",2021-05-10,2021-05-18,2021-05-26,NA
+26603,"Bengaluru Rural","1855950",70,"Male","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-06,2021-05-26,NA
+26604,"Bengaluru Rural","1858973",70,"Male","SARI","Breathlessness","DM",NA,2021-05-21,2021-05-26,"Brought dead"
+26609,"Bengaluru Rural","1866504",90,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-06,2021-05-26,NA
+26611,"Bengaluru Rural","1870210",52,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-04,2021-05-26,NA
+26612,"Bengaluru Rural","1870249",75,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-14,2021-05-26,NA
+26613,"Bengaluru Rural","1870592",68,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-21,2021-05-26,NA
+26615,"Bengaluru Rural","1874809",35,"Male","SARI","Breathlessness","-",NA,2021-05-06,2021-05-26,"Brought dead"
+26616,"Bengaluru Rural","1878602",48,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-09,2021-05-26,NA
+26617,"Bengaluru Rural","1878609",72,"Male","SARI","Breathlessness","DM",2021-05-02,2021-05-12,2021-05-26,NA
+26618,"Bengaluru Rural","1878611",55,"Male","SARI","Breathlessness","DM",2021-05-03,2021-05-13,2021-05-26,NA
+26619,"Bengaluru Rural","1878634",76,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-19,2021-05-26,NA
+26620,"Bengaluru Rural","1878636",40,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-23,2021-05-26,NA
+26624,"Bengaluru Rural","1894550",66,"Male","SARI","Breathlessness","DM",2021-05-01,2021-05-10,2021-05-26,NA
+26628,"Bengaluru Rural","1901806",51,"Female","SARI","Breathlessness","-",2021-05-01,2021-05-12,2021-05-26,NA
+26629,"Bengaluru Rural","1901814",65,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-07,2021-05-26,NA
+26634,"Bengaluru Rural","1906517",28,"Female","SARI","Breathlessness","-",2021-05-02,2021-05-07,2021-05-26,NA
+26635,"Bengaluru Rural","1906559",38,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-26,2021-05-26,NA
+26640,"Bengaluru Rural","1913084",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-04,2021-05-11,2021-05-26,NA
+26644,"Bengaluru Rural","1919475",56,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-16,2021-05-26,NA
+26646,"Bengaluru Rural","1923686",65,"Female","SARI","Breathlessness","-",NA,2021-05-14,2021-05-26,"Brought dead"
+26647,"Bengaluru Rural","1923778",66,"Female","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-21,2021-05-26,NA
+26650,"Bengaluru Rural","1928130",49,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-09,2021-05-26,NA
+26652,"Bengaluru Rural","1932363",52,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-10,2021-05-26,NA
+26654,"Bengaluru Rural","1941064",68,"Male","SARI","Breathlessness","-",NA,2021-05-11,2021-05-26,"Brought dead"
+26685,"Bengaluru Rural","2042183",45,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-14,2021-05-26,NA
+26686,"Bengaluru Rural","2042208",65,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-22,2021-05-26,NA
+26687,"Bengaluru Rural","2042263",75,"Female","SARI","Fever, Breathlessness","DM",2021-05-10,2021-05-23,2021-05-26,NA
+26693,"Bengaluru Rural","2047714",45,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-18,2021-05-26,NA
+26705,"Bengaluru Rural","2082233",60,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-22,2021-05-26,NA
+26722,"Bengaluru Rural","2132289",45,"Male","SARI","Breathlessness","DM",2021-05-12,2021-05-12,2021-05-26,NA
+26745,"Bengaluru Rural","2207336",60,"Female","SARI","Fever, Breathlessness","DM",2021-05-14,2021-05-17,2021-05-26,NA
+26756,"Bengaluru Rural","2250017",36,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-17,2021-05-26,NA
+26814,"Bengaluru Rural","2369177",55,"Female","SARI","Breathlessness","-",2021-05-19,2021-05-19,2021-05-26,NA
+26815,"Bengaluru Rural","2369189",60,"Male","SARI","Fever, Breathlessness","DM",2021-05-19,2021-05-20,2021-05-26,NA
+27036,"Bengaluru Rural","1870233",61,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-01,2021-05-06,2021-05-27,NA
+27041,"Bengaluru Rural","1878626",37,"Male","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-21,2021-05-27,NA
+27054,"Bengaluru Rural","1916799",41,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-09,2021-05-27,NA
+27102,"Bengaluru Rural","2056700",40,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-22,2021-05-27,NA
+27108,"Bengaluru Rural","2071232",59,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-24,2021-05-27,NA
+27148,"Bengaluru Rural","2161800",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-13,2021-05-23,2021-05-27,NA
+27156,"Bengaluru Rural","2192705",65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-21,2021-05-21,2021-05-27,NA
+27189,"Bengaluru Rural","2239175",42,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-23,2021-05-27,NA
+27191,"Bengaluru Rural","2245675",75,"Female","SARI","Fever, Breathlessness","HTN",2021-05-15,2021-05-24,2021-05-27,NA
+27303,"Bengaluru Rural","2412355",30,"Female","SARI","Fever, Breathlessness","DM",2021-05-20,2021-05-24,2021-05-27,NA
+27324,"Bengaluru Rural","2434459",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-25,2021-05-27,NA
+27346,"Bengaluru Rural","2459968",46,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-23,2021-05-27,NA
+27371,"Bengaluru Rural","2490175",74,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-23,2021-05-25,2021-05-27,NA
+27422,"Bengaluru Rural","1888983",60,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-07,2021-05-28,NA
+27429,"Bengaluru Rural","1913054",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-10,2021-05-14,2021-05-28,NA
+27430,"Bengaluru Rural","1913057",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-12,2021-05-16,2021-05-28,NA
+27431,"Bengaluru Rural","1913096",70,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-09,2021-05-28,NA
+27432,"Bengaluru Rural","1913110",58,"Female","SARI","Fever, Breathlessness","DM",2021-05-04,2021-05-20,2021-05-28,NA
+27433,"Bengaluru Rural","1913112",60,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-12,2021-05-28,NA
+27434,"Bengaluru Rural","1913118",65,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-10,2021-05-28,NA
+27436,"Bengaluru Rural","1916697",65,"Female","SARI","Fever, Breathlessness","DM",2021-05-05,2021-05-11,2021-05-28,NA
+27536,"Bengaluru Rural","2161818",55,"Female","SARI","Fever, Breathlessness","-",NA,2021-05-17,2021-05-28,NA
+27545,"Bengaluru Rural","2167526",85,"Female","SARI","Fever, Breathlessness","DM",NA,2021-05-20,2021-05-28,NA
+27730,"Bengaluru Rural","2484535",31,"Female","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-24,2021-05-28,NA
+27922,"Bengaluru Rural","2082269",48,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-11,2021-05-25,2021-05-29,NA
+28001,"Bengaluru Rural","2250012",54,"Male","SARI","Fever, Breathlessness","HTN",2021-05-15,2021-05-26,2021-05-29,NA
+28030,"Bengaluru Rural","2290963",63,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-25,2021-05-29,NA
+28079,"Bengaluru Rural","2359897",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-26,2021-05-29,NA
+28080,"Bengaluru Rural","2359950",62,"Male","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-26,2021-05-29,NA
+28090,"Bengaluru Rural","2369164",60,"Female","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-26,2021-05-29,NA
+28097,"Bengaluru Rural","2376674",49,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-26,2021-05-29,NA
+28101,"Bengaluru Rural","2378514",73,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-19,2021-05-26,2021-05-29,NA
+28119,"Bengaluru Rural","2409947",65,"Female","SARI","Fever, Breathlessness","HTN",2021-05-20,2021-05-26,2021-05-29,NA
+28148,"Bengaluru Rural","2440280",78,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-26,2021-05-29,NA
+28171,"Bengaluru Rural","2470676",60,"Female","SARI","Fever, Breathlessness","DM",2021-05-22,2021-05-25,2021-05-29,NA
+28175,"Bengaluru Rural","2473069",98,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2021-05-26,2021-05-29,"Brought dead"
+28180,"Bengaluru Rural","2476480",55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-22,2021-05-26,2021-05-29,NA
+28186,"Bengaluru Rural","2482603",76,"Male","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-25,2021-05-29,NA
+28200,"Bengaluru Rural","2493649",41,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-27,2021-05-29,NA
+28230,"Bengaluru Rural","2517683",38,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2021-05-24,2021-05-26,2021-05-29,NA
+28491,"Bengaluru Rural","2170563",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-21,2021-05-30,NA
+28495,"Bengaluru Rural","2185319",52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-21,2021-05-30,NA
+28562,"Bengaluru Rural","2424004",57,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-27,2021-05-30,NA
+28585,"Bengaluru Rural","2461737",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-26,2021-05-30,NA
+28606,"Bengaluru Rural","2496554",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-05-26,2021-05-30,NA
+28607,"Bengaluru Rural","2496558",65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-26,2021-05-30,NA
+28611,"Bengaluru Rural","2504376",76,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-28,2021-05-30,NA
+28642,"Bengaluru Rural","2557157",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-27,2021-05-30,NA
+28660,"Bengaluru Rural","2585278",37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-05-30,NA
+28669,"Bengaluru Rural","2595694",30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-27,2021-05-30,NA
+28899,"Bengaluru Rural","2135810",38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-28,2021-05-31,NA
+28920,"Bengaluru Rural","2287966",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-28,2021-05-31,NA
+28934,"Bengaluru Rural","2369158",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-28,2021-05-31,NA
+28947,"Bengaluru Rural","2409938",75,"Male","SARI","Breathlessness","TB",2021-05-26,2021-05-29,2021-05-31,NA
+28997,"Bengaluru Rural","2514556",60,"Male","SARI","Breathlessness","HTN",2021-05-26,2021-05-27,2021-05-31,NA
+29010,"Bengaluru Rural","2529005",80,"Male","SARI","Breathlessness","DM",2021-05-27,2021-05-29,2021-05-31,NA
+29013,"Bengaluru Rural","2531800",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-25,2021-05-29,2021-05-31,NA
+29017,"Bengaluru Rural","2535892",19,"Female","SARI","Breathlessness","-",2021-05-25,2021-05-29,2021-05-31,NA
+29019,"Bengaluru Rural","2540549",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-29,2021-05-31,NA
+29053,"Bengaluru Rural","2589918",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-27,2021-05-28,2021-05-31,NA
+29249,"Bengaluru Rural","1912951",25,"Female","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-08,2021-06-01,NA
+29354,"Bengaluru Rural","2201195",50,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-16,2021-06-01,NA
+29355,"Bengaluru Rural","2201223",52,"Female","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-14,2021-06-01,NA
+29357,"Bengaluru Rural","2207274",30,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-15,2021-06-01,"Died at his residence"
+29386,"Bengaluru Rural","2369184",65,"Male","SARI","Fever, Breathlessness","DM",2021-05-19,2021-05-30,2021-06-01,NA
+29394,"Bengaluru Rural","2380880",60,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-27,2021-06-01,NA
+29399,"Bengaluru Rural","2385373",72,"Male","SARI","Fever, Breathlessness","DM",NA,2021-05-26,2021-06-01,"Died at his residence"
+29462,"Bengaluru Rural","2517860",60,"Male","SARI","Fever, Breathlessness","DM",NA,2021-05-27,2021-06-01,"Died at his residence"
+29536,"Bengaluru Rural","2628812",68,"Female","SARI","Fever, Breathlessness","DM",2021-05-20,2021-05-29,2021-06-01,NA
+29547,"Bengaluru Rural","2642856",48,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-30,2021-05-30,2021-06-01,NA
+29549,"Bengaluru Rural","2645080",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-31,2021-05-31,2021-06-01,NA
+29799,"Bengaluru Rural","2300695",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-23,2021-06-02,NA
+29816,"Bengaluru Rural","2339079",65,"Female","SARI","Breathlessness","-",2021-05-18,2021-05-29,2021-06-02,NA
+29849,"Bengaluru Rural","2429710",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-06-02,NA
+29853,"Bengaluru Rural","2443358",40,"Male","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-28,2021-06-02,NA
+29855,"Bengaluru Rural","2446500",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-25,2021-05-25,2021-06-02,NA
+29864,"Bengaluru Rural","2465969",41,"Male","SARI","Cough, Breathlessness","-",2021-05-22,2021-05-30,2021-06-02,NA
+29902,"Bengaluru Rural","2515847",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-28,2021-06-02,NA
+29923,"Bengaluru Rural","2551049",38,"Male","SARI","Breathlessness","-",2021-05-29,2021-05-29,2021-06-02,NA
+29928,"Bengaluru Rural","2560907",45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-05-29,2021-06-02,NA
+29957,"Bengaluru Rural","2604710",64,"Female","SARI","Fever, Breathlessness","-",2021-05-29,2021-05-29,2021-06-02,NA
+29966,"Bengaluru Rural","2618064",81,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-06-02,NA
+29983,"Bengaluru Rural","2636615",80,"Male","SARI","Fever, Breathlessness","-",2021-05-31,2021-05-31,2021-06-02,NA
+30276,"Bengaluru Rural","2300697",75,"Male","SARI","Fever, Breathlessness","DM",NA,2021-05-27,2021-06-03,"Brought dead"
+30333,"Bengaluru Rural","2426032",65,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-25,2021-06-03,NA
+30371,"Bengaluru Rural","2511181",65,"Male","SARI","Breathlessness","-",2021-05-24,2021-06-01,2021-06-03,NA
+30431,"Bengaluru Rural","2585280",65,"Female","SARI","Breathlessness","DM, HTN",2021-05-28,2021-06-01,2021-06-03,NA
+30443,"Bengaluru Rural","2597537",36,"Male","SARI","Breathlessness","-",2021-05-28,2021-06-01,2021-06-03,NA
+30462,"Bengaluru Rural","2626298",65,"Female","SARI","Breathlessness","-",2021-05-29,2021-06-01,2021-06-03,NA
+30466,"Bengaluru Rural","2628809",39,"Female","SARI","Breathlessness","-",2021-05-31,2021-05-31,2021-06-03,NA
+30474,"Bengaluru Rural","2640545",37,"Female","SARI","Breathlessness","-",2021-05-30,2021-05-31,2021-06-03,NA
+30490,"Bengaluru Rural","2655099",60,"Male","SARI","Breathlessness","DM",2021-05-31,2021-05-31,2021-06-03,NA
+30493,"Bengaluru Rural","2656858",66,"Female","SARI","Fever, Breathlessness","DM",2021-05-31,2021-05-31,2021-06-03,NA
+30494,"Bengaluru Rural","2656861",63,"Male","SARI","Breathlessness","DM, HTN",2021-05-31,2021-05-31,2021-06-03,NA
+30647,"Bengaluru Rural","2192712",50,"Female","SARI","Breathlessness","-",NA,2021-05-11,2021-06-04,"Died at her residence"
+30659,"Bengaluru Rural","2214282",65,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-18,2021-06-04,NA
+30698,"Bengaluru Rural","2325601",65,"Male","SARI","Breathlessness","HTN",2021-05-19,2021-06-02,2021-06-04,NA
+30703,"Bengaluru Rural","2334886",52,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-23,2021-06-04,NA
+30752,"Bengaluru Rural","2486429",60,"Female","SARI","Breathlessness","DM, HTN",2021-05-28,2021-05-28,2021-06-04,NA
+30754,"Bengaluru Rural","2488154",70,"Male","SARI","Breathlessness","-",2021-05-25,2021-06-02,2021-06-04,NA
+30776,"Bengaluru Rural","2537441",86,"Male","SARI","Breathlessness","DM, HTN",2021-05-30,2021-06-03,2021-06-04,NA
+30806,"Bengaluru Rural","2581607",33,"Female","SARI","Breathlessness","-",2021-05-27,2021-06-02,2021-06-04,NA
+30869,"Bengaluru Rural","2673242",59,"Male","SARI","Breathlessness","DM, HTN",2021-06-01,2021-06-03,2021-06-04,NA
+31101,"Bengaluru Rural","2442266",45,"Male","SARI","Breathlessness","DM",2021-05-22,2021-06-03,2021-06-05,NA
+31131,"Bengaluru Rural","2507592",70,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-06-04,2021-06-05,NA
+31133,"Bengaluru Rural","2509614",56,"Male","SARI","Breathlessness","-",2021-05-24,2021-06-04,2021-06-05,NA
+31198,"Bengaluru Rural","2648141",40,"Male","SARI","Breathlessness","DM",2021-05-30,2021-06-02,2021-06-05,NA
+31208,"Bengaluru Rural","2658011",65,"Female","SARI","Breathlessness","-",2021-05-30,2021-06-04,2021-06-05,NA
+31212,"Bengaluru Rural","2660161",46,"Female","SARI","Breathlessness","DM",2021-05-31,2021-06-03,2021-06-05,NA
+31231,"Bengaluru Rural","2680903",52,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-04,2021-06-05,NA
+31254,"Bengaluru Rural","2706835",41,"Male","SARI","Breathlessness","-",2021-06-03,2021-06-03,2021-06-05,NA
+31464,"Bengaluru Rural","2505982",45,"Female","SARI","Breathlessness","-",2021-05-26,2021-06-04,2021-06-06,NA
+31490,"Bengaluru Rural","2589913",62,"Female","SARI","Breathlessness","DM",2021-05-27,2021-06-04,2021-06-06,NA
+31704,"Bengaluru Rural","2327625",75,"Male","SARI","Breathlessness","DM",2021-05-17,2021-06-06,2021-06-07,NA
+31722,"Bengaluru Rural","2376698",40,"Male","SARI","Breathlessness","-",NA,2021-05-19,2021-06-07,"Died at his residence"
+31778,"Bengaluru Rural","2549699",60,"Male","SARI","Breathlessness","DM",2021-05-27,2021-06-05,2021-06-07,NA
+31780,"Bengaluru Rural","2552970",50,"Female","SARI","Breathlessness","-",2021-05-31,2021-06-06,2021-06-07,NA
+31881,"Bengaluru Rural","2696004",65,"Female","SARI","Breathlessness","-",2021-06-02,2021-06-06,2021-06-07,NA
+31968,"Bengaluru Rural","2505968",40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-04,2021-06-08,NA
+31979,"Bengaluru Rural","2563735",84,"Male","SARI","Breathlessness","DM, HTN",2021-05-26,2021-06-05,2021-06-08,NA
+31993,"Bengaluru Rural","2597395",37,"Male","SARI","Breathlessness","-",2021-05-28,2021-06-06,2021-06-08,NA
+32023,"Bengaluru Rural","2653820",30,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-05,2021-06-08,NA
+32034,"Bengaluru Rural","2673226",39,"Female","SARI","Breathlessness","-",2021-06-01,2021-06-04,2021-06-08,NA
+32042,"Bengaluru Rural","2689068",70,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-06,2021-06-08,NA
+32074,"Bengaluru Rural","2727777",50,"Female","SARI","Breathlessness","-",2021-06-04,2021-06-05,2021-06-08,NA
+32102,"Bengaluru Rural","2752962",75,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-07,2021-06-08,NA
+32127,"Bengaluru Rural","2417844",42,"Male","SARI","Breathlessness","-",2021-05-20,2021-06-06,2021-06-09,NA
+32148,"Bengaluru Rural","2549180",63,"Male","SARI","Breathlessness","-",2021-06-01,2021-06-01,2021-06-09,NA
+32151,"Bengaluru Rural","2557162",75,"Male","SARI","Breathlessness","-",2021-05-26,2021-06-07,2021-06-09,NA
+32158,"Bengaluru Rural","2575981",65,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-06,2021-06-09,NA
+32160,"Bengaluru Rural","2583203",60,"Male","SARI","Breathlessness","DM",2021-05-27,2021-06-04,2021-06-09,NA
+32184,"Bengaluru Rural","2627647",79,"Female","SARI","Breathlessness","DM",2021-06-04,2021-06-07,2021-06-09,NA
+32190,"Bengaluru Rural","2638893",50,"Female","SARI","Breathlessness","-",2021-06-07,2021-06-07,2021-06-09,NA
+32193,"Bengaluru Rural","2647643",40,"Male","ILI","Fever, Cough","-",2021-06-06,2021-06-07,2021-06-09,NA
+32317,"Bengaluru Rural","2470702",55,"Male","SARI","Breathlessness","-",2021-05-30,2021-06-08,2021-06-10,NA
+32354,"Bengaluru Rural","2606647",58,"Male","SARI","Breathlessness","-",2021-05-28,2021-06-08,2021-06-10,NA
+32381,"Bengaluru Rural","2653821",60,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-09,2021-06-10,NA
+32383,"Bengaluru Rural","2656834",38,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-08,2021-06-10,NA
+32389,"Bengaluru Rural","2666698",70,"Female","SARI","Breathlessness","-",2021-06-01,2021-06-08,2021-06-10,NA
+32394,"Bengaluru Rural","2673289",32,"Male","SARI","Breathlessness","-",2021-05-31,2021-06-05,2021-06-10,NA
+32396,"Bengaluru Rural","2677664",52,"Female","SARI","Breathlessness","HTN",2021-06-01,2021-06-08,2021-06-10,NA
+32438,"Bengaluru Rural","2724894",67,"Male","SARI","Breathlessness","-",2021-06-04,2021-06-08,2021-06-10,NA
+32532,"Bengaluru Rural","2597368",75,"Male","SARI","Breathlessness","-",2021-05-20,2021-05-28,2021-06-11,NA
+32537,"Bengaluru Rural","2604713",42,"Male","SARI","Breathlessness","-",2021-06-01,2021-06-09,2021-06-11,NA
+32624,"Bengaluru Rural","2762425",35,"Male","SARI","Breathlessness","-",2021-06-08,2021-06-08,2021-06-11,NA
+32625,"Bengaluru Rural","2764047",82,"Male","SARI","Breathlessness","DM",2021-06-07,2021-06-09,2021-06-11,NA
+32631,"Bengaluru Rural","2771476",48,"Male","SARI","Breathlessness","-",2021-06-08,2021-06-09,2021-06-11,NA
+32642,"Bengaluru Rural","2779862",85,"Female","SARI","Breathlessness","-",2021-06-09,2021-06-10,2021-06-11,NA
+32660,"Bengaluru Rural","2369151",58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-06-12,2021-06-12,NA
+32670,"Bengaluru Rural","2551004",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-26,2021-06-11,2021-06-12,NA
+32707,"Bengaluru Rural","2664318",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-10,2021-06-12,NA
+32715,"Bengaluru Rural","2677672",45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-06,2021-06-10,2021-06-12,NA
+32723,"Bengaluru Rural","2684620",35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-11,2021-06-12,NA
+32744,"Bengaluru Rural","2722935",57,"Male","SARI","Breathlessness","DM",2021-06-04,2021-06-11,2021-06-12,NA
+32751,"Bengaluru Rural","2738139",60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-11,2021-06-12,NA
+32770,"Bengaluru Rural","2768240",62,"Male","SARI","Breathlessness","DM, HTN",2021-06-06,2021-06-11,2021-06-12,NA
+32822,"Bengaluru Rural","2594815",45,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-12,2021-06-13,NA
+32832,"Bengaluru Rural","2656833",63,"Female","SARI","Breathlessness","DM",2021-06-02,2021-06-08,2021-06-13,NA
+32883,"Bengaluru Rural","2757665",72,"Male","SARI","Breathlessness","-",2021-06-12,2021-06-12,2021-06-13,NA
+32929,"Bengaluru Rural","2409941",80,"Female","SARI","Breathlessness","-",NA,2021-05-29,2021-06-14,"Brought dead"
+32956,"Bengaluru Rural","2687501",56,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-13,2021-06-14,NA
+32992,"Bengaluru Rural","2746427",45,"Male","SARI","Breathlessness","-",2021-06-06,2021-06-13,2021-06-14,NA
+33061,"Bengaluru Rural","2636643",72,"Male","ILI","Fever, Cough","DM",2021-06-01,2021-06-05,2021-06-15,NA
+33064,"Bengaluru Rural","2667822",55,"Female","SARI","Fever, cough, Breathlessness","-",NA,2021-06-01,2021-06-15,"Died at her residence"
+33068,"Bengaluru Rural","2677662",76,"Male","SARI","Fever, cough, Breathlessness","HTN",2021-05-26,2021-06-03,2021-06-15,NA
+33198,"Bengaluru Rural","2710762",50,"Female","SARI","Breathlessness","-",2021-06-03,2021-06-13,2021-06-16,NA
+33252,"Bengaluru Rural","2769143",45,"Male","SARI","Breathlessness","DM, HTN",2021-06-08,2021-06-09,2021-06-16,NA
+33265,"Bengaluru Rural","2784144",56,"Male","SARI","Breathlessness","-",2021-06-09,2021-06-16,2021-06-16,NA
+33276,"Bengaluru Rural","2797644",34,"Male","SARI","Breathlessness","-",2021-06-10,2021-06-10,2021-06-16,NA
+33277,"Bengaluru Rural","2797667",55,"Male","SARI","Breathlessness","-",2021-06-11,2021-06-15,2021-06-16,NA
+33288,"Bengaluru Rural","2820910",90,"Male","SARI","Breathlessness","DM, HTN",NA,2021-05-15,2021-06-16,"Brought dead"
+33372,"Bengaluru Rural","2746429",35,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-16,2021-06-17,NA
+33416,"Bengaluru Rural","2812445",51,"Male","SARI","Breathlessness","-",2021-06-13,2021-06-16,2021-06-17,NA
+33447,"Bengaluru Rural","2408020",63,"Male","SARI","Breathlessness","HTN",2021-05-21,2021-06-01,2021-06-18,NA
+33490,"Bengaluru Rural","2693743",80,"Male","SARI","breathlessness","DM, HTN",2021-06-01,2021-06-17,2021-06-18,NA
+33579,"Bengaluru Rural","2824265",76,"Male","ILI","FEVER","COPD",2021-06-13,2021-06-16,2021-06-18,NA
+33648,"Bengaluru Rural","2733241",33,"Male","SARI","Fever, Breathlessness","-",2021-06-04,2021-06-15,2021-06-19,NA
+33713,"Bengaluru Rural","2815329",66,"Female","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-19,2021-06-19,NA
+33717,"Bengaluru Rural","2818740",50,"Male","SARI","Fever, Breathlessness","-",2021-06-14,2021-06-17,2021-06-19,NA
+33741,"Bengaluru Rural","2834907",17,"Male","SARI","Fever, Breathlessness","-",2021-06-14,2021-06-17,2021-06-19,NA
+33948,"Bengaluru Rural","2708018",26,"Female","SARI","Breathlessness","-",2021-06-02,2021-06-03,2021-06-21,NA
+33954,"Bengaluru Rural","2729258",49,"Male","SARI","Fever, Breathlesness","-",2021-06-01,2021-06-07,2021-06-21,NA
+33962,"Bengaluru Rural","2764077",87,"Male","SARI","Breathlessness","DM, COPD",2021-06-08,2021-06-17,2021-06-21,NA
+33971,"Bengaluru Rural","2778108",32,"Male","SARI","Breathlessness","-",2021-06-09,2021-06-21,2021-06-21,NA
+34066,"Bengaluru Rural","2735451",53,"Male","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-20,2021-06-22,NA
+34085,"Bengaluru Rural","2778109",67,"Male","SARI","Fever, Breathlessness","-",2021-06-09,2021-06-21,2021-06-22,NA
+34093,"Bengaluru Rural","2785478",55,"Female","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-22,2021-06-22,NA
+34224,"Bengaluru Rural","2762466",51,"Male","SARI","Fever, Breathlessness","-",2021-06-12,2021-06-21,2021-06-23,NA
+34256,"Bengaluru Rural","2840282",73,"Female","SARI","Breathlessness","-",2021-06-18,2021-06-21,2021-06-23,NA
+34264,"Bengaluru Rural","2846618",48,"Male","SARI","Breathlessness","-",2021-06-19,2021-06-21,2021-06-23,NA
+34337,"Bengaluru Rural","2785475",54,"Male","SARI","Breathlessness","-",2021-06-09,2021-06-10,2021-06-24,NA
+34339,"Bengaluru Rural","2786681",65,"Male","SARI","Fever, Breathlessness","DM, HTN",NA,2021-06-10,2021-06-24,"Brought dead"
+34348,"Bengaluru Rural","2805592",80,"Female","SARI","Fever, Breathlessness","-",2021-06-14,2021-06-23,2021-06-24,NA
+34376,"Bengaluru Rural","2831888",87,"Female","SARI","Fever, Breathlessness","-",2021-06-16,2021-06-22,2021-06-24,NA
+34383,"Bengaluru Rural","2841617",28,"Female","SARI","Fever, Cough, Breathlesness","-",2021-06-18,2021-06-19,2021-06-24,NA
+34390,"Bengaluru Rural","2845561",29,"Female","SARI","Fever, Breathlessness","-",2021-06-19,2021-06-23,2021-06-24,NA
+34478,"Bengaluru Rural","2773639",60,"Female","SARI","Breathlessness","-",2021-06-08,2021-06-25,2021-06-25,NA
+34480,"Bengaluru Rural","2784184",56,"Male","SARI","Breathlessness","-",2021-06-09,2021-06-25,2021-06-25,NA
+34489,"Bengaluru Rural","2801379",65,"Female","SARI","Breathlessness","-",2021-06-12,2021-06-24,2021-06-25,NA
+34619,"Bengaluru Rural","2839687",75,"Male","ILI","Fever, Cough","DM, HTN",2021-06-18,2021-06-26,2021-06-26,NA
+34622,"Bengaluru Rural","2843275",82,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-18,2021-06-26,2021-06-26,NA
+34649,"Bengaluru Rural","2871575",60,"Female","SARI","Fever, Cough, Breathlessness","DM",NA,2021-06-25,2021-06-26,"Brought dead"
+34770,"Bengaluru Rural","2777360",36,"Male","SARI ","Breathlessness ","- ",2021-06-09,2021-06-19,2021-06-28,NA
+34775,"Bengaluru Rural","2801521",70,"Male","SARI ","Breathlessness ","- ",NA,2021-06-16,2021-06-28,"Died at his residence"
+34888,"Bengaluru Rural","2842386",80,"Male","SARI ","Breathlessness ","- ",NA,NA,NA,NA
+35006,"Bengaluru Rural","2859944",85,"Male","SARI","Breathlessness","-",2021-06-22,2021-06-26,2021-06-30,NA
+35024,"Bengaluru Rural","2877579",65,"Female","SARI","Breathlessness","-",2021-06-27,2021-06-30,2021-06-30,NA
+35082,"Bengaluru Rural","2827453",55,"Male","SARI","Cough, Breathlessness","-",2021-06-17,2021-06-30,2021-07-01,NA
+35088,"Bengaluru Rural","2839688",67,"Female","SARI","Breathlessness","-",2021-06-18,2021-06-22,2021-07-01,NA
+35095,"Bengaluru Rural","2846104",37,"Male","SARI","Breathlessness","-",2021-06-19,2021-07-01,2021-07-01,NA
+35101,"Bengaluru Rural","2856017",47,"Female","SARI","Breathlessness","-",2021-06-22,2021-06-25,2021-07-01,NA
+35124,"Bengaluru Rural","2883595",38,"Male","SARI","Breathlessness","-",2021-06-29,2021-07-01,2021-07-01,NA
+35175,"Bengaluru Rural","2838006",28,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-17,2021-06-18,2021-07-02,NA
+35284,"Bengaluru Rural","2872365",35,"Female","SARI","Breathlessness","-",2021-06-26,2021-07-01,2021-07-03,NA
+35295,"Bengaluru Rural","2890008",38,"Male","ILI","Fever","-",2021-05-30,2021-07-02,2021-07-03,NA
+35297,"Bengaluru Rural","2890356",80,"Male","SARI","Breathlessness","-",2021-07-01,2021-07-02,2021-07-03,NA
+35328,"Bengaluru Rural","2829741",70,"Female","SARI","Breathlessness","-",2021-06-16,2021-07-03,2021-07-04,NA
+35332,"Bengaluru Rural","2853885",80,"Male","SARI","Breathlessness","-",2021-06-22,2021-06-25,2021-07-04,NA
+35340,"Bengaluru Rural","2866793",72,"Male","SARI","Breathlessness","-",2021-06-24,2021-07-03,2021-07-04,NA
+35397,"Bengaluru Rural","2822786",71,"Female","SARI","Breathlessness","-",2021-06-25,2021-06-25,2021-07-05,NA
+35430,"Bengaluru Rural","2896508",36,"Male","SARI","Breathlessness","-",2021-06-03,2021-07-03,2021-07-05,NA
+35453,"Bengaluru Rural","2774518",67,"Male","SARI","Breathlessness","DM, HTN",2021-06-09,2021-07-04,2021-07-06,NA
+35484,"Bengaluru Rural","2881566",60,"Male","SARI","Fever, Breathlessness","-",2021-06-28,2021-07-04,2021-07-06,NA
+35549,"Bengaluru Rural","2830655",72,"Male","SARI","Breathlessness","-",2021-06-16,2021-07-05,2021-07-07,NA
+35589,"Bengaluru Rural","2899064",85,"Female","SARI","Breathlessness","-",2021-07-03,2021-07-04,2021-07-07,NA
+35812,"Bengaluru Rural","2893617",71,"Female","SARI","Breathlessness","-",2021-07-03,2021-07-10,2021-07-11,NA
+35850,"Bengaluru Rural","2870107",53,"Male","SARI","Breathlessness","-",2021-06-21,2021-07-04,2021-07-12,NA
+35869,"Bengaluru Rural","2888535",41,"Male","SARI","Breathlessness","-",2021-07-01,2021-07-04,2021-07-12,NA
+35908,"Bengaluru Rural","2841947",70,"Female","SARI","Breathlessness","-",NA,2021-06-18,2021-07-13,"Died at her residence"
+35909,"Bengaluru Rural","2844830",75,"Male","SARI","Breathlessness","-",NA,2021-07-03,2021-07-13,"Died at his residence"
+35952,"Bengaluru Rural","2869067",65,"Male","SARI","Breathlessness","HTN",2021-06-23,2021-06-29,2021-07-14,NA
+35955,"Bengaluru Rural","2879541",42,"Female","SARI","Breathlessness","-",NA,2021-06-28,2021-07-14,"Brought dead"
+35957,"Bengaluru Rural","2885758",75,"Female","SARI","Breathlessness","-",NA,2021-07-03,2021-07-14,"Died at her residence"
+36006,"Bengaluru Rural","2876678",40,"Female","SARI","Breathlessness","-",NA,2021-06-30,2021-07-15,"Died at her residence"
+36029,"Bengaluru Rural","2912638",46,"Male","SARI","Breathlessness","HTN",2021-07-11,2021-07-14,2021-07-15,NA
+36050,"Bengaluru Rural","2880373",65,"Female","SARI","Breathlessness","DM, HTN",2021-06-28,2021-07-15,2021-07-16,NA
+36065,"Bengaluru Rural","2906789",40,"Male","SARI","Breathlessness","-",2021-07-08,2021-07-12,2021-07-16,NA
+36099,"Bengaluru Rural","2907308",70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-09,2021-07-15,2021-07-17,NA
+36125,"Bengaluru Rural","2824835",90,"Male","SARI","Breathlessness","DM",NA,2021-06-15,2021-07-18,"Died at his residence"
+36129,"Bengaluru Rural","2877563",75,"Male","SARI","Breathlessness","DM, HTN",NA,2021-06-28,2021-07-18,"Died at his residence"
+36163,"Bengaluru Rural","2870345",70,"Male","ILI","Fever","-",2021-07-01,2021-07-19,2021-07-19,NA
+36168,"Bengaluru Rural","2885754",66,"Female","SARI","Breathlessness","-",NA,2021-07-03,2021-07-19,"Died at her residence"
+36326,"Bengaluru Rural","2928389",54,"Male","SARI","Fever, Breathlessness","HTN",2021-07-20,2021-07-23,2021-07-23,NA
+36400,"Bengaluru Rural","2915051",68,"Female","SARI","Breathlessness","-",2021-07-12,2021-07-26,2021-07-27,NA
+36404,"Bengaluru Rural","2917534",65,"Male","SARI","Breathlessness","-",2021-07-12,2021-07-14,2021-07-27,NA
+36428,"Bengaluru Rural","2919598",67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-13,2021-07-19,2021-07-28,NA
+36438,"Bengaluru Rural","2938563",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-07-23,2021-07-26,2021-07-28,NA
+36452,"Bengaluru Rural","2919132",62,"Male","SARI","Breathlessness","DM",2021-07-14,2021-07-20,2021-07-29,NA
+36484,"Bengaluru Rural","2904879",75,"Female","ILI","Fever","DM",NA,2021-07-05,2021-07-30,"Died at her residence"
+36489,"Bengaluru Rural","2915660",43,"Male","SARI","Breathlessness","-",2021-07-12,2021-07-19,2021-07-30,NA
+36528,"Bengaluru Rural","2929386",37,"Male","SARI","Cough, Breathlessness","-",2021-07-20,2021-07-30,2021-07-31,NA
+36583,"Bengaluru Rural","2929388",30,"Male","SARI","Cough, Breathlessness","-",2021-07-20,2021-07-30,2021-08-02,NA
+36586,"Bengaluru Rural","2935767",67,"Male","SARI","Cough, Breathlessness","-",2021-07-24,2021-08-01,2021-08-02,NA
+36643,"Bengaluru Rural","2929285",50,"Female","SARI","Breathlessness","-",2021-07-20,2021-07-21,2021-08-04,NA
+36662,"Bengaluru Rural","2949849",48,"Male","SARI","Breathlessness","IHD",2021-08-02,2021-08-02,2021-08-04,NA
+36788,"Bengaluru Rural","2944412",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-01,2021-08-09,2021-08-09,NA
+36810,"Bengaluru Rural","2928051",77,"Male","SARI","Breathlessness","DM, HTN",NA,2021-07-21,2021-08-10,"Died at his  residence"
+36841,"Bengaluru Rural","2929260",70,"Female","SARI","Fever, Breathlessness","-",2021-07-21,2021-08-10,2021-08-11,NA
+36885,"Bengaluru Rural","2947519",57,"Female","SARI","Breathlessness","DM, HTN",2021-07-31,2021-07-31,2021-08-12,NA
+37026,"Bengaluru Rural","2917057",77,"Male","SARI","Breathlessness","HTN",2021-07-13,2021-08-06,2021-08-18,NA
+37029,"Bengaluru Rural","2950683",71,"Male","ILI","Fever","-",2021-08-11,2021-08-17,2021-08-18,NA
+37093,"Bengaluru Rural","2964210",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-08-10,2021-08-16,2021-08-21,NA
+37142,"Bengaluru Rural","2958642",78,"Male","SARI","Fever, Cough, Breathlessness","-",2021-08-07,2021-08-11,2021-08-25,NA
+37144,"Bengaluru Rural","2964823",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-12,2021-08-17,2021-08-25,NA
+37167,"Bengaluru Rural","2959058",68,"Female","SARI","Breathlessness","-",2021-08-08,2021-08-22,2021-08-26,NA
+37175,"Bengaluru Rural","2971373",70,"Male","SARI","Cough, Breathlessness","HTN",2021-08-16,2021-08-16,2021-08-26,NA
+37188,"Bengaluru Rural","2947036",80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-08-01,2021-08-01,2021-08-27,NA
+37198,"Bengaluru Rural","2977850",31,"Male","SARI","Breathlessness","-",2021-08-20,2021-08-21,2021-08-27,NA
+37206,"Bengaluru Rural","2959619",54,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-08-13,2021-08-25,2021-08-28,NA
+37220,"Bengaluru Rural","2959839",71,"Female","SARI","Breathlessness","-",2021-08-08,2021-08-28,2021-08-29,NA
+37300,"Bengaluru Rural","2962692",48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-10,2021-08-22,2021-09-02,NA
+37331,"Bengaluru Rural","2990015",78,"Female","SARI","Breathlessness","-",2021-08-30,2021-09-01,2021-09-03,NA
+37397,"Bengaluru Rural","2992602",31,"Female","SARI","Breathlessness","-",2021-09-02,2021-09-06,2021-09-08,NA
+37458,"Bengaluru Rural","2996763",55,"Male","SARI","Breathlessness","-",2021-09-08,2021-09-13,2021-09-13,NA
+37511,"Bengaluru Rural","2987117",74,"Male","SARI","Fever, Breathlesness","-",2021-08-28,2021-09-16,2021-09-17,NA
+37561,"Bengaluru Rural","2979436",73,"Female","SARI","Fever, Cough, Breathlessness","-",2021-08-23,2021-09-20,2021-09-20,NA
+37584,"Bengaluru Rural","2963043",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-08-12,2021-09-21,"Died at his residence"
+37619,"Bengaluru Rural","2980489",66,"Female","SARI","Breathlessness","-",2021-08-22,2021-09-13,2021-09-23,NA
+37645,"Bengaluru Rural","3001091",70,"Male","SARI","Breathlessness","HTN",2021-09-09,2021-09-10,2021-09-24,NA
+37703,"Bengaluru Rural","3006755",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-16,2021-09-16,2021-09-28,NA
+37721,"Bengaluru Rural","3004782",71,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2021-09-20,2021-09-29,"Died at her residence"
+37745,"Bengaluru Rural","3005359",75,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-08-21,2021-09-20,2021-10-01,NA
+37758,"Bengaluru Rural","3016200",51,"Female","SARI","Fever, Cough, Breathlessness","-",2021-09-27,2021-10-01,2021-10-02,NA
+37786,"Bengaluru Rural","3013594",37,"F ","SARI ","Fever, Cough, Breathlessness ","- ",2021-09-24,2021-09-24,2021-10-05,NA
+37855,"Bengaluru Rural","3022858",57,"M ","SARI ","Fever, Cough, Breathlessness ","- ",2021-10-09,2021-10-11,2021-10-12,NA
+37959,"Bengaluru Rural","3021226",65,"Female","SARI","Fever, Cough, Breathlessness","DM",NA,2021-10-06,2021-10-25,"Brought dead"
+37972,"Bengaluru Rural","3025032",70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-10-16,2021-10-19,2021-10-26,NA
+38078,"Bengaluru Rural","3029262",85,"Male","SARI","Fever, Cough, Breathlessness","-",2021-10-27,2021-11-01,2021-11-10,NA
+38168,"Bengaluru Rural","3036306",38,"Male","SARI","Breathlessness","HTN",2021-11-23,2021-11-27,2021-12-04,NA
+38174,"Bengaluru Rural","3037261",50,"Male","SARI","Breathlessness","DM, HTN, ARDS",2021-11-26,2021-12-04,2021-12-05,NA
+38353,"Bengaluru Rural","3087231",65,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-08,2022-01-13,2022-01-14,NA
+38358,"Bengaluru Rural","3138427",85,"Male","SARI","Fever, Breathlessness","-",2022-01-05,2022-01-11,2022-01-14,NA
+38362,"Bengaluru Rural","3191066",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-01-13,2022-01-13,2022-01-14,NA
+38367,"Bengaluru Rural","3087231",65,"Female","SARI","Fever, Cough, Breathlessness","-",2022-01-08,2022-01-13,2022-01-14,NA
+38372,"Bengaluru Rural","3138427",85,"Male","SARI","Fever, Breathlessness","-",2022-01-05,2022-01-11,2022-01-14,NA
+38376,"Bengaluru Rural","3191066",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-01-13,2022-01-13,2022-01-14,NA
+38432,"Bengaluru Rural","3041809",81,"Female","SARI","Fever, Cough, Breathlessness","-",2021-12-09,2022-01-16,2022-01-18,NA
+38600,"Bengaluru Rural","3526101",69,"Male","SARI","Breathlessness","HTN",2022-01-11,2022-01-21,2022-01-24,NA
+38619,"Bengaluru Rural","3360402",68,"Female","SARI","Breathlessness","DM",2022-01-17,2022-01-18,2022-01-25,NA
+38621,"Bengaluru Rural","3374556",70,"Female","ILI","Fever","HTN",2022-01-19,2022-01-20,2022-01-25,NA
+38652,"Bengaluru Rural","3619795",23,"Male","SARI","Breathlessness","DM",2022-01-23,2022-01-23,2022-01-25,NA
+38671,"Bengaluru Rural","3360402",68,"Female","SARI","Breathlessness","DM",2022-01-17,2022-01-18,2022-01-25,NA
+38673,"Bengaluru Rural","3374556",70,"Female","ILI","Fever","HTN",2022-01-19,2022-01-20,2022-01-25,NA
+38704,"Bengaluru Rural","3619795",23,"Male","SARI","Breathlessness","DM",2022-01-23,2022-01-23,2022-01-25,NA
+38782,"Bengaluru Rural","3661566",40,"Female","SARI","Breathlessness","-",2022-01-25,2022-01-27,2022-01-28,NA
+38848,"Bengaluru Rural","3694157",47,"Male","SARI","Breathlessness","DM,H TN",2022-01-25,2022-01-26,2022-01-29,NA
+39260,"Bengaluru Rural","3922777",90,"Male","SARI","Fever, Breathlessness","HTN, COPD",NA,2022-02-03,2022-02-06,"Brought dead"
+39584,"Bengaluru Rural","3974203",77,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2022-01-31,2022-02-12,2022-02-14,NA
+39938,"Bengaluru Rural","3969044",69,"Male","ILI","Fever","DM",2022-02-09,2022-02-13,2022-03-30,NA
+40008,"Bengaluru Rural","4064347",85,"Male","SARI","Fever and Breathlessness","COPD",2022-07-30,2022-08-09,2022-08-11,NA
+40045,"Bengaluru Rural","4092711",75,"FEMALE","SARI","Breathlessness","DM,HTN",2022-08-18,2022-08-19,NA,NA
+40133,"Bengaluru Rural","4123616",77,"Male","SARI","Fever, Cough
+Breathlessness","DM, CKD",2022-10-15,2022-10-23,2022-10-29,NA
+40139,"Bengaluru Rural","4127351",70,"MALE","SARI","fever, cough, breathlessness","copd",NA,2022-11-22,2022-12-06,"Died at  his residence"

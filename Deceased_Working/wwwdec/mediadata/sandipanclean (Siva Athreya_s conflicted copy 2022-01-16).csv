@@ -1,0 +1,5 @@
+"Sl. No","District","State P No.","Age in Yrs","Sex","Descr iption","Symptoms","Co- Morbid ities","DOA","DOD","MB Date","Notes"
+1,"Mysuru",3050575,77,"M","SARI","Fever, Cough, Breathlessness","CKD","2022-01-01","2022-01-09","2022-01-10",NA
+2,"Bengaluru Urban",3067880,79,"M","SARI","Fever, Cough, Breathlessness","HTN",NA,"2022-01-05","2022-01-10","Brought dead"
+3,"Bengaluru Urban",3072868,88,"M","SARI","Cough, Breathlessness","DM, HTN","2022-01-05","2022-01-07","2022-01-10",NA
+4,"Ramnagara",3088190,53,"M","ILI","Fever","HTN","2022-01-08","2022-01-10","2022-01-10",NA

@@ -1,0 +1,1040 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+11177,"Vijayapura","502511",60,"Male","SARI","Cough, Breathlessness","DM",2020-09-15,2020-10-28,2020-11-01,NA
+11178,"Dharwad","714942",56,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-10-10,2020-10-14,2020-11-01,NA
+11179,"Tumakuru","776781",59,"Male","SARI","Breathlessness","COPD",2020-10-22,2020-10-24,2020-11-01,NA
+11180,"Ballari","783308",60,"Female","SARI","Cough, Breathlessness","DM",2020-10-18,2020-10-31,2020-11-01,NA
+11181,"Chamarajanagara","792931",85,"Male","SARI","Breathlessness","CLD",2020-10-20,2020-10-31,2020-11-01,NA
+11182,"Bengaluru Urban","794722",65,"Male","SARI","Fever, Breathlessness","DM",2020-10-22,2020-10-29,2020-11-01,NA
+11183,"Bengaluru Urban","801189",78,"Male","ILI","Fever, Cough","DM, HTN, IHD",2020-10-20,2020-10-30,2020-11-01,NA
+11184,"Bengaluru Urban","803056",92,"Male","ILI","Fever, Cough","HTN",2020-10-21,2020-10-29,2020-11-01,NA
+11185,"Bengaluru Urban","805285",68,"Male","SARI","Fever, Breathlessness","-",2020-10-22,2020-10-30,2020-11-01,NA
+11186,"Bengaluru Urban","807519",63,"Male","ILI","Fever, Cough","IHD",2020-10-22,2020-10-27,2020-11-01,NA
+11187,"Bengaluru Urban","808401",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-23,2020-10-31,2020-11-01,NA
+11188,"Koppal","811946",65,"Male","ILI","Fever, Cough","HTN",2020-10-23,2020-11-01,2020-11-01,NA
+11189,"Mysuru","812620",80,"Female","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-10-24,2020-10-31,2020-11-01,NA
+11190,"Bengaluru Urban","813468",100,"Female","SARI","Breathlessness","CKD",2020-10-24,2020-10-27,2020-11-01,NA
+11191,"Bengaluru Urban","817703",48,"Male","SARI","Breathlessness","CLD",2020-10-28,2020-10-30,2020-11-01,NA
+11192,"Bengaluru Urban","819164",45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-25,2020-10-30,2020-11-01,NA
+11193,"Hassan","820130",62,"Male","ILI","Fever, Cough","DM",2020-10-29,2020-10-31,2020-11-01,NA
+11194,"Koppal","823942",69,"Male","ILI","Fever, Cough","DM, CLD",2020-10-30,2020-10-31,2020-11-01,NA
+11195,"Ballari","825832",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-27,2020-10-31,2020-11-01,NA
+11196,"Chitradurga","826176",80,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-28,2020-10-31,2020-11-01,NA
+11197,"Dakshina Kannada","828089",29,"Male","Contact under tracing","Fever, Breathlessness","CKD",2020-10-29,2020-10-31,2020-11-01,NA
+11198,"Bengaluru Urban","830040",78,"Male","ILI","Fever, Cough","-",2020-10-16,2020-10-30,2020-11-01,NA
+11199,"Belagavi","835525",64,"Male","SARI","Breathlessness","DM, HTN",2020-10-30,2020-10-31,2020-11-01,NA
+11200,"Hassan","839493",52,"Male","ILI","Fever, Cough","DM",2020-10-31,2020-10-31,2020-11-01,NA
+11201,"Dharwad","756093",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-14,2020-10-15,2020-11-02,NA
+11202,"Bengaluru Urban","769858",74,"Female","ILI","Fever, Cough","HTN",2020-10-16,2020-11-01,2020-11-02,NA
+11203,"Shivamogga","779439",64,"Male","Contact under tracing","Fever, Cough","-",2020-10-19,2020-10-31,2020-11-02,NA
+11204,"Tumakuru","779457",92,"Female","SARI","Cough, Breathlessness","HTN",2020-10-18,2020-10-24,2020-11-02,NA
+11205,"Mysuru","790992",65,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-10-20,2020-11-01,2020-11-02,NA
+11206,"Bengaluru Urban","793231",56,"Male","ILI","-","DM, HTN",2020-10-10,2020-10-31,2020-11-02,NA
+11207,"Bengaluru Urban","798779",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-22,2020-10-30,2020-11-02,NA
+11208,"Mandya","807379",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-23,2020-11-01,2020-11-02,NA
+11209,"Raichur","807382",58,"Male","SARI","Breathlessness","-",2020-10-16,2020-10-23,2020-11-02,NA
+11210,"Udupi","809606",85,"Male","ILI","Fever, Cough","-",2020-10-23,2020-11-01,2020-11-02,NA
+11211,"Kalaburagi","811181",33,"Male","SARI","Cough, Breathlessness","CLD",2020-10-23,2020-11-01,2020-11-02,NA
+11212,"Bengaluru Urban","814232",63,"Male","SARI","Fever, Cough, Breathlessness","TB",2020-10-23,2020-10-31,2020-11-02,NA
+11213,"Chikkaballapura","816556",46,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-25,2020-10-29,2020-11-02,NA
+11214,"Bengaluru Urban","817382",74,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-10-26,2020-11-01,2020-11-02,NA
+11215,"Bengaluru Urban","822199",62,"Male","SARI","Cough, Breathlessness","-",2020-10-25,2020-10-31,2020-11-02,NA
+11216,"Ramanagara","822589",55,"Female","SARI","Breathlessness","DM, HTN",2020-10-26,2020-11-01,2020-11-02,NA
+11217,"Bengaluru Urban","823761",50,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-27,2020-10-27,2020-11-02,NA
+11218,"Bengaluru Urban","824039",65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-26,2020-10-31,2020-11-02,NA
+11219,"Bengaluru Urban","824453",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-10-27,2020-10-30,2020-11-02,NA
+11220,"Mysuru","829769",84,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-31,2020-11-01,2020-11-02,NA
+11221,"Hassan","830348",67,"Male","ILI","Fever, Cough","DM",2020-10-30,2020-11-01,2020-11-02,NA
+11222,"Uttara Kannada","831526",48,"Female","SARI","Cough, Breathlessness","-",2020-10-29,2020-10-30,2020-11-02,NA
+11223,"Ballari","831810",65,"Female","SARI","Breathlessness","HTN",2020-10-29,2020-10-30,2020-11-02,NA
+11224,"Dakshina Kannada","833221",76,"Female","Contact under tracing","Breathlessness","HTN, IHD, CKD",2020-10-30,2020-11-01,2020-11-02,NA
+11225,"Bengaluru Urban","833581",65,"Male","ILI","Fever, Cough","DM, CKD",2020-10-30,2020-10-31,2020-11-02,NA
+11226,"Bengaluru Urban","833789",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-08,2020-10-29,2020-11-02,NA
+11227,"Bengaluru Urban","835152",41,"Male","SARI","Breathlessness","CLD",2020-10-29,2020-10-29,2020-11-02,NA
+11228,"Bengaluru Urban","835575",30,"Male","ILI","Fever, Cough","HTN",2020-10-30,2020-11-02,2020-11-02,NA
+11229,"Bengaluru Urban","836047",76,"Female","SARI","Fever, Breathlessness","HTN",2020-10-29,2020-10-31,2020-11-02,NA
+11230,"Dharwad","357302",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-28,2020-08-30,2020-11-03,NA
+11231,"Dharwad","610926",76,"Female","SARI","Fever, Breathlessness","HTN",2020-09-28,2020-10-05,2020-11-03,NA
+11232,"Ballari","742537",30,"Male","SARI","Cough, Breathlessness","-",2020-10-12,2020-10-12,2020-11-03,NA
+11233,"Mandya","793051",92,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD, CKD",2020-10-20,2020-11-03,2020-11-03,NA
+11234,"Ballari","793521",65,"Female","SARI","Breathlessness","-",2020-10-19,2020-10-30,2020-11-03,NA
+11235,"Koppal","798905",55,"Female","ILI","Fever, Cough","DM, HTN",2020-10-21,2020-10-26,2020-11-03,NA
+11236,"Kodagu","807832",75,"Female","ILI","Fever, Cough","DM, HTN",2020-10-23,2020-11-01,2020-11-03,NA
+11237,"Tumakuru","808751",60,"Male","SARI","Cough, Breathlessness","DM",2020-10-23,2020-10-25,2020-11-03,NA
+11238,"Bengaluru Urban","814172",93,"Female","SARI","Breathlessness","HTN, CKD",2020-10-24,2020-11-02,2020-11-03,NA
+11239,"Bengaluru Urban","819179",72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-27,2020-10-30,2020-11-03,NA
+11240,"Bengaluru Urban","819667",84,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-25,2020-10-25,2020-11-03,NA
+11241,"Dakshina Kannada","822579",82,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-26,2020-10-31,2020-11-03,NA
+11242,"Bengaluru Urban","827576",64,"Female","SARI","Breathlessness","-",2020-10-28,2020-10-30,2020-11-03,NA
+11243,"Bengaluru Urban","827671",65,"Male","ILI","Fever, Cough","DM, HTN, IHD, CKD",2020-10-11,2020-11-01,2020-11-03,NA
+11244,"Bengaluru Urban","828874",78,"Male","SARI","Breathlessness","DM, CKD",2020-10-29,2020-11-02,2020-11-03,NA
+11245,"Bengaluru Urban","829563",60,"Male","ILI","Fever, Cough","DM, HTN",2020-10-28,2020-10-31,2020-11-03,NA
+11246,"Belagavi","830107",58,"Male","SARI","Breathlessness","DM, HTN",2020-10-29,2020-11-02,2020-11-03,NA
+11247,"Bengaluru Urban","830541",35,"Female","SARI","Fever, Breathlessness","CA",2020-10-31,2020-11-02,2020-11-03,NA
+11248,"Hassan","830639",67,"Male","ILI","Fever, Cough","DM",2020-10-29,2020-11-02,2020-11-03,NA
+11249,"Bengaluru Urban","832296",79,"Male","SARI","Breathlessness","HTN, IHD",2020-10-31,2020-11-01,2020-11-03,NA
+11250,"Bengaluru Urban","835712",74,"Male","ILI","Fever, Cough","DM",2020-10-23,2020-10-31,2020-11-03,NA
+11251,"Bengaluru Urban","836224",56,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2020-10-30,2020-11-03,"Died at her residence"
+11252,"Bengaluru Urban","840147",55,"Male","SARI","Breathlessness","-",2020-11-01,2020-11-01,2020-11-03,NA
+11253,"Davanagere","840801",80,"Male","SARI","Fever, Breathlessness","DM",2020-10-31,2020-11-02,2020-11-03,NA
+11254,"Bengaluru Urban","841331",67,"Male","ILI","Fever, Cough","HTN",2020-10-30,2020-11-02,2020-11-03,NA
+11255,"Hassan","842860",68,"Male","ILI","Fever, Cough","CKD",2020-11-01,2020-11-02,2020-11-03,NA
+11256,"Dharwad","564644",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-28,2020-10-05,2020-11-04,NA
+11257,"Dharwad","574342",82,"Male","SARI","Cough, Breathlessness","IHD",2020-09-23,2020-10-06,2020-11-04,NA
+11258,"Ballari","686174",77,"Male","SARI","Cough, Breathlessness","IHD, CVA, COPD",2020-10-06,2020-10-10,2020-11-04,NA
+11259,"Ballari","708831",60,"Female","SARI","Breathlessness","HTN",NA,2020-10-20,2020-11-04,"Died at her residence"
+11260,"Ballari","745283",70,"Male","SARI","Breathlessness","DM, HTN",2020-10-12,2020-10-13,2020-11-04,NA
+11261,"Bengaluru Urban","763431",84,"Female","ILI","Fever, Cough","HTN",2020-11-01,2020-11-01,2020-11-04,NA
+11262,"Bengaluru Urban","772519",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2020-10-16,2020-10-18,2020-11-04,NA
+11263,"Dakshina Kannada","791528",29,"Female","Contact under tracing","Breathlessness","-",2020-10-20,2020-10-21,2020-11-04,NA
+11264,"Bengaluru Urban","799560",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-22,2020-11-02,2020-11-04,NA
+11265,"Bengaluru Urban","805240",82,"Female","SARI","Fever, Breathlessness","DM",2020-10-25,2020-11-03,2020-11-04,NA
+11266,"Kolar","810901",57,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-21,2020-11-01,2020-11-04,NA
+11267,"Ramanagara","811609",48,"Female","SARI","Breathlessness","DM, HTN",2020-10-23,2020-11-04,2020-11-04,NA
+11268,"Haveri","817116",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-19,2020-10-30,2020-11-04,NA
+11269,"Bengaluru Urban","817750",59,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-25,2020-11-03,2020-11-04,NA
+11270,"Bengaluru Urban","817952",62,"Female","ILI","Fever, Cough","CKD, COPD",2020-10-25,2020-11-02,2020-11-04,NA
+11271,"Mysuru","818294",81,"Male","SARI","Breathlessness","HTN, IHD",2020-10-24,2020-11-04,2020-11-04,NA
+11272,"Bengaluru Urban","819549",72,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-26,2020-11-02,2020-11-04,NA
+11273,"Udupi","819740",45,"Male","SARI","Breathlessness","HTN, CKD",2020-10-27,2020-11-04,2020-11-04,NA
+11274,"Bengaluru Urban","819967",63,"Male","SARI","Breathlessness","DM, HTN",2020-11-03,2020-11-03,2020-11-04,NA
+11275,"Bengaluru Urban","819976",74,"Male","ILI","Fever, Cough","DM, HTN",2020-10-26,2020-11-04,2020-11-04,NA
+11276,"Davanagere","821782",32,"Female","SARI","Fever, Breathlessness","-",2020-10-26,2020-11-03,2020-11-04,NA
+11277,"Kalaburagi","822815",55,"Female","ILI","Fever, Cough","DM",2020-10-24,2020-11-03,2020-11-04,NA
+11278,"Bengaluru Urban","825003",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-31,2020-11-02,2020-11-04,NA
+11279,"Bengaluru Urban","828610",84,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-28,2020-11-02,2020-11-04,NA
+11280,"Bengaluru Urban","831349",63,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-29,2020-11-03,2020-11-04,NA
+11281,"Bengaluru Urban","831590",61,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-10-29,2020-11-02,2020-11-04,NA
+11282,"Bengaluru Urban","831892",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-29,2020-11-03,2020-11-04,NA
+11283,"Kolar","836841",90,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-29,2020-11-03,2020-11-04,NA
+11284,"Mysuru","840262",71,"Male","SARI","Breathlessness","CKD",2020-11-01,2020-11-03,2020-11-04,NA
+11285,"Ramanagara","840677",82,"Male","ILI","Fever, Cough","DM",2020-11-01,2020-11-04,2020-11-04,NA
+11286,"Bengaluru Urban","840707",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-20,2020-11-03,2020-11-04,NA
+11287,"Bengaluru Urban","840768",76,"Male","SARI","Breathlessness","HTN",2020-10-31,2020-11-03,2020-11-04,NA
+11288,"Davanagere","843467",74,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-03,2020-11-04,NA
+11289,"Mysuru","845021",86,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-02,2020-11-03,2020-11-04,NA
+11290,"Dharwad","689473",56,"Female","SARI","Cough, Fever, Breathlessness","HTN, COPD",2020-10-04,2020-10-10,2020-11-05,NA
+11291,"Dharwad","713403",74,"Female","SARI","Breathlessness","DM, HTN",2020-10-09,2020-10-13,2020-11-05,NA
+11292,"Kolar","726349",7,"Male","SARI","Cough, Breathlessness","-",2020-10-11,2020-11-03,2020-11-05,NA
+11293,"Bengaluru Rural","755631",65,"Male","SARI","Breathlessness","DM",NA,2020-10-07,2020-11-05,"Died at his residence on"
+11294,"Shivamogga","765586",56,"Male","SARI","Fever, Cough","-",2020-10-14,2020-10-17,2020-11-05,NA
+11295,"Dakshina Kannada","787013",60,"Male","SARI","Fever, Breathlessness","DM",2020-10-19,2020-10-31,2020-11-05,NA
+11296,"Dakshina Kannada","788948",40,"Male","SARI","Fever, Breathlessness","CLD",2020-10-17,2020-10-31,2020-11-05,NA
+11297,"Tumakuru","792006",58,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-10-28,2020-10-30,2020-11-05,NA
+11298,"Ballari","807491",52,"Male","SARI","Fever, Breathlessness","HTN, COPD",2020-10-23,2020-11-03,2020-11-05,NA
+11299,"Ballari","807993",66,"Female","ILI","Fever, Cough","DM",2020-10-23,2020-11-05,2020-11-05,NA
+11300,"Uttara Kannada","809614",56,"Male","ILI","Fever, Cough","DM",2020-10-22,2020-10-27,2020-11-05,NA
+11301,"Dakshina Kannada","820732",60,"Male","SARI","Breathlessness","HTN, IHD",2020-10-26,2020-10-26,2020-11-05,NA
+11302,"Mysuru","821836",67,"Male","SARI","Breathlessness","DM, HTN",2020-11-03,2020-11-05,2020-11-05,NA
+11303,"Udupi","823656",54,"Female","ILI","Fever, Cough","HTN, CA",2020-11-02,2020-11-04,2020-11-05,NA
+11304,"Bengaluru Urban","825932",66,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-10-28,2020-11-03,2020-11-05,NA
+11305,"Bengaluru Urban","828292",47,"Male","SARI","Cough, Fever, Breathlessness","-",2020-10-28,2020-11-04,2020-11-05,NA
+11306,"Bengaluru Urban","835842",67,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN, CVA",2020-10-31,2020-11-02,2020-11-05,NA
+11307,"Bengaluru Urban","837782",45,"Female","SARI","Breathlessness","IHD, CKD",2020-10-31,2020-11-03,2020-11-05,NA
+11308,"Bengaluru Urban","839840",35,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-03,2020-11-05,NA
+11309,"Uttara Kannada","840866",70,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-11-02,2020-11-03,2020-11-05,NA
+11310,"Bidar","840876",79,"Male","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-10-31,2020-11-03,2020-11-05,NA
+11311,"Bengaluru Urban","841005",53,"Male","SARI","Cough, Fever, Breathlessness","-",2020-11-01,2020-11-04,2020-11-05,NA
+11312,"Bengaluru Urban","841574",50,"Female","SARI","Breathlessness","DM, HTN",2020-11-01,2020-11-04,2020-11-05,NA
+11313,"Mysuru","842181",48,"Male","SARI","Breathlessness","CLD",2020-10-31,2020-11-01,2020-11-05,NA
+11314,"Kalaburagi","842315",65,"Female","SARI","Cough, Fever, Breathlessness","CKD, COPD",2020-10-31,2020-11-04,2020-11-05,NA
+11315,"Bengaluru Urban","843676",72,"Male","ILI","Fever, Cough","-",2020-11-02,2020-11-04,2020-11-05,NA
+11316,"Bengaluru Urban","844971",70,"Female","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-11-03,2020-11-04,2020-11-05,NA
+11317,"Kolar","845007",50,"Male","SARI","Cough, Fever, Breathlessness","-",2020-11-01,2020-11-03,2020-11-05,NA
+11318,"Mysuru","848366",57,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-11-02,2020-11-03,2020-11-05,NA
+11319,"Hassan","849130",70,"Female","ILI","Fever, Cough","DM, HTN",2020-11-02,2020-11-03,2020-11-05,NA
+11320,"Mysuru","851157",38,"Male","SARI","Breathlessness","-",2020-11-03,2020-11-04,2020-11-05,NA
+11321,"Dharwad","738270",70,"Male","SARI","Breathlessness","HTN, IHD",2020-10-10,2020-10-14,2020-11-06,NA
+11322,"Vijayapura","751820",56,"Male","ILI","Cough, Breathlessness","HTN",2020-10-13,2020-10-30,2020-11-06,NA
+11323,"Bengaluru Rural","764736",84,"Female","SARI","Breathlessness","DM, HTN",NA,2020-10-14,2020-11-06,"Brought dead"
+11324,"Kolar","786076",88,"Male","SARI","Cough, Breathlessness","-",2020-10-18,2020-11-04,2020-11-06,NA
+11325,"Dakshina Kannada","793797",49,"Male","SARI","Fever, Cough","CKD",2020-10-20,2020-10-21,2020-11-06,NA
+11326,"Ballari","805505",58,"Male","SARI","Breathlessness","DM",2020-10-30,2020-11-05,2020-11-06,NA
+11327,"Bengaluru Urban","807199",78,"Female","ILI","Fever, Cough","-",2020-10-31,2020-11-05,2020-11-06,NA
+11328,"Bengaluru Urban","807549",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-23,2020-11-04,2020-11-06,NA
+11329,"Tumakuru","809569",51,"Male","ILI","Fever, Cough","DM",2020-10-22,2020-10-25,2020-11-06,NA
+11330,"Koppal","816449",75,"Male","ILI","Fever, Cough","DM",2020-10-24,2020-11-02,2020-11-06,NA
+11331,"Tumakuru","822712",70,"Female","SARI","Fever, Cough, Breathlessness","-",NA,2020-10-23,2020-11-06,"Brought dead"
+11332,"Mandya","822999",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-27,2020-11-05,2020-11-06,NA
+11333,"Tumakuru","823992",55,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-10-27,2020-10-28,2020-11-06,NA
+11334,"Bengaluru Urban","826086",78,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-28,2020-11-05,2020-11-06,NA
+11335,"Kalaburagi","826244",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-10-27,2020-11-05,2020-11-06,NA
+11336,"Udupi","826694",72,"Male","SARI","Breathlessness","HTN, CKD",2020-10-24,2020-11-05,2020-11-06,NA
+11337,"Dakshina Kannada","830059",41,"Male","Contact under tracing","-","CKD, RVD",2020-10-28,2020-11-05,2020-11-06,NA
+11338,"Raichur","830668",75,"Female","SARI","Breathlessness","DM, HTN",2020-10-28,2020-11-02,2020-11-06,NA
+11339,"Ballari","831169",58,"Female","SARI","Breathlessness","DM, HTN",2020-10-31,2020-11-05,2020-11-06,NA
+11340,"Davanagere","835637",78,"Male","SARI","Fever, Breathlessness","DM",2020-10-29,2020-11-04,2020-11-06,NA
+11341,"Bengaluru Urban","837151",66,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-11-01,2020-11-04,2020-11-06,NA
+11342,"Chikkamagaluru","840206",68,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-06,2020-11-06,NA
+11343,"Bengaluru Urban","841343",62,"Female","ILI","Fever, Cough","DM, HTN",2020-11-01,2020-11-05,2020-11-06,NA
+11344,"Bengaluru Urban","843737",73,"Male","SARI","Breathlessness","DM, COPD",2020-11-04,2020-11-04,2020-11-06,NA
+11345,"Kolar","845983",71,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-02,2020-11-03,2020-11-06,NA
+11346,"Bengaluru Urban","846515",75,"Male","ILI","Fever, Cough","DM, HTN, CVA",2020-11-02,2020-11-05,2020-11-06,NA
+11347,"Mysuru","847871",60,"Female","SARI","Breathlessness","DM, HTN",2020-11-03,2020-11-05,2020-11-06,NA
+11348,"Bengaluru Urban","848248",34,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-02,2020-11-05,2020-11-06,NA
+11349,"Chamarajanagara","848320",70,"Male","SARI","Breathlessness","DM",2020-11-03,2020-11-06,2020-11-06,NA
+11350,"Bengaluru Urban","849702",54,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-04,2020-11-05,2020-11-06,NA
+11351,"Koppal","849910",41,"Female","SARI","Fever, Breathlessness","HTN",2020-11-03,2020-11-04,2020-11-06,NA
+11352,"Bengaluru Urban","850834",53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-04,2020-11-04,2020-11-06,NA
+11353,"Mysuru","851731",60,"Female","SARI","Breathlessness","HTN",2020-11-04,2020-11-05,2020-11-06,NA
+11354,"Bengaluru Urban","854151",68,"Male","SARI","Breathlessness","DM, IHD",2020-11-04,2020-11-04,2020-11-06,NA
+11355,"Bengaluru Urban","854722",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-04,2020-11-05,2020-11-06,NA
+11356,"Dharwad","592913",54,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-26,2020-10-15,2020-11-07,NA
+11357,"Ballari","742959",50,"Male","SARI","Cough, Breathlessness","-",2020-10-17,2020-10-18,2020-11-07,NA
+11358,"Bengaluru Rural","773804",65,"Female","SARI","Breathlessness","HTN",NA,2020-10-15,2020-11-07,"Brought dead"
+11359,"Bidar","791613",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-19,2020-11-05,2020-11-07,NA
+11360,"Kolar","797451",59,"Male","SARI","Cough, Breathlessness","-",2020-10-19,2020-11-05,2020-11-07,NA
+11361,"Tumakuru","805934",78,"Male","SARI","Breathlessness","-",2020-10-22,2020-10-25,2020-11-07,NA
+11362,"Tumakuru","807932",62,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-29,2020-10-29,2020-11-07,NA
+11363,"Belagavi","809669",20,"Female","SARI","Breathlessness","-",2020-10-23,2020-11-06,2020-11-07,NA
+11364,"Kolar","830354",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-29,2020-11-02,2020-11-07,NA
+11365,"Bengaluru Urban","833838",32,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-30,2020-11-05,2020-11-07,NA
+11366,"Uttara Kannada","837648",75,"Male","ILI","Fever, Cough","DM, HTN",2020-10-30,2020-10-30,2020-11-07,NA
+11367,"Bengaluru Urban","839308",75,"Male","ILI","Fever, Cough, Breathlessness","HTN",2020-10-30,2020-11-07,2020-11-07,NA
+11368,"Mysuru","839559",61,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-10-31,2020-11-06,2020-11-07,NA
+11369,"Tumakuru","839977",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-29,2020-10-29,2020-11-07,NA
+11370,"Bengaluru Urban","843740",65,"Male","SARI","Fever, Breathlessness","-",2020-11-04,2020-11-06,2020-11-07,NA
+11371,"Bengaluru Urban","844403",70,"Male","ILI","Fever, Breathlessness","HTN",2020-11-03,2020-11-05,2020-11-07,NA
+11372,"Mysuru","848003",44,"Male","SARI","Breathlessness","CLD",2020-11-03,2020-11-07,2020-11-07,NA
+11373,"Bengaluru Urban","851104",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-04,2020-11-06,2020-11-07,NA
+11374,"Bengaluru Urban","851364",81,"Male","SARI","Breathlessness","HTN",2020-11-04,2020-11-06,2020-11-07,NA
+11375,"Udupi","853011",72,"Female","ILI","Fever, Cough","DM, HTN, CVA",2020-11-04,2020-11-06,2020-11-07,NA
+11376,"Dakshina Kannada","853575",66,"Male","SARI","Breathlessness","COPD",2020-11-04,2020-11-06,2020-11-07,NA
+11377,"Bengaluru Urban","856440",55,"Male","ILI","Fever, Cough","-",2020-11-05,2020-11-05,2020-11-07,NA
+11378,"Dharwad","367161",62,"Male","ILI","Fever, Cough","DM",2020-09-01,2020-09-01,2020-11-08,NA
+11379,"Dharwad","537914",71,"Male","ILI","Fever, Cough","-",2020-09-20,2020-10-15,2020-11-08,NA
+11380,"Ballari","716149",50,"Female","ILI","Fever, Cough","DM, HTN",2020-10-09,2020-10-19,2020-11-08,NA
+11381,"Ballari","742544",80,"Female","SARI","Breathlessness","-",2020-10-13,2020-10-15,2020-11-08,NA
+11382,"Ballari","786703",65,"Male","SARI","Breathlessness","DM, HTN, CVA",NA,2020-10-17,2020-11-08,"Died at his residence"
+11383,"Bengaluru Urban","830164",74,"Male","ILI","Fever, Cough","DM, HTN",2020-10-28,2020-11-06,2020-11-08,NA
+11384,"Haveri","833121",48,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-27,2020-11-08,2020-11-08,NA
+11385,"Bengaluru Urban","833804",79,"Female","SARI","Breathlessness","DM",2020-10-29,2020-10-29,2020-11-08,NA
+11386,"Bengaluru Urban","837026",79,"Male","SARI","Breathlessness","HTN",2020-10-28,2020-11-06,2020-11-08,NA
+11387,"Bengaluru Urban","837494",40,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-02,2020-11-06,2020-11-08,NA
+11388,"Bengaluru Urban","841429",83,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-02,2020-11-08,2020-11-08,NA
+11389,"Bengaluru Urban","845064",67,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-02,2020-11-07,2020-11-08,NA
+11390,"Bengaluru Urban","849006",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-04,2020-11-07,2020-11-08,NA
+11391,"Dakshina Kannada","850430",73,"Male","SARI","Fever, Breathlessness","DM",2020-11-03,2020-11-05,2020-11-08,NA
+11392,"Bengaluru Urban","850851",60,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-11-05,2020-11-06,2020-11-08,NA
+11393,"Mysuru","851333",57,"Male","SARI","Breathlessness","DM, HTN, CKD, IHD",2020-11-02,2020-11-07,2020-11-08,NA
+11394,"Belagavi","852248",65,"Female","SARI","Breathlessness","DM, HTN",2020-11-07,2020-11-07,2020-11-08,NA
+11395,"Bengaluru Urban","852526",65,"Male","ILI","Fever, Cough","DM, IHD",2020-11-05,2020-11-06,2020-11-08,NA
+11396,"Bengaluru Urban","853070",70,"Female","SARI","Breathlessness","HTN, CKD",2020-11-05,2020-11-07,2020-11-08,NA
+11397,"Bengaluru Urban","853478",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-04,2020-11-04,2020-11-08,NA
+11398,"Mysuru","854005",89,"Male","SARI","Breathlessness","DM, HTN",2020-11-02,2020-11-07,2020-11-08,NA
+11399,"Belagavi","854394",49,"Female","ILI","Fever, Cough","DM, HTN, COPD",2020-11-04,2020-11-07,2020-11-08,NA
+11400,"Dharwad","670325",88,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-06,2020-10-16,2020-11-09,NA
+11401,"Dharwad","721975",68,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-16,2020-11-09,NA
+11402,"Kolar","739699",67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-14,2020-11-06,2020-11-09,NA
+11403,"Ballari","763284",41,"Male","SARI","Fever, Breathlessness","-",NA,2020-10-14,2020-11-09,"Died at his residence"
+11404,"Bengaluru Rural","772161",65,"Male","SARI","Breathlessness","DM, IHD",2020-10-16,2020-10-24,2020-11-09,NA
+11405,"Ballari","817916",70,"Male","SARI","Breathlessness","DM, HTN",NA,2020-10-23,2020-11-09,"Died at his residence"
+11406,"Dakshina Kannada","823107",51,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CLD",2020-10-27,2020-11-05,2020-11-09,NA
+11407,"Raichur","833007",63,"Male","SARI","Breathlessness","-",2020-10-28,2020-11-03,2020-11-09,NA
+11408,"Mandya","833907",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-30,2020-11-09,2020-11-09,NA
+11409,"Dakshina Kannada","834452",82,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-11-01,2020-11-08,2020-11-09,NA
+11410,"Ballari","834868",30,"Female","SARI","Breathlessness","-",2020-10-30,2020-11-07,2020-11-09,NA
+11411,"Tumakuru","837973",48,"Female","ILI","Fever, Cough","-",NA,2020-10-31,2020-11-09,"Brought dead"
+11412,"Bengaluru Urban","840604",73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-31,2020-11-08,2020-11-09,NA
+11413,"Bengaluru Urban","845212",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-03,2020-11-08,2020-11-09,NA
+11414,"Bengaluru Urban","845776",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-04,2020-11-05,2020-11-09,NA
+11415,"Bengaluru Urban","846853",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-11-03,2020-11-08,2020-11-09,NA
+11416,"Chitradurga","849822",58,"Male","ILI","Breathlessness","DM, HTN",2020-11-04,2020-11-07,2020-11-09,NA
+11417,"Bengaluru Urban","858354",55,"Female","SARI","Breathlessness","DM, CKD",2020-11-01,2020-11-09,2020-11-09,NA
+11418,"Chikkaballapura","859626",58,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-07,2020-11-08,2020-11-09,NA
+11419,"Dharwad","748171",72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-10-12,2020-10-15,2020-11-10,NA
+11420,"Bengaluru Rural","784401",32,"Male","SARI","Fever, Breathlessness","CLD",2020-10-18,2020-10-25,2020-11-10,NA
+11421,"Bengaluru Rural","784412",80,"Female","SARI","Fever, Breathlessness","CLD",NA,2020-10-25,2020-11-10,"Died at her residence"
+11422,"Ballari","785666",68,"Male","SARI","Breathlessness","DM, HTN",NA,2020-10-17,2020-11-10,"Died at his residence"
+11423,"Bengaluru Rural","794051",75,"Female","SARI","Fever, Breathlessness","-",2020-10-10,2020-10-18,2020-11-10,NA
+11424,"Bengaluru Urban","827670",71,"Male","SARI","Breathlessness","DM, HTN",2020-10-28,2020-11-09,2020-11-10,NA
+11425,"Kalaburagi","829169",50,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-29,2020-11-10,2020-11-10,NA
+11426,"Dakshina Kannada","832037",58,"Male","Contact under tracing","-","TB, CLD",2020-10-31,2020-11-07,2020-11-10,NA
+11427,"Bengaluru Urban","832786",73,"Female","SARI","Fever, Breathlessness","DM",2020-10-30,2020-11-09,2020-11-10,NA
+11428,"Bengaluru Urban","836016",75,"Female","ILI","Fever, Cough","DM, HTN",2020-10-31,2020-11-08,2020-11-10,NA
+11429,"Ballari","838011",47,"Male","SARI","Cough, Breathlessness","HTN, IHD",2020-11-02,2020-11-09,2020-11-10,NA
+11430,"Tumakuru","838518",68,"Male","ILI","Fever, Cough","IHD",NA,2020-10-31,2020-11-10,"Brought dead"
+11431,"Bengaluru Urban","841336",50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-01,2020-11-09,2020-11-10,NA
+11432,"Bengaluru Urban","841914",48,"Female","SARI","Breathlessness","DM, HTN",2020-11-01,2020-11-09,2020-11-10,NA
+11433,"Bengaluru Urban","854765",45,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD, CVA",2020-11-05,2020-11-09,2020-11-10,NA
+11434,"Bengaluru Urban","855549",49,"Male","ILI","Fever, Cough","DM, HTN",2020-11-06,2020-11-09,2020-11-10,NA
+11435,"Bengaluru Urban","855596",52,"Male","ILI","Fever, Cough","HTN",2020-11-06,2020-11-09,2020-11-10,NA
+11436,"Davanagere","856529",51,"Male","SARI","-","DM, COPD",2020-11-04,2020-11-07,2020-11-10,NA
+11437,"Hassan","856773",84,"Male","ILI","Fever, Cough","DM, HTN",2020-10-27,2020-11-08,2020-11-10,NA
+11438,"Chitradurga","860888",29,"Male","ILI","Fever, Breathlessness","CLD",2020-11-08,2020-11-09,2020-11-10,NA
+11439,"Ballari","742540",72,"Male","SARI","Breathlessness","DM, HTN, COPD",NA,2020-10-27,2020-11-11,"Brought dead"
+11440,"Dharwad","748155",41,"Female","ILI","Breathlessness","HTN, CKD, TB",2020-10-12,2020-10-17,2020-11-11,NA
+11441,"Dharwad","757405",96,"Male","ILI","Breathlessness","DM, IHD",2020-10-14,2020-10-16,2020-11-11,NA
+11442,"Bengaluru Rural","811784",58,"Male","SARI","Fever, Breathlessness","-",2020-10-23,2020-10-31,2020-11-11,NA
+11443,"Kolar","815486",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-23,2020-11-09,2020-11-11,NA
+11444,"Ballari","821060",50,"Male","SARI","Breathlessness","IHD",NA,2020-10-23,2020-11-11,"Died at his residence"
+11445,"Vijayapura","821913",51,"Male","SARI","Cough, Breathlessness","DM",2020-10-24,2020-11-01,2020-11-11,NA
+11446,"Tumakuru","829289",90,"Female","ILI","Fever, Cough","DM, HTN, COPD",2020-10-26,2020-11-03,2020-11-11,NA
+11447,"Tumakuru","833350",72,"Male","SARI","Fever, Cough","HTN, DM",2020-10-29,2020-11-02,2020-11-11,NA
+11448,"Dakshina Kannada","834447",44,"Male","Contact under tracing","Fever, Cough","HTN, CKD",2020-10-30,2020-11-04,2020-11-11,NA
+11449,"Bengaluru Urban","842635",74,"Male","SARI","Fever, Breathlessness","DM",2020-11-09,2020-11-10,2020-11-11,NA
+11450,"Bengaluru Urban","842955",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-03,2020-11-10,2020-11-11,NA
+11451,"Bengaluru Urban","850765",60,"Male","SARI","Fever, Cough, Breathlessness","CKD, COPD",2020-11-05,2020-11-09,2020-11-11,NA
+11452,"Bengaluru Urban","850796",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-05,2020-11-10,2020-11-11,NA
+11453,"Ballari","852708",35,"Male","SARI","Breathlessness","-",2020-10-29,2020-11-04,2020-11-11,NA
+11454,"Bengaluru Urban","853189",59,"Male","SARI","Cough, Breathlessness","DM",2020-11-05,2020-11-09,2020-11-11,NA
+11455,"Mysuru","854214",72,"Male","SARI","Breathlessness","DM",2020-11-05,2020-11-10,2020-11-11,NA
+11456,"Bengaluru Urban","856648",65,"Female","ILI","Fever, Cough","HTN",2020-11-06,2020-11-10,2020-11-11,NA
+11457,"Chitradurga","860897",50,"Female","ILI","Breathlessness","DM",2020-11-08,2020-11-08,2020-11-11,NA
+11458,"Bengaluru Urban","861757",72,"Male","SARI","Fever, Cough, Breathlessness","HTN, CA",2020-11-08,2020-11-10,2020-11-11,NA
+11459,"Bengaluru Urban","862818",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-07,2020-11-09,2020-11-11,NA
+11460,"Hassan","864805",65,"Female","ILI","Fever, Cough","DM, HTN",2020-11-10,2020-11-10,2020-11-11,NA
+11461,"Bidar","866251",40,"Male","SARI","Breathlessness","DM",2020-11-10,2020-11-10,2020-11-11,NA
+11462,"Dharwad","573164",54,"Male","ILI","Fever, Cough","IHD, HTN",2020-10-16,2020-10-18,2020-11-12,NA
+11463,"Ballari","681108",62,"Male","SARI","Fever, Cough, Breathlessness","TB",NA,2020-10-10,2020-11-12,"Died at his residence"
+11464,"Ballari","718679",78,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-07,2020-10-11,2020-11-12,NA
+11465,"Dharwad","754592",80,"Male","SARI","Breathlessness","CKD, HTN, IHD",2020-10-16,2020-10-18,2020-11-12,NA
+11466,"Bengaluru Rural","787269",48,"Male","SARI","Fever, Breathlessness","DM",NA,2020-10-14,2020-11-12,"Brought dead"
+11467,"Bengaluru Rural","797223",75,"Male","SARI","Fever, Breathlessness","-",NA,2020-10-21,2020-11-12,"Brought dead"
+11468,"Raichur","811218",58,"Male","SARI","Breathlessness","HTN",2020-10-22,2020-10-23,2020-11-12,NA
+11469,"Bengaluru Rural","816962",89,"Male","SARI","Fever, Breathlessness","HTN, IHD",2020-10-26,2020-10-31,2020-11-12,NA
+11470,"Kolar","835468",27,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-10-24,2020-11-11,2020-11-12,NA
+11471,"Bengaluru Urban","847143",78,"Male","SARI","Breathlessness","HTN, CKD",2020-11-09,2020-11-10,2020-11-12,NA
+11472,"Hassan","848945",60,"Female","ILI","Fever, Cough","DM",2020-11-02,2020-11-11,2020-11-12,NA
+11473,"Bengaluru Urban","851287",80,"Female","ILI","Fever, Cough","DM, HTN, CA",2020-11-04,2020-11-11,2020-11-12,NA
+11474,"Tumakuru","853342",40,"Male","ILI","Fever, Cough","-",2020-11-05,2020-11-06,2020-11-12,NA
+11475,"Bengaluru Urban","854745",60,"Female","SARI","Breathlessness","DM, HTN",2020-11-05,2020-11-10,2020-11-12,NA
+11476,"Bengaluru Urban","855213",52,"Male","SARI","Breathlessness","DM, CKD, IHD",2020-11-06,2020-11-10,2020-11-12,NA
+11477,"Bengaluru Urban","855400",72,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-06,2020-11-11,2020-11-12,NA
+11478,"Bengaluru Urban","855540",61,"Male","SARI","Breathlessness","DM",2020-11-06,2020-11-11,2020-11-12,NA
+11479,"Bengaluru Urban","858909",40,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-07,2020-11-08,2020-11-12,NA
+11480,"Bengaluru Urban","859205",41,"Male","SARI","Breathlessness","CLD",2020-11-07,2020-11-11,2020-11-12,NA
+11481,"Mysuru","866922",41,"Male","ILI","Fever, Cough","DM",2020-11-10,2020-11-11,2020-11-12,NA
+11482,"Kalaburagi","867867",65,"Male","SARI","Cough, Breathlessness","TB, HTN, IHD",2020-11-10,2020-11-10,2020-11-12,NA
+11483,"Dharwad","675624",69,"Male","SARI","Fever, Breathlessness","-",2020-10-06,2020-10-19,2020-11-13,NA
+11484,"Ballari","736956",40,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2020-10-09,2020-10-14,2020-11-13,NA
+11485,"Ballari","739079",60,"Male","SARI","Breathlessness","DM",NA,2020-10-14,2020-11-13,"Brought dead"
+11486,"Belagavi","796930",53,"Female","SARI","Fever, Cough, Breathlessness","HTN, CVA",NA,2020-10-24,2020-11-13,"Died at his residence"
+11487,"Belagavi","799432",66,"Male","SARI","Breathlessness","DM, HTN, CVA",2020-10-17,2020-10-20,2020-11-13,NA
+11488,"Bengaluru Urban","836630",66,"Male","SARI","Breathlessness","DM, HTN",2020-10-31,2020-11-12,2020-11-13,NA
+11489,"Kolar","838467",80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-30,2020-11-11,2020-11-13,NA
+11490,"Kolar","839514",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-31,2020-11-11,2020-11-13,NA
+11491,"Uttara Kannada","845342",80,"Male","SARI","Fever, Breathlessness","HTN",2020-11-06,2020-11-08,2020-11-13,NA
+11492,"Mysuru","861027",60,"Female","SARI","Breathlessness","DM",2020-11-09,2020-11-12,2020-11-13,NA
+11493,"Bengaluru Urban","861211",77,"Male","ILI","Cough","DM, HTN",2020-11-07,2020-11-11,2020-11-13,NA
+11494,"Kalaburagi","861926",48,"Male","SARI","Cough, Breathlessness","-",2020-11-08,2020-11-12,2020-11-13,NA
+11495,"Bengaluru Urban","862373",66,"Female","ILI","Fever, Cough","DM, HTN",2020-11-08,2020-11-11,2020-11-13,NA
+11496,"Ramanagara","863904",45,"Male","SARI","Breathlessness","-",2020-11-09,2020-11-12,2020-11-13,NA
+11497,"Mysuru","865730",70,"Male","SARI","Breathlessness","DM, HTN, CVA",2020-11-08,2020-11-12,2020-11-13,NA
+11498,"Chamarajanagara","869336",45,"Female","SARI","Breathlessness","DM, HTN",2020-11-11,2020-11-12,2020-11-13,NA
+11499,"Uttara Kannada","870470",58,"Male","ILI","Breathlessness","IHD",2020-11-12,2020-11-12,2020-11-13,NA
+11500,"Dharwad","778257",78,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-30,2020-10-19,2020-11-14,NA
+11501,"Ballari","818913",59,"Male","SARI","Cough, Breathlessness","HTN",2020-11-05,2020-11-11,2020-11-14,NA
+11502,"Tumakuru","836886",70,"Male","Contact under tracing","-","DM, HTN",2020-10-30,2020-11-03,2020-11-14,NA
+11503,"Bengaluru Urban","840246",53,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-01,2020-11-13,2020-11-14,NA
+11504,"Bengaluru Urban","842156",56,"Male","ILI","Cough, Cold","DM, HTN",2020-11-01,2020-11-05,2020-11-14,NA
+11505,"Bengaluru Urban","842739",88,"Female","SARI","Breathlessness","DM, HTN",2020-11-02,2020-11-02,2020-11-14,NA
+11506,"Bengaluru Urban","842898",49,"Female","ILI","Fever, Cough","DM, HTN",2020-11-02,2020-11-02,2020-11-14,NA
+11507,"Bengaluru Urban","843114",79,"Male","ILI","Fever, Cough","DM, HTN",NA,2020-10-31,2020-11-14,"Died at his residence"
+11508,"Bengaluru Urban","843116",70,"Male","SARI","Breathlessness","DM, HTN",2020-11-02,2020-11-03,2020-11-14,NA
+11509,"Tumakuru","844232",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-03,2020-11-03,2020-11-14,NA
+11510,"Bengaluru Urban","849481",85,"Male","SARI","Cough, Breathlessness","Nil",2020-11-03,2020-11-12,2020-11-14,NA
+11511,"Dakshina Kannada","850428",56,"Male","Contact under tracing","Fever, Breathlessness","-",2020-11-03,2020-11-12,2020-11-14,NA
+11512,"Bengaluru Urban","851102",64,"Male","ILI","Fever, Cough","DM, HTN",2020-11-10,2020-11-12,2020-11-14,NA
+11513,"Bengaluru Urban","853854",54,"Male","SARI","Breathlessness","Nil",2020-11-05,2020-11-12,2020-11-14,NA
+11514,"Ballari","856992",17,"Female","SARI","Breathlessness","_",2020-11-06,2020-11-12,2020-11-14,NA
+11515,"Hassan","864295",80,"Female","SARI","Breathlessness","HTN, IHD",2020-11-10,2020-11-14,2020-11-14,NA
+11516,"Mandya","870300",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-12,2020-11-14,2020-11-14,NA
+11517,"Dharwad","769373",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-26,2020-10-19,2020-11-15,NA
+11518,"Ballari","827934",73,"Male","SARI","Breathlessness","DM",2020-10-28,2020-11-03,2020-11-15,NA
+11519,"Ballari","830717",30,"Female","SARI","Breathlessness","-",2020-10-30,2020-11-07,2020-11-15,NA
+11520,"Vijayapura","835535",52,"Male","ILI","Cough","DM",2020-10-29,2020-11-03,2020-11-15,NA
+11521,"Tumakuru","841807",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-03,2020-11-03,2020-11-15,NA
+11522,"Bengaluru Urban","847118",74,"Male","SARI","Fever, Breathlessness","-",2020-11-06,2020-11-13,2020-11-15,NA
+11523,"Bengaluru Urban","852122",80,"Male","SARI","Breathlessness","DM, HTN",2020-11-05,2020-11-15,2020-11-15,NA
+11524,"Mysuru","857840",65,"Male","SARI","Breathlessness","DM, HTN",2020-11-06,2020-11-14,2020-11-15,NA
+11525,"Bagalakote","860433",82,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-13,2020-11-14,2020-11-15,NA
+11526,"Bengaluru Urban","861756",65,"Female","SARI","Breathlessness","DM, HTN, COPD, CVA",2020-11-08,2020-11-14,2020-11-15,NA
+11527,"Bengaluru Urban","862333",70,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-08,2020-11-14,2020-11-15,NA
+11528,"Haveri","863127",36,"Male","SARI","Fever, Cough, Breathlessness","HTN, CVA",2020-11-12,2020-11-14,2020-11-15,NA
+11529,"Dakshina Kannada","865868",56,"Female","SARI","Cough, Breathlessness","HTN, CKD",2020-11-09,2020-11-14,2020-11-15,NA
+11530,"Davanagere","865994",17,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-09,2020-11-10,2020-11-15,NA
+11531,"Dakshina Kannada","867843",38,"Male","SARI","Breathlessness","CLD, HTN",2020-11-10,2020-11-11,2020-11-15,NA
+11532,"Mysuru","867893",68,"Male","SARI","Breathlessness","HTN",2020-11-12,2020-11-15,2020-11-15,NA
+11533,"Uttara Kannada","868146",68,"Male","SARI","Fever, Breathlessness","HTN, DM",2020-11-12,2020-11-15,2020-11-15,NA
+11534,"Bengaluru Urban","868790",76,"Male","SARI","Breathlessness","DM, HTN",2020-11-11,2020-11-14,2020-11-15,NA
+11535,"Mysuru","872346",68,"Male","SARI","Breathlessness","DM",2020-11-12,2020-11-14,2020-11-15,NA
+11536,"Bengaluru Urban","873306",38,"Female","SARI","Breathlessness","-",2020-11-13,2020-11-13,2020-11-15,NA
+11537,"Hassan","873435",60,"Male","Contcat under tracing","-","-",2020-11-14,2020-11-14,2020-11-15,NA
+11538,"Ballari","686175",65,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2020-10-09,2020-11-16,"Died at her residence"
+11539,"Dharwad","717333",74,"Female","SARI","Fever","DM, HTN",2020-10-09,2020-10-20,2020-11-16,NA
+11540,"Ballari","793530",75,"Male","SARI","Fever, Breathlessness","HTN",2020-10-30,2020-11-06,2020-11-16,NA
+11541,"Bengaluru Urban","831920",79,"Female","ILI","Cough","DM, HTN",2020-10-28,2020-11-14,2020-11-16,NA
+11542,"Bengaluru Urban","850827",65,"Male","ILI","Fever, Cough","DM, CKD",2020-11-04,2020-11-15,2020-11-16,NA
+11543,"Bengaluru Urban","853463",48,"Female","ILI","Cough","DM, HTN",2020-11-05,2020-11-15,2020-11-16,NA
+11544,"Dakshina Kannada","859708",81,"Male","Contact under tracing","Fever, Breathlessness","DM, HTN, IHD",2020-11-12,2020-11-13,2020-11-16,NA
+11545,"Bengaluru Urban","868569",77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-11,2020-11-14,2020-11-16,NA
+11546,"Bengaluru Urban","872719",70,"Male","ILI","Cough","DM, HTN",NA,2020-11-15,2020-11-16,"Died at his residence"
+11547,"Uttara Kannada","873705",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-14,2020-11-15,2020-11-16,NA
+11548,"Mysuru","874119",89,"Male","SARI","Breathlessness","DM, HTN",2020-11-14,2020-11-15,2020-11-16,NA
+11549,"Bengaluru Urban","874549",55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-15,2020-11-15,2020-11-16,NA
+11550,"Dharwad","778260",68,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-10-16,2020-10-20,2020-11-17,NA
+11551,"Ballari","821376",65,"Male","SARI","Fever, Cough, Breathlessness","COPD, DM",2020-11-03,2020-11-07,2020-11-17,NA
+11552,"Dakshina Kannada","844666",70,"Male","SARI","Breathlessness & Cough","DM, CA-Colon",2020-11-02,2020-11-12,2020-11-17,NA
+11553,"Tumakuru","844731",70,"Male","SARI","Breathlessness","-",NA,2020-11-02,2020-11-17,"Brought dead"
+11554,"Bengaluru Urban","845918",82,"Male","ILI","Fever, Cough","DM, HTN, COPD",2020-11-03,2020-11-14,2020-11-17,NA
+11555,"Bengaluru Urban","849478",69,"Male","SARI","Breathlessness","COPD",2020-11-02,2020-11-15,2020-11-17,NA
+11556,"Raichur","856115",60,"Male","SARI","Breathlessness","HTN",2020-11-06,2020-11-08,2020-11-17,NA
+11557,"Bengaluru Urban","856462",74,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-11-06,2020-11-15,2020-11-17,NA
+11558,"Bengaluru Urban","857496",48,"Female","SARI","Breathlessness & Cough","-",2020-11-07,2020-11-10,2020-11-17,NA
+11559,"Bengaluru Urban","861276",45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-13,2020-11-16,2020-11-17,NA
+11560,"Bengaluru Urban","863260",67,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-11-09,2020-11-15,2020-11-17,NA
+11561,"Dakshina Kannada","863659",53,"Female","Contact under tracing","Breathlessness","HTN, IHD",2020-11-08,2020-11-11,2020-11-17,NA
+11562,"Bengaluru Urban","870227",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-12,2020-11-16,2020-11-17,NA
+11563,"Bengaluru Urban","871027",54,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-16,2020-11-16,2020-11-17,NA
+11564,"Bengaluru Urban","873633",60,"Male","SARI","Breathlessness","DM",2020-11-14,2020-11-16,2020-11-17,NA
+11565,"Uttara Kannada","875805",55,"Male","Contact under tracing","-","HTN",NA,2020-11-13,2020-11-17,"Brought dead"
+11566,"Ballari","709910",48,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-08,2020-10-11,2020-11-18,NA
+11567,"Dharwad","746732",65,"Male","SARI","Cough, Breathlessness","DM, HTN, CLD",2020-10-14,2020-10-27,2020-11-18,NA
+11568,"Dharwad","750647",65,"Female","ILI","Fever, Cough","HTN, DM, IHD",2020-10-12,2020-10-23,2020-11-18,NA
+11569,"Kodagu","837244",32,"Male","ILI","Fever","-",2020-11-08,2020-11-10,2020-11-18,NA
+11570,"Tumakuru","844238",60,"Male","ILI","Fever, Cough","-",2020-10-30,2020-11-04,2020-11-18,NA
+11571,"Dakshina Kannada","857625",64,"Male","Contact under tracing","Fever, Cough, Breathlessness","COPD, HTN",2020-11-06,2020-11-16,2020-11-18,NA
+11572,"Bengaluru Urban","858396",87,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-08,2020-11-17,2020-11-18,NA
+11573,"Bengaluru Urban","860590",72,"Male","SARI","Fever, Breathlessness","HTN",2020-11-07,2020-11-17,2020-11-18,NA
+11574,"Uttara Kannada","861120",62,"Male","SARI","Fever, Breathlessness","HTN",2020-11-08,2020-11-18,2020-11-18,NA
+11575,"Bengaluru Urban","865376",40,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-14,2020-11-16,2020-11-18,NA
+11576,"Dakshina Kannada","868071",71,"Male","SARI","Fever, Cough","IHD, DM, HTN",2020-11-10,2020-11-14,2020-11-18,NA
+11577,"Bengaluru Urban","869510",63,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-12,2020-11-17,2020-11-18,NA
+11578,"Hassan","869530",82,"Male","ILI","Fever, Cough","HTN",2020-11-12,2020-11-18,2020-11-18,NA
+11579,"Bengaluru Urban","869692",76,"Female","SARI","Breathlessness","DM, HTN",2020-11-12,2020-11-17,2020-11-18,NA
+11580,"Bengaluru Urban","869718",78,"Male","ILI","Cough","DM, HTN",2020-11-12,2020-11-17,2020-11-18,NA
+11581,"Bengaluru Urban","873339",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-14,2020-11-17,2020-11-18,NA
+11582,"Bengaluru Urban","873990",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-14,2020-11-17,2020-11-18,NA
+11583,"Hassan","875362",70,"Male","ILI","Fever, Cough","COPD",2020-11-15,2020-11-18,2020-11-18,NA
+11584,"Mysuru","876257",52,"Female","Contact under tracing","-","DM, HTN, IHD",2020-11-12,2020-11-17,2020-11-18,NA
+11585,"Bengaluru Urban","876873",27,"Female","ILI","Cough","-",NA,2020-11-16,2020-11-18,"Died at her residence"
+11586,"Bengaluru Urban","877532",75,"Male","SARI","Breathlessness","DM",2020-10-27,2020-11-16,2020-11-18,NA
+11587,"Ballari","704865",43,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-26,2020-08-26,2020-11-19,NA
+11588,"Dharwad","737398",60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-10-10,2020-10-30,2020-11-19,NA
+11589,"Dharwad","792427",65,"Female","SARI","Fever, Breathlessness","HTN",2020-10-19,2020-10-28,2020-11-19,NA
+11590,"Ballari","825338",70,"Female","SARI","Fever, Breathlessness","DM",2020-11-01,2020-11-05,2020-11-19,NA
+11591,"Vijayapura","829680",50,"Male","ILI","Cough, Breathlessness","-",2020-10-24,2020-11-06,2020-11-19,NA
+11592,"Bengaluru Urban","846662",48,"Male","SARI","Breathlessness","DM, HTN",2020-11-14,2020-11-17,2020-11-19,NA
+11593,"Bengaluru Urban","848955",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-04,2020-11-18,2020-11-19,NA
+11594,"Bengaluru Urban","849114",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-13,2020-11-18,2020-11-19,NA
+11595,"Bengaluru Urban","851930",53,"Male","ILI","Cough, Fever","DM, HTN",2020-11-11,2020-11-17,2020-11-19,NA
+11596,"Bengaluru Urban","852795",49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-05,2020-11-17,2020-11-19,NA
+11597,"Tumakuru","852997",68,"Female","SARI","Cough, Breathlessness","-",2020-11-04,2020-11-06,2020-11-19,NA
+11598,"Bengaluru Urban","858292",45,"Male","SARI","Breathlessness","DM, HTN",2020-11-09,2020-11-17,2020-11-19,NA
+11599,"Bengaluru Urban","859387",43,"Male","ILI","Cough, Fever","-",2020-11-06,2020-11-15,2020-11-19,NA
+11600,"Bengaluru Urban","862261",85,"Male","SARI","Breathlessness","DM, HTN",2020-11-09,2020-11-18,2020-11-19,NA
+11601,"Kodagu","865208",46,"Male","Contact under tracing","-","HTN",2020-11-10,2020-11-17,2020-11-19,NA
+11602,"Mysuru","866219",35,"Male","SARI","Breathlessness","CKD",2020-11-10,2020-11-19,2020-11-19,NA
+11603,"Bengaluru Urban","866672",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-11,2020-11-18,2020-11-19,NA
+11604,"Dakshina Kannada","868630",91,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD",2020-11-10,2020-11-16,2020-11-19,NA
+11605,"Bengaluru Urban","868924",86,"Male","ILI","Cough, Fever","DM, HTN",2020-11-11,2020-11-18,2020-11-19,NA
+11606,"Bengaluru Urban","873336",94,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-17,2020-11-18,2020-11-19,NA
+11607,"Dakshina Kannada","873905",67,"Male","Contact under tracing","-","DM, HTN, CKD, CAD",2020-11-13,2020-11-15,2020-11-19,NA
+11608,"Tumakuru","873926",55,"Female","ILI","Cough, Fever","DM",2020-11-12,2020-11-14,2020-11-19,NA
+11609,"Bengaluru Urban","876726",75,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-16,2020-11-17,2020-11-19,NA
+11610,"Bengaluru Urban","876735",36,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-17,2020-11-18,2020-11-19,NA
+11611,"Bengaluru Urban","877002",55,"Female","ILI","Cough, Fever","DM, HTN",2020-10-18,2020-11-17,2020-11-19,NA
+11612,"Chikkaballapura","880406",83,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-11-05,2020-11-17,2020-11-19,NA
+11613,"Dharwad","814946",65,"Male","SARI","Cough, Breathlessness","-",2020-10-22,2020-10-28,2020-11-20,NA
+11614,"Dharwad","830343",84,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-29,2020-11-08,2020-11-20,NA
+11615,"Bengaluru Urban","837016",70,"Male","ILI","Fever, Cough","DM, HTN",2020-10-31,2020-11-19,2020-11-20,NA
+11616,"Ballari","849666",74,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-11-06,2020-11-13,2020-11-20,NA
+11617,"Bengaluru Urban","850559",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-11,2020-11-19,2020-11-20,NA
+11618,"Bengaluru Urban","850857",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-05,2020-11-18,2020-11-20,NA
+11619,"Shivamogga","862723",74,"Male","SARI","Breathlessness","DM, HTN",2020-11-09,2020-11-14,2020-11-20,NA
+11620,"Raichur","863166",45,"Male","SARI","Cough, Breathlessness","DM",2020-11-08,2020-11-10,2020-11-20,NA
+11621,"Bengaluru Urban","868389",72,"Male","ILI","Fever, Cough","HTN",2020-11-15,2020-11-18,2020-11-20,NA
+11622,"Tumakuru","870325",85,"Male","SARI","Breathlessness","HTN",2020-11-12,2020-11-16,2020-11-20,NA
+11623,"Bengaluru Rural","872387",63,"Male","SARI","Cough, Breathlessness","IHD",2020-11-13,2020-11-18,2020-11-20,NA
+11624,"Mysuru","874184",50,"Female","SARI","Fever, Cough","DM, HTN",2020-11-14,2020-11-19,2020-11-20,NA
+11625,"Bengaluru Urban","875736",78,"Female","ILI","Fever, Cough","DM, HTN",2020-11-15,2020-11-17,2020-11-20,NA
+11626,"Bengaluru Urban","877435",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-17,2020-11-19,2020-11-20,NA
+11627,"Mysuru","877669",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-11-09,2020-11-14,2020-11-20,NA
+11628,"Mysuru","879293",62,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-11-18,2020-11-18,2020-11-20,NA
+11629,"Dakshina Kannada","879972",48,"Male","SARI","Fever, Cough, Breathlessness","CVA",2020-11-17,2020-11-19,2020-11-20,NA
+11630,"Kolar","739708",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-10-14,2020-10-21,2020-11-21,NA
+11631,"Bengaluru Urban","851805",60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-04,2020-11-21,2020-11-21,NA
+11632,"Dharwad","854278",78,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-04,2020-11-08,2020-11-21,NA
+11633,"Bengaluru Urban","857258",66,"Male","SARI","Cough, Breathlessness","HTN, COPD",2020-11-07,2020-11-20,2020-11-21,NA
+11634,"Bengaluru Urban","859452",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-10,2020-11-20,2020-11-21,NA
+11635,"Bengaluru Urban","862582",82,"Male","SARI","Fever, Breathlessness","DM",2020-11-12,2020-11-20,2020-11-21,NA
+11636,"Dakshina Kannada","863851",46,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-11-09,2020-11-17,2020-11-21,NA
+11637,"Bengaluru Urban","864014",84,"Male","ILI","Fever, Cough","DM, HTN, CVA",2020-11-09,2020-11-19,2020-11-21,NA
+11638,"Dakshina Kannada","864045",50,"Male","SARI","Breathlessness","-",2020-11-10,2020-11-18,2020-11-21,NA
+11639,"Ballari","864091",65,"Female","SARI","Breathlessness","_",2020-11-10,2020-11-14,2020-11-21,NA
+11640,"Tumakuru","864819",60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-14,2020-11-17,2020-11-21,NA
+11641,"Tumakuru","867899",74,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-11,2020-11-19,2020-11-21,NA
+11642,"Bengaluru Urban","868439",56,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-11-11,2020-11-19,2020-11-21,NA
+11643,"Dakshina Kannada","873046",39,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD, IHD",2020-11-13,2020-11-17,2020-11-21,NA
+11644,"Haveri","874614",72,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-14,2020-11-20,2020-11-21,NA
+11645,"Bengaluru Urban","876333",69,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-16,2020-11-20,2020-11-21,NA
+11646,"Mysuru","880117",51,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-17,2020-11-19,2020-11-21,NA
+11647,"Bengaluru Urban","882061",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-18,2020-11-19,2020-11-21,NA
+11648,"Bengaluru Urban","882841",63,"Male","SARI","Breathlessness","CKD",2020-11-19,2020-11-20,2020-11-21,NA
+11649,"Bengaluru Urban","883375",70,"Male","ILI","Fever, Cough","-",2020-11-16,2020-11-16,2020-11-21,NA
+11650,"Bengaluru Urban","854902",58,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-13,2020-11-21,2020-11-22,NA
+11651,"Bengaluru Urban","862224",30,"Female","SARI","Breathlessness","DM",2020-11-20,2020-11-20,2020-11-22,NA
+11652,"Dharwad","862692",77,"Male","SARI","Breathlessness","-",2020-10-31,2020-11-08,2020-11-22,NA
+11653,"Ballari","866042",89,"Male","SARI","Cough, Breathlessness","HTN, DM",2020-11-01,2020-11-14,2020-11-22,NA
+11654,"Bengaluru Urban","874156",70,"Female","ILI","Fever, Cough","-",2020-11-14,2020-11-20,2020-11-22,NA
+11655,"Bengaluru Urban","874553",83,"Female","SARI","Breathlessness","DM, HTN",2020-11-14,2020-11-20,2020-11-22,NA
+11656,"Bengaluru Urban","877286",53,"Female","ILI","Cough","DM, HTN, IHD",2020-11-15,2020-11-19,2020-11-22,NA
+11657,"Bengaluru Urban","878606",62,"Female","ILI","Cough","DM, HTN",2020-11-17,2020-11-20,2020-11-22,NA
+11658,"Bengaluru Urban","879810",32,"Male","ILI","-","-",2020-11-18,2020-11-18,2020-11-22,NA
+11659,"Mysuru","880308",57,"Female","SARI","Pneumonia with Severe ARDS","DM, HTN",2020-11-18,2020-11-21,2020-11-22,NA
+11660,"Bengaluru Urban","882708",68,"Male","ILI","Fever","HTN",2020-11-19,2020-11-21,2020-11-22,NA
+11661,"Bengaluru Urban","884612",67,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-21,2020-11-21,2020-11-22,NA
+11662,"Bengaluru Urban","885301",61,"Male","SARI","Breathlessness","-",2020-11-21,2020-11-21,2020-11-22,NA
+11663,"Raichur","789998",60,"Male","SARI","Cough, Breathlessness","HTN",2020-10-19,2020-11-22,2020-11-23,NA
+11664,"Ballari","821066",30,"Male","SARI","Cough, Breathlessness","-",2020-11-01,2020-11-20,2020-11-23,NA
+11665,"Vijayapura","839589",67,"Male","SARI","Cough, Breathlessness","DM",2020-11-08,2020-11-09,2020-11-23,NA
+11666,"Bengaluru Urban","842733",67,"Male","ILI","Fever, Cough","DM, HTN",2020-11-02,2020-11-20,2020-11-23,NA
+11667,"Dakshina Kannada","850488",46,"Male","Contact under tracing","Cough","DM, HTN, CLD",2020-11-03,2020-11-12,2020-11-23,NA
+11668,"Dharwad","859789",90,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-07,2020-11-13,2020-11-23,NA
+11669,"Bengaluru Urban","863773",54,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-10,2020-11-22,2020-11-23,NA
+11670,"Bengaluru Urban","865317",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-11,2020-11-22,2020-11-23,NA
+11671,"Bengaluru Urban","869307",83,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-11,2020-11-22,2020-11-23,NA
+11672,"Mysuru","870315",67,"Male","SARI","Cough, Breathlessness","HTN, IHD",2020-11-13,2020-11-22,2020-11-23,NA
+11673,"Dakshina Kannada","870989",71,"Male","SARI","Fever, Cough, Breathlessness","CKD, IHD",2020-11-13,2020-11-18,2020-11-23,NA
+11674,"Dakshina Kannada","873126",64,"Male","SARI","Fever, Cough, Breathlessness","COPD, DM, HTN",2020-11-13,2020-11-22,2020-11-23,NA
+11675,"Bengaluru Urban","874021",90,"Male","ILI","Fever, Cough","DM, HTN",2020-11-15,2020-11-21,2020-11-23,NA
+11676,"Bengaluru Urban","875179",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-15,2020-11-18,2020-11-23,NA
+11677,"Bengaluru Urban","877001",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-16,2020-11-21,2020-11-23,NA
+11678,"Bagalakote","877376",45,"Male","SARI","Fever, Cough, Breathlessness","TB",2020-11-17,2020-11-22,2020-11-23,NA
+11679,"Bengaluru Urban","877379",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-20,2020-11-21,2020-11-23,NA
+11680,"Bengaluru Urban","878318",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-18,2020-11-22,2020-11-23,NA
+11681,"Mysuru","879069",70,"Female","SARI","Fever, Cough, Breathlessness","COPD, HTN",2020-11-21,2020-11-22,2020-11-23,NA
+11682,"Bengaluru Urban","880210",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-19,2020-11-21,2020-11-23,NA
+11683,"Belagavi","880500",59,"Male","SARI","Breathlessness","DM, HTN",2020-11-21,2020-11-22,2020-11-23,NA
+11684,"Dakshina Kannada","882547",66,"Male","Contact under tracing","Cough","CKD, DM, HTN",2020-11-19,2020-11-20,2020-11-23,NA
+11685,"Uttara Kannada","883468",70,"Male","SARI","Breathlessness","DM, HTN",2020-11-15,2020-11-22,2020-11-23,NA
+11686,"Chamarajanagara","886871",93,"Male","Contact under tracing","-","DM, HTN",2020-11-20,2020-11-22,2020-11-23,NA
+11687,"Bengaluru Urban","846955",62,"Male","ILI","Fever, Cough","DM, HTN",2020-11-03,2020-11-23,2020-11-24,NA
+11688,"Bengaluru Urban","850813",62,"Male","SARI","Breathlessness","DM, HTN",2020-11-10,2020-11-22,2020-11-24,NA
+11689,"Ballari","855445",26,"Female","SARI","Cough, Breathlessness","-",2020-11-05,2020-11-14,2020-11-24,NA
+11690,"Bengaluru Urban","862801",65,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-11-09,2020-11-22,2020-11-24,NA
+11691,"Bengaluru Urban","868180",62,"Male","SARI","Cough, Breathlessness","-",2020-11-21,2020-11-23,2020-11-24,NA
+11692,"Bengaluru Urban","868480",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-11-11,2020-11-23,2020-11-24,NA
+11693,"Bengaluru Urban","871295",82,"Male","ILI","Fever, Cough","DM, HTN, CKD, IHD",2020-11-13,2020-11-22,2020-11-24,NA
+11694,"Uttara Kannada","872459",86,"Female","ILI","Fever","-",2020-11-15,2020-11-18,2020-11-24,NA
+11695,"Bengaluru Urban","873020",66,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-11-13,2020-11-21,2020-11-24,NA
+11696,"Bengaluru Urban","874861",63,"Female","SARI","Breathlessness","-",2020-11-15,2020-11-21,2020-11-24,NA
+11697,"Bengaluru Urban","881965",85,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-19,2020-11-22,2020-11-24,NA
+11698,"Bengaluru Urban","882846",74,"Male","ILI","Fever","HTN",2020-11-19,2020-11-23,2020-11-24,NA
+11699,"Mysuru","885460",17,"Female","SARI","Breathlessness","-",2020-11-21,2020-11-22,2020-11-24,NA
+11700,"Bagalakote","885983",32,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-23,2020-11-23,2020-11-24,NA
+11701,"Bengaluru Urban","886834",57,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-11-22,2020-11-23,2020-11-24,NA
+11702,"Uttara Kannada","886907",76,"Male","Contact under tracing","-","HTN",NA,2020-11-17,2020-11-24,"Brought dead"
+11703,"Bengaluru Urban","887838",45,"Male","SARI","Cough, Breathlessness","COPD",2020-11-21,2020-11-22,2020-11-24,NA
+11704,"Bengaluru Urban","830155",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-19,2020-11-23,2020-11-25,NA
+11705,"Bengaluru Urban","846416",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-01,2020-11-24,2020-11-25,NA
+11706,"Dharwad","847337",62,"Female","SARI","Fever, Breathlessness","DM, HTN, CVA",2020-11-05,2020-11-10,2020-11-25,NA
+11707,"Dakshina Kannada","854675",65,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-11-05,2020-11-18,2020-11-25,NA
+11708,"Bengaluru Urban","857503",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-08,2020-11-24,2020-11-25,NA
+11709,"Bengaluru Urban","863834",60,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-11-09,2020-11-24,2020-11-25,NA
+11710,"Bengaluru Urban","865834",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-18,2020-11-24,2020-11-25,NA
+11711,"Bengaluru Urban","868434",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-13,2020-11-24,2020-11-25,NA
+11712,"Bengaluru Urban","870067",68,"Male","SARI","Breathlessness","DM, CKD, CVA",2020-11-11,2020-11-23,2020-11-25,NA
+11713,"Bengaluru Rural","874945",75,"Male","SARI","Breathlessness","HTN",2020-11-15,2020-11-24,2020-11-25,NA
+11715,"Bengaluru Urban","877380",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-23,2020-11-23,2020-11-25,NA
+11716,"Tumakuru","877812",51,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-23,2020-11-23,2020-11-25,NA
+11717,"Bengaluru Urban","879203",83,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-18,2020-11-24,2020-11-25,NA
+11718,"Bengaluru Urban","880946",42,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-19,2020-11-23,2020-11-25,NA
+11719,"Bengaluru Urban","882759",21,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-20,2020-11-24,2020-11-25,NA
+11720,"Tumakuru","883465",52,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-21,2020-11-22,2020-11-25,NA
+11721,"Mysuru","885464",60,"Male","-","-","DM, HTN",NA,2020-11-24,2020-11-25,"Died at his residence"
+11722,"Dharwad","887974",70,"Female","SARI","Breathlessness","-",2020-11-18,2020-11-19,2020-11-25,NA
+11723,"Bengaluru Urban","851577",60,"Female","SARI","Breathlessness","HTN",2020-11-05,2020-11-24,2020-11-26,NA
+11724,"Bengaluru Urban","852719",45,"Male","SARI","Fever, Breathlessness","DM",2020-11-06,2020-11-24,2020-11-26,NA
+11725,"Kodagu","865209",70,"Female","SARI","Breathlessness","HTN",2020-11-10,2020-11-23,2020-11-26,NA
+11726,"Bengaluru Urban","865811",83,"Male","SARI","Breathlessness","DM, HTN",2020-11-20,2020-11-26,2020-11-26,NA
+11727,"Bengaluru Urban","871304",67,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-11,2020-11-25,2020-11-26,NA
+11728,"Bengaluru Rural","876132",23,"Male","SARI","Breathlessness","-",NA,2020-11-23,2020-11-26,"Died at his residence"
+11729,"Tumakuru","876629",64,"Female","SARI","Breathlessness","-",2020-11-14,2020-11-25,2020-11-26,NA
+11730,"Kolar","877786",51,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-14,2020-11-18,2020-11-26,NA
+11731,"Bengaluru Urban","881199",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-19,2020-11-25,2020-11-26,NA
+11732,"Mysuru","883605",48,"Female","SARI","Cough, Breathlessness","DM",2020-11-20,2020-11-25,2020-11-26,NA
+11733,"Bengaluru Urban","884622",41,"Male","SARI","Breathlessness","HTN, CKD",2020-11-20,2020-11-25,2020-11-26,NA
+11734,"Bengaluru Urban","888789",75,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-23,2020-11-25,2020-11-26,NA
+11735,"Bengaluru Urban","833091",76,"Male","ILI","Fever, Cough","DM, HTN",2020-10-30,2020-11-24,2020-11-27,NA
+11736,"Bengaluru Urban","864471",68,"Male","SARI","Breathlessness","DM",2020-11-10,2020-11-26,2020-11-27,NA
+11737,"Bengaluru Urban","867004",48,"Female","SARI","Breathlessness","DM",2020-11-20,2020-11-22,2020-11-27,NA
+11738,"Dakshina Kannada","867036",64,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-11-21,2020-11-25,2020-11-27,NA
+11739,"Bengaluru Urban","867973",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-11,2020-11-26,2020-11-27,NA
+11740,"Chikkamagaluru","876615",65,"Male","SARI","Breathlessness","HTN",2020-11-16,2020-11-27,2020-11-27,NA
+11741,"Uttara Kannada","877817",65,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD, CVD",2020-11-17,2020-11-26,2020-11-27,NA
+11742,"Bengaluru Urban","884751",75,"Male","SARI","Cough, Breathlessness","-",2020-11-23,2020-11-26,2020-11-27,NA
+11743,"Bidar","885718",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-19,2020-11-25,2020-11-27,NA
+11744,"Ballari","892044",80,"Male","SARI","Fever, Breathlessness","DM, HTN, Asthma",2020-11-26,2020-11-27,2020-11-27,NA
+11745,"Mysuru","892717",55,"Male","ILI","Fever, Cough","ALD",2020-11-23,2020-11-26,2020-11-27,NA
+11746,"Bengaluru Urban","893588",76,"Female","SARI","Cough, Breathlessness","DM",2020-11-26,2020-11-26,2020-11-27,NA
+11747,"Bengaluru Urban","826130",67,"Male","ILI","Fever, Cough","DM, HTN",2020-10-25,2020-11-17,2020-11-28,NA
+11748,"Bengaluru Urban","858665",49,"Male","SARI","Breathlessness","DM",2020-11-08,2020-11-27,2020-11-28,NA
+11749,"Bengaluru Urban","869700",65,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD, CKD",2020-11-12,2020-11-25,2020-11-28,NA
+11750,"Bengaluru Urban","875292",63,"Male","ILI","Fever, Cough","DM",2020-11-15,2020-11-27,2020-11-28,NA
+11751,"Bengaluru Urban","878658",68,"Male","ILI","Fever","DM, HTN, IHD, CKD",2020-11-17,2020-11-27,2020-11-28,NA
+11752,"Bidar","884866",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-25,2020-11-27,2020-11-28,NA
+11753,"Dakshina Kannada","891025",43,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-25,2020-11-26,2020-11-28,NA
+11754,"Bengaluru Urban","891515",35,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-18,2020-11-21,2020-11-28,NA
+11755,"Bengaluru Urban","891963",58,"Male","ILI","Fever, Cough","DM, HTN",2020-11-25,2020-11-26,2020-11-28,NA
+11756,"Mysuru","893792",27,"Male","SARI","Cough, Breathlessness","-",2020-11-26,2020-11-27,2020-11-28,NA
+11757,"Bagalakote","894248",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-24,2020-11-27,2020-11-28,NA
+11758,"Mysuru","894276",65,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2020-11-26,2020-11-27,2020-11-28,NA
+11759,"Bengaluru Urban","859450",47,"Male","SARI","Breathlessness","DM, HTN",2020-11-08,2020-11-27,2020-11-29,NA
+11760,"Bengaluru Urban","871284",83,"Male","SARI","Breathlessness","HTN",NA,2020-11-26,2020-11-29,"Died at his residence"
+11761,"Bengaluru Urban","872189",73,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-13,2020-11-21,2020-11-29,NA
+11762,"Bengaluru Urban","874547",92,"Male","ILI","Cough","HTN",NA,2020-11-26,2020-11-29,"Died at his residence"
+11763,"Bengaluru Urban","875932",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-16,2020-11-27,2020-11-29,NA
+11764,"Dakshina Kannada","877448",66,"Male","ILI","Fever","DM, HTN, IHD",2020-11-16,2020-11-27,2020-11-29,NA
+11765,"Bengaluru Urban","878790",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-18,2020-11-28,2020-11-29,NA
+11766,"Bengaluru Urban","879835",77,"Male","ILI","Fever","DM, HTN",2020-11-17,2020-11-28,2020-11-29,NA
+11767,"Mysuru","884494",50,"Male","Contact under tracing","-","HTN, CKD",2020-11-20,2020-11-28,2020-11-29,NA
+11768,"Tumakuru","886826",67,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-22,2020-11-26,2020-11-29,NA
+11769,"Bengaluru Urban","890490",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-24,2020-11-27,2020-11-29,NA
+11770,"Bengaluru Urban","892194",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-23,2020-11-28,2020-11-29,NA
+11771,"Mysuru","893802",59,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-24,2020-11-24,2020-11-29,NA
+11772,"Bengaluru Urban","894334",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-25,2020-11-26,2020-11-29,NA
+11773,"Uttara Kannada","896248",79,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-27,2020-11-29,2020-11-29,NA
+11774,"Bengaluru Urban","862579",85,"Male","SARI","Breathlessness","DM, HTN",2020-11-09,2020-11-28,2020-11-30,NA
+11775,"Ballari","868374",70,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-12,2020-11-22,2020-11-30,NA
+11776,"Bengaluru Urban","869451",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-14,2020-11-28,2020-11-30,NA
+11777,"Dakshina Kannada","876616",77,"Male","SARI","Fever, Breathlessness","HTN",2020-11-15,2020-11-28,2020-11-30,NA
+11778,"Bengaluru Rural","877186",75,"Male","SARI","Breathlessness","HTN, DM",2020-11-16,2020-11-17,2020-11-30,NA
+11779,"Bengaluru Rural","881043",73,"Male","ILI","Breathlessness","-",2020-11-18,2020-11-27,2020-11-30,NA
+11780,"Kodagu","885178",71,"Male","ILI","Fever","IHD",2020-11-22,2020-11-28,2020-11-30,NA
+11781,"Bagalakote","885722",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-21,2020-11-30,2020-11-30,NA
+11782,"Bengaluru Urban","890480",74,"Male","ILI","Fever","DM, HTN, IHD, CKD",2020-11-24,2020-11-28,2020-11-30,NA
+11783,"Bengaluru Urban","891020",76,"Male","SARI","Breathlessness","DM, HTN, IHD, CKD",2020-11-25,2020-11-28,2020-11-30,NA
+11784,"Bengaluru Urban","894588",79,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-11-25,2020-11-30,2020-11-30,NA
+11785,"Bengaluru Urban","895162",90,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-27,2020-11-29,2020-11-30,NA
+11786,"Uttara Kannada","896239",60,"Male","SARI","Breathlessness","CVD",NA,2020-11-24,2020-11-30,"Brought dead"
+11787,"Bengaluru Urban","866487",69,"Male","ILI","Fever","-",2020-11-09,2020-11-30,2020-12-01,NA
+11788,"Bengaluru Urban","871058",67,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-11-13,2020-11-29,2020-12-01,NA
+11789,"Ballari","876291",68,"Male","SARI","Breathlessness","DM",2020-11-16,2020-11-23,2020-12-01,NA
+11790,"Bengaluru Urban","888427",64,"Male","SARI","Fever, Breathlessness","-",2020-11-21,2020-11-29,2020-12-01,NA
+11791,"Bengaluru Urban","890492",50,"Female","ILI","Fever","DM, HTN",2020-11-24,2020-11-28,2020-12-01,NA
+11792,"Bengaluru Urban","891125",85,"Male","ILI","Fever, Cough","DM, HTN",2020-11-25,2020-11-28,2020-12-01,NA
+11793,"Bengaluru Urban","892098",58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-25,2020-11-29,2020-12-01,NA
+11794,"Bengaluru Urban","892605",64,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-26,2020-11-29,2020-12-01,NA
+11795,"Chitradurga","893943",0.33,"Male","SARI","Breathlessness","Seizures",2020-11-22,2020-11-28,2020-12-01,NA
+11796,"Bengaluru Urban","894208",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-27,2020-11-30,2020-12-01,NA
+11797,"Mysuru","896609",64,"Male","SARI","Fever, Breathlessness","DM, HTN, CVA",2020-11-27,2020-11-29,2020-12-01,NA
+11798,"Hassan","897690",95,"Male","ILI","Fever","-",2020-11-27,2020-11-29,2020-12-01,NA
+11799,"Hassan","897693",59,"Male","ILI","Fever","DM",2020-11-29,2020-11-29,2020-12-01,NA
+11800,"Bengaluru Urban","898081",49,"Male","ILI","Cough","-",2020-11-28,2020-11-29,2020-12-01,NA
+11801,"Vijayapura","860367",80,"Male","SARI","Breathlessness","DM, HTN",2020-11-05,2020-11-12,2020-12-02,NA
+11802,"Bengaluru Urban","864579",83,"Male","SARI","Cough, Breathlessness","-",2020-11-10,2020-11-23,2020-12-02,NA
+11803,"Bengaluru Urban","871385",58,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-13,2020-11-26,2020-12-02,NA
+11804,"Chitradurga","876369",63,"Male","SARI","Breathlessness","-",2020-11-15,2020-11-24,2020-12-02,NA
+11805,"Bengaluru Urban","881284",56,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-11-19,2020-11-30,2020-12-02,NA
+11806,"Bengaluru Rural","888330",65,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-23,2020-11-26,2020-12-02,NA
+11807,"Kalaburagi","890298",70,"Male","SARI","Fever, Breathlessness","-",2020-11-23,2020-11-30,2020-12-02,NA
+11808,"Kolar","891555",70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-26,2020-11-29,2020-12-02,NA
+11809,"Dharwad","893947",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-25,2020-11-29,2020-12-02,NA
+11810,"Bengaluru Urban","894171",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-27,2020-11-28,2020-12-02,NA
+11811,"Bengaluru Urban","894341",66,"Male","SARI","Fever, Cough, Breathlessness","IHD",2020-11-28,2020-11-28,2020-12-02,NA
+11812,"Bengaluru Urban","894559",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-27,2020-11-28,2020-12-02,NA
+11813,"Bengaluru Urban","894681",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-28,2020-11-28,2020-12-02,NA
+11814,"Bengaluru Urban","894749",63,"Male","SARI","Breathlessness","HTN",2020-11-27,2020-12-01,2020-12-02,NA
+11815,"Bengaluru Urban","895287",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-11-28,2020-11-30,2020-12-02,NA
+11816,"Bengaluru Urban","898185",74,"Male","SARI","Breathlessness","-",2020-11-30,2020-11-30,2020-12-02,NA
+11817,"Bengaluru Rural","858077",72,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-07,2020-11-14,2020-12-03,NA
+11818,"Kolar","866738",65,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-10,2020-11-15,2020-12-03,NA
+11819,"Bengaluru Urban","876155",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-15,2020-12-01,2020-12-03,NA
+11820,"Bengaluru Urban","884719",61,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-23,2020-12-01,2020-12-03,NA
+11821,"Bengaluru Urban","888674",92,"Male","ILI","Cough","-",2020-11-21,2020-11-29,2020-12-03,NA
+11822,"Bengaluru Urban","889794",80,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-24,2020-11-30,2020-12-03,NA
+11823,"Dharwad","892148",50,"Male","SARI","Breathlessness","TB",2020-11-26,2020-12-01,2020-12-03,NA
+11824,"Bengaluru Urban","892359",45,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-11-28,2020-12-01,2020-12-03,NA
+11825,"Mysuru","896505",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-27,2020-12-02,2020-12-03,NA
+11826,"Dakshina Kannada","898208",53,"Female","ILI","Fever","CA",2020-11-23,2020-12-02,2020-12-03,NA
+11827,"Dakshina Kannada","898919",44,"Female","SARI","Fever, Breathlessness","IHD, LVD",2020-11-29,2020-12-01,2020-12-03,NA
+11828,"Bengaluru Urban","900903",86,"Male","SARI","Breathlessness","HTN, CKD",2020-12-02,2020-12-02,2020-12-03,NA
+11829,"Hassan","901497",54,"Female","SARI","Cough","DM, HTN",2020-12-02,2020-12-03,2020-12-03,NA
+11830,"Bengaluru Urban","845917",53,"Female","SARI","Breathlessness","HTN",2020-11-04,2020-12-01,2020-12-04,NA
+11831,"Raichur","860130",32,"Female","SARI","Breathlessness","-",2020-11-06,2020-11-11,2020-12-04,NA
+11832,"Bengaluru Urban","862793",72,"Male","ILI","Breathlessness","-",2020-11-09,2020-12-02,2020-12-04,NA
+11833,"Bengaluru Urban","875317",77,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-15,2020-12-01,2020-12-04,NA
+11834,"Kolar","875670",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-13,2020-11-18,2020-12-04,NA
+11835,"Bengaluru Urban","880065",53,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-11-25,2020-12-02,2020-12-04,NA
+11836,"Bengaluru Urban","881214",43,"Male","ILI","Breathlessness","DM, HTN",2020-11-26,2020-12-02,2020-12-04,NA
+11837,"Bengaluru Urban","884593",60,"Male","SARI","Breathlessness","DM",2020-11-22,2020-12-02,2020-12-04,NA
+11838,"Bengaluru Urban","894755",54,"Female","SARI","Cough, Breathlessness","HTN",2020-11-27,2020-12-02,2020-12-04,NA
+11839,"Bengaluru Urban","899451",60,"Female","ILI","Fever, Cough","-",2020-12-01,2020-12-02,2020-12-04,NA
+11840,"Tumakuru","899554",55,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-27,2020-11-27,2020-12-04,NA
+11841,"Tumakuru","900283",84,"Male","ILI","Fever, Cough","HTN, COPD",2020-11-26,2020-12-03,2020-12-04,NA
+11842,"Dharwad","901551",79,"Male","ILI","Fever, Cough","DM",2020-11-29,2020-12-02,2020-12-04,NA
+11843,"Bengaluru Urban","847227",75,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-11-03,2020-11-08,2020-12-05,NA
+11844,"Bengaluru Urban","862266",75,"Female","SARI","Fever, Cough","DM, HTN, CKD",2020-11-09,2020-11-30,2020-12-05,NA
+11845,"Ballari","871234",65,"Male","SARI","Breathlessness","DM, HTN, ARF",2020-11-15,2020-11-19,2020-12-05,NA
+11846,"Bengaluru Urban","872280",86,"Female","SARI","Fever, Cough, Breathlessness","IHD",2020-11-12,2020-12-02,2020-12-05,NA
+11847,"Bengaluru Urban","886280",74,"Male","ILI","Fever","-",2020-11-22,2020-11-30,2020-12-05,NA
+11848,"Chitradurga","889821",75,"Male","ILI","Fever, Cough","DM",2020-11-24,2020-11-27,2020-12-05,NA
+11849,"Bengaluru Urban","898183",62,"Male","SARI","Breathlessness","HTN, CKD",2020-11-30,2020-12-02,2020-12-05,NA
+11850,"Bengaluru Urban","901749",64,"Male","ILI","Fever","CKD, CLD",2020-12-02,2020-12-03,2020-12-05,NA
+11851,"Dakshina Kannada","901824",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CVA",2020-12-02,2020-12-04,2020-12-05,NA
+11852,"Kolar","901967",54,"Female","SARI","Cough, Breathlessness","-",2020-12-01,2020-12-04,2020-12-05,NA
+11853,"Mandya","902066",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-02,2020-12-04,2020-12-05,NA
+11854,"Uttara Kannada","903668",77,"Male","SARI","Breathlessness","AKD",2020-12-03,2020-12-04,2020-12-05,NA
+11855,"Ballari","847687",45,"Male","SARI","Breathlessness","RF",2020-11-02,2020-11-10,2020-12-07,NA
+11856,"Bengaluru Urban","877714",50,"Male","ILI","Fever, Cough","DM, HTN",2020-11-17,2020-12-06,2020-12-07,NA
+11857,"Bengaluru Urban","892617",76,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-11-23,2020-12-05,2020-12-07,NA
+11858,"Dakshina Kannada","894495",81,"Male","SARI","Fever, Breathlessness","HTN, CVA",2020-11-30,2020-12-06,2020-12-07,NA
+11859,"Dakshina Kannada","894606",80,"Female","Contact under tracing","-","HTN, CVA, CKD",2020-11-24,2020-11-29,2020-12-07,NA
+11860,"Bengaluru Urban","896798",40,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-28,2020-12-04,2020-12-07,NA
+11861,"Dakshina Kannada","897598",46,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-29,2020-12-06,2020-12-07,NA
+11862,"Bengaluru Urban","899060",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-01,2020-12-04,2020-12-07,NA
+11863,"Bengaluru Urban","899305",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-12-01,2020-12-05,2020-12-07,NA
+11864,"Bengaluru Urban","904652",91,"Female","ILI","Fever, Cough","HTN",2020-11-24,2020-12-05,2020-12-07,NA
+11865,"Bengaluru Urban","905021",62,"Female","SARI","Fever, Breathlessness","DM, HTN, COPD",2020-12-04,2020-12-05,2020-12-07,NA
+11866,"Dakshina Kannada","853756",65,"Male","Contact under tracing","-","HTN, CVA",NA,2020-11-12,2020-12-08,"Died at his residence"
+11867,"Dakshina Kannada","870402",86,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-07,2020-11-13,2020-12-08,NA
+11868,"Bengaluru Urban","879808",78,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-19,2020-12-07,2020-12-08,NA
+11869,"Bengaluru Urban","883938",52,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-12-02,2020-12-07,2020-12-08,NA
+11870,"Bengaluru Urban","888576",60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-23,2020-12-06,2020-12-08,NA
+11871,"Mysuru","893327",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-26,2020-12-05,2020-12-08,NA
+11872,"Ballari","894201",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-27,2020-12-05,2020-12-08,NA
+11873,"Bengaluru Urban","894995",72,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-06,2020-12-07,2020-12-08,NA
+11874,"Bengaluru Urban","895646",81,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-11-28,2020-12-06,2020-12-08,NA
+11875,"Chikkaballapura","896738",65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-28,2020-12-05,2020-12-08,NA
+11876,"Bengaluru Urban","906787",73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-06,2020-12-07,2020-12-08,NA
+11877,"Bengaluru Urban","906958",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-06,2020-12-06,2020-12-08,NA
+11878,"Bidar","908202",60,"Male","SARI","Breathlessness","HTN",2020-12-05,2020-12-06,2020-12-08,NA
+11879,"Bengaluru Urban","820249",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",2020-11-26,2020-12-07,2020-12-09,NA
+11880,"Bengaluru Urban","869495",49,"Male","SARI","Fever, Cough, Breathlessness","-",2020-11-20,2020-12-07,2020-12-09,NA
+11881,"Dakshina Kannada","879863",52,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2020-11-18,2020-12-01,2020-12-09,NA
+11882,"Dakshina Kannada","883147",71,"Male","SARI","Fever, Cough, Breathlessness","HTN, COPD, IHD",2020-11-21,2020-11-30,2020-12-09,NA
+11883,"Bengaluru Urban","890761",58,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-24,2020-12-08,2020-12-09,NA
+11884,"Bengaluru Urban","891365",64,"Male","SARI","Cough, Breathlessness","DM",2020-12-02,2020-12-08,2020-12-09,NA
+11885,"Bengaluru Rural","893085",85,"Male","SARI","Breathlessness","DM",2020-11-27,2020-12-06,2020-12-09,NA
+11886,"Mysuru","894813",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-27,2020-12-09,2020-12-09,NA
+11887,"Bengaluru Urban","898802",71,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-11-30,2020-12-07,2020-12-09,NA
+11888,"Tumakuru","898886",75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-30,2020-12-09,2020-12-09,NA
+11889,"Bengaluru Urban","899235",58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD",2020-12-04,2020-12-07,2020-12-09,NA
+11890,"Bengaluru Urban","900235",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-11-30,2020-12-08,2020-12-09,NA
+11891,"Bengaluru Urban","901083",57,"Male","SARI","Fever, Breathlessness","HTN",2020-12-02,2020-12-07,2020-12-09,NA
+11892,"Bengaluru Urban","903529",89,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-12-02,2020-12-06,2020-12-09,NA
+11893,"Bengaluru Urban","904193",64,"Male","SARI","Cough, Breathlessness","DM",2020-12-04,2020-12-08,2020-12-09,NA
+11894,"Dharwad","904961",72,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-04,2020-12-07,2020-12-09,NA
+11895,"Bengaluru Urban","906802",73,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-12-06,2020-12-07,2020-12-09,NA
+11896,"Kalaburagi","907950",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-07,2020-12-08,2020-12-09,NA
+11897,"Bengaluru Urban","907971",78,"Male","SARI","Cough, Breathlessness","-",2020-12-05,2020-12-07,2020-12-09,NA
+11898,"Bengaluru Urban","908435",62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-12-07,2020-12-08,2020-12-09,NA
+11899,"Bengaluru Urban","876315",67,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-11-23,2020-12-09,2020-12-10,NA
+11900,"Ballari","885471",62,"Male","SARI","Breathlessness","DM, HTN",2020-11-17,2020-12-01,2020-12-10,NA
+11901,"Bengaluru Urban","885770",48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-23,2020-12-08,2020-12-10,NA
+11902,"Dakshina Kannada","887664",60,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN, AWMI",2020-11-22,2020-11-22,2020-12-10,NA
+11903,"Dakshina Kannada","891535",54,"Male","SARI","Fever, Cough, Breathlessness","RVD",2020-11-22,2020-12-04,2020-12-10,NA
+11904,"Bengaluru Urban","895368",58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-28,2020-12-08,2020-12-10,NA
+11905,"Bengaluru Urban","902549",59,"Male","ILI","Fever, Cough","-",NA,2020-12-09,2020-12-10,"Died at his residence"
+11906,"Bengaluru Urban","903945",80,"Male","SARI","Breathlessness","DM, HTN",2020-11-10,2020-12-09,2020-12-10,NA
+11907,"Bengaluru Urban","904208",78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-12-04,2020-12-09,2020-12-10,NA
+11908,"Bengaluru Urban","905026",24,"Female","ILI","Cough","HTN, CKD, CVA",2020-12-05,2020-12-10,2020-12-10,NA
+11909,"Dharwad","907657",60,"Female","SARI","Cough, Breathlessness","DM, HTN, AKI",2020-12-06,2020-12-08,2020-12-10,NA
+11910,"Bengaluru Urban","909373",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2020-08-12,2020-12-10,"Brought dead"
+11911,"Vijayapura","875807",52,"Male","SARI","Cough, Breathlessness","DM",2020-11-13,2020-11-17,2020-12-11,NA
+11912,"Chitradurga","875933",45,"Male","SASRI","Fever, Cough, Breathlessness","-",2020-11-13,2020-11-16,2020-12-11,NA
+11913,"Dakshina Kannada","881218",62,"Male","Contact under tracing","-","DM, HTN",2020-11-19,2020-11-22,2020-12-11,NA
+11914,"Bengaluru Urban","884718",84,"Male","ILI","Fever, Cough","-",2020-10-28,2020-12-10,2020-12-11,NA
+11915,"Bengaluru Urban","888081",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-23,2020-12-10,2020-12-11,NA
+11916,"Dakshina Kannada","888438",38,"Male","SARI","Breathlessness","CA",2020-11-22,2020-12-01,2020-12-11,NA
+11917,"Belagavi","892613",55,"Male","Contact under tracing","-","-",NA,2020-11-25,2020-12-11,"Brought dead"
+11918,"Bengaluru Urban","900117",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-01,2020-12-09,2020-12-11,NA
+11919,"Tumakuru","900405",82,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-07,2020-12-09,2020-12-11,NA
+11920,"Bengaluru Urban","902185",59,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-01,2020-12-10,2020-12-11,NA
+11921,"Tumakuru","902520",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-02,2020-12-06,2020-12-11,NA
+11922,"Bengaluru Urban","905080",84,"Female","ILI","Fever","HTN",2020-12-05,2020-12-09,2020-12-11,NA
+11923,"Dharwad","907199",70,"Male","SASRI","Cough, Breathlessness","DM, HTN, CVA",2020-12-06,2020-12-08,2020-12-11,NA
+11924,"Ramanagara","910055",47,"Male","Contact under tracing","-","DM",2020-12-09,2020-12-09,2020-12-11,NA
+11925,"Davanagere","911343",38,"Male","SARI","Cough, Breathlessness","DM",2020-12-08,2020-12-10,2020-12-11,NA
+11926,"Bengaluru Urban","912011",62,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-12-09,2020-12-10,2020-12-11,NA
+11927,"Ballari","858010",68,"Male","SARI","Fever, Cough, Breathlessness","_",2020-10-30,2020-11-12,2020-12-12,NA
+11928,"Kolar","890448",55,"Male","SARI","Cough, Breathlessness","DM",2020-11-24,2020-12-07,2020-12-12,NA
+11929,"Bengaluru Urban","897214",52,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-29,2020-12-10,2020-12-12,NA
+11930,"Dakshina Kannada","899612",40,"Female","Contact under tracing","-","CAD",2020-11-29,2020-12-07,2020-12-12,NA
+11931,"Tumakuru","901581",65,"Male","SARI","Fever, Breathlessness","DM",2020-12-04,2020-12-10,2020-12-12,NA
+11932,"Bengaluru Urban","907341",76,"Male","ILI","Fever","DM, HTN, IHD",2020-12-09,2020-12-09,2020-12-12,NA
+11933,"Bengaluru Urban","908219",59,"Female","ILI","Fever","DM, HTN",2020-12-07,2020-12-11,2020-12-12,NA
+11934,"Bengaluru Urban","909942",71,"Male","ILI","Fever","DM",2020-11-13,2020-12-11,2020-12-12,NA
+11935,"Bengaluru Urban","910368",59,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-12,2020-09-12,2020-12-12,NA
+11936,"Bengaluru Urban","910443",75,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-12-09,2020-12-10,2020-12-12,NA
+11937,"Dakshina Kannada","911021",54,"Male","SARI","Cough, Breathlessness","DM, COPD",2020-12-08,2020-12-10,2020-12-12,NA
+11938,"Bengaluru Urban","892886",45,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-27,2020-12-12,2020-12-13,NA
+11939,"Dakshina Kannada","909232",71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-07,2020-12-08,2020-12-13,NA
+11940,"Bengaluru Urban","912125",57,"Male","SARI","Fever, Breathlessness","CLD",2020-12-11,2020-12-11,2020-12-13,NA
+11941,"Bengaluru Urban","913124",82,"Male","ILI","-","HTN",2020-12-10,2020-12-11,2020-12-13,NA
+11942,"Mysuru","913786",70,"Male","SARI","Cough, Breathlessness","DM, HTN, AKI",2020-12-10,2020-12-12,2020-12-13,NA
+11943,"Ballari","823380",80,"Male","SARI","Cough, Breathlessness","_",2020-09-26,2020-10-27,2020-12-14,NA
+11944,"Bengaluru Urban","901518",54,"Male","SARI","Cough, Breathlessness","DM, CA",2020-12-02,2020-12-05,2020-12-14,NA
+11945,"Mysuru","909594",60,"Female","SARI","Breathlessness","DM, IHD",2020-12-07,2020-12-13,2020-12-14,NA
+11946,"Bengaluru Urban","909877",57,"Male","ILI","Fever, Cough","-",2020-12-09,2020-12-13,2020-12-14,NA
+11947,"Bengaluru Urban","910892",83,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-10,2020-12-13,2020-12-14,NA
+11948,"Bengaluru Urban","913125",60,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-12-10,2020-12-13,2020-12-14,NA
+11949,"Bengaluru Urban","913629",67,"Male","SARI","Fever, Cough, Breathlessness","CVA",2020-12-13,2020-12-13,2020-12-14,NA
+11950,"Hassan","915433",78,"Male","ILI","Fever","IHD",2020-12-10,2020-12-13,2020-12-14,NA
+11951,"Uttara Kannada","915452",54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-12,2020-12-13,2020-12-14,NA
+11952,"Mysuru","915754",45,"Male","SARI","Breathlessness","HTN",2020-12-12,2020-12-13,2020-12-14,NA
+11953,"Kodagu","877655",92,"Male","ILI","Fever, Cough","DM, IHD",2020-11-19,2020-12-12,2020-12-15,NA
+11954,"Bengaluru Urban","899035",84,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-30,2020-12-14,2020-12-15,NA
+11955,"Bengaluru Rural","901228",70,"Male","SARI","Breathlessness","-",2020-12-02,2020-12-02,2020-12-15,NA
+11956,"Chitradurga","902045",82,"Male","ILI","Fever, Cough","DM, HTN",2020-12-01,2020-12-08,2020-12-15,NA
+11957,"Bengaluru Urban","903696",73,"Female","ILI","Fever, Cough","-",2020-12-03,2020-12-12,2020-12-15,NA
+11958,"Tumakuru","904040",70,"Female","SARI","Fever, Cough, Breathlessness","IHD",2020-12-04,2020-12-05,2020-12-15,NA
+11959,"Hassan","911039",90,"Male","ILI","Fever","IHD",2020-12-13,2020-12-15,2020-12-15,NA
+11960,"Uttara Kannada","911178",54,"Male","ILI","Breathlessness","DM, HTN",2020-12-09,2020-12-14,2020-12-15,NA
+11961,"Haveri","911400",72,"Male","SARI","Breathlessness","DM, COPD",2020-12-06,2020-12-12,2020-12-15,NA
+11962,"Bengaluru Urban","914230",79,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-12-12,2020-12-14,2020-12-15,NA
+11963,"Chikkaballapura","915262",85,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-12,2020-12-13,2020-12-15,NA
+11964,"Ballari","874391",55,"Male","SARI","Breathlessness","DM",2020-11-14,2020-11-16,2020-12-16,NA
+11965,"Bengaluru Urban","903810",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-04,2020-12-15,2020-12-16,NA
+11966,"Bengaluru Urban","904895",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-12-14,2020-12-15,2020-12-16,NA
+11967,"Chikkamagaluru","915427",68,"Female","SARI","Breathlessness","DM, HTN",2020-12-12,2020-12-15,2020-12-16,NA
+11968,"Bengaluru Urban","915874",77,"Female","SARI","Breathlessness","DM",2020-12-13,2020-12-14,2020-12-16,NA
+11969,"Bengaluru Urban","917059",52,"Female","SARI","Breathlessness","DM",2020-12-15,2020-12-16,2020-12-16,NA
+11970,"Raichur","868830",44,"Male","SARI","Breathlessness","-",2020-11-15,2020-11-17,2020-12-17,NA
+11971,"Bengaluru Urban","893572",75,"Male","SARI","Cough, Breathlessness","DM",2020-11-26,2020-12-15,2020-12-17,NA
+11972,"Bengaluru Urban","903036",62,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-03,2020-12-15,2020-12-17,NA
+11973,"Dakshina Kannada","911342",60,"Male","ILI","-","DM, HTN, CKD",2020-12-09,2020-12-12,2020-12-17,NA
+11974,"Chikkaballapura","913852",60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-12,2020-12-15,2020-12-17,NA
+11975,"Bengaluru Urban","915777",53,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-14,2020-12-16,2020-12-17,NA
+11976,"Bengaluru Urban","915801",45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-14,2020-12-16,2020-12-17,NA
+11977,"Bengaluru Urban","916231",18,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-14,2020-12-16,2020-12-17,NA
+11978,"Bengaluru Urban","916517",86,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-14,2020-12-17,2020-12-17,NA
+11979,"Bengaluru Urban","917217",62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-15,2020-12-16,2020-12-17,NA
+11980,"Bengaluru Urban","901769",68,"Female","ILI","Fever, Cough","DM, HTN",2020-12-03,2020-12-16,2020-12-18,NA
+11981,"Bengaluru Urban","902767",86,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-12-03,2020-12-17,2020-12-18,NA
+11982,"Ballari","908481",58,"Male","SARI","Breathlessness","DM",2020-12-09,2020-12-09,2020-12-18,NA
+11983,"Tumakuru","909408",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-04,2020-12-06,2020-12-18,NA
+11984,"Kodagu","914558",46,"Male","ILI","Fever, Cough","DM",2020-12-12,2020-12-15,2020-12-18,NA
+11985,"Koppal","914923",80,"Female","SARI","Fever, Cough","-",2020-12-11,2020-12-13,2020-12-18,NA
+11986,"Bengaluru Urban","918233",78,"Female","SARI","Breathlessness","-",2020-12-13,2020-12-17,2020-12-18,NA
+11987,"Bengaluru Urban","919513",58,"Male","SARI","Breathlessness","DM",2020-12-17,2020-12-17,2020-12-18,NA
+11988,"Bengaluru Urban","873601",77,"Male","ILI","Cough","DM, HTN",2020-11-14,2020-12-15,2020-12-19,NA
+11989,"Bengaluru Rural","894433",68,"Female","SARI","Cough, Breathlessness","-",2020-11-27,2020-12-18,2020-12-19,NA
+11990,"Ballari","894538",63,"Male","SARI","Breathlessness","COPD, CKD",2020-11-27,2020-12-04,2020-12-19,NA
+11991,"Bengaluru Urban","903536",67,"Male","SARI","Fever, Breathlessness","-",2020-12-04,2020-12-17,2020-12-19,NA
+11992,"Bengaluru Urban","904428",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-04,2020-12-17,2020-12-19,NA
+11993,"Bengaluru Urban","906681",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-05,2020-12-17,2020-12-19,NA
+11994,"Bengaluru Urban","909997",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-17,2020-12-17,2020-12-19,NA
+11995,"Bengaluru Urban","912602",65,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-12-11,2020-12-18,2020-12-19,NA
+11996,"Udupi","913075",69,"Male","ILI","Fever, Cough","DM",2020-12-10,2020-12-17,2020-12-19,NA
+11997,"Bengaluru Urban","917195",56,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-12-15,2020-12-17,2020-12-19,NA
+11998,"Bengaluru Urban","917235",35,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-15,2020-12-18,2020-12-19,NA
+11999,"Bengaluru Urban","918318",74,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-12-16,2020-12-18,2020-12-19,NA
+12000,"Bengaluru Urban","918645",57,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-16,2020-12-17,2020-12-19,NA
+12001,"Chamarajanagara","921129",35,"Male","SARI","Cough, Breathlessness","-",2020-12-16,2020-12-18,2020-12-19,NA
+12002,"Uttara Kannada","921682",45,"Male","SARI","Breathlessness","-",2020-12-18,2020-12-18,2020-12-19,NA
+12003,"Vijayapura","911969",58,"Male","SARI","Breathlessness","-",2020-12-05,2020-12-20,2020-12-20,NA
+12004,"Chamarajanagara","917938",60,"Male","SARI","Breathlessness","DM",2020-12-15,2020-12-19,2020-12-20,NA
+12005,"Chamarajanagara","918250",70,"Female","SARI","Breathlessness","DM, HTN",2020-12-16,2020-12-20,2020-12-20,NA
+12006,"Bengaluru Urban","919180",64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-16,2020-12-19,2020-12-20,NA
+12007,"Bengaluru Urban","921939",84,"Male","ILI","-","IHD, CKD",2020-12-08,2020-12-19,2020-12-20,NA
+12008,"Bengaluru Urban","901648",40,"Male","SARI","Cough, Breathlessness","-",2020-12-01,2020-12-14,2020-12-21,NA
+12009,"Bengaluru Urban","914948",65,"Female","SARI","Fever, Cough, Breathlessness","-",2020-12-12,2020-12-19,2020-12-21,NA
+12010,"Bengaluru Urban","917242",84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-12-15,2020-12-19,2020-12-21,NA
+12011,"Ballari","917786",85,"Male","SARI","Breathlessness","-",2020-12-15,2020-12-17,2020-12-21,NA
+12012,"Bengaluru Urban","917806",60,"Male","ILI","Fever","DM, IHD",2020-12-15,2020-12-15,2020-12-21,NA
+12013,"Hassan","918153",74,"Male","ILI","Fever, Cough","HTN,  IHD, CKD",2020-12-14,2020-12-19,2020-12-21,NA
+12014,"Bengaluru Urban","921370",41,"Male","SARI","Fever, Cough, Breathlessness","COPD",2020-12-11,2020-12-13,2020-12-21,NA
+12015,"Ballari","878255",56,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-15,2020-11-19,2020-12-22,NA
+12016,"Kolar","887297",64,"Male","SARI","Cough, Breathlessness","-",2020-11-22,2020-12-08,2020-12-22,NA
+12017,"Bengaluru Rural","895798",58,"Female","SARI","Breathlessness","DM, HTN",2020-11-18,2020-11-29,2020-12-22,NA
+12018,"Bengaluru Urban","907721",51,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2020-12-07,2020-12-21,2020-12-22,NA
+12019,"Bengaluru Rural","908794",85,"Male","SARI","Breathlessness","-",2020-12-08,2020-12-08,2020-12-22,NA
+12020,"Bengaluru Urban","916303",60,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-12-14,2020-12-18,2020-12-22,NA
+12021,"Kalaburagi","916349",55,"Male","SARI","Breathlessness","DM, CKD",2020-12-14,2020-12-21,2020-12-22,NA
+12022,"Bengaluru Urban","916576",71,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-15,2020-12-20,2020-12-22,NA
+12023,"Bengaluru Urban","918273",84,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-16,2020-12-20,2020-12-22,NA
+12024,"Bengaluru Urban","919182",64,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-16,2020-12-19,2020-12-22,NA
+12025,"Bengaluru Urban","919584",66,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-18,2020-12-21,2020-12-22,NA
+12026,"Bengaluru Urban","921009",57,"Male","SARI","Breathlessness","HTN, CLD",2020-12-18,2020-12-21,2020-12-22,NA
+12027,"Hassan","921165",41,"Male","ILI","Fever, Cough","CVA, MDS",2020-12-18,2020-12-21,2020-12-22,NA
+12028,"Bengaluru Urban","922827",80,"Female","ILI","Fever, Cough","DM, HTN",2020-12-19,2020-12-20,2020-12-22,NA
+12029,"Tumakuru","904261",52,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-04,2020-12-17,2020-12-23,NA
+12030,"Ballari","909707",72,"Female","SARI","Breathlessness","-",2020-12-08,2020-12-21,2020-12-23,NA
+12031,"Hassan","917279",58,"Male","ILI","Fever, Cough","HTN",2020-12-14,2020-12-22,2020-12-23,NA
+12032,"Bengaluru Urban","920376",72,"Male","ILI","Fever","-",2020-12-18,2020-12-20,2020-12-23,NA
+12033,"Mysuru","920625",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-18,2020-12-22,2020-12-23,NA
+12034,"Hassan","920838",59,"Male","ILI","Fever, Cough","DM, HTN, CKD",2020-12-18,2020-12-22,2020-12-23,NA
+12035,"Mysuru","921944",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-12-17,2020-12-23,2020-12-23,NA
+12036,"Bengaluru Urban","923879",72,"Male","ILI","Fever","DM, HTN",2020-12-21,2020-12-21,2020-12-23,NA
+12037,"Bidar","925424",81,"Male","SARI","Cough, Breathlessness","DM",2020-12-21,2020-12-22,2020-12-23,NA
+12038,"Bengaluru Urban","901096",73,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-11-30,2020-12-23,2020-12-24,NA
+12039,"Bengaluru Urban","885759",85,"Male","SARI","Breathlessness","HTN",2020-11-21,2020-12-24,2020-12-25,NA
+12040,"Dharwad","914875",85,"Male","ILI","Fever, Cold","DM, HTN, IHD",2020-12-12,2020-12-23,2020-12-25,NA
+12041,"Bengaluru Urban","916799",79,"Male","SARI","Cough, Breathlessness","HTN",2020-12-14,2020-12-24,2020-12-25,NA
+12042,"Bengaluru Urban","925239",75,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-22,2020-12-23,2020-12-25,NA
+12043,"Bengaluru Urban","926175",85,"Male","SARI","Breathlessness","CKD",2020-12-22,2020-12-24,2020-12-25,NA
+12044,"Bengaluru Urban","858692",55,"Female","ILI","Fever, Cough","DM, HTN",2020-11-07,2020-12-24,2020-12-26,NA
+12045,"Ballari","903850",76,"Male","SARI","Cough, Breathlessness","HTN",2020-12-05,2020-12-19,2020-12-26,NA
+12046,"Bengaluru Urban","908526",32,"Male","SARI","Breathlessness","DM, HTN",2020-12-08,2020-12-24,2020-12-26,NA
+12047,"Bengaluru Rural","912592",60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-11,2020-12-15,2020-12-26,NA
+12048,"Bengaluru Urban","921593",75,"Female","ILI","Fever","DM, HTN",2020-12-19,2020-12-24,2020-12-26,NA
+12049,"Bengaluru Urban","926312",80,"Male","ILI","Fever, Cough","DM, HTN",2020-12-23,2020-12-24,2020-12-26,NA
+12050,"Kalaburagi","927002",55,"Male","SARI","Breathlessness","IHD",2020-12-22,2020-12-24,2020-12-26,NA
+12051,"Bengaluru Urban","879037",65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-01,2020-12-25,2020-12-27,NA
+12052,"Kolar","908388",65,"Female","SARI","Cough, Breathlessness","HTN, AKI",2020-11-26,2020-12-11,2020-12-27,NA
+12053,"Bengaluru Urban","909475",55,"Male","SARI","Fever, Breathlessness","-",2020-12-20,2020-12-24,2020-12-27,NA
+12054,"Bengaluru Urban","914356",60,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-13,2020-12-24,2020-12-27,NA
+12055,"Mysuru","916887",55,"Male","ILI","Cough, Breathlessness","DM, HTN",2020-12-14,2020-12-26,2020-12-27,NA
+12056,"Bengaluru Urban","921414",46,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-20,2020-12-25,2020-12-27,NA
+12057,"Bengaluru Urban","921981",59,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-12-19,2020-12-20,2020-12-27,NA
+12058,"Bengaluru Urban","924536",80,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2020-12-21,2020-12-25,2020-12-27,NA
+12059,"Bengaluru Urban","926166",77,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-22,2020-12-24,2020-12-27,NA
+12060,"Mysuru","926932",29,"Male","ILI","Cough, Breathlessness","-",2020-12-21,2020-12-23,2020-12-27,NA
+12061,"Bengaluru Urban","927368",68,"Female","SARI","Breathlessness","DM, CLD",2020-12-24,2020-12-24,2020-12-27,NA
+12062,"Bengaluru Urban","916066",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-12-20,2020-12-26,2020-12-28,NA
+12063,"Bengaluru Urban","920929",45,"Male","SARI","Fever, Breathlessness","-",2020-12-22,2020-12-25,2020-12-28,NA
+12064,"Ballari","923204",52,"Male","SARI","Fever, Breathlessness","TB",2020-12-20,2020-12-23,2020-12-28,NA
+12065,"Bengaluru Urban","924871",65,"Male","SARI","Breathlessness","HTN",2020-12-23,2020-12-26,2020-12-28,NA
+12066,"Kodagu","927405",65,"Female","SARI","Breathlessness","DM, HTN, CKD",2020-12-25,2020-12-25,2020-12-28,NA
+12067,"Bengaluru Urban","928429",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-25,2020-12-26,2020-12-28,NA
+12068,"Uttara Kannada","929505",60,"Male","SARI","Fever, Breathlessness","HTN",2020-12-22,2020-12-25,2020-12-28,NA
+12069,"Bengaluru Urban","929645",71,"Male","SARI","Breathlessness","DM, HTN",2020-12-26,2020-12-27,2020-12-28,NA
+12070,"Mysuru","923232",60,"Male","ILI","Breathlessness","DM, HTN",2020-12-19,2020-12-29,2020-12-29,NA
+12071,"Bengaluru Urban","923335",40,"Female","SARI","Breathlessness","HTN",2020-12-20,2020-12-26,2020-12-29,NA
+12072,"Mysuru","928900",70,"Female","ILI","Breathlessness","HTN",2020-12-24,2020-12-28,2020-12-29,NA
+12073,"Bengaluru Urban","929461",40,"Female","ILI","Fever","DM, HTN, CKD",NA,2020-12-26,2020-12-29,"Died at her residence"
+12074,"Bengaluru Urban","911590",68,"Male","SARI","Breathlessness","HTN",2020-12-23,2020-12-28,2020-12-30,NA
+12075,"Bengaluru Urban","923148",78,"Male","ILI","Fever, Cough","DM, HTN",2020-12-20,2020-12-27,2020-12-30,NA
+12076,"Mysuru","924479",78,"Male","SARI","Breathlessness","HTN, IHD, CKD",2020-12-20,2020-12-27,2020-12-30,NA
+12077,"Bengaluru Urban","928352",75,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-12-24,2020-12-28,2020-12-30,NA
+12078,"Bengaluru Urban","929647",70,"Male","SARI","Breathlessness","HTN",2020-12-26,2020-12-27,2020-12-30,NA
+12079,"Dharwad","930014",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-12-25,2020-12-26,2020-12-30,NA
+12080,"Bengaluru Urban","931655",3,"Male","SARI","Breathlessness","-",2020-12-28,2020-12-29,2020-12-30,NA
+12081,"Vijayapura","902124",40,"Male","-","Breathlessness","DM",2020-11-28,2020-12-01,2020-12-31,NA
+12082,"Mysuru","923674",62,"Female","SARI","Breathlessness","DM, HTN, IHD, CKD",NA,2020-12-31,2020-12-31,"Brought dead"
+12083,"Bengaluru Urban","923820",68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-23,2020-12-28,2020-12-31,NA
+12084,"Bengaluru Urban","926904",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-12-24,2020-12-26,2020-12-31,NA
+12085,"Bengaluru Urban","927281",75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-24,2020-12-29,2020-12-31,NA
+12086,"Bengaluru Urban","928365",69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-25,2020-12-27,2020-12-31,NA
+12087,"Mysuru","931682",77,"Male","SARI","Breathlessness","DM",2020-12-29,2020-12-30,2020-12-31,NA
+12088,"Bengaluru Urban","931938",75,"Male","SARI","Fever, Breathlessness","TB",2020-12-28,2020-12-29,2020-12-31,NA
+12089,"Bengaluru Urban","932294",68,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-29,2020-12-30,2020-12-31,NA
+12090,"Bengaluru Urban","928654",60,"Female","SARI","Fever, Breathlessness","IHD",2020-12-26,2020-12-29,2021-01-01,NA
+12091,"Chikkaballapura","929830",70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-26,2020-12-28,2021-01-01,NA
+12092,"Bengaluru Urban","929846",60,"Male","SARI","Fever, Breathlessness","-",2020-12-27,2020-12-31,2021-01-01,NA
+12093,"Bengaluru Urban","931603",81,"Male","SARI","Fever, Cough, Breathlessness","HTN, CLD",2020-12-26,2020-12-30,2021-01-01,NA
+12094,"Bengaluru Urban","932251",77,"Female","SARI","Fever, Breathlessness","-",2020-12-29,2020-12-30,2021-01-01,NA
+12095,"Ramanagara","932614",50,"Male","SARI","Breathlessness","-",2020-12-30,2020-12-30,2021-01-01,NA
+12096,"Bengaluru Urban","916548",75,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-14,2020-12-24,2021-01-02,NA
+12097,"Dharwad","925783",93,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-18,2020-12-28,2021-01-02,NA
+12098,"Tumakuru","926609",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-12-26,2020-12-30,2021-01-02,NA
+12099,"Bengaluru Urban","909856",78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-08,2020-12-19,2021-01-03,NA
+12100,"Bengaluru Urban","919576",57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-12-22,2020-12-30,2021-01-03,NA
+12101,"Mysuru","930156",65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-27,2021-01-02,2021-01-03,NA
+12102,"Kalaburagi","932805",73,"Male","SARI","Fever, Breathlessness","-",2020-12-30,2020-12-31,2021-01-03,NA
+12103,"Bengaluru Urban","932887",70,"Female","ILI","Fever","DM, HTN, CKD",2020-12-30,2021-01-01,2021-01-03,NA
+12104,"Tumakuru","933840",95,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-01-01,2021-01-02,2021-01-03,NA
+12105,"Mysuru","934523",71,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-01-01,2021-01-02,2021-01-03,NA
+12106,"Bengaluru Urban","935065",67,"Male","SARI","Breathlessness","COPD",2021-01-02,2021-01-02,2021-01-03,NA
+12107,"Vijayapura","927107",55,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-12-22,2021-01-02,2021-01-04,NA
+12108,"Udupi","930786",59,"Female","ILI","Cough","DM,  HTN, CA",2020-12-27,2020-12-28,2021-01-04,NA
+12109,"Bengaluru Urban","932936",90,"Male","SARI","Breathlessness","DM, HTN",2020-12-30,2021-01-01,2021-01-04,NA
+12110,"Bengaluru Urban","915412",74,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-12-21,2020-12-31,2021-01-05,NA
+12111,"Bengaluru Urban","925062",66,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-12-27,2021-01-04,2021-01-05,NA
+12112,"Bengaluru Urban","925466",77,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-29,2020-12-31,2021-01-05,NA
+12113,"Bengaluru Urban","928159",86,"Male","ILI","Fever, Cough","DM, CKD",2020-12-30,2021-01-01,2021-01-05,NA
+12114,"Uttara Kannada","929691",69,"Male","SARI","Breathlessness","-",2020-12-23,2020-12-26,2021-01-05,NA
+12115,"Bengaluru Urban","931980",50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-31,2021-01-02,2021-01-05,NA
+12116,"Bengaluru Urban","935049",60,"Male","SARI","Fever, Breathlessness","HTN, CKD",2021-01-01,2021-01-04,2021-01-05,NA
+12117,"Kalaburagi","935662",57,"Male","SARI","Breathlessness","IHD",2021-01-02,2021-01-03,2021-01-05,NA
+12118,"Bengaluru Rural","909311",56,"Male","SARI","Breathlessness","DM",2020-12-07,2020-12-08,2021-01-06,NA
+12119,"Bengaluru Urban","925923",73,"Male","SARI","Fever, Cough, Breathlessness","COPD, IHD",2020-12-21,2020-12-31,2021-01-06,NA
+12120,"Bengaluru Urban","929051",77,"Female","ILI","Fever, Cough","HTN",2020-12-26,2021-01-04,2021-01-06,NA
+12121,"Dharwad","931374",76,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-28,2020-12-31,2021-01-06,NA
+12122,"Tumakuru","932051",81,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-29,2021-01-02,2021-01-06,NA
+12123,"Bengaluru Urban","935622",35,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-12-31,2021-01-05,2021-01-06,NA
+12124,"Kolar","897785",62,"Male","SARI","Breathlessness","-",2020-11-22,2020-12-14,2021-01-07,NA
+12125,"Tumakuru","933613",82,"Male","SARI","Fever, Cough, Breathlessness","DH, HTN",2020-12-30,2021-01-06,2021-01-07,NA
+12126,"Bengaluru Urban","936747",76,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-01,2021-01-04,2021-01-07,NA
+12127,"Bengaluru Urban","925587",47,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-31,2021-01-05,2021-01-07,NA
+12128,"Bengaluru Urban","927248",80,"Male","ILI","Cough","DM, HTN",2020-12-20,2021-01-04,2021-01-07,NA
+12129,"Bengaluru Urban","930072",87,"Male","ILI","Fever, Cough","IHD",2020-12-26,2021-01-06,2021-01-07,NA
+12130,"Bengaluru Urban","921117",68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-18,2021-01-05,2021-01-07,NA
+12131,"Bengaluru Urban","926416",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-27,2020-12-31,2021-01-08,NA
+12132,"Shivamogga","929968",81,"Male","ILI","Fever, Cough","-",2020-12-25,2021-01-04,2021-01-08,NA
+12133,"Bengaluru Urban","935525",46,"Male","SARI","Cough, Breathlessness","HTN",NA,2021-01-05,2021-01-08,"Brought dead"
+12134,"Bengaluru Urban","937503",62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-01-02,2021-01-05,2021-01-09,NA
+12135,"Bengaluru Urban","939040",80,"Female","ILI","Fever","CKD",NA,2021-01-07,2021-01-09,"Brought dead"
+12136,"Bengaluru Urban","939337",75,"Male","SARI","Fever, Breathlessness","HTN",2020-12-27,2021-01-09,2021-01-09,NA
+12137,"Mysuru","939997",55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-01-08,2021-01-08,2021-01-09,NA
+12138,"Tumakuru","935365",72,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-01-02,2021-01-09,2021-01-10,NA
+12139,"Mysuru","938598",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-01-06,2021-01-09,2021-01-10,NA
+12140,"Bengaluru Urban","591026",56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-26,2020-11-07,2021-01-11,NA
+12141,"Mysuru","938916",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD, CKD",2021-01-07,2021-01-10,2021-01-11,NA
+12142,"Bengaluru Urban","941696",59,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-01-10,2021-01-10,2021-01-11,NA
+12143,"Bidar","941751",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-01-09,2021-01-11,2021-01-11,NA
+12144,"Bengaluru Urban","920320",83,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-12-17,2021-01-11,2021-01-12,NA
+12145,"Bengaluru Rural","934474",56,"Male","SARI","Breathlessness","DM, HTN",2021-01-01,2021-01-11,2021-01-12,NA
+12146,"Bengaluru Urban","938125",75,"Female","SARI","Breathlessness","DM, HTN",2021-01-05,2021-01-10,2021-01-12,NA
+12147,"Kalaburagi","938886",50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-01-06,2021-01-10,2021-01-12,NA
+12148,"Tumakuru","940113",29,"Female","SARI","Fever, Breathlessness","-",2021-01-07,2021-01-08,2021-01-12,NA
+12149,"Bengaluru Urban","931614",56,"Male","SARI","Cough, Breathlessness","-",2021-01-01,2021-01-11,2021-01-13,NA
+12150,"Bengaluru Urban","936508",79,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-01-04,2021-01-13,2021-01-13,NA
+12151,"Uttara Kannada","942141",75,"Female","SARI","Fever, Cough, Breathlessness","HTN",NA,2021-01-10,2021-01-13,"Died at her residence"
+12152,"Bengaluru Urban","933876",57,"Male","SARI","Breathlessness","HTN",2021-01-11,2021-01-13,2021-01-14,NA
+12153,"Bengaluru Urban","936567",72,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2021-01-04,2021-01-12,2021-01-14,NA
+12154,"Bengaluru Urban","941386",70,"Male","ILI","Fever, Cough","DM",2021-01-07,2021-01-13,2021-01-14,NA
+12155,"Bengaluru Urban","936899",59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-01-04,2021-01-12,2021-01-15,NA
+12156,"Kalaburagi","941447",58,"Male","ILI","Fever, Cough","DM, HTN",2021-01-08,2021-01-13,2021-01-15,NA
+12157,"Bengaluru Urban","942421",63,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-01-12,2021-01-13,2021-01-15,NA
+12158,"Bengaluru Urban","932534",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-12-30,2021-01-10,2021-01-16,NA
+12159,"Bengaluru Urban","932864",62,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-12-27,2021-01-12,2021-01-16,NA
+12160,"Dakshina Kannada","935931",65,"Male","ILI","Fever, Cough","DM, HTN",2021-01-06,2021-01-14,2021-01-16,NA
+12161,"Mandya","944995",42,"Female","SARI","Breathlessness","DM",2021-01-13,2021-01-15,2021-01-16,NA
+12162,"Bengaluru Rural","937586",75,"Female","SARI","Breathlessness","HTN",2021-01-05,2021-01-05,2021-01-17,NA
+12163,"Bengaluru Urban","941676",57,"Male","ILI","-","DM, HTN, CVA",2021-01-10,2021-01-15,2021-01-17,NA
+12164,"Mysuru","944143",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-01-13,2021-01-16,2021-01-17,NA
+12165,"Mysuru","944292",85,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-01-14,2021-01-17,2021-01-17,NA
+12166,"Bengaluru Urban","921297",32,"Female","SARI","Breathlessness","-",2020-12-18,2021-01-16,2021-01-18,NA
+12167,"Bengaluru Urban","921424",61,"Male","SARI","Breathlessness","DM, HTN",2021-01-02,2021-01-16,2021-01-18,NA
+12168,"Hassan","925028",58,"Female","ILI","Fever","DM, HTN",2020-12-21,2021-01-16,2021-01-18,NA
+12169,"Bengaluru Urban","933033",53,"Female","SARI","Breathlessness","DM",2020-12-30,2021-01-16,2021-01-18,NA
+12170,"Bengaluru Urban","936956",68,"Male","SARI","Cough, Breathlessness","HTN",2021-01-04,2021-01-16,2021-01-18,NA
+12171,"Bengaluru Urban","937849",24,"Female","SARI","Cough, Breathlessness","-",2021-01-05,2021-01-16,2021-01-18,NA
+12172,"Bengaluru Urban","939563",78,"Male","ILI","Cough","HTN",2021-01-08,2021-01-13,2021-01-18,NA
+12173,"Kodagu","939788",62,"Female","SARI","Breathlessness","-",2021-01-06,2021-01-09,2021-01-18,NA
+12174,"Tumakuru","939887",90,"Female","SARI","Breathlessness","HTN",2021-01-08,2021-01-16,2021-01-18,NA
+12175,"Bengaluru Urban","900848",74,"Female","SARI","Breathlessness","DM",2020-12-02,2020-12-23,2021-01-19,NA
+12176,"Bengaluru Urban","901485",45,"Male","SARI","Cough, Breathlessness","-",2020-12-02,2020-12-02,2021-01-19,NA
+12177,"Bengaluru Urban","903145",63,"Male","ILI","Fever","DM, HTN",2020-12-03,2020-12-28,2021-01-19,NA
+12178,"Bengaluru Rural","932684",68,"Male","SARI","Breathlessness","DM, HTN",NA,2020-12-30,2021-01-19,"Brought dead"
+12179,"Bengaluru Urban","938654",84,"Female","SARI","Cough, Breathlessness","-",2021-01-07,2021-01-17,2021-01-19,NA
+12180,"Mandya","946343",62,"Male","SARI","Cough, Breathlessness","-",2021-01-16,2021-01-17,2021-01-19,NA
+12181,"Bengaluru Urban","903359",85,"Female","SARI","Breathlessness","DM",2020-11-11,2020-12-02,2021-01-20,NA
+12182,"Bengaluru Urban","941174",82,"Female","SARI","Breathlessness","DM, HTN",2021-01-12,2021-01-19,2021-01-20,NA
+12183,"Chitradurga","943338",75,"Male","SARI","Fever, Breathlessness","DM, CKD",2021-01-12,2021-01-18,2021-01-20,NA
+12184,"Mandya","944914",73,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-01-15,2021-01-19,2021-01-20,NA
+12185,"Bengaluru Urban","938177",90,"Female","SARI","Fever, Cough, Breathlessness","-",2021-01-04,2021-01-20,2021-01-21,NA
+12186,"Dharwad","939995",70,"Male","ILI","Fever, Cough","DM, HTN, CKD",2021-01-04,2021-01-15,2021-01-21,NA
+12187,"Bengaluru Urban","904897",70,"Female","SARI","Breathlessness","DM, HTN",2020-12-04,2020-12-10,2021-01-22,NA
+12188,"Bengaluru Urban","905762",85,"Female","SARI","Breathlessness","-",2020-12-04,2020-12-16,2021-01-22,NA
+12189,"Dakshina Kannada","942318",60,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD, CVA",2021-01-11,2021-01-20,2021-01-22,NA
+12190,"Bengaluru Urban","940819",70,"Female","SARI","Cough, Breathlessness","HTN",2021-01-18,2021-01-18,2021-01-23,NA
+12191,"Kalaburagi","947447",81,"Male","SARI","Fever, Cough, Breathlessness","-",2021-01-19,2021-01-19,2021-01-23,NA
+12192,"Tumakuru","948034",80,"Female","SARI","Fever, Cough, Breathlessness","HTN, COPD, IHD",2021-01-20,2021-01-20,2021-01-23,NA
+12193,"Bengaluru Urban","929990",63,"Female","ILI","Fever, Cough","DM, HTN",2020-12-27,2021-01-18,2021-01-24,NA
+12194,"Dakshina Kannada","940258",69,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, COPD, IHD",2021-01-10,2021-01-13,2021-01-24,NA
+12195,"Bengaluru Urban","945620",84,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-01-18,2021-01-18,2021-01-24,NA
+12196,"Mysuru","946389",72,"Male","SARI","Fever, Cough, Breathlessness","DM, AKI",2021-01-18,2021-01-23,2021-01-24,NA
+12197,"Bengaluru Urban","937169",72,"Female","ILI","Fever","DM, HTN, CKD",2021-01-05,2021-01-18,2021-01-25,NA
+12198,"Bengaluru Urban","943376",70,"Male","ILI","Fever, Cough","DM, HTN",2021-01-13,2021-01-17,2021-01-25,NA
+12199,"Mysuru","947005",65,"Female","SARI","Breathlessness","DM, HTN, IHD, CKD",2021-01-18,2021-01-25,2021-01-25,NA
+12200,"Bengaluru Urban","941445",75,"Male","ILI","Fever, Cough","DM, HTN, IHD",2021-01-09,2021-01-17,2021-01-26,NA
+12201,"Bengaluru Urban","945915",66,"Male","SARI","Breathlessness","DM,  HTN, COPD, CKD",2021-01-24,2021-01-24,2021-01-26,NA
+12202,"Mysuru","946922",80,"Male","SARI","Breathlessness","HTN",2021-01-17,2021-01-24,2021-01-26,NA
+12203,"Mysuru","947350",52,"Male","SARI","Breathlessness","DM",2021-01-18,2021-01-25,2021-01-26,NA
+12207,"Bengaluru Urban","947579",70,"Male","ILI","Fever","HTN",2021-01-17,2021-01-18,2021-01-28,NA
+12208,"Bengaluru Urban","949795",50,"Female","ILI","Fever","HTN, DM, CKD",2021-01-22,2021-01-22,2021-01-28,NA
+12209,"Mandya","947788",84,"Male","SARI","Breathlessness","DM, CVA, AKI",2021-01-19,2021-01-27,2021-01-29,NA
+12210,"Bengaluru Urban","950569",55,"Female","SARI","Breathlessness","HTN, DM",2021-01-24,2021-01-25,2021-01-29,NA
+12211,"Bengaluru Urban","931994",70,"Male","ILI","Fever","DM, HTN",2020-12-29,2020-12-29,2021-01-30,NA
+12212,"Bengaluru Urban","932338",80,"Female","SARI","Cough, Breathlessness","-",2020-12-29,2020-12-31,2021-01-30,NA
+12213,"Bengaluru Urban","942648",62,"Male","SARI","Breathlessness","HTN, DM",2021-01-11,2021-01-11,2021-01-31,NA
+12214,"Dharwad","942716",78,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-01-11,2021-01-20,2021-01-31,NA
+12215,"Bengaluru Urban","944421",55,"Female","SARI","Breathlessness","HTN, DM",2021-01-14,2021-01-16,2021-01-31,NA
+12216,"Bengaluru Urban","948165",64,"Female","SARI","Breathlessness","CA Lungs",2021-01-14,2021-01-20,2021-01-31,NA
+38308,"Bengaluru Urban","2743792",63,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-06,2021-06-10,2021-01-06,NA
+38309,"Bengaluru Urban","3045177",96,"Female","SARI","Fever, Cough, Breathlessness","-",2021-12-14,2021-12-19,2021-01-06,NA
+38310,"Bengaluru Urban","3047545",72,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-18,2021-04-19,2021-01-06,NA

@@ -1,0 +1,1691 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+123,"Ballari",7724,62,"Male",NA,NA,NA,2020-06-16,NA,NA,"Brought dead"
+138,"Ballari",7732,60,"Female","ILI","Fever & Cough & Breathlessness","uncontrolled Diabetes Mellitus",2020-06-17,2020-06-22,2020-06-22,NA
+150,"Ballari",9679,85,"Female","SARI","Breathlessness & Vomiting & Decreased Appetite & Loose Stool","NIL",2020-06-17,2020-06-22,2020-06-23,NA
+153,"Ballari",9071,59,"Male","ILI","Fever & Cough & Breathlessness","-",2020-06-20,2020-06-23,2020-06-24,NA
+154,"Ballari",9665,73,"Male","SARI","Fever & Cough & Breathlessness","Type 2 DM, HTN",2020-06-22,2020-06-24,2020-06-24,NA
+157,"Ballari",9860,43,"Male","ILI","Breathlessness & Abdominal Pain & Fever","Chronic Liver Disease",NA,2020-06-22,2020-06-24,"Brought dead"
+158,"Ballari",9878,28,"Male","ILI","Breathlessness","-",2020-06-22,2020-06-23,2020-06-24,NA
+176,"Ballari",10729,65,"Female","SARI","Altered sensorium","-",2020-06-25,2020-06-25,2020-06-26,NA
+187,"Ballari",11322,75,"Male","SARI","Asymptomatic","-",2020-06-26,2020-06-26,2020-06-27,NA
+203,"Ballari",12272,57,"Male","SARI","Breathlessness & Cough","-",2020-06-27,2020-06-27,2020-06-28,NA
+210,"Ballari",10769,60,"Female","-","Breathlessness","ARF, DM, HTN",2020-06-25,2020-06-29,2020-06-29,NA
+212,"Ballari",11305,48,"Male","SARI","Cough & Breathlessness","ASTHMA",2020-06-26,2020-06-27,2020-06-29,NA
+213,"Ballari",12215,60,"Male","-","Breathlessness","HTN, DM",2020-06-27,2020-06-28,2020-06-29,NA
+214,"Ballari",12228,50,"Male","-","Breathlessness","DM",2020-06-28,2020-06-29,2020-06-29,NA
+215,"Ballari",12268,70,"Male","SARI","Breathlessness","-",2020-06-26,2020-06-29,2020-06-29,NA
+216,"Ballari",12271,63,"Female","SARI","Breathlessness","-",2020-06-27,2020-06-27,2020-06-29,NA
+220,"Ballari",13498,56,"Male","SARI","Breathlessness","-",2020-06-26,2020-06-28,2020-06-29,NA
+221,"Ballari",13500,31,"Male","ILI","Breathlessness & Cough","-",2020-06-28,2020-06-28,2020-06-29,NA
+222,"Ballari",13514,41,"Male","SARI","Abdomen Pain","-",2020-06-28,2020-06-29,2020-06-29,NA
+223,"Ballari",13515,56,"Male","ILI","Breathlessness","-",2020-06-27,2020-06-27,2020-06-29,NA
+224,"Ballari",13516,43,"Male","SARI","Cough & Breathlessness","-",2020-06-27,2020-06-27,2020-06-29,NA
+225,"Ballari",13557,42,"Female","Travel History To Andhra Pradesh","-","-",2020-06-27,2020-06-28,2020-06-29,NA
+226,"Ballari",7841,31,"Female","Contact Of P-6484","Breathlessness","DM",2020-06-28,2020-06-29,2020-06-30,NA
+232,"Ballari",11304,55,"Female","SARI","Cough & Breathlessness","IHD, HTN, CKD",2020-06-27,2020-06-29,2020-06-30,NA
+235,"Ballari",13509,63,"Female","ILI","Fever & Cough & Breathlessness","HTN, DM,  IHD",2020-06-28,2020-06-29,2020-06-30,NA
+243,"Ballari",14727,56,"Male","ILI","Cough","HTN, DM, CVA",2020-06-28,2020-06-29,2020-06-30,NA
+244,"Ballari",14732,58,"Female","SARI","Breathlessness","-",2020-06-27,2020-06-29,2020-06-30,NA
+245,"Ballari",14733,58,"Female","SARI","Fever & Breathlessness","IHD, DM",2020-06-29,2020-06-29,2020-06-30,NA
+255,"Ballari",10218,43,"Male","SARI","Fever &  Breathlessness","IBD",2020-06-25,2020-07-02,2020-07-02,NA
+259,"Ballari",13491,75,"Female","ILI","Fever & Breathlessness","-",2020-06-28,2020-07-01,2020-07-02,NA
+261,"Ballari",14681,74,"Male","ILI","Fever","-",2020-06-25,2020-07-02,2020-07-02,NA
+268,"Ballari",16877,55,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-01,2020-07-01,2020-07-02,NA
+272,"Ballari",9879,50,"Female","Pneumonia, DM Type-2 Hypertensio n Ischemic Heart Disease, Chronic Kidney Disease","On Dialysis","HTN, DM, CRD on Dialysis",2020-06-24,2020-07-02,2020-07-03,NA
+369,"Ballari",23391,59,"Male","Breathlessnes s","Acute MI","Breathlessness",NA,2020-07-01,2020-07-05,"Brought dead"
+384,"Ballari",21497,60,"Female","Contact under tracing","Breathlessness","ANEMIA",2020-07-02,2020-07-05,2020-07-06,NA
+418,"Ballari",10749,73,"Male","Contact under tracing","Fever & Breathlessness","DM, HTN, CKD",2020-06-26,2020-07-07,2020-07-08,NA
+445,"Ballari",18448,69,"Male","Contac Under tracing","Fever & Cough","-",2020-07-02,2020-07-05,2020-07-08,NA
+446,"Ballari",18512,47,"Male","Contac Under tracing","-","-",2020-07-03,2020-07-05,2020-07-08,NA
+452,"Ballari",23393,60,"Female","Contact under tracing","Fever & Breathlessness","DM, HTN",2020-07-02,2020-07-05,2020-07-08,NA
+510,"Ballari",15538,47,"Male","Contact under tracing","Fever & Cough & Breathlessness","DM,  HTN",2020-07-01,2020-07-10,2020-07-10,NA
+600,"Ballari",35740,12,"Female","Contact under tracing","Fever","-",2020-07-10,2020-07-11,2020-07-11,NA
+742,"Ballari",13499,45,"Female","SARI","Breathlessness","-",2020-06-28,2020-07-14,2020-07-14,NA
+787,"Ballari",31073,60,"Male","SARI","Breathlessness","DM,  HTN, CKD",2020-06-29,2020-07-05,2020-07-14,NA
+809,"Ballari",36637,75,"Female","SARI","Cough & Breathlessness","DM, HTN, CKD",2020-07-09,2020-07-12,2020-07-14,NA
+811,"Ballari",36945,49,"Female","SARI","Breathlessness","Asthma",2020-07-09,2020-07-13,2020-07-14,NA
+817,"Ballari",39424,51,"Female","SARI","Fever & Cough & Breathlessness","HTN",2020-07-10,2020-07-12,2020-07-14,NA
+986,"Ballari",31089,65,"Male","SARI","Breathlessness & Cough","DM, HTN, IHD",2020-07-09,2020-07-12,2020-07-16,NA
+991,"Ballari",36573,37,"Female","SARI","Fever","DM",2020-07-09,2020-07-10,2020-07-16,NA
+1000,"Ballari",42694,31,"Male","SARI","Breathlessness","CKD",2020-06-07,2020-07-11,2020-07-16,NA
+1008,"Ballari",44306,58,"Female","SARI","Fever & Breathlessness","-",2020-07-07,2020-07-10,2020-07-16,NA
+1125,"Ballari",52125,60,"Male","SARI","Fever & Breathlessness","DM",2020-07-12,2020-07-15,2020-07-17,NA
+1126,"Ballari",52155,45,"Female","SARI","Breathlessness","DM, HTN",2020-07-11,2020-07-14,2020-07-17,NA
+1127,"Ballari",52162,70,"Male","SARI","Breathlessness","DM, HTN",2020-07-11,2020-07-14,2020-07-17,NA
+1205,"Ballari",57016,43,"Male","SARI","Breathlessness","CKD, HTN",2020-07-10,2020-07-17,2020-07-18,NA
+1217,"Ballari",58510,43,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-17,2020-07-18,NA
+1221,"Ballari",59653,72,"Male","SARI","Fever & Breathlessness","-",2020-07-17,2020-07-17,2020-07-18,NA
+1259,"Ballari",47591,52,"Male","SARI","Cough & Breathlessness","DM",2020-07-14,2020-07-15,2020-07-19,NA
+1268,"Ballari",52101,48,"Male","SARI","Breathlessness","HTN",2020-07-14,2020-07-15,2020-07-19,NA
+1296,"Ballari",59358,52,"Female","SARI","Breathlessness","-",2020-07-14,2020-07-14,2020-07-19,NA
+1329,"Ballari",51884,43,"Male","SARI","Fever & Breathlessness","DM",2020-07-15,2020-07-16,2020-07-20,NA
+1340,"Ballari",59677,70,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-17,2020-07-17,2020-07-20,NA
+1529,"Ballari",44304,40,"Male","SARI","Fever & Cough","DM",2020-07-12,2020-07-14,2020-07-23,NA
+1537,"Ballari",47590,69,"Male","SARI","Breathlessness","DM, HTN",2020-07-14,2020-07-19,2020-07-23,NA
+1561,"Ballari",63523,60,"Male","SARI","Fever & Cough","DM, HTN",2020-07-17,2020-07-18,2020-07-23,NA
+1562,"Ballari",63574,52,"Male","SARI","Fever & Cough","DM, HTN",2020-07-16,2020-07-19,2020-07-23,NA
+1565,"Ballari",64514,61,"Male","SARI","Cough & Breathlessness","-",2020-07-19,2020-07-19,2020-07-23,NA
+1639,"Ballari",63734,67,"Male","SARI","Fever","DM, HTN",2020-07-16,2020-07-18,2020-07-24,NA
+1652,"Ballari",69675,83,"Male","SARI","Fever & Cough","HTN",2020-07-10,2020-07-18,2020-07-24,NA
+1883,"Ballari",57644,75,"Female","SARI","Fever","HTN, DM, IHD",2020-07-13,2020-07-14,2020-07-27,NA
+1884,"Ballari",57828,50,"Male","SARI","Breathlessness","TB",2020-07-15,2020-07-20,2020-07-27,NA
+1885,"Ballari",58480,60,"Male","SARI","Fever","-",2020-07-14,2020-07-18,2020-07-27,NA
+2062,"Ballari",72061,55,"Female","SARI","Breathlessness","HTN",2020-07-19,2020-07-20,2020-07-29,NA
+2063,"Ballari",72214,54,"Female","SARI","Fever & Cough","-",2020-07-18,2020-07-19,2020-07-29,NA
+2315,"Ballari",83458,52,"Male","SARI","Fever & Breathlessness","DM",2020-07-22,2020-07-25,2020-08-01,NA
+2400,"Ballari",41910,59,"Male","SARI","Breathlessness","DM, HTN, CKD",2020-07-14,2020-07-24,2020-08-02,NA
+2480,"Ballari",138131,55,"Male","Contact under tracing","Fever & Cough & Breathlessness","-",2020-08-01,2020-08-02,2020-08-02,NA
+2497,"Ballari",89113,64,"Male","SARI","Cough & Breathlessness","DM, HTN",2020-07-22,2020-07-22,2020-08-03,NA
+2507,"Ballari",98648,80,"Female","SARI","Fever & Cough & Breathlessness","DM",2020-07-12,2020-07-18,2020-08-03,NA
+2588,"Ballari",61045,50,"Male","SARI","Fever & Breathlessness","CKD",2020-07-17,2020-07-25,2020-08-04,NA
+2597,"Ballari",81752,65,"Male","SARI","Fever & Cough & Breathlessness","DM",2020-07-20,2020-07-28,2020-08-04,NA
+2601,"Ballari",86165,55,"Female","SARI","Cough & Breathlessness","DM, HTN",2020-07-23,2020-07-25,2020-08-04,NA
+2612,"Ballari",103425,38,"Male","Contact under tracing","-","-",2020-07-25,2020-07-25,2020-08-04,NA
+2613,"Ballari",103440,40,"Male","SARI","-","-",2020-07-25,2020-07-25,2020-08-04,NA
+2794,"Ballari",58844,66,"Female","SARI","Cough & Breathlessness","DM",2020-07-16,2020-07-17,2020-08-06,NA
+2810,"Ballari",108170,55,"Female","SARI","Fever","-",2020-07-26,2020-07-26,2020-08-06,NA
+2811,"Ballari",108790,40,"Male","SARI","Fever, Cough","-",2020-07-25,2020-08-01,2020-08-06,NA
+2818,"Ballari",118156,60,"Male","SARI","-","-",2020-07-30,2020-07-30,2020-08-06,NA
+2895,"Ballari",92133,48,"Male","SARI","Breathlessness","-",2020-07-24,2020-07-26,2020-08-07,NA
+2902,"Ballari",103126,67,"Male","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-07-25,2020-07-26,2020-08-07,NA
+2909,"Ballari",110650,59,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-24,2020-07-27,2020-08-07,NA
+2922,"Ballari",125622,70,"Female","SARI","Fever, Breathlessness","-",2020-07-31,2020-08-01,2020-08-07,NA
+2951,"Ballari",147775,85,"Male","SARI","Fever, Breathlessness","-",2020-07-21,2020-07-21,2020-08-07,NA
+2997,"Ballari",89252,54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-07-21,2020-07-26,2020-08-08,NA
+2998,"Ballari",94165,59,"Male","SARI","Fever, Breathlessness","-",2020-07-22,2020-07-27,2020-08-08,NA
+3001,"Ballari",103469,53,"Female","SARI","Fever, Breathlessness","-",2020-07-23,2020-07-26,2020-08-08,NA
+3003,"Ballari",105197,59,"Male","SARI","Breathlessness","HTN",2020-07-24,2020-07-27,2020-08-08,NA
+3006,"Ballari",106851,78,"Female","SARI","Breathlessness","-",2020-07-25,2020-08-01,2020-08-08,NA
+3014,"Ballari",119175,65,"Female","SARI","Fever, Cough","-",2020-07-29,2020-07-29,2020-08-08,NA
+3023,"Ballari",130483,45,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-30,2020-07-30,2020-08-08,NA
+3025,"Ballari",130728,46,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-29,2020-07-30,2020-08-08,NA
+3027,"Ballari",137571,57,"Male","SARI","Cough, Breathlessness","DM",2020-07-30,2020-07-31,2020-08-08,NA
+3092,"Ballari",92020,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-23,2020-08-05,2020-08-09,NA
+3119,"Ballari",135770,62,"Male","SARI","Breathlessness","-",2020-07-30,2020-08-01,2020-08-09,NA
+3125,"Ballari",140595,62,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-02,2020-08-02,2020-08-09,NA
+3127,"Ballari",141934,48,"Male","SARI","Breathlessness","-",2020-08-01,2020-08-02,2020-08-09,NA
+3128,"Ballari",141987,55,"Male","SARI","Cough, Breathlessness","-",2020-08-01,2020-08-02,2020-08-09,NA
+3130,"Ballari",143843,57,"Male","SARI","Cough, Breathlessness","-",2020-07-31,2020-08-02,2020-08-09,NA
+3134,"Ballari",151396,50,"Male","SARI","Cough, Breathlessness","-",2020-08-01,2020-08-05,2020-08-09,NA
+3135,"Ballari",153035,82,"Female","SARI","Breathlessness","-",2020-08-03,2020-08-04,2020-08-09,NA
+3164,"Ballari",172838,60,"Female","SARI","Fever, Breathlessness","DM",2020-08-06,2020-08-07,2020-08-09,NA
+3210,"Ballari",104784,78,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-07-24,2020-07-26,2020-08-10,NA
+3214,"Ballari",119434,70,"Female","SARI","Fever, Cough, Breathlessness","DM",2020-07-30,2020-07-30,2020-08-10,NA
+3223,"Ballari",131018,50,"Male","SARI","Fever, Cough","DM",2020-07-31,2020-08-04,2020-08-10,NA
+3234,"Ballari",145308,65,"Male","SARI","Cough","_",2020-07-28,2020-08-02,2020-08-10,NA
+3240,"Ballari",148235,54,"Male","SARI","Cough, Breathlessness","_",2020-07-31,2020-08-08,2020-08-10,NA
+3250,"Ballari",160865,78,"Female","SARI","Breathlessness","_",2020-08-04,2020-08-08,2020-08-10,NA
+3257,"Ballari",167950,56,"Male","SARI","Fever, Breathlessness","_",2020-08-05,2020-08-05,2020-08-10,NA
+3325,"Ballari",127011,52,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-07-29,2020-08-03,2020-08-11,NA
+3334,"Ballari",145154,50,"Female","SARI","Fever, Cough, Breathlessness","-",2020-07-30,2020-08-03,2020-08-11,NA
+3338,"Ballari",147613,74,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-01,2020-08-03,2020-08-11,NA
+3340,"Ballari",151212,72,"Female","SARI","Breathlessness","DM",2020-08-02,2020-08-05,2020-08-11,NA
+3411,"Ballari",122416,70,"Male","SARI","Breathlessness","-",2020-07-29,2020-08-05,2020-08-12,NA
+3414,"Ballari",128840,50,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-27,2020-07-29,2020-08-12,NA
+3420,"Ballari",135816,67,"Male","SARI","Fever, Cough","DM",2020-07-28,2020-07-31,2020-08-12,NA
+3421,"Ballari",136303,66,"Male","SARI","Cough, Breathlessness","-",2020-07-31,2020-08-04,2020-08-12,NA
+3427,"Ballari",145067,45,"Female","SARI","Fever, Cough, Breathlessness","-",2020-07-31,2020-08-01,2020-08-12,NA
+3428,"Ballari",145210,73,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-07-29,2020-08-01,2020-08-12,NA
+3435,"Ballari",151276,75,"Female","SARI","Breathlessness","-",2020-08-01,2020-08-02,2020-08-12,NA
+3439,"Ballari",153032,74,"Male","SARI","Breathlessness","HTN",2020-08-03,2020-08-03,2020-08-12,NA
+3446,"Ballari",159249,72,"Male","SARI","Fever","DM, HTN",2020-08-02,2020-08-05,2020-08-12,NA
+3499,"Ballari",68897,56,"Female","SARI","Cough, Breathlessness","HTN",2020-07-17,2020-07-18,2020-08-13,NA
+3500,"Ballari",71367,65,"Female","SARI","Fever, Breathlessness","-",2020-07-17,2020-07-21,2020-08-13,NA
+3501,"Ballari",88749,67,"Male","ILI","Fever, Cough","HTN",2020-07-22,2020-08-01,2020-08-13,NA
+3502,"Ballari",89513,68,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-07-24,2020-07-26,2020-08-13,NA
+3514,"Ballari",101167,76,"Male","SARI","Cough, Breathlessness","-",2020-07-23,2020-07-24,2020-08-13,NA
+3519,"Ballari",103181,76,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-26,2020-08-13,NA
+3520,"Ballari",104698,70,"Male","SARI","Cough, Breathlessness","DM",2020-07-24,2020-07-27,2020-08-13,NA
+3521,"Ballari",106908,88,"Male","SARI","Breathlessness","HTN",2020-07-25,2020-07-27,2020-08-13,NA
+3523,"Ballari",108155,65,"Male","SARI","Breathlessness","-",2020-07-26,2020-08-01,2020-08-13,NA
+3628,"Ballari",104895,55,"Male","SARI","Breathlessness","-",2020-07-24,2020-07-24,2020-08-14,NA
+3631,"Ballari",106782,70,"Female","SARI","--","DM",2020-07-24,2020-07-27,2020-08-14,NA
+3633,"Ballari",107490,66,"Male","SARI","Fever, Cough","DM, HTN, Asthma",2020-07-24,2020-08-07,2020-08-14,NA
+3634,"Ballari",108384,64,"Female","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-07-25,2020-08-01,2020-08-14,NA
+3635,"Ballari",112227,60,"Male","SARI","Fever, Breathlessness","DM",2020-07-30,2020-07-30,2020-08-14,NA
+3636,"Ballari",118398,73,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-27,2020-07-31,2020-08-14,NA
+3638,"Ballari",122145,65,"Male","SARI","Fever, Cough","COPD",2020-07-27,2020-07-29,2020-08-14,NA
+3658,"Ballari",167296,52,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-04,2020-08-05,2020-08-14,NA
+3660,"Ballari",167943,70,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-05,2020-08-06,2020-08-14,NA
+3742,"Ballari",151118,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-02,2020-08-02,2020-08-15,NA
+3745,"Ballari",159256,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, Asthma, TB",2020-08-05,2020-08-09,2020-08-15,NA
+3746,"Ballari",162475,70,"Male","SARI","Fever, Cough","HTN",2020-08-05,2020-08-06,2020-08-15,NA
+3767,"Ballari",183193,50,"Female","SARI","-","HTN",2020-08-08,2020-08-09,2020-08-15,NA
+3768,"Ballari",183196,65,"Male","SARI","Fever, Breathlessness","HTN",2020-08-08,2020-08-09,2020-08-15,NA
+3769,"Ballari",183197,60,"Male","SARI","Breathlessness","-",2020-08-08,2020-08-08,2020-08-15,NA
+3865,"Ballari",125180,70,"Female","SARI","Cough, Breathlessness","HTN, IHD",NA,2020-08-16,2020-08-16,NA
+3868,"Ballari",135852,75,"Female","SARI","Fever, Cough","DM, HTN",NA,2020-08-16,2020-08-16,NA
+3871,"Ballari",142213,63,"Male","SARI","-","HTN",NA,2020-08-16,2020-08-16,NA
+3877,"Ballari",153956,70,"Male","ILI","Fever","HTN",NA,2020-08-16,2020-08-16,NA
+3879,"Ballari",161720,79,"Female","ILI","Fever, Cough","-",NA,2020-08-16,2020-08-16,NA
+3882,"Ballari",176062,26,"Female","SARI","Fever, Cough","-",NA,2020-08-16,2020-08-16,NA
+3883,"Ballari",179265,72,"Female","SARI","Fever, Cough","-",NA,2020-08-16,2020-08-16,NA
+3884,"Ballari",180216,82,"Male","SARI","Fever, Cough","DM",NA,2020-08-16,2020-08-16,NA
+3901,"Ballari",199270,41,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2020-08-16,2020-08-16,NA
+3963,"Ballari",104849,42,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-07-28,2020-07-30,2020-08-17,NA
+3964,"Ballari",110269,55,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-07-29,2020-08-02,2020-08-17,NA
+3965,"Ballari",113041,62,"Male","Contact under tracing","Cough, Breathlessness","DM, CLD",2020-07-28,2020-07-30,2020-08-17,NA
+3969,"Ballari",124551,68,"Female","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-07-30,2020-08-02,2020-08-17,NA
+3973,"Ballari",138151,64,"Male","Contact under tracing","Cough, Breathlessness","-",2020-08-01,2020-08-06,2020-08-17,NA
+3988,"Ballari",173301,69,"Male","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-07,2020-08-08,2020-08-17,NA
+4074,"Ballari",103170,63,"Female","SARI","Breathlessness","-",2020-07-27,2020-08-02,2020-08-18,NA
+4078,"Ballari",112393,42,"Male","SARI","Cough, Breathlessness","-",2020-07-28,2020-07-30,2020-08-18,NA
+4080,"Ballari",115133,87,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-07-31,2020-08-07,2020-08-18,NA
+4126,"Ballari",187157,94,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-09,2020-08-12,2020-08-18,NA
+4141,"Ballari",206123,67,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-12,2020-08-13,2020-08-18,NA
+4142,"Ballari",206156,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD, COPD",2020-08-12,2020-08-13,2020-08-18,NA
+4148,"Ballari",213817,80,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-13,2020-08-14,2020-08-18,NA
+4149,"Ballari",213818,40,"Male","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-13,2020-08-18,NA
+4159,"Ballari",221991,60,"Male","SARI","Fever, Breathlessness","HTN",2020-08-15,2020-08-15,2020-08-18,NA
+4214,"Ballari",138240,65,"Male","ILI","Fever, Cough, Breathlessness","DM",2020-08-02,2020-08-03,2020-08-19,NA
+4224,"Ballari",155206,45,"Male","ILI","Fever, Breathlessness","-",2020-08-05,2020-08-06,2020-08-19,NA
+4241,"Ballari",184067,82,"Male","ILI","Fever, Breathlessness","HTN",2020-08-10,2020-08-15,2020-08-19,NA
+4248,"Ballari",196580,55,"Female","SARI","Breathlessness","-",2020-08-11,2020-08-15,2020-08-19,NA
+4267,"Ballari",221447,40,"Female","SARI","Breathlessness","-",2020-08-14,2020-08-15,2020-08-19,NA
+4272,"Ballari",226631,67,"Male","SARI","Fever, Breathlessness","-",2020-08-14,2020-08-15,2020-08-19,NA
+4274,"Ballari",229703,60,"Female","ILI","Fever, Cough, Breathlessness","DM, HTN",2020-08-15,2020-08-15,2020-08-19,NA
+4277,"Ballari",230100,65,"Male","ILI","Fever, Breathlessness","-",2020-08-15,2020-08-18,2020-08-19,NA
+4291,"Ballari",238935,65,"Female","ILI","Fever, Cough, Breathlessness","-",2020-08-12,2020-08-12,2020-08-19,NA
+4324,"Ballari",107039,72,"Female","SARI","Cough, Breathlessness","IHD",2020-07-27,2020-08-05,2020-08-20,NA
+4341,"Ballari",177995,55,"Male","ILI","Fever, Cough","DM",2020-08-09,2020-08-15,2020-08-20,NA
+4364,"Ballari",215063,45,"Female","SARI","Fever, Breathlessness","_",2020-08-13,2020-08-15,2020-08-20,NA
+4370,"Ballari",222038,43,"Male","SARI","Fever, Cough, Breathlessness","_",2020-08-14,2020-08-19,2020-08-20,NA
+4373,"Ballari",226606,42,"Male","SARI","Cough, Breathlessness","-",2020-08-15,2020-08-17,2020-08-20,NA
+4375,"Ballari",230925,64,"Male","SARI","Fever, Breathlessness","HTN",2020-08-15,2020-08-18,2020-08-20,NA
+4385,"Ballari",236967,55,"Male","SARI","Cough, Breathlessness","HTN",2020-08-16,2020-08-17,2020-08-20,NA
+4386,"Ballari",237356,45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-16,2020-08-17,2020-08-20,NA
+4432,"Ballari",176073,70,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-08,2020-08-10,2020-08-21,NA
+4434,"Ballari",179267,56,"Male","ILI","Fever, Cough","HTN",2020-08-06,2020-08-14,2020-08-21,NA
+4435,"Ballari",183199,52,"Male","SARI","Fever, Breathlessness","_",2020-08-08,2020-08-15,2020-08-21,NA
+4437,"Ballari",184053,65,"Female","SARI","Fever, Breathlessness","_",2020-08-07,2020-08-17,2020-08-21,NA
+4447,"Ballari",196420,85,"Female","SARI","Fever, Breathlessness","DM, HTN, IHD",2020-08-20,2020-08-21,2020-08-21,NA
+4456,"Ballari",215969,61,"Male","SARI","Fever, Breathlessness","HTN",2020-08-14,2020-08-14,2020-08-21,NA
+4459,"Ballari",220887,68,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-13,2020-08-16,2020-08-21,NA
+4465,"Ballari",228612,76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-07,2020-08-16,2020-08-21,NA
+4472,"Ballari",232929,55,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-14,2020-08-16,2020-08-21,NA
+4535,"Ballari",190134,70,"Male","SARI","Fever, Cough","-",2020-08-09,2020-08-17,2020-08-22,NA
+4544,"Ballari",213233,69,"Male","SARI","Fever, Breathlessness","DM",2020-08-12,2020-08-18,2020-08-22,NA
+4553,"Ballari",229208,49,"Male","ILI","Fever, Cough","DM",2020-08-14,2020-08-17,2020-08-22,NA
+4560,"Ballari",236954,67,"Male","SARI","Fever, Breathlessness","-",2020-08-14,2020-08-16,2020-08-22,NA
+4566,"Ballari",243495,41,"Male","SARI","Fever, Breathlessness","-",2020-08-17,2020-08-17,2020-08-22,NA
+4581,"Ballari",254930,74,"Female","SARI","Fever, Breathlessness","HTN",2020-08-17,2020-08-18,2020-08-22,NA
+4591,"Ballari",261657,48,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-19,2020-08-20,2020-08-22,NA
+4616,"Ballari",172442,45,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2020-08-08,2020-08-11,2020-08-23,NA
+4620,"Ballari",200137,76,"Female","SARI","Breathlessness","DM, HTN",2020-08-11,2020-08-20,2020-08-23,NA
+4628,"Ballari",212795,61,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-17,2020-08-21,2020-08-23,NA
+4638,"Ballari",238450,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-16,2020-08-18,2020-08-23,NA
+4640,"Ballari",242072,61,"Female","SARI","Fever, Breathlessness","CLD",2020-08-16,2020-08-19,2020-08-23,NA
+4645,"Ballari",245107,80,"Female","SARI","Breathlessness","HTN",2020-08-17,2020-08-19,2020-08-23,NA
+4649,"Ballari",251141,54,"Male","SARI","Breathlessness","DM",2020-08-21,2020-08-22,2020-08-23,NA
+4681,"Ballari",160440,65,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM, HTN",2020-08-05,2020-08-05,2020-08-24,NA
+4685,"Ballari",180236,51,"Male","Contact under tracing","Fever, Cough, Breathlessness","HTN, DM",2020-08-08,2020-08-10,2020-08-24,NA
+4718,"Ballari",232272,56,"Male","Contact under tracing","Fever, Cough, Breathlessness","_",2020-08-15,2020-08-16,2020-08-24,NA
+4730,"Ballari",238427,55,"Male","Contact under tracing","Breathlessness","-",2020-08-19,2020-08-20,2020-08-24,NA
+4765,"Ballari",265177,38,"Female","Contact under tracing","Fever, Breathlessness","-",2020-08-19,2020-08-20,2020-08-24,NA
+4769,"Ballari",267892,60,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-20,2020-08-21,2020-08-24,NA
+4821,"Ballari",185757,86,"Male","SARI","Fever, Breathlessness","DM",2020-08-08,2020-08-15,2020-08-25,NA
+4825,"Ballari",198059,70,"Male","SARI","Fever, Breathlessness","HTN",2020-08-11,2020-08-12,2020-08-25,NA
+4835,"Ballari",215942,71,"Male","SARI","Breathlessness","DM, HTN",2020-08-17,2020-08-22,2020-08-25,NA
+4843,"Ballari",222552,54,"Female","SARI","Fever, Breathlessness","-",2020-08-15,2020-08-22,2020-08-25,NA
+4874,"Ballari",243006,65,"Male","SARI","Fever, Cough","DM, IHD",2020-08-18,2020-08-21,2020-08-25,NA
+4918,"Ballari",265957,75,"Female","SARI","Breathlessness","IHD",2020-08-20,2020-08-22,2020-08-25,NA
+4957,"Ballari",138532,60,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-31,2020-08-04,2020-08-26,NA
+4960,"Ballari",159657,75,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-04,2020-08-15,2020-08-26,NA
+4961,"Ballari",167930,45,"Female","SARI","Cough, Breathlessness","-",2020-08-03,2020-08-12,2020-08-26,NA
+4962,"Ballari",169945,81,"Male","SARI","Cough, Breathlessness","HTN",2020-08-05,2020-08-13,2020-08-26,NA
+4969,"Ballari",194882,66,"Male","SARI","Cough, Breathlessness","-",2020-08-08,2020-08-11,2020-08-26,NA
+4975,"Ballari",212747,65,"Male","SARI","Breathlessness","DM, HTN",2020-08-06,2020-08-12,2020-08-26,NA
+4976,"Ballari",213232,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-12,2020-08-15,2020-08-26,NA
+5143,"Ballari",220884,75,"Female","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-15,2020-08-27,NA
+5145,"Ballari",221448,55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-12,2020-08-13,2020-08-27,NA
+5150,"Ballari",232283,55,"Female","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-19,2020-08-27,NA
+5155,"Ballari",243508,70,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-15,2020-08-18,2020-08-27,NA
+5165,"Ballari",260776,70,"Male","SARI","Breathlessness","DM, HTN",2020-08-18,2020-08-19,2020-08-27,NA
+5168,"Ballari",261642,39,"Male","SARI","Fever, Breathlessness","DM, ILD",2020-08-18,2020-08-19,2020-08-27,NA
+5231,"Ballari",137499,49,"Male","SARI","Fever, Cough, Breathlessness","_",2020-08-03,2020-08-08,2020-08-28,NA
+5232,"Ballari",147003,49,"Male","SARI","Fever, Cough, Breathlessness","_",2020-08-01,2020-08-09,2020-08-28,NA
+5234,"Ballari",166826,41,"Male","SARI","Breathlessness","DM, HTN",2020-08-12,2020-08-12,2020-08-28,NA
+5235,"Ballari",167946,50,"Male","SARI","Fever, Cough, Breathlessness","_",2020-08-05,2020-08-08,2020-08-28,NA
+5336,"Ballari",301171,44,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-24,2020-08-25,2020-08-28,NA
+5380,"Ballari",224271,55,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-12,2020-08-22,2020-08-29,NA
+5404,"Ballari",258511,47,"Female","SARI","Cough, Breathlessness","-",2020-08-18,2020-08-21,2020-08-29,NA
+5417,"Ballari",282333,50,"Female","SARI","Cough, Breathlessness","-",2020-08-21,2020-08-22,2020-08-29,NA
+5465,"Ballari",320356,80,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-28,2020-08-28,2020-08-29,NA
+5510,"Ballari",236952,76,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-15,2020-08-23,2020-08-30,NA
+5519,"Ballari",261611,37,"Male","SARI","Cough, Breathlessness","-",2020-08-17,2020-08-23,2020-08-30,NA
+5537,"Ballari",291891,59,"Female","SARI","Breathlessness","DM",2020-08-22,2020-08-22,2020-08-30,NA
+5625,"Ballari",290342,52,"Male","Contact under tracing","Cough, Breathlessness","-",2020-08-22,2020-08-24,2020-08-31,NA
+5637,"Ballari",302759,68,"Female","Contact under tracing","Breathlessness","HTN, CVA",2020-08-23,2020-08-25,2020-08-31,NA
+5642,"Ballari",310417,70,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-08-25,2020-08-26,2020-08-31,NA
+5643,"Ballari",310418,63,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-08-24,2020-08-25,2020-08-31,NA
+5645,"Ballari",311431,60,"Male","Contact under tracing","Cough, Breathlessness","-",2020-08-24,2020-08-26,2020-08-31,NA
+5760,"Ballari",288107,85,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-21,2020-08-23,2020-09-01,NA
+5771,"Ballari",297030,45,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-24,2020-08-27,2020-09-01,NA
+5806,"Ballari",342409,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-29,2020-08-30,2020-09-01,NA
+5816,"Ballari",351403,49,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-30,2020-08-30,2020-09-01,NA
+5867,"Ballari",284777,75,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-21,2020-08-30,2020-09-02,NA
+5881,"Ballari",296195,53,"Male","SARI","Fever, Breathlessness","DM",2020-08-28,2020-08-29,2020-09-02,NA
+5913,"Ballari",328825,45,"Female","SARI","Cough, Breathlessness","-",2020-08-27,2020-08-31,2020-09-02,NA
+5916,"Ballari",331416,65,"Male","SARI","Cough, Breathlessness","-",2020-08-26,2020-08-29,2020-09-02,NA
+5923,"Ballari",337464,50,"Male","SARI","Fever, Breathlessness","COPD",2020-08-29,2020-08-29,2020-09-02,NA
+5973,"Ballari",284786,70,"Male","SARI","Cough, Breathlessness","HTN",2020-08-21,2020-08-31,2020-09-03,NA
+6019,"Ballari",341489,68,"Male","SARI","Cough, Breathlessness","HTN",2020-08-30,2020-08-31,2020-09-03,NA
+6024,"Ballari",346180,48,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-29,2020-08-31,2020-09-03,NA
+6035,"Ballari",351697,50,"Female","SARI","Cough","DM, IHD, CVA",2020-08-27,2020-09-01,2020-09-03,NA
+6070,"Ballari",267903,68,"Male","SARI","Cough, Breathlessness","HTN",2020-08-22,2020-09-02,2020-09-04,NA
+6073,"Ballari",275579,70,"Male","SARI","Cough, Breathlessness","DM",2020-08-24,2020-09-03,2020-09-04,NA
+6084,"Ballari",297990,65,"Female","SARI","Fever, Breathlessness","HTN",2020-08-23,2020-09-02,2020-09-04,NA
+6086,"Ballari",302766,58,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-25,2020-09-03,2020-09-04,NA
+6095,"Ballari",314675,65,"Male","SARI","Cough, Breathlessness","HTN",2020-08-27,2020-09-01,2020-09-04,NA
+6120,"Ballari",346182,49,"Male","SARI","Breathlessness","IHD",2020-08-29,2020-09-03,2020-09-04,NA
+6127,"Ballari",352987,45,"Female","SARI","Fever, Breathlessness","COPD",2020-08-31,2020-09-02,2020-09-04,NA
+6134,"Ballari",360716,85,"Male","SARI","Cough, Breathlessness","HTN",2020-08-31,2020-09-02,2020-09-04,NA
+6182,"Ballari",282715,67,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-28,2020-08-28,2020-09-05,NA
+6185,"Ballari",295459,84,"Male","SARI","Breathlessness","HTN",2020-08-30,2020-08-30,2020-09-05,NA
+6199,"Ballari",314707,78,"Male","SARI","Breathlessness","DM, HTN",2020-08-26,2020-08-29,2020-09-05,NA
+6214,"Ballari",330286,60,"Female","SARI","Breathlessness","-",2020-08-30,2020-08-30,2020-09-05,NA
+6235,"Ballari",351707,65,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-30,2020-08-30,2020-09-05,NA
+6309,"Ballari",283832,87,"Male","SARI","Breathlessness","IHD",2020-08-25,2020-09-01,2020-09-06,NA
+6328,"Ballari",313609,73,"Female","SARI","Breathlessness","HTN, CKD",2020-09-04,2020-09-05,2020-09-06,NA
+6329,"Ballari",319918,25,"Male","SARI","Fever, Breathlessness","CKD",2020-08-26,2020-09-01,2020-09-06,NA
+6339,"Ballari",337902,92,"Male","SARI","Fever, Breathlessness","-",2020-08-31,2020-09-04,2020-09-06,NA
+6342,"Ballari",345303,73,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2020-08-31,2020-09-01,2020-09-06,NA
+6348,"Ballari",355631,55,"Male","SARI","Breathlessness","IHD",2020-09-02,2020-09-03,2020-09-06,NA
+6353,"Ballari",360712,75,"Female","SARI","Breathlessness","-",2020-08-31,2020-09-01,2020-09-06,NA
+6355,"Ballari",361694,46,"Male","SARI","Fever, Breathlessness","-",2020-09-01,2020-09-02,2020-09-06,NA
+6437,"Ballari",252307,63,"Male","SARI","Breathlessness","DM",2020-08-23,2020-08-31,2020-09-07,NA
+6443,"Ballari",263767,80,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-22,2020-08-27,2020-09-07,NA
+6446,"Ballari",283269,70,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-08-22,2020-08-28,2020-09-07,NA
+6447,"Ballari",284349,55,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-26,2020-08-31,2020-09-07,NA
+6462,"Ballari",311438,90,"Male","ILI","Fever","DM, HTN",2020-08-28,2020-08-28,2020-09-07,NA
+6470,"Ballari",328833,65,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-29,2020-08-29,2020-09-07,NA
+6483,"Ballari",347400,35,"Female","ILI","Fever, Cough","-",2020-08-30,2020-09-01,2020-09-07,NA
+6535,"Ballari",232288,60,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-19,2020-08-26,2020-09-08,NA
+6542,"Ballari",260755,65,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-19,2020-08-21,2020-09-08,NA
+6550,"Ballari",291411,67,"Male","SARI","Breathlessness","-",2020-08-23,2020-08-24,2020-09-08,NA
+6552,"Ballari",297065,75,"Female","SARI","Cough, Breathlessness","HTN",2020-08-27,2020-08-30,2020-09-08,NA
+6559,"Ballari",305115,60,"Female","SARI","Cough, Breathlessness","-",2020-08-26,2020-08-27,2020-09-08,NA
+6583,"Ballari",337452,46,"Male","SARI","Breathlessness","-",2020-08-31,2020-08-31,2020-09-08,NA
+6679,"Ballari",197517,64,"Male","SARI","Fever, Breathlessness","HTN",2020-08-22,2020-08-22,2020-09-09,NA
+6681,"Ballari",254264,50,"Male","ILI","Fever","CKD",2020-08-20,2020-08-23,2020-09-09,NA
+6682,"Ballari",266421,55,"Male","SARI","Fever, Breathlessness","-",2020-08-20,2020-08-30,2020-09-09,NA
+6688,"Ballari",293890,49,"Male","SARI","Breathlessness","-",2020-08-23,2020-09-07,2020-09-09,NA
+6696,"Ballari",312802,54,"Female","SARI","Fever, Cough, Breathlessness","HTN",2020-08-30,2020-09-08,2020-09-09,NA
+6700,"Ballari",322565,34,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-02,2020-09-08,2020-09-09,NA
+6730,"Ballari",357631,80,"Male","SARI","Breathlessness","CVA",2020-08-31,2020-09-06,2020-09-09,NA
+6749,"Ballari",374354,44,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-02,2020-09-06,2020-09-09,NA
+6806,"Ballari",197576,65,"Male","SARI","Breathlessness","DM, HTN",2020-08-08,2020-08-20,2020-09-10,NA
+6808,"Ballari",225071,65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-12,2020-08-13,2020-09-10,NA
+6809,"Ballari",226598,48,"Male","SARI","Fever, Breathlessness","-",2020-08-13,2020-08-14,2020-09-10,NA
+6810,"Ballari",230098,65,"Male","Contact under tracing","-","-",2020-08-14,2020-08-18,2020-09-10,NA
+6825,"Ballari",330220,54,"Male","SARI","Fever, Breathlessness","-",2020-08-27,2020-08-29,2020-09-10,NA
+6897,"Ballari",413972,60,"Female","Contact under tracing","-","-",2020-09-08,2020-09-09,2020-09-10,NA
+6912,"Ballari",425680,55,"Female","Contact under tracing","-","HTN",2020-09-08,2020-09-09,2020-09-10,NA
+6937,"Ballari",219367,60,"Male","SARI","Breathlessness","DM",2020-08-15,2020-08-23,2020-09-11,NA
+6939,"Ballari",275588,81,"Male","SARI","Breathlessness","HTN",2020-08-22,2020-08-24,2020-09-11,NA
+6988,"Ballari",364673,56,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-08-30,2020-09-07,2020-09-11,NA
+7003,"Ballari",386523,35,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-03,2020-09-07,2020-09-11,NA
+7012,"Ballari",399959,69,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-08,2020-09-08,2020-09-11,NA
+7015,"Ballari",403022,63,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-05,2020-09-08,2020-09-11,NA
+7025,"Ballari",410571,48,"Female","SARI","Breathlessness","-",2020-09-06,2020-09-08,2020-09-11,NA
+7026,"Ballari",410576,90,"Male","SARI","Breathlessness","HTN",2020-09-06,2020-09-07,2020-09-11,NA
+7087,"Ballari",345292,22,"Female","SARI","Fever, Breathlessness","CKD",2020-08-31,2020-09-11,2020-09-12,NA
+7090,"Ballari",356689,55,"Male","SARI","Fever, Breathlessness, Cough","-",2020-09-04,2020-09-08,2020-09-12,NA
+7102,"Ballari",375270,60,"Male","SARI","Fever, Breathlessness, Cough","DM, HTN",2020-09-02,2020-09-11,2020-09-12,NA
+7103,"Ballari",376206,80,"Female","SARI","Fever, Cough","HTN",2020-09-01,2020-09-10,2020-09-12,NA
+7123,"Ballari",403070,75,"Male","SARI","Fever, Breathlessness, Cough","HTN",2020-09-05,2020-09-06,2020-09-12,NA
+7132,"Ballari",412336,71,"Male","SARI","Fever, Breathlessness","HTN",2020-09-06,2020-09-11,2020-09-12,NA
+7137,"Ballari",416764,42,"Male","SARI","Fever, Breathlessness","-",2020-09-07,2020-09-10,2020-09-12,NA
+7143,"Ballari",428283,58,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-09-02,2020-09-09,2020-09-12,NA
+7184,"Ballari",351696,70,"Male","SARI","Cough, Breathlessness","IHD",2020-08-30,2020-09-08,2020-09-13,NA
+7208,"Ballari",384069,65,"Female","SARI","Cough, Breathlessness","-",2020-09-02,2020-09-08,2020-09-13,NA
+7210,"Ballari",386516,52,"Male","SARI","Breathlessness","-",2020-09-05,2020-09-08,2020-09-13,NA
+7212,"Ballari",390043,63,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-04,2020-09-08,2020-09-13,NA
+7213,"Ballari",390097,68,"Male","SARI","Breathlessness","HTN",2020-09-06,2020-09-08,2020-09-13,NA
+7220,"Ballari",399844,74,"Female","SARI","Cough, Breathlessness","HTN",2020-09-02,2020-09-08,2020-09-13,NA
+7227,"Ballari",408809,62,"Male","SARI","Cough, Breathlessness","HTN",2020-09-07,2020-09-08,2020-09-13,NA
+7241,"Ballari",429883,50,"Male","SARI","Fever, Breathlessness","-",2020-09-08,2020-09-09,2020-09-13,NA
+7277,"Ballari",352791,32,"Female","Contact under tracing","Fever, Cough, Breathlessness","-",2020-08-31,2020-09-09,2020-09-14,NA
+7284,"Ballari",375293,86,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-09-07,2020-09-11,2020-09-14,NA
+7292,"Ballari",389367,65,"Female","Contact under tracing","Cough, Breathlessness","DM",2020-09-04,2020-09-10,2020-09-14,NA
+7307,"Ballari",401673,62,"Male","Contact under tracing","Breathlessness","HTN",2020-09-06,2020-09-09,2020-09-14,NA
+7316,"Ballari",411702,55,"Male","Contact under tracing","Fever, Cough, Breathlessness","COPD, HTN",2020-09-06,2020-09-07,2020-09-14,NA
+7328,"Ballari",428295,55,"Male","Contact under tracing","-","-",2020-09-07,2020-09-09,2020-09-14,NA
+7332,"Ballari",432316,58,"Female","Contact under tracing","Cough, Breathlessness","HTN",2020-09-08,2020-09-08,2020-09-14,NA
+7565,"Ballari",393020,65,"Female","ILI","Fever, Cough","HTN",2020-09-06,2020-09-11,2020-09-17,NA
+7581,"Ballari",421312,50,"Male","Contact under tracing","Breathlessness","-",2020-09-07,2020-09-11,2020-09-17,NA
+7590,"Ballari",436428,81,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-09,2020-09-11,2020-09-17,NA
+7598,"Ballari",442642,50,"Male","Contact under tracing","Breathlessness","-",2020-09-09,2020-09-12,2020-09-17,NA
+7610,"Ballari",457030,70,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-12,2020-09-17,NA
+7613,"Ballari",462657,80,"Female","Contact under tracing","Cough, Breathlessness","COPD",2020-09-10,2020-09-11,2020-09-17,NA
+7614,"Ballari",462743,45,"Female","Contact under tracing","Breathlessness","DM",2020-09-11,2020-09-11,2020-09-17,NA
+7644,"Ballari",243018,54,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-18,2020-08-18,2020-09-18,NA
+7646,"Ballari",275573,68,"Male","SARI","Cough, Breathlessness","HTN",2020-08-21,2020-09-15,2020-09-18,NA
+7655,"Ballari",363755,50,"Female","SARI","Cough, Breathlessness","IHD",2020-09-02,2020-09-13,2020-09-18,NA
+7665,"Ballari",381560,66,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-04,2020-09-07,2020-09-18,NA
+7667,"Ballari",384909,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-01,2020-09-04,2020-09-18,NA
+7669,"Ballari",389387,35,"Female","SARI","Breathlessness","CKD",2020-09-07,2020-09-08,2020-09-18,NA
+7673,"Ballari",392988,45,"Female","SARI","Fever, Breathlessness","-",2020-09-04,2020-09-05,2020-09-18,NA
+7680,"Ballari",399877,43,"Male","SARI","Fever, Breathlessness","-",2020-09-06,2020-09-06,2020-09-18,NA
+7690,"Ballari",408799,65,"Male","SARI","Cough, Breathlessness","HTN",2020-09-06,2020-09-11,2020-09-18,NA
+7701,"Ballari",415089,56,"Male","SARI","Cough, Breathlessness","-",2020-09-06,2020-09-07,2020-09-18,NA
+7714,"Ballari",424098,60,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-08,2020-09-13,2020-09-18,NA
+7722,"Ballari",431624,65,"Male","SARI","Cough, Breathlessness","DM",2020-09-07,2020-09-13,2020-09-18,NA
+7732,"Ballari",435547,64,"Female","SARI","Breathlessness","DM, HTN",2020-09-09,2020-09-14,2020-09-18,NA
+7734,"Ballari",436879,70,"Male","SARI","Cough, Breathlessness","HTN",2020-09-09,2020-09-13,2020-09-18,NA
+7740,"Ballari",440731,45,"Male","SARI","Cough, Breathlessness","-",2020-09-08,2020-09-11,2020-09-18,NA
+7745,"Ballari",445938,32,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-12,2020-09-13,2020-09-18,NA
+7747,"Ballari",447700,55,"Female","SARI","Fever, Breathlessness","-",2020-09-09,2020-09-12,2020-09-18,NA
+7761,"Ballari",458976,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2020-09-11,2020-09-12,2020-09-18,NA
+7763,"Ballari",460871,66,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-11,2020-09-13,2020-09-18,NA
+7764,"Ballari",461347,54,"Male","SARI","Fever, Breathlessness","DM",2020-09-11,2020-09-14,2020-09-18,NA
+7766,"Ballari",462803,84,"Female","SARI","Cough, Breathlessness","HTN",2020-09-12,2020-09-13,2020-09-18,NA
+7767,"Ballari",462815,70,"Male","SARI","Fever, Breathlessness","HTN",2020-09-11,2020-09-12,2020-09-18,NA
+7768,"Ballari",462835,69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-11,2020-09-14,2020-09-18,NA
+7770,"Ballari",469964,62,"Male","SARI","Fever, Cough, Breathlessness","CKD",2020-09-12,2020-09-13,2020-09-18,NA
+7780,"Ballari",474489,68,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-13,2020-09-14,2020-09-18,NA
+7860,"Ballari",436186,75,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-08,2020-09-14,2020-09-19,NA
+7862,"Ballari",441921,50,"Male","Contact under tracing","Breathlessness","HTN",2020-09-10,2020-09-14,2020-09-19,NA
+7863,"Ballari",442717,51,"Female","Contact under tracing","Cough, Breathlessness","-",2020-09-09,2020-09-14,2020-09-19,NA
+7883,"Ballari",467969,65,"Male","Contact under tracing","Breathlessness","HTN",2020-09-14,2020-09-15,2020-09-19,NA
+7885,"Ballari",468904,75,"Male","Contact under tracing","Breathlessness","HTN",2020-09-12,2020-09-14,2020-09-19,NA
+7888,"Ballari",475483,62,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-13,2020-09-13,2020-09-19,NA
+7889,"Ballari",477263,70,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-14,2020-09-14,2020-09-19,NA
+7952,"Ballari",428279,80,"Male","Contact under tracing","Breathlessness","HTN",2020-09-08,2020-09-15,2020-09-20,NA
+7956,"Ballari",436426,72,"Male","Contact under tracing","Breathlessness","DM, HTN",2020-09-10,2020-09-16,2020-09-20,NA
+7957,"Ballari",437826,50,"Male","Contact under tracing","Cough, Breathlessness","HTN",2020-09-11,2020-09-18,2020-09-20,NA
+7983,"Ballari",479840,77,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-09-13,2020-09-14,2020-09-20,NA
+7985,"Ballari",480285,76,"Male","Contact under tracing","-","DM, HTN",2020-09-13,2020-09-14,2020-09-20,NA
+7994,"Ballari",488590,55,"Female","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-14,2020-09-16,2020-09-20,NA
+8001,"Ballari",493939,80,"Male","Contact under tracing","Breathlessness","HTN",2020-09-15,2020-09-16,2020-09-20,NA
+8015,"Ballari",511610,64,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-16,2020-09-17,2020-09-20,NA
+8063,"Ballari",455685,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-16,2020-09-18,2020-09-21,NA
+8065,"Ballari",461773,70,"Female","SARI","Cough, Breathlessness","HTN",2020-09-10,2020-09-18,2020-09-21,NA
+8070,"Ballari",469966,61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-12,2020-09-16,2020-09-21,NA
+8085,"Ballari",481565,60,"Male","SARI","Breathlessness","DM, HTN",2020-09-14,2020-09-17,2020-09-21,NA
+8088,"Ballari",484148,50,"Male","SARI","Cough, Breathlessness","-",2020-09-13,2020-09-18,2020-09-21,NA
+8091,"Ballari",485813,48,"Female","SARI","Breathlessness","-",2020-09-14,2020-09-19,2020-09-21,NA
+8113,"Ballari",505181,58,"Male","SARI","Breathlessness","HTN",2020-09-16,2020-09-18,2020-09-21,NA
+8115,"Ballari",505904,43,"Male","SARI","Breathlessness","CLD",2020-09-17,2020-09-18,2020-09-21,NA
+8125,"Ballari",512999,65,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-09-17,2020-09-19,2020-09-21,NA
+8179,"Ballari",460345,70,"Male","SARI","Cough, Breathlessness","HTN",2020-09-11,2020-09-12,2020-09-22,NA
+8187,"Ballari",462683,65,"Male","SARI","Cough, Breathlessness","HTN",2020-09-15,2020-09-20,2020-09-22,NA
+8194,"Ballari",476154,38,"Male","SARI","Breathlessness","-",2020-09-13,2020-09-19,2020-09-22,NA
+8195,"Ballari",476720,55,"Male","SARI","Breathlessness","DM, HTN",2020-09-20,2020-09-20,2020-09-22,NA
+8207,"Ballari",495539,23,"Male","SARI","Cough, Breathlessness","DM",2020-09-15,2020-09-20,2020-09-22,NA
+8213,"Ballari",505207,52,"Male","SARI","Cough, Breathlessness","-",2020-09-17,2020-09-20,2020-09-22,NA
+8221,"Ballari",511653,52,"Male","SARI","Cough, Breathlessness","HTN",2020-09-17,2020-09-19,2020-09-22,NA
+8225,"Ballari",517406,50,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-17,2020-09-19,2020-09-22,NA
+8233,"Ballari",530406,0.83,"Male","SARI","Breathlessness","-",2020-09-20,2020-09-20,2020-09-22,NA
+8281,"Ballari",416758,65,"Male","SARI","Breathlessness","HTN",2020-09-15,2020-09-18,2020-09-24,NA
+8282,"Ballari",421999,85,"Male","SARI","Breathlessness","HTN",2020-09-08,2020-09-20,2020-09-24,NA
+8285,"Ballari",438797,62,"Female","SARI","Breathlessness","DM, IHD",2020-09-19,2020-09-21,2020-09-24,NA
+8287,"Ballari",441920,58,"Female","SARI","Breathlessness","HTN",2020-09-11,2020-09-20,2020-09-24,NA
+8288,"Ballari",442652,50,"Male","SARI","Breathlessness","-",2020-09-09,2020-09-23,2020-09-24,NA
+8295,"Ballari",474503,52,"Male","SARI","Breathlessness","HTN",2020-09-13,2020-09-22,2020-09-24,NA
+8306,"Ballari",493936,65,"Male","SARI","Breathlessness","HTN",2020-09-14,2020-09-21,2020-09-24,NA
+8312,"Ballari",508531,72,"Female","SARI","Breathlessness","HTN",2020-09-17,2020-09-20,2020-09-24,NA
+8317,"Ballari",518787,60,"Female","SARI","Breathlessness","-",2020-09-19,2020-09-19,2020-09-24,NA
+8319,"Ballari",521739,62,"Male","SARI","Breathlessness","DM, HTN",2020-09-18,2020-09-19,2020-09-24,NA
+8364,"Ballari",452256,68,"Female","SARI","Breathlessness","DM, HTN",2020-09-13,2020-09-21,2020-09-25,NA
+8370,"Ballari",481136,62,"Male","SARI","Breathlessness","CKD",2020-09-19,2020-09-21,2020-09-25,NA
+8373,"Ballari",482072,66,"Male","SARI","Breathlessness","HTN",2020-08-26,2020-09-18,2020-09-25,NA
+8384,"Ballari",500279,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-09-22,2020-09-23,2020-09-25,NA
+8403,"Ballari",527662,59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-21,2020-09-22,2020-09-25,NA
+8405,"Ballari",530423,73,"Female","SARI","Breathlessness","DM",2020-09-19,2020-09-23,2020-09-25,NA
+8406,"Ballari",531345,60,"Male","SARI","Cough, Breathlessness","HTN",2020-09-21,2020-09-21,2020-09-25,NA
+8421,"Ballari",551026,45,"Male","SARI","Breathlessness","-",2020-09-22,2020-09-22,2020-09-25,NA
+8450,"Ballari",485808,70,"Female","SARI","Breathlessness","DM, HTN",2020-09-14,2020-09-23,2020-09-26,NA
+8456,"Ballari",493937,66,"Male","SARI","Cough, Breathlessness","HTN",2020-09-13,2020-09-23,2020-09-26,NA
+8459,"Ballari",495471,65,"Male","SARI","Cough, Breathlessness","HTN",2020-09-22,2020-09-24,2020-09-26,NA
+8460,"Ballari",495560,75,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-15,2020-09-24,2020-09-26,NA
+8469,"Ballari",518792,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2020-09-18,2020-09-22,2020-09-26,NA
+8481,"Ballari",528648,62,"Male","SARI","Breathlessness","-",2020-09-23,2020-09-23,2020-09-26,NA
+8501,"Ballari",551013,65,"Female","SARI","Breathlessness","DM, HTN",2020-09-22,2020-09-24,2020-09-26,NA
+8535,"Ballari",509690,62,"Male","SARI","Breathlessness","DM, HTN",2020-09-17,2020-09-25,2020-09-27,NA
+8537,"Ballari",513001,62,"Female","SARI","Fever, Breathlessness","-",2020-09-17,2020-09-23,2020-09-27,NA
+8560,"Ballari",544249,84,"Female","SARI","Breathlessness","HTN",2020-09-19,2020-09-24,2020-09-27,NA
+8569,"Ballari",551498,80,"Female","SARI","Breathlessness","HTN",2020-09-21,2020-09-23,2020-09-27,NA
+8570,"Ballari",551502,52,"Female","SARI","Breathlessness","DM",2020-09-22,2020-09-24,2020-09-27,NA
+8571,"Ballari",551513,88,"Female","SARI","Breathlessness","DM",2020-09-22,2020-09-22,2020-09-27,NA
+8573,"Ballari",555940,55,"Male","SARI","Breathlessness","HTN",2020-09-23,2020-09-24,2020-09-27,NA
+8575,"Ballari",559773,60,"Female","Contact under tracing","-","HTN",2020-09-22,2020-09-25,2020-09-27,NA
+8580,"Ballari",568333,62,"Male","ILI","Fever, Cough","HTN",2020-09-24,2020-09-25,2020-09-27,NA
+8598,"Ballari",447719,62,"Male","Contact under tracing","Breathlessness","HTN",2020-09-09,2020-09-27,2020-09-28,NA
+8599,"Ballari",462836,58,"Female","Contact under tracing","Breathlessness","-",2020-09-20,2020-09-27,2020-09-28,NA
+8614,"Ballari",531340,60,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-09-18,2020-09-27,2020-09-28,NA
+8628,"Ballari",552960,63,"Male","Contact under tracing","Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-26,2020-09-28,NA
+8634,"Ballari",562239,67,"Male","Contact under tracing","Breathlessness","HTN",2020-09-22,2020-09-27,2020-09-28,NA
+8637,"Ballari",570114,50,"Female","Contact under tracing","Breathlessness","CKD",2020-09-24,2020-09-26,2020-09-28,NA
+8738,"Ballari",527649,69,"Male","SARI","Fever, Breathlessness","HTN",2020-09-19,2020-09-28,2020-09-29,NA
+8745,"Ballari",538843,76,"Female","SARI","Breathlessness","HTN",2020-09-20,2020-09-28,2020-09-29,NA
+8825,"Ballari",547772,40,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-28,2020-09-29,2020-09-30,NA
+8853,"Ballari",578945,69,"Male","SARI","Fever, Breathlessness","HTN",2020-09-27,2020-09-29,2020-09-30,NA
+8947,"Ballari",544274,68,"Male","SARI","Fever, Breathlessness","HTN",2020-09-22,2020-09-30,2020-10-01,NA
+8986,"Ballari",589095,86,"Male","SARI","Fever, Breathlessness","HTN",2020-09-26,2020-09-30,2020-10-01,NA
+9082,"Ballari",583282,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-09-30,2020-09-30,2020-10-02,NA
+9101,"Ballari",597919,47,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-30,2020-10-01,2020-10-02,NA
+9130,"Ballari",98512,58,"Male","SARI","Fever, Cough, Breathlessness","-",2020-07-26,2020-07-27,2020-10-03,NA
+9151,"Ballari",547714,50,"Female","Contact under tracing","Fever, Breathlessness","HTN",2020-09-22,2020-10-02,2020-10-03,NA
+9157,"Ballari",554630,83,"Male","Contact under tracing","Cough, Breathlessness","-",2020-09-25,2020-09-27,2020-10-03,NA
+9158,"Ballari",555956,85,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-09-22,2020-09-30,2020-10-03,NA
+9280,"Ballari",616025,51,"Male","Contact under tracing","Fever, Breathlessness","-",2020-09-29,2020-09-29,2020-10-04,NA
+9283,"Ballari",619676,48,"Male","Contact under tracing","Breathlessness","DM",2020-10-01,2020-10-03,2020-10-04,NA
+9288,"Ballari",626832,52,"Female","Contact under tracing","Fever, Breathlessness","-",2020-10-01,2020-10-01,2020-10-04,NA
+9311,"Ballari",559785,76,"Male","SARI","Breathlessness","DM, HTN",2020-09-27,2020-10-03,2020-10-05,NA
+9317,"Ballari",570940,58,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-09-25,2020-10-05,2020-10-05,NA
+9339,"Ballari",605590,60,"Male","SARI","Breathlessness","HTN",2020-09-28,2020-10-03,2020-10-05,NA
+9371,"Ballari",655952,89,"Male","SARI","Breathlessness","HTN",2020-10-03,2020-10-04,2020-10-05,NA
+9380,"Ballari",662086,81,"Male","SARI","Breathlessness","-",2020-10-04,2020-10-04,2020-10-05,NA
+9417,"Ballari",588061,80,"Female","SARI","Cough, Breathlessness","HTN",2020-09-30,2020-10-06,2020-10-06,NA
+9435,"Ballari",614881,40,"Male","SARI","Fever, Breathlessness","-",2020-09-05,2020-10-01,2020-10-06,NA
+9452,"Ballari",639105,50,"Female","SARI","Cough, Breathlessness","-",2020-10-02,2020-10-06,2020-10-06,NA
+9463,"Ballari",651685,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-03,2020-10-03,2020-10-06,NA
+9668,"Ballari",662074,54,"Male","SARI","Breathlessness","-",2020-10-07,2020-10-07,2020-10-08,NA
+9672,"Ballari",668806,40,"Female","SARI","Cough, Breathlessness","-",2020-10-03,2020-10-06,2020-10-08,NA
+9677,"Ballari",678817,45,"Female","SARI","Breathlessness","-",2020-10-07,2020-10-07,2020-10-08,NA
+9715,"Ballari",584986,74,"Female","SARI","Cough, Breathlessness","DM",2020-10-05,2020-10-08,2020-10-09,NA
+9755,"Ballari",647968,62,"Male","SARI","Fever, Breathlessness","DM",2020-10-02,2020-10-09,2020-10-09,NA
+9817,"Ballari",572837,55,"Female","SARI","Fever, Cough, Breathlessness","-",2020-09-23,2020-10-09,2020-10-10,NA
+9883,"Ballari",684894,60,"Male","SARI","Breathlessness","HTN",2020-10-07,2020-10-09,2020-10-10,NA
+9894,"Ballari",697751,55,"Female","SARI","Fever, Breathlessness","HTN",2020-10-07,2020-10-08,2020-10-10,NA
+9912,"Ballari",607850,70,"Male","SARI","Fever, Breathlessness","-",2020-09-27,2020-10-10,2020-10-11,NA
+9970,"Ballari",705540,53,"Female","Contact under tracing","Fever, Breathlessness","DM",2020-10-08,2020-10-10,2020-10-11,NA
+9995,"Ballari",618192,82,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-29,2020-10-11,2020-10-12,NA
+10013,"Ballari",667814,65,"Male","SARI","Cough, Breathlessness","-",2020-10-10,2020-10-12,2020-10-12,NA
+10093,"Ballari",684896,66,"Male","Contact under tracing","Breathlessness","-",2020-10-05,2020-10-13,2020-10-13,NA
+10114,"Ballari",716151,67,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-10-09,2020-10-12,2020-10-13,NA
+10127,"Ballari",732092,60,"Female","Contact under tracing","Breathlessness","DM, HTN",2020-10-11,2020-10-12,2020-10-13,NA
+10143,"Ballari",584395,66,"Male","SARI","Cough, Breathlessness","HTN",2020-09-26,2020-10-13,2020-10-14,NA
+10150,"Ballari",643431,62,"Male","SARI","Fever, Breathlessness","HTN, CKD",2020-10-02,2020-10-13,2020-10-14,NA
+10165,"Ballari",670840,60,"Male","SARI","Cough, Breathlessness","HTN",2020-10-06,2020-10-14,2020-10-14,NA
+10249,"Ballari",689748,30,"Male","SARI","Fever, Breathlessness","-",2020-10-07,2020-10-15,2020-10-15,NA
+10250,"Ballari",693797,32,"Female","SARI","Breathlessness","-",2020-10-07,2020-10-15,2020-10-15,NA
+10293,"Ballari",754039,75,"Male","SARI","Fever, Breathlessness","HTN",2020-10-14,2020-10-14,2020-10-15,NA
+10313,"Ballari",657720,52,"Male","SARI","Breathlessness","DM",2020-10-03,2020-10-15,2020-10-16,NA
+10318,"Ballari",668826,80,"Male","SARI","Fever, Cough","IHD",2020-10-05,2020-10-16,2020-10-16,NA
+10407,"Ballari",708824,74,"Male","SARI","Fever, Breathlessness","DM",2020-10-07,2020-10-15,2020-10-17,NA
+10418,"Ballari",728184,72,"Male","SARI","Fever, Breathlessness","DM",2020-10-14,2020-10-15,2020-10-17,NA
+10458,"Ballari",710015,74,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-10-09,2020-10-13,2020-10-18,NA
+10462,"Ballari",724627,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-04,2020-10-17,2020-10-18,NA
+10512,"Ballari",712841,35,"Male","SARI","Fever, Breathlessness","-",2020-10-10,2020-10-14,2020-10-19,NA
+10521,"Ballari",730524,65,"Male","ILI","Fever, Cough","DM",2020-10-14,2020-10-17,2020-10-19,NA
+10528,"Ballari",742534,49,"Male","SARI","Breathlessness","DM, HTN",2020-10-16,2020-10-17,2020-10-19,NA
+10589,"Ballari",739087,58,"Female","SARI","Breathlessness","DM, HTN",2020-10-12,2020-10-14,2020-10-20,NA
+10675,"Ballari",749845,70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-10-14,2020-10-21,2020-10-21,NA
+10692,"Ballari",770618,62,"Female","SARI","Breathlessness","-",2020-10-15,2020-10-20,2020-10-21,NA
+10722,"Ballari",692691,69,"Male","SARI","Breathlessness","DM",2020-10-07,2020-10-21,2020-10-22,NA
+10733,"Ballari",721551,65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-10-11,2020-10-21,2020-10-22,NA
+10792,"Ballari",711017,63,"Female","SARI","Cough, Breathlessness","-",2020-10-10,2020-10-21,2020-10-23,NA
+10806,"Ballari",753352,68,"Female","SARI","Breathlessness","DM, HTN",2020-10-14,2020-10-21,2020-10-23,NA
+10856,"Ballari",754825,51,"Male","SARI","Breathlessness","-",2020-10-20,2020-10-22,2020-10-24,NA
+10871,"Ballari",787779,75,"Male","SARI","Breathlessness","DM, HTN",2020-10-18,2020-10-21,2020-10-24,NA
+10884,"Ballari",679997,72,"Male","SARI","Breathlessness","DM, HTN, CKD, IHD",2020-09-28,2020-10-19,2020-10-25,NA
+10904,"Ballari",781478,82,"Female","ILI","Fever, Cough","HTN",2020-10-18,2020-10-19,2020-10-25,NA
+10927,"Ballari",749333,70,"Male","SARI","Breathlessness","-",2020-10-11,2020-10-11,2020-10-26,NA
+10940,"Ballari",774714,70,"Female","SARI","Fever, Breathlessness","-",2020-10-17,2020-10-25,2020-10-26,NA
+10965,"Ballari",739928,3,"Female","SARI","Fever, Cough, Breathlessness","CHD",2020-10-14,2020-10-26,2020-10-27,NA
+10971,"Ballari",759985,55,"Male","SARI","Breathlessness","_",2020-10-17,2020-10-26,2020-10-27,NA
+11000,"Ballari",819340,19,"Male","SARI","Fever, Breathlessness","_",2020-10-17,2020-10-26,2020-10-27,NA
+11008,"Ballari",684900,72,"Male","SARI","Fever, Breathlessness","-",2020-10-06,2020-10-27,2020-10-28,NA
+11016,"Ballari",759578,75,"Male","SARI","Cough, Breathlessness","DM",2020-10-15,2020-10-27,2020-10-28,NA
+11031,"Ballari",786715,55,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2020-10-20,2020-10-25,2020-10-28,NA
+11106,"Ballari",739074,24,"Female","SARI","Breathlessness","DM, HTN",2020-10-12,2020-10-28,2020-10-30,NA
+11111,"Ballari",760712,55,"Female","SARI","Fever, Breathlessness","DM",2020-10-19,2020-10-28,2020-10-30,NA
+11121,"Ballari",780120,70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-18,2020-10-28,2020-10-30,NA
+11139,"Ballari",820530,73,"Male","SARI","Breathlessness","DM",2020-10-26,2020-10-27,2020-10-30,NA
+11159,"Ballari",783307,68,"Male","SARI","Breathlessness","DM, HTN",2020-10-18,2020-10-29,2020-10-31,NA
+11161,"Ballari",785154,74,"Female","SARI","Cough, Breathlessness","DM",2020-10-17,2020-10-29,2020-10-31,NA
+11182,"Ballari",783308,60,"Female","SARI","Cough, Breathlessness","DM",2020-10-18,2020-10-31,2020-11-01,NA
+11197,"Ballari",825832,60,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-27,2020-10-31,2020-11-01,NA
+11225,"Ballari",831810,65,"Female","SARI","Breathlessness","HTN",2020-10-29,2020-10-30,2020-11-02,NA
+11234,"Ballari",742537,30,"Male","SARI","Cough, Breathlessness","-",2020-10-12,2020-10-12,2020-11-03,NA
+11236,"Ballari",793521,65,"Female","SARI","Breathlessness","-",2020-10-19,2020-10-30,2020-11-03,NA
+11260,"Ballari",686174,77,"Male","SARI","Cough, Breathlessness","IHD, CVA, COPD",2020-10-06,2020-10-10,2020-11-04,NA
+11261,"Ballari",708831,60,"Female","SARI","Breathlessness","HTN",NA,2020-10-20,2020-11-04,"Died at her residence"
+11262,"Ballari",745283,70,"Male","SARI","Breathlessness","DM, HTN",2020-10-12,2020-10-13,2020-11-04,NA
+11300,"Ballari",807491,52,"Male","SARI","Fever, Breathlessness","HTN, COPD",2020-10-23,2020-11-03,2020-11-05,NA
+11301,"Ballari",807993,66,"Female","ILI","Fever, Cough","DM",2020-10-23,2020-11-05,2020-11-05,NA
+11328,"Ballari",805505,58,"Male","SARI","Breathlessness","DM",2020-10-30,2020-11-05,2020-11-06,NA
+11341,"Ballari",831169,58,"Female","SARI","Breathlessness","DM, HTN",2020-10-31,2020-11-05,2020-11-06,NA
+11359,"Ballari",742959,50,"Male","SARI","Cough, Breathlessness","-",2020-10-17,2020-10-18,2020-11-07,NA
+11382,"Ballari",716149,50,"Female","ILI","Fever, Cough","DM, HTN",2020-10-09,2020-10-19,2020-11-08,NA
+11383,"Ballari",742544,80,"Female","SARI","Breathlessness","-",2020-10-13,2020-10-15,2020-11-08,NA
+11384,"Ballari",786703,65,"Male","SARI","Breathlessness","DM, HTN, CVA",NA,2020-10-17,2020-11-08,"Died at his residence"
+11405,"Ballari",763284,41,"Male","SARI","Fever, Breathlessness","-",NA,2020-10-14,2020-11-09,"Died at his residence"
+11407,"Ballari",817916,70,"Male","SARI","Breathlessness","DM, HTN",NA,2020-10-23,2020-11-09,"Died at his residence"
+11412,"Ballari",834868,30,"Female","SARI","Breathlessness","-",2020-10-30,2020-11-07,2020-11-09,NA
+11424,"Ballari",785666,68,"Male","SARI","Breathlessness","DM, HTN",NA,2020-10-17,2020-11-10,"Died at his residence"
+11431,"Ballari",838011,47,"Male","SARI","Cough, Breathlessness","HTN, IHD",2020-11-02,2020-11-09,2020-11-10,NA
+11441,"Ballari",742540,72,"Male","SARI","Breathlessness","DM, HTN, COPD",NA,2020-10-27,2020-11-11,"Brought dead"
+11446,"Ballari",821060,50,"Male","SARI","Breathlessness","IHD",NA,2020-10-23,2020-11-11,"Died at his residence"
+11455,"Ballari",852708,35,"Male","SARI","Breathlessness","-",2020-10-29,2020-11-04,2020-11-11,NA
+11465,"Ballari",681108,62,"Male","SARI","Fever, Cough, Breathlessness","TB",NA,2020-10-10,2020-11-12,"Died at his residence"
+11466,"Ballari",718679,78,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-10-07,2020-10-11,2020-11-12,NA
+11486,"Ballari",736956,40,"Male","SARI","Fever, Breathlessness","DM, HTN, COPD",2020-10-09,2020-10-14,2020-11-13,NA
+11487,"Ballari",739079,60,"Male","SARI","Breathlessness","DM",NA,2020-10-14,2020-11-13,"Brought dead"
+11503,"Ballari",818913,59,"Male","SARI","Cough, Breathlessness","HTN",2020-11-05,2020-11-11,2020-11-14,NA
+11516,"Ballari",856992,17,"Female","SARI","Breathlessness","_",2020-11-06,2020-11-12,2020-11-14,NA
+11520,"Ballari",827934,73,"Male","SARI","Breathlessness","DM",2020-10-28,2020-11-03,2020-11-15,NA
+11521,"Ballari",830717,30,"Female","SARI","Breathlessness","-",2020-10-30,2020-11-07,2020-11-15,NA
+11540,"Ballari",686175,65,"Female","SARI","Fever, Breathlessness","DM, HTN",NA,2020-10-09,2020-11-16,"Died at her residence"
+11542,"Ballari",793530,75,"Male","SARI","Fever, Breathlessness","HTN",2020-10-30,2020-11-06,2020-11-16,NA
+11553,"Ballari",821376,65,"Male","SARI","Fever, Cough, Breathlessness","COPD, DM",2020-11-03,2020-11-07,2020-11-17,NA
+11568,"Ballari",709910,48,"Male","SARI","Fever, Cough, Breathlessness","-",2020-10-08,2020-10-11,2020-11-18,NA
+11589,"Ballari",704865,43,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-26,2020-08-26,2020-11-19,NA
+11592,"Ballari",825338,70,"Female","SARI","Fever, Breathlessness","DM",2020-11-01,2020-11-05,2020-11-19,NA
+11618,"Ballari",849666,74,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-11-06,2020-11-13,2020-11-20,NA
+11641,"Ballari",864091,65,"Female","SARI","Breathlessness","_",2020-11-10,2020-11-14,2020-11-21,NA
+11655,"Ballari",866042,89,"Male","SARI","Cough, Breathlessness","HTN, DM",2020-11-01,2020-11-14,2020-11-22,NA
+11666,"Ballari",821066,30,"Male","SARI","Cough, Breathlessness","-",2020-11-01,2020-11-20,2020-11-23,NA
+11691,"Ballari",855445,26,"Female","SARI","Cough, Breathlessness","-",2020-11-05,2020-11-14,2020-11-24,NA
+11746,"Ballari",892044,80,"Male","SARI","Fever, Breathlessness","DM, HTN, Asthma",2020-11-26,2020-11-27,2020-11-27,NA
+11777,"Ballari",868374,70,"Male","SARI","Breathlessness","DM, HTN, COPD",2020-11-12,2020-11-22,2020-11-30,NA
+11791,"Ballari",876291,68,"Male","SARI","Breathlessness","DM",2020-11-16,2020-11-23,2020-12-01,NA
+11847,"Ballari",871234,65,"Male","SARI","Breathlessness","DM, HTN, ARF",2020-11-15,2020-11-19,2020-12-05,NA
+11857,"Ballari",847687,45,"Male","SARI","Breathlessness","RF",2020-11-02,2020-11-10,2020-12-07,NA
+11874,"Ballari",894201,60,"Female","SARI","Fever, Cough, Breathlessness","-",2020-11-27,2020-12-05,2020-12-08,NA
+11902,"Ballari",885471,62,"Male","SARI","Breathlessness","DM, HTN",2020-11-17,2020-12-01,2020-12-10,NA
+11929,"Ballari",858010,68,"Male","SARI","Fever, Cough, Breathlessness","_",2020-10-30,2020-11-12,2020-12-12,NA
+11945,"Ballari",823380,80,"Male","SARI","Cough, Breathlessness","_",2020-09-26,2020-10-27,2020-12-14,NA
+11966,"Ballari",874391,55,"Male","SARI","Breathlessness","DM",2020-11-14,2020-11-16,2020-12-16,NA
+11984,"Ballari",908481,58,"Male","SARI","Breathlessness","DM",2020-12-09,2020-12-09,2020-12-18,NA
+11992,"Ballari",894538,63,"Male","SARI","Breathlessness","COPD, CKD",2020-11-27,2020-12-04,2020-12-19,NA
+12013,"Ballari",917786,85,"Male","SARI","Breathlessness","-",2020-12-15,2020-12-17,2020-12-21,NA
+12017,"Ballari",878255,56,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-11-15,2020-11-19,2020-12-22,NA
+12032,"Ballari",909707,72,"Female","SARI","Breathlessness","-",2020-12-08,2020-12-21,2020-12-23,NA
+12047,"Ballari",903850,76,"Male","SARI","Cough, Breathlessness","HTN",2020-12-05,2020-12-19,2020-12-26,NA
+12066,"Ballari",923204,52,"Male","SARI","Fever, Breathlessness","TB",2020-12-20,2020-12-23,2020-12-28,NA
+12466,"Ballari",977159,79,"Male","ILI","Fever, Cough","DM, HTN",2021-03-15,2021-03-20,2021-03-25,NA
+12652,"Ballari",1025694,72,"Male","SARI","Breathlessness","_",2021-02-04,2021-03-04,2021-04-05,NA
+12694,"Ballari",1032359,58,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-03,2021-04-05,2021-04-06,NA
+12709,"Ballari",1001916,29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-03-28,2021-04-07,2021-04-07,NA
+12810,"Ballari",1056099,76,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-07,2021-04-08,2021-04-09,NA
+12840,"Ballari",1053821,45,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-08,2021-04-10,2021-04-10,NA
+12922,"Ballari",1051287,57,"Male","SARI","Fever, Cough, breathlessness","DM",2021-04-09,2021-04-10,2021-04-12,NA
+13042,"Ballari",1094118,35,"Male","SARI","Breathlessness","CVA",2021-04-12,2021-04-13,2021-04-14,NA
+13080,"Ballari",1035286,50,"Female","SARI","Breathlessness","_",2021-04-04,2021-04-13,2021-04-15,NA
+13085,"Ballari",1039073,55,"Male","SARI","Fever, Breathlessness","CLD",2021-04-05,2021-04-14,2021-04-15,NA
+13086,"Ballari",1041408,45,"Male","SARI","Fever, Cough, Breathlessness","_",2021-04-10,2021-04-13,2021-04-15,NA
+13097,"Ballari",1076432,65,"Female","ILI","Fever, Cough","-",2021-04-11,2021-04-15,2021-04-15,NA
+13107,"Ballari",1097046,60,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2021-04-13,2021-04-14,2021-04-15,NA
+13109,"Ballari",1101988,59,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-04-13,2021-04-14,2021-04-15,NA
+13161,"Ballari",1102072,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-14,2021-04-15,2021-04-16,NA
+13215,"Ballari",1066398,68,"Female","SARI","Fever, Breathlessness","HTN, COPD",2021-04-08,2021-04-17,2021-04-17,NA
+13260,"Ballari",1139218,57,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-04,2021-04-17,2021-04-17,NA
+13288,"Ballari",1056617,77,"Female","ILI","Fever","DM",2021-04-02,2021-04-17,2021-04-18,NA
+13340,"Ballari",1155965,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-16,2021-04-17,2021-04-18,NA
+13463,"Ballari",1134613,50,"Female","SARI","Fever, cough, breathlessness","_",2021-04-17,2021-04-18,2021-04-19,NA
+13567,"Ballari",1128329,64,"Male","SARI","Breathlessness","DM, HTN",2021-04-14,2021-04-19,2021-04-20,NA
+13576,"Ballari",1135435,30,"Male","ILI","Fever","-",2021-04-15,2021-04-19,2021-04-20,NA
+13578,"Ballari",1136948,63,"Male","SARI","Fever, Breathlessness","-",2021-04-16,2021-04-19,2021-04-20,NA
+13635,"Ballari",1192263,54,"Male","ILI","Fever","DM, HTN",2021-04-20,2021-04-20,2021-04-20,NA
+13646,"Ballari",1216110,73,"Male","SARI","Fever, Breathlessness","-",2021-04-19,2021-04-19,2021-04-20,NA
+13663,"Ballari",1072917,65,"Male","ILI","Fever","DM, HTN",NA,2021-04-18,2021-04-21,"Died at his residence"
+13675,"Ballari",1092533,47,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-04-11,2021-04-20,2021-04-21,NA
+13695,"Ballari",1128343,67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-21,2021-04-21,NA
+13722,"Ballari",1167239,44,"Male","SARI","Fever, Cough, Breathlessness","COPD",2021-04-17,2021-04-20,2021-04-21,NA
+13811,"Ballari",1135428,72,"Female","ILI","Fever, cough","DM, HTN",2021-04-16,2021-04-22,2021-04-22,NA
+13812,"Ballari",1135439,29,"Male","ILI","Fever","-",2021-04-17,2021-04-21,2021-04-22,NA
+13840,"Ballari",1175846,70,"Male","SARI","Breathlessness","DM, HTN",2021-04-17,2021-04-19,2021-04-22,NA
+13852,"Ballari",1197012,90,"Female","ILI","Fever","-",NA,2021-04-16,2021-04-22,"Died at her residence"
+13865,"Ballari",1212204,44,"Male","SARI","Breathlessness","IHD",2021-04-16,2021-04-20,2021-04-22,NA
+13969,"Ballari",1130901,61,"Female","SARI","Breathlessness","DM, HTN",2021-04-18,2021-04-22,2021-04-23,NA
+13987,"Ballari",1161345,55,"Female","SARI","Cough, Breathlessness","_",2021-04-19,2021-04-22,2021-04-23,NA
+14011,"Ballari",1187668,56,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-04-22,2021-04-23,"Brought dead"
+14034,"Ballari",1219370,41,"Male","SARI","Cough, Breathlessness","_",2021-04-20,2021-04-22,2021-04-23,NA
+14068,"Ballari",1265745,80,"Male","SARI","Breathlessness","HTN",NA,2021-04-20,2021-04-23,"Died at his residence"
+14073,"Ballari",1280483,73,"Male","SARI","Breathlessness","DM, HTN",2021-04-22,2021-04-23,2021-04-23,NA
+14244,"Ballari",1245932,47,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-24,2021-04-24,NA
+14246,"Ballari",1251491,55,"Female","SARI","Fever, Breathlessness","-",2021-04-21,2021-04-23,2021-04-24,NA
+14276,"Ballari",1295798,40,"Male","SARI","Fever, Breathlessness","-",2021-04-22,2021-04-24,2021-04-24,NA
+14308,"Ballari",1109936,59,"Male","SARI","Fever, cough, breathlessness","-",2021-04-13,2021-04-24,2021-04-25,NA
+14312,"Ballari",1119870,45,"Male","ILI","Fever","DM",2021-04-21,2021-04-21,2021-04-25,NA
+14316,"Ballari",1125961,58,"Male","ILI","Fever","DM",2021-04-14,2021-04-25,2021-04-25,NA
+14322,"Ballari",1135427,50,"Male","ILI","Fever","-",2021-04-17,2021-04-23,2021-04-25,NA
+14324,"Ballari",1139219,44,"Male","SARI","Breathlessness","-",2021-04-20,2021-04-24,2021-04-25,NA
+14334,"Ballari",1164012,23,"Female","ILI","Fever","-",2021-04-18,2021-04-24,2021-04-25,NA
+14355,"Ballari",1213970,57,"Female","ILI","Cough","DM, HTN",2021-04-19,2021-04-24,2021-04-25,NA
+14369,"Ballari",1234753,80,"Male","SARI","Breathlessness","DM, HTN",2021-04-21,2021-04-23,2021-04-25,NA
+14372,"Ballari",1244457,50,"Male","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-04-24,2021-04-25,NA
+14374,"Ballari",1247103,55,"Female","SARI","Fever, cough, breathlessness","-",2021-04-21,2021-04-23,2021-04-25,NA
+14378,"Ballari",1253816,82,"Male","SARI","Fever","-",2021-04-19,2021-04-23,2021-04-25,NA
+14393,"Ballari",1271807,70,"Female","ILI","Fever","HTN, CLD",2021-04-21,2021-04-24,2021-04-25,NA
+14404,"Ballari",1280486,46,"Male","SARI","Breathlessness","-",2021-04-22,2021-04-24,2021-04-25,NA
+14408,"Ballari",1293237,65,"Female","SARI","Fever, cough, breathlessness","CKD",2021-04-22,2021-04-24,2021-04-25,NA
+14415,"Ballari",1305209,20,"Female","ILI","Fever, cough","-",2021-04-22,2021-04-24,2021-04-25,NA
+14417,"Ballari",1310716,65,"Male","SARI","Breathlessness","DM, HTN",2021-04-23,2021-04-24,2021-04-25,NA
+14431,"Ballari",1075341,52,"Female","ILI","Fever","_",2021-04-12,2021-04-25,2021-04-26,NA
+14442,"Ballari",1109026,38,"Male","SARI","Fever, Breathlessness","_",2021-04-20,2021-04-25,2021-04-26,NA
+14475,"Ballari",1169402,55,"Female","SARI","Fever, Breathlessness","DM",2021-04-17,2021-04-19,2021-04-26,NA
+14477,"Ballari",1175845,37,"Male","SARI","Fever, Breathlessness","_",2021-04-21,2021-04-25,2021-04-26,NA
+14492,"Ballari",1199828,50,"Female","ILI","Fever","HTN",2021-04-18,2021-04-24,2021-04-26,NA
+14517,"Ballari",1267686,57,"Female","SARI","Fever, Breathlessness","_",2021-04-22,2021-04-25,2021-04-26,NA
+14521,"Ballari",1275218,69,"Female","ILI","Fever, cough, breathlessness","DM, HTN",2021-04-22,2021-04-24,2021-04-26,NA
+14523,"Ballari",1279716,85,"Female","SARI","Fever, Breathlessness","HTN",2021-04-22,2021-04-25,2021-04-26,NA
+14531,"Ballari",1295917,80,"Female","SARI","Fever, Breathlessness","DM",2021-04-22,2021-04-25,2021-04-26,NA
+14535,"Ballari",1302170,56,"Male","ILI","Fever","_",2021-04-25,2021-04-25,2021-04-26,NA
+14538,"Ballari",1305212,58,"Male","SARI","Breathlessness","_",2021-04-23,2021-04-25,2021-04-26,NA
+14556,"Ballari",1321112,70,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-26,NA
+14566,"Ballari",1328678,31,"Male","ILI","Fever","_",2021-04-24,2021-04-25,2021-04-26,NA
+14575,"Ballari",1335063,40,"Male","SARI","Breathlessness","DM",2021-04-23,2021-04-24,2021-04-26,NA
+14594,"Ballari",1347030,78,"Male","SARI","Breathlessness","DM",2021-04-24,2021-04-24,2021-04-26,NA
+14612,"Ballari",1361499,75,"Female","SARI","Fever, Breathlessness","_",2021-04-24,2021-04-24,2021-04-26,NA
+14618,"Ballari",1371129,40,"Male","SARI","Fever, Breathlessness","CLD",2021-04-24,2021-04-25,2021-04-26,NA
+14623,"Ballari",1382838,62,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-26,NA
+14639,"Ballari",1102037,52,"Male","SARI","Fever, Breathlessness","DM",2021-04-18,2021-04-26,2021-04-27,NA
+14640,"Ballari",1102073,63,"Female","SARI","Fever, Cough, Breathlessness","_",2021-04-25,2021-04-26,2021-04-27,NA
+14649,"Ballari",1135430,43,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-26,2021-04-27,NA
+14669,"Ballari",1181666,35,"Male","SARI","Fever, Breathlessness","_",2021-04-18,2021-04-26,2021-04-27,NA
+14673,"Ballari",1189150,60,"Female","ILI","Fever","DM, HTN",2021-04-18,2021-04-24,2021-04-27,NA
+14677,"Ballari",1194442,38,"Male","SARI","Breathlessness",NA,2021-04-25,2021-04-26,2021-04-27,NA
+14683,"Ballari",1209845,55,"Male","SARI","Fever, Breathlessness","_",2021-04-24,2021-04-24,2021-04-27,NA
+14696,"Ballari",1231486,65,"Male","SARI","Fever, Breathlessness","_",2021-04-20,2021-04-27,2021-04-27,NA
+14699,"Ballari",1237986,67,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-23,2021-04-26,2021-04-27,NA
+14701,"Ballari",1251074,30,"Male","SARI","Fever, Breathlessness","_",2021-04-24,2021-04-25,2021-04-27,NA
+14717,"Ballari",1267682,45,"Female","SARI","Fever, Breathlessness","_",2021-04-22,2021-04-26,2021-04-27,NA
+14737,"Ballari",1308286,34,"Male","SARI","Fever, Breathlessness","DM",2021-04-25,2021-04-26,2021-04-27,NA
+14745,"Ballari",1326107,73,"Male","SARI","Fever, Breathlessness","HTN",2021-04-25,2021-04-26,2021-04-27,NA
+14769,"Ballari",1361490,56,"Male","SARI","Breathlessness","_",2021-04-24,2021-04-26,2021-04-27,NA
+14786,"Ballari",1389771,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-04-25,2021-04-27,NA
+14787,"Ballari",1389773,52,"Female","SARI","Breathlessness","_",2021-04-25,2021-04-26,2021-04-27,NA
+14788,"Ballari",1389809,66,"Male","SARI","Fever, Cough, Breathlessness","_",2021-04-25,2021-04-25,2021-04-27,NA
+14805,"Ballari",1412518,83,"Male","SARI","Fever, Breathlessness","_",2021-04-26,2021-04-26,2021-04-27,NA
+14921,"Ballari",1295898,31,"Male","SARI","Cough, Breathlessness","-",2021-04-23,2021-04-26,2021-04-28,NA
+14924,"Ballari",1303687,45,"Male","ILI","Fever","DM",2021-04-23,2021-04-27,2021-04-28,NA
+14932,"Ballari",1312753,38,"Female","SARI","Fever, breathlessness","-",2021-04-23,2021-04-27,2021-04-28,NA
+14950,"Ballari",1347040,30,"Female","SARI","Fever, breathlessness","-",2021-04-24,2021-04-27,2021-04-28,NA
+14977,"Ballari",1369262,35,"Male","SARI","Fever, breathlessness","-",2021-04-26,2021-04-27,2021-04-28,NA
+15027,"Ballari",1421136,40,"Male","SARI","Fever, breathlessness","HTN",2021-04-27,2021-04-27,2021-04-28,NA
+15032,"Ballari",1423898,62,"Male","SARI","Breathlessness","DM, HTN, IHD",2021-04-26,2021-04-27,2021-04-28,NA
+15033,"Ballari",1428958,72,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-26,2021-04-28,2021-04-28,NA
+15098,"Ballari",1189674,70,"Female","ILI","Fever","-",2021-04-18,2021-04-28,2021-04-29,NA
+15106,"Ballari",1198856,27,"Female","SARI","Fever, breathlessness","-",2021-04-26,2021-04-28,2021-04-29,NA
+15116,"Ballari",1216049,25,"Male","SARI","Fever, breathlessness","-",2021-04-24,2021-04-28,2021-04-29,NA
+15156,"Ballari",1293251,57,"Male","SARI","Fever, breathlessness","-",2021-04-27,2021-04-28,2021-04-29,NA
+15165,"Ballari",1316023,22,"Female","SARI","Fever, breathlessness","-",2021-04-28,2021-04-28,2021-04-29,NA
+15171,"Ballari",1326113,42,"Female","ILI","Fever, cough","DM",2021-04-23,2021-04-28,2021-04-29,NA
+15185,"Ballari",1344578,73,"Female","ILI","Fever","DM, HTN",2021-04-23,2021-04-28,2021-04-29,NA
+15194,"Ballari",1365221,58,"Male","SARI","Fever, breathlessness","-",2021-04-24,2021-04-27,2021-04-29,NA
+15214,"Ballari",1389819,40,"Male","SARI","Fever, breathlessness","-",2021-04-28,2021-04-28,2021-04-29,NA
+15245,"Ballari",1432775,42,"Male","SARI","Fever, breathlessness","-",2021-04-26,2021-04-27,2021-04-29,NA
+15251,"Ballari",1437066,44,"Male","ILI","Fever","DM",2021-04-26,2021-04-27,2021-04-29,NA
+15276,"Ballari",1454787,46,"Female","ILI","Fever, cough","DM",2021-04-27,2021-04-28,2021-04-29,NA
+15280,"Ballari",1461136,40,"Male","SARI","Fever, cough, breathlessness","-",2021-04-28,2021-04-29,2021-04-29,NA
+15293,"Ballari",1474122,59,"Male","SARI","Fever, breathlessness","DM, HTN",2021-04-28,2021-04-28,2021-04-29,NA
+15301,"Ballari",1489291,52,"Male","SARI","Fever, breathlessness","-",2021-04-28,2021-04-29,2021-04-29,NA
+15303,"Ballari",1491914,65,"Male","SARI","Fever, breathlessness","-",2021-04-28,2021-04-28,2021-04-29,NA
+15319,"Ballari",1136975,75,"Male","ILI","Fever","TB",NA,2021-04-24,2021-04-30,"Died at his residence"
+15361,"Ballari",1273425,70,"Female","SARI","Cough, Breathlessness","-",2021-04-21,2021-04-30,2021-04-30,NA
+15367,"Ballari",1281964,55,"Male","SARI","Fever, Breathlessness","HTN",NA,2021-04-29,2021-04-30,"Died at his residence"
+15372,"Ballari",1290788,78,"Male","SARI","Cough, Breathlessness","-",2021-04-26,2021-04-29,2021-04-30,NA
+15416,"Ballari",1358591,40,"Male","SARI","Fever, Breathlessness","-",2021-04-24,2021-04-30,2021-04-30,NA
+15426,"Ballari",1380893,56,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-29,2021-04-30,NA
+15474,"Ballari",1464129,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15479,"Ballari",1469492,68,"Male","SARI","Cough, Breathlessness","DM",2021-04-28,2021-04-30,2021-04-30,NA
+15493,"Ballari",1497641,73,"Female","SARI","Breathlessness","DM, HTN",2021-04-28,2021-04-29,2021-04-30,NA
+15499,"Ballari",1502752,70,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-04-30,2021-04-30,NA
+15523,"Ballari",1556019,65,"Male","ILI","Fever","DM",2021-04-30,2021-04-30,2021-04-30,NA
+15585,"Ballari",1237956,55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-20,2021-04-30,2021-05-01,NA
+15657,"Ballari",1355097,70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-01,2021-05-01,NA
+15700,"Ballari",1423879,30,"Male","SARI","Breathlessness","DM, CKD",2021-04-27,2021-05-01,2021-05-01,NA
+15724,"Ballari",1461163,60,"Female","SARI","Cough, Breathlessness","DM",2021-04-22,2021-05-01,2021-05-01,NA
+15731,"Ballari",1475978,42,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-01,2021-05-01,NA
+15747,"Ballari",1505812,54,"Male","SARI","Cough, Breathlessness","DM",2021-04-25,2021-04-29,2021-05-01,NA
+15789,"Ballari",1571117,71,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-01,NA
+15791,"Ballari",1576906,36,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-04-30,2021-05-01,NA
+15850,"Ballari",1308285,60,"Female","ILI","Breathlessness","-",2021-04-25,2021-04-28,2021-05-02,NA
+15869,"Ballari",1347015,60,"Male","SARI","Breathlessness","DM, HTN",2021-04-28,2021-05-01,2021-05-02,NA
+15872,"Ballari",1361563,62,"Female","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-01,2021-05-02,NA
+15873,"Ballari",1363690,50,"Male","SARI","Breathlessness","-",2021-04-28,2021-04-28,2021-05-02,NA
+15880,"Ballari",1371101,57,"Male","SARI","Breathlessness","-",2021-04-30,2021-04-30,2021-05-02,NA
+15881,"Ballari",1373166,50,"Male","SARI","Fever, Breathlessness","-",2021-04-24,2021-05-01,2021-05-02,NA
+15924,"Ballari",1451503,55,"Male","SARI","Breathlessness","-",2021-04-27,2021-04-27,2021-05-02,NA
+15926,"Ballari",1461178,48,"Male","SARI","Breathlessness","-",2021-04-27,2021-04-30,2021-05-02,NA
+15932,"Ballari",1477647,70,"Female","SARI","Fever, Breathlessness","COPD",2021-04-28,2021-05-01,2021-05-02,NA
+15941,"Ballari",1500224,75,"Male","SARI","Breathlessness","DM, HTN, IHD",2021-04-28,2021-05-01,2021-05-02,NA
+15960,"Ballari",1538046,51,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-01,2021-05-02,NA
+15972,"Ballari",1574049,75,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-30,2021-05-01,2021-05-02,NA
+15974,"Ballari",1580574,60,"Female","SARI","Breathlessness","HTN",2021-04-30,2021-05-01,2021-05-02,NA
+15980,"Ballari",1591293,54,"Female","SARI","Breathlessness","-",2021-04-28,2021-05-01,2021-05-02,NA
+15981,"Ballari",1591323,59,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-30,2021-04-30,2021-05-02,NA
+15987,"Ballari",1597961,45,"Male","SARI","Cough, Breathlessness","-",2021-04-30,2021-04-30,2021-05-02,NA
+15988,"Ballari",1597973,40,"Female","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-01,2021-05-02,NA
+16007,"Ballari",1629432,40,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-01,2021-05-02,NA
+16068,"Ballari",1315990,65,"Male","SARI","Cough, breathlessness","DM",2021-04-26,2021-05-01,2021-05-03,NA
+16108,"Ballari",1387980,64,"Male","ILI","Fever","DM",2021-04-26,2021-05-02,2021-05-03,NA
+16123,"Ballari",1405717,58,"Female","SARI","Fever, cough, breathlessness","_",2021-04-30,2021-05-02,2021-05-03,NA
+16130,"Ballari",1423917,65,"Male","SARI","Cough, breathlessness","_",2021-04-28,2021-05-02,2021-05-03,NA
+16133,"Ballari",1430840,56,"Male","ILI","Fever","_",2021-04-27,2021-05-02,2021-05-03,NA
+16172,"Ballari",1500177,47,"Male","SARI","Breathlessness","_",2021-04-30,2021-05-02,2021-05-03,NA
+16192,"Ballari",1541845,45,"Female","SARI","Breathlessness","_",2021-04-30,2021-05-02,2021-05-03,NA
+16204,"Ballari",1553006,47,"Male","ILI","Cough","DM",2021-04-29,2021-05-02,2021-05-03,NA
+16226,"Ballari",1594526,33,"Male","SARI","Fever, cough, breathlessness","_",2021-04-28,2021-04-30,2021-05-03,NA
+16228,"Ballari",1597971,60,"Female","SARI","Fever, cough, breathlessness","_",2021-05-02,2021-05-02,2021-05-03,NA
+16230,"Ballari",1607566,50,"Female","SARI","Breathlessness","_",2021-04-30,2021-05-03,2021-05-03,NA
+16236,"Ballari",1626179,43,"Female","SARI","Breathlessness","_",2021-05-01,2021-05-03,2021-05-03,NA
+16241,"Ballari",1636200,66,"Male","SARI","Breathlessness","DM",2021-05-01,2021-05-03,2021-05-03,NA
+16253,"Ballari",1094841,94,"Female","SARI","Breathlessness","IHD",2021-04-14,2021-05-02,2021-05-04,NA
+16305,"Ballari",1221885,40,"Male","SARI","Cough, Breathlessness","DM",2021-05-02,2021-05-02,2021-05-04,NA
+16334,"Ballari",1293267,68,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-27,2021-05-03,2021-05-04,NA
+16349,"Ballari",1361500,61,"Male","SARI","Cough, Breathlessness","_",2021-05-03,2021-05-03,2021-05-04,NA
+16382,"Ballari",1428867,63,"Male","SARI","Fever, Breathlessness","_",2021-04-27,2021-05-04,2021-05-04,NA
+16392,"Ballari",1454826,36,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-02,2021-05-04,NA
+16419,"Ballari",1502845,43,"Female","ILI","Fever, Cough","_",2021-04-28,2021-05-03,2021-05-04,NA
+16425,"Ballari",1509509,38,"Male","SARI","Fever, Breathlessness","DM",2021-04-29,2021-05-03,2021-05-04,NA
+16435,"Ballari",1548987,31,"Male","ILI","Fever","_",2021-04-29,2021-05-03,2021-05-04,NA
+16437,"Ballari",1552995,66,"Female","ILI","Fever","DM, HTN",2021-04-30,2021-05-03,2021-05-04,NA
+16449,"Ballari",1572827,65,"Female","SARI","Fever, Cough, Breathlessness","HTN, TB",2021-04-30,2021-05-03,2021-05-04,NA
+16458,"Ballari",1591299,45,"Male","SARI","Cough, Breathlessness","_",2021-05-02,2021-05-04,2021-05-04,NA
+16462,"Ballari",1594494,75,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-03,2021-05-04,NA
+16466,"Ballari",1603410,61,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-01,2021-05-03,2021-05-04,NA
+16470,"Ballari",1607563,70,"Male","SARI","Fever, Breathlessness","HTN",2021-05-01,2021-05-01,2021-05-04,NA
+16473,"Ballari",1612785,60,"Male","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16474,"Ballari",1613132,47,"Male","ILI","Fever","_",2021-05-04,2021-05-04,2021-05-04,NA
+16482,"Ballari",1622672,69,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-03,2021-05-04,NA
+16488,"Ballari",1636052,60,"Male","SARI","Cough, Breathlessness","_",2021-05-01,2021-05-03,2021-05-04,NA
+16493,"Ballari",1645136,54,"Male","SARI","Breathlessness","_",2021-05-03,2021-05-03,2021-05-04,NA
+16502,"Ballari",1653734,47,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-03,2021-05-04,NA
+16506,"Ballari",1658080,75,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-03,2021-05-03,2021-05-04,NA
+16526,"Ballari",1694462,22,"Female","ILI","Fever","_",2021-05-03,2021-05-03,2021-05-04,NA
+16527,"Ballari",1696036,40,"Male","ILI","Fever","DM, HTN",2021-05-03,2021-05-04,2021-05-04,NA
+16529,"Ballari",1699018,60,"Female","ILI","Fever",NA,2021-05-03,2021-05-04,2021-05-04,NA
+16530,"Ballari",1699022,40,"Male","ILI","Cough","IHD",2021-05-03,2021-05-03,2021-05-04,NA
+16536,"Ballari",1716352,28,"Male","SARI","Breathlessness","_",2021-05-03,2021-05-04,2021-05-04,NA
+16591,"Ballari",1152504,59,"Male","SARI","Breathlessness","DM",2021-04-17,2021-05-04,2021-05-05,NA
+16659,"Ballari",1284008,32,"Male","ILI","Fever, Cough","DM, HTN",2021-05-02,2021-05-03,2021-05-05,NA
+16672,"Ballari",1328650,46,"Male","SARI","Breathlessness","HTN",2021-04-27,2021-05-03,2021-05-05,NA
+16685,"Ballari",1380900,70,"Male","SARI","Fever, Breathlessness","DM",2021-05-01,2021-05-03,2021-05-05,NA
+16701,"Ballari",1415316,66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-01,2021-05-05,NA
+16703,"Ballari",1421141,78,"Female","SARI","Fever, Breathlessness","DM",2021-04-24,2021-05-04,2021-05-05,NA
+16707,"Ballari",1423907,72,"Male","SARI","Fever, Cough, Breathlessness","-",NA,2021-05-03,2021-05-05,"Died at his residence"
+16717,"Ballari",1458241,62,"Female","ILI","Fever","HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16745,"Ballari",1500185,46,"Female","ILI","Fever","-",2021-05-01,2021-05-04,2021-05-05,NA
+16761,"Ballari",1529634,67,"Male","ILI","Fever","DM, HTN",2021-05-02,2021-05-05,2021-05-05,NA
+16767,"Ballari",1538050,85,"Male","ILI","Cough","-",2021-05-02,2021-05-04,2021-05-05,NA
+16773,"Ballari",1545299,70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-30,2021-05-04,2021-05-05,NA
+16787,"Ballari",1580619,50,"Male","SARI","Fever, Breathlessness","HTN",2021-05-03,2021-05-04,2021-05-05,NA
+16793,"Ballari",1594531,56,"Female","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-01,2021-05-05,NA
+16806,"Ballari",1622647,60,"Male","SARI","Cough, Breathlessness","HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16807,"Ballari",1622685,48,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-03,2021-05-05,NA
+16813,"Ballari",1632622,61,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-01,2021-05-05,NA
+16844,"Ballari",1699015,50,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-04,2021-05-05,NA
+16850,"Ballari",1706475,40,"Male","SARI","Fever, Breathlessness","DM, HTN, CKD",2021-05-03,2021-05-04,2021-05-05,NA
+16894,"Ballari",1119276,47,"Male","SARI","Cough, Breathlessness","-",2021-04-14,2021-04-27,2021-05-06,NA
+16896,"Ballari",1122286,52,"Male","SARI","Cough, Breathlessness","DM",2021-05-04,2021-05-06,2021-05-06,NA
+16912,"Ballari",1245972,26,"Female","ILI","Fever","-",2021-04-20,2021-05-04,2021-05-06,NA
+16917,"Ballari",1261718,68,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-21,2021-05-01,2021-05-06,NA
+16927,"Ballari",1286243,63,"Female","SARI","Cough, Breathlessness","-",2021-04-26,2021-05-04,2021-05-06,NA
+16933,"Ballari",1295829,76,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-25,2021-04-30,2021-05-06,NA
+16950,"Ballari",1328665,56,"Male","SARI","Fever, Breathlessness","HTN",2021-04-29,2021-05-05,2021-05-06,NA
+16951,"Ballari",1335044,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-03,2021-05-06,NA
+16959,"Ballari",1352994,67,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-05-03,2021-05-06,NA
+16978,"Ballari",1410411,73,"Male","SARI","Fever, Breathlessness","-",2021-04-29,2021-05-01,2021-05-06,NA
+16984,"Ballari",1421090,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-05-02,2021-05-06,NA
+16987,"Ballari",1426445,54,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-04-29,2021-05-06,NA
+17004,"Ballari",1451458,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-27,2021-05-06,NA
+17011,"Ballari",1461100,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-02,2021-05-02,2021-05-06,NA
+17014,"Ballari",1466787,92,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-04-28,2021-05-06,NA
+17019,"Ballari",1474129,35,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-03,2021-05-06,NA
+17028,"Ballari",1494554,85,"Female","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-04,2021-05-06,NA
+17032,"Ballari",1500271,44,"Female","ILI","Fever","-",2021-04-29,2021-05-05,2021-05-06,NA
+17060,"Ballari",1532398,46,"Male","SARI","Cough, Breathlessness","-",2021-04-30,2021-05-04,2021-05-06,NA
+17072,"Ballari",1545372,74,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-05,2021-05-06,NA
+17076,"Ballari",1549091,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-04,2021-05-06,NA
+17085,"Ballari",1576955,45,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-04,2021-05-06,NA
+17113,"Ballari",1619213,48,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17131,"Ballari",1639425,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-05-06,NA
+17146,"Ballari",1662850,40,"Male","ILI","Cough","-",2021-05-03,2021-05-05,2021-05-06,NA
+17215,"Ballari",1830975,67,"Female","SARI","Breathlessness","CKD",2021-05-05,2021-05-06,2021-05-06,NA
+17333,"Ballari",1295805,90,"Female","SARI","Fever, Breathlessness","-",2021-04-22,2021-05-03,2021-05-07,NA
+17367,"Ballari",1350260,54,"Male","SARI","Cough, Breathlessness","-",2021-04-24,2021-05-04,2021-05-07,NA
+17393,"Ballari",1380930,65,"Female","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-04-27,2021-05-02,2021-05-07,NA
+17395,"Ballari",1382776,22,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-05-05,2021-05-07,NA
+17419,"Ballari",1426393,40,"Male","SARI","Cough, Breathlessness","HTN",2021-05-02,2021-05-05,2021-05-07,NA
+17445,"Ballari",1454761,62,"Male","SARI","Fever, Breathlessness","-",2021-04-27,2021-05-04,2021-05-07,NA
+17450,"Ballari",1461122,80,"Female","ILI","Fever","DM, HTN",2021-04-27,2021-05-04,2021-05-07,NA
+17462,"Ballari",1475976,54,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-28,2021-05-05,2021-05-07,NA
+17472,"Ballari",1484621,58,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN, CKD",2021-04-30,2021-05-01,2021-05-07,NA
+17521,"Ballari",1535368,30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-30,2021-05-06,2021-05-07,NA
+17553,"Ballari",1567207,70,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-07,2021-05-07,NA
+17558,"Ballari",1576867,68,"Female","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-06,2021-05-07,NA
+17562,"Ballari",1580613,44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17617,"Ballari",1639464,70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-02,2021-05-07,2021-05-07,NA
+17649,"Ballari",1670376,75,"Male","ILI","Fever","-",2021-05-02,2021-05-03,2021-05-07,NA
+17673,"Ballari",1699019,66,"Male","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-03,2021-05-05,2021-05-07,NA
+17691,"Ballari",1716344,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-05-07,NA
+17696,"Ballari",1720351,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-05,2021-05-07,NA
+17721,"Ballari",1741832,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-04-25,2021-05-06,2021-05-07,NA
+17750,"Ballari",1777411,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17769,"Ballari",1805690,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-06,2021-05-07,NA
+17773,"Ballari",1809126,54,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-07,2021-05-07,NA
+17785,"Ballari",1834740,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17789,"Ballari",1840990,49,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-06,2021-05-07,NA
+17991,"Ballari",1397814,60,"Female","ILI","Fever","HTN",2021-04-29,2021-05-05,2021-05-08,NA
+17999,"Ballari",1415378,51,"Male","SARI","Fever, Breathlessness","-",2021-04-26,2021-05-07,2021-05-08,NA
+18005,"Ballari",1421167,35,"Female","ILI","Cough","-",2021-04-26,2021-04-30,2021-05-08,NA
+18008,"Ballari",1426457,62,"Male","ILI","Cough","-",2021-04-27,2021-05-07,2021-05-08,NA
+18015,"Ballari",1433836,62,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18027,"Ballari",1454827,58,"Male","SARI","Cough, Breathlessness","DM",2021-04-27,2021-05-07,2021-05-08,NA
+18039,"Ballari",1494466,68,"Male","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-07,2021-05-08,NA
+18062,"Ballari",1535442,72,"Female","ILI","Fever","-",NA,2021-05-07,2021-05-08,"Died at her residence"
+18065,"Ballari",1538087,49,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-05,2021-05-08,NA
+18072,"Ballari",1545347,27,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-08,NA
+18079,"Ballari",1558894,44,"Female","SARI","Cough, Breathlessness","DM",2021-05-02,2021-05-08,2021-05-08,NA
+18113,"Ballari",1610670,42,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18124,"Ballari",1629458,66,"Male","SARI","Fever, Breathlessness","DM",2021-05-02,2021-05-07,2021-05-08,NA
+18127,"Ballari",1639446,65,"Female","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18133,"Ballari",1650959,50,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-07,2021-05-08,NA
+18134,"Ballari",1650965,52,"Male","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-07,2021-05-08,NA
+18135,"Ballari",1652422,60,"Female","SARI","Cough, Breathlessness","-",2021-05-01,2021-05-07,2021-05-08,NA
+18143,"Ballari",1662842,65,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18160,"Ballari",1689869,70,"Male","SARI","Breathlessness","DM, HTN",2021-05-03,2021-05-05,2021-05-08,NA
+18167,"Ballari",1706477,46,"Female","ILI","Fever, Cough","-",2021-05-03,2021-05-06,2021-05-08,NA
+18168,"Ballari",1716461,50,"Male","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-07,2021-05-08,NA
+18184,"Ballari",1736096,72,"Female","SARI","Fever, Cough","-",2021-05-04,2021-05-07,2021-05-08,NA
+18232,"Ballari",1824345,60,"Female","ILI","Fever","-",2021-05-05,2021-05-06,2021-05-08,NA
+18236,"Ballari",1834683,47,"Male","SARI","Breathlessness","DM",2021-05-05,2021-05-07,2021-05-08,NA
+18258,"Ballari",1862736,64,"Female","SARI","Fever, Breathlessness","IHD",2021-04-27,2021-05-07,2021-05-08,NA
+18365,"Ballari",1314130,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-08,2021-05-09,NA
+18435,"Ballari",1428875,30,"Female","SARI","Fever, Breathlessness","Hypothyroidism",2021-05-07,2021-05-07,2021-05-09,NA
+18468,"Ballari",1491908,62,"Male","SARI","Fever, Breathlessness","CKD",2021-05-06,2021-05-08,2021-05-09,NA
+18500,"Ballari",1545312,30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-29,2021-05-08,2021-05-09,NA
+18513,"Ballari",1570636,62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-04,2021-05-09,2021-05-09,NA
+18519,"Ballari",1580587,68,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-09,2021-05-09,NA
+18520,"Ballari",1580600,44,"Female","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-09,NA
+18544,"Ballari",1600968,55,"Female","SARI","Cough, Breathlessness","-",2021-04-30,2021-05-08,2021-05-09,NA
+18553,"Ballari",1616772,50,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-08,2021-05-09,NA
+18567,"Ballari",1636158,45,"Female","SARI","Fever, Breathlessness","HTN",2021-05-01,2021-05-08,2021-05-09,NA
+18568,"Ballari",1636164,32,"Female","ILI","Fever","-",2021-05-01,2021-05-08,2021-05-09,NA
+18627,"Ballari",1746050,51,"Male","ILI","Cough","-",2021-05-04,2021-05-08,2021-05-09,NA
+18631,"Ballari",1749277,60,"Male","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-09,2021-05-09,NA
+18636,"Ballari",1751592,38,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-29,2021-05-08,2021-05-09,NA
+18648,"Ballari",1781144,62,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-06,2021-05-09,2021-05-09,NA
+18688,"Ballari",1845112,12,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-07,2021-05-09,NA
+18694,"Ballari",1850520,81,"Female","SARI","Cough, Breathlessness","DM, HTN, IHD",2021-05-06,2021-05-09,2021-05-09,NA
+18753,"Ballari",1938008,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18756,"Ballari",1940971,50,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-07,2021-05-09,2021-05-09,NA
+18764,"Ballari",1947466,70,"Male","SARI","Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18766,"Ballari",1948662,37,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-09,NA
+18814,"Ballari",1286157,40,"Male","SARI","Fever, cough, breathlessness","_",2021-05-01,2021-05-09,2021-05-10,NA
+18940,"Ballari",1433856,38,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-29,2021-05-10,2021-05-10,NA
+19036,"Ballari",1491916,52,"Male","SARI","Fever, cough, breathlessness","_",2021-04-28,2021-05-09,2021-05-10,NA
+19052,"Ballari",1538130,65,"Male","SARI","Fever, cough, breathlessness","HTN",2021-04-29,2021-05-07,2021-05-10,NA
+19062,"Ballari",1549079,63,"Female","SARI","Fever, cough, breathlessness",NA,2021-05-02,2021-05-10,2021-05-10,NA
+19112,"Ballari",1607564,58,"Female","SARI","Fever, cough, breathlessness","DM",2021-05-01,2021-05-09,2021-05-10,NA
+19145,"Ballari",1650975,52,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-09,2021-05-10,2021-05-10,NA
+19147,"Ballari",1652423,60,"Female","SARI","Fever, cough, breathlessness","_",2021-05-01,2021-05-10,2021-05-10,NA
+19162,"Ballari",1670332,57,"Female","SARI","Fever, cough, breathlessness","_",2021-05-03,2021-05-08,2021-05-10,NA
+19189,"Ballari",1716356,74,"Male","SARI","Fever, cough, breathlessness","_",2021-05-03,2021-05-09,2021-05-10,NA
+19205,"Ballari",1747806,65,"Female","SARI","Fever, cough, breathlessness","_",2021-05-04,2021-05-10,2021-05-10,NA
+19219,"Ballari",1777335,74,"Female","SARI","Fever, cough, breathlessness","DM, HTN, COPD",2021-05-01,2021-05-09,2021-05-10,NA
+19220,"Ballari",1777337,40,"Male","SARI","Fever, cough, breathlessness","_",2021-05-04,2021-05-09,2021-05-10,NA
+19233,"Ballari",1799182,44,"Female","SARI","Fever, cough, breathlessness","HTN, CKD",2021-05-05,2021-05-10,2021-05-10,NA
+19238,"Ballari",1800752,55,"Male","SARI","Fever, cough, breathlessness","_",2021-05-05,2021-05-08,2021-05-10,NA
+19250,"Ballari",1812763,45,"Male","SARI","Fever, cough, breathlessness","_",2021-05-05,2021-05-08,2021-05-10,NA
+19251,"Ballari",1812866,40,"Male","SARI","Fever, cough, breathlessness","_",2021-05-09,2021-05-10,2021-05-10,NA
+19253,"Ballari",1816761,40,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-05,2021-05-10,2021-05-10,NA
+19270,"Ballari",1840989,45,"Female","SARI","Fever, cough, breathlessness","_",2021-05-05,2021-05-08,2021-05-10,NA
+19278,"Ballari",1858883,62,"Male","SARI","Fever, cough, breathlessness","HTN",2021-05-06,2021-05-09,2021-05-10,NA
+19309,"Ballari",1903301,54,"Female","SARI","Fever, cough, breathlessness","_",2021-05-09,2021-05-10,2021-05-10,NA
+19317,"Ballari",1912741,46,"Female","SARI","Fever, cough, breathlessness","IHD",2021-05-04,2021-05-10,2021-05-10,NA
+19322,"Ballari",1916483,55,"Male","SARI","Fever, cough, breathlessness","_",2021-05-05,2021-05-09,2021-05-10,NA
+19334,"Ballari",1937966,53,"Male","SARI","Fever, cough, breathlessness","DM",2021-05-07,2021-05-08,2021-05-10,NA
+19352,"Ballari",1975105,75,"Female","SARI","Fever, cough, breathlessness","_",2021-05-08,2021-05-09,2021-05-10,NA
+19374,"Ballari",2023272,55,"Female","SARI","Fever, cough, breathlessness","_",2021-05-09,2021-05-09,2021-05-10,NA
+19530,"Ballari",1358526,78,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-11,NA
+19542,"Ballari",1428938,45,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-07,2021-05-11,2021-05-11,NA
+19543,"Ballari",1428949,46,"Male","ILI","Cough","-",2021-04-26,2021-05-10,2021-05-11,NA
+19554,"Ballari",1451430,38,"Male","SARI","Fever, Breathlessness","-",2021-04-28,2021-05-09,2021-05-11,NA
+19559,"Ballari",1497658,82,"Female","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-11,2021-05-11,NA
+19560,"Ballari",1505873,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-10,2021-05-11,NA
+19567,"Ballari",1545387,62,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-29,2021-05-10,2021-05-11,NA
+19585,"Ballari",1639419,52,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-05-01,2021-05-10,2021-05-11,NA
+19590,"Ballari",1649618,63,"Male","SARI","Fever, Breathlessness","-",2021-05-01,2021-05-09,2021-05-11,NA
+19595,"Ballari",1673242,41,"Male","SARI","Cough, Breathlessness","IHD",2021-05-08,2021-05-11,2021-05-11,NA
+19634,"Ballari",1741835,56,"Female","SARI","Breathlessness","DM,  HTN, IHD",2021-05-03,2021-05-11,2021-05-11,NA
+19640,"Ballari",1746908,82,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-10,2021-05-11,NA
+19641,"Ballari",1746910,58,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-09,2021-05-11,NA
+19648,"Ballari",1751586,81,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-09,2021-05-11,NA
+19677,"Ballari",1786791,39,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-09,2021-05-11,NA
+19678,"Ballari",1786886,52,"Female","SARI","Cough, Breathlessness","CKD",2021-05-09,2021-05-10,2021-05-11,NA
+19716,"Ballari",1831195,60,"Female","SARI","Fever, Cough, Breathlessness","CKD",2021-05-04,2021-05-10,2021-05-11,NA
+19724,"Ballari",1841003,30,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-10,2021-05-11,NA
+19729,"Ballari",1846323,63,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-11,2021-05-11,NA
+19745,"Ballari",1866387,59,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-09,2021-05-11,NA
+19755,"Ballari",1878526,47,"Male","SARI","Cough, Breathlessness","HTN",2021-05-07,2021-05-10,2021-05-11,NA
+19772,"Ballari",1899496,29,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-09,2021-05-11,NA
+19787,"Ballari",1912752,68,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-11,2021-05-11,NA
+19793,"Ballari",1923622,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-10,2021-05-11,NA
+19797,"Ballari",1935144,59,"Male","SARI","Breathlessness","DM, HTN",2021-05-07,2021-05-09,2021-05-11,NA
+19827,"Ballari",1982295,30,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-10,2021-05-11,NA
+19836,"Ballari",1997785,59,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-11,NA
+19854,"Ballari",2044757,28,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-11,NA
+19856,"Ballari",1069655,58,"Male","SARI","Fever, Breathlessness","DM, IHD",2021-05-11,2021-05-11,2021-05-12,NA
+20012,"Ballari",1706454,38,"Male","ILI","Fever","-",2021-05-05,2021-05-11,2021-05-12,NA
+20017,"Ballari",1709155,65,"Female","ILI","Fever","HTN",2021-05-08,2021-05-09,2021-05-12,NA
+20024,"Ballari",1712409,40,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-11,2021-05-12,NA
+20092,"Ballari",1781095,51,"Male","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-11,2021-05-12,NA
+20100,"Ballari",1786778,80,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-05-12,NA
+20101,"Ballari",1786814,52,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-12,NA
+20102,"Ballari",1789645,43,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-11,2021-05-12,NA
+20176,"Ballari",1855771,55,"Female","SARI","Cough, Breathlessness","HTN, IHD",2021-05-09,2021-05-11,2021-05-12,NA
+20207,"Ballari",1888781,71,"Male","SARI","Breathlessness","HTN",2021-05-04,2021-05-07,2021-05-12,NA
+20237,"Ballari",1912799,59,"Female","SARI","Cough, Breathlessness","HTN",2021-05-09,2021-05-11,2021-05-12,NA
+20248,"Ballari",1919417,35,"Female","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-11,2021-05-12,NA
+20290,"Ballari",1964890,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-12,NA
+20355,"Ballari",2044773,50,"Male","ILI","Cough","-",2021-05-10,2021-05-11,2021-05-12,NA
+20359,"Ballari",2050371,75,"Male","SARI","Cough, Breathlessness","HTN, CKD",2021-05-10,2021-05-12,2021-05-12,NA
+20367,"Ballari",2076810,48,"Male","SARI","Breathlessness","DM",2021-05-11,2021-05-11,2021-05-12,NA
+20368,"Ballari",2085302,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-12,NA
+20397,"Ballari",1333567,62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-05-12,2021-05-13,NA
+20408,"Ballari",1415258,41,"Male","SARI","Cough, Breathlessness","DM",2021-04-27,2021-05-13,2021-05-13,NA
+20435,"Ballari",1500254,42,"Male","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-09,2021-05-13,NA
+20436,"Ballari",1512653,68,"Male","ILI","Fever, Cough","-",2021-04-30,2021-05-12,2021-05-13,NA
+20487,"Ballari",1639442,71,"Male","SARI","Cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-13,NA
+20506,"Ballari",1696037,70,"Female","ILI","Cough","-",2021-05-03,2021-05-12,2021-05-13,NA
+20512,"Ballari",1716457,64,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-13,NA
+20528,"Ballari",1749123,43,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-12,2021-05-13,NA
+20552,"Ballari",1805674,55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-13,2021-05-13,NA
+20599,"Ballari",1928033,68,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-13,NA
+20605,"Ballari",1944498,67,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-11,2021-05-13,NA
+20619,"Ballari",1967612,47,"Female","ILI","Cough","-",2021-05-08,2021-05-11,2021-05-13,NA
+20620,"Ballari",1967697,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-13,NA
+20635,"Ballari",2003772,60,"Female","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-12,2021-05-13,NA
+20725,"Ballari",1204147,33,"Male","SARI","Cough, Breathlessness","-",2021-04-20,2021-05-05,2021-05-14,NA
+20742,"Ballari",1361495,57,"Male","SARI","Fever, Breathlessness","-",2021-04-24,2021-05-05,2021-05-14,NA
+20781,"Ballari",1545405,74,"Male","SARI","Breathlessness","CKD",2021-05-07,2021-05-08,2021-05-14,NA
+20784,"Ballari",1548996,70,"Female","SARI","Breathlessness","-",2021-04-29,2021-05-12,2021-05-14,NA
+20788,"Ballari",1561974,60,"Female","SARI","Breathlessness","HTN",2021-05-04,2021-05-14,2021-05-14,NA
+20808,"Ballari",1642273,40,"Male","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-05-14,NA
+20837,"Ballari",1740205,57,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-13,2021-05-14,NA
+20849,"Ballari",1786899,87,"Male","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-14,2021-05-14,NA
+20860,"Ballari",1799199,66,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-13,2021-05-14,NA
+20892,"Ballari",1878357,83,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-09,2021-05-14,NA
+20893,"Ballari",1878459,55,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-04,2021-05-13,2021-05-14,NA
+20902,"Ballari",1903378,60,"Male","SARI","Breathlessness","DM, HTN",2021-05-11,2021-05-13,2021-05-14,NA
+20926,"Ballari",1958202,61,"Male","ILI","Fever, Cough","-",2021-05-09,2021-05-12,2021-05-14,NA
+20938,"Ballari",1971228,58,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-13,2021-05-14,NA
+20958,"Ballari",2008978,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-12,2021-05-14,NA
+20963,"Ballari",2015115,68,"Male","SARI","Cough, Breathlessness","DM",2021-05-09,2021-05-09,2021-05-14,NA
+20965,"Ballari",2020759,60,"Male","SARI","Cough, Breathlessness","-",2021-05-06,2021-05-12,2021-05-14,NA
+20967,"Ballari",2023238,65,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-13,2021-05-14,NA
+20994,"Ballari",2050379,35,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-13,2021-05-14,NA
+21004,"Ballari",2062052,62,"Male","SARI","Cough, Breathlessness","DM, HTN, CVA",2021-05-12,2021-05-13,2021-05-14,NA
+21020,"Ballari",2085225,60,"Male","SARI","Cough, Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-14,NA
+21028,"Ballari",2101939,56,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-12,2021-05-14,NA
+21031,"Ballari",2109689,35,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-12,2021-05-14,NA
+21045,"Ballari",2125206,55,"Male","ILI","Fever, Cough","-",2021-05-12,2021-05-12,2021-05-14,NA
+21063,"Ballari",2142709,64,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-04-29,2021-05-13,2021-05-14,NA
+21078,"Ballari",2158221,63,"Male","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-13,2021-05-14,NA
+21101,"Ballari",1267743,59,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-21,2021-05-14,2021-05-15,NA
+21103,"Ballari",1318517,60,"Female","SARI","Fever, Breathlessness","-",2021-04-20,2021-05-06,2021-05-15,NA
+21107,"Ballari",1412531,51,"Male","ILI","Fever, Cough","-",2021-04-30,2021-05-14,2021-05-15,NA
+21110,"Ballari",1426460,47,"Male","SARI","Breathlessness","DM, HTN",2021-04-27,2021-05-05,2021-05-15,NA
+21115,"Ballari",1474108,58,"Male","SARI","Fever, Cough, Breathlessness","DM, IHD",2021-05-02,2021-05-14,2021-05-15,NA
+21135,"Ballari",1549067,66,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-13,2021-05-15,NA
+21149,"Ballari",1600990,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-14,2021-05-15,NA
+21155,"Ballari",1626162,24,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-15,NA
+21156,"Ballari",1629448,42,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-15,2021-05-15,NA
+21164,"Ballari",1670314,51,"Male","ILI","Cough","-",2021-05-09,2021-05-09,2021-05-15,NA
+21172,"Ballari",1712433,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-02,2021-05-07,2021-05-15,NA
+21176,"Ballari",1716351,44,"Male","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-15,NA
+21177,"Ballari",1716361,58,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21184,"Ballari",1741826,70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-11,2021-05-14,2021-05-15,NA
+21203,"Ballari",1784579,68,"Male","ILI","Fever","DM",2021-05-03,2021-05-07,2021-05-15,NA
+21209,"Ballari",1802554,57,"Female","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-15,NA
+21235,"Ballari",1862745,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-14,2021-05-15,NA
+21253,"Ballari",1909772,47,"Female","ILI","Fever, Cough","-",2021-05-08,2021-05-14,2021-05-15,NA
+21264,"Ballari",1940979,76,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-13,2021-05-15,NA
+21283,"Ballari",1978751,58,"Male","SARI","Breathlessness","DM, HTN",2021-05-08,2021-05-10,2021-05-15,NA
+21285,"Ballari",1988115,63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-08,2021-05-14,2021-05-15,NA
+21287,"Ballari",1990560,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-13,2021-05-15,NA
+21288,"Ballari",1990562,65,"Male","ILI","Cough","-",2021-05-10,2021-05-14,2021-05-15,NA
+21293,"Ballari",2003713,60,"Female","ILI","Cough","-",2021-05-11,2021-05-13,2021-05-15,NA
+21294,"Ballari",2003812,75,"Female","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-09,2021-05-15,NA
+21328,"Ballari",2066366,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-13,2021-05-15,NA
+21343,"Ballari",2078636,73,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-11,2021-05-12,2021-05-15,NA
+21344,"Ballari",2078697,32,"Female","SARI","Fever, Cough","-",2021-05-13,2021-05-13,2021-05-15,NA
+21457,"Ballari",1249588,59,"Male","ILI","Fever, Cough","DM, HTN",2021-04-21,2021-05-15,2021-05-16,NA
+21527,"Ballari",1552973,70,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-02,2021-05-16,2021-05-16,NA
+21538,"Ballari",1580618,56,"Male","SARI","Cough, Breathlessness","HTN",2021-05-14,2021-05-16,2021-05-16,NA
+21551,"Ballari",1626166,56,"Female","ILI","Cough","-",2021-05-07,2021-05-14,2021-05-16,NA
+21574,"Ballari",1720312,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-05,2021-05-15,2021-05-16,NA
+21575,"Ballari",1732863,62,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-15,2021-05-16,NA
+21589,"Ballari",1786879,73,"Male","SARI","Fever, Breathlessness","HTN",2021-05-06,2021-05-16,2021-05-16,NA
+21590,"Ballari",1799203,34,"Male","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-14,2021-05-16,NA
+21596,"Ballari",1809105,80,"Male","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-13,2021-05-16,NA
+21600,"Ballari",1816781,30,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21602,"Ballari",1820430,45,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-14,2021-05-16,NA
+21613,"Ballari",1869983,47,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-16,NA
+21622,"Ballari",1901773,66,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-14,2021-05-16,NA
+21629,"Ballari",1916394,62,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-15,2021-05-16,NA
+21664,"Ballari",1971061,48,"Male","SARI","Cough, Breathlessness","DM",2021-05-09,2021-05-14,2021-05-16,NA
+21669,"Ballari",1991986,63,"Male","SARI","Cough, Breathlessness","CKD",2021-05-09,2021-05-14,2021-05-16,NA
+21678,"Ballari",2003676,33,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-14,2021-05-16,NA
+21712,"Ballari",2050357,73,"Male","SARI","Breathlessness","DM, HTN",2021-05-10,2021-05-16,2021-05-16,NA
+21742,"Ballari",2085211,73,"Male","SARI","Fever, Breathlessness","DM",2021-05-13,2021-05-13,2021-05-16,NA
+21773,"Ballari",2132137,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-16,NA
+21777,"Ballari",2139639,50,"Female","SARI","Cough, Breathlessness","HTN",2021-05-12,2021-05-13,2021-05-16,NA
+21782,"Ballari",2152691,55,"Female","SARI","Cough, Breathlessness","Hypothyroidism",2021-05-13,2021-05-15,2021-05-16,NA
+21791,"Ballari",2159939,65,"Female","SARI","Fever, Breathlessness","-",2021-05-13,2021-05-16,2021-05-16,NA
+21817,"Ballari",2195329,69,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21818,"Ballari",2196031,60,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-15,2021-05-16,NA
+21822,"Ballari",2203822,38,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-16,2021-05-16,NA
+21867,"Ballari",1253834,65,"Female","SARI","Fever, Cough, Breathlessness","HTN, CKD",2021-04-21,2021-05-16,2021-05-17,NA
+21879,"Ballari",1365238,44,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-24,2021-05-16,2021-05-17,NA
+21896,"Ballari",1454865,61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-27,2021-05-15,2021-05-17,NA
+22002,"Ballari",1738394,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-03,2021-05-15,2021-05-17,NA
+22016,"Ballari",1784619,77,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-05,2021-05-15,2021-05-17,NA
+22035,"Ballari",1842734,75,"Female","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-16,2021-05-17,NA
+22040,"Ballari",1866422,55,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-14,2021-05-17,NA
+22114,"Ballari",2015186,55,"Male","SARI","Fever, Breathlessness","-",2021-05-09,2021-05-15,2021-05-17,NA
+22132,"Ballari",2047620,74,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-15,2021-05-17,NA
+22189,"Ballari",2128771,65,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-16,2021-05-17,NA
+22190,"Ballari",2128895,60,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-17,NA
+22196,"Ballari",2135617,36,"Male","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-15,2021-05-17,NA
+22201,"Ballari",2145196,34,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-16,2021-05-17,NA
+22215,"Ballari",2167375,65,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-16,2021-05-17,NA
+22217,"Ballari",2170332,68,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-17,NA
+22225,"Ballari",2180969,50,"Male","SARI","Breathlessness","DM",2021-05-14,2021-05-16,2021-05-17,NA
+22280,"Ballari",2243481,25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-15,2021-05-17,NA
+22508,"Ballari",1679974,60,"Female","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-16,2021-05-18,NA
+22529,"Ballari",1712410,65,"Female","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-15,2021-05-18,NA
+22564,"Ballari",1844230,68,"Female","SARI","Cough, Breathlessness","DM",2021-05-05,2021-05-16,2021-05-18,NA
+22575,"Ballari",1882722,51,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-16,2021-05-18,NA
+22585,"Ballari",1903421,43,"Male","SARI","Fever, Breathlessness","HTN",2021-05-07,2021-05-18,2021-05-18,NA
+22589,"Ballari",1916496,50,"Male","SARI","Fever, Cough, Breathlessness","DM, CKD",2021-05-13,2021-05-16,2021-05-18,NA
+22611,"Ballari",1964824,85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-16,2021-05-18,NA
+22612,"Ballari",1964907,49,"Male","SARI","Cough, Breathlessness","HTN, CKD",2021-05-08,2021-05-17,2021-05-18,NA
+22631,"Ballari",2015135,39,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-14,2021-05-18,NA
+22637,"Ballari",2029840,70,"Female","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-17,2021-05-18,NA
+22639,"Ballari",2031135,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-18,NA
+22640,"Ballari",2032289,48,"Female","SARI","Cough, Breathlessness","HTN",2021-05-10,2021-05-15,2021-05-18,NA
+22658,"Ballari",2050395,28,"Female","SARI","Fever, Breathlessness","-",2021-05-10,2021-05-17,2021-05-18,NA
+22677,"Ballari",2085277,55,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-11,2021-05-16,2021-05-18,NA
+22699,"Ballari",2118399,65,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-17,2021-05-18,NA
+22705,"Ballari",2128637,35,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-14,2021-05-18,NA
+22720,"Ballari",2145365,49,"Male","SARI","Breathlessness","DM, HTN",2021-05-13,2021-05-16,2021-05-18,NA
+22732,"Ballari",2157757,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-18,NA
+22741,"Ballari",2167378,29,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-17,2021-05-18,NA
+22751,"Ballari",2180916,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-15,2021-05-18,NA
+22752,"Ballari",2180919,48,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-15,2021-05-18,NA
+22758,"Ballari",2190070,61,"Female","SARI","Cough, Breathlessness","HTN",2021-05-15,2021-05-17,2021-05-18,NA
+22773,"Ballari",2206948,31,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-18,NA
+22780,"Ballari",2218978,74,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-16,2021-05-18,NA
+22785,"Ballari",2229288,80,"Female","SARI","Breathlessness","HTN",2021-05-15,2021-05-18,2021-05-18,NA
+22795,"Ballari",2240985,76,"Male","SARI","Fever, Breathlessness","DM",2021-05-17,2021-05-17,2021-05-18,NA
+22812,"Ballari",2260250,70,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-18,2021-05-18,NA
+22813,"Ballari",2260336,38,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-16,2021-05-17,2021-05-18,NA
+22897,"Ballari",1505933,40,"Male","SARI","Cough, Breathlessness","-",2021-05-06,2021-05-17,2021-05-19,NA
+23003,"Ballari",1802493,44,"Male","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-19,2021-05-19,NA
+23019,"Ballari",1851363,50,"Male","SARI","Cough, Breathlessness","HTN",2021-05-14,2021-05-18,2021-05-19,NA
+23041,"Ballari",1903413,48,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-18,2021-05-19,NA
+23047,"Ballari",1923642,44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-18,2021-05-19,NA
+23053,"Ballari",1942888,45,"Female","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-19,2021-05-19,NA
+23082,"Ballari",2020891,70,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-07,2021-05-17,2021-05-19,NA
+23091,"Ballari",2032272,84,"Male","SARI","Fever, Breathlessness","DM",2021-05-10,2021-05-18,2021-05-19,NA
+23096,"Ballari",2039226,51,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-18,2021-05-19,NA
+23102,"Ballari",2053350,70,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-18,2021-05-19,NA
+23103,"Ballari",2053368,29,"Female","SARI","Fever, Breathlessness","-",2021-05-11,2021-05-19,2021-05-19,NA
+23126,"Ballari",2085221,65,"Female","SARI","Fever, Breathlessness","-",2021-05-12,2021-05-17,2021-05-19,NA
+23173,"Ballari",2149910,42,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-18,2021-05-19,NA
+23190,"Ballari",2164618,45,"Female","SARI","Cough, Breathlessness","DM",2021-05-13,2021-05-17,2021-05-19,NA
+23193,"Ballari",2167415,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-13,2021-05-16,2021-05-19,NA
+23195,"Ballari",2170386,34,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-16,2021-05-19,NA
+23216,"Ballari",2196032,44,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-18,2021-05-19,NA
+23235,"Ballari",2229294,44,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-18,2021-05-19,NA
+23261,"Ballari",2260081,68,"Male","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-16,2021-05-19,NA
+23269,"Ballari",2270398,61,"Female","SARI","Breathlessness","HTN, CVA",2021-05-15,2021-05-18,2021-05-19,NA
+23271,"Ballari",2271572,52,"Female","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-18,2021-05-19,NA
+23278,"Ballari",2280353,63,"Male","SARI","Cough, Breathlessness","-",2021-05-17,2021-05-19,2021-05-19,NA
+23279,"Ballari",2280361,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-17,2021-05-18,2021-05-19,NA
+23363,"Ballari",1380890,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-05-19,2021-05-20,NA
+23448,"Ballari",1639495,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-01,2021-05-19,2021-05-20,NA
+23558,"Ballari",1903300,65,"Female","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-13,2021-05-19,2021-05-20,NA
+23559,"Ballari",1903368,57,"Female","ILI","Fever, Cough","-",2021-05-07,2021-05-18,2021-05-20,NA
+23575,"Ballari",1952148,50,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-08,2021-05-19,2021-05-20,NA
+23594,"Ballari",1997786,38,"Male","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-16,2021-05-20,NA
+23605,"Ballari",2012209,54,"Male","SARI","Fever, Breathlessness","HTN",2021-05-14,2021-05-19,2021-05-20,NA
+23624,"Ballari",2050352,64,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-19,2021-05-20,NA
+23641,"Ballari",2078734,29,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-19,2021-05-20,NA
+23642,"Ballari",2081894,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-19,2021-05-20,NA
+23690,"Ballari",2139653,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-15,2021-05-20,NA
+23697,"Ballari",2152700,55,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-19,2021-05-20,NA
+23739,"Ballari",2214120,57,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-15,2021-05-20,NA
+23743,"Ballari",2219068,33,"Male","SARI","Cough, Breathlessness","-",2021-05-17,2021-05-20,2021-05-20,NA
+23766,"Ballari",2248963,57,"Female","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23781,"Ballari",2259855,55,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-19,2021-05-20,NA
+23796,"Ballari",2283030,42,"Male","SARI","Cough, Breathlessness","HTN",2021-05-18,2021-05-19,2021-05-20,NA
+23816,"Ballari",2308656,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-17,2021-05-19,2021-05-20,NA
+23830,"Ballari",2327481,38,"Male","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-05-20,NA
+23834,"Ballari",2329668,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-20,NA
+23848,"Ballari",2354367,57,"Female","ILI","Fever, Cough","DM, HTN",2021-05-19,2021-05-19,2021-05-20,NA
+23851,"Ballari",2355886,24,"Female","SARI","Fever, Breathlessness",NA,2021-05-19,2021-05-20,2021-05-20,NA
+23886,"Ballari",1505895,60,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-29,2021-05-21,2021-05-21,NA
+23907,"Ballari",1653736,43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-21,NA
+23917,"Ballari",1720350,46,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-05-20,2021-05-21,NA
+23952,"Ballari",1958309,53,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-10,2021-05-20,2021-05-21,NA
+23974,"Ballari",2020894,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-20,2021-05-21,NA
+23995,"Ballari",2076880,40,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-19,2021-05-21,NA
+23999,"Ballari",2081881,35,"Male","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-20,2021-05-21,NA
+24000,"Ballari",2082008,55,"Female","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-20,2021-05-21,NA
+24013,"Ballari",2106544,62,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-12,2021-05-20,2021-05-21,NA
+24042,"Ballari",2153961,62,"Female","ILI","Fever, Cough","-",2021-05-12,2021-05-21,2021-05-21,NA
+24049,"Ballari",2164596,39,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-21,NA
+24064,"Ballari",2189976,70,"Female","ILI","Fever, Cough","-",2021-05-19,2021-05-19,2021-05-21,NA
+24065,"Ballari",2190110,50,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-19,2021-05-21,NA
+24074,"Ballari",2201049,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-18,2021-05-21,NA
+24081,"Ballari",2219213,62,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-05-21,NA
+24090,"Ballari",2237028,56,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-21,NA
+24096,"Ballari",2241106,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-21,NA
+24105,"Ballari",2248641,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-21,NA
+24115,"Ballari",2260044,72,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-10,2021-05-19,2021-05-21,NA
+24116,"Ballari",2260164,74,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-20,2021-05-21,NA
+24129,"Ballari",2283043,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-20,2021-05-21,NA
+24132,"Ballari",2287748,40,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-19,2021-05-21,NA
+24182,"Ballari",2347809,60,"Male","SARI","Fever, Breathlessness","DM",2021-05-17,2021-05-19,2021-05-21,NA
+24286,"Ballari",1428916,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-26,2021-05-21,2021-05-22,NA
+24447,"Ballari",1901775,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-22,2021-05-22,NA
+24470,"Ballari",2006224,42,"Male","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-21,2021-05-22,NA
+24476,"Ballari",2042034,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-22,2021-05-22,NA
+24479,"Ballari",2050416,42,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-22,2021-05-22,NA
+24504,"Ballari",2152693,63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-20,2021-05-22,2021-05-22,NA
+24513,"Ballari",2164622,52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-15,2021-05-21,2021-05-22,NA
+24522,"Ballari",2185155,59,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-21,2021-05-22,NA
+24529,"Ballari",2203824,32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-22,NA
+24539,"Ballari",2226277,46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-20,2021-05-22,NA
+24548,"Ballari",2248692,62,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-15,2021-05-19,2021-05-22,NA
+24549,"Ballari",2249056,45,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-14,2021-05-22,NA
+24557,"Ballari",2273571,66,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-17,2021-05-20,2021-05-22,NA
+24565,"Ballari",2285095,56,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-19,2021-05-22,NA
+24579,"Ballari",2316865,35,"Male","SARI","Fever, Breathlessness","-",2021-05-17,2021-05-21,2021-05-22,NA
+24589,"Ballari",2331925,65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-22,2021-05-22,NA
+24601,"Ballari",2345561,68,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-21,2021-05-22,NA
+24622,"Ballari",2366152,65,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2021-05-19,2021-05-21,2021-05-22,NA
+24644,"Ballari",2409803,18,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-22,NA
+24674,"Ballari",1250641,67,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-22,2021-05-22,2021-05-23,NA
+24725,"Ballari",1584472,55,"Male","SARI","Fever, Breathlessness","-",2021-04-30,2021-05-11,2021-05-23,NA
+24789,"Ballari",1726821,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-04,2021-05-21,2021-05-23,NA
+25062,"Ballari",2185046,46,"Male","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-22,2021-05-23,NA
+25076,"Ballari",2201065,49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-14,2021-05-23,2021-05-23,NA
+25097,"Ballari",2240935,62,"Male","SARI","Breathlessness","COPD",NA,2021-05-16,2021-05-23,"Died at his residence"
+25108,"Ballari",2248735,40,"Male","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-20,2021-05-23,NA
+25129,"Ballari",2273662,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-21,2021-05-22,2021-05-23,NA
+25152,"Ballari",2300510,46,"Female","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25206,"Ballari",2366119,75,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-22,2021-05-23,NA
+25215,"Ballari",2371105,41,"Male","SARI","Fever, Breathlessness","-",2021-05-20,2021-05-22,2021-05-23,NA
+25221,"Ballari",2380576,42,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-22,2021-05-23,NA
+25223,"Ballari",2382403,41,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25237,"Ballari",2394511,25,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-23,NA
+25249,"Ballari",2404623,42,"Female","SARI","Fever, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25250,"Ballari",2407755,38,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25261,"Ballari",2419861,41,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-22,2021-05-22,2021-05-23,NA
+25265,"Ballari",2425889,53,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-23,NA
+25474,"Ballari",1862694,38,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-23,2021-05-24,NA
+25522,"Ballari",2001536,42,"Female","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-20,2021-05-24,NA
+25525,"Ballari",2012210,40,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-23,2021-05-24,NA
+25529,"Ballari",2032270,80,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-24,2021-05-24,NA
+25536,"Ballari",2059331,48,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN, IHD",2021-05-12,2021-05-23,2021-05-24,NA
+25555,"Ballari",2099207,45,"Female","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-16,2021-05-24,NA
+25569,"Ballari",2145326,50,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-23,2021-05-23,2021-05-24,NA
+25594,"Ballari",2197529,40,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-16,2021-05-23,2021-05-24,NA
+25616,"Ballari",2248715,65,"Female","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-19,2021-05-24,NA
+25628,"Ballari",2260072,65,"Male","ILI","Fever","-",NA,2021-05-17,2021-05-24,"Died at his residence"
+25636,"Ballari",2270411,38,"Female","SARI","Fever, Breathlessness","-",2021-05-16,2021-05-16,2021-05-24,NA
+25642,"Ballari",2282951,60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-21,2021-05-22,2021-05-24,NA
+25685,"Ballari",2338948,62,"Female","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-21,2021-05-24,NA
+25707,"Ballari",2361507,60,"Female","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-20,2021-05-24,NA
+25735,"Ballari",2392767,74,"Female","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-21,2021-05-24,NA
+25737,"Ballari",2402647,75,"Male","SARI","Cough, Breathlessness","DM",2021-05-20,2021-05-23,2021-05-24,NA
+25741,"Ballari",2404621,50,"Female","SARI","Cough, Breathlessness","-",2021-05-19,2021-05-20,2021-05-24,NA
+25775,"Ballari",2442165,62,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-24,NA
+25799,"Ballari",2465583,65,"Female","SARI","Fever, Breathlessness","CKD",2021-05-20,2021-05-23,2021-05-24,NA
+25874,"Ballari",1597968,70,"Female","SARI","Breathlessness","HTN",2021-04-30,2021-05-23,2021-05-25,NA
+26112,"Ballari",2032276,55,"Male","SARI","Fever, Cough, Breathlessness","CKD",2021-05-12,2021-05-18,2021-05-25,NA
+26134,"Ballari",2066626,62,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-24,2021-05-25,NA
+26214,"Ballari",2248534,85,"Male","SARI","Cough, Breathlessness","DM, IHD",2021-05-13,2021-05-25,2021-05-25,NA
+26246,"Ballari",2299257,52,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-05-25,NA
+26253,"Ballari",2311190,59,"Female","SARI","Fever, Breathlessness","HTN",2021-05-23,2021-05-25,2021-05-25,NA
+26264,"Ballari",2329666,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-23,2021-05-25,NA
+26268,"Ballari",2332019,53,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-18,2021-05-23,2021-05-25,NA
+26282,"Ballari",2363630,85,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-20,2021-05-24,2021-05-25,NA
+26286,"Ballari",2368830,60,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-23,2021-05-25,NA
+26293,"Ballari",2373686,60,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-19,2021-05-23,2021-05-25,NA
+26308,"Ballari",2392776,55,"Female","SARI","Cough, Breathlessness","-",2021-05-20,2021-05-23,2021-05-25,NA
+26322,"Ballari",2407597,29,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-24,2021-05-25,NA
+26348,"Ballari",2434185,52,"Female","SARI","Breathlessness","-",2021-05-21,2021-05-24,2021-05-25,NA
+26351,"Ballari",2437654,56,"Male","SARI","Fever, Cough, Breathlessness","DM, CLD",2021-05-23,2021-05-24,2021-05-25,NA
+26362,"Ballari",2465632,47,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-25,NA
+26367,"Ballari",2472928,52,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-24,2021-05-25,NA
+26381,"Ballari",2481604,66,"Male","SARI","Cough, Breathlessness","DM",2021-05-23,2021-05-24,2021-05-25,NA
+26399,"Ballari",2502511,81,"Male","SARI","Breathlessness","DM,  HTN, IHD",2021-05-24,2021-05-24,2021-05-25,NA
+26400,"Ballari",2503049,72,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-05-24,2021-05-25,NA
+26675,"Ballari",2001518,58,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-12,2021-05-26,NA
+26676,"Ballari",2001527,42,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-14,2021-05-26,NA
+26700,"Ballari",2056375,47,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26708,"Ballari",2085547,60,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-13,2021-05-26,NA
+26711,"Ballari",2099206,48,"Male","SARI","Breathlessness","-",2021-05-11,2021-05-11,2021-05-26,NA
+26727,"Ballari",2139485,50,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-12,2021-05-26,NA
+26767,"Ballari",2273562,62,"Female","SARI","Cough, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26772,"Ballari",2283047,75,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-25,2021-05-26,NA
+26781,"Ballari",2306974,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-26,2021-05-26,NA
+26785,"Ballari",2311133,31,"Female","SARI","Cough, Breathlessness","-",2021-05-22,2021-05-25,2021-05-26,NA
+26796,"Ballari",2329639,52,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26802,"Ballari",2342884,44,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-25,2021-05-26,NA
+26810,"Ballari",2361527,70,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-25,2021-05-26,NA
+26829,"Ballari",2391929,45,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+26833,"Ballari",2396414,75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-25,2021-05-26,NA
+26853,"Ballari",2429355,36,"Female","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-24,2021-05-26,NA
+26854,"Ballari",2429370,62,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-26,2021-05-26,NA
+26875,"Ballari",2467433,38,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-24,2021-05-26,NA
+26879,"Ballari",2472664,98,"Male","ILI","Fever, Cough","DM",2021-05-22,2021-05-24,2021-05-26,NA
+26918,"Ballari",2512716,67,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+26922,"Ballari",2519759,61,"Male","SARI","Breathlessness","HTN",2021-05-21,2021-05-25,2021-05-26,NA
+26929,"Ballari",2528877,75,"Male","SARI","Breathlessness","DM",2021-05-25,2021-05-25,2021-05-26,NA
+27034,"Ballari",1862703,65,"Female","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-26,2021-05-27,NA
+27143,"Ballari",2142706,60,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-05-27,NA
+27155,"Ballari",2185089,76,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-27,NA
+27156,"Ballari",2189923,45,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-15,2021-05-26,2021-05-27,NA
+27157,"Ballari",2192635,60,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-27,NA
+27178,"Ballari",2219051,65,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-14,2021-05-27,NA
+27179,"Ballari",2226302,40,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-14,2021-05-27,NA
+27180,"Ballari",2226405,60,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-27,NA
+27181,"Ballari",2227866,50,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-14,2021-05-27,NA
+27182,"Ballari",2227870,50,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-27,NA
+27196,"Ballari",2248706,55,"Male","ILI","Fever, cough","-",2021-05-15,2021-05-26,2021-05-27,NA
+27259,"Ballari",2334455,52,"Male","ILI","Fever, cough","-",2021-05-19,2021-05-27,2021-05-27,NA
+27294,"Ballari",2396457,43,"Male","SARI","Breathlessness","-",2021-05-26,2021-05-27,2021-05-27,NA
+27299,"Ballari",2404890,36,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-27,2021-05-27,NA
+27302,"Ballari",2407700,56,"Male","ILI","Fever, cough","-",2021-05-20,2021-05-26,2021-05-27,NA
+27344,"Ballari",2457867,85,"Female","ILI","Fever, cough","-",2021-05-22,2021-05-26,2021-05-27,NA
+27350,"Ballari",2461468,22,"Female","SARI","Cough, Breathlessness","-",2021-05-24,2021-05-26,2021-05-27,NA
+27355,"Ballari",2472910,54,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-27,2021-05-27,NA
+27366,"Ballari",2484389,55,"Male","SARI","Cough, Breathlessness","CKD",2021-05-25,2021-05-27,2021-05-27,NA
+27388,"Ballari",2514350,27,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-26,2021-05-27,NA
+27391,"Ballari",2519790,60,"Male","ILI","Fever, cough","CKD",2021-05-24,2021-05-26,2021-05-27,NA
+27400,"Ballari",2531587,37,"Female","SARI","Fever, cough, breathlessness","HTN",2021-05-26,2021-05-26,2021-05-27,NA
+27422,"Ballari",1777326,54,"Male","SARI","Cough, Breathlessness","HTN",2021-05-08,2021-05-27,2021-05-28,NA
+27449,"Ballari",1993886,49,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-27,2021-05-28,NA
+27454,"Ballari",2017962,55,"Female","ILI","Fever, Cough","-",2021-05-10,2021-05-27,2021-05-28,NA
+27475,"Ballari",2066574,38,"Male","SARI","Breathlessness","DM",2021-05-08,2021-05-19,2021-05-28,NA
+27594,"Ballari",2248803,67,"Male","SARI","Breathlessness","-",2021-05-18,2021-05-26,2021-05-28,NA
+27598,"Ballari",2259836,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-27,2021-05-28,NA
+27608,"Ballari",2283075,58,"Male","ILI","Fever, Cough","-",2021-05-18,2021-05-26,2021-05-28,NA
+27627,"Ballari",2308773,84,"Male","SARI","Cough, Breathlessness","DM, IHD",2021-05-18,2021-05-27,2021-05-28,NA
+27667,"Ballari",2368823,85,"Female","SARI","Cough, Breathlessness","HTN",2021-05-17,2021-05-27,2021-05-28,NA
+27701,"Ballari",2440128,80,"Male","ILI","Fever, Cough","-",2021-05-21,2021-05-27,2021-05-28,NA
+27719,"Ballari",2472692,70,"Male","ILI","Fever, Cough","-",2021-05-22,2021-05-27,2021-05-28,NA
+27720,"Ballari",2472866,41,"Male","SARI","Cough, Breathlessness","-",2021-05-25,2021-05-27,2021-05-28,NA
+27730,"Ballari",2481605,85,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-28,2021-05-28,NA
+27734,"Ballari",2497533,60,"Male","SARI","Breathlessness","DM",2021-05-24,2021-05-26,2021-05-28,NA
+27744,"Ballari",2504226,60,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-24,2021-05-27,2021-05-28,NA
+27763,"Ballari",2526962,42,"Male","SARI","Cough, Breathlessness","CRF",2021-05-26,2021-05-27,2021-05-28,NA
+27764,"Ballari",2528846,28,"Male","SARI","Breathlessness","CVA",2021-05-26,2021-05-27,2021-05-28,NA
+27995,"Ballari",2233056,40,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-28,2021-05-29,NA
+28048,"Ballari",2314565,66,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-18,2021-05-28,2021-05-29,NA
+28051,"Ballari",2321711,49,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-17,2021-05-29,2021-05-29,NA
+28098,"Ballari",2376448,32,"Male","SARI","Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-05-29,NA
+28102,"Ballari",2378313,42,"Male","SARI","Fever, Breathlessness","-",2021-05-23,2021-05-28,2021-05-29,NA
+28118,"Ballari",2404895,62,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-21,2021-05-28,2021-05-29,NA
+28148,"Ballari",2437834,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-21,2021-05-28,2021-05-29,NA
+28193,"Ballari",2486281,40,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-29,2021-05-29,NA
+28216,"Ballari",2505802,62,"Male","ILI","Fever","CVA",2021-05-25,2021-05-28,2021-05-29,NA
+28236,"Ballari",2523819,37,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-27,2021-05-28,2021-05-29,NA
+28240,"Ballari",2526975,73,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-26,2021-05-27,2021-05-29,NA
+28266,"Ballari",2552806,71,"Female","SARI","Cough, Breathlessness","-",2021-05-29,2021-05-29,2021-05-29,NA
+28283,"Ballari",2579641,56,"Female","SARI","Cough, Breathlessness","-",2021-05-27,2021-05-27,2021-05-29,NA
+28284,"Ballari",2581402,61,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-26,2021-05-28,2021-05-29,NA
+28523,"Ballari",2378319,43,"Female","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-29,2021-05-30,NA
+28524,"Ballari",2383711,48,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-20,2021-05-29,2021-05-30,NA
+28529,"Ballari",2387307,51,"Male","SARI","Cough, Breathlessness","-",2021-05-25,2021-05-30,2021-05-30,NA
+28556,"Ballari",2416018,52,"Male","SARI","Breathlessness","-",2021-05-29,2021-05-29,2021-05-30,NA
+28573,"Ballari",2429333,36,"Female","SARI","Cough, Breathlessness","-",2021-05-23,2021-05-29,2021-05-30,NA
+28586,"Ballari",2461546,50,"Female","ILI","Fever, Cough","-",2021-05-26,2021-05-30,2021-05-30,NA
+28620,"Ballari",2517572,55,"Female","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-30,2021-05-30,NA
+28633,"Ballari",2537247,68,"Male","SARI","Cough, Breathlessness","-",2021-05-25,2021-05-29,2021-05-30,NA
+28658,"Ballari",2582995,78,"Male","SARI","Breathlessness","-",2021-05-28,2021-05-29,2021-05-30,NA
+28659,"Ballari",2583073,36,"Female","SARI","Cough, Breathlessness","-",2021-05-27,2021-05-29,2021-05-30,NA
+28676,"Ballari",2610294,45,"Female","ILI","Fever","-",2021-05-29,2021-05-30,2021-05-30,NA
+28677,"Ballari",2611131,45,"Female","SARI","Fever, Breathlessness","-",2021-05-28,2021-05-28,2021-05-30,NA
+28683,"Ballari",2631636,80,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-29,2021-05-30,NA
+28933,"Ballari",2352736,44,"Female","ILI","Cough","-",2021-05-18,2021-05-30,2021-05-31,NA
+28969,"Ballari",2463722,36,"Male","SARI","Cough, Breathlessness","-",2021-05-30,2021-05-30,2021-05-31,NA
+28970,"Ballari",2463730,52,"Male","SARI","Fever, Cough","DM",2021-05-22,2021-05-31,2021-05-31,NA
+28980,"Ballari",2480476,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-23,2021-05-31,2021-05-31,NA
+28990,"Ballari",2492064,40,"Male","SARI","Breathlessness","-",2021-05-23,2021-05-30,2021-05-31,NA
+29000,"Ballari",2515763,60,"Female","SARI","Cough, Breathlessness","HTN",2021-05-25,2021-05-30,2021-05-31,NA
+29004,"Ballari",2519114,42,"Female","SARI","Breathlessness","-",2021-05-29,2021-05-30,2021-05-31,NA
+29078,"Ballari",2619565,61,"Male","SARI","Breathlessness","DM",2021-05-30,2021-05-30,2021-05-31,NA
+29170,"Ballari",1570171,32,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-08,2021-06-01,2021-06-01,NA
+29367,"Ballari",2287869,33,"Female","SARI","Cough, Breathlessness","DM, CVA",2021-05-29,2021-06-01,2021-06-01,NA
+29371,"Ballari",2300561,35,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-31,2021-06-01,NA
+29385,"Ballari",2363637,70,"Female","SARI","Cough, Breathlessness","-",2021-05-24,2021-05-31,2021-06-01,NA
+29399,"Ballari",2383716,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-25,2021-05-27,2021-06-01,NA
+29433,"Ballari",2469032,76,"Male","SARI","Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-01,NA
+29435,"Ballari",2472660,54,"Female","SARI","Breathlessness","-",2021-05-24,2021-05-31,2021-06-01,NA
+29455,"Ballari",2507371,57,"Female","SARI","Breathlessness","-",2021-05-31,2021-06-01,2021-06-01,NA
+29461,"Ballari",2512717,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-25,2021-05-31,2021-06-01,NA
+29476,"Ballari",2531596,32,"Male","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-31,2021-06-01,NA
+29544,"Ballari",2638808,61,"Female","SARI","Breathlessness","DM, HTN",2021-05-30,2021-05-30,2021-06-01,NA
+29547,"Ballari",2642688,58,"Female","SARI","Cough, Breathlessness","-",2021-05-30,2021-05-30,2021-06-01,NA
+29548,"Ballari",2642741,55,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-31,2021-06-01,2021-06-01,NA
+29558,"Ballari",2660075,65,"Female","SARI","Breathlessness","-",2021-05-31,2021-05-31,2021-06-01,NA
+29793,"Ballari",2260274,70,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-02,2021-06-02,NA
+29840,"Ballari",2404624,60,"Male","SARI","Breathlessness","DM, HTN",2021-05-30,2021-06-02,2021-06-02,NA
+29881,"Ballari",2486381,65,"Male","SARI","Breathlessness","DM, HTN",2021-05-30,2021-05-30,2021-06-02,NA
+29888,"Ballari",2492095,75,"Male","ILI","Fever, Cough","DM, HTN",2021-05-30,2021-06-01,2021-06-02,NA
+29949,"Ballari",2585048,80,"Male","SARI","Breathlessness","DM",2021-06-01,2021-06-02,2021-06-02,NA
+29958,"Ballari",2604509,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-02,NA
+30013,"Ballari",2674878,50,"Female","SARI","Breathlessness","-",2021-06-01,2021-06-02,2021-06-02,NA
+30015,"Ballari",2676360,60,"Male","SARI","Cough, Breathlessness","-",2021-05-30,2021-05-31,2021-06-02,NA
+30384,"Ballari",2519789,68,"Male","SARI","Breathlessness","-",2021-05-30,2021-06-01,2021-06-03,NA
+30386,"Ballari",2520382,48,"Male","ILI","Fever, Cough","HTN",2021-05-25,2021-06-03,2021-06-03,NA
+30398,"Ballari",2526967,33,"Male","SARI","Cough, Breathlessness","-",2021-06-01,2021-06-01,2021-06-03,NA
+30406,"Ballari",2540417,24,"Female","SARI","Breathlessness","-",2021-05-25,2021-06-02,2021-06-03,NA
+30430,"Ballari",2579667,75,"Female","SARI","Breathlessness","HTN",2021-05-29,2021-06-01,2021-06-03,NA
+30528,"Ballari",2684591,80,"Male","SARI","Cough, Breathlessness","-",2021-06-01,2021-06-02,2021-06-03,NA
+30531,"Ballari",2690484,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-02,2021-06-02,2021-06-03,NA
+30699,"Ballari",2319370,66,"Male","SARI","Breathlessness","-",2021-05-17,2021-06-03,2021-06-04,NA
+30791,"Ballari",2554951,76,"Female","ILI","Fever, Cough","-",2021-05-25,2021-06-02,2021-06-04,NA
+30792,"Ballari",2555044,46,"Male","SARI","Breathlessness","DM, CLD",2021-05-26,2021-06-04,2021-06-04,NA
+30796,"Ballari",2558237,42,"Male","SARI","Cough, Breathlessness","-",2021-05-25,2021-06-03,2021-06-04,NA
+30798,"Ballari",2563497,75,"Female","ILI","Fever, Cough","DM",2021-05-27,2021-06-01,2021-06-04,NA
+30823,"Ballari",2604423,29,"Female","SARI","Breathlessness","-",2021-06-01,2021-06-01,2021-06-04,NA
+30844,"Ballari",2642687,40,"Male","SARI","Breathlessness","HTN",2021-06-03,2021-06-03,2021-06-04,NA
+30892,"Ballari",2695771,45,"Male","SARI","Breathlessness","DM",2021-06-01,2021-06-02,2021-06-04,NA
+31078,"Ballari",2380667,58,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-05-29,2021-06-04,2021-06-05,NA
+31132,"Ballari",2507333,41,"Female","ILI","Cough","-",2021-05-25,2021-06-04,2021-06-05,NA
+31136,"Ballari",2512709,27,"Female","SARI","Cough, Breathlessness","CHD",2021-06-03,2021-06-04,2021-06-05,NA
+31164,"Ballari",2577580,45,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-05,2021-06-05,NA
+31165,"Ballari",2579673,59,"Male","SARI","Breathlessness","HTN",2021-05-27,2021-06-04,2021-06-05,NA
+31183,"Ballari",2617950,70,"Female","SARI","Breathlessness","CKD",2021-06-03,2021-06-05,2021-06-05,NA
+31218,"Ballari",2663353,68,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-06-02,2021-06-04,2021-06-05,NA
+31227,"Ballari",2672232,80,"Female","SARI","Cough, Breathlessness","HTN",2021-06-01,2021-06-04,2021-06-05,NA
+31250,"Ballari",2702359,58,"Female","SARI","Breathlessness","DM",2021-06-03,2021-06-03,2021-06-05,NA
+31471,"Ballari",2519791,76,"Male","SARI","Breathlessness","DM, HTN",2021-05-24,2021-06-06,2021-06-06,NA
+31516,"Ballari",2636604,61,"Female","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-04,2021-06-06,NA
+31518,"Ballari",2638814,38,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-04,2021-06-05,2021-06-06,NA
+31521,"Ballari",2653725,46,"Female","SARI","Breathlessness","DM, HTN",2021-05-31,2021-06-06,2021-06-06,NA
+31532,"Ballari",2672187,56,"Female","SARI","Cough, Breathlessness","DM, IHD",2021-06-02,2021-06-06,2021-06-06,NA
+31545,"Ballari",2693599,60,"Male","SARI","Breathlessness","-",2021-06-03,2021-06-03,2021-06-06,NA
+31743,"Ballari",2437711,49,"Male","SARI","Cough, Breathlessness","-",2021-05-30,2021-06-06,2021-06-07,NA
+31772,"Ballari",2521669,62,"Female","SARI","Breathlessness","DM",2021-05-28,2021-06-06,2021-06-07,NA
+31832,"Ballari",2638811,60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-06,2021-06-07,NA
+31836,"Ballari",2642768,60,"Male","SARI","Breathlessness","-",2021-06-02,2021-06-07,2021-06-07,NA
+31837,"Ballari",2642804,60,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-30,2021-06-05,2021-06-07,NA
+31842,"Ballari",2655056,55,"Female","ILI","Fever","-",2021-06-04,2021-06-07,2021-06-07,NA
+31891,"Ballari",2705535,60,"Male","SARI","Breathlessness","HTN",2021-06-03,2021-06-05,2021-06-07,NA
+31901,"Ballari",2719021,68,"Female","ILI","Fever","-",2021-06-04,2021-06-04,2021-06-07,NA
+31903,"Ballari",2720737,43,"Female","SARI","Breathlessness","-",2021-06-04,2021-06-07,2021-06-07,NA
+32007,"Ballari",2619577,44,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-06-07,2021-06-08,NA
+32054,"Ballari",2702353,50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-03,2021-06-08,2021-06-08,NA
+32075,"Ballari",2727325,45,"Female","SARI","Cough, Breathlessness","-",2021-06-05,2021-06-07,2021-06-08,NA
+32103,"Ballari",2752306,35,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-07,2021-06-07,2021-06-08,NA
+32118,"Ballari",2287765,14,"Female","SARI","Breathlessness","-",2021-05-15,2021-05-19,2021-06-09,NA
+32133,"Ballari",2449989,75,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-09,2021-06-09,2021-06-09,NA
+32151,"Ballari",2555026,43,"Male","ILI","Cough","-",2021-05-25,2021-06-07,2021-06-09,NA
+32155,"Ballari",2558342,62,"Male","ILI","Fever","DM",2021-06-04,2021-06-09,2021-06-09,NA
+32168,"Ballari",2597314,51,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-29,2021-06-08,2021-06-09,NA
+32171,"Ballari",2604456,60,"Female","ILI","Fever","DM, HTN",2021-05-27,2021-06-08,2021-06-09,NA
+32190,"Ballari",2637311,48,"Male","SARI","Breathlessness","DM,  HTN, CKD",2021-05-30,2021-06-07,2021-06-09,NA
+32224,"Ballari",2691873,74,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-09,2021-06-09,NA
+32226,"Ballari",2695823,25,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-03,2021-06-08,2021-06-09,NA
+32246,"Ballari",2724810,60,"Male","SARI","Fever, Breathlessness","-",2021-06-05,2021-06-08,2021-06-09,NA
+32256,"Ballari",2731959,38,"Female","SARI","Cough, Breathlessness","-",2021-06-05,2021-06-09,2021-06-09,NA
+32382,"Ballari",2652321,50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-08,2021-06-10,NA
+32393,"Ballari",2672190,50,"Male","SARI","Breathlessness","DM",2021-06-09,2021-06-09,2021-06-10,NA
+32395,"Ballari",2673146,75,"Female","SARI","Fever, Cough, Breathlessness","COPD",2021-06-02,2021-06-08,2021-06-10,NA
+32401,"Ballari",2680436,43,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-06-05,2021-06-09,2021-06-10,NA
+32446,"Ballari",2730807,45,"Female","SARI","Cough, Breathlessness","-",2021-06-08,2021-06-08,2021-06-10,NA
+32493,"Ballari",2214145,50,"Male","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-27,2021-06-11,NA
+32494,"Ballari",2219282,55,"Female","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-19,2021-06-11,NA
+32495,"Ballari",2248523,60,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-29,2021-06-11,NA
+32496,"Ballari",2248687,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-28,2021-06-11,NA
+32497,"Ballari",2249164,67,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-06-11,NA
+32587,"Ballari",2707838,94,"Female","SARI","Cough, Breathlessness","-",2021-06-06,2021-06-10,2021-06-11,NA
+32590,"Ballari",2717233,35,"Female","SARI","Cough, Breathlessness","-",2021-06-04,2021-06-09,2021-06-11,NA
+32625,"Ballari",2762398,53,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-08,2021-06-11,2021-06-11,NA
+32649,"Ballari",2788515,35,"Male","SARI","Breathlessness","-",2021-06-10,2021-06-11,2021-06-11,NA
+32655,"Ballari",2240945,48,"Male","ILI","Cough","-",2021-04-22,2021-05-17,2021-06-12,NA
+32656,"Ballari",2241061,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-15,2021-05-25,2021-06-12,NA
+32657,"Ballari",2248530,51,"Male","ILI","Fever, Cough","-",2021-05-16,2021-05-30,2021-06-12,NA
+32663,"Ballari",2371198,56,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-01,2021-06-12,2021-06-12,NA
+32714,"Ballari",2674864,65,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-11,2021-06-12,NA
+32736,"Ballari",2714294,32,"Female","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-11,2021-06-12,NA
+32750,"Ballari",2730794,58,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",NA,2021-06-11,2021-06-12,"Died at his residence"
+32782,"Ballari",2786595,92,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-11,2021-06-11,2021-06-12,NA
+32793,"Ballari",2797426,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-12,2021-06-12,2021-06-12,NA
+32797,"Ballari",1958181,41,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-06-13,NA
+32799,"Ballari",2170345,65,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-15,2021-06-13,NA
+32800,"Ballari",2178244,76,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-13,2021-05-17,2021-06-13,NA
+32801,"Ballari",2181007,67,"Male","ILI","Fever","DM",NA,2021-05-17,2021-06-13,"Died at his residence"
+32827,"Ballari",2622956,60,"Female","ILI","Cough","DM, HTN",2021-06-03,2021-06-08,2021-06-13,NA
+32843,"Ballari",2680384,45,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-01,2021-06-13,NA
+32863,"Ballari",2730810,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-06-05,2021-06-13,2021-06-13,NA
+32920,"Ballari",2135643,56,"Male","SARI","Fever, Breathlessness","HTN, CHD",2021-05-08,2021-05-23,2021-06-14,NA
+32921,"Ballari",2214127,55,"Male","ILI","Fever","CKD",2021-05-18,2021-05-22,2021-06-14,NA
+32922,"Ballari",2219099,78,"Male","ILI","Fever","DM",2021-05-15,2021-05-20,2021-06-14,NA
+32923,"Ballari",2248504,60,"Male","SARI","Fever, Breathlessness","DM",2021-05-12,2021-05-20,2021-06-14,NA
+32941,"Ballari",2589843,57,"Male","SARI","Breathlessness","DM",2021-05-27,2021-06-13,2021-06-14,NA
+32942,"Ballari",2617953,46,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-29,2021-06-14,2021-06-14,NA
+33040,"Ballari",2012213,68,"Male","ILI","Fever","DM",2021-05-09,2021-05-09,2021-06-15,NA
+33041,"Ballari",2015193,75,"Female","ILI","Fever","-",2021-05-13,2021-05-14,2021-06-15,NA
+33045,"Ballari",2519051,76,"Female","SARI","Breathlessness","-",2021-05-25,2021-06-08,2021-06-15,NA
+33060,"Ballari",2631280,61,"Male","SARI","Breathlessness","DM, HTN",2021-06-03,2021-06-14,2021-06-15,NA
+33075,"Ballari",2698200,70,"Female","SARI","Breathlessness","-",2021-06-06,2021-06-14,2021-06-15,NA
+33166,"Ballari",2575833,65,"Female","SARI","Fever, Breathlessness","-",2021-06-07,2021-06-14,2021-06-16,NA
+33178,"Ballari",2663368,73,"Male","ILI","Fever","DM, HTN",2021-06-07,2021-06-09,2021-06-16,NA
+33181,"Ballari",2670696,38,"Male","SARI","Cough, Breathlessness","-",2021-06-04,2021-06-07,2021-06-16,NA
+33192,"Ballari",2688934,85,"Male","ILI","Fever","-",2021-06-04,2021-06-06,2021-06-16,NA
+33252,"Ballari",2767340,40,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-11,2021-06-15,2021-06-16,NA
+33269,"Ballari",2788511,55,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-11,2021-06-14,2021-06-16,NA
+33284,"Ballari",2810237,45,"Female","ILI","Fever","DM",2021-06-13,2021-06-15,2021-06-16,NA
+33354,"Ballari",2693565,38,"Female","SARI","Breathlessness","-",2021-06-02,2021-06-16,2021-06-17,NA
+33406,"Ballari",2795421,58,"Female","SARI","Breathlessness","DM",2021-06-12,2021-06-16,2021-06-17,NA
+33407,"Ballari",2795446,55,"Female","SARI","Breathlessness","-",2021-06-11,2021-06-17,2021-06-17,NA
+33413,"Ballari",2802119,50,"Male","SARI","Breathlessness","DM, HTN",2021-06-12,2021-06-16,2021-06-17,NA
+33416,"Ballari",2804897,54,"Male","SARI","Breathlessness","DM, HTN",2021-06-15,2021-06-16,2021-06-17,NA
+33439,"Ballari",1412519,68,"Male","SARI","Breathlessness","IHD",2021-04-28,2021-05-01,2021-06-18,NA
+33444,"Ballari",2218987,52,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-24,2021-06-17,2021-06-18,NA
+33447,"Ballari",2394494,68,"Female","SARI","Breathlessness","DM, COPD",2021-05-25,2021-05-28,2021-06-18,NA
+33458,"Ballari",2531578,40,"Female","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-28,2021-06-18,NA
+33474,"Ballari",2638822,62,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-06,2021-06-17,2021-06-18,NA
+33479,"Ballari",2656767,54,"Male","SARI","Breathlessness","HTN, CKD",2021-06-09,2021-06-17,2021-06-18,NA
+33490,"Ballari",2688932,78,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-02,2021-06-02,2021-06-18,NA
+33495,"Ballari",2695788,40,"Male","SARI","Cough, Breathlessness","-",2021-06-04,2021-06-18,2021-06-18,NA
+33497,"Ballari",2696244,65,"Male","SARI","Fever, Cough, Breathlessness","IHD",2021-06-03,2021-06-07,2021-06-18,NA
+33507,"Ballari",2734372,55,"Female","SARI","Breathlessness","DM",2021-06-10,2021-06-17,2021-06-18,NA
+33516,"Ballari",2748305,58,"Male","SARI","Cough, Breathlessness","-",2021-06-07,2021-06-17,2021-06-18,NA
+33528,"Ballari",2759553,63,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-06-08,2021-06-18,2021-06-18,NA
+33557,"Ballari",2802112,27,"Male","SARI","Cough, Breathlessness","-",2021-06-14,2021-06-18,2021-06-18,NA
+33592,"Ballari",2836006,59,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-16,2021-06-18,NA
+33607,"Ballari",1216064,56,"Male","SARI","Cough, Breathlessness","-",2021-04-17,2021-04-23,2021-06-19,NA
+33608,"Ballari",1251493,70,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-25,2021-06-19,NA
+33609,"Ballari",1591321,59,"Male","SARI","Cough, Breathlessness","HTN",2021-04-30,2021-05-17,2021-06-19,NA
+33610,"Ballari",1636139,75,"Male","SARI","Breathlessness","DM, HTN",2021-05-02,2021-05-03,2021-06-19,NA
+33611,"Ballari",1786766,60,"Male","SARI","Cough, Breathlessness","DM, HTN, CKD",2021-05-07,2021-05-11,2021-06-19,NA
+33612,"Ballari",1950197,68,"Male","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-11,2021-06-19,NA
+33613,"Ballari",2218998,56,"Male","SARI","Breathlessness","CKD",2021-05-19,2021-05-23,2021-06-19,NA
+33628,"Ballari",2574271,65,"Female","SARI","Fever, Breathlessness","DM",2021-05-27,2021-06-03,2021-06-19,NA
+33698,"Ballari",2800876,65,"Male","SARI","Breathlessness","DM,  HTN, CKD",2021-06-12,2021-06-18,2021-06-19,NA
+33734,"Ballari",2826021,43,"Male","SARI","Breathlessness","-",2021-06-18,2021-06-18,2021-06-19,NA
+33768,"Ballari",1355047,55,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-28,2021-06-20,NA
+33769,"Ballari",1502788,53,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-06,2021-05-11,2021-06-20,NA
+33770,"Ballari",2003693,65,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-15,2021-06-20,NA
+33772,"Ballari",2327488,54,"Female","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-18,2021-06-20,NA
+33773,"Ballari",2331950,83,"Male","ILI","Cough","-",2021-05-29,2021-05-30,2021-06-20,NA
+33774,"Ballari",2352739,52,"Male","ILI","Cough","-",2021-05-16,2021-05-22,2021-06-20,NA
+33779,"Ballari",2484407,57,"Female","SARI","Breathlessness","HTN",2021-05-14,2021-05-26,2021-06-20,NA
+33784,"Ballari",2558346,63,"Male","SARI","Cough, Breathlessness","-",2021-05-25,2021-05-31,2021-06-20,NA
+33787,"Ballari",2602869,56,"Male","SARI","Cough, Breathlessness","DM",2021-05-28,2021-06-08,2021-06-20,NA
+33793,"Ballari",2655052,44,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-06-20,NA
+33794,"Ballari",2660079,60,"Male","SARI","Fever, Breathlessness","-",2021-06-10,2021-06-20,2021-06-20,NA
+33822,"Ballari",2764017,70,"Female","SARI","Breathlessness","-",2021-06-19,2021-06-20,2021-06-20,NA
+33888,"Ballari",1300316,52,"Male","SARI","Breathlessness","DM",2021-04-21,2021-04-22,2021-06-21,NA
+33889,"Ballari",1696040,67,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-08,2021-06-21,NA
+33890,"Ballari",1812737,60,"Female","SARI","Breathlessness","DM, HTN",2021-05-03,2021-05-03,2021-06-21,NA
+33891,"Ballari",2237029,60,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-15,2021-06-21,NA
+33893,"Ballari",2324374,62,"Male","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-27,2021-06-21,NA
+33894,"Ballari",2329686,65,"Female","SARI","Cough, Breathlessness","-",2021-05-19,2021-05-26,2021-06-21,NA
+33897,"Ballari",2378250,75,"Female","SARI","Cough, Breathlessness","Hypo thyroidism",2021-05-20,2021-05-24,2021-06-21,NA
+33907,"Ballari",2507386,55,"Male","SARI","Fever, Breathlesness","DM, HTN",2021-05-24,2021-05-24,2021-06-21,NA
+33913,"Ballari",2579714,54,"Female","SARI","Cough, Breathlessness","DM",2021-05-28,2021-05-29,2021-06-21,NA
+33918,"Ballari",2604454,40,"Male","SARI","Cough, Breathlessness","DM",2021-05-26,2021-05-31,2021-06-21,NA
+33955,"Ballari",2727272,35,"Female","SARI","Breathlessness","-",2021-06-04,2021-06-09,2021-06-21,NA
+33983,"Ballari",2799250,48,"Male","ILI","Cough","HTN, CKD",NA,2021-06-17,2021-06-21,"Died at his residence"
+34036,"Ballari",2461605,85,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-22,2021-06-22,"Died at her residence"
+34041,"Ballari",2558236,65,"Male","ILI","Fever","DM, HTN",NA,2021-05-29,2021-06-22,"Died at his residence"
+34042,"Ballari",2558272,71,"Male","ILI","Fever, Cough","DM, HTN",NA,2021-05-25,2021-06-22,"Died at her residence"
+34054,"Ballari",2657922,40,"Female","ILI","Fever","DM, HTN",NA,2021-06-05,2021-06-22,"Died at her residence"
+34088,"Ballari",2778938,97,"Male","SARI","Breathlessness","-",2021-06-20,2021-06-21,2021-06-22,NA
+34128,"Ballari",2828365,68,"Male","SARI","Breathlessness","-",2021-06-16,2021-06-19,2021-06-22,NA
+34136,"Ballari",2839272,69,"Male","ILI","Fever","DM, HTN",2021-06-20,2021-06-21,2021-06-22,NA
+34170,"Ballari",1878362,91,"Male","ILI","Fever","DM",NA,2021-05-06,2021-06-23,"Died at his residence"
+34171,"Ballari",1937994,69,"Male","SARI","Cough, Breathlessness","DM",2021-05-05,2021-05-09,2021-06-23,NA
+34172,"Ballari",1993045,45,"Female","SARI","Cough, Breathlessness","-",NA,2021-05-10,2021-06-23,"Died at her residence"
+34173,"Ballari",2161688,65,"Male","ILI","Fever","-",NA,2021-05-12,2021-06-23,"Died at his residence"
+34178,"Ballari",2366165,34,"Male","ILI","Fever, Cough","-",NA,2021-05-25,2021-06-23,"Died at his residence"
+34197,"Ballari",2656679,57,"Female","SARI","Cough, Breathlessness","-",2021-06-08,2021-06-23,2021-06-23,NA
+34216,"Ballari",2706745,40,"Male","SARI","Cough, Breathlessness","-",NA,2021-06-04,2021-06-23,"Died at his residence"
+34235,"Ballari",2804343,65,"Female","SARI","Cough, Breathlessness","DM",2021-06-12,2021-06-22,2021-06-23,NA
+34260,"Ballari",2841280,75,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-22,2021-06-23,NA
+34269,"Ballari",2849961,68,"Male","SARI","Cough, Breathlessness","-",2021-06-19,2021-06-21,2021-06-23,NA
+34292,"Ballari",1216089,55,"Female","SARI","Fever, Cough, Breathlesness","DM",2021-04-19,2021-04-23,2021-06-24,NA
+34293,"Ballari",1426387,55,"Male","SARI","Breathlessness","-",NA,2021-04-26,2021-06-24,"Died at his residence"
+34294,"Ballari",1802512,86,"Male","SARI","Breathlessness","DM",NA,2021-05-11,2021-06-24,"Died at his residence"
+34297,"Ballari",2476413,59,"Female","SARI","Breathlessness","-",2021-05-23,2021-05-25,2021-06-24,NA
+34310,"Ballari",2693569,70,"Female","SARI","Fever, Breathlessness","-",NA,2021-06-02,2021-06-24,"Died at his residence"
+34311,"Ballari",2694907,63,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-15,2021-06-24,2021-06-24,NA
+34316,"Ballari",2724170,56,"Male","ILI","Cough","CLD",2021-05-31,2021-06-06,2021-06-24,NA
+34324,"Ballari",2751578,58,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-07,2021-06-08,2021-06-24,NA
+34380,"Ballari",2833735,70,"Male","SARI","Fever, Breathlessness","-",2021-06-17,2021-06-23,2021-06-24,NA
+34397,"Ballari",2848442,47,"Male","SARI","Breathlessness","-",2021-06-19,2021-06-23,2021-06-24,NA
+34430,"Ballari",1597956,52,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-02,2021-06-25,NA
+34431,"Ballari",1626229,59,"Male","SARI","Fever, Breathlessness","DM",2021-05-08,2021-05-10,2021-06-25,NA
+34435,"Ballari",2319279,58,"Male","SARI","Fever, Breathlessness","CKD",NA,2021-05-19,2021-06-25,"Died at his residence"
+34441,"Ballari",2531550,60,"Male","SARI","Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-06-25,NA
+34442,"Ballari",2531603,57,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-25,2021-05-30,2021-06-25,NA
+34447,"Ballari",2579609,61,"Male","SARI","Breathlessness","-",2021-05-26,2021-06-03,2021-06-25,NA
+34448,"Ballari",2579611,45,"Male","ILI","Fever, Cough","-",2021-05-26,2021-05-27,2021-06-25,NA
+34500,"Ballari",2815308,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-22,2021-06-25,NA
+34529,"Ballari",2856418,40,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-21,2021-06-22,2021-06-25,NA
+34544,"Ballari",1597956,52,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-02,2021-06-25,NA
+34545,"Ballari",1626229,59,"Male","SARI","Fever, Breathlessness","DM",2021-05-08,2021-05-10,2021-06-25,NA
+34549,"Ballari",2319279,58,"Male","SARI","Fever, Breathlessness","CKD",NA,2021-05-19,2021-06-25,"Died at his residence"
+34555,"Ballari",2531550,60,"Male","SARI","Cough, Breathlessness","-",2021-05-24,2021-05-25,2021-06-25,NA
+34556,"Ballari",2531603,57,"Male","SARI","Fever, Cough, Breathlessness","HTN, IHD",2021-05-25,2021-05-30,2021-06-25,NA
+34561,"Ballari",2579609,61,"Male","SARI","Breathlessness","-",2021-05-26,2021-06-03,2021-06-25,NA
+34562,"Ballari",2579611,45,"Male","ILI","Fever, Cough","-",2021-05-26,2021-05-27,2021-06-25,NA
+34614,"Ballari",2815308,65,"Male","SARI","Fever, Cough, Breathlessness","-",2021-06-22,2021-06-22,2021-06-25,NA
+34643,"Ballari",2856418,40,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-21,2021-06-22,2021-06-25,NA
+34658,"Ballari",1267687,40,"Male","SARI","Breathlessness","-",2021-04-21,2021-04-30,2021-06-26,NA
+34662,"Ballari",2226388,55,"Female","SARI","Breathlessness","DM, HTN",2021-05-16,2021-05-16,2021-06-26,NA
+34667,"Ballari",2399842,50,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-26,2021-06-26,NA
+34668,"Ballari",2429409,72,"Male","SARI","Fever, Breathlessness","-",NA,2021-05-28,2021-06-26,"Died at his residence"
+34673,"Ballari",2535616,38,"Male","SARI","Breathlessness","-",NA,2021-06-08,2021-06-26,"Died at his residence"
+34687,"Ballari",2656661,73,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-30,2021-06-04,2021-06-26,NA
+34693,"Ballari",2743588,50,"Female","SARI","Fever, Breathlessness","-",2021-06-06,2021-06-25,2021-06-26,NA
+34736,"Ballari",2841603,70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-06-18,2021-06-25,2021-06-26,NA
+34773,"Ballari",1464170,42,"Female","SARI ","Breathlessness ","- ",2021-06-05,2021-06-17,2021-06-27,NA
+34775,"Ballari",2352776,60,"Male","SARI ","Cough, Breathlessness ","- ",2021-05-21,2021-05-23,2021-06-27,NA
+34777,"Ballari",2394486,65,"Male","SARI ","Breathlessness ","- ",2021-05-19,2021-05-25,2021-06-27,NA
+34779,"Ballari",2544030,48,"Female","SARI ","Fever, Breathlessness ","- ",2021-05-25,2021-05-25,2021-06-27,NA
+34795,"Ballari",2738100,49,"Male","SARI ","Breathlessness ","HTN ",2021-06-05,2021-06-18,2021-06-27,NA
+34798,"Ballari",2766492,65,"Male","SARI ","Cough, Breathlessness ","DM, HTN ",NA,2021-06-08,2021-06-27,"Died at his residence"
+34799,"Ballari",2767380,55,"Male","SARI ","Breathlessness ","CVA ",NA,2021-06-13,2021-06-27,"Died at his residence"
+34803,"Ballari",2776306,85,"Female","SARI ","Cough, Breathlessness ","- ",NA,2021-06-09,2021-06-27,"Died at her residence"
+34862,"Ballari",1816763,68,"Male","ILI ","Cough ","DM, CKD ",2021-05-05,2021-05-06,2021-06-28,NA
+34863,"Ballari",1816766,64,"Male","SARI ","Breathlessness ","DM ",2021-05-07,2021-05-09,2021-06-28,NA
+34864,"Ballari",1820480,60,"Male","ILI ","Cough ","CA ",2021-04-30,2021-05-04,2021-06-28,NA
+34865,"Ballari",1844228,69,"Female","ILI ","Cough ","DM, HTN ",2021-05-05,2021-05-12,2021-06-28,NA
+34866,"Ballari",1878359,58,"Male","ILI ","Cough ","- ",2021-05-06,2021-05-11,2021-06-28,NA
+34869,"Ballari",2431948,45,"Female","ILI ","Fever ","DM, HTN ",2021-05-27,2021-05-29,2021-06-28,NA
+34870,"Ballari",2437685,47,"Male","ILI ","Fever ","- ",2021-05-21,2021-05-23,2021-06-28,NA
+34871,"Ballari",2446336,47,"Male","ILI ","Cough ","- ",2021-05-21,2021-05-25,2021-06-28,NA
+34879,"Ballari",2670701,84,"Female","SARI ","Fever, Breathlessness ","COPD ",2021-05-28,2021-06-03,2021-06-28,NA
+34955,"Ballari",1588069,58,"Female","SARI ","Breathlessness ","HTN ",NA,NA,NA,NA
+34956,"Ballari",1786769,56,"Male","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34957,"Ballari",1878358,60,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34964,"Ballari",2695792,40,"Female","SARI ","Breathlessness ","DM, HTN ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34998,"Ballari",2835491,70,"Male","SARI ","Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+34999,"Ballari",2837759,50,"Male","SARI ","Breathlessness ","- ",NA,NA,NA,NA
+35013,"Ballari",2855256,42,"Male","ILI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35026,"Ballari",2864739,46,"Male","SARI ","Cough, Breathlessness ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35048,"Ballari",1212212,83,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-06-30,NA
+35049,"Ballari",1344622,40,"Male","SARI","Cough, Breathlessness","-",2021-04-23,2021-04-24,2021-06-30,NA
+35050,"Ballari",1358626,50,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-04-24,2021-04-25,2021-06-30,NA
+35051,"Ballari",1361542,32,"Male","SARI","Cough, Breathlessness","-",2021-04-24,2021-04-27,2021-06-30,NA
+35052,"Ballari",1387999,57,"Female","SARI","Cough, Breathlessness","-",2021-04-28,2021-05-01,2021-06-30,NA
+35054,"Ballari",2190219,60,"Male","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-13,2021-06-30,NA
+35059,"Ballari",2663367,60,"Female","SARI","Cough, Breathlessness","-",2021-05-31,2021-06-29,2021-06-30,NA
+35113,"Ballari",2850099,60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-19,2021-06-26,2021-06-30,NA
+35128,"Ballari",2864491,47,"Male","ILI","Fever, Cough","-",2021-06-24,2021-06-29,2021-06-30,NA
+35159,"Ballari",1403503,32,"Female","SARI","Cough, Breathlessness","-",2021-04-25,2021-05-01,2021-07-01,NA
+35160,"Ballari",1786767,61,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-03,2021-05-04,2021-07-01,NA
+35161,"Ballari",2218980,65,"Female","SARI","Cough, Breathlessness","-",2021-05-13,2021-05-14,2021-07-01,NA
+35163,"Ballari",2366093,60,"Male","SARI","Cough, Breathlessness","-",2021-05-19,2021-05-19,2021-07-01,NA
+35202,"Ballari",2832163,55,"Female","SARI","Fever, Breathlessness","-",2021-06-21,2021-06-30,2021-07-01,NA
+35205,"Ballari",2840244,50,"Male","SARI","Fever, Breathlessness","-",2021-06-19,2021-06-30,2021-07-01,NA
+35253,"Ballari",1802489,61,"Female","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-19,2021-07-02,NA
+35254,"Ballari",1812841,57,"Male","SARI","Breathlessness","-",2021-05-21,2021-05-30,2021-07-02,NA
+35255,"Ballari",1820474,55,"Male","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-15,2021-07-02,NA
+35256,"Ballari",1820507,53,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-04,2021-07-02,NA
+35257,"Ballari",1940908,28,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-07-02,NA
+35258,"Ballari",1940963,80,"Male","SARI","Cough, Breathlessness","-",2021-05-06,2021-05-07,2021-07-02,NA
+35259,"Ballari",1945960,41,"Male","SARI","Fever, Breathlessness","DM",2021-05-07,2021-05-08,2021-07-02,NA
+35260,"Ballari",1948661,55,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-08,2021-07-02,NA
+35322,"Ballari",2877147,60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-28,2021-06-29,2021-07-02,NA
+35333,"Ballari",2883539,50,"Male","SARI","Fever, Breathlessness","-",2021-06-30,2021-07-01,2021-07-02,NA
+35341,"Ballari",1505823,47,"Male","SARI","Cough, Breathlessness","-",2021-04-26,2021-05-10,2021-07-03,NA
+35342,"Ballari",1636105,58,"Male","SARI","Breathlessness","-",NA,2021-05-09,2021-07-03,"Died at his residence"
+35343,"Ballari",1670299,65,"Female","SARI","Breathlessness","DM",2021-05-03,2021-05-04,2021-07-03,NA
+35344,"Ballari",1716381,35,"Male","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-03,2021-07-03,NA
+35345,"Ballari",1730117,79,"Male","SARI","Breathlessness","DM, HTN",2021-05-04,2021-05-27,2021-07-03,NA
+35346,"Ballari",1746911,63,"Male","SARI","Cough, Breathlessness","-",2021-05-03,2021-05-04,2021-07-03,NA
+35347,"Ballari",1789728,56,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-15,2021-07-03,NA
+35348,"Ballari",1799201,74,"Male","SARI","Cough, Breathlessness","DM",2021-05-04,2021-05-05,2021-07-03,NA
+35378,"Ballari",2846092,36,"Male","SARI","Breathlessness","-",2021-06-19,2021-07-03,2021-07-03,NA
+35427,"Ballari",1218190,76,"Male","SARI","Breathlessness","HTN",2021-04-19,2021-04-25,2021-07-04,NA
+35428,"Ballari",1355051,50,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-04-24,2021-05-05,2021-07-04,NA
+35429,"Ballari",1466788,47,"Male","SARI","Breathlessness","DM",NA,2021-05-04,2021-07-04,"Brought dead"
+35430,"Ballari",1474100,40,"Male","ILI","Fever","CKD",2021-04-27,2021-05-10,2021-07-04,NA
+35454,"Ballari",2862420,55,"Male","SARI","Fever, Breathlessness","-",2021-06-26,2021-07-03,2021-07-04,NA
+35457,"Ballari",2868401,45,"Female","SARI","Breathlessness","-",2021-06-25,2021-07-03,2021-07-04,NA
+35469,"Ballari",2884933,72,"Male","SARI","Cough, Breathlessness","-",2021-06-30,2021-07-03,2021-07-04,NA
+35487,"Ballari",2085540,31,"Male","ILI","Fever","-",2021-05-09,2021-05-21,2021-07-05,NA
+35488,"Ballari",2243408,43,"Female","SARI","Fever, Breathlessness","HTN",2021-05-15,2021-05-15,2021-07-05,NA
+35489,"Ballari",2248501,42,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-14,2021-07-05,NA
+35490,"Ballari",2248502,70,"Male","SARI","Breathlessness","DM",2021-05-12,2021-05-19,2021-07-05,NA
+35491,"Ballari",2248554,50,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-16,2021-07-05,NA
+35493,"Ballari",2294172,63,"Female","SARI","Cough, Breathlessness","HTN",2021-05-15,2021-05-18,2021-07-05,NA
+35494,"Ballari",2319462,61,"Male","SARI","Breathlessness","DM",2021-06-07,2021-06-07,2021-07-05,NA
+35497,"Ballari",2363644,48,"Male","ILI","Fever, Cough","-",2021-05-19,2021-05-24,2021-07-05,NA
+35499,"Ballari",2404646,72,"Female","SARI","Cough, breathlessness","DM, HTN, CVD",2021-05-19,2021-05-20,2021-07-05,NA
+35553,"Ballari",1213971,38,"Male","SARI","Cough, Breathlessness","-",2021-04-21,2021-04-25,2021-07-06,NA
+35554,"Ballari",1944511,65,"Male","SARI","Breathlessness","DM",2021-05-07,2021-05-08,2021-07-06,NA
+35555,"Ballari",1985658,43,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-06,2021-05-08,2021-07-06,NA
+35556,"Ballari",2003639,38,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-10,2021-05-11,2021-07-06,NA
+35564,"Ballari",2641652,78,"Female","SARI","Fever, Breathlessness","HTN",2021-05-29,2021-06-01,2021-07-06,NA
+35565,"Ballari",2679725,54,"Male","SARI","Breathlessness","DM",2021-05-31,2021-06-11,2021-07-06,NA
+35646,"Ballari",1971125,83,"Male","SARI","Cough, Breathlessness","-",NA,2021-05-09,2021-07-07,"Died at his residence"
+35654,"Ballari",2659140,39,"Male","SARI","Fever, Breathlessness","DM",2021-05-28,2021-06-07,2021-07-07,NA
+35655,"Ballari",2695889,62,"Female","ILI","Fever","-",NA,2021-06-12,2021-07-07,"Died at her residence"
+35656,"Ballari",2698219,60,"Female","SARI","Breathlessness","DM, CVD",NA,2021-06-04,2021-07-07,"Died at her residence"
+35662,"Ballari",2795422,60,"Male","SARI","Breathlessness","-",2021-06-11,2021-07-03,2021-07-07,NA
+35679,"Ballari",2863187,35,"Male","SARI","Cough, Breathlessness","-",2021-06-12,2021-06-26,2021-07-07,NA
+35702,"Ballari",2894615,78,"Male","SARI","Fever, Breathlessness","-",2021-07-04,2021-07-07,2021-07-07,NA
+35720,"Ballari",1802461,75,"Female","SARI","Breathlessness","-",NA,2021-05-26,2021-07-08,"Died at her residence"
+35721,"Ballari",2248505,55,"Male","SARI","Cough, Breathlessness","CKD",NA,2021-05-18,2021-07-08,"Died at his residence"
+35722,"Ballari",2319281,70,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-17,2021-07-08,NA
+35727,"Ballari",2677063,65,"Female","SARI","Breathlessness","CKD",NA,2021-06-02,2021-07-08,"Died at her residence"
+35728,"Ballari",2719009,75,"Female","SARI","Breathlessness","HTN",2021-06-06,2021-06-20,2021-07-08,NA
+35729,"Ballari",2750266,76,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-30,2021-06-20,2021-07-08,NA
+35730,"Ballari",2781669,61,"Female","SARI","Fever, Breathlessness","-",2021-06-09,2021-06-10,2021-07-08,NA
+35731,"Ballari",2793758,70,"Male","ILI","Fever","-",2021-06-12,2021-06-17,2021-07-08,NA
+35732,"Ballari",2805518,68,"Male","ILI","Fever","DM, HTN",NA,2021-06-20,2021-07-08,"Died at his residence"
+35735,"Ballari",2837180,36,"Male","SARI","Breathlessness","-",2021-06-01,2021-06-27,2021-07-08,NA
+35742,"Ballari",2856420,59,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-06-25,2021-07-07,2021-07-08,NA
+35955,"Ballari",2515310,65,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-24,2021-06-11,2021-07-12,NA
+36078,"Ballari",2895546,87,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-07-10,2021-07-13,2021-07-14,NA
+36083,"Ballari",2898547,55,"Male","SARI","Fever, Breathlessness","-",2021-07-05,2021-07-12,2021-07-14,NA

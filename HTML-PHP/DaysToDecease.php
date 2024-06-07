@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Statewide Active Cases</title>
+  <title>Days to Decease</title>
   <!-- Bootstrap CSS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   <!-- Font Awesome CSS for icons -->
@@ -21,7 +21,7 @@
       <div class="row">
         <div class="col-md-16 mx-auto text-center jumbotron bg-info text-white">
           <h2>Days to Decease</h2>
-          <p>The Media Bulletin reports each deceased patient as either admitted to hospital, or brought dead or died at residences. FoAll these graphs provide the stacked age distribution of the deceased COVID-19 patients in every district. The yellow bar is for male while the blue bar is for female. Since the number of transgender, neutral gender, unknown ages, district and gender were small, they have not been plotted. The data has a district called as others, whose count was also less and hence not plotted.</p>
+          <p>The Media Bulletin reports each deceased patient as either admitted to hospital, or brought dead or died at residences. All these graphs provide the stacked age distribution of the deceased COVID-19 patients in every district. The yellow bar is for male while the blue bar is for female. Since the number of transgender, neutral gender, unknown ages, district and gender were small, they have not been plotted. The data has a district called as others, whose count was also less and hence not plotted.</p>
           <p>For all the graphs on this page, if you click on the image then it will display an interactive graph, where as you hover your mouse pointer over the graph annotations with details will be displayed.</p>
         </div>
       </div>
@@ -31,7 +31,7 @@
       <div class="col-md-12">
         <div id="graphCanvas">
              <!-- Graph will be displayed here -->
-             <?php generateImageHolder("daysToDecease","daystodecease_wavewise.png","daystodecease_wavewise.html","rcode.R",1,[1],580,1100)?>
+             <?php generateImageHolder("daysToDecease","daystodecease_wavewise.png","daystodecease_wavewise.html","admissionfinal.R",1,[1],580,1100)?>
          </div>
       </div>    
     </div>
@@ -49,7 +49,7 @@
                 echo '</div><div class="row">'; // Close the previous row and start a new one
             }
             echo '<div class="col-md-12">';
-            generateImageHolder("daysToDecease","$i-District_decease.png", "$i-District_decease.html","rcode$i.R",1,[1],700,1100);
+            generateImageHolder("daysToDecease","$i-District_decease.png", "$i-District_decease.html","admissionfinal.R",1,[1],700,1100);
             echo '</div>';
         }
         ?>

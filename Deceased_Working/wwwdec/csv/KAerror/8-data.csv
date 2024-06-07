@@ -1,0 +1,4 @@
+"District","No.","Date","Total infected","Total Recovered","Total deceased","diff_TINF","diff_TREC","diff_TDEC"
+8,11,2020-04-01,9,0,0,-2,0,0
+8,83,2020-06-12,152,126,3,0,0,-1
+8,310,2021-01-25,13546,13354,117,-3,-24,0

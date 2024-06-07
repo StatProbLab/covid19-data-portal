@@ -1,0 +1,228 @@
+#libraries
+library("readxl")
+library("ggplot2")
+library("grid")
+library("gridExtra")
+library("plotly")
+library("htmlwidgets")
+library(tidyr)
+library("reshape")
+library("tidyverse")
+library("viridis")
+mydata=read.csv("../mediadata/Master.csv")
+district=mydata$District
+
+#table(mydata$Description)
+
+district_code_names=c("Bagal", "Ballari", "Belagavi", "Rural", "Urban", "Bidar", "Chamaraja", "Ballapura", "Magalur", "Chitra", "Dakshina", "Davan", "Dharawad", "Gadag", "Hassan", "Haveri", "Kalabur", "Kodagu", "Kolar", "Koppal", "Mandya", "Mysuru", "Raichur", "Ramanagara", "Mog", "Tumakuru", "Udupi", "Uttara", "Vijay", "Yadgir")
+
+district_names=c("Bagalkote", "Ballari", "Belagavi", "Bengaluru Rural", "Bengaluru Urban", "Bidar", "Chamarajanagara", "Chikkaballapura", "Chikkamagaluru", "Chitradurga", "Dakshina Kannada", "Davanagere", "Dharawada", "Gadag", "Hassan", "Haveri", "Kalaburagi", "Kodagu", "Kolar", "Koppal", "Mandya", "Mysuru", "Raichur", "Ramanagara", "Shivamogga", "Tumakuru", "Udupi", "Uttara Kannada", "Vijayapura", "Yadgiri", "All Karnataka")
+
+description_clusters=c("ILI", "SARI", "Contact\nof Patient\nor Containment Zone", "Inter\nDistrict Travel in\nKarnataka", "Domestic\nTravel\noutside\nof Karnataka", "International Travel", "Unknown")
+#description_clusters_new=c("ILI", "SARI", "Contact of Patient\nor Containment Zone", "Inter District Travel\nin Karnataka", "Domestic Travel\noutside of Karnataka", "International Travel", "Unknown")
+
+cluster=matrix(c(1:217), nrow=7)
+
+for(a in 1:length(district_code_names))
+{
+    p=c()
+    given_district=subset(mydata, grepl(district_code_names[a], district, ignore.case="True"))
+
+    description=given_district$Description
+
+    count_description_cluster=c()
+
+    count_description_cluster[1]=length(grep("ILI", description, ignore.case="True"))
+    cluster[1,a]=count_description_cluster[1]
+
+    count_description_cluster[2]=length(grep("SARI|SAARI|SASRI|SARI | SARI", description, ignore.case="True"))
+    cluster[2,a]=count_description_cluster[2]
+
+    count_description_cluster[3]=length(grep("Contact of P|containment", description, ignore.case="True"))
+    cluster[3,a]=count_description_cluster[3]
+
+    count_description_cluster[4]=length(grep("Inter|District", description, ignore.case="True")) 
+    cluster[4,a]=count_description_cluster[4]
+
+    #new_data=mydata[!grepl("Bengaluru|Bangalore|Hubballi", mydata$Description, ignore.case="True"),]
+    count_description_cluster[5]=length(grep("Return|Travel History|interstate", description, ignore.case="True"))
+    cluster[5,a]=count_description_cluster[5]
+
+    count_description_cluster[6]=length(grep("Saudi|Mecca", description, ignore.case="True"))
+    cluster[6,a]=count_description_cluster[6]
+
+    count_description_cluster[7]=length(grep("Under|Investigation|Tracing", description, ignore.case="True"))
+    cluster[7,a]=count_description_cluster[7]
+
+}
+
+totaldescription=mydata$Description
+
+cluster[1,31]=length(grep("ILI", totaldescription, ignore.case="True"))
+cluster[2,31]=length(grep("SARI|SAARI|SASRI|SARI | SARI", totaldescription, ignore.case="True"))
+cluster[3,31]=length(grep("Contact of P|containment", totaldescription, ignore.case="True"))
+cluster[4,31]=length(grep("Inter|District", totaldescription, ignore.case="True"))
+cluster[5,31]=length(grep("Return|Travel History|interstate", totaldescription, ignore.case="True"))
+cluster[6,31]=length(grep("Saudi|Mecca", totaldescription, ignore.case="True"))
+cluster[7,31]=length(grep("Under|Investigation|Tracing", totaldescription, ignore.case="True"))
+
+description_cluster_matrix=t(cluster)
+dimnames(description_cluster_matrix)=list(district_names, description_clusters)
+description_cluster=as.data.frame(description_cluster_matrix)
+write.csv(description_cluster, file="Description_vs_Districts.csv")
+
+part_A=c(description_clusters[1], description_clusters[2], description_clusters[7])
+part_B=c(description_clusters[3], description_clusters[4], description_clusters[5], description_clusters[6])
+matrix_A=cbind(description_cluster_matrix[,1], description_cluster_matrix[,2], description_cluster_matrix[,7])
+matrix_B=cbind(description_cluster_matrix[,3], description_cluster_matrix[,4], description_cluster_matrix[,5], description_cluster_matrix[,6])
+
+dimnames(matrix_A)=list(district_names, part_A)
+dimnames(matrix_B)=list(district_names, part_B)
+
+matrix_A_onlydistricts=head(matrix_A, 30)
+
+heatmap_A=matrix_A_onlydistricts %>%
+        as.data.frame() %>%
+        rownames_to_column("f_id") %>%
+        pivot_longer(-c(f_id), names_to = "samples", values_to = "counts") %>%
+        ggplot(aes(x=samples, y=f_id, fill=counts))+
+        geom_raster()+
+        theme(text = element_text(size=40))+
+        theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+        theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+        scale_fill_viridis_c()+
+	theme(legend.key.size = unit(2, 'cm'))
+
+heatmap_A_new=matrix_A_onlydistricts %>%
+        as.data.frame() %>%
+        rownames_to_column("f_id") %>%
+        pivot_longer(-c(f_id), names_to = "samples", values_to = "counts") %>%
+        ggplot(aes(x=samples, y=f_id, fill=counts))+
+        geom_raster()+
+        theme(text = element_text(size=15))+
+        theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+        theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+        scale_fill_viridis_c()
+
+name1=paste("Descriptionclusters_vs_districts_A", ".png", sep="")
+name2=paste0("../graphs/", name1)
+ggsave(name2, plot=heatmap_A, width = 20, height = 25, dpi = 300, units = "in", device='png')
+
+heatmap_A_plotly=ggplotly(heatmap_A_new)
+
+name=paste("Descriptionclusters_vs_districts_A", ".html", sep="")
+path=file.path(getwd(), "../graphs", name)
+htmlwidgets::saveWidget(heatmap_A_plotly, file=path, selfcontained = FALSE, libdir = "plotly.html")
+
+matrix_B_onlydistricts=head(matrix_B, 30)
+
+heatmap_B=matrix_B_onlydistricts %>%
+        as.data.frame() %>%
+        rownames_to_column("f_id") %>%
+        pivot_longer(-c(f_id), names_to = "samples", values_to = "counts") %>%
+        ggplot(aes(x=samples, y=f_id, fill=counts))+
+        geom_raster()+
+        theme(text = element_text(size=40))+
+        theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+        theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+        scale_fill_viridis_c()+
+	theme(legend.key.size = unit(2, 'cm'))
+
+heatmap_B_new=matrix_B_onlydistricts %>%
+        as.data.frame() %>%
+        rownames_to_column("f_id") %>%
+        pivot_longer(-c(f_id), names_to = "samples", values_to = "counts") %>%
+        ggplot(aes(x=samples, y=f_id, fill=counts))+
+        geom_raster()+
+        theme(text = element_text(size=15))+
+        theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+        theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+        scale_fill_viridis_c()
+
+name1=paste("Descriptionclusters_vs_districts_B", ".png", sep="")
+name2=paste0("../graphs/", name1)
+ggsave(name2, plot=heatmap_B, width = 20, height = 25, dpi = 300, units = "in", device='png')
+
+heatmap_B_plotly=ggplotly(heatmap_B_new)
+
+name=paste("Descriptionclusters_vs_districts_B", ".html", sep="")
+path=file.path(getwd(), "../graphs", name)
+htmlwidgets::saveWidget(heatmap_B_plotly, file=path, selfcontained = FALSE, libdir = "plotly.html")
+
+Karnataka_A=c(matrix_A[31, 1], matrix_A[31, 2], matrix_A[31, 3])
+
+df_A_Karnataka=data.frame(part_A, Karnataka_A)
+plot_A_Karnataka=ggplot(df_A_Karnataka, aes(x=part_A, y=Karnataka_A, fill=Karnataka_A))+
+                 geom_bar(stat="identity", width=0.075, color="black")+
+                 ylim(0, max(Karnataka_A))+
+                 scale_fill_continuous(type="viridis")+
+                 theme(text = element_text(size=17))+
+                 theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+                 theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+                 theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+                 labs(fill="Deceased\nPatients")
+
+plotly_A_Karnataka=ggplotly(plot_A_Karnataka)
+
+name1=paste("Karnataka_Description_Clusters_A", ".png", sep="")
+name2=paste0("../graphs/", name1)
+ggsave(name2, plot=plot_A_Karnataka, width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+name=paste("Karnataka_Description_Clusters_A", ".html", sep="")
+path=file.path(getwd(), "../graphs", name)
+htmlwidgets::saveWidget(plotly_A_Karnataka, file=path, selfcontained = FALSE, libdir = "plotly.html")
+
+Karnataka_B=c(matrix_B[31,1], matrix_B[31,2], matrix_B[31,3], matrix_B[31,4])
+
+df_B_Karnataka=data.frame(part_B, Karnataka_B)
+plot_B_Karnataka=ggplot(df_B_Karnataka, aes(x=part_B, y=Karnataka_B, fill=Karnataka_B))+
+                 geom_bar(stat="identity", width=0.1, color="black")+
+                 ylim(0, max(Karnataka_B))+
+                 scale_fill_continuous(type="viridis")+
+                 theme(text = element_text(size=17))+
+                 theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+                 theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+                 theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+                 labs(fill="Deceased\nPatients")
+
+plotly_B_Karnataka=ggplotly(plot_B_Karnataka)
+
+name1=paste("Karnataka_Description_Clusters_B", ".png", sep="")
+name2=paste0("../graphs/", name1)
+ggsave(name2, plot=plot_B_Karnataka, width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+name=paste("Karnataka_Description_Clusters_B", ".html", sep="")
+path=file.path(getwd(), "../graphs", name)
+htmlwidgets::saveWidget(plotly_B_Karnataka, file=path, selfcontained = FALSE, libdir = "plotly.html")
+
+kardata=c(cluster[1,31], cluster[2,31], cluster[3,31], cluster[4,31], cluster[5,31], cluster[6,31], cluster[7,31])
+kardf=data.frame(description_clusters, kardata)
+plot_karnataka=ggplot(kardf, aes(x=description_clusters, y=kardata, fill=kardata))+
+               geom_bar(stat="identity", width=0.2, color="black")+
+               ylim(0, max(kardata))+
+               scale_fill_continuous(type="viridis")+
+               theme(text = element_text(size=20))+
+                 theme(axis.text.x = element_text(angle = 0, hjust = 1))+
+                 theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+                 theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+                 labs(fill="Deceased\nPatients")
+
+plot_karnataka_new=ggplot(kardf, aes(x=description_clusters, y=kardata, fill=kardata))+
+               geom_bar(stat="identity", width=0.2, color="black")+
+               ylim(0, max(kardata))+
+               scale_fill_continuous(type="viridis")+
+               theme(text = element_text(size=12))+
+                 theme(axis.text.x = element_text(angle = 0, hjust = 1))+
+                 theme(axis.title.x=element_blank(),  axis.ticks.x=element_blank())+
+                 theme(axis.title.y=element_blank(),  axis.ticks.y=element_blank())+
+                 labs(fill="Deceased\nPatients")
+
+plotly_karnataka=ggplotly(plot_karnataka_new)
+
+name1=paste("Karnataka_Description_Clusters", ".png", sep="")
+name2=paste0("../graphs/", name1)
+ggsave(name2, plot=plot_karnataka, width = 20, height = 10.7, dpi = 300, units = "in", device='png')
+
+name=paste("Karnataka_Description_Clusters", ".html", sep="")
+path=file.path(getwd(), "../graphs", name)
+htmlwidgets::saveWidget(plotly_karnataka, file=path, selfcontained = FALSE, libdir = "plotly.html")

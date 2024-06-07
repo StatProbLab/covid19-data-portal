@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>India COVID-19</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=1024">
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
+
+
+
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384    -J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<style>
+    body {  
+	background-color:
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+        font-size: 20px;
+        color: #000000;
+}
+
+.page-header{
+	padding-bottom:9px;
+	margin:40px 0 20px;
+	border-bottom:1px solid #eee
+        text-align: center;
+}
+
+
+.navbar{
+  text-align: center;
+      background-color: #151515;
+}
+
+    /* Set black background color, white text and some padding */
+    footer {
+      background-color: #fffff;
+      color: black;
+      padding: 15px;
+    }
+
+
+</style>
+</head>
+<body>
+<div class="container page">
+<div class="container-fluid">
+ 
+
+<div class="row">
+      <div class="col-sm-12">
+      </div>
+      </div>
+  <div class="row" align=center>
+      <div class="col-sm-12">
+  <br><br>  
+  <h3> <font color=maroon>Time Series plots of Testing Data(Karnataka).</font></h3>
+<!--<a href="./csv/karlastweekR.csv">[Weekly Data in CSV]</a>--><br><br><hr><br>
+
+<p align="left">The following plots shows the time series of the testing data collected from the Karnataka State Media Bulletin.In our analysis, we took the total covid test done per day, and daily positive counts, and then we found the daily percentage positive rate and then we plotted the counts against date to get  time series. </p>
+
+<center><em><font color=grey>For all the graphs on this page, if you click on the image then it will display an interactive graph, where  as you hover your mouse pointer over the graph annotations with details will be displayed.</font></em></center>
+<br>
+
+</ul>
+<h4>Time Series for Daily COVID-19 test Samples collected.</h4>
+<p align="left">.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/total_sample.html" target=top>   <img src="./graphs/total_sample.png" style="width:100%"></a>
+  </div>
+  </div>
+<p align="left">From the above plot, we can infer that, there has been an overall increasing trend in the context of number of daily covid-19 tests done.If we look closely we can notice that during the beginning of the year 2021,we can see that, there has been a decrease, it is possibly because, the active cases were lowering by that time before the second wave hit Karnataka due to which we see an increase in the subsequent times. </p>
+
+<br><hr><br>
+<h4>Time Series for Daily COVID-19 Positive test Samples.</h4>
+<p align="left">.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/total_positive.html" target=top>   <img src="./graphs/total_positive.png" style="width:100%"></a>
+<p align="left"> By analysing the graph, we can infer that the amount of positive cases went on increasing till October-2020,and then we notice a downfall, but then by the time of March-2021,the graph started ascending and achieved its peak on mid May-2021,it is possibly because of the fact that by the time of March-2021,the second wave of covid-19 hit india . </p>
+</div>
+</div>
+
+<br><hr><br>
+<h4>Time Series for Daily Positivity Rate.</h4>
+<p align="left">For these graph, we first calculated the ratio of daily positive cases to daily test conducted, and then found the positivity rate for each day and we plotted the rate against each day.</p>
+<div class="row">
+  <div class="col-sm-12">
+ <a href="./graphs/ratio_positive.html" target=top>   <img src="./graphs/ratio_positive.png" style="width:100%"></a>
+</div>
+<p align="left"> By analysing the graph, we can infer that the positivity rate started increasing from April-2021 till August-2020,which was the period of the covid-19 first wave, and then the rate started decreasing and by the inception of year 2021 ,it became very low, but then with the strike of wave-2,the graph started ascending towards its peak on mid May-2021,and since then we notice a decreasing trend. </p>
+<br><hr><br>
+</div>
+</div>
+
+  
+<footer class="container-fluid text-left">
+<div class="row">
+  <div class="col-sm-12">
+    <hr><br>
+<!--     About us:  <a href="https://covid19.iisc.ac.in/modeling-of-epidemic-spread-in-karn-urban-conditions/">   Modeling of epidemic spread in Karn urban conditions </a>,  <a href="https://cmstest.unipune.ac.in:5000/">INDSCI-SIM DASHBOARD</a>, and <a href="http://www.isibang.ac.in/~athreya/incovid19"> COVID-19 Kar-Timeline an understanding across States and Union Territories. </a>    -->
+<!-- <br><br>  -->
+    </div>
+</div>
+</footer>
+
+
+
+</div>
+</div>
+
+</body>
+</html>
+
+ 
+ 

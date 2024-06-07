@@ -1,0 +1,37 @@
+1,Name of State / UT,Population,Increase,Area,Density,Sex-Ratio,Literacy,Website,ADDED
+2,Andhra Pradesh, , , , , , ,http://hmfw.ap.gov.in/carona_info.aspx,a
+3,Andaman and Nicobar Islands,380581,6.86%,8249,46,876,86.63,https://dhs.andaman.gov.in/,a
+4,Arunachal Pradesh,1383727,26.03%,83743,17,938,65.38,http://health.arunachal.gov.in/,a
+5,Assam,31205576,17.07%,78438,398,958,72.19,https://hfw.assam.gov.in/,a
+6,Bihar,104099452,25.42%,94163,1106,918,61.8,http://health.bih.nic.in/,a
+7,Chandigarh,,,,,,,http://chandigarh.gov.in/dept_hlt.htm,a
+8,Chhattisgarh,25545198,22.61%,135192,189,991,70.28,http://www.cghealth.nic.in/cghealth17/,a
+9,Dadra and Nagar Haveli,343709,55.88%,491,700,774,76.24,http://vbch.dnh.nic.in/nlep.aspx ,a
+10,Delhi,16787941,21.21%,1483,11320,868,86.21,http://health.delhigovt.nic.in/wps/wcm/connect/DoIT_Health/health/home,a
+11,Goa,1458545,8.23%,3702,394,973,88.7,http://dhsgoa.gov.in/welcome.htm,a
+12,Gujarat,60439692,19.28%,196244,308,919,78.03,https://gujhealth.gujarat.gov.in/,a
+13,Haryana,25351462,19.90%,44212,573,879,75.55,http://haryanahealth.nic.in/,a
+14,Himachal Pradesh,6864602,12.94%,55673,123,972,82.8,https://himachal.nic.in/index.php?lang=1&dpt_id=19,a
+15,Jammu and Kashmir, , , , , , ,http://jkhealth.org/new2017/,a
+16,Jharkhand,32988134,22.42%,79716,414,948,66.41,http://archive.jharkhand.gov.in/health-department,a
+17,Karnataka,61095297,15.60%,191791,319,973,75.36,https://karunadu.karnataka.gov.in/hfw/kannada/Pages/covid19-db.asxp,a
+18,Kerala,33406061,4.91%,38852,860,1084,94,https://kerala.gov.in/health-family-welfare-department,a
+19,Ladakh,,,,,,,https://kargil.nic.in/health/,a
+20,Madhya Pradesh,72626809,20.35%,308252,236,931,69.32,http://health.mp.gov.in/en,a
+21,Maharashtra,112374333,15.99%,307713,365,929,82.34,https://www.msdcmumbai.org.in/ClientWebsite/S_GOI_9/index.html,a
+22,Meghalaya,2966889,27.95%,22429,132,989,74.43,http://meghealth.gov.in/,a
+23,Manipur,2855794,24.50%,22327,128,985,76.94,http://www.manipurhealthdirectorate.in/,a
+24,Mizoram,1097206,23.48%,21081,52,976,91.33,https://health.mizoram.gov.in/,a
+25,Nagaland,1978502,-0.58%,16579,119,931,79.55,https://nagahealth.nagaland.gov.in/,a
+26,Odisha,41974218,14.05%,155707,270,979,72.87,https://covid19.odisha.gov.in/,a
+27,Puducherry,1247953,28.08%,490,2547,1037,85.85,https://www.nhmpuducherry.org.in/home,a
+28,Punjab,27743338,13.89%,50362,551,895,75.84,http://pbhealth.gov.in/index_17mar20.htm,a
+29,Rajasthan,68548437,21.31%,342239,200,928,66.11,https://health.rajasthan.gov.in/content/raj/medical/en/home.html#,a
+30,Sikkim,610577,12.89%,7096,86,890,81.42,https://sikkim.gov.in/departments/health-family-welfare-department,a
+31,Tamil Nadu,72147030,15.61%,130060,555,996,80.09,https://www.tn.gov.in/department/11,a
+32,Telengana,,,,,,,http://health.telangana.gov.in/,a
+33,Tripura,3673917,14.84%,10486,350,960,87.22,https://health.tripura.gov.in/,a
+34,Uttarakhand,10086292,18.81%,53483,189,963,78.82,http://health.uk.gov.in/,a
+35,Uttar Pradesh,199812341,20.23%,240928,829,912,67.68,http://up-health.in/en/#main-content,a
+36,West Bengal,91276115,13.84%,88752,1028,950,76.26,https://www.wbhealth.gov.in,a
+37,Lakshadweep,64473, ,32, ,,,https://www.nhp.gov.in/lakshadweep_pg,a

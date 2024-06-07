@@ -1,0 +1,415 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+24,"Bidar","590",82,"Male","SARI",NA,NA,2020-04-27,2020-04-28,2020-05-02,NA
+36,"Bidar","1041",52,"Male","SARI & Travel history to Hyderabad",NA,NA,NA,NA,2020-05-15,NA
+45,"Bidar","1712",49,"Male","SARU","Fever & Cough & Breathlessness","DM",NA,2020-05-27,2020-05-27,NA
+48,"Bidar","2783",47,"Female","ILI",NA,"Paralysis",2020-05-24,2020-05-28,2020-05-30,NA
+55,"Bidar","1951",55,"Female","SARI","Cough & Breathlessness & Weakness",NA,2020-05-16,2020-06-05,2020-06-06,NA
+93,"Bidar","7524",49,"Male","SARI",NA,"DM & HTN",2020-06-14,2020-06-14,2020-06-16,NA
+100,"Bidar","7697",26,"Male",NA,"Fever",NA,2020-06-05,2020-06-15,2020-06-17,NA
+110,"Bidar","7776",55,"Male",NA,"Breathlessness",NA,2020-06-08,2020-06-17,2020-06-18,NA
+114,"Bidar","7959",45,"Male","Returned from Telangana","Fever & Breathlessness",NA,2020-06-13,2020-06-18,2020-06-19,NA
+115,"Bidar","7962",70,"Male","SARI","Fever & Breathlessness","COPD",NA,2020-06-11,2020-06-19,"Brought dead"
+126,"Bidar","8423",51,"Female",NA,NA,NA,2020-06-15,2020-06-19,2020-06-20,NA
+127,"Bidar","8424",65,"Male",NA,NA,NA,2020-06-18,2020-06-18,2020-06-20,NA
+134,"Bidar","9149",70,"Male","Contact of containment zone","Loss of Appetite","Weakness, Hypertension",2020-06-18,2020-06-18,2020-06-21,NA
+135,"Bidar","9150",46,"Male","Contact under tracing","Weakness","Convulsions, Hypertension",2020-06-17,2020-06-18,2020-06-21,NA
+172,"Bidar","10684",71,"Male","Contact of containment zone","-","HTN",2020-06-23,2020-06-23,2020-06-26,NA
+179,"Bidar","7955",65,"Male","Contact under tracing","Breathlessness","Diabetes, CKD",2020-06-16,2020-06-26,2020-06-27,NA
+187,"Bidar","11437",65,"Male","Contact under tracing","Asymptomatic","-",NA,2020-06-23,2020-06-27,"Brought dead"
+188,"Bidar","11438",73,"Female","Contact under tracing","Breathlessness","-",NA,2020-06-20,2020-06-27,"Brought dead"
+248,"Bidar","15471",80,"Male","Returnee from Telangana","Fever &  Cough","DM",2020-06-28,2020-07-01,2020-07-01,NA
+249,"Bidar","15474",63,"Male","Returnee from Telangana","Breathlessness","DM",2020-06-20,2020-07-01,2020-07-01,NA
+286,"Bidar","16820",62,"Male","Travel History To Hyderabad","Fever","-",2020-07-02,2020-07-03,2020-07-03,NA
+326,"Bidar","21436",55,"Male","Contact under tracing","-","-",2020-06-28,2020-06-28,2020-07-04,NA
+327,"Bidar","21437",24,"Female","Contact under tracing","-","-",2020-06-25,2020-06-25,2020-07-04,NA
+328,"Bidar","21438",70,"Female","SARI","Breathlessness & Cough","DM",2020-06-30,2020-07-02,2020-07-04,NA
+329,"Bidar","21439",50,"Male","Contact under tracing","-","TB",2020-06-27,2020-06-27,2020-07-04,NA
+330,"Bidar","21440",70,"Female","SARI","Breathlessness","-",2020-06-30,2020-07-01,2020-07-04,NA
+331,"Bidar","21441",31,"Male","Road Traffic Accident","-","-",2020-06-27,2020-06-28,2020-07-04,NA
+358,"Bidar","23356",70,"Male","Contact under tracing","-","HTN",NA,2020-06-27,2020-07-05,"Brought dead"
+359,"Bidar","23357",25,"Female","SARI","Breathlessness","PNC, AKI,  CARDIOM YOPATHY",2020-06-24,2020-06-26,2020-07-05,NA
+360,"Bidar","23358",45,"Male","Contact under tracing","-","-",2020-06-24,2020-06-24,2020-07-05,NA
+361,"Bidar","23359",54,"Male","SARI","Breathlessness","HTN, DM",2020-06-26,2020-06-28,2020-07-05,NA
+362,"Bidar","23360",63,"Male","SARI","Breathlessness","DM",2020-06-29,2020-06-30,2020-07-05,NA
+363,"Bidar","23361",45,"Male","MI","Chest Pain","-",2020-06-30,2020-07-01,2020-07-05,NA
+364,"Bidar","23362",60,"Female","Contact under tracing","-","HTN, DM",2020-06-27,2020-06-27,2020-07-05,NA
+365,"Bidar","23363",65,"Male","SARI","Breathlessness","HTN",2020-06-27,2020-07-03,2020-07-05,NA
+366,"Bidar","23364",32,"Female","Contact under tracing","-","ANC, PIH",2020-07-01,2020-07-02,2020-07-05,NA
+368,"Bidar","26815",60,"Male","SARI","Acute onset of breathlessness","HTN, Obesity",2020-07-05,2020-07-05,2020-07-07,NA
+384,"Bidar","23375",64,"Male","SARI","Breathlessness","-",2020-07-03,2020-07-05,2020-07-06,NA
+388,"Bidar","24917",90,"Female","Contact under tracing","-","-",NA,2020-06-28,2020-07-06,"Brought dead"
+389,"Bidar","24918",75,"Male","Contact under tracing","-","-",NA,2020-06-29,2020-07-06,"Brought dead"
+390,"Bidar","24919",70,"Male","Returnee from Telangana","-","HTN, DM",2020-07-02,2020-07-02,2020-07-06,NA
+391,"Bidar","24920",22,"Male","SARI","ABD-Pain","-",2020-07-01,2020-07-02,2020-07-06,NA
+392,"Bidar","24921",65,"Female","Contact under tracing","-","HTN",NA,2020-07-02,2020-07-06,"Brought dead"
+393,"Bidar","24922",65,"Female","Contact under tracing","Chest Pain","HTN, IHD",2020-07-02,2020-07-03,2020-07-06,NA
+394,"Bidar","24923",40,"Male","Inter district travel history - Kalaburagi","Chest Pain","DM, IHD",NA,2020-06-25,2020-07-06,"Brought dead"
+410,"Bidar","26812",68,"Female","SARI","Fever & Breathlessness","HTN, DM",2020-07-04,2020-07-05,2020-07-07,NA
+411,"Bidar","26813",70,"Male","SARI","Breathlessness","HTN",NA,2020-07-04,2020-07-07,"Brought dead"
+412,"Bidar","26814",70,"Female","Contact under tracing","-","-",NA,2020-06-29,2020-07-07,"Brought dead"
+447,"Bidar","21415",65,"Male","SARI","Fever & Cough & Breathlessness","-",2020-07-01,2020-07-06,2020-07-08,NA
+518,"Bidar","21399",75,"Male","SARI","Breathlessness","HTN, COPD",2020-07-01,2020-07-08,2020-07-10,NA
+525,"Bidar","26711",61,"Male","SARI","Fever & Cough & Breathlessness","DM,  IHD",2020-07-02,2020-07-06,2020-07-10,NA
+526,"Bidar","26727",72,"Male","SARI","Fever & Cough & Breathlessness","HTN,  DM",2020-07-05,2020-07-07,2020-07-10,NA
+569,"Bidar","23368",40,"Male","SARI","Fever & Breathlessness","DM",2020-07-02,2020-07-10,2020-07-11,NA
+956,"Bidar","21398",65,"Male","SARI","Breathlessness & Cough","DM, CAD",2020-07-01,2020-07-08,2020-07-16,NA
+1008,"Bidar","47400",66,"Male","SARI","Breathlessness & Cough","HTN",2020-07-09,2020-07-09,2020-07-16,NA
+1140,"Bidar","24960",26,"Male","Travel history to Telangana","Fever & Breathlessness","-",2020-07-02,2020-07-12,2020-07-18,NA
+1298,"Bidar","59729",52,"Male","SARI","Breathlessness","-",2020-07-16,2020-07-16,2020-07-19,NA
+1311,"Bidar","65244",60,"Male","SARI","Breathlessness","DM, HTN",2020-07-14,2020-07-14,2020-07-19,NA
+1312,"Bidar","65245",70,"Female","SARI","Breathlessness","HTN",2020-07-07,2020-07-16,2020-07-19,NA
+1325,"Bidar","42002",79,"Male","SARI","Breathlessness","-",2020-07-04,2020-07-08,2020-07-20,NA
+1329,"Bidar","55215",78,"Male","SARI","Breathlessness","HTN",2020-07-15,2020-07-16,2020-07-20,NA
+1332,"Bidar","57443",65,"Male","SARI","Fever & Breathlessness","-",2020-07-04,2020-07-05,2020-07-20,NA
+1333,"Bidar","57490",65,"Male","SARI","Breathlessness","-",2020-07-11,2020-07-12,2020-07-20,NA
+1418,"Bidar","65364",30,"Female","SARI","Fever & Breathlessness","TB",2020-07-18,2020-07-19,2020-07-21,NA
+1426,"Bidar","68678",75,"Male","SARI","Cough & Breathlessness","DM",2020-07-16,2020-07-19,2020-07-21,NA
+1456,"Bidar","45000",67,"Male","SARI","Breathlessness","HTN, CKD",2020-07-12,2020-07-20,2020-07-22,NA
+1461,"Bidar","60971",57,"Female","SARI","Breathlessness","DM, HTN",2020-07-15,2020-07-20,2020-07-22,NA
+1465,"Bidar","65081",58,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-18,2020-07-20,2020-07-22,NA
+1597,"Bidar","83207",65,"Male","SARI","Breathlessness","HTN",2020-07-05,2020-07-21,2020-07-23,NA
+1598,"Bidar","83369",70,"Female","SARI","Fever & Breathlessness","DM",2020-07-17,2020-07-19,2020-07-23,NA
+1599,"Bidar","85185",70,"Male","SARI","Fever & Breathlessness","-",2020-07-21,2020-07-23,2020-07-23,NA
+1907,"Bidar","89401",70,"Male","SARI","Fever & Breathlessness","IHD",2020-07-22,2020-07-24,2020-07-27,NA
+1980,"Bidar","83554",55,"Male","SARI","Fever & Breathlessness","DM, HTN",2020-07-21,2020-07-26,2020-07-28,NA
+2038,"Bidar","108492",47,"Male","SARI","Breathlessness","DM, HTN",2020-07-25,2020-07-27,2020-07-28,NA
+2131,"Bidar","117038",72,"Female","SARI","Fever & Breathlessness","HTN",NA,2020-07-27,2020-07-29,"Brought dead"
+2151,"Bidar","78380",75,"Male","SARI","Breathlessness","HTN",2020-07-22,2020-07-28,2020-07-30,NA
+2164,"Bidar","98661",85,"Female","SARI","Breathlessness","HTN",2020-07-24,2020-07-28,2020-07-30,NA
+2256,"Bidar","99063",58,"Male","SARI","Cough & Breathlessness","HTN, CVA",2020-07-24,2020-07-29,2020-07-31,NA
+2268,"Bidar","114114",85,"Male","SARI","Breathlessness","HTN",2020-07-25,2020-07-28,2020-07-31,NA
+2344,"Bidar","112172",40,"Male","SARI","Breathlessness","-",2020-07-26,2020-07-29,2020-08-01,NA
+2358,"Bidar","118307",70,"Male","SARI","Breathlessness","COPD",2020-07-27,2020-07-28,2020-08-01,NA
+2382,"Bidar","126657",62,"Male","SARI","Breathlessness","-",2020-07-29,2020-07-30,2020-08-01,NA
+2386,"Bidar","128850",65,"Male","SARI","Breathlessness","-",2020-07-29,2020-07-30,2020-08-01,NA
+2494,"Bidar","88918",72,"Female","SARI","Breathlessness","DM, AKI",2020-07-23,2020-08-03,2020-08-03,NA
+2559,"Bidar","136550",66,"Male","SARI","Cough & Breathlessness","DM",2020-07-31,2020-08-02,2020-08-03,NA
+2573,"Bidar","142088",86,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-31,2020-08-02,2020-08-03,NA
+2662,"Bidar","139964",62,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-08-01,2020-08-03,2020-08-04,NA
+2665,"Bidar","140790",85,"Male","SARI","Cough, Breathlessness","HTN",2020-07-30,2020-08-01,2020-08-04,NA
+2688,"Bidar","153342",55,"Female","SARI","Fever, Breathlessness","HTN",2020-07-29,2020-08-02,2020-08-04,NA
+2783,"Bidar","153341",79,"Male","SARI","Fever, Breathlessness","-",2020-07-30,2020-07-30,2020-08-05,NA
+2786,"Bidar","157309",65,"Male","SARI","Breathlessness","HTN",2020-07-03,2020-08-04,2020-08-05,NA
+2807,"Bidar","107994",65,"Male","SARI","Fever & Cough & Breathlessness","CA",2020-07-26,2020-08-04,2020-08-06,NA
+2833,"Bidar","132800",56,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-30,2020-08-04,2020-08-06,NA
+2872,"Bidar","157310",65,"Female","SARI","Fever, Breathlessness","HTN",2020-08-03,2020-08-04,2020-08-06,NA
+2974,"Bidar","165989",35,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-02,2020-08-04,2020-08-07,NA
+3046,"Bidar","155140",90,"Male","SARI","Breathlessness","-",2020-08-05,2020-08-06,2020-08-08,NA
+3075,"Bidar","177522",75,"Female","SARI","Fever, Breathlessness","-",2020-08-02,2020-08-06,2020-08-08,NA
+3095,"Bidar","107219",69,"Male","SARI","Cough, Breathlessness","CKI",2020-07-27,2020-08-07,2020-08-09,NA
+3145,"Bidar","167916",80,"Male","SARI","Breathlessness","DM, HTN",2020-08-06,2020-08-09,2020-08-09,NA
+3174,"Bidar","178259",75,"Male","SARI","Cough, Breathlessness","HTN",2020-08-05,2020-08-08,2020-08-09,NA
+3181,"Bidar","183178",55,"Male","SARI","Breathlessness","-",2020-08-07,2020-08-08,2020-08-09,NA
+3270,"Bidar","178258",55,"Male","SARI","Cough, Breathlessness","DM",2020-08-07,2020-08-09,2020-08-10,NA
+3355,"Bidar","171974",50,"Male","SARI","Breathlessness","DM, HTN",2020-08-05,2020-08-05,2020-08-11,NA
+3371,"Bidar","187137",45,"Female","SARI","Breathlessness","-",2020-08-08,2020-08-09,2020-08-11,NA
+3460,"Bidar","181339",70,"Female","SARI","Fever, Cough, Breathlessness","-",2020-08-06,2020-08-10,2020-08-12,NA
+3473,"Bidar","190846",64,"Male","SARI","Fever, Breathlessness","HTN",2020-08-10,2020-08-10,2020-08-12,NA
+3490,"Bidar","199226",65,"Male","SARI","Cough, Breathlessness","DM",2020-08-09,2020-08-09,2020-08-12,NA
+3693,"Bidar","207204",65,"Male","SARI","Cough, Breathlessness","-",2020-08-10,2020-08-11,2020-08-14,NA
+3789,"Bidar","209041",62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-08-08,2020-08-13,2020-08-15,NA
+3802,"Bidar","217796",60,"Male","SARI","Fever, Breathlessness","-",2020-08-01,2020-08-12,2020-08-15,NA
+3810,"Bidar","222518",70,"Female","SARI","Breathlessness","-",2020-08-12,2020-08-13,2020-08-15,NA
+3940,"Bidar","233608",50,"Male","SARI","Breathlessness","HTN",NA,2020-08-16,2020-08-16,NA
+4087,"Bidar","135937",65,"Female","SARI","Fever, Breathlessness","DM",2020-07-31,2020-08-10,2020-08-18,NA
+4093,"Bidar","147559",55,"Female","SARI","Breathlessness","-",2020-08-03,2020-08-07,2020-08-18,NA
+4105,"Bidar","164241",65,"Male","SARI","Fever, Breathlessness","IHD, AKI",2020-07-25,2020-08-16,2020-08-18,NA
+4113,"Bidar","177513",62,"Male","SARI","Breathlessness","DM",2020-08-07,2020-08-17,2020-08-18,NA
+4154,"Bidar","220293",62,"Male","SARI","Fever, Breathlessness","HTN",2020-08-13,2020-08-17,2020-08-18,NA
+4175,"Bidar","235010",34,"Female","SARI","Fever, Breathlessness","-",2020-08-15,2020-08-17,2020-08-18,NA
+4181,"Bidar","238391",60,"Male","SARI","Cough, Breathlessness","AKI",2020-08-12,2020-08-15,2020-08-18,NA
+4194,"Bidar","248847",24,"Male","SARI","Cough, Breathlessness","Anemia",2020-08-16,2020-08-17,2020-08-18,NA
+4256,"Bidar","209060",66,"Female","SARI","Breathlessness","DM, HTN",2020-08-09,2020-08-18,2020-08-19,NA
+4316,"Bidar","252241",65,"Male","SARI","Fever, Breathlessness","HTN",2020-08-17,2020-08-17,2020-08-19,NA
+4320,"Bidar","256864",48,"Male","SARI","Fever, Breathlessness","-",2020-08-17,2020-08-19,2020-08-19,NA
+4462,"Bidar","227562",58,"Male","SARI","Fever, Breathlessness","DM",2020-08-11,2020-08-20,2020-08-21,NA
+4473,"Bidar","235009",72,"Male","SARI","Cough, Breathlessness","DM",2020-08-14,2020-08-20,2020-08-21,NA
+4476,"Bidar","238397",65,"Female","SARI","Fever, Breathlessness","DM",2020-08-14,2020-08-20,2020-08-21,NA
+4515,"Bidar","270367",58,"Female","SARI","Breathlessness","HTN",2020-08-19,2020-08-19,2020-08-21,NA
+4548,"Bidar","222519",58,"Male","SARI","Breathlessness","DM, HTN",2020-08-13,2020-08-21,2020-08-22,NA
+4550,"Bidar","227566",70,"Male","SARI","Breathlessness","COPD",2020-08-12,2020-08-21,2020-08-22,NA
+4552,"Bidar","230878",33,"Male","SARI","Fever, Cough","DM",2020-08-15,2020-08-21,2020-08-22,NA
+4606,"Bidar","276863",65,"Male","SARI","Fever, Cough, Breathlessness","-",2020-08-19,2020-08-20,2020-08-22,NA
+4712,"Bidar","228430",60,"Female","SARI","Fever, Breathlessness","-",2020-08-11,2020-08-24,2020-08-24,NA
+5063,"Bidar","290330",65,"Female","SARI","Breathlessness","-",2020-08-22,2020-08-25,2020-08-26,NA
+5087,"Bidar","308621",70,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-08-24,2020-08-25,2020-08-26,NA
+5189,"Bidar","286113",60,"Male","SARI","Breathlessness","DM",2020-08-26,2020-08-26,2020-08-27,NA
+5198,"Bidar","291393",50,"Male","SARI","Breathlessness","DM",2020-08-22,2020-08-27,2020-08-27,NA
+5220,"Bidar","313567",70,"Female","SARI","Fever, Breathlessness","DM",2020-08-25,2020-08-25,2020-08-27,NA
+5583,"Bidar","345057",73,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-29,2020-08-30,2020-08-30,NA
+5652,"Bidar","318329",65,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-08-26,2020-08-31,2020-08-31,NA
+5944,"Bidar","367453",75,"Male","SARI","Breathlessness","HTN",2020-08-28,2020-09-01,2020-09-02,NA
+6100,"Bidar","323836",92,"Male","SARI","Fever, Cough, Breathlessness","HTN, CKD",2020-08-29,2020-09-03,2020-09-04,NA
+6142,"Bidar","369070",67,"Male","SARI","Breathlessness","HTN, CKD",2020-09-02,2020-09-04,2020-09-04,NA
+6157,"Bidar","378545",55,"Female","SARI","Breathlessness","-",2020-09-02,2020-09-02,2020-09-04,NA
+6349,"Bidar","360335",50,"Male","SARI","Breathlessness","HTN",2020-08-04,2020-08-31,2020-09-06,NA
+6649,"Bidar","398268",35,"Male","SARI","Breathlessness","-",2020-09-04,2020-09-07,2020-09-08,NA
+6765,"Bidar","396589",55,"Female","SARI","Breathlessness","HTN",2020-09-04,2020-09-08,2020-09-09,NA
+6786,"Bidar","413932",77,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-06,2020-09-08,2020-09-09,NA
+7337,"Bidar","437749",84,"Male","Contact under tracing","Breathlessness","HTN",2020-09-06,2020-09-13,2020-09-14,NA
+7375,"Bidar","475435",43,"Female","Contact under tracing","Breathlessness","-",2020-09-12,2020-09-12,2020-09-14,NA
+7447,"Bidar","457722",55,"Male","SARI","Breathlessness","DM",2020-09-12,2020-09-14,2020-09-15,NA
+7544,"Bidar","487039",40,"Male","SARI","Fever, Cough, Breathlessness","-",2020-09-15,2020-09-15,2020-09-16,NA
+8421,"Bidar","552923",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-22,2020-09-25,NA
+8424,"Bidar","563708",70,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-22,2020-09-22,2020-09-25,NA
+8837,"Bidar","565142",60,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-09-21,2020-09-30,2020-09-30,NA
+8996,"Bidar","603232",55,"Female","SARI","Breathlessness","DM, HTN, IHD",2020-09-28,2020-09-30,2020-10-01,NA
+8999,"Bidar","615999",56,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-09-29,2020-09-29,2020-10-01,NA
+9124,"Bidar","635139",36,"Male","SARI","Fever, Breathlessness","DM",2020-09-23,2020-09-30,2020-10-02,NA
+9125,"Bidar","635141",42,"Female","SARI","Fever, Breathlessness","-",2020-09-28,2020-10-01,2020-10-02,NA
+9163,"Bidar","562810",75,"Male","Contact under tracing","Fever, Breathlessness","HTN",2020-09-22,2020-10-02,2020-10-03,NA
+9222,"Bidar","631204",80,"Female","SARI","Fever, Breathlessness","-",2020-09-30,2020-10-01,2020-10-03,NA
+9579,"Bidar","672816",65,"Female","SARI","Breathlessness","HTN",2020-10-03,2020-10-07,2020-10-07,NA
+9706,"Bidar","565145",60,"Male","SARI","Breathlessness","DM, HTN",2020-09-26,2020-10-08,2020-10-09,NA
+9728,"Bidar","605543",64,"Male","SARI","Fever, Cough, Breathlessness","HTN",2020-09-27,2020-10-09,2020-10-09,NA
+9898,"Bidar","708819",25,"Female","SARI","Breathlessness","-",2020-09-10,2020-10-10,2020-10-10,NA
+10264,"Bidar","708818",39,"Male","SARI","Breathlessness","-",2020-10-13,2020-10-15,2020-10-15,NA
+11310,"Bidar","840876",79,"Male","SARI","Cough, Fever, Breathlessness","DM, HTN",2020-10-31,2020-11-03,2020-11-05,NA
+11359,"Bidar","791613",67,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-10-19,2020-11-05,2020-11-07,NA
+11461,"Bidar","866251",40,"Male","SARI","Breathlessness","DM",2020-11-10,2020-11-10,2020-11-11,NA
+11743,"Bidar","885718",85,"Male","SARI","Fever, Cough, Breathlessness","DM, HTN",2020-11-19,2020-11-25,2020-11-27,NA
+11752,"Bidar","884866",70,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-11-25,2020-11-27,2020-11-28,NA
+11878,"Bidar","908202",60,"Male","SARI","Breathlessness","HTN",2020-12-05,2020-12-06,2020-12-08,NA
+12037,"Bidar","925424",81,"Male","SARI","Cough, Breathlessness","DM",2020-12-21,2020-12-22,2020-12-23,NA
+12143,"Bidar","941751",55,"Female","SARI","Fever, Cough, Breathlessness","DM, HTN",2021-01-09,2021-01-11,2021-01-11,NA
+12353,"Bidar","967646",60,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-03-01,2021-03-03,2021-03-05,NA
+12385,"Bidar","973438",68,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-11,2021-03-12,2021-03-12,NA
+12396,"Bidar","976047",45,"Male","SARI","Fever, Breathlessness","-",2021-03-12,2021-03-13,2021-03-15,NA
+12412,"Bidar","978621",52,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-16,2021-03-18,2021-03-18,NA
+12424,"Bidar","981188",75,"Female","SARI","Fever, Cough, Breathlessness","-",2021-03-16,2021-03-19,2021-03-19,NA
+12431,"Bidar","981731",67,"Female","SARI","Breathlessness","DM, HTN",2021-03-17,2021-03-20,2021-03-20,NA
+12433,"Bidar","985395",82,"Female","SARI","Fever, Breathlessness","-",2021-03-19,2021-03-20,2021-03-21,NA
+12482,"Bidar","991540",70,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-03-22,2021-03-24,2021-03-26,NA
+12486,"Bidar","987584",60,"Female","SARI","Fever, Breathlessness","-",2021-03-20,2021-03-27,2021-03-27,NA
+12505,"Bidar","1006196",75,"Male","SARI","Cough, Breathlessness","-",2021-03-25,2021-03-26,2021-03-29,NA
+12533,"Bidar","999047",63,"Female","SARI","Breathlessness","HTN, DM, CKD",2021-03-27,2021-03-27,2021-03-30,NA
+12580,"Bidar","1005782",41,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-03-25,2021-03-27,2021-04-01,NA
+12652,"Bidar","1030249",52,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-03-31,2021-04-04,2021-04-05,NA
+12694,"Bidar","1040954",75,"Male","SARI","Fever, Breathlessness","DM, HTN, CVA",2021-04-03,2021-04-06,2021-04-06,NA
+12718,"Bidar","1024916",75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-03-31,2021-04-06,2021-04-07,NA
+12747,"Bidar","1021557",65,"Female","SARI","Breathlessness","-",2021-03-31,2021-04-07,2021-04-08,NA
+12802,"Bidar","1042346",45,"Male","SARI","Breathlessness","DM, HTN",2021-04-04,2021-04-06,2021-04-09,NA
+12827,"Bidar","1038079",75,"Male","SARI","Fever, Breathlessness","HTN",2021-04-03,2021-04-09,2021-04-10,NA
+12847,"Bidar","1074047",76,"Male","SARI","Fever, Breathlessness","-",2021-04-07,2021-04-08,2021-04-10,NA
+12867,"Bidar","1042825",78,"Male","SARI","Fever, Breathlessness","HTN",2021-04-05,2021-04-10,2021-04-11,NA
+12939,"Bidar","1092527",33,"Male","SARI","Breathlessness","-",2021-04-10,2021-04-10,2021-04-12,NA
+12940,"Bidar","1094107",70,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-04-10,2021-04-10,2021-04-12,NA
+12993,"Bidar","1067365",56,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-04-06,2021-04-12,2021-04-13,NA
+13006,"Bidar","1094102",65,"Female","SARI","Fever, Breathlessness","-",2021-04-09,2021-04-10,2021-04-13,NA
+13032,"Bidar","1074033",58,"Female","SARI","Fever, Breathlessness","-",2021-04-11,2021-04-12,2021-04-14,NA
+13045,"Bidar","1112521",50,"Female","SARI","Breathlessness","COPD",2021-04-11,2021-04-12,2021-04-14,NA
+13093,"Bidar","1062898",82,"Male","SARI","Breathlessness","-",2021-04-06,2021-04-12,2021-04-15,NA
+13110,"Bidar","1123665",40,"Male","SARI","Fever, Breathlessness","-",2021-04-12,2021-04-12,2021-04-15,NA
+13173,"Bidar","1112531",29,"Female","SARI","Breathlessness","-",2021-04-12,2021-04-14,2021-04-16,NA
+13189,"Bidar","1143953",68,"Male","SARI","Breathlessness","-",2021-04-14,2021-04-15,2021-04-16,NA
+13212,"Bidar","1066396",80,"Male","SARI","Fever, Breathlessness","HTN",2021-04-11,2021-04-15,2021-04-17,NA
+13214,"Bidar","1067378",68,"Female","SARI","Breathlessness","-",2021-04-09,2021-04-15,2021-04-17,NA
+13348,"Bidar","1173222",65,"Female","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-15,2021-04-18,NA
+13416,"Bidar","1092497",63,"Male","SARI","Cough, Breathlessness","-",2021-04-09,2021-04-19,2021-04-19,NA
+13435,"Bidar","1112548",50,"Male","SARI","Breathlessness","-",2021-04-11,2021-04-18,2021-04-19,NA
+13550,"Bidar","1114667",75,"Male","SARI","Breathlessness","-",2021-04-14,2021-04-19,2021-04-20,NA
+13551,"Bidar","1115406",53,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-14,2021-04-19,2021-04-20,NA
+13557,"Bidar","1123681",30,"Male","SARI","Fever, Breathlessness","DM",2021-04-13,2021-04-18,2021-04-20,NA
+13575,"Bidar","1136921",54,"Male","SARI","Fever, Breathlessness","DM",2021-04-13,2021-04-18,2021-04-20,NA
+13628,"Bidar","1184410",48,"Male","SARI","Breathlessness","-",2021-04-16,2021-04-19,2021-04-20,NA
+13634,"Bidar","1195837",50,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-15,2021-04-18,2021-04-20,NA
+13636,"Bidar","1199763",55,"Male","SARI","Breathlessness","-",2021-04-17,2021-04-18,2021-04-20,NA
+13685,"Bidar","1112532",68,"Female","SARI","Cough, Breathlessness","HTN",2021-04-11,2021-04-20,2021-04-21,NA
+13698,"Bidar","1139140",57,"Male","SARI","Breathlessness","HTN",2021-04-16,2021-04-19,2021-04-21,NA
+13726,"Bidar","1174503",61,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-16,2021-04-20,2021-04-21,NA
+13732,"Bidar","1183351",75,"Male","SARI","Breathlessness","DM",2021-04-15,2021-04-19,2021-04-21,NA
+13750,"Bidar","1221858",63,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-04-18,2021-04-21,2021-04-21,NA
+13797,"Bidar","1113988",85,"Female","SARI","Breathlessness","-",2021-04-14,2021-04-21,2021-04-22,NA
+13820,"Bidar","1151396",44,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-04-16,2021-04-21,2021-04-22,NA
+13855,"Bidar","1198839",50,"Female","SARI","Cough, Breathlessness","DM",2021-04-18,2021-04-18,2021-04-22,NA
+13962,"Bidar","1125870",55,"Female","SARI","Cough, Breathlessness","DM",2021-04-16,2021-04-22,2021-04-23,NA
+13989,"Bidar","1163953",60,"Female","SARI","Breathlessness","HTN",2021-04-14,2021-04-22,2021-04-23,NA
+14355,"Bidar","1218100",57,"Male","SARI","Breathlessness","DM",2021-04-19,2021-04-21,2021-04-25,NA
+14357,"Bidar","1221864",50,"Female","SARI","Cough, Breathlessness","-",2021-04-23,2021-04-25,2021-04-25,NA
+14462,"Bidar","1142821",35,"Male","SARI","Cough, Breathlessness","-",2021-04-14,2021-04-26,2021-04-26,NA
+14470,"Bidar","1161276",64,"Male","SARI","Fever, Breathlessness","HTN",2021-04-16,2021-04-25,2021-04-26,NA
+14499,"Bidar","1220703",78,"Female","SARI","Breathlessness","DM, HTN",2021-04-22,2021-04-26,2021-04-26,NA
+14620,"Bidar","1382659",75,"Male","SARI","Breathlessness","HTN",2021-04-23,2021-04-23,2021-04-26,NA
+14666,"Bidar","1181656",80,"Female","SARI","Breathlessness","DM",2021-04-17,2021-04-26,2021-04-27,NA
+14709,"Bidar","1261612",61,"Male","SARI","Breathlessness","HTN",2021-04-22,2021-04-25,2021-04-27,NA
+14729,"Bidar","1290728",62,"Female","SARI","Cough, Breathlessness","DM",2021-04-22,2021-04-26,2021-04-27,NA
+14747,"Bidar","1333482",38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-04-23,2021-04-25,2021-04-27,NA
+14805,"Bidar","1420952",45,"Female","SARI","Breathlessness","-",2021-04-23,2021-04-26,2021-04-27,NA
+14856,"Bidar","1195848",65,"Female","SARI","Fever, Breathlessness","HTN",2021-04-15,2021-04-28,2021-04-28,NA
+14899,"Bidar","1259986",50,"Female","SARI","Breathlessness","-",2021-04-19,2021-04-28,2021-04-28,NA
+14990,"Bidar","1382606",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-26,2021-04-27,2021-04-28,NA
+14996,"Bidar","1393647",45,"Male","SARI","Cough, Breathlessness","DM",2021-04-16,2021-04-27,2021-04-28,NA
+14997,"Bidar","1393690",51,"Female","SARI","Breathlessness","-",2021-04-23,2021-04-27,2021-04-28,NA
+15024,"Bidar","1418247",60,"Female","SARI","Cough, Breathlessness","DM",2021-04-23,2021-04-27,2021-04-28,NA
+15079,"Bidar","1162419",36,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-26,2021-04-29,NA
+15143,"Bidar","1271659",50,"Male","SARI","Cough, breathlessness","DM",2021-04-22,2021-04-29,2021-04-29,NA
+15235,"Bidar","1420963",68,"Female","SARI","Breathlessness","HTN",2021-04-28,2021-04-28,2021-04-29,NA
+15277,"Bidar","1458145",60,"Female","SARI","Fever, cough, breathlessness","DM, HTN",2021-04-27,2021-04-29,2021-04-29,NA
+15304,"Bidar","1500080",26,"Female","SARI","Cough, Breathlessness","-",2021-04-27,2021-04-27,2021-04-29,NA
+15312,"Bidar","1092467",68,"Female","SARI","Breathlessness","HTN",2021-04-25,2021-04-28,2021-04-30,NA
+15418,"Bidar","1369218",65,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-04-19,2021-04-29,2021-04-30,NA
+15469,"Bidar","1458195",28,"Male","SARI","Breathlessness","-",2021-04-16,2021-04-28,2021-04-30,NA
+15502,"Bidar","1509440",70,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-04-29,2021-04-30,NA
+15506,"Bidar","1515032",61,"Male","SARI","Breathlessness","DM",2021-04-28,2021-04-30,2021-04-30,NA
+15514,"Bidar","1535293",35,"Female","SARI","Fever, Breathlessness","-",2021-04-26,2021-04-29,2021-04-30,NA
+15777,"Bidar","1552915",69,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-04-28,2021-04-30,2021-05-01,NA
+15813,"Bidar","1195843",60,"Male","SARI","Breathlessness","DM",2021-04-14,2021-04-30,2021-05-02,NA
+15946,"Bidar","1515043",35,"Male","SARI","Breathlessness","-",2021-04-27,2021-04-30,2021-05-02,NA
+15993,"Bidar","1607516",35,"Female","SARI","Cough, Breathlessness","-",2021-04-28,2021-04-30,2021-05-02,NA
+16004,"Bidar","1629349",37,"Male","SARI","Cough, Breathlessness","HTN",2021-04-29,2021-04-30,2021-05-02,NA
+16007,"Bidar","1632510",60,"Female","SARI","Breathlessness","-",2021-04-29,2021-04-30,2021-05-02,NA
+16020,"Bidar","1173223",55,"Male","SARI","Breathlessness","HTN",2021-04-15,2021-05-01,2021-05-03,NA
+16145,"Bidar","1458144",47,"Male","SARI","Breathlessness","DM",2021-04-27,2021-05-02,2021-05-03,NA
+16146,"Bidar","1458185",60,"Female","SARI","Breathlessness","DM",2021-04-25,2021-05-01,2021-05-03,NA
+16351,"Bidar","1369196",46,"Male","SARI","Breathlessness","-",2021-04-26,2021-05-03,2021-05-04,NA
+16372,"Bidar","1412492",45,"Female","SARI","Fever, Breathlessness","DM",2021-04-23,2021-05-02,2021-05-04,NA
+16459,"Bidar","1594399",20,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-02,2021-05-04,NA
+16514,"Bidar","1673177",55,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-01,2021-05-01,2021-05-04,NA
+16539,"Bidar","1729886",65,"Female","SARI","Cough, Breathlessness","HTN",2021-05-01,2021-05-02,2021-05-04,NA
+16667,"Bidar","1321063",45,"Male","SARI","Cough, Breathlessness","-",2021-04-24,2021-05-04,2021-05-05,NA
+16668,"Bidar","1321069",55,"Male","SARI","Breathlessness","HTN",2021-04-23,2021-05-04,2021-05-05,NA
+16698,"Bidar","1415238",78,"Male","SARI","Fever, Breathlessness","-",2021-04-27,2021-05-03,2021-05-05,NA
+16754,"Bidar","1515027",60,"Male","SARI","Breathlessness","DM",2021-04-27,2021-05-02,2021-05-05,NA
+16798,"Bidar","1605730",68,"Male","SARI","Fever, Breathlessness","-",2021-04-29,2021-05-05,2021-05-05,NA
+16832,"Bidar","1673170",50,"Male","SARI","Cough, Breathlessness","DM",2021-04-30,2021-05-02,2021-05-05,NA
+16833,"Bidar","1676159",50,"Female","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-04,2021-05-05,NA
+16864,"Bidar","1729879",75,"Male","SARI","Breathlessness","HTN",2021-04-29,2021-05-04,2021-05-05,NA
+17102,"Bidar","1608880",70,"Female","SARI","Breathlessness","-",2021-04-29,2021-04-29,2021-05-06,NA
+17135,"Bidar","1649543",73,"Male","SARI","Breathlessness","HTN",2021-04-30,2021-05-06,2021-05-06,NA
+17149,"Bidar","1679853",50,"Female","SARI","Fever, Breathlessness","-",2021-05-03,2021-05-06,2021-05-06,NA
+17195,"Bidar","1769747",45,"Female","SARI","Breathlessness","DM",2021-04-24,2021-05-05,2021-05-06,NA
+17224,"Bidar","1094070",75,"Male","SARI","Breathlessness","DM, HTN",2021-04-10,2021-05-05,2021-05-07,NA
+17531,"Bidar","1548938",55,"Female","SARI","Cough, Breathlessness","DM",2021-04-28,2021-05-05,2021-05-07,NA
+17587,"Bidar","1607534",30,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-07,NA
+17610,"Bidar","1629343",38,"Female","SARI","Breathlessness","DM",2021-05-03,2021-05-06,2021-05-07,NA
+17614,"Bidar","1635917",27,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-06,2021-05-07,NA
+17961,"Bidar","1333451",40,"Male","SARI","Fever, Breathlessness","HTN",2021-04-20,2021-05-07,2021-05-08,NA
+18048,"Bidar","1515035",26,"Male","SARI","Cough, Breathlessness","-",2021-05-07,2021-05-08,2021-05-08,NA
+18147,"Bidar","1670184",62,"Male","SARI","Breathlessness","-",2021-05-01,2021-05-07,2021-05-08,NA
+18221,"Bidar","1809013",51,"Female","SARI","Cough, Breathlessness","DM",2021-05-03,2021-05-04,2021-05-08,NA
+18262,"Bidar","1869803",66,"Male","SARI","Breathlessness","-",2021-05-03,2021-05-05,2021-05-08,NA
+18263,"Bidar","1869813",65,"Female","SARI","Cough, Breathlessness","HTN",2021-05-04,2021-05-06,2021-05-08,NA
+18371,"Bidar","1333448",57,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18481,"Bidar","1514999",70,"Male","SARI","Breathlessness","DM",2021-04-27,2021-05-01,2021-05-09,NA
+18589,"Bidar","1679859",39,"Male","SARI","Breathlessness","DM, HTN",2021-05-01,2021-05-08,2021-05-09,NA
+18731,"Bidar","1909662",64,"Male","SARI","Breathlessness","DM",2021-05-06,2021-05-08,2021-05-09,NA
+18772,"Bidar","1954909",85,"Male","SARI","Cough, Breathlessness","-",2021-05-08,2021-05-09,2021-05-09,NA
+18777,"Bidar","1982159",50,"Male","SARI","Cough, Breathlessness","-",2021-05-04,2021-05-07,2021-05-09,NA
+18778,"Bidar","1982162",48,"Male","SARI","Breathlessness","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+19222,"Bidar","1780831",55,"Male","SARI","Cough, breathlessness","HTN",2021-05-03,2021-05-08,2021-05-10,NA
+19230,"Bidar","1799177",56,"Male","SARI","Fever, breathlessness","DM",2021-05-09,2021-05-09,2021-05-10,NA
+19257,"Bidar","1824236",48,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-09,2021-05-10,NA
+19285,"Bidar","1866282",46,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-10,2021-05-10,NA
+19587,"Bidar","1649545",60,"Female","SARI","Breathlessness","-",2021-04-30,2021-05-10,2021-05-11,NA
+19709,"Bidar","1827826",54,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-10,2021-05-11,NA
+19742,"Bidar","1866300",45,"Male","SARI","Breathlessness","HTN",2021-05-05,2021-05-10,2021-05-11,NA
+19839,"Bidar","2017867",55,"Female","SARI","Cough, Breathlessness","DM",2021-05-03,2021-05-10,2021-05-11,NA
+19840,"Bidar","2017875",70,"Male","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-10,2021-05-11,NA
+19841,"Bidar","2023148",40,"Female","SARI","Fever, Breathlessness","HTN",2021-05-09,2021-05-10,2021-05-11,NA
+19843,"Bidar","2025954",58,"Male","SARI","Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-11,NA
+19877,"Bidar","1369195",45,"Male","SARI","Breathlessness","-",2021-04-17,2021-05-09,2021-05-12,NA
+19983,"Bidar","1676155",65,"Male","SARI","Breathlessness","HTN",2021-05-01,2021-05-10,2021-05-12,NA
+20201,"Bidar","1885440",60,"Female","SARI","Cough, Breathlessness","-",2021-05-05,2021-05-10,2021-05-12,NA
+20227,"Bidar","1909651",50,"Male","SARI","Fever, Breathlessness","HTN",2021-05-10,2021-05-10,2021-05-12,NA
+20258,"Bidar","1932039",58,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-10,2021-05-12,NA
+20326,"Bidar","2017857",85,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-06,2021-05-10,2021-05-12,NA
+20327,"Bidar","2017879",60,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-07,2021-05-11,2021-05-12,NA
+20466,"Bidar","1607488",65,"Female","SARI","Cough, Breathlessness","DM",2021-04-03,2021-05-12,2021-05-13,NA
+20593,"Bidar","1923236",75,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-12,2021-05-13,NA
+20700,"Bidar","2101807",58,"Male","SARI","Cough, Breathlessness","DM, HTN",2021-05-09,2021-05-10,2021-05-13,NA
+20701,"Bidar","2106393",42,"Female","SARI","Cough, Breathlessness","-",2021-05-11,2021-05-11,2021-05-13,NA
+20851,"Bidar","1789593",40,"Male","SARI","Cough, Breathlessness","HTN",2021-05-03,2021-05-14,2021-05-14,NA
+20947,"Bidar","1985507",65,"Male","SARI","Fever, Breathlessness","DM",2021-05-09,2021-05-09,2021-05-14,NA
+21056,"Bidar","2139377",62,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-14,NA
+21071,"Bidar","2152673",51,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21196,"Bidar","1766297",55,"Female","SARI","Fever, Breathlessness","DM",2021-05-03,2021-05-14,2021-05-15,NA
+21238,"Bidar","1885431",40,"Male","SARI","Breathlessness","HTN",2021-05-05,2021-05-15,2021-05-15,NA
+21318,"Bidar","2050271",46,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-15,NA
+21386,"Bidar","2149762",38,"Male","SARI","Breathlessness","DM",2021-04-29,2021-05-12,2021-05-15,NA
+21390,"Bidar","2151484",55,"Female","SARI","Cough, Breathlessness","DM, HTN",2021-05-14,2021-05-14,2021-05-15,NA
+21417,"Bidar","2187879",48,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-13,2021-05-15,NA
+21548,"Bidar","1607517",71,"Male","SARI","Breathlessness","DM",2021-05-12,2021-05-12,2021-05-16,NA
+21583,"Bidar","1769737",28,"Male","SARI","Fever, Breathlessness","-",2021-05-04,2021-05-13,2021-05-16,NA
+21715,"Bidar","2059047",80,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-09,2021-05-16,NA
+21752,"Bidar","2106392",31,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-13,2021-05-16,NA
+21803,"Bidar","2180662",50,"Male","SARI","Cough, Breathlessness","HTN",2021-05-12,2021-05-12,2021-05-16,NA
+21821,"Bidar","2206844",80,"Female","SARI","Breathlessness","DM",2021-05-12,2021-05-16,2021-05-16,NA
+22204,"Bidar","2149748",60,"Male","SARI","Breathlessness","HTN",2021-05-10,2021-05-16,2021-05-17,NA
+22283,"Bidar","2245416",35,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-17,NA
+22287,"Bidar","2248116",33,"Male","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-14,2021-05-17,NA
+22288,"Bidar","2248122",50,"Male","SARI","Cough, Breathlessness","DM",2021-05-14,2021-05-15,2021-05-17,NA
+22671,"Bidar","2081783",23,"Male","SARI","Cough, Breathlessness","-",2021-05-09,2021-05-17,2021-05-18,NA
+22686,"Bidar","2106394",70,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-05-10,2021-05-18,2021-05-18,NA
+22801,"Bidar","2248110",45,"Female","SARI","Breathlessness","HTN",2021-05-17,2021-05-17,2021-05-18,NA
+22821,"Bidar","2280285",70,"Female","SARI","Cough, Breathlessness","-",2021-05-16,2021-05-18,2021-05-18,NA
+23123,"Bidar","2084967",47,"Female","SARI","Cough, Breathlessness","HTN",2021-05-14,2021-05-17,2021-05-19,NA
+23135,"Bidar","2101783",50,"Female","SARI","Fever, Breathlessness","-",2021-05-14,2021-05-18,2021-05-19,NA
+23170,"Bidar","2149741",46,"Female","SARI","Breathlessness","-",2021-05-17,2021-05-17,2021-05-19,NA
+23239,"Bidar","2236342",55,"Female","SARI","Breathlessness","DM",2021-05-16,2021-05-19,2021-05-19,NA
+23551,"Bidar","1885437",80,"Male","SARI","Cough, Breathlessness","DM",2021-05-05,2021-05-17,2021-05-20,NA
+23591,"Bidar","1991960",52,"Male","SARI","Cough, Breathlessness","-",2021-05-15,2021-05-20,2021-05-20,NA
+23602,"Bidar","2012122",50,"Female","SARI","Fever, Breathlessness","DM",2021-05-08,2021-05-19,2021-05-20,NA
+23812,"Bidar","2306903",75,"Female","SARI","Breathlessness","DM",2021-05-16,2021-05-19,2021-05-20,NA
+23844,"Bidar","2350521",50,"Female","SARI","Fever, Breathlessness","HTN",2021-05-17,2021-05-18,2021-05-20,NA
+24534,"Bidar","2218853",48,"Female","SARI","Cough, Breathlessness","-",2021-05-14,2021-05-21,2021-05-22,NA
+24560,"Bidar","2280297",65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-16,2021-05-20,2021-05-22,NA
+24632,"Bidar","2394477",42,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-21,2021-05-22,NA
+24633,"Bidar","2396368",77,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-21,2021-05-22,NA
+24814,"Bidar","1766327",65,"Male","SARI","Breathlessness","HTN",2021-05-03,2021-05-21,2021-05-23,NA
+25238,"Bidar","2396364",60,"Male","SARI","Fever, Breathlessness","DM",2021-05-18,2021-05-22,2021-05-23,NA
+25253,"Bidar","2414461",21,"Male","SARI","Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25655,"Bidar","2304151",71,"Male","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25794,"Bidar","2463671",65,"Male","SARI","Breathlessness","DM",2021-05-20,2021-05-22,2021-05-24,NA
+26210,"Bidar","2248205",48,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-14,2021-05-23,2021-05-25,NA
+26274,"Bidar","2350504",45,"Female","SARI","Fever, Breathlessness","-",2021-05-08,2021-05-24,2021-05-25,NA
+26817,"Bidar","2371016",80,"Male","SARI","Breathlessness","DM, HTN",2021-05-18,2021-05-25,2021-05-26,NA
+26830,"Bidar","2396365",64,"Female","SARI","Fever, Breathlessness","HTN",2021-05-18,2021-05-24,2021-05-26,NA
+26837,"Bidar","2404577",63,"Male","SARI","Cough, Breathlessness","HTN",2021-05-22,2021-05-25,2021-05-26,NA
+27280,"Bidar","2373445",38,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-25,2021-05-27,NA
+27328,"Bidar","2439971",56,"Male","SARI","Breathlessness","HTN",2021-05-20,2021-05-26,2021-05-27,NA
+27712,"Bidar","2463688",58,"Female","SARI","Cough, Breathlessness","DM",2021-05-21,2021-05-27,2021-05-28,NA
+27741,"Bidar","2504176",48,"Male","SARI","Fever, Breathlessness","HTN",2021-05-25,2021-05-27,2021-05-28,NA
+27785,"Bidar","2560636",42,"Female","SARI","Breathlessness","-",2021-05-25,2021-05-27,2021-05-28,NA
+28000,"Bidar","2248201",43,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-05-11,2021-05-28,2021-05-29,NA
+28092,"Bidar","2371024",32,"Male","SARI","Cough, Breathlessness","-",2021-05-18,2021-05-28,2021-05-29,NA
+28256,"Bidar","2544731",40,"Male","SARI","Fever, Breathlessness","-",2021-05-26,2021-05-28,2021-05-29,NA
+28586,"Bidar","2463672",50,"Male","SARI","Cough, Breathlessness","HTN",2021-05-23,2021-05-29,2021-05-30,NA
+28599,"Bidar","2488110",45,"Female","SARI","Fever, Breathlessness","-",2021-05-22,2021-05-28,2021-05-30,NA
+28922,"Bidar","2299210",44,"Female","SARI","Fever, Breathlessness","-",2021-05-27,2021-05-29,2021-05-31,NA
+29404,"Bidar","2404557",40,"Male","SARI","Fever, Breathlessness","-",2021-05-21,2021-06-01,2021-06-01,NA
+29476,"Bidar","2533392",44,"Male","SARI","Breathlessness","HTN",2021-05-24,2021-05-31,2021-06-01,NA
+30415,"Bidar","2560634",45,"Female","SARI","Fever, Breathlessness","DM",2021-05-25,2021-06-01,2021-06-03,NA
+30459,"Bidar","2619538",64,"Female","SARI","Breathlessness","HTN",2021-05-28,2021-05-28,2021-06-03,NA
+30691,"Bidar","2306895",50,"Male","SARI","Breathlessness","-",2021-05-27,2021-06-03,2021-06-04,NA
+30868,"Bidar","2672165",55,"Male","SARI","Fever, Breathlessness","HTN",2021-05-26,2021-06-01,2021-06-04,NA
+31107,"Bidar","2463693",60,"Female","SARI","Fever, Breathlessness","-",2021-06-01,2021-06-03,2021-06-05,NA
+31766,"Bidar","2504169",31,"Male","SARI","Breathlessness","-",2021-05-22,2021-06-06,2021-06-07,NA
+31970,"Bidar","2509486",55,"Female","SARI","Breathlessness","HTN",2021-06-04,2021-06-07,2021-06-08,NA
+32273,"Bidar","2745378",60,"Male","SARI","Fever, Breathlessness","DM, HTN",2021-06-05,2021-06-07,2021-06-09,NA
+32300,"Bidar","2245417",45,"Female","SARI","Cough, Breathlessness","-",2021-05-12,2021-06-09,2021-06-10,NA
+33847,"Bidar","2810205",60,"Female","SARI","Cough, Breathlessness","-",2021-06-12,2021-06-19,2021-06-20,NA
+33963,"Bidar","2765353",80,"Male","SARI","Breathlessness","DM, HTN",2021-06-09,2021-06-21,2021-06-21,NA
+34319,"Bidar","2745374",45,"Male","SARI","Breathlessness","-",2021-06-07,2021-06-23,2021-06-24,NA
+34810,"Bidar","2863181",35,"Female","SARI ","Breathlessness ","HTN ",2021-06-22,2021-06-28,2021-06-28,NA
+35127,"Bidar","2885746",65,"Male","SARI","Cough, Breathlessness","-",2021-06-27,2021-06-29,2021-07-01,NA
+35191,"Bidar","2862011",84,"Female","SARI","Fever, Breathlessness","DM, HTN",2021-06-22,2021-07-01,2021-07-02,NA
+35514,"Bidar","2898115",45,"Male","SARI","Fever, Breathlessness","DM",2021-07-04,2021-07-05,2021-07-06,NA
+37160,"Bidar","2978709",58,"Male","ILI","Fever","DM, HTN",2021-08-21,2021-08-21,2021-08-25,NA
+37297,"Bidar","2958097",60,"Female","ILI","Fever","DM",2021-08-07,2021-08-26,2021-09-02,NA
+37871,"Bidar","100003977",49,"Male","SARI","Fever, Cough, Breathlessness","-",2021-09-07,2021-10-06,2021-10-14,NA
+37921,"Bidar","3020644",51,"Female","ILI","Fever","-",2021-10-04,2021-10-19,2021-10-20,NA
+38057,"Bidar","100004022",60,"Female","SARI","Fever, Cough, Breathlessness","-",2021-11-03,2021-11-04,2021-11-06,NA
+38207,"Bidar","100004052",40,"Male","SARI","Fever, Cough,Breathlessness","-",2021-12-01,2021-12-05,2021-12-12,NA
+38221,"Bidar","100004053",85,"Male","SARI","Fever,Breathlessness","DM,HTN",2021-12-07,2021-12-09,2021-12-14,NA
+38479,"Bidar","3276962",59,"Male","ILI","Fever","DM",2022-01-15,2022-01-16,2022-01-20,NA
+38480,"Bidar","3299473",70,"Male","ILI","Fever","-",2022-01-17,2022-01-17,2022-01-20,NA
+38788,"Bidar","3689449",9,"Male","ILI","Fever, Cough","-",2022-01-24,2022-01-26,2022-01-28,NA
+39038,"Bidar","3774875",60,"Male","ILI","Fever","-",2022-01-27,2022-01-28,2022-02-01,NA
+39309,"Bidar","3918632",62,"Male","SARI","Breathlessness","-",2022-02-02,2022-02-04,2022-02-07,NA
+39358,"Bidar","3918632",62,"Male","SARI","Breathlessness","-",2022-02-02,2022-02-04,2022-02-07,NA
+39447,"Bidar","3938127",60,"Female","ILI","Cough","HTN",2022-02-03,2022-02-08,2022-02-10,NA
+39509,"Bidar","3913513",75,"Female","ILI","Fever","-",2022-02-01,2022-02-10,2022-02-12,NA
+39530,"Bidar","3971513",54,"Male","SARI","Fever, Cough, Breathlessness","DM",2022-02-09,2022-02-10,2022-02-12,NA
+39582,"Bidar","3973467",45,"Female","SARI","Cough, Breathlessness","CA",2022-02-06,2022-02-12,2022-02-14,NA
+39585,"Bidar","3974584",65,"Female","ILI","Fever","DM",2022-02-11,2022-02-12,2022-02-14,NA
+39836,"Bidar","3984327",84,"Male","SARI","Cough, Breathlessness","-",2022-02-18,2022-02-25,2022-02-27,NA

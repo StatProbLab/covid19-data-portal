@@ -1,0 +1,16 @@
+"Sno","District","State.P.No","Age.In.Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB.Date","Notes","Difference1","Difference2"
+219,"Hassan",13336,"60","Female","Contact under tracing","Stomach Pain","-","2021-04-12","2020-06-26","2020-06-29",NA,-290,3
+1943,"Kalaburagi",42296,"56","Male","SARI","Fever & Cough & Breathlessness","DM, HTN, IHD","2020-12-07","2020-07-26","2020-07-28",NA,-134,2
+4173,"Hassan",231895,"75","Male","ILI","Fever","DM, HTN","2020-08-17","2020-08-10","2020-08-18",NA,-7,8
+12128,"Bengaluru Urban",936747,"76","Female","SARI","Fever, Cough, Breathlessness","HTN","2021-04-01","2021-01-04","2021-01-07",NA,-87,3
+13785,"Bengaluru Rural",1086199,"40","Male","SARI","Breathlessness","DM, HTN","2021-04-11","2021-04-10","2021-04-22",NA,-1,12
+17910,"Bengaluru Urban",1241578,"66","Male","ILI","Fever, Cough","-","2021-05-26","2021-05-06","2021-05-08",NA,-20,2
+17931,"Bengaluru Urban",1280833,"72","Male","SARI","Fever, Cough, Breathlessness","DM","2021-04-26","2021-04-04","2021-05-08",NA,-22,34
+17937,"Bengaluru Urban",1297078,"56","Female","SARI","Breathlessness","-","2021-05-28","2021-05-02","2021-05-08",NA,-26,6
+17994,"Bengaluru Urban",1405428,"43","Male","SARI","Breathlessness","DM, CKD","2021-04-20","2021-04-05","2021-05-08",NA,-15,33
+18060,"Bengaluru Urban",1532655,"27","Male","ILI","Fever","-","2021-04-30","2021-04-02","2021-05-08",NA,-28,36
+18267,"Bengaluru Urban",1871232,"61","Female","SARI","Fever, Breathlessness","-","2021-04-28","2021-04-05","2021-05-08",NA,-23,33
+29902,"Koppal",2515311,"40","Male","ILI","Cough","-","2021-05-29","2021-05-19","2021-06-02",NA,-10,14
+31481,"Shivamogga",2569807,"52","Female","SARI","Fever, Cough, Breathlessness","DM","2021-05-25","2021-05-06","2021-06-06",NA,-19,31
+31487,"Chikkaballapura",2578342,"35","Male","SARI","Fever, Cough, Breathlessness","-","2021-05-19","2021-05-06","2021-06-06",NA,-13,31
+31490,"Tumakuru",2579362,"63","Male","SARI","Fever, Cough, Breathlessness","DM, HTN","2021-06-26","2021-06-02","2021-06-06",NA,-24,4

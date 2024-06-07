@@ -1,0 +1,306 @@
+"Sno","District","State P No","Age In Years","Sex","Description","Symptoms","Co.Morbidities","DOA","DOD","MB Date","Notes"
+94,"Ramanagara",7261,48,"Male","SARI",NA,NA,2020-06-13,2020-06-15,2020-06-16,NA
+139,"Ramanagara",9237,90,"Male","Contact under tracing","Asymptomatic","Hypertension",NA,2020-06-20,2020-06-22,"Died at his residence"
+160,"Ramanagara",9925,53,"Male","ILI","Fever & Cold","DM",NA,2020-06-24,2020-06-24,"Died at his residence"
+161,"Ramanagara",9926,60,"Male","Contact of P-8515","Cough & Breathlessness","DM",2020-06-21,2020-06-24,2020-06-24,NA
+217,"Ramanagara",13267,40,"Male","SARI","Fever & Cough & Breathlessness","-",2020-06-27,2020-06-27,2020-06-29,NA
+453,"Ramanagara",23554,70,"Female","SARI","Fever & Cough & Breathlessness","IHD",2020-06-29,2020-07-07,2020-07-08,NA
+454,"Ramanagara",23558,40,"Male","SARI","Fever & Cough & Breathlessness","CKD",2020-07-01,2020-07-07,2020-07-08,NA
+606,"Ramanagara",36010,60,"Female","Contact under tracing","-","-",NA,2020-07-06,2020-07-11,"Brought dead"
+841,"Ramanagara",26998,77,"Male","SARI","Breathlessness","HTN,  DM, IHD",2020-07-07,2020-07-13,2020-07-15,NA
+1564,"Ramanagara",64069,71,"Male","SARI","Fever & Cough & Breathlessness","HTN",2020-07-14,2020-07-20,2020-07-23,NA
+2236,"Ramanagara",73349,54,"Female","Contact under tracing",NA,"CA",2020-07-15,2020-07-28,2020-07-31,NA
+3016,"Ramanagara",121711,62,"Male","SARI","Breathlessness","-",2020-07-27,2020-08-06,2020-08-08,NA
+3019,"Ramanagara",125252,51,"Male","SARI","Fever, Breathlessness","DM, HTN",2020-07-19,2020-08-04,2020-08-08,NA
+3211,"Ramanagara",106400,52,"Female","ILI","Fever, Cough","DM",2020-07-26,2020-08-07,2020-08-10,NA
+3222,"Ramanagara",130868,82,"Male","SARI","Breathlessness","DM, HTN",2020-07-31,2020-08-08,2020-08-10,NA
+3498,"Ramanagara",68848,90,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-07-12,2020-07-19,2020-08-13,NA
+3541,"Ramanagara",155954,54,"Male","SARI","Fever, Breathlessness","HTN",2020-07-10,2020-08-04,2020-08-13,NA
+4699,"Ramanagara",214902,74,"Male","ILI","Cough","DM",2020-08-13,2020-08-19,2020-08-24,NA
+4704,"Ramanagara",219561,40,"Male","ILI","Fever","IHD",2020-08-15,2020-08-22,2020-08-24,NA
+4717,"Ramanagara",230354,50,"Male","SARI","Fever, Cough, Breathlessness","DM",2020-08-14,2020-08-21,2020-08-24,NA
+4935,"Ramanagara",281835,44,"Female","ILI","Fever, Cough","HTN",2020-08-22,2020-08-22,2020-08-25,NA
+5211,"Ramanagara",303175,75,"Female","SARI","Cough, Breathlessness","DM",2020-08-25,2020-08-25,2020-08-27,NA
+5223,"Ramanagara",314416,62,"Male","SARI","Breathlessness","DM",2020-08-26,2020-08-26,2020-08-27,NA
+5330,"Ramanagara",297770,48,"Female","SARI","Fever, Breathlessness","DM",2020-08-21,2020-08-25,2020-08-28,NA
+5391,"Ramanagara",250608,52,"Male","SARI","Cough, Breathlessness","DM",2020-08-18,2020-08-26,2020-08-29,NA
+5545,"Ramanagara",301632,70,"Female","SARI","Breathlessness","-",2020-08-24,2020-08-28,2020-08-30,NA
+5555,"Ramanagara",316277,44,"Male","SARI","Breathlessness","DM",2020-08-25,2020-08-29,2020-08-30,NA
+5618,"Ramanagara",283200,60,"Male","SARI","Cough, Breathlessness","DM, HTN",2020-08-23,2020-08-29,2020-08-31,NA
+5679,"Ramanagara",337816,92,"Male","SARI","Breathlessness","COPD",2020-08-28,2020-08-31,2020-08-31,NA
+5811,"Ramanagara",347331,90,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-30,2020-08-31,2020-09-01,NA
+5902,"Ramanagara",320724,70,"Male","Contact under tracing","-","HTN, CVA",2020-08-27,2020-08-31,2020-09-02,NA
+6170,"Ramanagara",206521,60,"Male","ILI","Fever","HTN",2020-08-12,2020-09-04,2020-09-05,NA
+6244,"Ramanagara",353766,49,"Male","ILI","Fever","DM",2020-08-31,2020-09-04,2020-09-05,NA
+6294,"Ramanagara",396519,52,"Male","SARI","Breathlessness","DM",2020-09-04,2020-09-04,2020-09-05,NA
+6433,"Ramanagara",246647,65,"Female","SARI","Fever, Breathlessness","DM, HTN",2020-08-17,2020-09-06,2020-09-07,NA
+6641,"Ramanagara",392395,63,"Male","SARI","Breathlessness","-",2020-09-04,2020-09-04,2020-09-08,NA
+6723,"Ramanagara",350418,62,"Male","ILI","Fever, Cough","DM, HTN",2020-08-03,2020-09-07,2020-09-09,NA
+6972,"Ramanagara",352650,73,"Male","Contac t under tracing","-","DM, CVA",2020-08-30,2020-09-08,2020-09-11,NA
+7296,"Ramanagara",395471,51,"Male","Contact under tracing","Fever, Cough, Breathlessness","DM",2020-09-05,2020-09-10,2020-09-14,NA
+7479,"Ramanagara",125391,55,"Male","SARI","Cough, Breathlessness","DM",NA,2020-07-30,2020-09-16,"Died at his residence"
+7480,"Ramanagara",206005,41,"Male","SARI","Breathlessness","DM, HTN, IHD",2020-08-12,2020-08-12,2020-09-16,NA
+7481,"Ramanagara",238828,45,"Male","ILI","Fever, Cough","DM",2020-08-16,2020-08-17,2020-09-16,NA
+7482,"Ramanagara",281664,50,"Male","ILI","Fever, Cough","DM",2020-08-21,2020-09-13,2020-09-16,NA
+7489,"Ramanagara",352651,55,"Male","ILI","Fever, Cough","-",2020-08-30,2020-09-04,2020-09-16,NA
+8437,"Ramanagara",457625,40,"Male","SARI","Cough, Breathlessness","-",2020-09-11,2020-09-23,2020-09-26,NA
+8440,"Ramanagara",466220,60,"Male","SARI","Cough, Breathlessness","-",2020-09-12,2020-09-20,2020-09-26,NA
+8764,"Ramanagara",572181,47,"Male","SARI","Breathlessness","DM, CKD",2020-09-22,2020-09-25,2020-09-29,NA
+8962,"Ramanagara",562744,65,"Female","ILI","Fever, Cough","DM",2020-09-23,2020-09-25,2020-10-01,NA
+9320,"Ramanagara",574641,70,"Female","ILI","Fever, Cough","DM, HTN",2020-09-25,2020-09-29,2020-10-05,NA
+9332,"Ramanagara",593655,45,"Male","SARI","Breathlessness","DM, HTN",2020-09-26,2020-09-30,2020-10-05,NA
+9434,"Ramanagara",614690,50,"Female","SARI","Breathlessness","-",2020-09-29,2020-10-02,2020-10-06,NA
+9446,"Ramanagara",629007,50,"Male","SARI","Breathlessness","DM, HTN",2020-09-29,2020-10-02,2020-10-06,NA
+9530,"Ramanagara",611364,57,"Male","SARI","Breathlessness","_",2020-09-29,2020-10-06,2020-10-07,NA
+9536,"Ramanagara",620136,82,"Male","SARI","Cough, Breathlessness","_",2020-09-30,2020-10-06,2020-10-07,NA
+9543,"Ramanagara",632726,58,"Male","SARI","Breathlessness","_",2020-10-01,2020-10-05,2020-10-07,NA
+9644,"Ramanagara",617014,62,"Male","ILI","Fever, Cough","-",NA,2020-08-29,2020-10-08,"Brought dead"
+9990,"Ramanagara",613466,65,"Male","SARI","Breathlessness","DM, HTN",2020-09-29,2020-10-08,2020-10-12,NA
+10010,"Ramanagara",653562,70,"Female","SARI","Cough, Breathlessness","DM, HTN",2020-10-03,2020-10-08,2020-10-12,NA
+10077,"Ramanagara",664333,61,"Male","Contact under tracing","Fever, Cough","DM, HTN",2020-10-04,2020-10-09,2020-10-13,NA
+10082,"Ramanagara",670664,45,"Female","Contact under tracing","Breathlessness","-",2020-10-05,2020-10-09,2020-10-13,NA
+10083,"Ramanagara",670671,53,"Male","Contact under tracing","Breathlessness","-",2020-10-05,2020-10-12,2020-10-13,NA
+10394,"Ramanagara",682942,55,"Female","ILI","Fever, Cough","HTN",2020-10-07,2020-10-14,2020-10-17,NA
+10540,"Ramanagara",768052,35,"Male","Contact under tracing","-","-",NA,2020-10-16,2020-10-19,"Brought dead"
+10616,"Ramanagara",783250,75,"Female","SARI","Breathlessness","DM",2020-10-18,2020-10-19,2020-10-20,NA
+10659,"Ramanagara",734121,75,"Female","SARI","Breathlessness","DM",2020-10-12,2020-10-19,2020-10-21,NA
+10723,"Ramanagara",702079,65,"Female","Contact under tracing","-","DM, HTN, CVA",NA,2020-09-10,2020-10-22,"Brought dead"
+10943,"Ramanagara",789071,47,"Female","SARI","Breathlessness","HTN",2020-10-15,2020-10-24,2020-10-26,NA
+11011,"Ramanagara",717830,80,"Male","SARI","Cough, Breathlessness","-",2020-10-10,2020-10-20,2020-10-28,NA
+11030,"Ramanagara",781931,75,"Male","SARI","Breathlessness","DM",2020-10-18,2020-10-20,2020-10-28,NA
+11068,"Ramanagara",763835,70,"Male","SARI","Cough, Breathlessness","HTN",2020-10-15,2020-10-16,2020-10-29,NA
+11168,"Ramanagara",811225,82,"Male","SARI","Breathlessness","-",2020-10-23,2020-10-29,2020-10-31,NA
+11218,"Ramanagara",822589,55,"Female","SARI","Breathlessness","DM, HTN",2020-10-26,2020-11-01,2020-11-02,NA
+11269,"Ramanagara",811609,48,"Female","SARI","Breathlessness","DM, HTN",2020-10-23,2020-11-04,2020-11-04,NA
+11287,"Ramanagara",840677,82,"Male","ILI","Fever, Cough","DM",2020-11-01,2020-11-04,2020-11-04,NA
+11498,"Ramanagara",863904,45,"Male","SARI","Breathlessness","-",2020-11-09,2020-11-12,2020-11-13,NA
+11926,"Ramanagara",910055,47,"Male","Contact under tracing","-","DM",2020-12-09,2020-12-09,2020-12-11,NA
+12097,"Ramanagara",932614,50,"Male","SARI","Breathlessness","-",2020-12-30,2020-12-30,2021-01-01,NA
+12936,"Ramanagara",1071016,67,"Female","ILI","Fever, Cough","DM",2021-04-09,2021-04-12,2021-04-12,NA
+13100,"Ramanagara",1083431,60,"Female","ILI","Fever, Cough","DM",2021-04-11,2021-04-13,2021-04-15,NA
+13148,"Ramanagara",1079200,60,"Female","ILI","Fever","DM",2021-04-11,2021-04-14,2021-04-16,NA
+13386,"Ramanagara",1059981,47,"Male","ILI","Fever","-",2021-04-12,2021-04-16,2021-04-19,NA
+13566,"Ramanagara",1127497,40,"Male","ILI","Fever, Cough","DM",2021-04-14,2021-04-15,2021-04-20,NA
+13701,"Ramanagara",1142692,46,"Male","SARI","Breathlessness","-",2021-04-15,2021-04-16,2021-04-21,NA
+13706,"Ramanagara",1146291,31,"Male","ILI","Fever, Cough","-",2021-04-16,2021-04-18,2021-04-21,NA
+13998,"Ramanagara",1173090,44,"Female","SARI","Breathlessness","_",2021-04-16,2021-04-18,2021-04-23,NA
+14449,"Ramanagara",1125780,40,"Male","ILI","Fever, Cough","DM",2021-04-15,2021-04-21,2021-04-26,NA
+14520,"Ramanagara",1274958,65,"Female","SARI","Breathlessness","DM",2021-04-22,2021-04-22,2021-04-26,NA
+14522,"Ramanagara",1277943,40,"Female","ILI","Fever","DM",2021-04-22,2021-04-24,2021-04-26,NA
+14537,"Ramanagara",1304972,72,"Female","ILI","Fever, cough","DM",2021-04-22,2021-04-25,2021-04-26,NA
+14539,"Ramanagara",1307237,27,"Male","SARI","Breathlessness","_",2021-04-22,2021-04-22,2021-04-26,NA
+14679,"Ramanagara",1202035,71,"Male","ILI","Fever","DM",2021-04-20,2021-04-25,2021-04-27,NA
+14695,"Ramanagara",1231232,40,"Male","ILI","Fever, Cough","-",2021-04-23,2021-04-25,2021-04-27,NA
+14716,"Ramanagara",1267422,48,"Male","SARI","Breathlessness","-",2021-04-23,2021-04-25,2021-04-27,NA
+14747,"Ramanagara",1331710,54,"Male","ILI","Fever, Cough","DM",2021-04-24,2021-04-24,2021-04-27,NA
+14760,"Ramanagara",1349973,55,"Female","SARI","Breathlessness","-",2021-04-24,2021-04-25,2021-04-27,NA
+14763,"Ramanagara",1352664,72,"Male","ILI","Cough","DM",2021-04-22,2021-04-25,2021-04-27,NA
+14903,"Ramanagara",1265194,63,"Female","ILI","Fever","DM",2021-04-21,2021-04-27,2021-04-28,NA
+14923,"Ramanagara",1302014,78,"Female","ILI","Fever, Cough","DM",2021-04-25,2021-04-26,2021-04-28,NA
+14926,"Ramanagara",1305011,76,"Male","ILI","Fever, Cough","DM",2021-04-24,2021-04-25,2021-04-28,NA
+15008,"Ramanagara",1407126,50,"Male","SARI","Breathlessness","-",2021-04-25,2021-04-26,2021-04-28,NA
+15019,"Ramanagara",1412240,50,"Female","SARI","Breathlessness","CVA",2021-04-26,2021-04-27,2021-04-28,NA
+15163,"Ramanagara",1308263,55,"Male","ILI","Fever, Cough","DM, HTN",2021-04-23,2021-04-27,2021-04-29,NA
+15208,"Ramanagara",1384913,23,"Female","SARI","Breathlessness","-",2021-04-28,2021-04-28,2021-04-29,NA
+15244,"Ramanagara",1432416,36,"Male","SARI","Breathlessness","-",2021-04-26,2021-04-28,2021-04-29,NA
+15248,"Ramanagara",1435096,55,"Male","SARI","Fever","-",2021-04-26,2021-04-28,2021-04-29,NA
+15442,"Ramanagara",1414915,64,"Female","ILI","Fever, Cough","-",2021-04-26,2021-04-29,2021-04-30,NA
+15444,"Ramanagara",1417913,29,"Female","SARI","Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15485,"Ramanagara",1478847,40,"Male","ILI","Fever, Cough","DM",2021-04-28,2021-04-30,2021-04-30,NA
+15487,"Ramanagara",1481172,58,"Male","SARI","Breathlessness","-",2021-04-28,2021-04-29,2021-04-30,NA
+15488,"Ramanagara",1482650,31,"Male","ILI","Fever, Cough","DM",2021-04-28,2021-04-28,2021-04-30,NA
+15660,"Ramanagara",1357926,55,"Female","ILI","Fever, Cough","DM",2021-04-26,2021-05-01,2021-05-01,NA
+15734,"Ramanagara",1484014,43,"Female","ILI","Fever, Cough","-",2021-04-28,2021-04-28,2021-05-01,NA
+15737,"Ramanagara",1491469,55,"Female","ILI","Fever","DM",2021-04-28,2021-05-01,2021-05-01,NA
+15759,"Ramanagara",1520623,26,"Male","SARI","Breathlessness","-",2021-04-29,2021-04-30,2021-05-01,NA
+15854,"Ramanagara",1318139,30,"Male","ILI","Fever, Cough","-",2021-04-23,2021-05-02,2021-05-02,NA
+15874,"Ramanagara",1365026,58,"Male","ILI","Fever, Cough","DM",2021-04-24,2021-04-24,2021-05-02,NA
+15929,"Ramanagara",1469146,60,"Male","SARI","Breathlessness","-",2021-04-27,2021-05-01,2021-05-02,NA
+15935,"Ramanagara",1484591,74,"Male","SARI","Breathlessness","HTN",2021-04-28,2021-05-01,2021-05-02,NA
+15945,"Ramanagara",1509072,48,"Male","ILI","Fever, Cough","DM",2021-04-29,2021-05-01,2021-05-02,NA
+15971,"Ramanagara",1569646,65,"Female","SARI","Breathlessness","DM",2021-04-30,2021-05-01,2021-05-02,NA
+15982,"Ramanagara",1594127,75,"Male","ILI","Fever, Cough","DM",2021-04-30,2021-05-01,2021-05-02,NA
+15985,"Ramanagara",1597291,65,"Male","ILI","Fever, Cough","DM",2021-04-30,2021-05-01,2021-05-02,NA
+16159,"Ramanagara",1479940,80,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-05-01,2021-05-03,NA
+16173,"Ramanagara",1502427,64,"Male","ILI","Fever","-",2021-04-28,2021-05-02,2021-05-03,NA
+16185,"Ramanagara",1525012,45,"Male","ILI","Fever","DM, HTN",2021-04-29,2021-05-02,2021-05-03,NA
+16309,"Ramanagara",1236289,97,"Female","SARI","Fever, Breathlessness","DM",2021-04-20,2021-04-23,2021-05-04,NA
+16346,"Ramanagara",1346590,60,"Female","ILI","Fever, Cough","-",2021-04-20,2021-04-24,2021-05-04,NA
+16429,"Ramanagara",1517021,40,"Female","SARI","Fever, Breathlessness","-",2021-04-28,2021-04-29,2021-05-04,NA
+16460,"Ramanagara",1594130,39,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-03,2021-05-04,NA
+16694,"Ramanagara",1399206,40,"Male","SARI","Breathlessness","-",2021-04-28,2021-05-03,2021-05-05,NA
+16772,"Ramanagara",1544837,61,"Male","SARI","Fever, Breathlessness","DM",2021-04-30,2021-05-03,2021-05-05,NA
+17022,"Ramanagara",1481653,40,"Female","SARI","Breathlessness","-",2021-04-27,2021-05-05,2021-05-06,NA
+17065,"Ramanagara",1537664,45,"Male","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-06,NA
+17166,"Ramanagara",1708737,38,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-05,2021-05-06,NA
+17185,"Ramanagara",1751434,62,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-06,NA
+17187,"Ramanagara",1753623,48,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17189,"Ramanagara",1757627,35,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-06,NA
+17190,"Ramanagara",1757636,84,"Male","SARI","Fever, Breathlessness","HTN",2021-05-05,2021-05-05,2021-05-06,NA
+17203,"Ramanagara",1800612,55,"Female","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17204,"Ramanagara",1800615,65,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-05,2021-05-06,NA
+17486,"Ramanagara",1502429,55,"Male","ILI","Fever","-",2021-04-28,2021-05-05,2021-05-07,NA
+17552,"Ramanagara",1565312,62,"Male","ILI","Fever","-",2021-05-02,2021-05-06,2021-05-07,NA
+17576,"Ramanagara",1594100,35,"Male","ILI","Fever","-",2021-04-29,2021-05-06,2021-05-07,NA
+17642,"Ramanagara",1662147,44,"Female","SARI","Breathlessness","-",2021-04-29,2021-05-05,2021-05-07,NA
+17695,"Ramanagara",1719704,55,"Female","ILI","Fever","DM",2021-05-03,2021-05-03,2021-05-07,NA
+17753,"Ramanagara",1786293,65,"Female","SARI","Breathlessness","DM",2021-05-04,2021-05-05,2021-05-07,NA
+17758,"Ramanagara",1792806,62,"Male","ILI","Fever, Cough","-",2021-05-05,2021-05-05,2021-05-07,NA
+17761,"Ramanagara",1795759,49,"Male","ILI","Fever","-",2021-05-05,2021-05-05,2021-05-07,NA
+17805,"Ramanagara",1877779,55,"Female","SARI","Breathlessness","HTN",2021-05-04,2021-05-04,2021-05-07,NA
+17808,"Ramanagara",1894434,26,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-06,2021-05-07,NA
+18085,"Ramanagara",1569052,55,"Female","SARI","Breathlessness","-",2021-04-29,2021-05-06,2021-05-08,NA
+18112,"Ramanagara",1608791,30,"Male","SARI","Breathlessness","-",2021-04-30,2021-05-06,2021-05-08,NA
+18121,"Ramanagara",1625607,35,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-07,2021-05-08,NA
+18148,"Ramanagara",1669616,70,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-06,2021-05-08,NA
+18211,"Ramanagara",1795758,55,"Male","SARI","Breathlessness","DM, HTN",2021-04-30,2021-05-02,2021-05-08,NA
+18212,"Ramanagara",1800616,85,"Female","SARI","Breathlessness","CA",2021-05-05,2021-05-05,2021-05-08,NA
+18246,"Ramanagara",1847701,60,"Female","SARI","Breathlessness","DM",2021-05-06,2021-05-06,2021-05-08,NA
+18489,"Ramanagara",1529460,45,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18510,"Ramanagara",1567117,70,"Male","SARI","Breathlessness","DM",2021-04-30,2021-05-07,2021-05-09,NA
+18559,"Ramanagara",1625602,48,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-08,2021-05-09,NA
+18564,"Ramanagara",1632237,68,"Female","SARI","Breathlessness","HTN",2021-05-01,2021-05-08,2021-05-09,NA
+18611,"Ramanagara",1719713,34,"Male","SARI","Fever, Breathlessness","-",2021-05-02,2021-05-08,2021-05-09,NA
+18633,"Ramanagara",1750374,43,"Male","SARI","Fever, Breathlessness","HTN",2021-05-04,2021-05-06,2021-05-09,NA
+18690,"Ramanagara",1846959,55,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18722,"Ramanagara",1895881,50,"Female","SARI","Fever, Breathlessness","-",2021-05-06,2021-05-08,2021-05-09,NA
+18740,"Ramanagara",1918963,45,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18741,"Ramanagara",1918966,75,"Female","ILI","Fever","HTN",2021-05-07,2021-05-08,2021-05-09,NA
+18749,"Ramanagara",1930925,70,"Male","SARI","Fever, Breathlessness","-",2021-05-07,2021-05-08,2021-05-09,NA
+18768,"Ramanagara",1950048,75,"Male","SARI","Breathlessness","HTN, DM",2021-05-05,2021-05-06,2021-05-09,NA
+18771,"Ramanagara",1951980,70,"Female","SARI","Breathlessness","HTN",2021-05-07,2021-05-07,2021-05-09,NA
+19161,"Ramanagara",1669614,61,"Male","SARI","Breathlessness","-",2021-05-02,2021-05-09,2021-05-10,NA
+19212,"Ramanagara",1761932,32,"Male","ILI","Fever, Cough","-",2021-05-06,2021-05-09,2021-05-10,NA
+19237,"Ramanagara",1800610,54,"Female","SARI","Breathlessness","DM, HTN",2021-05-05,2021-05-09,2021-05-10,NA
+19299,"Ramanagara",1887819,35,"Male","SARI","Breathlessness","-",2021-05-05,2021-05-09,2021-05-10,NA
+19314,"Ramanagara",1912333,50,"Female","SARI","Fever, Breathlessness","HTN",2021-05-08,2021-05-09,2021-05-10,NA
+19320,"Ramanagara",1915620,65,"Male","SARI","Breathlessness","DM",2021-05-05,2021-05-08,2021-05-10,NA
+19324,"Ramanagara",1918964,40,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-09,2021-05-10,NA
+19639,"Ramanagara",1745363,75,"Female","SARI","Breathlessness","-",2021-05-03,2021-05-06,2021-05-11,NA
+19784,"Ramanagara",1911513,27,"Male","SARI","Breathlessness","-",2021-05-07,2021-05-08,2021-05-11,NA
+19806,"Ramanagara",1950065,50,"Male","SARI","Breathlessness","-",2021-05-09,2021-05-10,2021-05-11,NA
+19964,"Ramanagara",1650848,70,"Male","SARI","Breathlessness","DM",2021-05-09,2021-05-12,2021-05-12,NA
+20206,"Ramanagara",1887795,65,"Female","ILI","Fever, Cough","-",2021-05-05,2021-05-12,2021-05-12,NA
+20214,"Ramanagara",1895859,44,"Female","SARI","Breathlessness","-",2021-05-06,2021-05-11,2021-05-12,NA
+20283,"Ramanagara",1957708,56,"Male","ILI","Fever","-",2021-05-10,2021-05-12,2021-05-12,NA
+20357,"Ramanagara",2046957,35,"Male","SARI","Breathlessness","-",2021-05-10,2021-05-10,2021-05-12,NA
+20535,"Ramanagara",1765828,55,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-09,2021-05-13,NA
+20591,"Ramanagara",1915622,75,"Female","SARI","Breathlessness","-",2021-05-09,2021-05-11,2021-05-13,NA
+20618,"Ramanagara",1963981,55,"Male","SARI","Breathlessness","-",2021-05-08,2021-05-08,2021-05-13,NA
+20680,"Ramanagara",2058365,60,"Female","SARI","Breathlessness","-",2021-05-10,2021-05-11,2021-05-13,NA
+20838,"Ramanagara",1748500,60,"Female","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-14,NA
+20898,"Ramanagara",1892953,60,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-10,2021-05-11,2021-05-14,NA
+20901,"Ramanagara",1903013,52,"Male","SARI","Breathlessness","-",2021-05-06,2021-05-06,2021-05-14,NA
+20917,"Ramanagara",1940362,55,"Female","SARI","Cough, Breathlessness","-",2021-05-10,2021-05-12,2021-05-14,NA
+20918,"Ramanagara",1942712,70,"Male","SARI","Breathlessness","DM",2021-05-09,2021-05-12,2021-05-14,NA
+20925,"Ramanagara",1957702,81,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-09,2021-05-13,2021-05-14,NA
+20945,"Ramanagara",1981571,31,"Male","ILI","Fever","-",2021-05-08,2021-05-12,2021-05-14,NA
+20946,"Ramanagara",1981594,73,"Male","SARI","Cough, Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+20972,"Ramanagara",2032210,0.01,"Female","SARI","Breathlessness","-",2021-05-07,2021-05-10,2021-05-14,NA
+20999,"Ramanagara",2055340,41,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-13,2021-05-14,NA
+21032,"Ramanagara",2111206,48,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-12,2021-05-14,NA
+21057,"Ramanagara",2138433,40,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-12,2021-05-12,2021-05-14,NA
+21075,"Ramanagara",2153899,83,"Male","SARI","Breathlessness","HTN",2021-05-13,2021-05-13,2021-05-14,NA
+21212,"Ramanagara",1812128,42,"Male","SARI","Fever, Breathlessness","-",2021-05-05,2021-05-13,2021-05-15,NA
+21305,"Ramanagara",2025595,72,"Female","SARI","Breathlessness","-",2021-05-11,2021-05-13,2021-05-15,NA
+21367,"Ramanagara",2106084,63,"Male","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-15,NA
+21379,"Ramanagara",2138449,38,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-15,NA
+21418,"Ramanagara",2187459,45,"Female","SARI","Breathlessness","-",2021-05-13,2021-05-14,2021-05-15,NA
+21434,"Ramanagara",2206420,76,"Female","SARI","Breathlessness","-",2021-05-14,2021-05-15,2021-05-15,NA
+21580,"Ramanagara",1757635,81,"Female","ILI","Fever","-",2021-05-06,2021-05-11,2021-05-16,NA
+21586,"Ramanagara",1773262,50,"Male","SARI","Breathlessness","-",2021-05-04,2021-05-04,2021-05-16,NA
+21610,"Ramanagara",1861962,60,"Female","SARI","Breathlessness","-",2021-05-12,2021-05-13,2021-05-16,NA
+21697,"Ramanagara",2037916,36,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-11,2021-05-14,2021-05-16,NA
+21799,"Ramanagara",2169785,68,"Male","SARI","Breathlessness","-",2021-05-13,2021-05-13,2021-05-16,NA
+22180,"Ramanagara",2118592,60,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-16,2021-05-17,NA
+22255,"Ramanagara",2216230,44,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-16,2021-05-17,NA
+22258,"Ramanagara",2218504,83,"Male","ILI","Fever, Cough","-",2021-05-14,2021-05-15,2021-05-17,NA
+22287,"Ramanagara",2247320,45,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-16,2021-05-17,NA
+22308,"Ramanagara",2275303,40,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-16,2021-05-17,NA
+22312,"Ramanagara",2284748,45,"Male","SARI","Breathlessness","-",2021-05-15,2021-05-15,2021-05-17,NA
+22663,"Ramanagara",2058364,68,"Male","SARI","Breathlessness","DM",2021-05-10,2021-05-17,2021-05-18,NA
+22723,"Ramanagara",2149050,55,"Female","ILI","Fever, Cough","-",2021-05-13,2021-05-17,2021-05-18,NA
+22820,"Ramanagara",2275302,55,"Female","ILI","Fever, Cough","-",2021-05-16,2021-05-17,2021-05-18,NA
+22995,"Ramanagara",1776825,65,"Male","SARI","Fever, Breathlessness","HTN",2021-05-05,2021-05-18,2021-05-19,NA
+23085,"Ramanagara",2025590,80,"Male","ILI","Cough","-",2021-05-09,2021-05-18,2021-05-19,NA
+23086,"Ramanagara",2025603,45,"Male","SARI","Breathlessness","COPD",2021-05-16,2021-05-18,2021-05-19,NA
+23293,"Ramanagara",2303681,65,"Male","ILI","Cough","DM, HTN",2021-05-18,2021-05-18,2021-05-19,NA
+23300,"Ramanagara",2327126,90,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-18,2021-05-19,NA
+23307,"Ramanagara",2345009,63,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-19,2021-05-19,NA
+23681,"Ramanagara",2127852,56,"Male","ILI","Fever, cough","DM",2021-05-17,2021-05-19,2021-05-20,NA
+23696,"Ramanagara",2149044,65,"Male","ILI","Fever","HTN",2021-05-16,2021-05-19,2021-05-20,NA
+23741,"Ramanagara",2216238,35,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-19,2021-05-20,NA
+23761,"Ramanagara",2242971,55,"Female","ILI","Fever, cough","DM",2021-05-15,2021-05-19,2021-05-20,NA
+24014,"Ramanagara",2109277,72,"Male","SARI","Breathlessness","-",2021-05-14,2021-05-19,2021-05-21,NA
+24122,"Ramanagara",2275248,35,"Male","SARI","Breathlessness","-",2021-05-16,2021-05-21,2021-05-21,NA
+24500,"Ramanagara",2135154,42,"Male","SARI","Breathlessness","_",2021-05-12,2021-05-16,2021-05-22,NA
+24591,"Ramanagara",2333626,37,"Female","SARI","Breathlessness","CKD",2021-05-18,2021-05-19,2021-05-22,NA
+24615,"Ramanagara",2361090,41,"Male","SARI","Fever, Breathlessness","-",2021-05-19,2021-05-22,2021-05-22,NA
+25164,"Ramanagara",2316620,56,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-05-19,2021-05-22,2021-05-23,NA
+25177,"Ramanagara",2333664,38,"Male","SARI","Fever, Cough, Breathlessness","-",2021-05-18,2021-05-23,2021-05-23,NA
+25208,"Ramanagara",2367965,65,"Female","SARI","Cough, Breathlessness","-",2021-05-19,2021-05-23,2021-05-23,NA
+25222,"Ramanagara",2381937,48,"Male","ILI","Fever","DM",2021-05-19,2021-05-21,2021-05-23,NA
+25227,"Ramanagara",2384686,55,"Female","SARI","Fever, Cough, Breathlessness","-",2021-05-21,2021-05-22,2021-05-23,NA
+25281,"Ramanagara",2451924,44,"Male","ILI","Fever, Cough","-",2021-05-20,2021-05-21,2021-05-23,NA
+25287,"Ramanagara",2475591,55,"Female","SARI","Cough, Breathlessness","-",2021-05-22,2021-05-22,2021-05-23,NA
+25714,"Ramanagara",2377918,39,"Male","SARI","Breathlessness","-",2021-05-19,2021-05-23,2021-05-24,NA
+25746,"Ramanagara",2411524,73,"Male","SARI","Breathlessness","DM",2021-05-21,2021-05-24,2021-05-24,NA
+26240,"Ramanagara",2294823,32,"Female","ILI","Fever","-",2021-05-11,2021-05-23,2021-05-25,NA
+26256,"Ramanagara",2312768,92,"Male","SARI","Breathlessness","HTN",2021-05-18,2021-05-23,2021-05-25,NA
+26389,"Ramanagara",2491639,41,"Female","SARI","Breathlessness","-",2021-05-24,2021-05-24,2021-05-25,NA
+26762,"Ramanagara",2257839,73,"Male","SARI","Fever, Breathlessness","-",2021-05-15,2021-05-25,2021-05-26,NA
+26800,"Ramanagara",2338188,36,"Female","SARI","Breathlessness","-",2021-05-18,2021-05-19,2021-05-26,NA
+26855,"Ramanagara",2431415,70,"Female","SARI","Fever, Breathlessness","HTN",2021-05-21,2021-05-22,2021-05-26,NA
+26881,"Ramanagara",2475601,51,"Female","SARI","Fever, Breathlessness","-",2021-05-25,2021-05-25,2021-05-26,NA
+26914,"Ramanagara",2508792,41,"Male","SARI","Fever, Breathlessness","-",2021-05-24,2021-05-25,2021-05-26,NA
+27284,"Ramanagara",2376020,48,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-26,2021-05-27,NA
+28623,"Ramanagara",2521579,45,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-29,2021-05-30,NA
+28629,"Ramanagara",2530632,65,"Male","ILI","Fever","-",2021-05-24,2021-05-29,2021-05-30,NA
+28670,"Ramanagara",2595277,84,"Male","ILI","Fever","DM, HTN",2021-05-28,2021-05-29,2021-05-30,NA
+28991,"Ramanagara",2498045,74,"Male","SARI","Breathlessness","-",2021-05-24,2021-05-30,2021-05-31,NA
+29007,"Ramanagara",2522944,48,"Male","SARI","Breathlessness","-",2021-05-25,2021-05-30,2021-05-31,NA
+29040,"Ramanagara",2572166,47,"Male","SARI","Breathlessness","-",2021-05-27,2021-05-30,2021-05-31,NA
+29440,"Ramanagara",2475611,76,"Male","SARI","Breathlessness","-",2021-05-22,2021-05-31,2021-06-01,NA
+29515,"Ramanagara",2580996,36,"Female","SARI","Breathlessness","-",2021-05-27,2021-05-30,2021-06-01,NA
+29554,"Ramanagara",2646636,59,"Male","SARI","Breathlessness","-",2021-05-30,2021-06-01,2021-06-01,NA
+29971,"Ramanagara",2622421,35,"Female","SARI","Breathlessness","COPD",2021-05-29,2021-05-31,2021-06-02,NA
+30429,"Ramanagara",2577263,48,"Male","ILI","Fever, Cough","DM",2021-05-27,2021-06-01,2021-06-03,NA
+30799,"Ramanagara",2564902,70,"Male","SARI","Fever, Breathlessness","HTN",2021-05-25,2021-06-03,2021-06-04,NA
+30806,"Ramanagara",2577249,68,"Male","ILI","Fever","DM, HTN",2021-05-28,2021-06-03,2021-06-04,NA
+30836,"Ramanagara",2627295,45,"Male","SARI","Fever, Breathlessness","HTN",2021-05-29,2021-06-04,2021-06-04,NA
+30895,"Ramanagara",2701421,75,"Female","ILI","Fever","DM",2021-06-03,2021-06-03,2021-06-04,NA
+31197,"Ramanagara",2638557,62,"Male","SARI","Fever, Cough, Breathlessness","HTN",2021-05-29,2021-05-30,2021-06-05,NA
+31826,"Ramanagara",2630404,60,"Female","SARI","Breathlessness","HTN",2021-06-03,2021-06-06,2021-06-07,NA
+31889,"Ramanagara",2703781,70,"Male","ILI","Fever, Cough","DM",2021-06-01,2021-06-06,2021-06-07,NA
+31907,"Ramanagara",2726481,72,"Female","ILI","Fever, Cough","-",2021-06-04,2021-06-06,2021-06-07,NA
+32092,"Ramanagara",2741835,32,"Male","ILI","Fever, Cough","DM",2021-06-06,2021-06-08,2021-06-08,NA
+32095,"Ramanagara",2745162,62,"Male","ILI","Fever","-",NA,2021-06-07,2021-06-08,"Brought dead"
+32250,"Ramanagara",2729448,80,"Male","ILI","Fever","DM",2021-06-06,2021-06-07,2021-06-09,NA
+32484,"Ramanagara",2768884,70,"Female","ILI","Fever","HTN",2021-06-08,2021-06-09,2021-06-10,NA
+32636,"Ramanagara",2772016,60,"Male","ILI","Fever","COPD",2021-06-08,2021-06-10,2021-06-11,NA
+33135,"Ramanagara",2794116,28,"Male","ILI","Fever","-",2021-06-11,2021-06-15,2021-06-15,NA
+33136,"Ramanagara",2798888,73,"Male","SARI","Breathlessness","DM",2021-06-11,2021-06-11,2021-06-15,NA
+33250,"Ramanagara",2765179,58,"Male","SARI","Breathlessness","-",2021-06-10,2021-06-14,2021-06-16,NA
+33287,"Ramanagara",2817996,68,"Male","SARI","Breathlessness","DM",2021-06-14,2021-06-16,2021-06-16,NA
+33396,"Ramanagara",2782330,70,"Female","SARI","Fever, Cough, Breathlessness","HTN",2021-06-09,2021-06-17,2021-06-17,NA
+33537,"Ramanagara",2780228,73,"Female","SARI","Breathlessness","DM, HTN",2021-06-08,2021-06-17,2021-06-18,NA
+33748,"Ramanagara",2842243,60,"Female","SARI","Breathlessness","-",2021-06-18,2021-06-18,2021-06-19,NA
+33896,"Ramanagara",2358853,56,"Male","SARI","Breathlessness","DM",2021-05-19,2021-05-29,2021-06-21,NA
+33993,"Ramanagara",2809711,21,"Male","ILI","Fever","IHD",2021-06-12,2021-06-15,2021-06-21,NA
+33997,"Ramanagara",2817993,52,"Female","SARI","Fever, Breathlesness","-",2021-06-09,2021-06-19,2021-06-21,NA
+34510,"Ramanagara",2838966,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-18,2021-06-23,2021-06-25,NA
+34543,"Ramanagara",100001854,70,"Male","ILI","Fever","-",2021-06-24,2021-06-25,2021-06-25,NA
+34624,"Ramanagara",2838966,75,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-06-18,2021-06-23,2021-06-25,NA
+34657,"Ramanagara",100001854,70,"Male","ILI","Fever","-",2021-06-24,2021-06-25,2021-06-25,NA
+34925,"Ramanagara",2862757,46,"Female","SARI ","Fever, Breathlessness ","DM, CKD ",2021-06-23,2021-06-27,2021-06-28,NA
+35015,"Ramanagara",2856252,65,"Male","SARI ","Fever, Cough ","- ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35047,"Ramanagara",100002113,36,"Male","SARI ","Fever, Breathlessness ","CLD ",NA,NA,NA,"29+AC0-06+AC0-2021"
+35379,"Ramanagara",2853049,42,"Female","SARI","Breathlessness","-",2021-06-21,2021-07-01,2021-07-03,NA
+35424,"Ramanagara",100002217,34,"Male","ILI","Fever","-",2021-06-29,2021-07-03,2021-07-03,NA
+35521,"Ramanagara",2854175,68,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-06-21,2021-07-05,2021-07-05,NA
+35544,"Ramanagara",2895430,49,"Male","SARI","Fever, Cough, Breathlessness","DM",2021-07-04,2021-07-05,2021-07-05,NA
+35641,"Ramanagara",100002558,45,"Male","SARI","Breathlessness","DM",2021-07-04,2021-07-06,2021-07-06,NA
+35716,"Ramanagara",100002324,43,"Male","SARI","Fever, Cough, Breathlessness","-",2021-07-01,2021-07-07,2021-07-07,NA
+35780,"Ramanagara",100002052,50,"Female","SARI","Breathlessness","-",2021-06-27,2021-07-08,2021-07-08,NA
+35952,"Ramanagara",100002105,77,"Male","SARI","Breathlessness","-",2021-06-28,2021-07-10,2021-07-11,NA
+36002,"Ramanagara",2909524,80,"Female","SARI","Fever, Cough, Breathlessness","DM",2021-07-09,2021-07-10,2021-07-12,NA
