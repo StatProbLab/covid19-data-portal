@@ -5,7 +5,7 @@ import io
 import pandas as pd
 import numpy as np
 from scipy.optimize import least_squares, minimize
-whole_data = pd.read_csv('/opt/lampp/htdocs/covid19-data-portal/Data/kacleaned.csv')
+whole_data = pd.read_csv('Data/kacleaned.csv')
 dates = whole_data.iloc[1,:].unique()[2::]
 threshold = 15
 time_split = [85,56, 95, 75, 100, 90, 20, 100, 60, 60,  90 , 80, 68, 66, 72, 50,81,36, 69, 48, 96,
@@ -95,4 +95,4 @@ for district_index in range(0,30):
     dates1.append(dates_modified[0])
 
 df2=pd.DataFrame(dist_data)
-df2.to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/Distdata.csv') 
+df2.to_csv('Data/Output/Distdata.csv') 

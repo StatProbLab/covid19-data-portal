@@ -8,12 +8,12 @@ import matplotlib.pyplot as plt
 from scipy.optimize import least_squares
 import os
 
-directory_path = "/opt/lampp/htdocs/covid19-data-portal/Data/plots"
+directory_path = "Data/plots"
 
 if not os.path.exists(directory_path):
     os.makedirs(directory_path)
 
-dir_path = "/opt/lampp/htdocs/covid19-data-portal/Data/plots/daily"
+dir_path = "Data/plots/daily"
 
 if not os.path.exists(dir_path):
     os.makedirs(dir_path)
@@ -25,7 +25,7 @@ def prediction1():
     locally_optimise = True
     dates1=[]
     
-    whole_data = pd.read_csv('/opt/lampp/htdocs/covid19-data-portal/Data/kacleaned.csv')
+    whole_data = pd.read_csv('Data/kacleaned.csv')
     dates = whole_data.iloc[1,:].unique()[2::]
     threshold = 15
     
@@ -129,8 +129,7 @@ def prediction1():
         plt.ylabel('Cumulative Infected (log scale)')
         plt.grid(axis='both')
         plt.title('Cumulative infected population'+str(' - ')+district)
-        plt.savefig('/opt/lampp/htdocs/covid19-data-portal/Data/plots/'+ district + '.png')
-        plt.show()
+        plt.savefig('Data/plots/'+ district + '.png')
         plt.close()
         
     
@@ -142,13 +141,12 @@ def prediction1():
         plt.grid(axis='both')
         plt.title('Daily cases prediction'+str(' - ')+district)
         plt.legend()
-        plt.savefig('/opt/lampp/htdocs/covid19-data-portal/Data/plots/daily/'+ district + '.png')
-        plt.show()
+        plt.savefig('Data/plots/daily/'+ district + '.png')
         plt.close()
        
-    pd.DataFrame(predictions).to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/predictions.csv')
-    pd.DataFrame(std_error_1).to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/std_error_1.csv')
-    pd.DataFrame(dates1).to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/dates1.csv')
+    pd.DataFrame(predictions).to_csv('Data/Output/predictions.csv')
+    pd.DataFrame(std_error_1).to_csv('Data/Output/std_error_1.csv')
+    pd.DataFrame(dates1).to_csv('Data/Output/dates1.csv')
 
 
 prediction1()

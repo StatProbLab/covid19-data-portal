@@ -4,7 +4,7 @@ library(lubridate)
 library(reticulate)
 
 # Defining Python Path
-use_python("/home/rashi/anaconda3/bin/python3")
+use_python("/usr/bin/python3")
 
 # Reading CSV files
 pred = read.csv("/opt/lampp/htdocs/covid19-data-portal/Data/Output/predictions.csv")

@@ -7,12 +7,12 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import os
 
-directory_path = "/opt/lampp/htdocs/covid19-data-portal/Data/plots3"
+directory_path = "Data/plots3"
 
 if not os.path.exists(directory_path):
     os.makedirs(directory_path)
 
-dir_path = "/opt/lampp/htdocs/covid19-data-portal/Data/plots3/daily"
+dir_path = "Data/plots3/daily"
 
 if not os.path.exists(dir_path):
     os.makedirs(dir_path)
@@ -24,7 +24,7 @@ predict_forward = 7
 locally_optimise = True
 dates1=[]
 
-whole_data = pd.read_csv('/opt/lampp/htdocs/covid19-data-portal/Data/kacleaned.csv')
+whole_data = pd.read_csv('Data/kacleaned.csv')
 dates = whole_data.iloc[1,:].unique()[2::]
 threshold = 15
 
@@ -120,8 +120,7 @@ for district_index in range(0,num_districts):
     plt.ylabel('Cumulative Infected (log scale)')
     plt.grid(axis='both')
     plt.title('Cumulative infected population'+str(' - ')+district)
-    plt.savefig('/opt/lampp/htdocs/covid19-data-portal/Data/plots3/'+ district + '.png')
-    plt.show()
+    plt.savefig('Data/plots3/'+ district + '.png')
     plt.close()    
 
     plt.plot((np.concatenate((i_data[-7:],np.array([0]))) - i_data[-8::])[0:7],'o',mfc='none', label='Data')    
@@ -132,9 +131,8 @@ for district_index in range(0,num_districts):
     plt.grid(axis='both')
     plt.title('Daily cases prediction'+str(' - ')+district)
     plt.legend()
-    plt.savefig('/opt/lampp/htdocs/covid19-data-portal/Data/plots3/daily/'+ district + '.png')
-    plt.show()
+    plt.savefig('Data/plots3/daily/'+ district + '.png')
     plt.close()
 
-pd.DataFrame(predictions_3_master).to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/predictions3.csv')
-pd.DataFrame(std_error_3).to_csv('/opt/lampp/htdocs/covid19-data-portal/Data/Output/std_error_3.csv')
+pd.DataFrame(predictions_3_master).to_csv('Data/Output/predictions3.csv')
+pd.DataFrame(std_error_3).to_csv('Data/Output/std_error_3.csv')
